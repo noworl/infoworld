@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T15:10:58.230548+00:00",
+  "updated_at": "2026-02-02T18:04:55.494862+00:00",
   "articles": [
     {
       "id": "2a77548f474a",
@@ -8,7 +8,7 @@
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T15:10:54.848100+00:00"
+      "published": "2026-02-02T18:03:45.663598+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -17,7 +17,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T15:10:54.848090+00:00"
+      "published": "2026-02-02T18:03:45.663587+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -26,7 +26,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T15:10:54.848079+00:00"
+      "published": "2026-02-02T18:03:45.663573+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -35,16 +35,106 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T15:10:54.848043+00:00"
+      "published": "2026-02-02T18:03:45.663542+00:00"
     },
     {
-      "id": "a31deb882d80",
-      "title": "Oil Futures Ease Amid U.S.-Iran De-Escalation",
-      "summary": "Crude futures slipped after President Trump expressed belief that Iran is negotiating seriously, easing tensions that supported prices last week.",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-signs-of-u-s-iran-negotiations-82eee722?mod=rss_markets_main",
+      "id": "19db601d341e",
+      "title": "Financial Services Roundup: Market Talk",
+      "summary": "Find insight on homebuyers, the supply of new euro-denominated bank debt and more in the latest Market Talks covering Financial Services.",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-7dc2d427?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-02T15:01:00+00:00"
+      "published": "2026-02-02T17:27:00+00:00"
+    },
+    {
+      "id": "62649085afd1",
+      "title": "Gold and silver prices seesaw as FTSE 100 hits record high",
+      "summary": "Trump’s pick of ‘respected central banker’ Kevin Warsh as Fed chair prompts investors to sell safe haven assetsBusiness news – live updatesGold and silver prices seesawed on Monday, after a “meltdown” in the metals market deepened and rattled investors around the world.Gold prices tumbled by as much...",
+      "url": "https://www.theguardian.com/business/2026/feb/02/plunge-in-price-of-gold-and-silver-rattles-global-stock-markets",
+      "source": "Business | The Guardian",
+      "category": "財經",
+      "published": "2026-02-02T17:24:13+00:00"
+    },
+    {
+      "id": "d598ddb19319",
+      "title": "Auto & Transport Roundup: Market Talk",
+      "summary": "Find insight on Mercedes-Benz, Huawei and more in the latest Market Talks covering Auto and Transport.",
+      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-061a8e4c?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-02T17:24:00+00:00"
+    },
+    {
+      "id": "13208ea9b6d8",
+      "title": "Basic Materials Roundup: Market Talk",
+      "summary": "Find insight on silver futures, the mining sector, Anglo American and more in the latest Market Talks covering Basic Materials.",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-3f79fa07?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-02T17:23:00+00:00"
+    },
+    {
+      "id": "2d573b4001a1",
+      "title": "Interview: Civilization VII’s devs on the big update meant to win critics back",
+      "summary": "Firaxis' Ed Beach and Dennis Shirk talk major overhauls in \"Test of Time\" update.",
+      "url": "https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/",
+      "source": "Ars Technica - All content",
+      "category": "科技",
+      "published": "2026-02-02T17:00:49+00:00"
+    },
+    {
+      "id": "12f40143f5b2",
+      "title": "Advancing AI benchmarking with Game Arena",
+      "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+      "source": "Google DeepMind",
+      "category": "AI",
+      "published": "2026-02-02T17:00:00+00:00"
+    },
+    {
+      "id": "d9f5ffde1e07",
+      "title": "Follow the Changes: 9 Ways Web Archives are Used in Digital Investigations",
+      "summary": "Guest post from Thais Lobo, Liliana Bounegru &#38; Jonathan W. Y. Gray, King&#8217;s College London. This work was supported by the Centre for Digital Culture and Department of Digital Humanities [&#8230;]",
+      "url": "https://blog.archive.org/2026/02/02/follow-the-changes/",
+      "source": "Internet Archive Blogs",
+      "category": "媒體/文化",
+      "published": "2026-02-02T16:49:01+00:00"
+    },
+    {
+      "id": "bfd4dedef770",
+      "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
+      "summary": "A Social Network for A.I. Bots Only. No Humans Allowed.\nI talked to Cade Metz for this New York Times piece on OpenClaw and Moltbook. Cade reached out after seeing my blog post about that from the other day.\nIn a first for me, they decided to send a photographer, Jason Henry, to my home to take some...",
+      "url": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "category": "媒體/文化",
+      "published": "2026-02-02T16:42:46+00:00"
+    },
+    {
+      "id": "4003cd3d33e4",
+      "title": "Here's what Cities: Skylines 2’s new developer is updating first",
+      "summary": "Visual upgrades include new UI, realistic snow cover, better lighting.",
+      "url": "https://arstechnica.com/gaming/2026/02/heres-what-cities-skylines-2s-new-developer-is-updating-first/",
+      "source": "Ars Technica - All content",
+      "category": "科技",
+      "published": "2026-02-02T16:32:52+00:00"
+    },
+    {
+      "id": "462d8103e35b",
+      "title": "房慧真／斷垣殘壁、灰飛湮滅中的文化接棒──讀《直視戰爭的女人》",
+      "summary": "《直視戰爭的女人》一開頭，36歲的小說家、也是一位母親的阿梅莉納，在俄烏戰爭前夕買了人生第一把槍。如今戰爭仍在繼續，亡者與生者間的文學接力也還在進行，阿梅莉納隨手記下的筆記，編者在這本遺作中也留予位置，有些看來比正文更具震撼力⋯⋯",
+      "url": "https://www.twreporter.org/a/bookreview-looking-at-women-looking-at-war",
+      "source": "報導者",
+      "category": "媒體/文化",
+      "published": "2026-02-02T16:00:00+00:00"
+    },
+    {
+      "id": "2479eadea93a",
+      "title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
+      "summary": "Ring's Search Party feature for finding lost dogs is now available across the U.S. — even if you don't own a Ring camera.",
+      "url": "https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-02-02T15:33:45+00:00"
     },
     {
       "id": "38f873eb269d",
@@ -56,60 +146,6 @@
       "published": "2026-02-02T15:00:00+00:00"
     },
     {
-      "id": "027d80a73193",
-      "title": "Coalition demands federal Grok ban over nonconsensual sexual content",
-      "summary": "Nonprofits urge the U.S. government to suspend Grok in federal agencies after the xAI chatbot generated thousands of nonconsensual sexual images, raising national security and child safety concerns.",
-      "url": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-02-02T15:00:00+00:00"
-    },
-    {
-      "id": "adf6465c0398",
-      "title": "Natural Gas Prices Fall as Weather Forecasts Turn Warmer",
-      "summary": "Natural gas futures fell as the Arctic blast that led them to a three-year high last week began to ebb.",
-      "url": "https://www.wsj.com/articles/natural-gas-prices-pull-back-after-weather-driven-rally-4f77624d?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T14:47:00+00:00"
-    },
-    {
-      "id": "5f7e30dd8234",
-      "title": "Narwhals become quieter as the Arctic Ocean grows louder",
-      "summary": "Increasing shipping traffic is interfering with the whales’ ability to hunt and communicate.",
-      "url": "https://arstechnica.com/science/2026/02/narwhals-become-quieter-as-the-arctic-ocean-grows-louder/",
-      "source": "Ars Technica - All content",
-      "category": "科技",
-      "published": "2026-02-02T14:43:30+00:00"
-    },
-    {
-      "id": "84f5d3c1fb41",
-      "title": "Silver Higher After Friday’s Massive Fall",
-      "summary": "Silver futures rebounded from Friday’s massive selloff, despite continued strength in the dollar.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-further-price-in-warsh-led-fed-ae49c8d5?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T14:42:00+00:00"
-    },
-    {
-      "id": "a86450c9cfe5",
-      "title": "FTSE 100 hits record high as ‘metals meltdown’ in gold and silver eases – business live",
-      "summary": "Gold and silver prices recover early losses, after choice of Kevin Warsh as next Fed chair triggered heavy losses in precious metal pricesPlunge in price of gold and silver rattles global stock marketsUK house prices have also fallen – although it’s a better picture if you adjust for seasonal factor...",
-      "url": "https://www.theguardian.com/business/live/2026/feb/02/gold-silver-bitcoin-oil-commodities-slide-metals-meltdown-dollar-fed-chair-warsh-uk-house-prices-markets-business-live-news-updates",
-      "source": "Business | The Guardian",
-      "category": "財經",
-      "published": "2026-02-02T14:38:09+00:00"
-    },
-    {
-      "id": "41e2f3c07adb",
-      "title": "UpScrolled’s founder says the social network has zoomed past 2.5M users",
-      "summary": "Upscrolled founder said that the social network was launched six years ago and had 150,000 users until January",
-      "url": "https://techcrunch.com/2026/02/02/upscrolleds-founder-says-the-social-network-has-zoomed-past-2-5m-users/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-02-02T14:29:22+00:00"
-    },
-    {
       "id": "f1aa8494c09c",
       "title": "Inside the idyllic studio of Alison Lester: ‘Everything I do looks a bit like a stuffed toy’",
       "summary": "The doyenne of Australian picture books talks about her creative process, the ‘wild and woolly’ place that inspired Magic Beach – and how a favourite idea was sketched on an aeroplane sick bagVote for the best Australian children’s picture bookFor an author fascinated by nature, and whose beloved pi...",
@@ -117,6 +153,24 @@
       "source": "Children and teenagers | The Guardian",
       "category": "媒體/文化",
       "published": "2026-02-02T14:00:13+00:00"
+    },
+    {
+      "id": "a4c1405b809b",
+      "title": "A broadly protective antibody targeting gammaherpesvirus gB",
+      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/s41586-026-10192-5A broadly protective antibody targeting gammaherpesvirus gB",
+      "url": "https://www.nature.com/articles/s41586-026-10192-5",
+      "source": "Nature",
+      "category": "科學",
+      "published": "2026-02-02T00:00:00+00:00"
+    },
+    {
+      "id": "9969a58c95a9",
+      "title": "Long-lived remote ion-ion entanglement for scalable quantum repeaters",
+      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/s41586-026-10177-4Long-lived remote ion-ion entanglement for scalable quantum repeaters",
+      "url": "https://www.nature.com/articles/s41586-026-10177-4",
+      "source": "Nature",
+      "category": "科學",
+      "published": "2026-02-02T00:00:00+00:00"
     },
     {
       "id": "497b0618637a",
@@ -135,51 +189,6 @@
       "source": "Nature",
       "category": "科學",
       "published": "2026-02-02T00:00:00+00:00"
-    },
-    {
-      "id": "869bfa91c0ea",
-      "title": "Does AI already have human-level intelligence? The evidence is clear",
-      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/d41586-026-00285-6The vision of human-level machine intelligence laid out by Alan Turing in the 1950s is now a reality. Eyes unclouded by dread or hype will help us to prepare for what comes next.",
-      "url": "https://www.nature.com/articles/d41586-026-00285-6",
-      "source": "Nature",
-      "category": "科學",
-      "published": "2026-02-02T00:00:00+00:00"
-    },
-    {
-      "id": "37c8ec02380e",
-      "title": "Science finds its song",
-      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/d41586-026-00316-2Turning data into sound and music helps researchers to build community and communicate their science to a broader audience.",
-      "url": "https://www.nature.com/articles/d41586-026-00316-2",
-      "source": "Nature",
-      "category": "科學",
-      "published": "2026-02-02T00:00:00+00:00"
-    },
-    {
-      "id": "0db376dab261",
-      "title": "TIL: Running OpenClaw in Docker",
-      "summary": "TIL: Running OpenClaw in Docker\nI've been running OpenClaw using Docker on my Mac. Here are the first in my ongoing notes on how I set that up and the commands I'm using to administer it.\n\nUse their Docker Compose configuration\nAnswering all of those questions\nRunning administrative commands\nSetting...",
-      "url": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "category": "媒體/文化",
-      "published": "2026-02-01T23:59:13+00:00"
-    },
-    {
-      "id": "37f7dbbf8455",
-      "title": "高雄果嶺自然公園的歷史地景變遷",
-      "summary": "撰文/廖德宗（居住於高雄市，從事資訊業，業餘進行人文地理研究） 摘要 本文以高雄市政府2025年10月開放之高 [&#8230;]",
-      "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260202/",
-      "source": "中央研究院人社中心地理資訊科學研究專題中心",
-      "category": "媒體/文化",
-      "published": "2026-02-01T19:58:15+00:00"
-    },
-    {
-      "id": "41c82052ee40",
-      "title": "本專題中心同仁發表國際期刊論文一篇",
-      "summary": "本專題中心詹大千研究員、兼任研究助理政治大學地政所林佳瑢同學、研究助理范志中先生及唐嘉宏博士（目前任教於淡江大 [&#8230;]",
-      "url": "https://gis.rchss.sinica.edu.tw/paper_20260131/",
-      "source": "中央研究院人社中心地理資訊科學研究專題中心",
-      "category": "媒體/文化",
-      "published": "2026-02-01T19:49:26+00:00"
     },
     {
       "id": "30fdb0a60b45",
@@ -207,15 +216,6 @@
       "source": "Feed: Artificial Intelligence Latest",
       "category": "AI",
       "published": "2026-01-31T11:30:00+00:00"
-    },
-    {
-      "id": "d44aa4f4d69d",
-      "title": "科学家用光标记异常细胞，为纤毛病治疗发现新靶点",
-      "summary": "我们身体里的细胞其实就像一座城市，也需要天线来接收信号和传递信息。这个天线就是纤毛，纤毛是一种生长在细胞表面的微小结构。当纤毛出现问题的时候，就会引发一系列的疾病比如肥胖、智力障碍和心脏病等。但是，由于纤毛的尺寸极其微小，观测与研究难度极高，相关领域探索一直受到限制。近日，美国耶鲁大学孙京波博士和所在团队打造出一种基因剪刀配合显微镜的平台，能够同时观察成千上万个细胞里的纤毛，并能够找出控制它们生长的基因。经过此，他们发现了一个对于纤毛生长至关重要的新基因，也为探索所有细胞的内部结构打开了一扇崭新的大门，有助于帮助人类更快地找到一些疑难杂症的病因和治疗方法。（来源：https://doi.org...",
-      "url": "https://www.mittrchina.com/news/detail/15858",
-      "source": "MIT 科技评论 - 本周热榜",
-      "category": "AI",
-      "published": "2026-01-31T08:05:51+00:00"
     }
   ]
 }
