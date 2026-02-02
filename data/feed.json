@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-02-02T03:15:45.399714+00:00",
+  "updated_at": "2026-02-02T03:51:41.292811+00:00",
   "articles": [
+    {
+      "id": "c5074c57dc22",
+      "title": "a16z調查：78%企業正式部署OpenAI，Anthropic成長最快",
+      "summary": "創投業者Andreessen Horowitz（a16z）近日公布第三屆的企業級AI調查，發現OpenAI依然是最受企業青睞的AI品牌，已有78%的企業於正式環境中使用，居次的是Anthropic的44%。但若以支出來看，2026年預估OpenAI將占據53%的預算，Anthropic及Google則各占18%。",
+      "url": "https://www.ithome.com.tw/news/173707",
+      "source": "iThome 新聞",
+      "category": "科技",
+      "published": "2026-02-02T11:02:36+00:00"
+    },
+    {
+      "id": "dc135072bc31",
+      "title": "SandboxJS修補重大漏洞CVE-2026-23830，沙箱機制可遭繞過執行任意程式碼",
+      "summary": "主打在JavaScript環境中安全執行不受信任程式碼的開源專案SandboxJS，在1月下旬修補一項重大資安漏洞。該漏洞已被登錄為CVE-2026-23830，CVSS風險分數達滿分10分，屬於重大風險等級。資安研究人員指出，在特定條件下，攻擊者可繞過SandboxJS的沙箱限制，執行非預期的任意程式碼，對依賴該工具隔離不受信任程式碼的應用環境構成風險。",
+      "url": "https://www.ithome.com.tw/news/173699",
+      "source": "iThome 新聞",
+      "category": "科技",
+      "published": "2026-02-02T10:02:07+00:00"
+    },
+    {
+      "id": "d24c697ad132",
+      "title": "Cloudflare公開Moltworker專案，讓個人AI代理Moltbot可部署於Workers",
+      "summary": "Cloudflare公布並開源Moltworker專案，這是一個入口Worker搭配一組改寫腳本，讓開源個人AI代理Moltbot不必另外購買專門運作的硬體，也能透過Cloudflare的Sandboxes、R2與Browser Rendering等元件，以雲端部署方式運作。不過，Cloudflare強調Moltworker仍屬概念驗證專案，並非正式產品。",
+      "url": "https://www.ithome.com.tw/news/173696",
+      "source": "iThome 新聞",
+      "category": "科技",
+      "published": "2026-02-02T10:02:04+00:00"
+    },
+    {
+      "id": "610569aef23a",
+      "title": "老牌Python解析庫PLY爆重大RCE漏洞，未記載picklefile參數恐成攻擊入口",
+      "summary": "老牌Python語言解析工具庫PLY（Python Lex-Yacc）存在遠端程式碼執行（RCE）資安漏洞CVE-2025-56005，CVSS 3.1基礎評分高達9.8，屬於重大（Critical）等級的漏洞。研究人員指出，這起漏洞並非源自常見的輸入檢查錯誤，而是與PLY內部一項未於官方文件揭露的設計細節有關，在特定使用情境下，可能被濫用為攻擊入口。\n未揭露的設計細節，成為高風險漏洞來源",
+      "url": "https://www.ithome.com.tw/news/173700",
+      "source": "iThome 新聞",
+      "category": "科技",
+      "published": "2026-02-02T10:02:01+00:00"
+    },
     {
       "id": "2a77548f474a",
       "title": "sbt",
@@ -8,7 +44,7 @@
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T03:15:34.115299+00:00"
+      "published": "2026-02-02T03:51:37.997312+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -17,7 +53,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T03:15:34.115284+00:00"
+      "published": "2026-02-02T03:51:37.997299+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -26,7 +62,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T03:15:34.115268+00:00"
+      "published": "2026-02-02T03:51:37.997283+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -35,7 +71,61 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T03:15:34.115226+00:00"
+      "published": "2026-02-02T03:51:37.997254+00:00"
+    },
+    {
+      "id": "28908a3eef94",
+      "title": "美政府又陷停擺危機，眾議長：有信心 3 日會重啟",
+      "summary": "美國聯邦政府又陷入預算僵局，自 1 月 31 日起上演部分政府機構停擺。不過，美國眾議院議長強生（Mike J [&#8230;]",
+      "url": "https://technews.tw/2026/02/02/us-government-faces-renewed-shutdown-risk/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T03:50:47+00:00"
+    },
+    {
+      "id": "2e86da89cf8b",
+      "title": "輕巡防艦後續艦規格大轉彎，防空型可能改成放大版沱江級",
+      "summary": "國防部推動國艦國造傳出重大戰略調整，根據國防部最新公佈的「114 年度下半年列管軍品清單」，海軍輕型巡防艦後續 [&#8230;]",
+      "url": "https://finance.technews.tw/2026/02/02/taiwan-light-frigate-later-productions-might-have-major-design-changes/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T03:49:44+00:00"
+    },
+    {
+      "id": "c91109e0edaa",
+      "title": "AI 算力背後的「電力心臟」：變壓器重要性升級",
+      "summary": "根據中國央視報導，因應全球 AI 算力建設加速，以及美國本土電力電纜與電網更新需求升溫，電力設備如變壓器、變電 [&#8230;]",
+      "url": "https://technews.tw/2026/02/02/transformer-becoming-the-heart-of-ai/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T03:46:25+00:00"
+    },
+    {
+      "id": "629abb6352f4",
+      "title": "東京都美術館推出「電路板書籤」，連銅線都由手工繪製",
+      "summary": "東京都美術館（The Tokyo Metropolitan Art Museum）最近在其紀念品商店中推出一款 [&#8230;]",
+      "url": "https://technews.tw/2026/02/02/japanese-art-museum-intros-15-bookmarks-made-from-pcbs/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T03:40:33+00:00"
+    },
+    {
+      "id": "264739d3feee",
+      "title": "讓寫手訓練 AI 取代自己？xAI 高薪徵獲獎作家引質疑",
+      "summary": "在 2026 年 1 月 31 日，Elon Musk 的人工智慧公司 xAI 宣布正在尋找獲獎作家來協助訓練 [&#8230;]",
+      "url": "https://technews.tw/2026/02/02/xai-wants-to-hire-award-winning-writers-to-train-elon-musks-stupid-ai-chatbot/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T03:30:00+00:00"
+    },
+    {
+      "id": "c6b8b891fadb",
+      "title": "美印談判轉機？川普稱印度將購買委內瑞拉石油",
+      "summary": "美國總統川普透露，印度可能恢復向委內瑞拉購買石油，以取代部分俄羅斯石油；這也顯示，美印貿易談判可能出現轉機。  [&#8230;]",
+      "url": "https://finance.technews.tw/2026/02/02/trump-says-india-will-buy-venezuelan-oil/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T03:20:04+00:00"
     },
     {
       "id": "3686f9b1e058",
@@ -135,96 +225,6 @@
       "source": "TechNews 科技新報",
       "category": "科技",
       "published": "2026-02-02T02:40:29+00:00"
-    },
-    {
-      "id": "70ad17ba961e",
-      "title": "英特爾秀「AI 晶片測試平台」，8 倍光罩封裝、HBM4 堆疊預示未來 AI 加速器雛形",
-      "summary": "1 月 30 日，英特爾展示了一款名為「AI 晶片測試平台」的先進技術，這款原型系統採用了八倍光罩尺寸的封裝設 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/intel-shows-off-leading-edge-tech-with-massive-ai-processor-test-vehicle/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T02:30:46+00:00"
-    },
-    {
-      "id": "3a12954ea130",
-      "title": "China Manufacturing Gauge Shows Pickup in Activity",
-      "summary": "A private gauge of China’s manufacturing sector showed factories continued to expand activity in January.",
-      "url": "https://www.wsj.com/economy/china-manufacturing-gauge-shows-pickup-in-activity-0905245f",
-      "source": "WSJ.com: Economy",
-      "category": "財經",
-      "published": "2026-02-02T02:27:00+00:00"
-    },
-    {
-      "id": "c77ee84d4cb3",
-      "title": "蘋果 AI 人才出走潮再起，核心研究員與 Siri 主管相繼投奔 Meta、Google",
-      "summary": "在最近的報導中，蘋果（Apple）的人工智慧和 Siri 團隊再次面臨人員流失的挑戰。根據 Bloomberg [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/apple-loses-more-ai-researchers-to-meta-and-google-deepmind/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T02:20:38+00:00"
-    },
-    {
-      "id": "e2168777ccbb",
-      "title": "月球核電競爭擴大，英國加入戰場、勞斯萊斯推微型反應爐",
-      "summary": "勞斯萊斯宣布，已取得英國太空署新一輪資金支持，將持續推進「月球核能微型反應爐（Micro-Reactor）」研 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/rolls-royce-moon-nuclear/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T02:16:44+00:00"
-    },
-    {
-      "id": "9d9248fbb5fc",
-      "title": "福特傳與小米洽談合資，中國電動車技術能否「落地美國」",
-      "summary": "根據英國《金融時報》報導，福特汽車公司正在與中國科技巨頭小米展開初步協商，計劃在美國共同生產電動車（EV）。這 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/ford-held-talks-with-chinas-xiaomi-over-ev-partnership/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T02:10:04+00:00"
-    },
-    {
-      "id": "6d6ee30c7a1d",
-      "title": "稅收優惠換來的代價，威斯康辛資料中心開發的「黑箱作業」爭議",
-      "summary": "威斯康辛州的資料中心開發正在迅速增長，然而，這個過程卻伴隨著祕密協議的簽署，讓當地社區感到不安。根據《威斯康辛 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/wisconsin-towns-reportedly-signed-secret-ndas-for-billion-dollar-data-center-deals/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T02:00:54+00:00"
-    },
-    {
-      "id": "603cbb0a0b51",
-      "title": "The Wild Markets Behind Polymarket’s ‘Truth Machine’",
-      "summary": "Shayne Coplan has built the crypto-based betting platform into a $9 billion company. The Justice Department shelved its probe.",
-      "url": "https://www.wsj.com/finance/regulation/polymarket-prediction-markets-kalshi-dd4702d6?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T02:00:00+00:00"
-    },
-    {
-      "id": "8923fd53f19d",
-      "title": "Fed 主席接班人華許效應，股匯雙挫新台幣貶破 31.5 元",
-      "summary": "美國總統川普提名聯邦準備理事會前官員華許（Kevin Warsh）出任下任聯準會主席，市場認為華許對美元與通膨 [&#8230;]",
-      "url": "https://finance.technews.tw/2026/02/02/ntd-31-5-kevin-warsh/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T01:55:22+00:00"
-    },
-    {
-      "id": "0a3226183423",
-      "title": "路透：印度調整外企提供代工廠設備法規，蘋果受惠",
-      "summary": "印度政府 1 日宣布批准外國企業在 5 年內提供設備給特定區域內設立的代工廠，不會面臨任何稅務風險，路透社指出 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/india-hands-apple-a-win-by-letting-foreign-firms-fund-equipment-without-tax-risk/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T01:50:57+00:00"
-    },
-    {
-      "id": "c16567a471cd",
-      "title": "X 平台主管：北京每逢政治動盪，就以色情內容淹沒社群",
-      "summary": "解放軍高層落馬後，社群平台 X 主管比爾推文指出，每回發生政治動盪，北京就用色情內容淹沒 X 的搜尋結果，阻止 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/flood-x-china/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T01:40:54+00:00"
     }
   ]
 }
