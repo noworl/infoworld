@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T07:16:22.343199+00:00",
+  "updated_at": "2026-02-02T10:31:40.669557+00:00",
   "articles": [
     {
       "id": "8c6b33101431",
@@ -29,22 +29,13 @@
       "published": "2026-02-02T11:02:24+00:00"
     },
     {
-      "id": "dc135072bc31",
-      "title": "SandboxJS修補重大漏洞CVE-2026-23830，沙箱機制可遭繞過執行任意程式碼",
-      "summary": "主打在JavaScript環境中安全執行不受信任程式碼的開源專案SandboxJS，在1月下旬修補一項重大資安漏洞。該漏洞已被登錄為CVE-2026-23830，CVSS風險分數達滿分10分，屬於重大風險等級。資安研究人員指出，在特定條件下，攻擊者可繞過SandboxJS的沙箱限制，執行非預期的任意程式碼，對依賴該工具隔離不受信任程式碼的應用環境構成風險。",
-      "url": "https://www.ithome.com.tw/news/173699",
-      "source": "iThome 新聞",
-      "category": "科技",
-      "published": "2026-02-02T10:02:07+00:00"
-    },
-    {
       "id": "2a77548f474a",
       "title": "sbt",
       "summary": "I have finished a new composition.\nThis time the rig was super ball mallet on bathtub with a metal plate inside. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the piece if you click through to m...",
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T07:16:17.830086+00:00"
+      "published": "2026-02-02T10:31:35.007875+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -53,7 +44,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T07:16:17.830074+00:00"
+      "published": "2026-02-02T10:31:35.007863+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -62,7 +53,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T07:16:17.830061+00:00"
+      "published": "2026-02-02T10:31:35.007849+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -71,43 +62,52 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T07:16:17.830030+00:00"
+      "published": "2026-02-02T10:31:35.007817+00:00"
     },
     {
-      "id": "a2e66f4b46b1",
-      "title": "U.S. Treasury Yields Fall Ahead of Data, Refunding Announcement",
-      "summary": "Treasury yields fell in Asian trade, reversing Friday’s rises in long maturities triggered by Trump’s nomination of Kevin Warsh as Fed chair.",
-      "url": "https://www.wsj.com/finance/investing/jgbs-fall-amid-prospects-that-japans-ruling-party-may-win-more-seats-44aeb98e?mod=rss_markets_main",
+      "id": "2dc7bb1b7dbb",
+      "title": "Heard on the Street: Kevin Warsh, President Trump’s nominee to lead the Fed, once warned that continuing to expand the central bank’s balance sheet would carry “significant risks”",
+      "summary": "Kevin Warsh’s vision of ‘regime change’ at the central bank could mean tighter times for markets.",
+      "url": "https://www.wsj.com/economy/central-banking/saying-you-want-to-shrink-the-fed-is-one-thing-doing-it-is-another-3ed0e517",
+      "source": "WSJ.com: Economy",
+      "category": "財經",
+      "published": "2026-02-02T10:30:00+00:00"
+    },
+    {
+      "id": "6d923fc4c5e0",
+      "title": "Global Stocks Fall, Metals Slump as Markets Digest Trump’s Fed Chair Pick",
+      "summary": "Global stocks fell on Monday and metals tumbled as markets digested President Trump’s nomination of Kevin Warsh as the next chair of the Federal Reserve.",
+      "url": "https://www.wsj.com/finance/stocks/global-markets-u-s-futures-falter-on-precious-metals-selloff-c35dd066?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-02T07:07:00+00:00"
+      "published": "2026-02-02T10:24:00+00:00"
     },
     {
-      "id": "04add39d7425",
-      "title": "Insurer won’t pay out after medical emergency forced us to cancel wedding",
-      "summary": "We have now lost £22,000 and now can’t afford to book a new date for the ceremonyTwo days before my wedding last May, my 23-year-old brother was diagnosed with terminal brain cancer and underwent emergency surgery.I had bought cancellation cover 18 months previously from The Insurance Emporium (TIE)...",
-      "url": "https://www.theguardian.com/money/2026/feb/02/insurer-pay-out-medical-emergency-cancel-wedding",
-      "source": "Business | The Guardian",
-      "category": "財經",
-      "published": "2026-02-02T07:00:49+00:00"
+      "id": "1405a89dd302",
+      "title": "全年展望不如預期、與 ASML 接單高成對比，Lasertec 股價重挫 14%",
+      "summary": "EUV 光罩檢測設備商 Lasertec 近期公布 2026 會計年度第二季的財務報告，由於全年展望低於投資人 [&#8230;]",
+      "url": "https://technews.tw/2026/02/02/lasertec-outlook/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T10:20:34+00:00"
     },
     {
       "id": "a86450c9cfe5",
-      "title": "Gold, silver, bitcoin and oil slide as ‘metals meltdown’ rattles markets – business live",
-      "summary": "Rolling coverage of the latest economic and financial newsBitcoin dropped to a 10-month low in early trading today, as investors piled out of riskier assets.The world’s largest crypto assset dropped to $74,546, its lowest level since 7 April last year – and further from its record high above $125,00...",
+      "title": "Gold and silver slide in ‘metals meltdown’; UK factory growth hits 17-month high – business live",
+      "summary": "Analysts say choice of Kevin Warsh as next Fed chair has triggered heavy losses in precious metal pricesUK house prices have also fallen – although it’s a better picture if you adjust for seasonal factors.The average price of a UK property fell in January, to £270,873, down from £271,068 in December...",
       "url": "https://www.theguardian.com/business/live/2026/feb/02/gold-silver-bitcoin-oil-commodities-slide-metals-meltdown-dollar-fed-chair-warsh-uk-house-prices-markets-business-live-news-updates",
       "source": "Business | The Guardian",
       "category": "財經",
-      "published": "2026-02-02T06:59:33+00:00"
+      "published": "2026-02-02T09:59:53+00:00"
     },
     {
-      "id": "27c4d99567fa",
-      "title": "Julius Baer Posts Expected Drop in Profit",
-      "summary": "Julius Baer reported a sharp drop in profits for 2025 due to a series of previously flagged one-offs including credit write-downs and the sale of its Brazilian subsidiary.",
-      "url": "https://www.wsj.com/finance/banking/julius-baer-posts-expected-drop-in-profit-8e18a46e?mod=rss_markets_main",
+      "id": "84f5d3c1fb41",
+      "title": "Silver Recovers Some Ground but Remains Far Below Recent Highs",
+      "summary": "Silver prices returned to positive territory after crashing 31% on Friday, though they remain well below last week’s highs.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-further-price-in-warsh-led-fed-ae49c8d5?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-02T06:57:00+00:00"
+      "published": "2026-02-02T09:48:00+00:00"
     },
     {
       "id": "0db376dab261",
