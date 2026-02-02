@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T04:59:02.317984+00:00",
+  "updated_at": "2026-02-02T07:16:22.343199+00:00",
   "articles": [
     {
       "id": "8c6b33101431",
@@ -21,8 +21,8 @@
     },
     {
       "id": "5fa47537cba6",
-      "title": "Ollama 17.5萬臺主機曝露 遍及130國 可能被用於LLM濫用",
-      "summary": "資安業者SentinelLABS及Censys發現，開源大語言模型（LLM）框架Ollama在全球的部署，形成了17.5萬臺主機可公開存取的AI運算基礎架構，可能被惡意人士濫用。",
+      "title": "Ollama 17.5萬臺主機曝露，遍及130國，可能面臨LLM濫用風險",
+      "summary": "資安業者SentinelOne及Censys發現，開源大語言模型（LLM）框架Ollama在全球的部署，形成了17.5萬臺主機可公開存取的AI運算基礎架構，可能被惡意人士濫用。",
       "url": "https://www.ithome.com.tw/news/173708",
       "source": "iThome 新聞",
       "category": "科技",
@@ -44,7 +44,7 @@
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T04:58:58.950565+00:00"
+      "published": "2026-02-02T07:16:17.830086+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -53,7 +53,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T04:58:58.950554+00:00"
+      "published": "2026-02-02T07:16:17.830074+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -62,7 +62,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T04:58:58.950540+00:00"
+      "published": "2026-02-02T07:16:17.830061+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -71,43 +71,43 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T04:58:58.950508+00:00"
-    },
-    {
-      "id": "84f5d3c1fb41",
-      "title": "Gold Likely to Remain Volatile in Near Term",
-      "summary": "Gold was likely to remain volatile in the near term, according to Phillip Nova.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-further-price-in-warsh-led-fed-ae49c8d5?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T04:55:00+00:00"
-    },
-    {
-      "id": "6d4f82fea6cc",
-      "title": "Japan PM Clarifies Remarks Viewed as Sign of Tolerance for Weaker Yen",
-      "summary": "Japan Prime Minister Sanae Takaichi took to social media to issue a rare statement clarifying campaign remarks that some interpreted as signaling tolerance for a weaker yen.",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-traders-digest-warshs-nomination-as-next-fed-chair-92e67ef3?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T04:01:00+00:00"
+      "published": "2026-02-02T07:16:17.830030+00:00"
     },
     {
       "id": "a2e66f4b46b1",
-      "title": "JGB Yield Curve Likely to Bear-Steepen Into 4Q",
-      "summary": "The JGB yield curve was likely to bear-steepen into 4Q, Morgan Stanley MUFG Securities said.",
+      "title": "U.S. Treasury Yields Fall Ahead of Data, Refunding Announcement",
+      "summary": "Treasury yields fell in Asian trade, reversing Friday’s rises in long maturities triggered by Trump’s nomination of Kevin Warsh as Fed chair.",
       "url": "https://www.wsj.com/finance/investing/jgbs-fall-amid-prospects-that-japans-ruling-party-may-win-more-seats-44aeb98e?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-02T03:07:00+00:00"
+      "published": "2026-02-02T07:07:00+00:00"
     },
     {
-      "id": "d3403b79654a",
-      "title": "Yen Moves Causing More Worry at BOJ, Opinions Summary Shows",
-      "summary": "The Bank of Japan has grown more cautious about the inflation risk posed by a weak yen, a summary of opinions showed, after recent volatility put markets on alert for intervention.",
-      "url": "https://www.wsj.com/economy/central-banking/yen-moves-causing-more-worry-at-boj-opinions-summary-shows-be4800f0",
-      "source": "WSJ.com: Economy",
+      "id": "04add39d7425",
+      "title": "Insurer won’t pay out after medical emergency forced us to cancel wedding",
+      "summary": "We have now lost £22,000 and now can’t afford to book a new date for the ceremonyTwo days before my wedding last May, my 23-year-old brother was diagnosed with terminal brain cancer and underwent emergency surgery.I had bought cancellation cover 18 months previously from The Insurance Emporium (TIE)...",
+      "url": "https://www.theguardian.com/money/2026/feb/02/insurer-pay-out-medical-emergency-cancel-wedding",
+      "source": "Business | The Guardian",
       "category": "財經",
-      "published": "2026-02-02T03:02:00+00:00"
+      "published": "2026-02-02T07:00:49+00:00"
+    },
+    {
+      "id": "a86450c9cfe5",
+      "title": "Gold, silver, bitcoin and oil slide as ‘metals meltdown’ rattles markets – business live",
+      "summary": "Rolling coverage of the latest economic and financial newsBitcoin dropped to a 10-month low in early trading today, as investors piled out of riskier assets.The world’s largest crypto assset dropped to $74,546, its lowest level since 7 April last year – and further from its record high above $125,00...",
+      "url": "https://www.theguardian.com/business/live/2026/feb/02/gold-silver-bitcoin-oil-commodities-slide-metals-meltdown-dollar-fed-chair-warsh-uk-house-prices-markets-business-live-news-updates",
+      "source": "Business | The Guardian",
+      "category": "財經",
+      "published": "2026-02-02T06:59:33+00:00"
+    },
+    {
+      "id": "27c4d99567fa",
+      "title": "Julius Baer Posts Expected Drop in Profit",
+      "summary": "Julius Baer reported a sharp drop in profits for 2025 due to a series of previously flagged one-offs including credit write-downs and the sale of its Brazilian subsidiary.",
+      "url": "https://www.wsj.com/finance/banking/julius-baer-posts-expected-drop-in-profit-8e18a46e?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-02T06:57:00+00:00"
     },
     {
       "id": "0db376dab261",
