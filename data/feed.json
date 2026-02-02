@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-02-02T03:51:41.292811+00:00",
+  "updated_at": "2026-02-02T04:32:04.560445+00:00",
   "articles": [
+    {
+      "id": "8c6b33101431",
+      "title": "HPE修補Aruba設備軟體高風險OpenSSL弱點",
+      "summary": "HPE上周發布安全公告，警告網路設備Aruba軟體3項漏洞，包含高風險等級的OpenSSL相關漏洞。",
+      "url": "https://www.ithome.com.tw/news/173709",
+      "source": "iThome 新聞",
+      "category": "科技",
+      "published": "2026-02-02T12:02:16+00:00"
+    },
     {
       "id": "c5074c57dc22",
       "title": "a16z調查：78%企業正式部署OpenAI，Anthropic成長最快",
@@ -9,6 +18,15 @@
       "source": "iThome 新聞",
       "category": "科技",
       "published": "2026-02-02T11:02:36+00:00"
+    },
+    {
+      "id": "5fa47537cba6",
+      "title": "Ollama 17.5萬臺主機曝露 遍及130國 可能被用於LLM濫用",
+      "summary": "資安業者SentinelLABS及Censys發現，開源大語言模型（LLM）框架Ollama在全球的部署，形成了17.5萬臺主機可公開存取的AI運算基礎架構，可能被惡意人士濫用。",
+      "url": "https://www.ithome.com.tw/news/173708",
+      "source": "iThome 新聞",
+      "category": "科技",
+      "published": "2026-02-02T11:02:24+00:00"
     },
     {
       "id": "dc135072bc31",
@@ -44,7 +62,7 @@
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T03:51:37.997312+00:00"
+      "published": "2026-02-02T04:32:00.879410+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -53,7 +71,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T03:51:37.997299+00:00"
+      "published": "2026-02-02T04:32:00.879399+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -62,7 +80,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T03:51:37.997283+00:00"
+      "published": "2026-02-02T04:32:00.879388+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -71,7 +89,61 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T03:51:37.997254+00:00"
+      "published": "2026-02-02T04:32:00.879356+00:00"
+    },
+    {
+      "id": "4686bc78e74d",
+      "title": "台股兆元 ETF 史詩級誕生！連 19 歲以下「0050 存股族」都翻倍成長",
+      "summary": "台股首檔兆元級 ETF 史詩級誕生，元大台灣 50（0050）自 2025 年 12 月規模突破兆元，全年淨申 [&#8230;]",
+      "url": "https://finance.technews.tw/2026/02/02/an-epic-birth/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T04:28:05+00:00"
+    },
+    {
+      "id": "20d9a6d03d14",
+      "title": "人類探索浩瀚宇宙雄心起點，休士頓太空中心必定參訪攻略",
+      "summary": "對於嚮往浩瀚宇宙與航太科技的人們來說，位於德州的休士頓太空中心 (Space Center Houston)  [&#8230;]",
+      "url": "https://technews.tw/2026/02/02/houston-space-center-the-starting-point-of-humanitys-ambition-to-explore-the-vast-universe/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T04:15:15+00:00"
+    },
+    {
+      "id": "84f5d3c1fb41",
+      "title": "Selloffs in Gold, Silver Offer Buying Opportunity",
+      "summary": "Selloffs in gold and silver look like a buying opportunity as markets likely resume their preference for so-called “hard assets” relative to the greenback eventually, CBA said.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-further-price-in-warsh-led-fed-ae49c8d5?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-02T04:03:00+00:00"
+    },
+    {
+      "id": "6d4f82fea6cc",
+      "title": "Japan PM Clarifies Remarks Viewed as Sign of Tolerance for Weaker Yen",
+      "summary": "Japan Prime Minister Sanae Takaichi took to social media to issue a rare statement clarifying campaign remarks that some interpreted as signaling tolerance for a weaker yen.",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-traders-digest-warshs-nomination-as-next-fed-chair-92e67ef3?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-02T04:01:00+00:00"
+    },
+    {
+      "id": "3b9690ad30fa",
+      "title": "樂看美股財報結果  全球股票基金連三週淨流入",
+      "summary": "上週全球股票基金連續第三週吸引資金流入，主要受惠美國企業進入財報公布期，投資人樂觀看待財報結果，全球股市氣氛熱 [&#8230;]",
+      "url": "https://finance.technews.tw/2026/02/02/global-equity-funds-see-net-inflows-for-third-straight-week/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T04:00:38+00:00"
+    },
+    {
+      "id": "392190e83ef4",
+      "title": "蘋果 iPhone 晶片轉向英特爾？因「製程關鍵差異」業界估可能性低",
+      "summary": "市場盛傳蘋果可能重新回到英特爾懷抱，將部分 M 系列處理器與非 Pro 版 iPhone 晶片交由英特爾代工， [&#8230;]",
+      "url": "https://technews.tw/2026/02/02/apple-iphone-chips-to-intel-foundry/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T03:52:25+00:00"
     },
     {
       "id": "28908a3eef94",
@@ -153,78 +225,6 @@
       "source": "TechNews 科技新報",
       "category": "科技",
       "published": "2026-02-02T03:05:43+00:00"
-    },
-    {
-      "id": "d3403b79654a",
-      "title": "Yen Moves Causing More Worry at BOJ, Opinions Summary Shows",
-      "summary": "The Bank of Japan has grown more cautious about the inflation risk posed by a weak yen, a summary of opinions showed, after recent volatility put markets on alert for intervention.",
-      "url": "https://www.wsj.com/economy/central-banking/yen-moves-causing-more-worry-at-boj-opinions-summary-shows-be4800f0",
-      "source": "WSJ.com: Economy",
-      "category": "財經",
-      "published": "2026-02-02T03:02:00+00:00"
-    },
-    {
-      "id": "9b2e97617e71",
-      "title": "中國長江存儲提前新產能開出，市場分析師：仍難扭轉 NAND 供給吃緊情況",
-      "summary": "近期市場傳出中國記憶體大廠長江存儲（YMTC）可能將原定於 2027 年開出的新產能，提前至 2026 年下半 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/despite-the-early-commissioning-of-new-capacity-by-yangtze-memory-technologies-co-ltd-ymtc-it-is-still-difficult-to-reverse-the-tight-nand-supply-situation/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T03:00:19+00:00"
-    },
-    {
-      "id": "bfb2b31ddb86",
-      "title": "How a Silicon Valley Startup Became a Crypto Lifeline for Venezuela",
-      "summary": "Cryptocurrency fintech Kontigo, which recently raised $20 million from Coinbase and others, is under fire for its role in helping Venezuelans avoid sanctions.",
-      "url": "https://www.wsj.com/tech/how-a-silicon-valley-startup-became-a-crypto-lifeline-for-venezuela-2ec5da99?mod=rss_Technology",
-      "source": "Technology - WSJ.com",
-      "category": "科技",
-      "published": "2026-02-02T03:00:00+00:00"
-    },
-    {
-      "id": "3d19e5882a3f",
-      "title": "How a Silicon Valley Startup Became a Crypto Lifeline for Venezuela",
-      "summary": "Cryptocurrency fintech Kontigo, which recently raised $20 million from Coinbase and others, is under fire for its role in helping Venezuelans avoid sanctions.",
-      "url": "https://www.wsj.com/tech/how-a-silicon-valley-startup-became-a-crypto-lifeline-for-venezuela-2ec5da99?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T03:00:00+00:00"
-    },
-    {
-      "id": "678df35a9a04",
-      "title": "冰蓋消失陸地反彈，研究：格陵蘭島周圍海平面正在下降",
-      "summary": "全球暖化，冰川與冰蓋融化、海水膨脹，全球海平面正在上升，但現在受到世界強國覬覦的格陵蘭島，卻是陸地正在抬升。科 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/greenland-sea-level-rising/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T02:56:56+00:00"
-    },
-    {
-      "id": "a7936e9e94fc",
-      "title": "元月海外股票型 ETF 前十強出爐！00910 受惠繞月任務漲 31.57%",
-      "summary": "元月份全球股市熱鬧上揚，根據 CMoney 統計，元月海外股票型 ETF 前十強全部由科技、主題型 ETF 包 [&#8230;]",
-      "url": "https://finance.technews.tw/2026/02/02/lunar-circumnavigation-mission/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T02:51:40+00:00"
-    },
-    {
-      "id": "c9f95bc1fcc9",
-      "title": "特斯拉「Optimus 鏈」曝光，數百家中國供應商撐起機器人量產夢",
-      "summary": "特斯拉的 Optimus 人型機器人計畫正依賴一個龐大的中國供應商網絡，這個網絡被稱為「Optimus 鏈」， [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/chinese-suppliers-form-the-backbone-of-teslas-humanoid-robot-initiative/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T02:50:17+00:00"
-    },
-    {
-      "id": "2b09335fce54",
-      "title": "中國超冷卻技術 20 秒內降至零下，直指 AI 資料中心散熱",
-      "summary": "中國科學家最近揭示一項突破性的超冷卻技術，能在短短 20 秒內將液體冷卻至零下，這項技術可能為中國在 AI 基 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/frost-in-20-seconds-can-this-supercooling-tech-give-china-an-edge-in-ai-race/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T02:40:29+00:00"
     }
   ]
 }
