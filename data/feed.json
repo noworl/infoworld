@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T23:14:16.905136+00:00",
+  "updated_at": "2026-02-02T23:57:58.548246+00:00",
   "articles": [
     {
       "id": "2a77548f474a",
@@ -8,7 +8,7 @@
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T23:14:12.949724+00:00"
+      "published": "2026-02-02T23:57:53.576536+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -17,7 +17,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T23:14:12.949712+00:00"
+      "published": "2026-02-02T23:57:53.576524+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -26,7 +26,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T23:14:12.949697+00:00"
+      "published": "2026-02-02T23:57:53.576511+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -35,52 +35,70 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T23:14:12.949667+00:00"
+      "published": "2026-02-02T23:57:53.576481+00:00"
     },
     {
-      "id": "4b9252e53d40",
-      "title": "30 億美元天價索賠，環球音樂聯手 Concord 控告 Anthropic 盜用 2 萬首歌曲訓練 AI",
-      "summary": "Concord Music Group 與環球音樂集團（Universal Music Group）聯合多家音 [&#8230;]",
-      "url": "https://technews.tw/2026/02/03/universal-music-sues-anthropic-for-pirated-songs/",
+      "id": "e8a07dd8ebf2",
+      "title": "馬斯克 SpaceX 整併 xAI，估值上看 1.25 兆美元",
+      "summary": "伊隆．馬斯克在 SpaceX 官方部落格宣布，將火箭製造商 SpaceX 與人工智慧新創公司 xAI 整併，組 [&#8230;]",
+      "url": "https://technews.tw/2026/02/03/spacex-merging-xai-estimated-1-25/",
       "source": "TechNews 科技新報",
       "category": "科技",
-      "published": "2026-02-02T23:10:19+00:00"
+      "published": "2026-02-02T23:53:42+00:00"
+    },
+    {
+      "id": "1df27a2ee2c2",
+      "title": "買房焦慮，真的是因為你不夠努力嗎？",
+      "summary": "在高房價時代，首購族面對的壓力，早已不是單純的存款夠不夠，或頭期款差多少，而是一種長期被比較、被催促、被暗示落 [&#8230;]",
+      "url": "https://finance.technews.tw/2026/02/03/is-anxiety-about-buying-a-house-really-because-youre-not-working-hard-enough/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T23:50:13+00:00"
+    },
+    {
+      "id": "137a7eac49a3",
+      "title": "Gold Rises on Likely Technical Recovery, Dip-Buying Interest",
+      "summary": "Gold advanced in early Asian trade on a likely technical recovery and dip-buying interest following its recent slump.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-likely-technical-recovery-dip-buying-interest-d0cfcd1c?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-02T23:41:00+00:00"
+    },
+    {
+      "id": "6ebc8ef9941a",
+      "title": "狗狗真的聽得懂音樂嗎？專家教你選擇旋律管理愛犬情緒",
+      "summary": "在現今的寵物飼養中，音樂的角色愈來愈受到重視。許多狗主人、訓練師和動物收容所工作人員開始利用音樂來幫助狗狗放鬆 [&#8230;]",
+      "url": "https://technews.tw/2026/02/03/do-dogs-really-understand-music/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T23:40:10+00:00"
+    },
+    {
+      "id": "7e5f0bc145f6",
+      "title": "倫敦希斯洛機場安裝新式掃描器，安檢不再需要拿出水瓶與筆電",
+      "summary": "搭機出國，經過安檢之前，各機場總是會提醒，有水瓶最好先把水喝光或倒掉，以免遭懷疑是液態炸藥；若有攜帶筆記型電腦 [&#8230;]",
+      "url": "https://technews.tw/2026/02/03/heathrow-airport-installs-new-security-scanners/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T23:30:47+00:00"
+    },
+    {
+      "id": "a5dee8f2123f",
+      "title": "South Korea Inflation Eases to Five-Month Low",
+      "summary": "The benchmark consumer-price index rose 2.0% from a year earlier in January, slowing from a 2.3% gain in December, the Ministry of Data and Statistics said.",
+      "url": "https://www.wsj.com/economy/south-korea-inflation-eases-to-five-month-low-099ee864",
+      "source": "WSJ.com: Economy",
+      "category": "財經",
+      "published": "2026-02-02T23:25:00+00:00"
     },
     {
       "id": "7886699674f7",
-      "title": "Elon Musk Rolls His AI Startup Into SpaceX, Creating the World’s Most Valuable Company",
+      "title": "Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company",
       "summary": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
       "url": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
       "source": "Feed: Artificial Intelligence Latest",
       "category": "AI",
       "published": "2026-02-02T23:07:19+00:00"
-    },
-    {
-      "id": "7886699674f7",
-      "title": "Elon Musk Rolls His AI Startup Into SpaceX, Creating the World’s Most Valuable Company",
-      "summary": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
-      "url": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
-      "source": "Business Latest",
-      "category": "科技",
-      "published": "2026-02-02T23:07:19+00:00"
-    },
-    {
-      "id": "22d36abacc88",
-      "title": "Waymo raises $16B to scale robotaxi fleet internationally",
-      "summary": "The round, led by Dragoneer Investment Group, DST Global, and Sequoia Capital, now values the autonomous vehicle company at $126 billion.",
-      "url": "https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-02-02T23:04:33+00:00"
-    },
-    {
-      "id": "33f295032a80",
-      "title": "川普宣布美印達成貿易協議，對等關稅降至 18%",
-      "summary": "美國總統川普週一在自家社群平台 Truth Social 發文表示，美國已與印度達成一項貿易協議，雙方將立即下 [&#8230;]",
-      "url": "https://technews.tw/2026/02/03/india-tariff-drop-to-18/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T23:04:33+00:00"
     },
     {
       "id": "f8883cbedff9",
@@ -99,24 +117,6 @@
       "source": "WSJ.com: Markets",
       "category": "財經",
       "published": "2026-02-02T22:24:00+00:00"
-    },
-    {
-      "id": "c96c75cc1d57",
-      "title": "Health Care Roundup: Market Talk",
-      "summary": "Gain insight on Aquestive Therapeutics, ResMed and more in the latest Market Talks covering the health care sector.",
-      "url": "https://www.wsj.com/articles/health-care-roundup-market-talk-7222deca?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T22:17:00+00:00"
-    },
-    {
-      "id": "19db601d341e",
-      "title": "Financial Services Roundup: Market Talk",
-      "summary": "Find insight on Devon Energy, homebuyers, the supply of new euro-denominated bank debt and more in the latest Market Talks covering Financial Services.",
-      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-7dc2d427?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T22:09:00+00:00"
     },
     {
       "id": "e7cbd6c4ea21",
