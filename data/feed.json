@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T18:04:55.494862+00:00",
+  "updated_at": "2026-02-02T23:14:16.905136+00:00",
   "articles": [
     {
       "id": "2a77548f474a",
@@ -8,7 +8,7 @@
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T18:03:45.663598+00:00"
+      "published": "2026-02-02T23:14:12.949724+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -17,7 +17,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T18:03:45.663587+00:00"
+      "published": "2026-02-02T23:14:12.949712+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -26,7 +26,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T18:03:45.663573+00:00"
+      "published": "2026-02-02T23:14:12.949697+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -35,52 +35,115 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T18:03:45.663542+00:00"
+      "published": "2026-02-02T23:14:12.949667+00:00"
+    },
+    {
+      "id": "4b9252e53d40",
+      "title": "30 億美元天價索賠，環球音樂聯手 Concord 控告 Anthropic 盜用 2 萬首歌曲訓練 AI",
+      "summary": "Concord Music Group 與環球音樂集團（Universal Music Group）聯合多家音 [&#8230;]",
+      "url": "https://technews.tw/2026/02/03/universal-music-sues-anthropic-for-pirated-songs/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T23:10:19+00:00"
+    },
+    {
+      "id": "7886699674f7",
+      "title": "Elon Musk Rolls His AI Startup Into SpaceX, Creating the World’s Most Valuable Company",
+      "summary": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
+      "url": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
+      "source": "Feed: Artificial Intelligence Latest",
+      "category": "AI",
+      "published": "2026-02-02T23:07:19+00:00"
+    },
+    {
+      "id": "7886699674f7",
+      "title": "Elon Musk Rolls His AI Startup Into SpaceX, Creating the World’s Most Valuable Company",
+      "summary": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
+      "url": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
+      "source": "Business Latest",
+      "category": "科技",
+      "published": "2026-02-02T23:07:19+00:00"
+    },
+    {
+      "id": "22d36abacc88",
+      "title": "Waymo raises $16B to scale robotaxi fleet internationally",
+      "summary": "The round, led by Dragoneer Investment Group, DST Global, and Sequoia Capital, now values the autonomous vehicle company at $126 billion.",
+      "url": "https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-02-02T23:04:33+00:00"
+    },
+    {
+      "id": "33f295032a80",
+      "title": "川普宣布美印達成貿易協議，對等關稅降至 18%",
+      "summary": "美國總統川普週一在自家社群平台 Truth Social 發文表示，美國已與印度達成一項貿易協議，雙方將立即下 [&#8230;]",
+      "url": "https://technews.tw/2026/02/03/india-tariff-drop-to-18/",
+      "source": "TechNews 科技新報",
+      "category": "科技",
+      "published": "2026-02-02T23:04:33+00:00"
+    },
+    {
+      "id": "f8883cbedff9",
+      "title": "What to Know About the Wild Swings in Gold and Silver",
+      "summary": "Wall Street is still forecasting gains for metals despite the sharp selloff.",
+      "url": "https://www.wsj.com/finance/commodities-futures/what-to-know-about-the-wild-swings-in-gold-and-silver-2fcad7a8?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-02T22:49:00+00:00"
+    },
+    {
+      "id": "6d4f82fea6cc",
+      "title": "The WSJ Dollar Index Rises 0.30% to 94.98",
+      "summary": "The WSJ Dollar Index rose 0.3% — up three of the past four trading days.",
+      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-traders-digest-warshs-nomination-as-next-fed-chair-92e67ef3?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-02T22:24:00+00:00"
+    },
+    {
+      "id": "c96c75cc1d57",
+      "title": "Health Care Roundup: Market Talk",
+      "summary": "Gain insight on Aquestive Therapeutics, ResMed and more in the latest Market Talks covering the health care sector.",
+      "url": "https://www.wsj.com/articles/health-care-roundup-market-talk-7222deca?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-02T22:17:00+00:00"
     },
     {
       "id": "19db601d341e",
       "title": "Financial Services Roundup: Market Talk",
-      "summary": "Find insight on homebuyers, the supply of new euro-denominated bank debt and more in the latest Market Talks covering Financial Services.",
+      "summary": "Find insight on Devon Energy, homebuyers, the supply of new euro-denominated bank debt and more in the latest Market Talks covering Financial Services.",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-7dc2d427?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-02T17:27:00+00:00"
+      "published": "2026-02-02T22:09:00+00:00"
     },
     {
-      "id": "62649085afd1",
-      "title": "Gold and silver prices seesaw as FTSE 100 hits record high",
-      "summary": "Trump’s pick of ‘respected central banker’ Kevin Warsh as Fed chair prompts investors to sell safe haven assetsBusiness news – live updatesGold and silver prices seesawed on Monday, after a “meltdown” in the metals market deepened and rattled investors around the world.Gold prices tumbled by as much...",
-      "url": "https://www.theguardian.com/business/2026/feb/02/plunge-in-price-of-gold-and-silver-rattles-global-stock-markets",
-      "source": "Business | The Guardian",
-      "category": "財經",
-      "published": "2026-02-02T17:24:13+00:00"
+      "id": "e7cbd6c4ea21",
+      "title": "HHS Is Using AI Tools From Palantir to Target ‘DEI’ and ‘Gender Ideology’ in Grants",
+      "summary": "Since March of 2025, the Department of Health and Human Services has been using tools from Palantir and the startup Credal AI to weed out perceived alignment with “DEI” or “gender ideology.”",
+      "url": "https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/",
+      "source": "Feed: Artificial Intelligence Latest",
+      "category": "AI",
+      "published": "2026-02-02T20:56:41+00:00"
     },
     {
-      "id": "d598ddb19319",
-      "title": "Auto & Transport Roundup: Market Talk",
-      "summary": "Find insight on Mercedes-Benz, Huawei and more in the latest Market Talks covering Auto and Transport.",
-      "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-061a8e4c?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T17:24:00+00:00"
+      "id": "e7cbd6c4ea21",
+      "title": "HHS Is Using AI Tools From Palantir to Target ‘DEI’ and ‘Gender Ideology’ in Grants",
+      "summary": "Since March of 2025, the Department of Health and Human Services has been using tools from Palantir and the startup Credal AI to weed out perceived alignment with “DEI” or “gender ideology.”",
+      "url": "https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/",
+      "source": "Science Latest",
+      "category": "媒體/文化",
+      "published": "2026-02-02T20:56:41+00:00"
     },
     {
-      "id": "13208ea9b6d8",
-      "title": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on silver futures, the mining sector, Anglo American and more in the latest Market Talks covering Basic Materials.",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-3f79fa07?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T17:23:00+00:00"
-    },
-    {
-      "id": "2d573b4001a1",
-      "title": "Interview: Civilization VII’s devs on the big update meant to win critics back",
-      "summary": "Firaxis' Ed Beach and Dennis Shirk talk major overhauls in \"Test of Time\" update.",
-      "url": "https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/",
-      "source": "Ars Technica - All content",
-      "category": "科技",
-      "published": "2026-02-02T17:00:49+00:00"
+      "id": "5b58cb2e153f",
+      "title": "Introducing the Codex app",
+      "summary": "Introducing the Codex app\nOpenAI just released a new macOS app for their Codex coding agent. I've had a few days of preview access - it's a solid app that provides a nice UI over the capabilities of the Codex CLI agent and adds some interesting new features, most notably first-class support for Skil...",
+      "url": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "category": "媒體/文化",
+      "published": "2026-02-02T19:54:36+00:00"
     },
     {
       "id": "12f40143f5b2",
@@ -110,49 +173,22 @@
       "published": "2026-02-02T16:42:46+00:00"
     },
     {
-      "id": "4003cd3d33e4",
-      "title": "Here's what Cities: Skylines 2’s new developer is updating first",
-      "summary": "Visual upgrades include new UI, realistic snow cover, better lighting.",
-      "url": "https://arstechnica.com/gaming/2026/02/heres-what-cities-skylines-2s-new-developer-is-updating-first/",
-      "source": "Ars Technica - All content",
-      "category": "科技",
-      "published": "2026-02-02T16:32:52+00:00"
+      "id": "d7d36c99f43f",
+      "title": "Lawmakers spend big on home state science projects",
+      "summary": "Kentucky Senator Mitch McConnell, king of congressional earmarks, steers $165 million to his alma maters",
+      "url": "https://www.science.org/content/article/lawmakers-spend-big-home-state-science-projects",
+      "source": "Latest News from Science Magazine",
+      "category": "科學",
+      "published": "2026-02-02T12:30:00+00:00"
     },
     {
-      "id": "462d8103e35b",
-      "title": "房慧真／斷垣殘壁、灰飛湮滅中的文化接棒──讀《直視戰爭的女人》",
-      "summary": "《直視戰爭的女人》一開頭，36歲的小說家、也是一位母親的阿梅莉納，在俄烏戰爭前夕買了人生第一把槍。如今戰爭仍在繼續，亡者與生者間的文學接力也還在進行，阿梅莉納隨手記下的筆記，編者在這本遺作中也留予位置，有些看來比正文更具震撼力⋯⋯",
-      "url": "https://www.twreporter.org/a/bookreview-looking-at-women-looking-at-war",
-      "source": "報導者",
-      "category": "媒體/文化",
-      "published": "2026-02-02T16:00:00+00:00"
-    },
-    {
-      "id": "2479eadea93a",
-      "title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
-      "summary": "Ring's Search Party feature for finding lost dogs is now available across the U.S. — even if you don't own a Ring camera.",
-      "url": "https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-02-02T15:33:45+00:00"
-    },
-    {
-      "id": "38f873eb269d",
-      "title": "Carbon Robotics built an AI model that detects and identifies plants",
-      "summary": "Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.",
-      "url": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-02-02T15:00:00+00:00"
-    },
-    {
-      "id": "f1aa8494c09c",
-      "title": "Inside the idyllic studio of Alison Lester: ‘Everything I do looks a bit like a stuffed toy’",
-      "summary": "The doyenne of Australian picture books talks about her creative process, the ‘wild and woolly’ place that inspired Magic Beach – and how a favourite idea was sketched on an aeroplane sick bagVote for the best Australian children’s picture bookFor an author fascinated by nature, and whose beloved pi...",
-      "url": "https://www.theguardian.com/books/2026/feb/03/australian-childrens-author-illustrator-alison-lester-studio-interview",
-      "source": "Children and teenagers | The Guardian",
-      "category": "媒體/文化",
-      "published": "2026-02-02T14:00:13+00:00"
+      "id": "0c2c8be498f4",
+      "title": "Serious side effects dim hopes for the first chikungunya vaccine",
+      "summary": "The shots fell short during a massive outbreak on a French island. A new vaccine may be safer",
+      "url": "https://www.science.org/content/article/serious-side-effects-dim-hopes-first-chikungunya-vaccine",
+      "source": "Latest News from Science Magazine",
+      "category": "科學",
+      "published": "2026-02-02T02:05:00+00:00"
     },
     {
       "id": "a4c1405b809b",
@@ -173,24 +209,6 @@
       "published": "2026-02-02T00:00:00+00:00"
     },
     {
-      "id": "497b0618637a",
-      "title": "Author Correction: Albumin orchestrates a natural host defence mechanism against mucormycosis",
-      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/s41586-026-10188-1Author Correction: Albumin orchestrates a natural host defence mechanism against mucormycosis",
-      "url": "https://www.nature.com/articles/s41586-026-10188-1",
-      "source": "Nature",
-      "category": "科學",
-      "published": "2026-02-02T00:00:00+00:00"
-    },
-    {
-      "id": "88b5a32b4e4e",
-      "title": "Are health influencers making us sick?",
-      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/d41586-026-00313-5Social media can help to raise awareness of health conditions — but the wealth of dubious information online might do more harm than good.",
-      "url": "https://www.nature.com/articles/d41586-026-00313-5",
-      "source": "Nature",
-      "category": "科學",
-      "published": "2026-02-02T00:00:00+00:00"
-    },
-    {
       "id": "30fdb0a60b45",
       "title": "a16z投资的AI独角兽被指控默许深度伪造交易",
       "summary": "（来源：麻省理工科技评论）斯坦福与印第安纳大学的最新研究显示，AI 内容交易平台 Civitai 仍允许用户买卖用于微调深度伪造内容的工具，而这类内容正是该平台宣称明令禁止的。由 a16z（Andreessen Horowitz）风险投资基金注资的 Civitai，是一家主打 AI 生成内容交易的线上平台。最新分析发现，该平台竟默许用户买卖用于生成名人深度伪造内容的定制指令文件，其中部分文件更是专门用于制作平台禁售的色情图像。这项由斯坦福大学和印第安纳大学研究人员开展的研究，对该平台上名为 “悬赏需求” 的用户内容定制请求进行了分析。研究发现，2023 年年中至 2024 年底，平台上的悬赏需...",
@@ -198,24 +216,6 @@
       "source": "MIT 科技评论 - 本周热榜",
       "category": "AI",
       "published": "2026-02-01T12:26:36+00:00"
-    },
-    {
-      "id": "5be325f452a6",
-      "title": "“星际之门”拖累甲骨文，银行不买账，或将大裁员、卖资产自救",
-      "summary": "AI 军备竞赛的账单开始到期了。本周，多家媒体援引投行 TD Cowen 发布的一份报告称，由于美国多家银行收紧了对甲骨文（Oracle）相关数据中心项目的贷款，这家老牌企业软件巨头正面临严峻的融资压力。为了应对，甲骨文正在考虑裁减 2 万至 3 万名员工，并可能出售 2022 年以 283 亿美元收购的医疗健康科技部门 Cerner。甲骨文方面拒绝置评。图丨TD Cowen 发布的分析师信（来源：TD Cowen）报告的核心判断是：无论股权投资者还是债权投资者，都在质疑甲骨文是否有能力为其庞大的数据中心建设计划融资。佐证这一判断的是甲骨文五年期 CDS（Credit Default Swap...",
-      "url": "https://www.mittrchina.com/news/detail/15860",
-      "source": "MIT 科技评论 - 本周热榜",
-      "category": "AI",
-      "published": "2026-02-01T12:22:20+00:00"
-    },
-    {
-      "id": "3a9a6856840b",
-      "title": "Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims",
-      "summary": "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China executes 11 scam compound bosses, a $40 million crypto theft has an unexpected alleged culprit, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
-      "source": "Feed: Artificial Intelligence Latest",
-      "category": "AI",
-      "published": "2026-01-31T11:30:00+00:00"
     }
   ]
 }
