@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T04:32:04.560445+00:00",
+  "updated_at": "2026-02-02T04:59:02.317984+00:00",
   "articles": [
     {
       "id": "8c6b33101431",
@@ -38,31 +38,13 @@
       "published": "2026-02-02T10:02:07+00:00"
     },
     {
-      "id": "d24c697ad132",
-      "title": "Cloudflare公開Moltworker專案，讓個人AI代理Moltbot可部署於Workers",
-      "summary": "Cloudflare公布並開源Moltworker專案，這是一個入口Worker搭配一組改寫腳本，讓開源個人AI代理Moltbot不必另外購買專門運作的硬體，也能透過Cloudflare的Sandboxes、R2與Browser Rendering等元件，以雲端部署方式運作。不過，Cloudflare強調Moltworker仍屬概念驗證專案，並非正式產品。",
-      "url": "https://www.ithome.com.tw/news/173696",
-      "source": "iThome 新聞",
-      "category": "科技",
-      "published": "2026-02-02T10:02:04+00:00"
-    },
-    {
-      "id": "610569aef23a",
-      "title": "老牌Python解析庫PLY爆重大RCE漏洞，未記載picklefile參數恐成攻擊入口",
-      "summary": "老牌Python語言解析工具庫PLY（Python Lex-Yacc）存在遠端程式碼執行（RCE）資安漏洞CVE-2025-56005，CVSS 3.1基礎評分高達9.8，屬於重大（Critical）等級的漏洞。研究人員指出，這起漏洞並非源自常見的輸入檢查錯誤，而是與PLY內部一項未於官方文件揭露的設計細節有關，在特定使用情境下，可能被濫用為攻擊入口。\n未揭露的設計細節，成為高風險漏洞來源",
-      "url": "https://www.ithome.com.tw/news/173700",
-      "source": "iThome 新聞",
-      "category": "科技",
-      "published": "2026-02-02T10:02:01+00:00"
-    },
-    {
       "id": "2a77548f474a",
       "title": "sbt",
       "summary": "I have finished a new composition.\nThis time the rig was super ball mallet on bathtub with a metal plate inside. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the piece if you click through to m...",
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T04:32:00.879410+00:00"
+      "published": "2026-02-02T04:58:58.950565+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -71,7 +53,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T04:32:00.879399+00:00"
+      "published": "2026-02-02T04:58:58.950554+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -80,7 +62,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T04:32:00.879388+00:00"
+      "published": "2026-02-02T04:58:58.950540+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -89,34 +71,16 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T04:32:00.879356+00:00"
-    },
-    {
-      "id": "4686bc78e74d",
-      "title": "台股兆元 ETF 史詩級誕生！連 19 歲以下「0050 存股族」都翻倍成長",
-      "summary": "台股首檔兆元級 ETF 史詩級誕生，元大台灣 50（0050）自 2025 年 12 月規模突破兆元，全年淨申 [&#8230;]",
-      "url": "https://finance.technews.tw/2026/02/02/an-epic-birth/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T04:28:05+00:00"
-    },
-    {
-      "id": "20d9a6d03d14",
-      "title": "人類探索浩瀚宇宙雄心起點，休士頓太空中心必定參訪攻略",
-      "summary": "對於嚮往浩瀚宇宙與航太科技的人們來說，位於德州的休士頓太空中心 (Space Center Houston)  [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/houston-space-center-the-starting-point-of-humanitys-ambition-to-explore-the-vast-universe/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T04:15:15+00:00"
+      "published": "2026-02-02T04:58:58.950508+00:00"
     },
     {
       "id": "84f5d3c1fb41",
-      "title": "Selloffs in Gold, Silver Offer Buying Opportunity",
-      "summary": "Selloffs in gold and silver look like a buying opportunity as markets likely resume their preference for so-called “hard assets” relative to the greenback eventually, CBA said.",
+      "title": "Gold Likely to Remain Volatile in Near Term",
+      "summary": "Gold was likely to remain volatile in the near term, according to Phillip Nova.",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-further-price-in-warsh-led-fed-ae49c8d5?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-02T04:03:00+00:00"
+      "published": "2026-02-02T04:55:00+00:00"
     },
     {
       "id": "6d4f82fea6cc",
@@ -128,87 +92,6 @@
       "published": "2026-02-02T04:01:00+00:00"
     },
     {
-      "id": "3b9690ad30fa",
-      "title": "樂看美股財報結果  全球股票基金連三週淨流入",
-      "summary": "上週全球股票基金連續第三週吸引資金流入，主要受惠美國企業進入財報公布期，投資人樂觀看待財報結果，全球股市氣氛熱 [&#8230;]",
-      "url": "https://finance.technews.tw/2026/02/02/global-equity-funds-see-net-inflows-for-third-straight-week/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T04:00:38+00:00"
-    },
-    {
-      "id": "392190e83ef4",
-      "title": "蘋果 iPhone 晶片轉向英特爾？因「製程關鍵差異」業界估可能性低",
-      "summary": "市場盛傳蘋果可能重新回到英特爾懷抱，將部分 M 系列處理器與非 Pro 版 iPhone 晶片交由英特爾代工， [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/apple-iphone-chips-to-intel-foundry/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T03:52:25+00:00"
-    },
-    {
-      "id": "28908a3eef94",
-      "title": "美政府又陷停擺危機，眾議長：有信心 3 日會重啟",
-      "summary": "美國聯邦政府又陷入預算僵局，自 1 月 31 日起上演部分政府機構停擺。不過，美國眾議院議長強生（Mike J [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/us-government-faces-renewed-shutdown-risk/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T03:50:47+00:00"
-    },
-    {
-      "id": "2e86da89cf8b",
-      "title": "輕巡防艦後續艦規格大轉彎，防空型可能改成放大版沱江級",
-      "summary": "國防部推動國艦國造傳出重大戰略調整，根據國防部最新公佈的「114 年度下半年列管軍品清單」，海軍輕型巡防艦後續 [&#8230;]",
-      "url": "https://finance.technews.tw/2026/02/02/taiwan-light-frigate-later-productions-might-have-major-design-changes/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T03:49:44+00:00"
-    },
-    {
-      "id": "c91109e0edaa",
-      "title": "AI 算力背後的「電力心臟」：變壓器重要性升級",
-      "summary": "根據中國央視報導，因應全球 AI 算力建設加速，以及美國本土電力電纜與電網更新需求升溫，電力設備如變壓器、變電 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/transformer-becoming-the-heart-of-ai/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T03:46:25+00:00"
-    },
-    {
-      "id": "629abb6352f4",
-      "title": "東京都美術館推出「電路板書籤」，連銅線都由手工繪製",
-      "summary": "東京都美術館（The Tokyo Metropolitan Art Museum）最近在其紀念品商店中推出一款 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/japanese-art-museum-intros-15-bookmarks-made-from-pcbs/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T03:40:33+00:00"
-    },
-    {
-      "id": "264739d3feee",
-      "title": "讓寫手訓練 AI 取代自己？xAI 高薪徵獲獎作家引質疑",
-      "summary": "在 2026 年 1 月 31 日，Elon Musk 的人工智慧公司 xAI 宣布正在尋找獲獎作家來協助訓練 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/xai-wants-to-hire-award-winning-writers-to-train-elon-musks-stupid-ai-chatbot/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T03:30:00+00:00"
-    },
-    {
-      "id": "c6b8b891fadb",
-      "title": "美印談判轉機？川普稱印度將購買委內瑞拉石油",
-      "summary": "美國總統川普透露，印度可能恢復向委內瑞拉購買石油，以取代部分俄羅斯石油；這也顯示，美印貿易談判可能出現轉機。  [&#8230;]",
-      "url": "https://finance.technews.tw/2026/02/02/trump-says-india-will-buy-venezuelan-oil/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T03:20:04+00:00"
-    },
-    {
-      "id": "3686f9b1e058",
-      "title": "47 億觀看數一夕蒸發，YouTube 重拳下架十多個高流量 AI 頻道",
-      "summary": "YouTube 近日針對 AI 生成的低品質內容展開大規模清理行動，刪除超過十多個高知名度的 AI 頻道，這些 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/youtube-has-a-big-incentive-to-nuke-ai-spam/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T03:10:26+00:00"
-    },
-    {
       "id": "a2e66f4b46b1",
       "title": "JGB Yield Curve Likely to Bear-Steepen Into 4Q",
       "summary": "The JGB yield curve was likely to bear-steepen into 4Q, Morgan Stanley MUFG Securities said.",
@@ -218,13 +101,121 @@
       "published": "2026-02-02T03:07:00+00:00"
     },
     {
-      "id": "7d94b306df4d",
-      "title": "NASA 首度讓 AI 全權規劃火星路徑，Claude 無需人類干預導航毅力號",
-      "summary": "在一項突破性成就中，NASA 的噴氣推進實驗室（JPL）首次使用 Anthropic 的 Claude 生成式 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/nasa-taps-claude-to-conjure-mars-rovers-travel-plan/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T03:05:43+00:00"
+      "id": "d3403b79654a",
+      "title": "Yen Moves Causing More Worry at BOJ, Opinions Summary Shows",
+      "summary": "The Bank of Japan has grown more cautious about the inflation risk posed by a weak yen, a summary of opinions showed, after recent volatility put markets on alert for intervention.",
+      "url": "https://www.wsj.com/economy/central-banking/yen-moves-causing-more-worry-at-boj-opinions-summary-shows-be4800f0",
+      "source": "WSJ.com: Economy",
+      "category": "財經",
+      "published": "2026-02-02T03:02:00+00:00"
+    },
+    {
+      "id": "0db376dab261",
+      "title": "TIL: Running OpenClaw in Docker",
+      "summary": "TIL: Running OpenClaw in Docker\nI've been running OpenClaw using Docker on my Mac. Here are the first in my ongoing notes on how I set that up and the commands I'm using to administer it.\n\nUse their Docker Compose configuration\nAnswering all of those questions\nRunning administrative commands\nSetting...",
+      "url": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "category": "媒體/文化",
+      "published": "2026-02-01T23:59:13+00:00"
+    },
+    {
+      "id": "37f7dbbf8455",
+      "title": "高雄果嶺自然公園的歷史地景變遷",
+      "summary": "撰文/廖德宗（居住於高雄市，從事資訊業，業餘進行人文地理研究） 摘要 本文以高雄市政府2025年10月開放之高 [&#8230;]",
+      "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260202/",
+      "source": "中央研究院人社中心地理資訊科學研究專題中心",
+      "category": "媒體/文化",
+      "published": "2026-02-01T19:58:15+00:00"
+    },
+    {
+      "id": "41c82052ee40",
+      "title": "本專題中心同仁發表國際期刊論文一篇",
+      "summary": "本專題中心詹大千研究員、兼任研究助理政治大學地政所林佳瑢同學、研究助理范志中先生及唐嘉宏博士（目前任教於淡江大 [&#8230;]",
+      "url": "https://gis.rchss.sinica.edu.tw/paper_20260131/",
+      "source": "中央研究院人社中心地理資訊科學研究專題中心",
+      "category": "媒體/文化",
+      "published": "2026-02-01T19:49:26+00:00"
+    },
+    {
+      "id": "30fdb0a60b45",
+      "title": "a16z投资的AI独角兽被指控默许深度伪造交易",
+      "summary": "（来源：麻省理工科技评论）斯坦福与印第安纳大学的最新研究显示，AI 内容交易平台 Civitai 仍允许用户买卖用于微调深度伪造内容的工具，而这类内容正是该平台宣称明令禁止的。由 a16z（Andreessen Horowitz）风险投资基金注资的 Civitai，是一家主打 AI 生成内容交易的线上平台。最新分析发现，该平台竟默许用户买卖用于生成名人深度伪造内容的定制指令文件，其中部分文件更是专门用于制作平台禁售的色情图像。这项由斯坦福大学和印第安纳大学研究人员开展的研究，对该平台上名为 “悬赏需求” 的用户内容定制请求进行了分析。研究发现，2023 年年中至 2024 年底，平台上的悬赏需...",
+      "url": "https://www.mittrchina.com/news/detail/15861",
+      "source": "MIT 科技评论 - 本周热榜",
+      "category": "AI",
+      "published": "2026-02-01T12:26:36+00:00"
+    },
+    {
+      "id": "5be325f452a6",
+      "title": "“星际之门”拖累甲骨文，银行不买账，或将大裁员、卖资产自救",
+      "summary": "AI 军备竞赛的账单开始到期了。本周，多家媒体援引投行 TD Cowen 发布的一份报告称，由于美国多家银行收紧了对甲骨文（Oracle）相关数据中心项目的贷款，这家老牌企业软件巨头正面临严峻的融资压力。为了应对，甲骨文正在考虑裁减 2 万至 3 万名员工，并可能出售 2022 年以 283 亿美元收购的医疗健康科技部门 Cerner。甲骨文方面拒绝置评。图丨TD Cowen 发布的分析师信（来源：TD Cowen）报告的核心判断是：无论股权投资者还是债权投资者，都在质疑甲骨文是否有能力为其庞大的数据中心建设计划融资。佐证这一判断的是甲骨文五年期 CDS（Credit Default Swap...",
+      "url": "https://www.mittrchina.com/news/detail/15860",
+      "source": "MIT 科技评论 - 本周热榜",
+      "category": "AI",
+      "published": "2026-02-01T12:22:20+00:00"
+    },
+    {
+      "id": "a5e2aaa371d7",
+      "title": "How to Use Physics to Escape an Ice Bowl",
+      "summary": "Here are three smart tricks, based on an understanding of frictional forces, to beat a slippery slope.",
+      "url": "https://www.wired.com/story/how-to-use-physics-to-escape-an-ice-bowl/",
+      "source": "Science Latest",
+      "category": "媒體/文化",
+      "published": "2026-02-01T12:00:00+00:00"
+    },
+    {
+      "id": "3a9a6856840b",
+      "title": "Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims",
+      "summary": "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China executes 11 scam compound bosses, a $40 million crypto theft has an unexpected alleged culprit, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
+      "source": "Feed: Artificial Intelligence Latest",
+      "category": "AI",
+      "published": "2026-01-31T11:30:00+00:00"
+    },
+    {
+      "id": "d44aa4f4d69d",
+      "title": "科学家用光标记异常细胞，为纤毛病治疗发现新靶点",
+      "summary": "我们身体里的细胞其实就像一座城市，也需要天线来接收信号和传递信息。这个天线就是纤毛，纤毛是一种生长在细胞表面的微小结构。当纤毛出现问题的时候，就会引发一系列的疾病比如肥胖、智力障碍和心脏病等。但是，由于纤毛的尺寸极其微小，观测与研究难度极高，相关领域探索一直受到限制。近日，美国耶鲁大学孙京波博士和所在团队打造出一种基因剪刀配合显微镜的平台，能够同时观察成千上万个细胞里的纤毛，并能够找出控制它们生长的基因。经过此，他们发现了一个对于纤毛生长至关重要的新基因，也为探索所有细胞的内部结构打开了一扇崭新的大门，有助于帮助人类更快地找到一些疑难杂症的病因和治疗方法。（来源：https://doi.org...",
+      "url": "https://www.mittrchina.com/news/detail/15858",
+      "source": "MIT 科技评论 - 本周热榜",
+      "category": "AI",
+      "published": "2026-01-31T08:05:51+00:00"
+    },
+    {
+      "id": "eed4ee2be99a",
+      "title": "P vs. NP and the Difficulty of Computation: A Ruliological Approach",
+      "summary": "Empirical Theoretical Computer Science “Could there be a faster program for that?” It’s a fundamental type of question in theoretical computer science. But except in special cases, such a question has proved fiendishly difficult to answer. And, for example, in half a century, almost no progress has ...",
+      "url": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
+      "source": "Stephen Wolfram Writings",
+      "category": "科學",
+      "published": "2026-01-30T19:26:48+00:00"
+    },
+    {
+      "id": "fc8064a9a746",
+      "title": "Traces of ancient seafloor cataclysms turn up in the Himalayas",
+      "summary": "Vast undersea eruptions may be undercounted source of extinctions through Earth’s history",
+      "url": "https://www.science.org/content/article/traces-ancient-seafloor-cataclysms-turn-himalayas",
+      "source": "Latest News from Science Magazine",
+      "category": "科學",
+      "published": "2026-01-30T05:55:00+00:00"
+    },
+    {
+      "id": "3cb136b35f1d",
+      "title": "Trump slump? Attendance plummets at some science meetings, but others hold steady",
+      "summary": "Amid travel bans, a government shutdown, and funding crunches, 2025 was a turbulent year for U.S. scientific societies",
+      "url": "https://www.science.org/content/article/trump-slump-attendance-plummets-some-science-meetings-others-hold-steady",
+      "source": "Latest News from Science Magazine",
+      "category": "科學",
+      "published": "2026-01-30T02:05:00+00:00"
+    },
+    {
+      "id": "f991933c2db1",
+      "title": "Publisher Correction: A domed pachycephalosaur from the early Cretaceous of Mongolia",
+      "summary": "Nature, Published online: 30 January 2026; doi:10.1038/s41586-026-10184-5Publisher Correction: A domed pachycephalosaur from the early Cretaceous of Mongolia",
+      "url": "https://www.nature.com/articles/s41586-026-10184-5",
+      "source": "Nature",
+      "category": "科學",
+      "published": "2026-01-30T00:00:00+00:00"
     }
   ]
 }
