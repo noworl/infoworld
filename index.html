@@ -122,7 +122,7 @@
 
     async function loadFeed() {
       try {
-        const res = await fetch("https://raw.githubusercontent.com/noworl/infoworld/master/data/feed.json");
+        const res = await fetch("data/feed.json");
         const data = await res.json();
         render(data);
       } catch (e) {
