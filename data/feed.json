@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T12:00:50.437856+00:00",
+  "updated_at": "2026-02-02T15:10:58.230548+00:00",
   "articles": [
     {
       "id": "2a77548f474a",
@@ -8,7 +8,7 @@
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T12:00:46.489358+00:00"
+      "published": "2026-02-02T15:10:54.848100+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -17,7 +17,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T12:00:46.489347+00:00"
+      "published": "2026-02-02T15:10:54.848090+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -26,7 +26,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T12:00:46.489334+00:00"
+      "published": "2026-02-02T15:10:54.848079+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -35,79 +35,88 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T12:00:46.489303+00:00"
+      "published": "2026-02-02T15:10:54.848043+00:00"
     },
     {
-      "id": "6d4f82fea6cc",
-      "title": "Further Euro Strength Remains a Risk if Confidence in U.S. Is Shaken",
-      "summary": "The euro was higher against the dollar and the risk of a stronger euro remains if confidence in the U.S. is shaken, Generali Investments said.",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-traders-digest-warshs-nomination-as-next-fed-chair-92e67ef3?mod=rss_markets_main",
+      "id": "a31deb882d80",
+      "title": "Oil Futures Ease Amid U.S.-Iran De-Escalation",
+      "summary": "Crude futures slipped after President Trump expressed belief that Iran is negotiating seriously, easing tensions that supported prices last week.",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-amid-signs-of-u-s-iran-negotiations-82eee722?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-02T11:57:00+00:00"
+      "published": "2026-02-02T15:01:00+00:00"
+    },
+    {
+      "id": "38f873eb269d",
+      "title": "Carbon Robotics built an AI model that detects and identifies plants",
+      "summary": "Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.",
+      "url": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-02-02T15:00:00+00:00"
+    },
+    {
+      "id": "027d80a73193",
+      "title": "Coalition demands federal Grok ban over nonconsensual sexual content",
+      "summary": "Nonprofits urge the U.S. government to suspend Grok in federal agencies after the xAI chatbot generated thousands of nonconsensual sexual images, raising national security and child safety concerns.",
+      "url": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-02-02T15:00:00+00:00"
+    },
+    {
+      "id": "adf6465c0398",
+      "title": "Natural Gas Prices Fall as Weather Forecasts Turn Warmer",
+      "summary": "Natural gas futures fell as the Arctic blast that led them to a three-year high last week began to ebb.",
+      "url": "https://www.wsj.com/articles/natural-gas-prices-pull-back-after-weather-driven-rally-4f77624d?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-02T14:47:00+00:00"
+    },
+    {
+      "id": "5f7e30dd8234",
+      "title": "Narwhals become quieter as the Arctic Ocean grows louder",
+      "summary": "Increasing shipping traffic is interfering with the whales’ ability to hunt and communicate.",
+      "url": "https://arstechnica.com/science/2026/02/narwhals-become-quieter-as-the-arctic-ocean-grows-louder/",
+      "source": "Ars Technica - All content",
+      "category": "科技",
+      "published": "2026-02-02T14:43:30+00:00"
     },
     {
       "id": "84f5d3c1fb41",
-      "title": "Gold, Silver Likely to See Continued Volatility",
-      "summary": "Gold and silver futures rose but volatility across precious metals is likely to remain high in the near term with macro uncertainty, real-rate expectations, and the dollar driving sentiment.",
+      "title": "Silver Higher After Friday’s Massive Fall",
+      "summary": "Silver futures rebounded from Friday’s massive selloff, despite continued strength in the dollar.",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-further-price-in-warsh-led-fed-ae49c8d5?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-02T11:51:00+00:00"
+      "published": "2026-02-02T14:42:00+00:00"
     },
     {
-      "id": "a2e66f4b46b1",
-      "title": "U.S. Treasury Yields Decline as Risk Sentiment Weakens",
-      "summary": "Treasury yields fell in European hours as markets move on from Trump’s announcement Friday of Kevin Warsh as his pick for Fed chair.",
-      "url": "https://www.wsj.com/finance/investing/jgbs-fall-amid-prospects-that-japans-ruling-party-may-win-more-seats-44aeb98e?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
+      "id": "a86450c9cfe5",
+      "title": "FTSE 100 hits record high as ‘metals meltdown’ in gold and silver eases – business live",
+      "summary": "Gold and silver prices recover early losses, after choice of Kevin Warsh as next Fed chair triggered heavy losses in precious metal pricesPlunge in price of gold and silver rattles global stock marketsUK house prices have also fallen – although it’s a better picture if you adjust for seasonal factor...",
+      "url": "https://www.theguardian.com/business/live/2026/feb/02/gold-silver-bitcoin-oil-commodities-slide-metals-meltdown-dollar-fed-chair-warsh-uk-house-prices-markets-business-live-news-updates",
+      "source": "Business | The Guardian",
       "category": "財經",
-      "published": "2026-02-02T11:40:00+00:00"
+      "published": "2026-02-02T14:38:09+00:00"
     },
     {
-      "id": "815579fdf84b",
-      "title": "Want To Feel Dumb? Try Picking Stocks",
-      "summary": "Plus, bitcoin and oil join the metals rout",
-      "url": "https://www.wsj.com/finance/stocks/want-to-feel-dumb-try-picking-stocks-7b0916cc?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T11:29:00+00:00"
-    },
-    {
-      "id": "2118f73ce4ec",
-      "title": "‘Marketplace for predators’: Meta faces jury trial over child exploitation claims",
-      "summary": "New Mexico attorney general accuses Meta of failing to safeguard children against trafficking and sexual abuseMeta’s second major trial of 2026 over alleged harms to children begins on Monday.The landmark jury trial in Santa Fe pits the New Mexico attorney general’s office against the social media g...",
-      "url": "https://www.theguardian.com/technology/2026/feb/02/meta-trial-new-mexico-social-media",
-      "source": "Technology | The Guardian",
+      "id": "41e2f3c07adb",
+      "title": "UpScrolled’s founder says the social network has zoomed past 2.5M users",
+      "summary": "Upscrolled founder said that the social network was launched six years ago and had 150,000 users until January",
+      "url": "https://techcrunch.com/2026/02/02/upscrolleds-founder-says-the-social-network-has-zoomed-past-2-5m-users/",
+      "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-02-02T11:00:11+00:00"
+      "published": "2026-02-02T14:29:22+00:00"
     },
     {
-      "id": "1405a89dd302",
-      "title": "全年展望不如預期、與 ASML 接單高成對比，Lasertec 股價重挫 14%",
-      "summary": "EUV 光罩檢測設備商 Lasertec 近期公布 2026 會計年度第二季的財務報告，由於全年展望低於投資人 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/lasertec-outlook/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T10:20:34+00:00"
-    },
-    {
-      "id": "37e3375e3dd8",
-      "title": "石墨烯實驗首觀察到超流體停止流動，轉變成超固體",
-      "summary": "在量子物理與凝態物理中， 超流體（superfluid） 被視為近乎「完美」的流體，理論上能不停流動，然而一項 [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/graphene-superfluid-supersolid/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T10:14:35+00:00"
-    },
-    {
-      "id": "3662d8241e70",
-      "title": "沉迷 Vibe Coding 到餐廳也在寫程式，Clawdbot 創辦人為心理健康喊停",
-      "summary": "在最近一集《Behind the Craft》Podcast 中，Clawdbot（目前改名為 OpenCla [&#8230;]",
-      "url": "https://technews.tw/2026/02/02/vibe-coding-clawdbot/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T10:10:24+00:00"
+      "id": "f1aa8494c09c",
+      "title": "Inside the idyllic studio of Alison Lester: ‘Everything I do looks a bit like a stuffed toy’",
+      "summary": "The doyenne of Australian picture books talks about her creative process, the ‘wild and woolly’ place that inspired Magic Beach – and how a favourite idea was sketched on an aeroplane sick bagVote for the best Australian children’s picture bookFor an author fascinated by nature, and whose beloved pi...",
+      "url": "https://www.theguardian.com/books/2026/feb/03/australian-childrens-author-illustrator-alison-lester-studio-interview",
+      "source": "Children and teenagers | The Guardian",
+      "category": "媒體/文化",
+      "published": "2026-02-02T14:00:13+00:00"
     },
     {
       "id": "497b0618637a",
@@ -128,10 +137,19 @@
       "published": "2026-02-02T00:00:00+00:00"
     },
     {
-      "id": "f59c265d2f75",
-      "title": "Is this journal legitimate? This tool can help you decide",
-      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/d41586-026-00223-6Aletheia-Probe provides a one-stop shop to help you assess whether journals and conferences are trustworthy or predatory.",
-      "url": "https://www.nature.com/articles/d41586-026-00223-6",
+      "id": "869bfa91c0ea",
+      "title": "Does AI already have human-level intelligence? The evidence is clear",
+      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/d41586-026-00285-6The vision of human-level machine intelligence laid out by Alan Turing in the 1950s is now a reality. Eyes unclouded by dread or hype will help us to prepare for what comes next.",
+      "url": "https://www.nature.com/articles/d41586-026-00285-6",
+      "source": "Nature",
+      "category": "科學",
+      "published": "2026-02-02T00:00:00+00:00"
+    },
+    {
+      "id": "37c8ec02380e",
+      "title": "Science finds its song",
+      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/d41586-026-00316-2Turning data into sound and music helps researchers to build community and communicate their science to a broader audience.",
+      "url": "https://www.nature.com/articles/d41586-026-00316-2",
       "source": "Nature",
       "category": "科學",
       "published": "2026-02-02T00:00:00+00:00"
@@ -182,15 +200,6 @@
       "published": "2026-02-01T12:22:20+00:00"
     },
     {
-      "id": "a5e2aaa371d7",
-      "title": "How to Use Physics to Escape an Ice Bowl",
-      "summary": "Here are three smart tricks, based on an understanding of frictional forces, to beat a slippery slope.",
-      "url": "https://www.wired.com/story/how-to-use-physics-to-escape-an-ice-bowl/",
-      "source": "Science Latest",
-      "category": "媒體/文化",
-      "published": "2026-02-01T12:00:00+00:00"
-    },
-    {
       "id": "3a9a6856840b",
       "title": "Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims",
       "summary": "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China executes 11 scam compound bosses, a $40 million crypto theft has an unexpected alleged culprit, and more.",
@@ -207,15 +216,6 @@
       "source": "MIT 科技评论 - 本周热榜",
       "category": "AI",
       "published": "2026-01-31T08:05:51+00:00"
-    },
-    {
-      "id": "eed4ee2be99a",
-      "title": "P vs. NP and the Difficulty of Computation: A Ruliological Approach",
-      "summary": "Empirical Theoretical Computer Science “Could there be a faster program for that?” It’s a fundamental type of question in theoretical computer science. But except in special cases, such a question has proved fiendishly difficult to answer. And, for example, in half a century, almost no progress has ...",
-      "url": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
-      "source": "Stephen Wolfram Writings",
-      "category": "科學",
-      "published": "2026-01-30T19:26:48+00:00"
     }
   ]
 }
