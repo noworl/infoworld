@@ -49,5 +49,5 @@
       "https://www.wired.com/feed/category/science/latest/rss"
     ]
   },
-  "max_items": 25
+  "items_per_category": 4
 }

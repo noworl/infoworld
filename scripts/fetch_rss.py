@@ -69,12 +69,24 @@ def main():
     config = load_config()
     articles = fetch_feeds(config)
 
-    # Sort by published date, newest first
-    articles.sort(key=lambda x: x["published"], reverse=True)
+    # Group by category
+    by_category = {}
+    for article in articles:
+        cat = article["category"]
+        if cat not in by_category:
+            by_category[cat] = []
+        by_category[cat].append(article)
 
-    # Take top N items
-    max_items = config.get("max_items", 25)
-    articles = articles[:max_items]
+    # Sort each category by date and take equal amount from each
+    items_per_category = config.get("items_per_category", 4)
+    selected = []
+    for cat, cat_articles in by_category.items():
+        cat_articles.sort(key=lambda x: x["published"], reverse=True)
+        selected.extend(cat_articles[:items_per_category])
+
+    # Sort all selected by date
+    selected.sort(key=lambda x: x["published"], reverse=True)
+    articles = selected
 
     # Create output
     output = {

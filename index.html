@@ -36,43 +36,38 @@
       color: #888;
       font-size: 0.85rem;
     }
-    .category {
-      margin-bottom: 24px;
-    }
-    .category-header {
-      font-size: 1rem;
-      font-weight: 600;
-      color: #555;
-      margin-bottom: 8px;
-      cursor: pointer;
-      user-select: none;
-    }
-    .category-header:hover {
-      color: #000;
-    }
     .article-list {
       border: 1px solid #eee;
       border-radius: 4px;
     }
     .article {
-      padding: 10px 14px;
+      padding: 12px 14px;
       border-bottom: 1px solid #eee;
     }
     .article:last-child {
       border-bottom: none;
     }
+    .article-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+    }
+    .article-category {
+      font-size: 0.7rem;
+      padding: 2px 6px;
+      border-radius: 3px;
+      background: #f0f0f0;
+      color: #666;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
     .article-title {
       cursor: pointer;
       color: #333;
+      flex: 1;
     }
     .article-title:hover {
       color: #0066cc;
-    }
-    .article-title::before {
-      content: "● ";
-      color: #ccc;
-      font-size: 0.6rem;
-      vertical-align: middle;
     }
     .article-detail {
       display: none;
@@ -117,7 +112,6 @@
   </main>
 
   <script>
-    const CATEGORY_ORDER = ["AI", "科技", "科學", "財經", "音樂/聲音", "媒體/文化"];
     let currentOpen = null;
 
     async function loadFeed() {
@@ -136,45 +130,32 @@
       document.getElementById("updated").textContent =
         `最後更新：${updatedAt.toLocaleString("zh-TW")}`;
 
-      // Group by category
-      const grouped = {};
-      for (const cat of CATEGORY_ORDER) {
-        grouped[cat] = [];
+      if (data.articles.length === 0) {
+        document.getElementById("content").innerHTML = '<div class="empty">目前沒有文章</div>';
+        return;
       }
+
+      let html = '<div class="article-list">';
       for (const article of data.articles) {
-        if (grouped[article.category]) {
-          grouped[article.category].push(article);
-        }
-      }
-
-      let html = "";
-      for (const cat of CATEGORY_ORDER) {
-        const articles = grouped[cat];
-        if (articles.length === 0) continue;
-
-        html += `<div class="category">`;
-        html += `<div class="category-header">▸ ${cat} (${articles.length})</div>`;
-        html += `<div class="article-list">`;
-
-        for (const article of articles) {
-          html += `
-            <div class="article">
+        html += `
+          <div class="article">
+            <div class="article-header">
+              <span class="article-category">${article.category}</span>
               <div class="article-title" data-id="${article.id}">${article.title}</div>
-              <div class="article-detail" id="detail-${article.id}">
-                <div class="article-summary">${article.summary}</div>
-                <div class="article-meta">
-                  來源：${article.source}<br>
-                  <a href="${article.url}" target="_blank" rel="noopener" class="article-link">閱讀原文 →</a>
-                </div>
+            </div>
+            <div class="article-detail" id="detail-${article.id}">
+              <div class="article-summary">${article.summary}</div>
+              <div class="article-meta">
+                來源：${article.source}<br>
+                <a href="${article.url}" target="_blank" rel="noopener" class="article-link">閱讀原文 →</a>
               </div>
             </div>
-          `;
-        }
-
-        html += `</div></div>`;
+          </div>
+        `;
       }
+      html += '</div>';
 
-      document.getElementById("content").innerHTML = html || '<div class="empty">目前沒有文章</div>';
+      document.getElementById("content").innerHTML = html;
 
       // Add click handlers
       document.querySelectorAll(".article-title").forEach(el => {
