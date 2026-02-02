@@ -21,12 +21,15 @@
       color: #333;
     }
     header {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
       padding-bottom: 20px;
       border-bottom: 1px solid #eee;
       margin-bottom: 20px;
+    }
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
     }
     h1 {
       font-size: 1.5rem;
@@ -35,6 +38,19 @@
     .updated {
       color: #888;
       font-size: 0.85rem;
+    }
+    nav {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    nav a {
+      color: #0066cc;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+    nav a:hover {
+      text-decoration: underline;
     }
     .article-list {
       border: 1px solid #eee;
@@ -104,8 +120,15 @@
 </head>
 <body>
   <header>
-    <h1>Infoworld</h1>
-    <span class="updated" id="updated"></span>
+    <div class="header-top">
+      <h1>Infoworld</h1>
+      <span class="updated" id="updated"></span>
+    </div>
+    <nav>
+      <a href="new_videos.html">New Videos</a>
+      <a href="" id="reddit-tech">Reddit Tech Weekly</a>
+      <a href="" id="reddit-music">Reddit Music Weekly</a>
+    </nav>
   </header>
   <main id="content">
     <div class="empty">載入中...</div>
@@ -113,6 +136,19 @@
 
   <script>
     let currentOpen = null;
+
+    // Set dynamic Reddit links
+    function setRedditLinks() {
+      const today = new Date();
+      const yyyy = today.getFullYear();
+      const mm = String(today.getMonth() + 1).padStart(2, '0');
+      const dd = String(today.getDate()).padStart(2, '0');
+      const dateStr = `${yyyy}-${mm}-${dd}`;
+
+      document.getElementById('reddit-tech').href = `reddit/reddit_tech_weekly_${dateStr}.html`;
+      document.getElementById('reddit-music').href = `reddit/reddit_music_weekly_${dateStr}.html`;
+    }
+    setRedditLinks();
 
     async function loadFeed() {
       try {
