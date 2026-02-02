@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube 新影片</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f9f9f9;
+        }
+        h1 { color: #cc0000; }
+        h2 { color: #333; border-bottom: 2px solid #cc0000; padding-bottom: 5px; }
+        .video-item {
+            position: relative;
+            margin: 10px 0;
+        }
+        .video-link {
+            color: #065fd4;
+            text-decoration: none;
+            font-size: 16px;
+        }
+        .video-link:hover {
+            text-decoration: underline;
+        }
+        .video-date {
+            color: #606060;
+            font-size: 13px;
+            margin-left: 10px;
+        }
+        .thumbnail-popup {
+            display: none;
+            position: absolute;
+            left: 0;
+            top: 100%;
+            z-index: 100;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .thumbnail-popup img {
+            width: 320px;
+            height: auto;
+            display: block;
+        }
+        .video-item:hover .thumbnail-popup {
+            display: block;
+        }
+        .update-time {
+            color: #666;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <h1>YouTube 新影片</h1>
+    <p class="update-time">更新時間：2026-01-25 14:00</p>
+    <h2>BBC Archive</h2>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=q3jPktKBumY" target="_blank">1969: Britain's Obsession With Pets | Love of a Kind | BBC Archive</a>
+        <span class="video-date">📅 2026-01-24</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/q3jPktKBumY/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=DD4qoif7lvY" target="_blank">1992: Virtual Reality Theme Park | Tomorrow's World | BBC Archive</a>
+        <span class="video-date">📅 2026-01-23</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/DD4qoif7lvY/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=oIF8HSsQ3dM" target="_blank">1980: When Blue Peter Broadcast from an Empty Studio | BBC Archive</a>
+        <span class="video-date">📅 2026-01-22</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/oIF8HSsQ3dM/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=1HpjhntaLX0" target="_blank">1984: The Pub that Time Forgot | Breakfast Time | BBC Archive</a>
+        <span class="video-date">📅 2026-01-21</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/1HpjhntaLX0/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=453D33ljT_g" target="_blank">2000: Web Shoppers - The Future of Fashion? | Tomorrow's World | BBC Archive</a>
+        <span class="video-date">📅 2026-01-20</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/453D33ljT_g/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=GrIN084zhe4" target="_blank">1982: Factory Workers Discuss Automation | A Moment to Talk | BBC Archive</a>
+        <span class="video-date">📅 2026-01-19</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/GrIN084zhe4/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=THMg2Whvi18" target="_blank">1968: "The Mating Market" at the Concord Hotel | Man Alive | BBC Archive</a>
+        <span class="video-date">📅 2026-01-18</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/THMg2Whvi18/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=-o0z92j11MI" target="_blank">1993: A Legal RAVE? | Close Up North | BBC Archive</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/-o0z92j11MI/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=3GEyP_lOmrs" target="_blank">1970: Formula One Drivers' Pre-Season Ski Trip | Wheelbase | BBC Archive</a>
+        <span class="video-date">📅 2026-01-16</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/3GEyP_lOmrs/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=LsvLBvaaIPM" target="_blank">1972: Selling French Candles During the UK Power Shortages | Nationwide | BBC Archive</a>
+        <span class="video-date">📅 2026-01-15</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/LsvLBvaaIPM/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <h2>Eli Fieldsteel</h2>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=aTbK7tcPytU" target="_blank">Considerations for Large-Scale Projects - Week 13 Fall 2025 MUS 403 - Creative Audio Coding I</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/aTbK7tcPytU/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=08cMDnf6w_Y" target="_blank">OSC - Week 12 Fall 2025 MUS 403 - Creative Audio Coding I</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/08cMDnf6w_Y/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=v4cA4OYnPVI" target="_blank">GUI - Week 11 Fall 2025 MUS 403 - Creative Audio Coding I</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/v4cA4OYnPVI/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=VvwRVNPe6xU" target="_blank">MIDI - Week 10 Fall 2025 MUS 403 - Creative Audio Coding I</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/VvwRVNPe6xU/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=MsWmNzWlzlA" target="_blank">Signal Processing - Week 9 Fall 2025 MUS 403 - Creative Audio Coding I</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/MsWmNzWlzlA/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=m-Ojq2CTEng" target="_blank">Sequencing (cont.) - Week 8 Fall 2025 MUS 403 - Creative Audio Coding I</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/m-Ojq2CTEng/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=2dG0wpxElJE" target="_blank">Sequencing (cont.) - Week 7 Fall 2025 MUS 403 - Creative Audio Coding I</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/2dG0wpxElJE/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=fDQ_AMvdG3s" target="_blank">Sequencing - Week 6 Fall 2025 MUS 403 - Creative Audio Coding I</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/fDQ_AMvdG3s/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=iaNtgTBMqs8" target="_blank">Sampling (cont.) - Week 5 Fall 2025 MUS 403 - Creative Audio Coding I</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/iaNtgTBMqs8/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=aAPngikKkRo" target="_blank">Sampling - Week 4 Fall 2025 MUS 403 - Creative Audio Coding I</a>
+        <span class="video-date">📅 2026-01-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/aAPngikKkRo/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <h2>中央研究院Academia Sinica</h2>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=Ss0PCw9Af0k" target="_blank">觸受之眼：VR電影的感官邂逅｜李育霖研究員兼副所長</a>
+        <span class="video-date">📅 2026-01-15</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/Ss0PCw9Af0k/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=_kjGhvcZb18" target="_blank">你與人工智慧：與科技共進｜孔祥重院士</a>
+        <span class="video-date">📅 2026-01-09</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/_kjGhvcZb18/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=mtjBiUKJs6w" target="_blank">Black Holes: Where Disciplines Cross｜Dr. Peter Galison</a>
+        <span class="video-date">📅 2025-12-09</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/mtjBiUKJs6w/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=ogOu9deAgEc" target="_blank">氣候變遷與農業的未來：從科技創新看永續農業的可能 | 葉國楨特聘研究員（中研講堂）</a>
+        <span class="video-date">📅 2025-12-09</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/ogOu9deAgEc/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=qge7-Lm3Kgc" target="_blank">如何遇到一個好問題？科學如何獲得文化權威？|雷祥麟研究員</a>
+        <span class="video-date">📅 2025-12-09</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/qge7-Lm3Kgc/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=1rPkaODYmDE" target="_blank">Who Can Influence the End of Conflict-Related Sexual Violence (CRSV) Worldwide? ｜Ms. Nadia Murad</a>
+        <span class="video-date">📅 2025-12-09</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/1rPkaODYmDE/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=MuKipONTn-E" target="_blank">The Extraordinary Developments in Biomedicine and the Implications for Humanity｜Dr. Roger Kornberg</a>
+        <span class="video-date">📅 2025-12-08</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/MuKipONTn-E/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=_rOwg2hotQ8" target="_blank">探索花朵美麗之謎｜楊長賢院士</a>
+        <span class="video-date">📅 2025-11-25</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/_rOwg2hotQ8/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=5GiFyrMWgxU" target="_blank">超過50場科普活動 ！2025中研院「南部院區開放」11月8日（星期六）盛大登場</a>
+        <span class="video-date">📅 2025-11-03</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/5GiFyrMWgxU/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=Mt067VjhLOY" target="_blank">AI的多重宇宙｜2025院區開放主題演講</a>
+        <span class="video-date">📅 2025-10-19</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/Mt067VjhLOY/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <h2>Drew's Campfire</h2>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=RWXI9syj10k" target="_blank">Double Pendulum Multiple Flips Visualization</a>
+        <span class="video-date">📅 2025-12-25</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/RWXI9syj10k/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=8jVogdTJESw" target="_blank">Pushing Simulation to the Limit to Find Order in Chaos</a>
+        <span class="video-date">📅 2025-12-17</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/8jVogdTJESw/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=EKmgNngU1_U" target="_blank">Order and Chaos of the Double Pendulum Fully Visualized</a>
+        <span class="video-date">📅 2025-01-04</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/EKmgNngU1_U/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=OIHyN7TzY6A" target="_blank">Order Within Chaos in the Double Pendulum (Island of Stability Simulation)</a>
+        <span class="video-date">📅 2024-10-09</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/OIHyN7TzY6A/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=IxAwhW4gP_c" target="_blank">Intro to Topology - Turning a Mug Into a Doughnut</a>
+        <span class="video-date">📅 2022-08-03</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/IxAwhW4gP_c/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=JmvHNatZgVI" target="_blank">Paradox of the Möbius Strip and Klein Bottle  - A 4D Visualization</a>
+        <span class="video-date">📅 2022-03-31</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/JmvHNatZgVI/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=RkoW4WIVJsA" target="_blank">Why the Moon Doesn't Fall to Earth</a>
+        <span class="video-date">📅 2021-09-01</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/RkoW4WIVJsA/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=I-VJ05gaZLQ" target="_blank">Quantum Superposition and the Double Slit Experiment</a>
+        <span class="video-date">📅 2020-06-26</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/I-VJ05gaZLQ/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <h2>AI Search</h2>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=BYPlfLQm0CQ" target="_blank">Realtime AI voices, AI livestreamers, Blender 3D agents, realtime worlds, new top OCR: AI NEWS</a>
+        <span class="video-date">📅 2026-01-25</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/BYPlfLQm0CQ/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=eC8mZceIy5k" target="_blank">This is now the best FREE AI text-to-speech! Voice cloning + emotion control + voice design</a>
+        <span class="video-date">📅 2026-01-24</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/eC8mZceIy5k/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=54YB-hjZDR4" target="_blank">Open-source SUNO is here! Free offline AI music generator</a>
+        <span class="video-date">📅 2026-01-20</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/54YB-hjZDR4/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=eHMVifFMq0Q" target="_blank">Realtime AI video, open-source SUNO, next-level AI agents, realtime text-to-speech: AI NEWS</a>
+        <span class="video-date">📅 2026-01-18</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/eHMVifFMq0Q/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=2OrOufa3eoc" target="_blank">New open-source "Nano Banana" is here! INSANELY fast</a>
+        <span class="video-date">📅 2026-01-16</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/2OrOufa3eoc/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=qOr5-FrkElk" target="_blank">AI tutor agents, omnimodal video models, LTX-2 updates, long-term memory, video faceswap: AI NEWS</a>
+        <span class="video-date">📅 2026-01-11</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/qOr5-FrkElk/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=I_b2QN-B1W0" target="_blank">New #1 open-source AI video generator is here! Fast + 4K + audio + low vram</a>
+        <span class="video-date">📅 2026-01-08</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/I_b2QN-B1W0/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=7kPNA86G_GA" target="_blank">DeepSeek is back, realtime upscaler, realtime 3D worlds, top 3D generator, Qwen Image 2512: AI NEWS</a>
+        <span class="video-date">📅 2026-01-04</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/7kPNA86G_GA/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=-3DVJu72VhE" target="_blank">Long continuous AI video is here! Free & open-source</a>
+        <span class="video-date">📅 2026-01-01</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/-3DVJu72VhE/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=1IZMwC3oDfc" target="_blank">New open Nano Banana, AI plays any video game, new top open source models, long videos: AI NEWS</a>
+        <span class="video-date">📅 2025-12-28</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/1IZMwC3oDfc/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <h2>Github Awesome</h2>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=xyLR_L2doYY" target="_blank">grepai: the missing link between your codebase and your AI agent</a>
+        <span class="video-date">📅 2026-01-25</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/xyLR_L2doYY/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=DEUftT0sz_4" target="_blank">nlsh lets you talk to your terminal like a person  #github</a>
+        <span class="video-date">📅 2026-01-24</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/DEUftT0sz_4/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=Mo5NmLqArFk" target="_blank">GitHub Trending Weekly #20: FineTune, Antigravity Kit, Qwen3-TTS, OpenReel, RzWeb, nlsh, homunculus</a>
+        <span class="video-date">📅 2026-01-23</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/Mo5NmLqArFk/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=0pxSV8gICrM" target="_blank">OpenWork: the open-source alternative to Claude Cowork</a>
+        <span class="video-date">📅 2026-01-23</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/0pxSV8gICrM/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=IrxqzwDvJM4" target="_blank">ChartGPU: A Beautiful WebGPU charting library, let your browser render millions of points smoothly</a>
+        <span class="video-date">📅 2026-01-22</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/IrxqzwDvJM4/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=0Qc1EkemyHo" target="_blank">31 Trending Self-Hosted Projects on GitHub</a>
+        <span class="video-date">📅 2026-01-21</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/0Qc1EkemyHo/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=KmhVTCoeW6Q" target="_blank">Ocrbase: the self-hosted engine that turns your messy PDFs into usable JSON</a>
+        <span class="video-date">📅 2026-01-21</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/KmhVTCoeW6Q/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=nM_zJl2Dg1M" target="_blank">X Algorithm — the actual, open-source code powering the "For You" feed on X</a>
+        <span class="video-date">📅 2026-01-20</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/nM_zJl2Dg1M/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=CqHKhJPdcKw" target="_blank">1Code: the open-source GUI that makes AI coding parallel</a>
+        <span class="video-date">📅 2026-01-20</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/CqHKhJPdcKw/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=otecqTX8kdg" target="_blank">GitHub Trending Today #19: flux2.c, STFU, ttl, add-skill, HunspellColorize, openwork, HeartMuLa</a>
+        <span class="video-date">📅 2026-01-19</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/otecqTX8kdg/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <h2>MASAの料理ABC</h2>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=lTELJB2jQq0" target="_blank">雪景仙台露營日記｜冬天最療癒的美食與露營時光：前篇</a>
+        <span class="video-date">📅 2026-01-20</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/lTELJB2jQq0/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=yoH5ukVyR5c" target="_blank">素食酥脆豆皮排咖哩飯｜沒有肉卻超有滿足感的家常咖哩</a>
+        <span class="video-date">📅 2026-01-13</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/yoH5ukVyR5c/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=IdPqub7r93c" target="_blank">週末療癒甜點｜慢慢做的蘋果卡士達塔 🍎｜在家享受溫柔時光</a>
+        <span class="video-date">📅 2026-01-06</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/IdPqub7r93c/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=pchOFortULU" target="_blank">白菜變超好吃！麻婆風白菜豬五花煮｜冬季暖心快手料理</a>
+        <span class="video-date">📅 2025-12-27</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/pchOFortULU/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=NBcMhu6CKw4" target="_blank">【烏魚子萵苣炒飯】秘傳自製油一淋就升級！香氣爆棚超犯規的炒飯｜快速又豪華的一道料理</a>
+        <span class="video-date">📅 2025-12-23</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/NBcMhu6CKw4/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=U11nps9PYjM" target="_blank">冬天必吃！鮭魚味噌奶油燒定食｜當季鮭魚暖心日式家常料理</a>
+        <span class="video-date">📅 2025-12-16</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/U11nps9PYjM/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=hcfLM3vrnBQ" target="_blank">Presented by 膳魔師-南法風燉煮雞肉/ Tomato & Vegetable Braised Chicken |MASAの料理ABC</a>
+        <span class="video-date">📅 2025-12-15</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/hcfLM3vrnBQ/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=PZl5ndsyaOI" target="_blank">【必收藏】日式蝦仁飯做法｜蝦殼高湯的秘密｜超下飯、香味爆表</a>
+        <span class="video-date">📅 2025-12-09</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/PZl5ndsyaOI/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=YtNHpMlmc0M" target="_blank">【冬天必煮】和風白酒燉排骨｜入口即化的超嫩排骨｜簡單洋食暖心料理</a>
+        <span class="video-date">📅 2025-12-02</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/YtNHpMlmc0M/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+    <div class="video-item">
+        <a class="video-link" href="https://www.youtube.com/watch?v=IpAJO9TUcTQ" target="_blank">2025年11月29日</a>
+        <span class="video-date">📅 2025-11-29</span>
+        <div class="thumbnail-popup">
+            <img src="https://i.ytimg.com/vi/IpAJO9TUcTQ/maxresdefault.jpg" alt="縮圖">
+        </div>
+    </div>
+</body>
+</html>
