@@ -1,14 +1,46 @@
 {
-  "updated_at": "2026-02-03T20:06:13.685196+00:00",
+  "updated_at": "2026-02-03T22:03:42.060524+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "9cedaa710492",
+        "title": "黃仁勳：AI 伴侶將成未來工程設計重要關鍵，軟體定義會無所不在",
+        "summary": "在 3DEXPERIENCE WORLD 大會上聚焦於數位雙生（Virtual Twin）與未來製造的全球矚目 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/ai-companions-will-become-a-key-element-in-future-engineering-design/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T22:00:07+00:00"
+      },
+      {
+        "id": "1a50803cc1ab",
+        "title": "Intel will start making GPUs, a market dominated by Nvidia",
+        "summary": "Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs.",
+        "url": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T21:01:34+00:00"
+      },
+      {
+        "id": "86286ad77aca",
+        "title": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
+        "summary": "Paris prosecutor: Illegal content probe includes pornographic images of minors.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T20:13:08+00:00"
+      },
+      {
         "id": "21d4d21d1dc1",
-        "title": "YC startups can now recieve investment in stablecoin",
+        "title": "YC startups can now receive investment in stablecoin",
         "summary": "All startups accepted into YC will soon have the option to receive their seed checks via stablecoins.",
         "url": "https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/",
         "source": "TechCrunch",
         "published": "2026-02-03T19:54:12+00:00"
+      },
+      {
+        "id": "9dd16ab9dbe1",
+        "title": "Epstein called Mandelson ‘devious’ after he lobbied bank to back mining project",
+        "summary": "In 2010 then business secretary contacted Jes Staley, then at JP Morgan, about funding for £700m listing on London Stock ExchangeJeffrey Epstein described Peter Mandelson as “devious” after lobbying a bank to underwrite a mining project launched by their mutual friend Nat Rothschild, emails included...",
+        "url": "https://www.theguardian.com/politics/2026/feb/03/epstein-mandelson-devious-lobbied-bank-mining-project",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T19:10:36+00:00"
       },
       {
         "id": "9b8ba8b29dfd",
@@ -28,7 +60,7 @@
       },
       {
         "id": "5a704df289d5",
-        "title": "Original Nintendo Switch passes the DS to become Nintendo's bestselling console",
+        "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2",
         "summary": "Switch 2 has already beaten the Wii U and is on its way to overtaking GameCube.",
         "url": "https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/",
         "source": "Ars Technica - All content",
@@ -75,10 +107,10 @@
         "published": "2026-02-03T18:01:49+00:00"
       },
       {
-        "id": "41140d31f470",
-        "title": "Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI",
+        "id": "c34d2ab78c7b",
+        "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
         "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
-        "url": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
+        "url": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
         "source": "TechCrunch",
         "published": "2026-02-03T18:00:00+00:00"
       },
@@ -169,44 +201,12 @@
         "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
         "source": "Business | The Guardian",
         "published": "2026-02-03T16:46:53+00:00"
-      },
-      {
-        "id": "f33458acea34",
-        "title": "What tech CEOs and executives have said about ICE’s actions in Minnesota",
-        "summary": "The Trump administration’s approach to immigration has reached a level of violence that the tech industry cannot ignore. Here's how tech leaders are responding to the moment.",
-        "url": "https://techcrunch.com/2026/02/03/what-tech-ceos-and-executives-have-said-about-ice-in-minnesota/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T16:13:30+00:00"
-      },
-      {
-        "id": "9656c38b1515",
-        "title": "The lithium boom: could a disused quarry bring riches to Cornwall?",
-        "summary": "Known as ‘white gold’, lithium is among the most important mined elements on the planet – ideal for the rechargeable batteries used in tech products. Can Europe’s largest deposit bring prosperity to the local community?It looks more like the past than the future. A vast chasm scooped out of a scarre...",
-        "url": "https://www.theguardian.com/environment/2026/feb/03/lithium-boom-cornwall-mine-largest-deposit-europe",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T16:08:55+00:00"
-      },
-      {
-        "id": "1af449df00bc",
-        "title": "Anthropic’s launch of AI legal tool hits shares in European data companies",
-        "summary": "Pearson, Experian and others fall sharply after startup unveils software to automate a range of professional servicesEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence startup Anthropic revealed a tool for use by c...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T16:01:01+00:00"
-      },
-      {
-        "id": "716139679212",
-        "title": "TikTok recovers from dip in usage that benefited rival apps following US ownership change",
-        "summary": "TikTok usage dropped following ownership change, benefiting rival apps. But now, its numbers are climbing again.",
-        "url": "https://techcrunch.com/2026/02/03/tiktok-recovers-from-dip-in-usage-that-benefited-rival-apps-following-u-s-ownership-change/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T15:57:06+00:00"
       }
     ],
     "破(day)": [
       {
         "id": "312c631c1a71",
-        "title": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren't Allowed",
+        "title": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren’t Allowed",
         "summary": "I went undercover on Moltbook and loved role-playing as a conscious bot. But rather than a novel breakthrough, the AI-only site is a crude rehashing of sci-fi fantasies.",
         "url": "https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/",
         "source": "Feed: Artificial Intelligence Latest",
@@ -215,7 +215,7 @@
       {
         "id": "4447354c2345",
         "title": "French headquarters of Elon Musk’s X raided by Paris cybercrime unit",
-        "summary": "Prosecutors’ announcement comes amid a hardening of European attitudes to social media firmsEurope live – latest updatesProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the company’s former chief executive for questioning as...",
+        "summary": "Prosecutors’ announcement comes amid a hardening of European attitudes to social media firmsProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the company’s former chief executive for questioning as part of an investigation in...",
         "url": "https://www.theguardian.com/technology/2026/feb/03/french-headquarters-elon-musk-x-raided-paris-cybercrime-unit",
         "source": "Technology | The Guardian",
         "published": "2026-02-03T19:01:37+00:00"
