@@ -1,30 +1,78 @@
 {
-  "updated_at": "2026-02-03T14:01:05.319122+00:00",
+  "updated_at": "2026-02-03T15:36:29.067674+00:00",
   "categories": {
     "急(hr)": [
       {
         "id": "205a5e82b17f",
-        "title": "FTSE 100 hits fresh record high as gold heads for best day since 2008; SpaceX buys xAI in $1.25tn deal – business live",
+        "title": "FTSE 100 falls back from record high amid AI worries; gold heads for best day since 2008 – business live",
         "summary": "Rolling coverage of the latest economic and financial newsElon Musk merges SpaceX with artificial intelligence company xAIUK grocery inflation has dropped to a nine-month low, in welcome news for UK households, and the Bank of England.Worldpanel by Numerator has reported that like-for-like grocery p...",
         "url": "https://www.theguardian.com/business/live/2026/feb/03/gold-silver-prices-markets-stabilise-spacex-buys-xai-uk-inflation-stock-markets-business-live-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-03T13:44:02+00:00"
-      },
-      {
-        "id": "1af449df00bc",
-        "title": "Anthropic’s launch of AI legal tool hits shares in European data services firms",
-        "summary": "Stocks in Pearson, London Stock Exchange Group and Experian plunge amid fears over impact of AIEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence firm Anthropic announced a tool aimed at companies’ in-house lawyers...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T13:38:08+00:00"
+        "published": "2026-02-03T15:09:12+00:00"
       },
       {
         "id": "e1f24089bbc3",
         "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
-        "summary": "Information Commissioner’s Office to investigate whether Elon Musk’s companies have complied with data protection lawThe Information Commissioner’s Office (ICO) has opened formal investigations into X and xAI over whether Elon Musk’s companies have complied with data protection law after the Grok AI...",
+        "summary": "Information Commissioner’s Office to investigate whether Elon Musk’s firms have complied with data protection lawElon Musk’s X and xAI companies are under formal investigation by the UK’s data protection watchdog after the Grok AI tool produced indecent deepfakes without people’s consent.The Informa...",
         "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
         "source": "Business | The Guardian",
-        "published": "2026-02-03T12:49:02+00:00"
+        "published": "2026-02-03T14:49:56+00:00"
+      },
+      {
+        "id": "8119020b741a",
+        "title": "韋伯望遠鏡再破紀錄，捕捉大霹靂後 2.8 億年的星系 MoM-z14",
+        "summary": "美國太空總署詹姆斯韋伯太空望遠鏡近期確認了一個存在於大霹靂後 2.8 億年的明亮星系，再次刷新可觀測宇宙的邊界 [&#8230;]",
+        "url": "https://technews.tw/2026/02/03/jwst-pushes-the-limits-of-the-observable-universe/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T14:48:49+00:00"
+      },
+      {
+        "id": "725be682ff34",
+        "title": "Disney names parks and cruises boss Josh D’Amaro as next CEO",
+        "summary": "D’Amaro will take over next month from Bob Iger, who returned to lead the media company after a bungled successionDisney has unveiled Josh D’Amaro as its next CEO, drawing a line under a bungled succession at the top of the global entertainment conglomerate.Bob Iger, who led the media giant for 15 y...",
+        "url": "https://www.theguardian.com/film/2026/feb/03/disney-new-ceo-justin-damaro",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T14:47:58+00:00"
+      },
+      {
+        "id": "53da5019e643",
+        "title": "PayPal hires HP’s Enrique Lores as its new CEO",
+        "summary": "PayPal is appointing CFO and COO Jamie Miller as interim CEO until March 1.",
+        "url": "https://techcrunch.com/2026/02/03/paypal-hires-hps-enrique-lores-as-its-new-ceo/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T14:15:28+00:00"
+      },
+      {
+        "id": "1ba08a2f07c9",
+        "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
+        "summary": "Peak XV is transitioning board roles and opening a U.S. office while continuing to view India as its largest market.",
+        "url": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T14:14:33+00:00"
+      },
+      {
+        "id": "29a0bfb1eda8",
+        "title": "Senior staff departing OpenAI as firm prioritizes ChatGPT development",
+        "summary": "Resources are redirected from long-term research toward improving the flagship chatbot.",
+        "url": "https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T14:02:57+00:00"
+      },
+      {
+        "id": "ffa2caccb2d8",
+        "title": "‘We never would have bought’: Australian mortgage holders feel the pain as interest rates rise again",
+        "summary": "The RBA’s widely anticipated decision marks the end of the shortest rate-cutting cycle in the reserve’s modern history, hitting mortgagees hardGet our breaking news email, free app or daily news podcastAs the RBA lifted the official interest rate on Tuesday, one regional New South Wales couple said ...",
+        "url": "https://www.theguardian.com/australia-news/2026/feb/04/we-never-would-have-bought-australian-mortgage-holders-feel-the-pain-as-interest-rates-rise-again",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T14:00:06+00:00"
+      },
+      {
+        "id": "1af449df00bc",
+        "title": "Anthropic’s launch of AI legal tool hits shares in European data services firms",
+        "summary": "Stocks in Pearson, London Stock Exchange Group and Experian plunge amid fears over impact of AIEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence firm Anthropic revealed a tool for use by companies’ legal departmen...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T13:38:08+00:00"
       },
       {
         "id": "a2ef3de7b2d2",
@@ -153,64 +201,40 @@
         "url": "https://technews.tw/2026/02/03/dassault-systemes-works-closely-with-nvidia/",
         "source": "TechNews 科技新報",
         "published": "2026-02-03T08:50:25+00:00"
-      },
-      {
-        "id": "4405432cd15b",
-        "title": "UK shoppers buy more fruit and yoghurt in healthy start to 2026",
-        "summary": "Britons cut back in January after record grocery spending in December, turning to own-label productsBusiness live – latest updatesBritons started 2026 by buying more healthy food such as fruit and yoghurt as they attempted to hit new year health goals, while grocery price inflation eased to the lowe...",
-        "url": "https://www.theguardian.com/business/2026/feb/03/uk-grocery-price-inflation-january-fruit-yoghurt",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T08:42:28+00:00"
-      },
-      {
-        "id": "f1eaef3a688b",
-        "title": "哈薩克鈾開採巨擘今年將擴產 9%  美核能概念股摔",
-        "summary": "全球最大鈾礦開採國哈薩克的國有企業 Kazatomprom 決定 2026 年要進一步擴產，消息傳來衝擊美國鈾 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/03/kazatomprom-to-expand-output-by-9-us-nuclear-stocks-drop/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T08:40:54+00:00"
-      },
-      {
-        "id": "f4a1d13e2138",
-        "title": "已可快速擊落複數目標，洛克希德馬丁 HELIOS 雷射系統成功擊落 4 架無人機",
-        "summary": "隨著無人機技術擴散與戰場環境改變，如何以低成本手段反制飽和攻擊已成為各國海軍當務之急，洛克希德馬丁執行長近日在 [&#8230;]",
-        "url": "https://technews.tw/2026/02/03/lockheed-martins-helios-laser-shot-down-4-drones-at-once-during-tests/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T08:31:41+00:00"
-      },
-      {
-        "id": "1e645536ed60",
-        "title": "防通膨過熱  澳洲央行升息、2023 年來頭一遭",
-        "summary": "考量通膨升溫壓力加劇，澳洲央行決議升息 1 碼，為 2023 年來首度升息，符合市場預期。 CNBC、路透等外 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/03/reserve-bank-of-australia-hikes-rates-by-25-basis-points/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T08:20:22+00:00"
-      },
-      {
-        "id": "2400f518fb81",
-        "title": "SiTime 擬砸 30 億美元收購瑞薩時脈部門，瑞薩股價一度大噴 6.7%",
-        "summary": "彭博社引述知情人士的話透露，美類比晶片大廠 SiTime 即將達成協議，擬收購瑞薩電子（Renesas）旗下的 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/03/sitime-wanna-buy-renesas-timing-unit/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T08:18:26+00:00"
-      },
-      {
-        "id": "9b4cd6ecd6a6",
-        "title": "一張流程圖被點名？特斯拉 4680 電池製程傳調整",
-        "summary": "近日 X 平台流出消息指出，Tesla 正在調整旗下 4680 電池的製造流程，相關內容隨後也獲得執行長 El [&#8230;]",
-        "url": "https://technews.tw/2026/02/03/tesla-battery-4680/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T08:16:15+00:00"
       }
     ],
     "破(day)": [
       {
         "id": "e1f24089bbc3",
         "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
-        "summary": "Information Commissioner’s Office to investigate whether Elon Musk’s companies have complied with data protection lawThe Information Commissioner’s Office (ICO) has opened formal investigations into X and xAI over whether Elon Musk’s companies have complied with data protection law after the Grok AI...",
+        "summary": "Information Commissioner’s Office to investigate whether Elon Musk’s firms have complied with data protection lawElon Musk’s X and xAI companies are under formal investigation by the UK’s data protection watchdog after the Grok AI tool produced indecent deepfakes without people’s consent.The Informa...",
         "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
         "source": "Technology | The Guardian",
-        "published": "2026-02-03T12:49:02+00:00"
+        "published": "2026-02-03T14:49:56+00:00"
+      },
+      {
+        "id": "4447354c2345",
+        "title": "French headquarters of Elon Musk’s X raided by Paris cybercrime unit",
+        "summary": "Prosecutors summon tech billionaire and ex-CEO for questioning and add Grok AI tool to investigationEurope live – latest updatesProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the company’s former chief executive for questi...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/french-headquarters-elon-musk-x-raided-paris-cybercrime-unit",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T14:25:14+00:00"
+      },
+      {
+        "id": "3cc3111bd5f5",
+        "title": "Disastrous start for US TikTok as users cry censorship",
+        "summary": "New US-owned app struggled with a storm and was accused of blocking content critical of Trump – can it recover?Hello, and welcome to TechScape. I’m Blake Montgomery, writing to you from Doha, where I’m moderating panels about AI and investing as part of the Web Summit Qatar.I want to bring your atte...",
+        "url": "https://www.theguardian.com/technology/2026/feb/02/tiktok-us-owners",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T14:18:46+00:00"
+      },
+      {
+        "id": "1af449df00bc",
+        "title": "Anthropic’s launch of AI legal tool hits shares in European data services firms",
+        "summary": "Stocks in Pearson, London Stock Exchange Group and Experian plunge amid fears over impact of AIEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence firm Anthropic revealed a tool for use by companies’ legal departmen...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T13:38:08+00:00"
       },
       {
         "id": "c7e87ed3921b",
@@ -219,14 +243,6 @@
         "url": "https://www.wired.com/story/the-big-interview-podcast-jonathan-nolan-fallout/",
         "source": "Feed: Artificial Intelligence Latest",
         "published": "2026-02-03T12:00:00+00:00"
-      },
-      {
-        "id": "4447354c2345",
-        "title": "French headquarters of Elon Musk’s X raided by Paris cybercrime unit",
-        "summary": "Prosecutors summon tech billionaire and company’s ex-CEO for questioning as part of expanded investigationEurope live – latest updatesProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the company’s former chief executive for ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/french-headquarters-elon-musk-x-raided-paris-cybercrime-unit",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-03T11:42:00+00:00"
       },
       {
         "id": "bd7c717b70d8",
@@ -275,14 +291,6 @@
         "url": "https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-03T02:31:10+00:00"
-      },
-      {
-        "id": "9d4fc95022b3",
-        "title": "Palantir beats Wall Street expectations amid Trump immigration crackdown",
-        "summary": "CEO Alex Karp hails ‘iconic’ financial results despite criticism over contracts with ICE and homeland securityPalantir celebrated its latest financial results on Monday, as the tech company blew past Wall Street expectations and continues to prop up the Trump administration’s push to deport immigran...",
-        "url": "https://www.theguardian.com/technology/2026/feb/02/palantir-financial-results-ice-trump-immigration",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-03T01:04:37+00:00"
       },
       {
         "id": "0ec0c34f81f3",
@@ -381,14 +389,6 @@
         "published": "2026-02-02T12:11:09+00:00"
       },
       {
-        "id": "2118f73ce4ec",
-        "title": "‘Marketplace for predators’: Meta faces jury trial over child exploitation claims",
-        "summary": "New Mexico attorney general accuses Meta of failing to safeguard children against trafficking and sexual abuseMeta’s second major trial of 2026 over alleged harms to children begins on Monday.The landmark jury trial in Santa Fe pits the New Mexico attorney general’s office against the social media g...",
-        "url": "https://www.theguardian.com/technology/2026/feb/02/meta-trial-new-mexico-social-media",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-02T11:00:11+00:00"
-      },
-      {
         "id": "46e579299b3a",
         "title": "Ukraine’s Tembra Modular continues workshops, gear despite attacks",
         "summary": "Through blackouts, bitter cold, Internet disruptions, and nightly attacks, Ukrainian DIY producers Tembra Modular persist. The two-person shop continues to run workshops and produce DIY kits and assembled modules. Blackouts can't stop them: their production often takes place literally by candlelight...",
@@ -406,6 +406,14 @@
       }
     ],
     "序(month)": [
+      {
+        "id": "48fe7417fe59",
+        "title": "運用MapToPoster製作精美城市地圖海報",
+        "summary": "MapToPoster 是一個由開發者 originalankur 建立的開源 Python 專案，運用免費的 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260203/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-03T15:18:02+00:00"
+      },
       {
         "id": "6fc1b4ac7277",
         "title": "Don’t let nostalgia cloud your judgment: some of the best picture books are actually the newest | Kate Temple",
@@ -597,14 +605,6 @@
         "url": "https://technews.tw/2026/01/28/security-concerns-surrounding-meta-ai-chatbots-have-resurfaced/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-01-28T02:30:30+00:00"
-      },
-      {
-        "id": "67da50b5bb9a",
-        "title": "想要 AI 功能請掏錢，Meta 擬替三大社群平台測試訂閱制",
-        "summary": "Meta 正式啟動新一波訂閱制測試，計畫在旗下三大社群平台 Instagram、Facebook 與 What [&#8230;]",
-        "url": "https://technews.tw/2026/01/28/meta-ai-instagram-facebook-whatsapp/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-01-28T02:07:50+00:00"
       }
     ]
   }
