@@ -133,8 +133,8 @@
     </div>
     <nav>
       <a href="new_videos.html">New Videos</a>
-      <a href="" id="reddit-tech">Reddit Tech Weekly</a>
-      <a href="" id="reddit-music">Reddit Music Weekly</a>
+      <a href="#" id="reddit-tech">Reddit Tech Weekly</a>
+      <a href="#" id="reddit-music">Reddit Music Weekly</a>
     </nav>
   </header>
   <main id="content">
@@ -146,21 +146,29 @@
     const CATEGORY_LABELS = {"急(hr)": "急", "破(day)": "破", "序(month)": "序"};
     let currentOpen = null;
 
-    // Set Reddit links to most recent Sunday
-    function setRedditLinks() {
+    // Find latest Reddit weekly file
+    async function findLatestReddit(type) {
       const today = new Date();
-      const day = today.getDay();
-      const diff = day === 0 ? 0 : day; // days since last Sunday
-      const lastSunday = new Date(today);
-      lastSunday.setDate(today.getDate() - diff);
+      for (let i = 0; i < 14; i++) {
+        const d = new Date(today);
+        d.setDate(d.getDate() - i);
+        const yyyy = d.getFullYear();
+        const mm = String(d.getMonth() + 1).padStart(2, '0');
+        const dd = String(d.getDate()).padStart(2, '0');
+        const url = `reddit/reddit_${type}_weekly_${yyyy}-${mm}-${dd}.html`;
+        try {
+          const res = await fetch(url, { method: 'HEAD' });
+          if (res.ok) return url;
+        } catch (e) {}
+      }
+      return null;
+    }
 
-      const yyyy = lastSunday.getFullYear();
-      const mm = String(lastSunday.getMonth() + 1).padStart(2, '0');
-      const dd = String(lastSunday.getDate()).padStart(2, '0');
-      const dateStr = `${yyyy}-${mm}-${dd}`;
-
-      document.getElementById('reddit-tech').href = `reddit/reddit_tech_weekly_${dateStr}.html`;
-      document.getElementById('reddit-music').href = `reddit/reddit_music_weekly_${dateStr}.html`;
+    async function setRedditLinks() {
+      const techUrl = await findLatestReddit('tech');
+      const musicUrl = await findLatestReddit('music');
+      if (techUrl) document.getElementById('reddit-tech').href = techUrl;
+      if (musicUrl) document.getElementById('reddit-music').href = musicUrl;
     }
     setRedditLinks();
 
