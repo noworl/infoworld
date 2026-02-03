@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-03T10:08:17.371513+00:00",
+  "updated_at": "2026-02-03T12:00:49.474459+00:00",
   "articles": [
     {
       "id": "92c9da6e645f",
@@ -20,6 +20,87 @@
       "published": "2026-02-03T12:02:38+00:00"
     },
     {
+      "id": "2a77548f474a",
+      "title": "sbt",
+      "summary": "I have finished a new composition.\nThis time the rig was super ball mallet on bathtub with a metal plate inside. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the piece if you click through to m...",
+      "url": "https://danielmkarlsson.com/log#sbt",
+      "source": "Daniel M Karlsson - log",
+      "category": "音樂/聲音",
+      "published": "2026-02-03T12:00:45.213177+00:00"
+    },
+    {
+      "id": "3ef6af58f3a4",
+      "title": "hld",
+      "summary": "I have finished a new composition.\nThis time I made a piece from recordings I did of the Halldorophone that is on loan to EMS from the inventor. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the...",
+      "url": "https://danielmkarlsson.com/log#hld",
+      "source": "Daniel M Karlsson - log",
+      "category": "音樂/聲音",
+      "published": "2026-02-03T12:00:45.213165+00:00"
+    },
+    {
+      "id": "62a09be180e6",
+      "title": "erd",
+      "summary": "I have finished a new composition.\nThis time I made a piece from recordings I did of some metal street sweeper brushes laid down on a small frame drum iterated with an eBow. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoug...",
+      "url": "https://danielmkarlsson.com/log#erd",
+      "source": "Daniel M Karlsson - log",
+      "category": "音樂/聲音",
+      "published": "2026-02-03T12:00:45.213152+00:00"
+    },
+    {
+      "id": "9681ef3eebbe",
+      "title": "cla",
+      "summary": "I have finished a new composition.\nThis time I made a piece from recordings I did of a Clarinet that I borrowed from a friend a while back. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the piec...",
+      "url": "https://danielmkarlsson.com/log#cla",
+      "source": "Daniel M Karlsson - log",
+      "category": "音樂/聲音",
+      "published": "2026-02-03T12:00:45.213119+00:00"
+    },
+    {
+      "id": "c06dc5d33b28",
+      "title": "X’s Paris Office Raided by Prosecutors Amid Probe Into Deepfakes",
+      "summary": "Authorities are investigating the social-media platform’s role in deepfake images and alleged foreign interference in French politics.",
+      "url": "https://www.wsj.com/tech/xs-paris-office-raided-by-prosecutors-eb5a820a?mod=rss_Technology",
+      "source": "Technology - WSJ.com",
+      "category": "科技",
+      "published": "2026-02-03T11:53:00+00:00"
+    },
+    {
+      "id": "5d0b4dc1ad56",
+      "title": "Gold Buyers, This Isn’t the 1970s",
+      "summary": "Plus, SpaceX, the final frontier?",
+      "url": "https://www.wsj.com/finance/stocks/gold-buyers-this-isnt-the-1970s-9a7af920?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-03T11:39:00+00:00"
+    },
+    {
+      "id": "c67f58078dbe",
+      "title": "Basic Materials Roundup: Market Talk",
+      "summary": "Find insight on Akzo Nobel, Anglo American, Umicore and more in the latest Market Talks covering Basic Materials.",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6b48e2f1?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-03T11:22:00+00:00"
+    },
+    {
+      "id": "256843b822fd",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "Find insight on Siltronic, SpaceX, Xero and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-1bc5ae53?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-03T11:18:00+00:00"
+    },
+    {
+      "id": "034777ac681b",
+      "title": "U.S. Treasury Yields Rise as Data Reassures Growth Prospects",
+      "summary": "Treasury yields increased after Monday’s ISM manufacturing PMI data provided reassurance regarding the economic strength of the U.S.",
+      "url": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-2e823883?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-03T11:09:00+00:00"
+    },
+    {
       "id": "14b8ea3d27a6",
       "title": "OpenAI推出Codex桌面版，程式代理人從研究功能走向工作平臺",
       "summary": "OpenAI周一（2/2）推出Codex app for macOS，將原本存在於ChatGPT、CLI與IDE擴充中的Codex，進一步獨立為桌面應用程式，定位為可同時管理多個程式代理人的指揮中心。這項發表並非單純增加新介面，而是象徵OpenAI正式將「代理人式開發」從研究預覽階段，推向可規模化使用的實務工作模式。",
@@ -29,85 +110,13 @@
       "published": "2026-02-03T11:02:59+00:00"
     },
     {
-      "id": "09d503171ca8",
-      "title": "SpaceX宣布買下xAI",
-      "summary": "馬斯克（Elon Musk）周一（2/2）宣布，旗下太空公司SpaceX已買下同為馬斯克麾下的AI新創xAI，以垂直整合AI、火箭、太空網路、行動裝置直連通訊，以及即時資訊與言論自由平臺。",
-      "url": "https://www.ithome.com.tw/news/173722",
-      "source": "iThome 新聞",
-      "category": "科技",
-      "published": "2026-02-03T11:02:40+00:00"
-    },
-    {
-      "id": "2a77548f474a",
-      "title": "sbt",
-      "summary": "I have finished a new composition.\nThis time the rig was super ball mallet on bathtub with a metal plate inside. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the piece if you click through to m...",
-      "url": "https://danielmkarlsson.com/log#sbt",
-      "source": "Daniel M Karlsson - log",
-      "category": "音樂/聲音",
-      "published": "2026-02-03T10:08:13.070308+00:00"
-    },
-    {
-      "id": "3ef6af58f3a4",
-      "title": "hld",
-      "summary": "I have finished a new composition.\nThis time I made a piece from recordings I did of the Halldorophone that is on loan to EMS from the inventor. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the...",
-      "url": "https://danielmkarlsson.com/log#hld",
-      "source": "Daniel M Karlsson - log",
-      "category": "音樂/聲音",
-      "published": "2026-02-03T10:08:13.070297+00:00"
-    },
-    {
-      "id": "62a09be180e6",
-      "title": "erd",
-      "summary": "I have finished a new composition.\nThis time I made a piece from recordings I did of some metal street sweeper brushes laid down on a small frame drum iterated with an eBow. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoug...",
-      "url": "https://danielmkarlsson.com/log#erd",
-      "source": "Daniel M Karlsson - log",
-      "category": "音樂/聲音",
-      "published": "2026-02-03T10:08:13.070283+00:00"
-    },
-    {
-      "id": "9681ef3eebbe",
-      "title": "cla",
-      "summary": "I have finished a new composition.\nThis time I made a piece from recordings I did of a Clarinet that I borrowed from a friend a while back. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the piec...",
-      "url": "https://danielmkarlsson.com/log#cla",
-      "source": "Daniel M Karlsson - log",
-      "category": "音樂/聲音",
-      "published": "2026-02-03T10:08:13.070251+00:00"
-    },
-    {
-      "id": "af3d569d2ab6",
-      "title": "EU has ‘open mind’ on UK customs union talks, says official",
-      "summary": "Valdis Dombrovskis says bloc is ‘ready to engage’ amid meetings with ministers including Rachel ReevesBusiness live – latest updatesThe European Commission would be “open-minded” to discussing closer trade ties with the UK, including a customs union, a senior EU official has said.The EU economy comm...",
-      "url": "https://www.theguardian.com/world/2026/feb/03/eu-uk-customs-union-rachel-reeves-valdis-dombrovskis",
-      "source": "Business | The Guardian",
-      "category": "財經",
-      "published": "2026-02-03T09:54:11+00:00"
-    },
-    {
-      "id": "2c6132a7380c",
-      "title": "Orsted Sells Onshore Business for $1.7 Billion After Judge Rules U.S. Wind Project Can Resume",
-      "summary": "The company has been working through a major restructuring that includes a large-scale divestment program to free up funds and shore up its coffers.",
-      "url": "https://www.wsj.com/business/energy-oil/orsted-sells-onshore-business-to-copenhagen-infrastructure-partners-for-1-7-billion-9b392771?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-03T09:48:00+00:00"
-    },
-    {
-      "id": "205a5e82b17f",
-      "title": "FTSE 100 hits fresh record high as gold and silver prices jump again; SpaceX buys xAI in $1.25tn deal – business live",
-      "summary": "Rolling coverage of the latest economic and financial newsElon Musk merges SpaceX with artificial intelligence company xAIUK grocery inflation has dropped to a nine-month low, in welcome news for UK households, and the Bank of England.Worldpanel by Numerator has reported that like-for-like grocery p...",
-      "url": "https://www.theguardian.com/business/live/2026/feb/03/gold-silver-prices-markets-stabilise-spacex-buys-xai-uk-inflation-stock-markets-business-live-news-updates",
-      "source": "Business | The Guardian",
-      "category": "財經",
-      "published": "2026-02-03T09:41:13+00:00"
-    },
-    {
-      "id": "187568f19e2a",
-      "title": "Political Headwinds Ease For Euro After France Passes Budget",
-      "summary": "News that France has finally passed a budget should alleviate political headwinds facing the euro and is contributing to the single currency’s rise, Monex Europe said.",
-      "url": "https://www.wsj.com/finance/currencies/yen-mixed-as-traders-digest-japanese-finance-ministers-fx-remarks-96314604?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-03T09:40:00+00:00"
+      "id": "bd7c717b70d8",
+      "title": "Rising Temperatures Are Taking a Toll on Sleep Health",
+      "summary": "As nights get hotter around the globe due to climate change, the prevalence of sleep apnea is expected to increase by as much as threefold.",
+      "url": "https://www.wired.com/story/climate-change-heat-sleep-apnea/",
+      "source": "Science Latest",
+      "category": "媒體/文化",
+      "published": "2026-02-03T10:30:00+00:00"
     },
     {
       "id": "3da99bac9e5e",
@@ -126,6 +135,42 @@
       "source": "Simon Willison's Weblog",
       "category": "媒體/文化",
       "published": "2026-02-03T02:31:10+00:00"
+    },
+    {
+      "id": "a0901cbae300",
+      "title": "Embrace diverse PhD supervision styles — but enforce essential standards",
+      "summary": "Nature, Published online: 03 February 2026; doi:10.1038/d41586-026-00344-yEmbrace diverse PhD supervision styles — but enforce essential standards",
+      "url": "https://www.nature.com/articles/d41586-026-00344-y",
+      "source": "Nature",
+      "category": "科學",
+      "published": "2026-02-03T00:00:00+00:00"
+    },
+    {
+      "id": "38691386202d",
+      "title": "Calling all scientists: Support your Iranian colleagues",
+      "summary": "Nature, Published online: 03 February 2026; doi:10.1038/d41586-026-00342-0Calling all scientists: Support your Iranian colleagues",
+      "url": "https://www.nature.com/articles/d41586-026-00342-0",
+      "source": "Nature",
+      "category": "科學",
+      "published": "2026-02-03T00:00:00+00:00"
+    },
+    {
+      "id": "111851d30567",
+      "title": "Who does academic consulting serve?",
+      "summary": "Nature, Published online: 03 February 2026; doi:10.1038/d41586-026-00343-zWho does academic consulting serve?",
+      "url": "https://www.nature.com/articles/d41586-026-00343-z",
+      "source": "Nature",
+      "category": "科學",
+      "published": "2026-02-03T00:00:00+00:00"
+    },
+    {
+      "id": "b2616b1760f4",
+      "title": "The 'bible for psychiatry' is getting a rewrite: your guide to the next DSM",
+      "summary": "Nature, Published online: 03 February 2026; doi:10.1038/d41586-026-00283-8The next version of the diagnostic tool will be a ‘living' and ‘scientifically rigorous manual’.",
+      "url": "https://www.nature.com/articles/d41586-026-00283-8",
+      "source": "Nature",
+      "category": "科學",
+      "published": "2026-02-03T00:00:00+00:00"
     },
     {
       "id": "7886699674f7",
@@ -155,15 +200,6 @@
       "published": "2026-02-02T20:56:41+00:00"
     },
     {
-      "id": "5b58cb2e153f",
-      "title": "Introducing the Codex app",
-      "summary": "Introducing the Codex app\nOpenAI just released a new macOS app for their Codex coding agent. I've had a few days of preview access - it's a solid app that provides a nice UI over the capabilities of the Codex CLI agent and adds some interesting new features, most notably first-class support for Skil...",
-      "url": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "category": "媒體/文化",
-      "published": "2026-02-02T19:54:36+00:00"
-    },
-    {
       "id": "12f40143f5b2",
       "title": "Advancing AI benchmarking with Game Arena",
       "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
@@ -171,42 +207,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-02-02T17:00:00+00:00"
-    },
-    {
-      "id": "d7d36c99f43f",
-      "title": "Lawmakers spend big on home state science projects",
-      "summary": "Kentucky Senator Mitch McConnell, king of congressional earmarks, steers $165 million to his alma maters",
-      "url": "https://www.science.org/content/article/lawmakers-spend-big-home-state-science-projects",
-      "source": "Latest News from Science Magazine",
-      "category": "科學",
-      "published": "2026-02-02T12:30:00+00:00"
-    },
-    {
-      "id": "0c2c8be498f4",
-      "title": "Serious side effects dim hopes for the first chikungunya vaccine",
-      "summary": "The shots fell short during a massive outbreak on a French island. A new vaccine may be safer",
-      "url": "https://www.science.org/content/article/serious-side-effects-dim-hopes-first-chikungunya-vaccine",
-      "source": "Latest News from Science Magazine",
-      "category": "科學",
-      "published": "2026-02-02T02:05:00+00:00"
-    },
-    {
-      "id": "a4c1405b809b",
-      "title": "A broadly protective antibody targeting gammaherpesvirus gB",
-      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/s41586-026-10192-5A broadly protective antibody targeting gammaherpesvirus gB",
-      "url": "https://www.nature.com/articles/s41586-026-10192-5",
-      "source": "Nature",
-      "category": "科學",
-      "published": "2026-02-02T00:00:00+00:00"
-    },
-    {
-      "id": "9969a58c95a9",
-      "title": "Long-lived remote ion-ion entanglement for scalable quantum repeaters",
-      "summary": "Nature, Published online: 02 February 2026; doi:10.1038/s41586-026-10177-4Long-lived remote ion-ion entanglement for scalable quantum repeaters",
-      "url": "https://www.nature.com/articles/s41586-026-10177-4",
-      "source": "Nature",
-      "category": "科學",
-      "published": "2026-02-02T00:00:00+00:00"
     },
     {
       "id": "30fdb0a60b45",
