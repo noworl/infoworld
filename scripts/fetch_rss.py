@@ -68,6 +68,7 @@ def fetch_feeds(config):
 def main():
     config = load_config()
     articles = fetch_feeds(config)
+    max_items = config.get("max_items_per_category", 25)
 
     # Group by category
     by_category = {}
@@ -77,21 +78,19 @@ def main():
             by_category[cat] = []
         by_category[cat].append(article)
 
-    # Sort each category by date and take equal amount from each
-    items_per_category = config.get("items_per_category", 4)
-    selected = []
+    # Sort each category by date and take top N
+    categories_output = {}
     for cat, cat_articles in by_category.items():
         cat_articles.sort(key=lambda x: x["published"], reverse=True)
-        selected.extend(cat_articles[:items_per_category])
-
-    # Sort all selected by date
-    selected.sort(key=lambda x: x["published"], reverse=True)
-    articles = selected
+        # Remove category field from each article (no longer needed)
+        for a in cat_articles:
+            del a["category"]
+        categories_output[cat] = cat_articles[:max_items]
 
     # Create output
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "articles": articles
+        "categories": categories_output
     }
 
     # Ensure data directory exists
@@ -100,7 +99,8 @@ def main():
     with open("data/feed.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"Saved {len(articles)} articles to data/feed.json")
+    total = sum(len(v) for v in categories_output.values())
+    print(f"Saved {total} articles to data/feed.json")
 
 if __name__ == "__main__":
     main()

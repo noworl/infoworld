@@ -1,53 +1,46 @@
 {
   "categories": {
-    "AI": [
-      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/rss/",
-      "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
-      "https://www.wired.com/feed/tag/ai/latest/rss",
-      "https://plink.anyfeeder.com/mittrchina/hot"
-    ],
-    "科技": [
+    "急(hr)": [
       "https://www.ithome.com.tw/rss",
       "https://techcrunch.com/feed/",
       "https://feeds.arstechnica.com/arstechnica/index",
       "https://cdn.technews.tw/feed/",
-      "https://cdn.technews.tw/category/meta/feed/",
-      "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
-      "https://www.wired.com/feed/category/business/latest/rss",
-      "https://www.theguardian.com/uk/technology/rss"
-    ],
-    "科學": [
-      "https://writings.stephenwolfram.com/feed/",
       "https://www.science.org/rss/news_current.xml",
       "https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science",
       "https://www.nature.com/nature.rss",
-      "https://journals.acoustics.jp/ast/feed/"
-    ],
-    "財經": [
-      "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed",
-      "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
       "https://www.theguardian.com/uk/business/rss"
+
     ],
-    "音樂/聲音": [
+    "破(day)": [
+      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/rss/",
+      "https://plink.anyfeeder.com/mittrchina/hot",
+      "https://www.wired.com/feed/tag/ai/latest/rss",
+      "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
+      "https://www.wired.com/feed/category/business/latest/rss",
+            "https://cdm.link/feed/",
+      "https://www.twreporter.org/a/rss2.xml",
+      "https://simonwillison.net/atom/everything/",
+      "https://www.wired.com/feed/category/ideas/latest/rss",
+      "https://www.wired.com/feed/category/science/latest/rss",
+      "https://www.theguardian.com/uk/technology/rss"
+    ],
+    "序(month)": [
+      "https://cdn.technews.tw/category/meta/feed/",
+      "https://writings.stephenwolfram.com/feed/",
+      "https://journals.acoustics.jp/ast/feed/",
       "https://blog.freesound.org/?feed=rss2",
-      "https://blog.toplap.org/feed/",
-      "https://cdm.link/feed/",
+      "https://www.ruanyifeng.com/blog/atom.xml",
+            "https://blog.toplap.org/feed/",
       "https://www.tandfonline.com/feed/rss/tmam20",
       "https://dsp56300.wordpress.com/feed/",
       "https://www.min-on.org/zh-hant/feed/",
-      "https://danielmkarlsson.com/rss.xml",
-      "https://wp.nyu.edu/music_and_sound_cultures/feed/"
-    ],
-    "媒體/文化": [
-      "https://www.twreporter.org/a/rss2.xml",
+      "https://wp.nyu.edu/music_and_sound_cultures/feed/",
       "https://www.theguardian.com/books/booksforchildrenandteenagers/rss",
       "https://blog.archive.org/feed/",
-      "https://gis.rchss.sinica.edu.tw/feed/",
-      "https://www.ruanyifeng.com/blog/atom.xml",
-      "https://simonwillison.net/atom/everything/",
-      "https://www.wired.com/feed/category/ideas/latest/rss",
-      "https://www.wired.com/feed/category/science/latest/rss"
+      "https://gis.rchss.sinica.edu.tw/feed/"
+
+
     ]
   },
-  "items_per_category": 4
+  "max_items_per_category": 25
 }
