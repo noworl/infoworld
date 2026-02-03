@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-03T13:16:37.607083+00:00",
+  "updated_at": "2026-02-03T14:01:05.319122+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -8,7 +8,15 @@
         "summary": "Rolling coverage of the latest economic and financial newsElon Musk merges SpaceX with artificial intelligence company xAIUK grocery inflation has dropped to a nine-month low, in welcome news for UK households, and the Bank of England.Worldpanel by Numerator has reported that like-for-like grocery p...",
         "url": "https://www.theguardian.com/business/live/2026/feb/03/gold-silver-prices-markets-stabilise-spacex-buys-xai-uk-inflation-stock-markets-business-live-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-03T12:54:38+00:00"
+        "published": "2026-02-03T13:44:02+00:00"
+      },
+      {
+        "id": "1af449df00bc",
+        "title": "Anthropic’s launch of AI legal tool hits shares in European data services firms",
+        "summary": "Stocks in Pearson, London Stock Exchange Group and Experian plunge amid fears over impact of AIEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence firm Anthropic announced a tool aimed at companies’ in-house lawyers...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T13:38:08+00:00"
       },
       {
         "id": "e1f24089bbc3",
@@ -35,44 +43,12 @@
         "published": "2026-02-03T12:15:49+00:00"
       },
       {
-        "id": "92c9da6e645f",
-        "title": "Waymo完成160億美元募資，估值1260億美元，自動駕駛正式進入全球擴張期",
-        "summary": "Alphabet旗下自動駕駛公司Waymo周一（2/2）宣布完成一輪160億美元私募融資，投後估值達1260億美元。本輪融資由Dragoneer Investment Group、DST Global與Sequoia Capital領投，Andreessen Horowitz、Mubadala Capital等多家知名投資機構參與。",
-        "url": "https://www.ithome.com.tw/news/173726",
-        "source": "iThome 新聞",
-        "published": "2026-02-03T12:02:57+00:00"
-      },
-      {
-        "id": "6e3a7e0c289c",
-        "title": "Windows 11非安全更新KB5074105再傳災情，用戶回報效能與開始選單異常",
-        "summary": "微軟上周釋出最新Windows 11更新KB5074105，解決1月初Patch Tuesday引發無法開機、登入等眾多問題。但本次更新似乎又有新問題，目前微軟尚未證實。",
-        "url": "https://www.ithome.com.tw/news/173725",
-        "source": "iThome 新聞",
-        "published": "2026-02-03T12:02:38+00:00"
-      },
-      {
         "id": "21cc3d05318e",
         "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
         "summary": "We don't need self-replicating AI models to have problems, just self-replicating prompts.",
         "url": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
         "source": "Ars Technica - All content",
         "published": "2026-02-03T12:00:01+00:00"
-      },
-      {
-        "id": "14b8ea3d27a6",
-        "title": "OpenAI推出Codex桌面版，程式代理人從研究功能走向工作平臺",
-        "summary": "OpenAI周一（2/2）推出Codex app for macOS，將原本存在於ChatGPT、CLI與IDE擴充中的Codex，進一步獨立為桌面應用程式，定位為可同時管理多個程式代理人的指揮中心。這項發表並非單純增加新介面，而是象徵OpenAI正式將「代理人式開發」從研究預覽階段，推向可規模化使用的實務工作模式。",
-        "url": "https://www.ithome.com.tw/news/173724",
-        "source": "iThome 新聞",
-        "published": "2026-02-03T11:02:59+00:00"
-      },
-      {
-        "id": "09d503171ca8",
-        "title": "SpaceX宣布買下xAI",
-        "summary": "馬斯克（Elon Musk）周一（2/2）宣布，旗下太空公司SpaceX已買下同為馬斯克麾下的AI新創xAI，以垂直整合AI、火箭、太空網路、行動裝置直連通訊，以及即時資訊與言論自由平臺。",
-        "url": "https://www.ithome.com.tw/news/173722",
-        "source": "iThome 新聞",
-        "published": "2026-02-03T11:02:40+00:00"
       },
       {
         "id": "939b1bbf2f92",
@@ -105,14 +81,6 @@
         "url": "https://ccc.technews.tw/2026/02/03/new-color-ereader-mooink-chill/",
         "source": "TechNews 科技新報",
         "published": "2026-02-03T10:19:58+00:00"
-      },
-      {
-        "id": "0244ff7be13d",
-        "title": "PyTorch存在CVE-2026-24747高風險漏洞，惡意模型可觸發遠端程式碼執行",
-        "summary": "開源深度學習框架PyTorch被揭露存在資安漏洞CVE-2026-24747，CVSS風險分數為8.8分，屬於高風險（High）等級。即使使用者啟用原本設計用來降低風險的安全載入選項，攻擊者仍可能透過特製的模型檔案，觸發遠端程式碼執行（RCE）。",
-        "url": "https://www.ithome.com.tw/news/173721",
-        "source": "iThome 新聞",
-        "published": "2026-02-03T10:02:57+00:00"
       },
       {
         "id": "af3d569d2ab6",
@@ -163,14 +131,6 @@
         "published": "2026-02-03T09:10:26+00:00"
       },
       {
-        "id": "553a9637aa55",
-        "title": "Google BigQuery推出對話式分析，自然語言提問即可生成並執行SQL",
-        "summary": "Google於BigQuery推出對話式分析預覽版，使用者可在BigQuery Studio以自然語言提問，系統會產生並執行SQL，回傳解讀、查詢結果與圖表。Google表示，這項功能可縮短使用者等待資料團隊回覆的時間，讓提問到取得答案的流程更直接。",
-        "url": "https://www.ithome.com.tw/news/173720",
-        "source": "iThome 新聞",
-        "published": "2026-02-03T09:02:29+00:00"
-      },
-      {
         "id": "e39a07f4ea05",
         "title": "明泰1月營收月減48.7%",
         "summary": "明泰（3380）公布 1 月合併營收 15.28 億元，較上（12）月成長 -48.7%，與去年同期相比為年增 [&#8230;]",
@@ -201,9 +161,57 @@
         "url": "https://www.theguardian.com/business/2026/feb/03/uk-grocery-price-inflation-january-fruit-yoghurt",
         "source": "Business | The Guardian",
         "published": "2026-02-03T08:42:28+00:00"
+      },
+      {
+        "id": "f1eaef3a688b",
+        "title": "哈薩克鈾開採巨擘今年將擴產 9%  美核能概念股摔",
+        "summary": "全球最大鈾礦開採國哈薩克的國有企業 Kazatomprom 決定 2026 年要進一步擴產，消息傳來衝擊美國鈾 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/03/kazatomprom-to-expand-output-by-9-us-nuclear-stocks-drop/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T08:40:54+00:00"
+      },
+      {
+        "id": "f4a1d13e2138",
+        "title": "已可快速擊落複數目標，洛克希德馬丁 HELIOS 雷射系統成功擊落 4 架無人機",
+        "summary": "隨著無人機技術擴散與戰場環境改變，如何以低成本手段反制飽和攻擊已成為各國海軍當務之急，洛克希德馬丁執行長近日在 [&#8230;]",
+        "url": "https://technews.tw/2026/02/03/lockheed-martins-helios-laser-shot-down-4-drones-at-once-during-tests/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T08:31:41+00:00"
+      },
+      {
+        "id": "1e645536ed60",
+        "title": "防通膨過熱  澳洲央行升息、2023 年來頭一遭",
+        "summary": "考量通膨升溫壓力加劇，澳洲央行決議升息 1 碼，為 2023 年來首度升息，符合市場預期。 CNBC、路透等外 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/03/reserve-bank-of-australia-hikes-rates-by-25-basis-points/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T08:20:22+00:00"
+      },
+      {
+        "id": "2400f518fb81",
+        "title": "SiTime 擬砸 30 億美元收購瑞薩時脈部門，瑞薩股價一度大噴 6.7%",
+        "summary": "彭博社引述知情人士的話透露，美類比晶片大廠 SiTime 即將達成協議，擬收購瑞薩電子（Renesas）旗下的 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/03/sitime-wanna-buy-renesas-timing-unit/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T08:18:26+00:00"
+      },
+      {
+        "id": "9b4cd6ecd6a6",
+        "title": "一張流程圖被點名？特斯拉 4680 電池製程傳調整",
+        "summary": "近日 X 平台流出消息指出，Tesla 正在調整旗下 4680 電池的製造流程，相關內容隨後也獲得執行長 El [&#8230;]",
+        "url": "https://technews.tw/2026/02/03/tesla-battery-4680/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T08:16:15+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "e1f24089bbc3",
+        "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
+        "summary": "Information Commissioner’s Office to investigate whether Elon Musk’s companies have complied with data protection lawThe Information Commissioner’s Office (ICO) has opened formal investigations into X and xAI over whether Elon Musk’s companies have complied with data protection law after the Grok AI...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T12:49:02+00:00"
+      },
       {
         "id": "c7e87ed3921b",
         "title": "‘Fallout’ Producer Jonathan Nolan on AI: ‘We’re in Such a Frothy Moment’",
@@ -211,6 +219,14 @@
         "url": "https://www.wired.com/story/the-big-interview-podcast-jonathan-nolan-fallout/",
         "source": "Feed: Artificial Intelligence Latest",
         "published": "2026-02-03T12:00:00+00:00"
+      },
+      {
+        "id": "4447354c2345",
+        "title": "French headquarters of Elon Musk’s X raided by Paris cybercrime unit",
+        "summary": "Prosecutors summon tech billionaire and company’s ex-CEO for questioning as part of expanded investigationEurope live – latest updatesProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the company’s former chief executive for ...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/french-headquarters-elon-musk-x-raided-paris-cybercrime-unit",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T11:42:00+00:00"
       },
       {
         "id": "bd7c717b70d8",
@@ -357,14 +373,6 @@
         "published": "2026-02-02T16:00:00+00:00"
       },
       {
-        "id": "d3b0cd9aecc5",
-        "title": "‘A mixed blessing’: crowdfunding has changed the way we give, but is it fair and effective?",
-        "summary": "Millions of dollars have been raised for Bondi hero Ahmed al-Ahmed, while campaigns are backing families hit by Victoria’s bushfires. What does this way of giving mean for the charity sector?Within hours of the Bondi beach terror attack, the money had already begun to pour in. As images of the trage...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/crowdfunding-mixed-blessing-giving-bushfires-bondi-attack",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-02T14:00:11+00:00"
-      },
-      {
         "id": "e21f943ec415",
         "title": "Requiem for a film-maker: Darren Aronofsky’s AI revolutionary war series is a horror",
         "summary": "The once-lauded director of Black Swan and The Wrestler has drowned himself in AI slop with an embarrassing new online seriesIf you happen to find yourself stumbling through Time magazine’s YouTube account, perhaps because you are a time traveller from the 1970s who doesn’t fully understand how the ...",
@@ -389,14 +397,6 @@
         "published": "2026-02-02T10:42:50+00:00"
       },
       {
-        "id": "6f060b0a7355",
-        "title": "Viral AI personal assistant seen as step change – but experts warn of risks",
-        "summary": "OpenClaw is billed as ‘the AI that actually does things’ and needs almost no input to potentially wreak havocA new viral AI personal assistant will handle your email inbox, trade away your entire stock portfolio and text your wife “good morning” and “goodnight” on your behalf.OpenClaw, formerly know...",
-        "url": "https://www.theguardian.com/technology/2026/feb/02/openclaw-viral-ai-agent-personal-assistant-artificial-intelligence",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-02T07:00:51+00:00"
-      },
-      {
         "id": "0db376dab261",
         "title": "TIL: Running OpenClaw in Docker",
         "summary": "TIL: Running OpenClaw in Docker\nI've been running OpenClaw using Docker on my Mac. Here are the first in my ongoing notes on how I set that up and the commands I'm using to administer it.\n\nUse their Docker Compose configuration\nAnswering all of those questions\nRunning administrative commands\nSetting...",
@@ -406,6 +406,14 @@
       }
     ],
     "序(month)": [
+      {
+        "id": "6fc1b4ac7277",
+        "title": "Don’t let nostalgia cloud your judgment: some of the best picture books are actually the newest | Kate Temple",
+        "summary": "Contemporary children’s books reflect the diversity and values of a changing world – but getting new titles into small hands is harder than everVote for the best Australian children’s picture bookThe 1980s were a great time to write a classic Aussie picture book. From Possum Magic and Animalia to Wh...",
+        "url": "https://www.theguardian.com/culture/2026/feb/04/best-picture-books-actually-newest",
+        "source": "Children and teenagers | The Guardian",
+        "published": "2026-02-03T14:00:07+00:00"
+      },
       {
         "id": "d9f5ffde1e07",
         "title": "Follow the Changes: 9 Ways Web Archives are Used in Digital Investigations",
@@ -597,14 +605,6 @@
         "url": "https://technews.tw/2026/01/28/meta-ai-instagram-facebook-whatsapp/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-01-28T02:07:50+00:00"
-      },
-      {
-        "id": "7efee5d8ce29",
-        "title": "Timeless Songs, Fresh Lyrics: Musician Stephanie Woodford Reinterprets the Public Domain",
-        "summary": "When songs enter the public domain, they don’t just get older, they get new lives. For this year’s virtual Public Domain Day celebration, musician Stephanie Woodford gave three newly public-domain [&#8230;]",
-        "url": "https://blog.archive.org/2026/01/27/timeless-songs-fresh-lyrics-musician-stephanie-woodford-reimagines-the-public-domain/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-01-27T17:04:22+00:00"
       }
     ]
   }
