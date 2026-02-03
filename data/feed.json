@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-02-03T18:38:35.729861+00:00",
+  "updated_at": "2026-02-03T20:06:13.685196+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "21d4d21d1dc1",
+        "title": "YC startups can now recieve investment in stablecoin",
+        "summary": "All startups accepted into YC will soon have the option to receive their seed checks via stablecoins.",
+        "url": "https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T19:54:12+00:00"
+      },
+      {
+        "id": "9b8ba8b29dfd",
+        "title": "Elon Musk is taking SpaceX’s minority shareholders for a ride | Nils Pratley",
+        "summary": "Merger with loss-making xAI looks to some investors more like a bailout than a  rocket trip to the futureElon Musk merges SpaceX with xAI at $1.25tn valuationTo Elon Musk’s fanclub, there is nothing to see apart from more evidence of the great man’s visionary genius. SpaceX, the rocket firm, is buyi...",
+        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/03/elon-musk-is-taking-spacexs-minority-shareholders-for-a-ride",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T19:07:06+00:00"
+      },
+      {
+        "id": "2a24bd8d3073",
+        "title": "2026 plans: What’s next for Startup Battlefield 200",
+        "summary": "See what to expect for Startup Battlefield 200 in 2026, the ultimate startup pitch competition on the global stage at TechCrunch Disrupt. Join the mailing list to be the first to know when applications drop.",
+        "url": "https://techcrunch.com/2026/02/03/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T18:57:30+00:00"
+      },
+      {
+        "id": "5a704df289d5",
+        "title": "Original Nintendo Switch passes the DS to become Nintendo's bestselling console",
+        "summary": "Switch 2 has already beaten the Wii U and is on its way to overtaking GameCube.",
+        "url": "https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T18:56:20+00:00"
+      },
       {
         "id": "a8bd5db2960f",
         "title": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
@@ -9,6 +41,14 @@
         "url": "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/",
         "source": "TechCrunch",
         "published": "2026-02-03T18:35:19+00:00"
+      },
+      {
+        "id": "7f8af9719a0b",
+        "title": "Google court filings suggest ChromeOS has an expiration date",
+        "summary": "ChromeOS may be canned once the current support guarantee has run its course.",
+        "url": "https://arstechnica.com/google/2026/02/google-court-filings-suggest-googles-chromeos-has-an-expiration-date/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T18:25:18+00:00"
       },
       {
         "id": "53e05d0f0f5e",
@@ -20,11 +60,19 @@
       },
       {
         "id": "331c944650d9",
-        "title": "‘Finally got him to go’: how Epstein was given an inside track on UK’s political future",
-        "summary": "Apparent tip-off by Peter Mandelson gave advance notice of instability that would ripple through global marketsOn a brisk Monday evening in May 2010, Gordon Brown stood on the steps of Downing Street and delivered one of the most dramatic announcements of the New Labour era: his resignation as UK pr...",
+        "title": "‘Finally got him to go’: how Epstein was given inside track on events that rippled through global markets",
+        "summary": "Apparent leak by Peter Mandelson gave advance notice of Gordon Brown’s resignation and €500bn eurozone dealOn a brisk Monday evening in May 2010, Gordon Brown stood on the steps of Downing Street and delivered one of the most dramatic announcements of the New Labour era: his resignation as UK prime ...",
         "url": "https://www.theguardian.com/politics/2026/feb/03/finally-got-him-to-go-jeffrey-epstein-inside-track-uk-peter-mandelson",
         "source": "Business | The Guardian",
         "published": "2026-02-03T18:11:34+00:00"
+      },
+      {
+        "id": "a08184bc0902",
+        "title": "Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP",
+        "summary": "With Model Context Protocol (MCP), this works with more than Codex/Claude, too.",
+        "url": "https://arstechnica.com/apple/2026/02/xcode-26-3-adds-support-for-claude-codex-and-other-agentic-tools-via-mcp/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T18:01:49+00:00"
       },
       {
         "id": "41140d31f470",
@@ -36,7 +84,7 @@
       },
       {
         "id": "e018d355dfdd",
-        "title": "Gradient’s heat pumps get new smarts to enable old building retrofits",
+        "title": "Gradient’s heat pumps get new smarts to enable old-building retrofits",
         "summary": "Gradient's heat pumps fit in windows, minimizing installation times. Now, it is introducing software to make those units more intelligent.",
         "url": "https://techcrunch.com/2026/02/03/gradients-heat-pumps-get-new-smarts-to-enable-old-building-retrofits/",
         "source": "TechCrunch",
@@ -59,6 +107,22 @@
         "published": "2026-02-03T17:29:19+00:00"
       },
       {
+        "id": "081580abbb3d",
+        "title": "Wing Commander III: \"Isn't that the guy from Star Wars?\"",
+        "summary": "C:\\ArsGames looks at a vanguard of the multimedia FMV future that never quite came to pass.",
+        "url": "https://arstechnica.com/gaming/2026/02/wing-commander-iii-the-game-kind-of-sucked-but-the-experience-blew-me-away/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T17:29:16+00:00"
+      },
+      {
+        "id": "715db03ab9af",
+        "title": "From ‘nerdy’ Gemini to ‘edgy’ Grok: how developers are shaping AI behaviours",
+        "summary": "AIs are not sentient – but tweaks to their ethical codes can have far-reaching consequences for usersDo you want an AI assistant that gushes about how it “loves humanity” or one that spews sarcasm? How about a political propagandist ready to lie? If so, ChatGPT, Grok and Qwen are at your disposal.Co...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/gemini-grok-chatgpt-claude-qwen-ai-chatbots-identity-crisis",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T17:28:23+00:00"
+      },
+      {
         "id": "141b9c944854",
         "title": "Enforcement is the issue on the decent homes standard | Letters",
         "summary": "Dr Stephen Battersby fears that England could be doubling up on underresourced regulatory agenciesWhile the anger at the timeline for enforcing the decent homes standard (DHS) in England might be expected, it is also arguable that enforcing decent home standards is not as difficult as campaigners ma...",
@@ -73,6 +137,14 @@
         "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
         "source": "TechCrunch",
         "published": "2026-02-03T17:14:27+00:00"
+      },
+      {
+        "id": "e84d1af53729",
+        "title": "Upset at reports that he'd given up, Trump now wants $1B from Harvard",
+        "summary": "Hefty \"fine\" comes in wake of NY Times reporting of money-free settlement.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/upset-at-reports-that-hed-given-up-trump-now-wants-1b-from-harvard/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T17:08:34+00:00"
       },
       {
         "id": "2ec18f57c8fa",
@@ -117,7 +189,7 @@
       {
         "id": "1af449df00bc",
         "title": "Anthropic’s launch of AI legal tool hits shares in European data companies",
-        "summary": "Pearson, Experian and others fall sharply after startup unveils software to automate a range of professional servicesEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence firm Anthropic revealed a tool for use by comp...",
+        "summary": "Pearson, Experian and others fall sharply after startup unveils software to automate a range of professional servicesEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence startup Anthropic revealed a tool for use by c...",
         "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
         "source": "Business | The Guardian",
         "published": "2026-02-03T16:01:01+00:00"
@@ -129,81 +201,25 @@
         "url": "https://techcrunch.com/2026/02/03/tiktok-recovers-from-dip-in-usage-that-benefited-rival-apps-following-u-s-ownership-change/",
         "source": "TechCrunch",
         "published": "2026-02-03T15:57:06+00:00"
-      },
-      {
-        "id": "eadf3951f065",
-        "title": "Fitbit founders launch AI platform to help families monitor their health",
-        "summary": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues.",
-        "url": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T15:53:36+00:00"
-      },
-      {
-        "id": "b0fb2c59d916",
-        "title": "China bans all retractable car door handles, starting next year",
-        "summary": "The pop-out door handle ban starts in 2027 for new cars, 2029 for existing models.",
-        "url": "https://arstechnica.com/cars/2026/02/china-bans-all-retractable-car-door-handles-starting-next-year/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T15:33:06+00:00"
-      },
-      {
-        "id": "8119020b741a",
-        "title": "韋伯望遠鏡再破紀錄，捕捉大霹靂後 2.8 億年的星系 MoM-z14",
-        "summary": "美國太空總署詹姆斯韋伯太空望遠鏡近期確認了一個存在於大霹靂後 2.8 億年的明亮星系，再次刷新可觀測宇宙的邊界 [&#8230;]",
-        "url": "https://technews.tw/2026/02/03/jwst-pushes-the-limits-of-the-observable-universe/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T14:48:49+00:00"
-      },
-      {
-        "id": "725be682ff34",
-        "title": "Disney names parks and cruises boss Josh D’Amaro as next CEO",
-        "summary": "D’Amaro will take over next month from Bob Iger, who returned to lead the media company after a bungled successionDisney has unveiled Josh D’Amaro as its next CEO, drawing a line under a bungled succession at the top of the global entertainment conglomerate.Bob Iger, who led the media giant for 15 y...",
-        "url": "https://www.theguardian.com/film/2026/feb/03/disney-new-ceo-justin-damaro",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T14:47:58+00:00"
-      },
-      {
-        "id": "3cc3111bd5f5",
-        "title": "Disastrous start for US TikTok as users cry censorship",
-        "summary": "New US-owned app struggled with a storm and was accused of blocking content critical of Trump – can it recover?Hello, and welcome to TechScape. I’m Blake Montgomery, writing to you from Doha, where I’m moderating panels about AI and investing as part of the Web Summit Qatar.I want to bring your atte...",
-        "url": "https://www.theguardian.com/technology/2026/feb/02/tiktok-us-owners",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T14:18:46+00:00"
-      },
-      {
-        "id": "53da5019e643",
-        "title": "PayPal hires HP’s Enrique Lores as its new CEO",
-        "summary": "PayPal is appointing CFO and COO Jamie Miller as interim CEO until March 1.",
-        "url": "https://techcrunch.com/2026/02/03/paypal-hires-hps-enrique-lores-as-its-new-ceo/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T14:15:28+00:00"
-      },
-      {
-        "id": "1ba08a2f07c9",
-        "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
-        "summary": "Peak XV is transitioning board roles and opening a U.S. office while continuing to view India as its largest market.",
-        "url": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T14:14:33+00:00"
-      },
-      {
-        "id": "29a0bfb1eda8",
-        "title": "Senior staff departing OpenAI as firm prioritizes ChatGPT development",
-        "summary": "Resources are redirected from long-term research toward improving the flagship chatbot.",
-        "url": "https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T14:02:57+00:00"
-      },
-      {
-        "id": "ffa2caccb2d8",
-        "title": "‘We never would have bought’: Australian mortgage holders feel the pain as interest rates rise again",
-        "summary": "The RBA’s widely anticipated decision marks the end of the shortest rate-cutting cycle in the reserve’s modern history, hitting mortgagees hardGet our breaking news email, free app or daily news podcastAs the RBA lifted the official interest rate on Tuesday, one regional New South Wales couple said ...",
-        "url": "https://www.theguardian.com/australia-news/2026/feb/04/we-never-would-have-bought-australian-mortgage-holders-feel-the-pain-as-interest-rates-rise-again",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T14:00:06+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "312c631c1a71",
+        "title": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren't Allowed",
+        "summary": "I went undercover on Moltbook and loved role-playing as a conscious bot. But rather than a novel breakthrough, the AI-only site is a crude rehashing of sci-fi fantasies.",
+        "url": "https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/",
+        "source": "Feed: Artificial Intelligence Latest",
+        "published": "2026-02-03T19:55:36+00:00"
+      },
+      {
+        "id": "4447354c2345",
+        "title": "French headquarters of Elon Musk’s X raided by Paris cybercrime unit",
+        "summary": "Prosecutors’ announcement comes amid a hardening of European attitudes to social media firmsEurope live – latest updatesProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the company’s former chief executive for questioning as...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/french-headquarters-elon-musk-x-raided-paris-cybercrime-unit",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T19:01:37+00:00"
+      },
       {
         "id": "8342204c9639",
         "title": "The dump dinner: spaghetti is now being served straight on to the table – but why?",
@@ -231,7 +247,7 @@
       {
         "id": "1af449df00bc",
         "title": "Anthropic’s launch of AI legal tool hits shares in European data companies",
-        "summary": "Pearson, Experian and others fall sharply after startup unveils software to automate a range of professional servicesEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence firm Anthropic revealed a tool for use by comp...",
+        "summary": "Pearson, Experian and others fall sharply after startup unveils software to automate a range of professional servicesEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence startup Anthropic revealed a tool for use by c...",
         "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
         "source": "Technology | The Guardian",
         "published": "2026-02-03T16:01:01+00:00"
@@ -243,14 +259,6 @@
         "url": "https://www.twreporter.org/a/bookreview-the-reporter-file-005",
         "source": "報導者",
         "published": "2026-02-03T16:00:00+00:00"
-      },
-      {
-        "id": "4447354c2345",
-        "title": "French headquarters of Elon Musk’s X raided by Paris cybercrime unit",
-        "summary": "Prosecutors’ announcement comes amid a hardening of European attitudes to social media firmsEurope live – latest updatesProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the company’s former chief executive for questioning as...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/french-headquarters-elon-musk-x-raided-paris-cybercrime-unit",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-03T15:29:08+00:00"
       },
       {
         "id": "3cc3111bd5f5",
@@ -287,7 +295,7 @@
       {
         "id": "579fde9c7670",
         "title": "Elon Musk merges SpaceX with xAI at $1.25tn valuation",
-        "summary": "Aerospace business and artificial intelligence firm to unite for IPO as world’s most valuable private companyBusiness live – latest updatesElon Musk’s aerospace company SpaceX has acquired his artificial intelligence business xAI, in a $1.25tn (£910bn) merger that consolidates part of Musk’s empire ...",
+        "summary": "Aerospace business and artificial intelligence firm to unite for IPO as world’s most valuable private companyMusk is taking SpaceX’s minority shareholders for a ride | Nils PratleyElon Musk’s aerospace company SpaceX has acquired his artificial intelligence business xAI, in a $1.25tn (£910bn) merger...",
         "url": "https://www.theguardian.com/science/2026/feb/02/elon-musk-spacex-xai-merger",
         "source": "Technology | The Guardian",
         "published": "2026-02-03T07:25:18+00:00"
@@ -395,14 +403,6 @@
         "url": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-02T16:42:46+00:00"
-      },
-      {
-        "id": "462d8103e35b",
-        "title": "房慧真／斷垣殘壁、灰飛湮滅中的文化接棒──讀《直視戰爭的女人》",
-        "summary": "《直視戰爭的女人》一開頭，36歲的小說家、也是一位母親的阿梅莉納，在俄烏戰爭前夕買了人生第一把槍。如今戰爭仍在繼續，亡者與生者間的文學接力也還在進行，阿梅莉納隨手記下的筆記，編者在這本遺作中也留予位置，有些看來比正文更具震撼力⋯⋯",
-        "url": "https://www.twreporter.org/a/bookreview-looking-at-women-looking-at-war",
-        "source": "報導者",
-        "published": "2026-02-02T16:00:00+00:00"
       }
     ],
     "序(month)": [
