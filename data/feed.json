@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-03T05:08:36.090660+00:00",
+  "updated_at": "2026-02-03T07:58:37.951408+00:00",
   "articles": [
     {
       "id": "92c9da6e645f",
@@ -44,7 +44,7 @@
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-03T05:08:30.264325+00:00"
+      "published": "2026-02-03T07:58:30.469164+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -53,7 +53,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-03T05:08:30.264313+00:00"
+      "published": "2026-02-03T07:58:30.469153+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -62,7 +62,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-03T05:08:30.264299+00:00"
+      "published": "2026-02-03T07:58:30.469142+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -71,43 +71,52 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-03T05:08:30.264267+00:00"
+      "published": "2026-02-03T07:58:30.469105+00:00"
     },
     {
-      "id": "551cbfc0e96e",
-      "title": "What Oracle Has to Lose From OpenAI and Nvidia’s Rocky Relationship",
-      "summary": "Nvidia’s OpenAI pivot puts Oracle’s accounting in the spotlight.",
-      "url": "https://www.wsj.com/tech/ai/what-oracle-has-to-lose-from-openai-and-nvidias-rocky-relationship-b1ec1e9d?mod=rss_markets_main",
+      "id": "2c6132a7380c",
+      "title": "Orsted Sells Onshore Business to Copenhagen Infrastructure Partners for $1.7 Billion",
+      "summary": "The company has been working through a major restructuring that includes a large-scale divestment program to free up funds and shore up its coffers.",
+      "url": "https://www.wsj.com/business/energy-oil/orsted-sells-onshore-business-to-copenhagen-infrastructure-partners-for-1-7-billion-9b392771?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-03T04:50:00+00:00"
+      "published": "2026-02-03T07:53:00+00:00"
     },
     {
-      "id": "4a96fb04b826",
-      "title": "Precious Metals, Asian Equities Broadly Higher",
-      "summary": "Asian equities and precious metals were mostly higher Tuesday as investors cheered the U.S.-India trade deal and upcoming U.S.-Iran talks.",
-      "url": "https://www.wsj.com/finance/stocks/precious-metals-asian-equities-broadly-higher-ade65584?mod=rss_markets_main",
+      "id": "187568f19e2a",
+      "title": "Dollar’s Recovery Stalls as Fundamentals Remain Poor",
+      "summary": "The dollar turned lower. While Trump’s nomination of Kevin Warsh as Fed chair briefly interrupted market sentiment toward a weaker dollar, underlying fundamental conditions have not yet changed, Commerzbank said.",
+      "url": "https://www.wsj.com/finance/currencies/yen-mixed-as-traders-digest-japanese-finance-ministers-fx-remarks-96314604?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-03T04:21:00+00:00"
+      "published": "2026-02-03T07:46:00+00:00"
     },
     {
-      "id": "f836259d055f",
-      "title": "Australia’s Central Bank Delivers Rate Hike, Signals More on the Horizon",
-      "summary": "The Reserve Bank of Australia has delivered its first interest-rate increase since late 2023.",
-      "url": "https://www.wsj.com/economy/central-banking/australias-central-bank-delivers-rate-hike-signals-more-on-the-horizon-6070c909",
-      "source": "WSJ.com: Economy",
-      "category": "財經",
-      "published": "2026-02-03T04:05:00+00:00"
-    },
-    {
-      "id": "db4215ae75be",
-      "title": "Will China replace the US on the world stage? – podcast",
-      "summary": "A succession of political leaders have been trooping to Beijing in recent months. Is it an indication of a new world order? Tania Branigan explainsXi Jinping had a busy January. First came the Irish taoiseach, Micheál Martin. Then it was Mark Carney of Canada’s turn. He was followed by the Finnish p...",
-      "url": "https://www.theguardian.com/news/audio/2026/feb/03/will-china-replace-the-us-on-the-world-stage-podcast",
+      "id": "205a5e82b17f",
+      "title": "Gold and silver prices jump again as markets stabilise; SpaceX buys xAI in $1.25tn deal – business live",
+      "summary": "Rolling coverage of the latest economic and financial newsElon Musk merges SpaceX with artificial intelligence company xAISouth Korea’s KOSPI index has also bounced back strongly from hefty losses yesterday.The KOSPI, which fell over 5% on Monday, has surged by 6.8% today – its biggest daily rise si...",
+      "url": "https://www.theguardian.com/business/live/2026/feb/03/gold-silver-prices-markets-stabilise-spacex-buys-xai-uk-inflation-stock-markets-business-live-news-updates",
       "source": "Business | The Guardian",
       "category": "財經",
-      "published": "2026-02-03T03:00:25+00:00"
+      "published": "2026-02-03T07:32:39+00:00"
+    },
+    {
+      "id": "137a7eac49a3",
+      "title": "Gold’s Recent ‘Era of Sharp, Relentless’ Rallies May be Over",
+      "summary": "Spot gold was higher after breaking below its 55-day exponential moving average Monday for the first time since August 2025. UOB said gold’s recent “era of sharp, relentless” rallies may be over.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-likely-technical-recovery-dip-buying-interest-d0cfcd1c?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-03T07:19:00+00:00"
+    },
+    {
+      "id": "3da99bac9e5e",
+      "title": "January sponsors-only newsletter is out",
+      "summary": "I just sent the January edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In the newsletter for January:\n\nLLM predictions for 2026\nCoding agents get even more attention\nClawdbot/Moltbot/OpenClaw went very viral\nKakapo bre...",
+      "url": "https://simonwillison.net/2026/Feb/3/january/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "category": "媒體/文化",
+      "published": "2026-02-03T06:36:10+00:00"
     },
     {
       "id": "098ab8f5d1d4",
@@ -162,15 +171,6 @@
       "source": "Google DeepMind",
       "category": "AI",
       "published": "2026-02-02T17:00:00+00:00"
-    },
-    {
-      "id": "d9f5ffde1e07",
-      "title": "Follow the Changes: 9 Ways Web Archives are Used in Digital Investigations",
-      "summary": "Guest post from Thais Lobo, Liliana Bounegru &#38; Jonathan W. Y. Gray, King&#8217;s College London. This work was supported by the Centre for Digital Culture and Department of Digital Humanities [&#8230;]",
-      "url": "https://blog.archive.org/2026/02/02/follow-the-changes/",
-      "source": "Internet Archive Blogs",
-      "category": "媒體/文化",
-      "published": "2026-02-02T16:49:01+00:00"
     },
     {
       "id": "d7d36c99f43f",
