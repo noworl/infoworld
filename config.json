@@ -1,7 +1,6 @@
 {
   "categories": {
     "急(hr)": [
-      "https://www.ithome.com.tw/rss",
       "https://techcrunch.com/feed/",
       "https://feeds.arstechnica.com/arstechnica/index",
       "https://cdn.technews.tw/feed/",
@@ -16,10 +15,10 @@
       "https://plink.anyfeeder.com/mittrchina/hot",
       "https://www.wired.com/feed/tag/ai/latest/rss",
       "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml",
-      "https://www.wired.com/feed/category/business/latest/rss",
-            "https://cdm.link/feed/",
+      "https://cdm.link/feed/",
       "https://www.twreporter.org/a/rss2.xml",
       "https://simonwillison.net/atom/everything/",
+      "https://www.wired.com/feed/category/business/latest/rss",
       "https://www.wired.com/feed/category/ideas/latest/rss",
       "https://www.wired.com/feed/category/science/latest/rss",
       "https://www.theguardian.com/uk/technology/rss"
@@ -30,7 +29,7 @@
       "https://journals.acoustics.jp/ast/feed/",
       "https://blog.freesound.org/?feed=rss2",
       "https://www.ruanyifeng.com/blog/atom.xml",
-            "https://blog.toplap.org/feed/",
+      "https://blog.toplap.org/feed/",
       "https://www.tandfonline.com/feed/rss/tmam20",
       "https://dsp56300.wordpress.com/feed/",
       "https://www.min-on.org/zh-hant/feed/",
