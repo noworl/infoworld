@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-02-03T22:03:42.060524+00:00",
+  "updated_at": "2026-02-03T23:55:48.230951+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "e004a4d4f8a9",
+        "title": "民間太空競賽起跑，2025 全球太空投資創新高",
+        "summary": "自冷戰時代起，原本世界各國以美國航太總署為首，大多是以國家力量來推動太空計畫，自從馬斯克的太空探索成功之後，民 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/global-space-investment-hits-record-high-in-2025/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T23:50:00+00:00"
+      },
+      {
+        "id": "ad6ec13ecbf4",
+        "title": "霍亂細菌變抗癌幫手？瑞典團隊發現毒素 MakA 可精準抑制大腸癌腫瘤",
+        "summary": "瑞典優密歐大學（Umeå University）的研究人員最近發現一種由霍亂細菌產生的細菌毒素 MakA，這種 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/toxin-stops-colon-cancer-growth-without-harming-healthy-tissue/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T23:40:56+00:00"
+      },
+      {
+        "id": "596b2a3cdb7e",
+        "title": "Nexphone 三 OS 智慧手機問世，連上螢幕就讓手機變 PC",
+        "summary": "雖然當前手機畫面投影到智慧電視上很方便，但人們從未停止過想以操作電腦的方式來操作手機內容的念頭。之前曾推出過手 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/windows-mobile-is-back-sort-of/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T23:30:33+00:00"
+      },
+      {
+        "id": "7bf014ed197a",
+        "title": "India’s Varaha bags $20M to scale carbon removal from the Global South",
+        "summary": "Varaha's fresh funding is part of a $45 million Series B round led by WestBridge Capital.",
+        "url": "https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T23:30:00+00:00"
+      },
+      {
+        "id": "dbced0e44fd2",
+        "title": "不是把模型做更大就能到 AGI，楊立昆直指大型語言模型的根本極限",
+        "summary": "在 2026 年 1 月 27 日的會議上，著名人工智慧專家楊立昆（Yann LeCun）對於人工通用智慧（A [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/yann-lecun-agi/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T23:20:16+00:00"
+      },
+      {
+        "id": "2d526ccbed72",
+        "title": "微軟承認 Windows 11 的 AI 策略失誤，不再強推 Copilot 並重新設計 Recall",
+        "summary": "微軟之前積極將 Copilot AI 功能整合至 Windows 11 各應用程式，但引發大量負面回應。Win [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/microsoft-is-reportedly-backing-down-on-its-ai-first-plan-after-people-made-their-voices-heard/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T23:10:33+00:00"
+      },
+      {
+        "id": "8a344e0d0ee2",
+        "title": "利潤過低，三菱電機擬出售汽車零件業務",
+        "summary": "外媒報導，三菱電機（Mitsubishi Electric）汽車零件業務 2025 上半財年營收為 4,228 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/mitsubishi-electric-may-sell-automotive-parts-business/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T23:00:29+00:00"
+      },
+      {
+        "id": "9c8d9c0eeaff",
+        "title": "Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer",
+        "summary": "\"This Titan is like a god, and the sea creatures worship it.\"",
+        "url": "https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T22:55:59+00:00"
+      },
+      {
+        "id": "61ee4bbd3975",
+        "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
+        "summary": "Two AI giants shake market confidence after investment fails to materialize.",
+        "url": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T22:44:15+00:00"
+      },
+      {
+        "id": "cf32087e09c2",
+        "title": "The Minneapolis tech community holds strong during ‘tense and difficult time’",
+        "summary": "Founders and investors in the Minneapolis tech industry told TechCrunch they've put much of their work on hold to help out their community.",
+        "url": "https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T22:17:45+00:00"
+      },
       {
         "id": "9cedaa710492",
         "title": "黃仁勳：AI 伴侶將成未來工程設計重要關鍵，軟體定義會無所不在",
@@ -9,6 +89,14 @@
         "url": "https://finance.technews.tw/2026/02/04/ai-companions-will-become-a-key-element-in-future-engineering-design/",
         "source": "TechNews 科技新報",
         "published": "2026-02-03T22:00:07+00:00"
+      },
+      {
+        "id": "6a816bef2057",
+        "title": "Newborn dies after mother drinks raw milk during pregnancy",
+        "summary": "Raw milk is promoted by anti-vaccine Health Secretary Kennedy.",
+        "url": "https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T21:15:57+00:00"
       },
       {
         "id": "1a50803cc1ab",
@@ -113,97 +201,17 @@
         "url": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
         "source": "TechCrunch",
         "published": "2026-02-03T18:00:00+00:00"
-      },
-      {
-        "id": "e018d355dfdd",
-        "title": "Gradient’s heat pumps get new smarts to enable old-building retrofits",
-        "summary": "Gradient's heat pumps fit in windows, minimizing installation times. Now, it is introducing software to make those units more intelligent.",
-        "url": "https://techcrunch.com/2026/02/03/gradients-heat-pumps-get-new-smarts-to-enable-old-building-retrofits/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T17:56:45+00:00"
-      },
-      {
-        "id": "a637d1c059a1",
-        "title": "Watch Club is producing short video dramas and building a social network around them",
-        "summary": "Watch Club will house microdramas and fan discussions in the same app, creating a fandom-focused social media experience.",
-        "url": "https://techcrunch.com/2026/02/03/watch-club-microdrama-video-social-network/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T17:44:49+00:00"
-      },
-      {
-        "id": "ea0ab0ad9197",
-        "title": "The law on service charges is grossly unfair | Letters",
-        "summary": "Leaseholders have little or no control over service charges – the system needs urgent attention, writes Chris Wallis.While your editorial on leasehold reform (29 January) is right to say that action on ground rents is long overdue, as is the abolition of leasehold altogether, and that the right to m...",
-        "url": "https://www.theguardian.com/money/2026/feb/03/the-law-on-service-charges-is-grossly-unfair",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T17:29:19+00:00"
-      },
-      {
-        "id": "081580abbb3d",
-        "title": "Wing Commander III: \"Isn't that the guy from Star Wars?\"",
-        "summary": "C:\\ArsGames looks at a vanguard of the multimedia FMV future that never quite came to pass.",
-        "url": "https://arstechnica.com/gaming/2026/02/wing-commander-iii-the-game-kind-of-sucked-but-the-experience-blew-me-away/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T17:29:16+00:00"
-      },
-      {
-        "id": "715db03ab9af",
-        "title": "From ‘nerdy’ Gemini to ‘edgy’ Grok: how developers are shaping AI behaviours",
-        "summary": "AIs are not sentient – but tweaks to their ethical codes can have far-reaching consequences for usersDo you want an AI assistant that gushes about how it “loves humanity” or one that spews sarcasm? How about a political propagandist ready to lie? If so, ChatGPT, Grok and Qwen are at your disposal.Co...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/gemini-grok-chatgpt-claude-qwen-ai-chatbots-identity-crisis",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T17:28:23+00:00"
-      },
-      {
-        "id": "141b9c944854",
-        "title": "Enforcement is the issue on the decent homes standard | Letters",
-        "summary": "Dr Stephen Battersby fears that England could be doubling up on underresourced regulatory agenciesWhile the anger at the timeline for enforcing the decent homes standard (DHS) in England might be expected, it is also arguable that enforcing decent home standards is not as difficult as campaigners ma...",
-        "url": "https://www.theguardian.com/money/2026/feb/03/enforcement-is-the-issue-on-the-decent-homes-standard",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T17:28:19+00:00"
-      },
-      {
-        "id": "1f1b7d7187f8",
-        "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
-        "summary": "This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins.",
-        "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T17:14:27+00:00"
-      },
-      {
-        "id": "e84d1af53729",
-        "title": "Upset at reports that he'd given up, Trump now wants $1B from Harvard",
-        "summary": "Hefty \"fine\" comes in wake of NY Times reporting of money-free settlement.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/upset-at-reports-that-hed-given-up-trump-now-wants-1b-from-harvard/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T17:08:34+00:00"
-      },
-      {
-        "id": "2ec18f57c8fa",
-        "title": "Santander offers 98% mortgage for first-time buyers – with strict rules",
-        "summary": "Fixed-rate loan will not be available on flats and new-builds, and loan must be no more than 4.45 times salaryOne of Britain’s biggest banks has launched a mortgage that lets first-time buyers borrow up to 98% of the property’s value – but experts said the “very strict” rules would exclude many peop...",
-        "url": "https://www.theguardian.com/money/2026/feb/03/santander-mortgage-for-first-time-buyers-with-strict-rules",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T17:04:36+00:00"
-      },
-      {
-        "id": "61c03d4ba29b",
-        "title": "French police search X office in Paris, summon Elon Musk for questioning",
-        "summary": "The Paris prosecutor’s office announced that it is expanding a criminal investigation into X for alleged crimes, including the possession and distribution of child sexual exploitation material.",
-        "url": "https://techcrunch.com/2026/02/03/french-police-search-x-office-in-paris-summon-elon-musk-for-questioning/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T16:55:11+00:00"
-      },
-      {
-        "id": "e1f24089bbc3",
-        "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
-        "summary": "Information Commissioner’s Office to investigate whether Elon Musk’s firms have complied with data protection lawElon Musk’s X and xAI companies are under formal investigation by the UK’s data protection watchdog after the Grok AI tool produced indecent deepfakes without people’s consent.The Informa...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T16:46:53+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "6dfc5f9aac7e",
+        "title": "Introducing Deno Sandbox",
+        "summary": "Introducing Deno Sandbox\nHere's a new hosted sandbox product from the Deno team. It's actually unrelated to Deno itself - this is part of their Deno Deploy SaaS platform. As such, you don't even need to use JavaScript to access it - you can create and execute code in a hosted sandbox using their den...",
+        "url": "https://simonwillison.net/2026/Feb/3/introducing-deno-sandbox/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-03T22:44:50+00:00"
+      },
       {
         "id": "312c631c1a71",
         "title": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren’t Allowed",
@@ -395,14 +403,6 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
         "source": "Google DeepMind",
         "published": "2026-02-02T17:00:00+00:00"
-      },
-      {
-        "id": "bfd4dedef770",
-        "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
-        "summary": "A Social Network for A.I. Bots Only. No Humans Allowed.\nI talked to Cade Metz for this New York Times piece on OpenClaw and Moltbook. Cade reached out after seeing my blog post about that from the other day.\nIn a first for me, they decided to send a photographer, Jason Henry, to my home to take some...",
-        "url": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-02T16:42:46+00:00"
       }
     ],
     "序(month)": [
