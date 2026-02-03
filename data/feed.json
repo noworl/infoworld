@@ -1,221 +1,611 @@
 {
-  "updated_at": "2026-02-03T12:00:49.474459+00:00",
-  "articles": [
-    {
-      "id": "92c9da6e645f",
-      "title": "Waymo完成160億美元募資，估值1260億美元，自動駕駛正式進入全球擴張期",
-      "summary": "Alphabet旗下自動駕駛公司Waymo周一（2/2）宣布完成一輪160億美元私募融資，投後估值達1260億美元。本輪融資由Dragoneer Investment Group、DST Global與Sequoia Capital領投，Andreessen Horowitz、Mubadala Capital等多家知名投資機構參與。",
-      "url": "https://www.ithome.com.tw/news/173726",
-      "source": "iThome 新聞",
-      "category": "科技",
-      "published": "2026-02-03T12:02:57+00:00"
-    },
-    {
-      "id": "6e3a7e0c289c",
-      "title": "Windows 11非安全更新KB5074105再傳災情，用戶回報效能與開始選單異常",
-      "summary": "微軟上周釋出最新Windows 11更新KB5074105，解決1月初Patch Tuesday引發無法開機、登入等眾多問題。但本次更新似乎又有新問題，目前微軟尚未證實。",
-      "url": "https://www.ithome.com.tw/news/173725",
-      "source": "iThome 新聞",
-      "category": "科技",
-      "published": "2026-02-03T12:02:38+00:00"
-    },
-    {
-      "id": "2a77548f474a",
-      "title": "sbt",
-      "summary": "I have finished a new composition.\nThis time the rig was super ball mallet on bathtub with a metal plate inside. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the piece if you click through to m...",
-      "url": "https://danielmkarlsson.com/log#sbt",
-      "source": "Daniel M Karlsson - log",
-      "category": "音樂/聲音",
-      "published": "2026-02-03T12:00:45.213177+00:00"
-    },
-    {
-      "id": "3ef6af58f3a4",
-      "title": "hld",
-      "summary": "I have finished a new composition.\nThis time I made a piece from recordings I did of the Halldorophone that is on loan to EMS from the inventor. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the...",
-      "url": "https://danielmkarlsson.com/log#hld",
-      "source": "Daniel M Karlsson - log",
-      "category": "音樂/聲音",
-      "published": "2026-02-03T12:00:45.213165+00:00"
-    },
-    {
-      "id": "62a09be180e6",
-      "title": "erd",
-      "summary": "I have finished a new composition.\nThis time I made a piece from recordings I did of some metal street sweeper brushes laid down on a small frame drum iterated with an eBow. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoug...",
-      "url": "https://danielmkarlsson.com/log#erd",
-      "source": "Daniel M Karlsson - log",
-      "category": "音樂/聲音",
-      "published": "2026-02-03T12:00:45.213152+00:00"
-    },
-    {
-      "id": "9681ef3eebbe",
-      "title": "cla",
-      "summary": "I have finished a new composition.\nThis time I made a piece from recordings I did of a Clarinet that I borrowed from a friend a while back. You can have a little peek at the code, maybe download the samples, and also there is a short text collecting some of my thoughts after having finished the piec...",
-      "url": "https://danielmkarlsson.com/log#cla",
-      "source": "Daniel M Karlsson - log",
-      "category": "音樂/聲音",
-      "published": "2026-02-03T12:00:45.213119+00:00"
-    },
-    {
-      "id": "c06dc5d33b28",
-      "title": "X’s Paris Office Raided by Prosecutors Amid Probe Into Deepfakes",
-      "summary": "Authorities are investigating the social-media platform’s role in deepfake images and alleged foreign interference in French politics.",
-      "url": "https://www.wsj.com/tech/xs-paris-office-raided-by-prosecutors-eb5a820a?mod=rss_Technology",
-      "source": "Technology - WSJ.com",
-      "category": "科技",
-      "published": "2026-02-03T11:53:00+00:00"
-    },
-    {
-      "id": "5d0b4dc1ad56",
-      "title": "Gold Buyers, This Isn’t the 1970s",
-      "summary": "Plus, SpaceX, the final frontier?",
-      "url": "https://www.wsj.com/finance/stocks/gold-buyers-this-isnt-the-1970s-9a7af920?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-03T11:39:00+00:00"
-    },
-    {
-      "id": "c67f58078dbe",
-      "title": "Basic Materials Roundup: Market Talk",
-      "summary": "Find insight on Akzo Nobel, Anglo American, Umicore and more in the latest Market Talks covering Basic Materials.",
-      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-6b48e2f1?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-03T11:22:00+00:00"
-    },
-    {
-      "id": "256843b822fd",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "Find insight on Siltronic, SpaceX, Xero and more in the latest Market Talks covering Technology, Media and Telecom.",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-1bc5ae53?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-03T11:18:00+00:00"
-    },
-    {
-      "id": "034777ac681b",
-      "title": "U.S. Treasury Yields Rise as Data Reassures Growth Prospects",
-      "summary": "Treasury yields increased after Monday’s ISM manufacturing PMI data provided reassurance regarding the economic strength of the U.S.",
-      "url": "https://www.wsj.com/finance/investing/jgb-futures-fall-tracking-declines-in-u-s-treasury-market-2e823883?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-03T11:09:00+00:00"
-    },
-    {
-      "id": "14b8ea3d27a6",
-      "title": "OpenAI推出Codex桌面版，程式代理人從研究功能走向工作平臺",
-      "summary": "OpenAI周一（2/2）推出Codex app for macOS，將原本存在於ChatGPT、CLI與IDE擴充中的Codex，進一步獨立為桌面應用程式，定位為可同時管理多個程式代理人的指揮中心。這項發表並非單純增加新介面，而是象徵OpenAI正式將「代理人式開發」從研究預覽階段，推向可規模化使用的實務工作模式。",
-      "url": "https://www.ithome.com.tw/news/173724",
-      "source": "iThome 新聞",
-      "category": "科技",
-      "published": "2026-02-03T11:02:59+00:00"
-    },
-    {
-      "id": "bd7c717b70d8",
-      "title": "Rising Temperatures Are Taking a Toll on Sleep Health",
-      "summary": "As nights get hotter around the globe due to climate change, the prevalence of sleep apnea is expected to increase by as much as threefold.",
-      "url": "https://www.wired.com/story/climate-change-heat-sleep-apnea/",
-      "source": "Science Latest",
-      "category": "媒體/文化",
-      "published": "2026-02-03T10:30:00+00:00"
-    },
-    {
-      "id": "3da99bac9e5e",
-      "title": "January sponsors-only newsletter is out",
-      "summary": "I just sent the January edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In the newsletter for January:\n\nLLM predictions for 2026\nCoding agents get even more attention\nClawdbot/Moltbot/OpenClaw went very viral\nKakapo bre...",
-      "url": "https://simonwillison.net/2026/Feb/3/january/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "category": "媒體/文化",
-      "published": "2026-02-03T06:36:10+00:00"
-    },
-    {
-      "id": "098ab8f5d1d4",
-      "title": "Quoting Brandon Sanderson",
-      "summary": "This is the difference between Data and a large language model, at least the ones operating right now. Data created art because he wanted to grow. He wanted to become something. He wanted to understand. Art is the means by which we become what we want to be. [...]\nThe book, the painting, the film sc...",
-      "url": "https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "category": "媒體/文化",
-      "published": "2026-02-03T02:31:10+00:00"
-    },
-    {
-      "id": "a0901cbae300",
-      "title": "Embrace diverse PhD supervision styles — but enforce essential standards",
-      "summary": "Nature, Published online: 03 February 2026; doi:10.1038/d41586-026-00344-yEmbrace diverse PhD supervision styles — but enforce essential standards",
-      "url": "https://www.nature.com/articles/d41586-026-00344-y",
-      "source": "Nature",
-      "category": "科學",
-      "published": "2026-02-03T00:00:00+00:00"
-    },
-    {
-      "id": "38691386202d",
-      "title": "Calling all scientists: Support your Iranian colleagues",
-      "summary": "Nature, Published online: 03 February 2026; doi:10.1038/d41586-026-00342-0Calling all scientists: Support your Iranian colleagues",
-      "url": "https://www.nature.com/articles/d41586-026-00342-0",
-      "source": "Nature",
-      "category": "科學",
-      "published": "2026-02-03T00:00:00+00:00"
-    },
-    {
-      "id": "111851d30567",
-      "title": "Who does academic consulting serve?",
-      "summary": "Nature, Published online: 03 February 2026; doi:10.1038/d41586-026-00343-zWho does academic consulting serve?",
-      "url": "https://www.nature.com/articles/d41586-026-00343-z",
-      "source": "Nature",
-      "category": "科學",
-      "published": "2026-02-03T00:00:00+00:00"
-    },
-    {
-      "id": "b2616b1760f4",
-      "title": "The 'bible for psychiatry' is getting a rewrite: your guide to the next DSM",
-      "summary": "Nature, Published online: 03 February 2026; doi:10.1038/d41586-026-00283-8The next version of the diagnostic tool will be a ‘living' and ‘scientifically rigorous manual’.",
-      "url": "https://www.nature.com/articles/d41586-026-00283-8",
-      "source": "Nature",
-      "category": "科學",
-      "published": "2026-02-03T00:00:00+00:00"
-    },
-    {
-      "id": "7886699674f7",
-      "title": "Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company",
-      "summary": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
-      "url": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
-      "source": "Feed: Artificial Intelligence Latest",
-      "category": "AI",
-      "published": "2026-02-02T23:07:19+00:00"
-    },
-    {
-      "id": "e7cbd6c4ea21",
-      "title": "HHS Is Using AI Tools From Palantir to Target ‘DEI’ and ‘Gender Ideology’ in Grants",
-      "summary": "Since March of 2025, the Department of Health and Human Services has been using tools from Palantir and the startup Credal AI to weed out perceived alignment with “DEI” or “gender ideology.”",
-      "url": "https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/",
-      "source": "Feed: Artificial Intelligence Latest",
-      "category": "AI",
-      "published": "2026-02-02T20:56:41+00:00"
-    },
-    {
-      "id": "e7cbd6c4ea21",
-      "title": "HHS Is Using AI Tools From Palantir to Target ‘DEI’ and ‘Gender Ideology’ in Grants",
-      "summary": "Since March of 2025, the Department of Health and Human Services has been using tools from Palantir and the startup Credal AI to weed out perceived alignment with “DEI” or “gender ideology.”",
-      "url": "https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/",
-      "source": "Science Latest",
-      "category": "媒體/文化",
-      "published": "2026-02-02T20:56:41+00:00"
-    },
-    {
-      "id": "12f40143f5b2",
-      "title": "Advancing AI benchmarking with Game Arena",
-      "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
-      "source": "Google DeepMind",
-      "category": "AI",
-      "published": "2026-02-02T17:00:00+00:00"
-    },
-    {
-      "id": "30fdb0a60b45",
-      "title": "a16z投资的AI独角兽被指控默许深度伪造交易",
-      "summary": "（来源：麻省理工科技评论）斯坦福与印第安纳大学的最新研究显示，AI 内容交易平台 Civitai 仍允许用户买卖用于微调深度伪造内容的工具，而这类内容正是该平台宣称明令禁止的。由 a16z（Andreessen Horowitz）风险投资基金注资的 Civitai，是一家主打 AI 生成内容交易的线上平台。最新分析发现，该平台竟默许用户买卖用于生成名人深度伪造内容的定制指令文件，其中部分文件更是专门用于制作平台禁售的色情图像。这项由斯坦福大学和印第安纳大学研究人员开展的研究，对该平台上名为 “悬赏需求” 的用户内容定制请求进行了分析。研究发现，2023 年年中至 2024 年底，平台上的悬赏需...",
-      "url": "https://www.mittrchina.com/news/detail/15861",
-      "source": "MIT 科技评论 - 本周热榜",
-      "category": "AI",
-      "published": "2026-02-01T12:26:36+00:00"
-    }
-  ]
+  "updated_at": "2026-02-03T13:16:37.607083+00:00",
+  "categories": {
+    "急(hr)": [
+      {
+        "id": "205a5e82b17f",
+        "title": "FTSE 100 hits fresh record high as gold heads for best day since 2008; SpaceX buys xAI in $1.25tn deal – business live",
+        "summary": "Rolling coverage of the latest economic and financial newsElon Musk merges SpaceX with artificial intelligence company xAIUK grocery inflation has dropped to a nine-month low, in welcome news for UK households, and the Bank of England.Worldpanel by Numerator has reported that like-for-like grocery p...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/03/gold-silver-prices-markets-stabilise-spacex-buys-xai-uk-inflation-stock-markets-business-live-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T12:54:38+00:00"
+      },
+      {
+        "id": "e1f24089bbc3",
+        "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
+        "summary": "Information Commissioner’s Office to investigate whether Elon Musk’s companies have complied with data protection lawThe Information Commissioner’s Office (ICO) has opened formal investigations into X and xAI over whether Elon Musk’s companies have complied with data protection law after the Grok AI...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T12:49:02+00:00"
+      },
+      {
+        "id": "a2ef3de7b2d2",
+        "title": "India’s Supreme Court to WhatsApp: ‘You cannot play with the right to privacy’",
+        "summary": "India's top court is investigating WhatsApp’s data-sharing model, monopoly power, and user consent.",
+        "url": "https://techcrunch.com/2026/02/03/indias-supreme-court-to-whatsapp-you-cannot-play-with-the-right-to-privacy/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T12:38:05+00:00"
+      },
+      {
+        "id": "21c36b5d8731",
+        "title": "Vema predicts cheap hydrogen could change where data centers are built",
+        "summary": "Vema Hydrogen drills wells to stimulate hydrogen production deep underground, which could result in some of the cheapest hydrogen available.",
+        "url": "https://techcrunch.com/2026/02/03/vema-predicts-cheap-hydrogen-could-change-where-data-centers-are-built/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T12:15:49+00:00"
+      },
+      {
+        "id": "92c9da6e645f",
+        "title": "Waymo完成160億美元募資，估值1260億美元，自動駕駛正式進入全球擴張期",
+        "summary": "Alphabet旗下自動駕駛公司Waymo周一（2/2）宣布完成一輪160億美元私募融資，投後估值達1260億美元。本輪融資由Dragoneer Investment Group、DST Global與Sequoia Capital領投，Andreessen Horowitz、Mubadala Capital等多家知名投資機構參與。",
+        "url": "https://www.ithome.com.tw/news/173726",
+        "source": "iThome 新聞",
+        "published": "2026-02-03T12:02:57+00:00"
+      },
+      {
+        "id": "6e3a7e0c289c",
+        "title": "Windows 11非安全更新KB5074105再傳災情，用戶回報效能與開始選單異常",
+        "summary": "微軟上周釋出最新Windows 11更新KB5074105，解決1月初Patch Tuesday引發無法開機、登入等眾多問題。但本次更新似乎又有新問題，目前微軟尚未證實。",
+        "url": "https://www.ithome.com.tw/news/173725",
+        "source": "iThome 新聞",
+        "published": "2026-02-03T12:02:38+00:00"
+      },
+      {
+        "id": "21cc3d05318e",
+        "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
+        "summary": "We don't need self-replicating AI models to have problems, just self-replicating prompts.",
+        "url": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T12:00:01+00:00"
+      },
+      {
+        "id": "14b8ea3d27a6",
+        "title": "OpenAI推出Codex桌面版，程式代理人從研究功能走向工作平臺",
+        "summary": "OpenAI周一（2/2）推出Codex app for macOS，將原本存在於ChatGPT、CLI與IDE擴充中的Codex，進一步獨立為桌面應用程式，定位為可同時管理多個程式代理人的指揮中心。這項發表並非單純增加新介面，而是象徵OpenAI正式將「代理人式開發」從研究預覽階段，推向可規模化使用的實務工作模式。",
+        "url": "https://www.ithome.com.tw/news/173724",
+        "source": "iThome 新聞",
+        "published": "2026-02-03T11:02:59+00:00"
+      },
+      {
+        "id": "09d503171ca8",
+        "title": "SpaceX宣布買下xAI",
+        "summary": "馬斯克（Elon Musk）周一（2/2）宣布，旗下太空公司SpaceX已買下同為馬斯克麾下的AI新創xAI，以垂直整合AI、火箭、太空網路、行動裝置直連通訊，以及即時資訊與言論自由平臺。",
+        "url": "https://www.ithome.com.tw/news/173722",
+        "source": "iThome 新聞",
+        "published": "2026-02-03T11:02:40+00:00"
+      },
+      {
+        "id": "939b1bbf2f92",
+        "title": "Avalanche thinks the fusion power industry should think smaller",
+        "summary": "Avalanche has raised $29 million in fresh funding to pursue its unique approach to fusion power, which can currently fit on a table.",
+        "url": "https://techcrunch.com/2026/02/03/avalanche-thinks-the-fusion-power-industry-should-think-smaller/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T11:00:00+00:00"
+      },
+      {
+        "id": "ec7029fdfc46",
+        "title": "台美經貿持續深化，台灣躍升美國第四大貿易夥伴",
+        "summary": "經濟部貿易署今天表示，美國海關去年 1~10 月統計，台灣已超越德國，躍升為美國第四大貿易夥伴，僅次墨西哥、加 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/03/taiwan-becomes-the-fourth-largest-trading-partner-of-the-us/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T10:35:12+00:00"
+      },
+      {
+        "id": "58d9c2fb72aa",
+        "title": "中華電衛星拚億元規模，pre-6G 業務營收估百億",
+        "summary": "展望 2026 年，中華電信表示，OneWeb 與 SES 衛星 2025 年啟用，Astranis 衛星今年 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/03/cht-fr-25q4/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T10:20:24+00:00"
+      },
+      {
+        "id": "799889baaa4f",
+        "title": "6 吋隨身易帶、電子紙護眼閱讀，讀墨新機 mooInk Chill 動眼看",
+        "summary": "Readmoo 讀墨電子書去年底預告開發手機型閱讀器，在 3 日登場的台北國際書展，攜手聯發科技、元太科技、慧 [&#8230;]",
+        "url": "https://ccc.technews.tw/2026/02/03/new-color-ereader-mooink-chill/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T10:19:58+00:00"
+      },
+      {
+        "id": "0244ff7be13d",
+        "title": "PyTorch存在CVE-2026-24747高風險漏洞，惡意模型可觸發遠端程式碼執行",
+        "summary": "開源深度學習框架PyTorch被揭露存在資安漏洞CVE-2026-24747，CVSS風險分數為8.8分，屬於高風險（High）等級。即使使用者啟用原本設計用來降低風險的安全載入選項，攻擊者仍可能透過特製的模型檔案，觸發遠端程式碼執行（RCE）。",
+        "url": "https://www.ithome.com.tw/news/173721",
+        "source": "iThome 新聞",
+        "published": "2026-02-03T10:02:57+00:00"
+      },
+      {
+        "id": "af3d569d2ab6",
+        "title": "EU has ‘open mind’ on UK customs union talks, says official",
+        "summary": "Valdis Dombrovskis says bloc is ‘ready to engage’ amid meetings with ministers including Rachel ReevesBusiness live – latest updatesThe European Commission would be “open-minded” to discussing closer trade ties with the UK, including a customs union, a senior EU official has said.The EU economy comm...",
+        "url": "https://www.theguardian.com/world/2026/feb/03/eu-uk-customs-union-rachel-reeves-valdis-dombrovskis",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T09:54:11+00:00"
+      },
+      {
+        "id": "c0cde739e77c",
+        "title": "低軌衛星熱度不墜，概念股強攻",
+        "summary": "受惠 SpaceX 申請部署百萬顆衛星，低軌衛星題材股持續發酵，概念股昇達科、耀登、燿華今天強攻漲停，兆赫、華 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/03/leo-stock-hot/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T09:50:31+00:00"
+      },
+      {
+        "id": "1fdc9507f257",
+        "title": "瞄準記憶體缺口！中國長鑫、長江存儲擬大舉擴產，反成搶市占契機",
+        "summary": "據日經報導，由於全球記憶體供應嚴重短缺，中國兩大記憶體晶片製造商正啟動史上最積極的擴產計畫，以追上市場領導者。 [&#8230;]",
+        "url": "https://technews.tw/2026/02/03/china-cxmt-and-ymtc-expand-memory-output/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T09:50:14+00:00"
+      },
+      {
+        "id": "ce6ea1eddd63",
+        "title": "美日稀土產供取得重大進展，中國迴避正面作答",
+        "summary": "中國動輒以稀土為對外關係籌碼下，美國宣布啟動關鍵礦產儲備計畫，日本也宣布在南鳥島海域成功試掘稀土。中國外交部發 [&#8230;]",
+        "url": "https://technews.tw/2026/02/03/china-does-not-respond-to-the-major-progress-in-rare-earths-by-the-us-and-japan/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T09:35:33+00:00"
+      },
+      {
+        "id": "a2695e9e2e6c",
+        "title": "南亞科 1 月營收 153.10 億元創新高，年增超過 600%",
+        "summary": "記憶體大廠南亞科公佈 2026 年 1 月份自結合併營收，金額為新台幣 153.10 億元，較 2025 年1 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/03/nanya-technologys-january-financial-report-hit-a-record-high/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T09:25:12+00:00"
+      },
+      {
+        "id": "b763ca92d445",
+        "title": "英特爾發表 Xeon 600 系列工作站處理器，86 核心效能預計 3 月下旬上市",
+        "summary": "處理器大廠英特爾（Intel）於3日正式宣布推出全新 Intel Xeon 600 系列客戶端工作站處理器，宣 [&#8230;]",
+        "url": "https://technews.tw/2026/02/03/intel-announces-xeon-600-series-workstation-processors/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T09:10:26+00:00"
+      },
+      {
+        "id": "553a9637aa55",
+        "title": "Google BigQuery推出對話式分析，自然語言提問即可生成並執行SQL",
+        "summary": "Google於BigQuery推出對話式分析預覽版，使用者可在BigQuery Studio以自然語言提問，系統會產生並執行SQL，回傳解讀、查詢結果與圖表。Google表示，這項功能可縮短使用者等待資料團隊回覆的時間，讓提問到取得答案的流程更直接。",
+        "url": "https://www.ithome.com.tw/news/173720",
+        "source": "iThome 新聞",
+        "published": "2026-02-03T09:02:29+00:00"
+      },
+      {
+        "id": "e39a07f4ea05",
+        "title": "明泰1月營收月減48.7%",
+        "summary": "明泰（3380）公布 1 月合併營收 15.28 億元，較上（12）月成長 -48.7%，與去年同期相比為年增 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/03/alpha-3380-202601-financial-report/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T09:00:02+00:00"
+      },
+      {
+        "id": "46db324ca108",
+        "title": "熬夜隔天腦袋容易當機，研究：腦脊液從大腦流出，試圖叫大腦休息",
+        "summary": "為何前天晚上沒睡好，隔天會明顯較難維持注意力、思考速度變慢，連完成簡單任務都比平常費心思？最近科學家發現因睡眠 [&#8230;]",
+        "url": "https://technews.tw/2026/02/03/inadequate-sleep-brain-cerebrospinal-fluid-attention/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T08:54:50+00:00"
+      },
+      {
+        "id": "0c120d5ac079",
+        "title": "達梭系統與輝達緊密合作，三大虛擬助理布局製造業重鎮大中華區",
+        "summary": "工業軟體巨頭達梭系統（Dassault Systèmes）在近期的 3DEXPERIENCE World 大會 [&#8230;]",
+        "url": "https://technews.tw/2026/02/03/dassault-systemes-works-closely-with-nvidia/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-03T08:50:25+00:00"
+      },
+      {
+        "id": "4405432cd15b",
+        "title": "UK shoppers buy more fruit and yoghurt in healthy start to 2026",
+        "summary": "Britons cut back in January after record grocery spending in December, turning to own-label productsBusiness live – latest updatesBritons started 2026 by buying more healthy food such as fruit and yoghurt as they attempted to hit new year health goals, while grocery price inflation eased to the lowe...",
+        "url": "https://www.theguardian.com/business/2026/feb/03/uk-grocery-price-inflation-january-fruit-yoghurt",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T08:42:28+00:00"
+      }
+    ],
+    "破(day)": [
+      {
+        "id": "c7e87ed3921b",
+        "title": "‘Fallout’ Producer Jonathan Nolan on AI: ‘We’re in Such a Frothy Moment’",
+        "summary": "The Westworld showrunner thinks AI will be good for burgeoning filmmakers, but not for Hollywood blockbusters.",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-jonathan-nolan-fallout/",
+        "source": "Feed: Artificial Intelligence Latest",
+        "published": "2026-02-03T12:00:00+00:00"
+      },
+      {
+        "id": "bd7c717b70d8",
+        "title": "Rising Temperatures Are Taking a Toll on Sleep Health",
+        "summary": "As nights get hotter around the globe due to climate change, the prevalence of sleep apnea is expected to increase by as much as threefold.",
+        "url": "https://www.wired.com/story/climate-change-heat-sleep-apnea/",
+        "source": "Science Latest",
+        "published": "2026-02-03T10:30:00+00:00"
+      },
+      {
+        "id": "943cd41b4524",
+        "title": "Resolume 7.24 adds 10-bit color, more — plus a bunch of new tutorials",
+        "summary": "Visualist workhorse Resolume continues its rapid update cadence. New in 7.24: 10-bit color output, performance optimizations, improved capture device support, new CRT effect, new  Wire nodes, Wire usability improvements, and more. Plus, the Resolume crew has uploaded a number of tutorials you should...",
+        "url": "https://cdm.link/resolume-7-24/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-03T10:00:31+00:00"
+      },
+      {
+        "id": "579fde9c7670",
+        "title": "Elon Musk merges SpaceX with xAI at $1.25tn valuation",
+        "summary": "Aerospace business and artificial intelligence firm to unite for IPO as world’s most valuable private companyBusiness live – latest updatesElon Musk’s aerospace company SpaceX has acquired his artificial intelligence business xAI, in a $1.25tn (£910bn) merger that consolidates part of Musk’s empire ...",
+        "url": "https://www.theguardian.com/science/2026/feb/02/elon-musk-spacex-xai-merger",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T07:25:18+00:00"
+      },
+      {
+        "id": "3da99bac9e5e",
+        "title": "January sponsors-only newsletter is out",
+        "summary": "I just sent the January edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In the newsletter for January:\n\nLLM predictions for 2026\nCoding agents get even more attention\nClawdbot/Moltbot/OpenClaw went very viral\nKakapo bre...",
+        "url": "https://simonwillison.net/2026/Feb/3/january/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-03T06:36:10+00:00"
+      },
+      {
+        "id": "9555413f3789",
+        "title": "‘Deepfakes spreading and more AI companions’: seven takeaways from the latest artificial intelligence safety report",
+        "summary": "Annual review highlights growing capabilities of AI models, while examining issues from cyber-attacks to job disruptionThe International AI Safety report is an annual survey of technological progress and the risks it is creating across multiple areas, from deepfakes to the jobs market.Commissioned a...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/deepfakes-ai-companions-artificial-intelligence-safety-report",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T05:00:29+00:00"
+      },
+      {
+        "id": "098ab8f5d1d4",
+        "title": "Quoting Brandon Sanderson",
+        "summary": "This is the difference between Data and a large language model, at least the ones operating right now. Data created art because he wanted to grow. He wanted to become something. He wanted to understand. Art is the means by which we become what we want to be. [...]\nThe book, the painting, the film sc...",
+        "url": "https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-03T02:31:10+00:00"
+      },
+      {
+        "id": "9d4fc95022b3",
+        "title": "Palantir beats Wall Street expectations amid Trump immigration crackdown",
+        "summary": "CEO Alex Karp hails ‘iconic’ financial results despite criticism over contracts with ICE and homeland securityPalantir celebrated its latest financial results on Monday, as the tech company blew past Wall Street expectations and continues to prop up the Trump administration’s push to deport immigran...",
+        "url": "https://www.theguardian.com/technology/2026/feb/02/palantir-financial-results-ice-trump-immigration",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T01:04:37+00:00"
+      },
+      {
+        "id": "0ec0c34f81f3",
+        "title": "Epstein Files Reveal Peter Thiel’s Elaborate Dietary Restrictions",
+        "summary": "The latest batch of Jeffrey Epstein files shed light on the convicted sex offender’s ties to Silicon Valley—and Peter Thiel’s exacting approach to food.",
+        "url": "https://www.wired.com/story/epstein-jeffrey-files-peter-thiel-diet-sushi/",
+        "source": "Business Latest",
+        "published": "2026-02-03T00:24:22+00:00"
+      },
+      {
+        "id": "8d4f320f7373",
+        "title": "Barnsley rebranded UK’s first ‘tech town’ as US giants join AI push",
+        "summary": "Minister announces Microsoft, Cisco and Adobe to help apply AI to local schools, hospitals, GPs and businessesIn 2002 Barnsley toyed with a redesign as a Tuscan hill village as it sought out a brighter post-industrial future. In 2021 it adopted the airily vague slogan “the place of possibilities”. N...",
+        "url": "https://www.theguardian.com/business/2026/feb/03/barnsley-uk-tech-town-ai-microsoft-cisco-adobe",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T00:01:22+00:00"
+      },
+      {
+        "id": "7886699674f7",
+        "title": "Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company",
+        "summary": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
+        "url": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
+        "source": "Feed: Artificial Intelligence Latest",
+        "published": "2026-02-02T23:07:19+00:00"
+      },
+      {
+        "id": "7886699674f7",
+        "title": "Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company",
+        "summary": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
+        "url": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
+        "source": "Business Latest",
+        "published": "2026-02-02T23:07:19+00:00"
+      },
+      {
+        "id": "e7cbd6c4ea21",
+        "title": "HHS Is Using AI Tools From Palantir to Target ‘DEI’ and ‘Gender Ideology’ in Grants",
+        "summary": "Since March of 2025, the Department of Health and Human Services has been using tools from Palantir and the startup Credal AI to weed out perceived alignment with “DEI” or “gender ideology.”",
+        "url": "https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/",
+        "source": "Feed: Artificial Intelligence Latest",
+        "published": "2026-02-02T20:56:41+00:00"
+      },
+      {
+        "id": "e7cbd6c4ea21",
+        "title": "HHS Is Using AI Tools From Palantir to Target ‘DEI’ and ‘Gender Ideology’ in Grants",
+        "summary": "Since March of 2025, the Department of Health and Human Services has been using tools from Palantir and the startup Credal AI to weed out perceived alignment with “DEI” or “gender ideology.”",
+        "url": "https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/",
+        "source": "Science Latest",
+        "published": "2026-02-02T20:56:41+00:00"
+      },
+      {
+        "id": "89462b3f2a0b",
+        "title": "The Tech Elites in the Epstein Files",
+        "summary": "The Department of Justice has released more than 3 million documents and photos related to Jeffrey Epstein. Here’s who shows up from Big Tech the most often—and what the files reveal.",
+        "url": "https://www.wired.com/story/epstein-files-tech-elites-gates-thiel-musk/",
+        "source": "Business Latest",
+        "published": "2026-02-02T20:27:22+00:00"
+      },
+      {
+        "id": "5b58cb2e153f",
+        "title": "Introducing the Codex app",
+        "summary": "Introducing the Codex app\nOpenAI just released a new macOS app for their Codex coding agent. I've had a few days of preview access - it's a solid app that provides a nice UI over the capabilities of the Codex CLI agent and adds some interesting new features, most notably first-class support for Skil...",
+        "url": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-02T19:54:36+00:00"
+      },
+      {
+        "id": "12f40143f5b2",
+        "title": "Advancing AI benchmarking with Game Arena",
+        "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+        "source": "Google DeepMind",
+        "published": "2026-02-02T17:00:00+00:00"
+      },
+      {
+        "id": "bfd4dedef770",
+        "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
+        "summary": "A Social Network for A.I. Bots Only. No Humans Allowed.\nI talked to Cade Metz for this New York Times piece on OpenClaw and Moltbook. Cade reached out after seeing my blog post about that from the other day.\nIn a first for me, they decided to send a photographer, Jason Henry, to my home to take some...",
+        "url": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-02T16:42:46+00:00"
+      },
+      {
+        "id": "462d8103e35b",
+        "title": "房慧真／斷垣殘壁、灰飛湮滅中的文化接棒──讀《直視戰爭的女人》",
+        "summary": "《直視戰爭的女人》一開頭，36歲的小說家、也是一位母親的阿梅莉納，在俄烏戰爭前夕買了人生第一把槍。如今戰爭仍在繼續，亡者與生者間的文學接力也還在進行，阿梅莉納隨手記下的筆記，編者在這本遺作中也留予位置，有些看來比正文更具震撼力⋯⋯",
+        "url": "https://www.twreporter.org/a/bookreview-looking-at-women-looking-at-war",
+        "source": "報導者",
+        "published": "2026-02-02T16:00:00+00:00"
+      },
+      {
+        "id": "d3b0cd9aecc5",
+        "title": "‘A mixed blessing’: crowdfunding has changed the way we give, but is it fair and effective?",
+        "summary": "Millions of dollars have been raised for Bondi hero Ahmed al-Ahmed, while campaigns are backing families hit by Victoria’s bushfires. What does this way of giving mean for the charity sector?Within hours of the Bondi beach terror attack, the money had already begun to pour in. As images of the trage...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/crowdfunding-mixed-blessing-giving-bushfires-bondi-attack",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-02T14:00:11+00:00"
+      },
+      {
+        "id": "e21f943ec415",
+        "title": "Requiem for a film-maker: Darren Aronofsky’s AI revolutionary war series is a horror",
+        "summary": "The once-lauded director of Black Swan and The Wrestler has drowned himself in AI slop with an embarrassing new online seriesIf you happen to find yourself stumbling through Time magazine’s YouTube account, perhaps because you are a time traveller from the 1970s who doesn’t fully understand how the ...",
+        "url": "https://www.theguardian.com/film/2026/feb/02/darren-aronofsky-ai-revolutionary-war-series-review",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-02T12:11:09+00:00"
+      },
+      {
+        "id": "2118f73ce4ec",
+        "title": "‘Marketplace for predators’: Meta faces jury trial over child exploitation claims",
+        "summary": "New Mexico attorney general accuses Meta of failing to safeguard children against trafficking and sexual abuseMeta’s second major trial of 2026 over alleged harms to children begins on Monday.The landmark jury trial in Santa Fe pits the New Mexico attorney general’s office against the social media g...",
+        "url": "https://www.theguardian.com/technology/2026/feb/02/meta-trial-new-mexico-social-media",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-02T11:00:11+00:00"
+      },
+      {
+        "id": "46e579299b3a",
+        "title": "Ukraine’s Tembra Modular continues workshops, gear despite attacks",
+        "summary": "Through blackouts, bitter cold, Internet disruptions, and nightly attacks, Ukrainian DIY producers Tembra Modular persist. The two-person shop continues to run workshops and produce DIY kits and assembled modules. Blackouts can't stop them: their production often takes place literally by candlelight...",
+        "url": "https://cdm.link/ukraine-tembra-modular-endures-blackouts/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-02T10:42:50+00:00"
+      },
+      {
+        "id": "6f060b0a7355",
+        "title": "Viral AI personal assistant seen as step change – but experts warn of risks",
+        "summary": "OpenClaw is billed as ‘the AI that actually does things’ and needs almost no input to potentially wreak havocA new viral AI personal assistant will handle your email inbox, trade away your entire stock portfolio and text your wife “good morning” and “goodnight” on your behalf.OpenClaw, formerly know...",
+        "url": "https://www.theguardian.com/technology/2026/feb/02/openclaw-viral-ai-agent-personal-assistant-artificial-intelligence",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-02T07:00:51+00:00"
+      },
+      {
+        "id": "0db376dab261",
+        "title": "TIL: Running OpenClaw in Docker",
+        "summary": "TIL: Running OpenClaw in Docker\nI've been running OpenClaw using Docker on my Mac. Here are the first in my ongoing notes on how I set that up and the commands I'm using to administer it.\n\nUse their Docker Compose configuration\nAnswering all of those questions\nRunning administrative commands\nSetting...",
+        "url": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-01T23:59:13+00:00"
+      }
+    ],
+    "序(month)": [
+      {
+        "id": "d9f5ffde1e07",
+        "title": "Follow the Changes: 9 Ways Web Archives are Used in Digital Investigations",
+        "summary": "Guest post from Thais Lobo, Liliana Bounegru &#38; Jonathan W. Y. Gray, King&#8217;s College London. This work was supported by the Centre for Digital Culture and Department of Digital Humanities [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/02/follow-the-changes/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-02T16:49:01+00:00"
+      },
+      {
+        "id": "f1aa8494c09c",
+        "title": "Inside the idyllic studio of Alison Lester: ‘Everything I do looks a bit like a stuffed toy’",
+        "summary": "The doyenne of Australian picture books talks about her creative process, the ‘wild and woolly’ place that inspired Magic Beach – and how a favourite idea was sketched on an aeroplane sick bagVote for the best Australian children’s picture bookFor an author fascinated by nature, and whose beloved pi...",
+        "url": "https://www.theguardian.com/books/2026/feb/03/australian-childrens-author-illustrator-alison-lester-studio-interview",
+        "source": "Children and teenagers | The Guardian",
+        "published": "2026-02-02T14:00:13+00:00"
+      },
+      {
+        "id": "ab6ef84e7329",
+        "title": "民音探戈系列第55輯：巴勃羅·瓦萊六重奏啟動日本巡演",
+        "summary": "民音探戈系列再度登場，推出其第55輯「巴勃羅·瓦萊六重奏：探戈史詩」，正式展開日本巡演。 這支樂團由阿根廷鋼琴 [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14681/%e6%b0%91%e9%9f%b3%e6%8e%a2%e6%88%88%e7%b3%bb%e5%88%97%e7%ac%ac55%e8%bc%af%ef%bc%9a%e5%b7%b4%e5%8b%83%e7%be%85%c2%b7%e7%93%a6%e8%90%8a%e5%85%ad%e9%87%8d%e5%a5%8f%e5%95%9f%e5%8b%95%e6%97%a5%e6%9c%ac/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-02-02T08:30:14+00:00"
+      },
+      {
+        "id": "37f7dbbf8455",
+        "title": "高雄果嶺自然公園的歷史地景變遷",
+        "summary": "撰文/廖德宗（居住於高雄市，從事資訊業，業餘進行人文地理研究） 摘要 本文以高雄市政府2025年10月開放之高 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260202/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-01T19:58:15+00:00"
+      },
+      {
+        "id": "41c82052ee40",
+        "title": "本專題中心同仁發表國際期刊論文一篇",
+        "summary": "本專題中心詹大千研究員、兼任研究助理政治大學地政所林佳瑢同學、研究助理范志中先生及唐嘉宏博士（目前任教於淡江大 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/paper_20260131/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-01T19:49:26+00:00"
+      },
+      {
+        "id": "beb7f5dbf41f",
+        "title": "‘People were starving for it’: Mem Fox on the incredible, surprising success of Possum Magic",
+        "summary": "After being rejected by nine publishers, the author’s first book went on to sell 5m copies, with readers immediately connecting to its depiction of Australian foods, animals and place namesVote for the best Australian children’s picture bookGet our weekend culture and lifestyle emailIn 1968, Mem Fox...",
+        "url": "https://www.theguardian.com/books/2026/jan/31/mem-fox-possum-magic-australian-childrens-book-interview",
+        "source": "Children and teenagers | The Guardian",
+        "published": "2026-01-31T19:00:06+00:00"
+      },
+      {
+        "id": "eed4ee2be99a",
+        "title": "P vs. NP and the Difficulty of Computation: A Ruliological Approach",
+        "summary": "Empirical Theoretical Computer Science “Could there be a faster program for that?” It’s a fundamental type of question in theoretical computer science. But except in special cases, such a question has proved fiendishly difficult to answer. And, for example, in half a century, almost no progress has ...",
+        "url": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2026-01-30T19:26:48+00:00"
+      },
+      {
+        "id": "3752ead9da29",
+        "title": "2025 in numbers",
+        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2347",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T16:19:39+00:00"
+      },
+      {
+        "id": "09225b611b79",
+        "title": "‘Her name was Mothball and she changed my life’: the true story behind Diary of a Wombat",
+        "summary": "Jackie French was used to the quirks of wild animal behaviour – and then she met a carrot-mad wombat with an appetite for destruction. A bestseller was bornVote for the best Australian children’s picture bookGet our weekend culture and lifestyle emailHer name was Mothball and she changed my life.We ...",
+        "url": "https://www.theguardian.com/books/2026/jan/31/jackie-french-true-story-behind-diary-of-a-wombat",
+        "source": "Children and teenagers | The Guardian",
+        "published": "2026-01-30T14:00:29+00:00"
+      },
+      {
+        "id": "d32f0a5eed31",
+        "title": "Freesound Day video recordings available online",
+        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2352",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T11:10:55+00:00"
+      },
+      {
+        "id": "0ebaa081adef",
+        "title": "Meta 關閉 VR 健身應用 Supernatural，用戶感覺遭背叛氣炸不滿",
+        "summary": "Meta 的 VR 產品愛好者又面臨危機。Meta 宣布關閉頗受歡迎的健身應用 Supernatural，許多 [&#8230;]",
+        "url": "https://technews.tw/2026/01/30/metas-vr-superfans-are-livid-i-feel-like-im-going-to-puke/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-01-30T04:00:27+00:00"
+      },
+      {
+        "id": "4c700af1c688",
+        "title": "科技爱好者周刊（第 383 期）：你是第几级 AI 编程",
+        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+        "url": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html",
+        "source": "阮一峰的网络日志",
+        "published": "2026-01-30T00:10:32+00:00"
+      },
+      {
+        "id": "9dcba8fff516",
+        "title": "‘I was so, so stupid’: how Animalia and The Eleventh Hour made Graeme Base an unlikely bestseller",
+        "summary": "Base had no idea what he was doing when he published his wonderfully weird and fiendishly difficult picture books. They became global hits anywayVote for the best Australian children’s picture bookIt is so often the case that the best children’s books are the ones adults think children won’t like – ...",
+        "url": "https://www.theguardian.com/books/2026/jan/29/graeme-base-animalia-eleventh-hour-childrens-book-author-interview",
+        "source": "Children and teenagers | The Guardian",
+        "published": "2026-01-29T14:00:20+00:00"
+      },
+      {
+        "id": "15958741525b",
+        "title": "Kimi 的一体化，Manus 的分层",
+        "summary": "一、 前天，Kimi 突然发布了旗舰模型 K2.5，事先没有一点风声。...",
+        "url": "http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html",
+        "source": "阮一峰的网络日志",
+        "published": "2026-01-29T08:02:30+00:00"
+      },
+      {
+        "id": "86afad813e6c",
+        "title": "新加坡警方再對 Meta 下指令，要求擴大 Facebook 防詐",
+        "summary": "為打擊網路詐騙，新加坡內政部今天表示，警方依《網路刑事危害法》對 Facebook 母公司 Meta 發出第二 [&#8230;]",
+        "url": "https://infosecu.technews.tw/2026/01/29/singapore-online-criminal-harms-act-vs-meta/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-01-29T07:20:08+00:00"
+      },
+      {
+        "id": "d3b00a3f761b",
+        "title": "Tom Johnson and a rational theory of harmony",
+        "summary": ".",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2591899?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2026-01-29T07:06:01+00:00"
+      },
+      {
+        "id": "0698b8edebc8",
+        "title": "智慧眼鏡業績成長三倍！祖克柏：很難想像沒 AI 智慧眼鏡的未來",
+        "summary": "Meta 執行長馬克‧祖克柏（Mark Zuckerberg）在最新一季財報電話會議中表示，Meta 眼鏡的銷 [&#8230;]",
+        "url": "https://technews.tw/2026/01/29/meta-mark-zuckerberg-ai-smart-glasses/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-01-29T04:20:48+00:00"
+      },
+      {
+        "id": "cae39219b931",
+        "title": "馬克‧祖克柏：AI 將重塑 Meta 社群媒體成為全新未來！隻字不提元宇宙",
+        "summary": "Meta 28 日財報電話會議，執行長馬克·祖克柏（Mark Zuckerberg）強調，人工智慧（AI）將成 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/01/29/mark-zuckerberg-is-all-in-on-ai-as-the-new-social-media/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-01-29T03:00:10+00:00"
+      },
+      {
+        "id": "a4925ff03394",
+        "title": "Meta 財測超優、抵消 AI 鉅額支出疑慮  盤後飆",
+        "summary": "社群媒體巨頭 Meta 核心業務表現強勁，財測遠優於市場預期，緩解了市場對高昂 AI 資本支出降低獲利能力的疑 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/01/29/meta-reports-fourth-quarter-and-full-year-2025-results/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-01-29T02:10:52+00:00"
+      },
+      {
+        "id": "992072a4acf9",
+        "title": "I’ve read this picture book so many times – but only 25 years later do I really understand it | Lenore Taylor",
+        "summary": "Wilfrid Gordon McDonald Partridge was a favourite when my son was small. Now my father’s in a nursing home – and Mem Fox’s book has new significanceVote for the best Australian children’s picture bookWhen my son was small, he and my dad liked to read Mem Fox’s 1984 picture book Wilfrid Gordon McDona...",
+        "url": "https://www.theguardian.com/culture/2026/jan/29/wilfrid-gordon-mcdonald-partridge-mem-fox-best-australian-picture-book-poll",
+        "source": "Children and teenagers | The Guardian",
+        "published": "2026-01-28T14:00:13+00:00"
+      },
+      {
+        "id": "78e005b85aae",
+        "title": "Min-On Music Journey No. 102: Republic of Mozambique",
+        "summary": "Welcome to Min-On’s Music Journey! Today we invite you  [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14668/min-on-music-journey-no-102-republic-of-mozambique/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-01-28T07:27:40+00:00"
+      },
+      {
+        "id": "4a6e26625b9c",
+        "title": "Meta 砸 60 億美元購光纖線纜！康寧股價一年飆 75%「光通訊成新主力」",
+        "summary": "Meta 與康寧簽署協議，將在 2030 年前為 AI 資料中心採購光纖線纜，並向康寧支付最多 60 億美元金 [&#8230;]",
+        "url": "https://technews.tw/2026/01/28/corning-and-meta-announce-6-billion-agreement/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-01-28T02:38:26+00:00"
+      },
+      {
+        "id": "a3edb3061a40",
+        "title": "祖克柏拒絕家長控制，Meta AI 聊天機器人安全問題再度升溫",
+        "summary": "在最近的法律文件中，Meta 執行長馬克·祖克柏（Mark Zuckerberg）被揭露最初反對對其 AI 聊 [&#8230;]",
+        "url": "https://technews.tw/2026/01/28/security-concerns-surrounding-meta-ai-chatbots-have-resurfaced/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-01-28T02:30:30+00:00"
+      },
+      {
+        "id": "67da50b5bb9a",
+        "title": "想要 AI 功能請掏錢，Meta 擬替三大社群平台測試訂閱制",
+        "summary": "Meta 正式啟動新一波訂閱制測試，計畫在旗下三大社群平台 Instagram、Facebook 與 What [&#8230;]",
+        "url": "https://technews.tw/2026/01/28/meta-ai-instagram-facebook-whatsapp/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-01-28T02:07:50+00:00"
+      },
+      {
+        "id": "7efee5d8ce29",
+        "title": "Timeless Songs, Fresh Lyrics: Musician Stephanie Woodford Reinterprets the Public Domain",
+        "summary": "When songs enter the public domain, they don’t just get older, they get new lives. For this year’s virtual Public Domain Day celebration, musician Stephanie Woodford gave three newly public-domain [&#8230;]",
+        "url": "https://blog.archive.org/2026/01/27/timeless-songs-fresh-lyrics-musician-stephanie-woodford-reimagines-the-public-domain/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-01-27T17:04:22+00:00"
+      }
+    ]
+  }
 }
