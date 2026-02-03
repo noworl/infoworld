@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-02-02T23:57:58.548246+00:00",
+  "updated_at": "2026-02-03T05:08:36.090660+00:00",
   "articles": [
+    {
+      "id": "92c9da6e645f",
+      "title": "Waymo完成160億美元募資，估值1260億美元，自動駕駛正式進入全球擴張期",
+      "summary": "Alphabet旗下自動駕駛公司Waymo周一（2/2）宣布完成一輪160億美元私募融資，投後估值達1260億美元。本輪融資由Dragoneer Investment Group、DST Global與Sequoia Capital領投，Andreessen Horowitz、Mubadala Capital等多家知名投資機構參與。",
+      "url": "https://www.ithome.com.tw/news/173726",
+      "source": "iThome 新聞",
+      "category": "科技",
+      "published": "2026-02-03T12:02:57+00:00"
+    },
+    {
+      "id": "6e3a7e0c289c",
+      "title": "Windows 11非安全更新KB5074105再傳災情，用戶回報效能與開始選單異常",
+      "summary": "微軟上周釋出最新Windows 11更新KB5074105，解決1月初Patch Tuesday引發無法開機、登入等眾多問題。但本次更新似乎又有新問題，目前微軟尚未證實。",
+      "url": "https://www.ithome.com.tw/news/173725",
+      "source": "iThome 新聞",
+      "category": "科技",
+      "published": "2026-02-03T12:02:38+00:00"
+    },
+    {
+      "id": "14b8ea3d27a6",
+      "title": "OpenAI推出Codex桌面版，程式代理人從研究功能走向工作平臺",
+      "summary": "OpenAI周一（2/2）推出Codex app for macOS，將原本存在於ChatGPT、CLI與IDE擴充中的Codex，進一步獨立為桌面應用程式，定位為可同時管理多個程式代理人的指揮中心。這項發表並非單純增加新介面，而是象徵OpenAI正式將「代理人式開發」從研究預覽階段，推向可規模化使用的實務工作模式。",
+      "url": "https://www.ithome.com.tw/news/173724",
+      "source": "iThome 新聞",
+      "category": "科技",
+      "published": "2026-02-03T11:02:59+00:00"
+    },
+    {
+      "id": "09d503171ca8",
+      "title": "SpaceX宣布買下xAI",
+      "summary": "馬斯克（Elon Musk）周一（2/2）宣布，旗下太空公司SpaceX已買下同為馬斯克麾下的AI新創xAI，以垂直整合AI、火箭、太空網路、行動裝置直連通訊，以及即時資訊與言論自由平臺。",
+      "url": "https://www.ithome.com.tw/news/173722",
+      "source": "iThome 新聞",
+      "category": "科技",
+      "published": "2026-02-03T11:02:40+00:00"
+    },
     {
       "id": "2a77548f474a",
       "title": "sbt",
@@ -8,7 +44,7 @@
       "url": "https://danielmkarlsson.com/log#sbt",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T23:57:53.576536+00:00"
+      "published": "2026-02-03T05:08:30.264325+00:00"
     },
     {
       "id": "3ef6af58f3a4",
@@ -17,7 +53,7 @@
       "url": "https://danielmkarlsson.com/log#hld",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T23:57:53.576524+00:00"
+      "published": "2026-02-03T05:08:30.264313+00:00"
     },
     {
       "id": "62a09be180e6",
@@ -26,7 +62,7 @@
       "url": "https://danielmkarlsson.com/log#erd",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T23:57:53.576511+00:00"
+      "published": "2026-02-03T05:08:30.264299+00:00"
     },
     {
       "id": "9681ef3eebbe",
@@ -35,61 +71,52 @@
       "url": "https://danielmkarlsson.com/log#cla",
       "source": "Daniel M Karlsson - log",
       "category": "音樂/聲音",
-      "published": "2026-02-02T23:57:53.576481+00:00"
+      "published": "2026-02-03T05:08:30.264267+00:00"
     },
     {
-      "id": "e8a07dd8ebf2",
-      "title": "馬斯克 SpaceX 整併 xAI，估值上看 1.25 兆美元",
-      "summary": "伊隆．馬斯克在 SpaceX 官方部落格宣布，將火箭製造商 SpaceX 與人工智慧新創公司 xAI 整併，組 [&#8230;]",
-      "url": "https://technews.tw/2026/02/03/spacex-merging-xai-estimated-1-25/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T23:53:42+00:00"
-    },
-    {
-      "id": "1df27a2ee2c2",
-      "title": "買房焦慮，真的是因為你不夠努力嗎？",
-      "summary": "在高房價時代，首購族面對的壓力，早已不是單純的存款夠不夠，或頭期款差多少，而是一種長期被比較、被催促、被暗示落 [&#8230;]",
-      "url": "https://finance.technews.tw/2026/02/03/is-anxiety-about-buying-a-house-really-because-youre-not-working-hard-enough/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T23:50:13+00:00"
-    },
-    {
-      "id": "137a7eac49a3",
-      "title": "Gold Rises on Likely Technical Recovery, Dip-Buying Interest",
-      "summary": "Gold advanced in early Asian trade on a likely technical recovery and dip-buying interest following its recent slump.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-likely-technical-recovery-dip-buying-interest-d0cfcd1c?mod=rss_markets_main",
+      "id": "551cbfc0e96e",
+      "title": "What Oracle Has to Lose From OpenAI and Nvidia’s Rocky Relationship",
+      "summary": "Nvidia’s OpenAI pivot puts Oracle’s accounting in the spotlight.",
+      "url": "https://www.wsj.com/tech/ai/what-oracle-has-to-lose-from-openai-and-nvidias-rocky-relationship-b1ec1e9d?mod=rss_markets_main",
       "source": "WSJ.com: Markets",
       "category": "財經",
-      "published": "2026-02-02T23:41:00+00:00"
+      "published": "2026-02-03T04:50:00+00:00"
     },
     {
-      "id": "6ebc8ef9941a",
-      "title": "狗狗真的聽得懂音樂嗎？專家教你選擇旋律管理愛犬情緒",
-      "summary": "在現今的寵物飼養中，音樂的角色愈來愈受到重視。許多狗主人、訓練師和動物收容所工作人員開始利用音樂來幫助狗狗放鬆 [&#8230;]",
-      "url": "https://technews.tw/2026/02/03/do-dogs-really-understand-music/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T23:40:10+00:00"
+      "id": "4a96fb04b826",
+      "title": "Precious Metals, Asian Equities Broadly Higher",
+      "summary": "Asian equities and precious metals were mostly higher Tuesday as investors cheered the U.S.-India trade deal and upcoming U.S.-Iran talks.",
+      "url": "https://www.wsj.com/finance/stocks/precious-metals-asian-equities-broadly-higher-ade65584?mod=rss_markets_main",
+      "source": "WSJ.com: Markets",
+      "category": "財經",
+      "published": "2026-02-03T04:21:00+00:00"
     },
     {
-      "id": "7e5f0bc145f6",
-      "title": "倫敦希斯洛機場安裝新式掃描器，安檢不再需要拿出水瓶與筆電",
-      "summary": "搭機出國，經過安檢之前，各機場總是會提醒，有水瓶最好先把水喝光或倒掉，以免遭懷疑是液態炸藥；若有攜帶筆記型電腦 [&#8230;]",
-      "url": "https://technews.tw/2026/02/03/heathrow-airport-installs-new-security-scanners/",
-      "source": "TechNews 科技新報",
-      "category": "科技",
-      "published": "2026-02-02T23:30:47+00:00"
-    },
-    {
-      "id": "a5dee8f2123f",
-      "title": "South Korea Inflation Eases to Five-Month Low",
-      "summary": "The benchmark consumer-price index rose 2.0% from a year earlier in January, slowing from a 2.3% gain in December, the Ministry of Data and Statistics said.",
-      "url": "https://www.wsj.com/economy/south-korea-inflation-eases-to-five-month-low-099ee864",
+      "id": "f836259d055f",
+      "title": "Australia’s Central Bank Delivers Rate Hike, Signals More on the Horizon",
+      "summary": "The Reserve Bank of Australia has delivered its first interest-rate increase since late 2023.",
+      "url": "https://www.wsj.com/economy/central-banking/australias-central-bank-delivers-rate-hike-signals-more-on-the-horizon-6070c909",
       "source": "WSJ.com: Economy",
       "category": "財經",
-      "published": "2026-02-02T23:25:00+00:00"
+      "published": "2026-02-03T04:05:00+00:00"
+    },
+    {
+      "id": "db4215ae75be",
+      "title": "Will China replace the US on the world stage? – podcast",
+      "summary": "A succession of political leaders have been trooping to Beijing in recent months. Is it an indication of a new world order? Tania Branigan explainsXi Jinping had a busy January. First came the Irish taoiseach, Micheál Martin. Then it was Mark Carney of Canada’s turn. He was followed by the Finnish p...",
+      "url": "https://www.theguardian.com/news/audio/2026/feb/03/will-china-replace-the-us-on-the-world-stage-podcast",
+      "source": "Business | The Guardian",
+      "category": "財經",
+      "published": "2026-02-03T03:00:25+00:00"
+    },
+    {
+      "id": "098ab8f5d1d4",
+      "title": "Quoting Brandon Sanderson",
+      "summary": "This is the difference between Data and a large language model, at least the ones operating right now. Data created art because he wanted to grow. He wanted to become something. He wanted to understand. Art is the means by which we become what we want to be. [...]\nThe book, the painting, the film sc...",
+      "url": "https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything",
+      "source": "Simon Willison's Weblog",
+      "category": "媒體/文化",
+      "published": "2026-02-03T02:31:10+00:00"
     },
     {
       "id": "7886699674f7",
@@ -99,24 +126,6 @@
       "source": "Feed: Artificial Intelligence Latest",
       "category": "AI",
       "published": "2026-02-02T23:07:19+00:00"
-    },
-    {
-      "id": "f8883cbedff9",
-      "title": "What to Know About the Wild Swings in Gold and Silver",
-      "summary": "Wall Street is still forecasting gains for metals despite the sharp selloff.",
-      "url": "https://www.wsj.com/finance/commodities-futures/what-to-know-about-the-wild-swings-in-gold-and-silver-2fcad7a8?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T22:49:00+00:00"
-    },
-    {
-      "id": "6d4f82fea6cc",
-      "title": "The WSJ Dollar Index Rises 0.30% to 94.98",
-      "summary": "The WSJ Dollar Index rose 0.3% — up three of the past four trading days.",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-traders-digest-warshs-nomination-as-next-fed-chair-92e67ef3?mod=rss_markets_main",
-      "source": "WSJ.com: Markets",
-      "category": "財經",
-      "published": "2026-02-02T22:24:00+00:00"
     },
     {
       "id": "e7cbd6c4ea21",
@@ -162,15 +171,6 @@
       "source": "Internet Archive Blogs",
       "category": "媒體/文化",
       "published": "2026-02-02T16:49:01+00:00"
-    },
-    {
-      "id": "bfd4dedef770",
-      "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
-      "summary": "A Social Network for A.I. Bots Only. No Humans Allowed.\nI talked to Cade Metz for this New York Times piece on OpenClaw and Moltbook. Cade reached out after seeing my blog post about that from the other day.\nIn a first for me, they decided to send a photographer, Jason Henry, to my home to take some...",
-      "url": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything",
-      "source": "Simon Willison's Weblog",
-      "category": "媒體/文化",
-      "published": "2026-02-02T16:42:46+00:00"
     },
     {
       "id": "d7d36c99f43f",
