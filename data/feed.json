@@ -1,14 +1,94 @@
 {
-  "updated_at": "2026-02-03T15:36:29.067674+00:00",
+  "updated_at": "2026-02-03T18:38:35.729861+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "205a5e82b17f",
-        "title": "FTSE 100 falls back from record high amid AI worries; gold heads for best day since 2008 – business live",
-        "summary": "Rolling coverage of the latest economic and financial newsElon Musk merges SpaceX with artificial intelligence company xAIUK grocery inflation has dropped to a nine-month low, in welcome news for UK households, and the Bank of England.Worldpanel by Numerator has reported that like-for-like grocery p...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/03/gold-silver-prices-markets-stabilise-spacex-buys-xai-uk-inflation-stock-markets-business-live-news-updates",
+        "id": "a8bd5db2960f",
+        "title": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
+        "summary": "The use of administrative subpoenas, which are not subject to judicial oversight, are used to demand a wealth of information from tech companies, including the owners of anonymous online accounts documenting ICE operations.",
+        "url": "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T18:35:19+00:00"
+      },
+      {
+        "id": "53e05d0f0f5e",
+        "title": "Skyryse lands another $300M to make flying, even helicopters, simple and safe",
+        "summary": "Skyrsye, now valued at $1.15 billion, is pushing to get FAA certification for its universal operating system for flight.",
+        "url": "https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T18:21:23+00:00"
+      },
+      {
+        "id": "331c944650d9",
+        "title": "‘Finally got him to go’: how Epstein was given an inside track on UK’s political future",
+        "summary": "Apparent tip-off by Peter Mandelson gave advance notice of instability that would ripple through global marketsOn a brisk Monday evening in May 2010, Gordon Brown stood on the steps of Downing Street and delivered one of the most dramatic announcements of the New Labour era: his resignation as UK pr...",
+        "url": "https://www.theguardian.com/politics/2026/feb/03/finally-got-him-to-go-jeffrey-epstein-inside-track-uk-peter-mandelson",
         "source": "Business | The Guardian",
-        "published": "2026-02-03T15:09:12+00:00"
+        "published": "2026-02-03T18:11:34+00:00"
+      },
+      {
+        "id": "41140d31f470",
+        "title": "Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI",
+        "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
+        "url": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T18:00:00+00:00"
+      },
+      {
+        "id": "e018d355dfdd",
+        "title": "Gradient’s heat pumps get new smarts to enable old building retrofits",
+        "summary": "Gradient's heat pumps fit in windows, minimizing installation times. Now, it is introducing software to make those units more intelligent.",
+        "url": "https://techcrunch.com/2026/02/03/gradients-heat-pumps-get-new-smarts-to-enable-old-building-retrofits/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T17:56:45+00:00"
+      },
+      {
+        "id": "a637d1c059a1",
+        "title": "Watch Club is producing short video dramas and building a social network around them",
+        "summary": "Watch Club will house microdramas and fan discussions in the same app, creating a fandom-focused social media experience.",
+        "url": "https://techcrunch.com/2026/02/03/watch-club-microdrama-video-social-network/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T17:44:49+00:00"
+      },
+      {
+        "id": "ea0ab0ad9197",
+        "title": "The law on service charges is grossly unfair | Letters",
+        "summary": "Leaseholders have little or no control over service charges – the system needs urgent attention, writes Chris Wallis.While your editorial on leasehold reform (29 January) is right to say that action on ground rents is long overdue, as is the abolition of leasehold altogether, and that the right to m...",
+        "url": "https://www.theguardian.com/money/2026/feb/03/the-law-on-service-charges-is-grossly-unfair",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T17:29:19+00:00"
+      },
+      {
+        "id": "141b9c944854",
+        "title": "Enforcement is the issue on the decent homes standard | Letters",
+        "summary": "Dr Stephen Battersby fears that England could be doubling up on underresourced regulatory agenciesWhile the anger at the timeline for enforcing the decent homes standard (DHS) in England might be expected, it is also arguable that enforcing decent home standards is not as difficult as campaigners ma...",
+        "url": "https://www.theguardian.com/money/2026/feb/03/enforcement-is-the-issue-on-the-decent-homes-standard",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T17:28:19+00:00"
+      },
+      {
+        "id": "1f1b7d7187f8",
+        "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+        "summary": "This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins.",
+        "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T17:14:27+00:00"
+      },
+      {
+        "id": "2ec18f57c8fa",
+        "title": "Santander offers 98% mortgage for first-time buyers – with strict rules",
+        "summary": "Fixed-rate loan will not be available on flats and new-builds, and loan must be no more than 4.45 times salaryOne of Britain’s biggest banks has launched a mortgage that lets first-time buyers borrow up to 98% of the property’s value – but experts said the “very strict” rules would exclude many peop...",
+        "url": "https://www.theguardian.com/money/2026/feb/03/santander-mortgage-for-first-time-buyers-with-strict-rules",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T17:04:36+00:00"
+      },
+      {
+        "id": "61c03d4ba29b",
+        "title": "French police search X office in Paris, summon Elon Musk for questioning",
+        "summary": "The Paris prosecutor’s office announced that it is expanding a criminal investigation into X for alleged crimes, including the possession and distribution of child sexual exploitation material.",
+        "url": "https://techcrunch.com/2026/02/03/french-police-search-x-office-in-paris-summon-elon-musk-for-questioning/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T16:55:11+00:00"
       },
       {
         "id": "e1f24089bbc3",
@@ -16,7 +96,55 @@
         "summary": "Information Commissioner’s Office to investigate whether Elon Musk’s firms have complied with data protection lawElon Musk’s X and xAI companies are under formal investigation by the UK’s data protection watchdog after the Grok AI tool produced indecent deepfakes without people’s consent.The Informa...",
         "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
         "source": "Business | The Guardian",
-        "published": "2026-02-03T14:49:56+00:00"
+        "published": "2026-02-03T16:46:53+00:00"
+      },
+      {
+        "id": "f33458acea34",
+        "title": "What tech CEOs and executives have said about ICE’s actions in Minnesota",
+        "summary": "The Trump administration’s approach to immigration has reached a level of violence that the tech industry cannot ignore. Here's how tech leaders are responding to the moment.",
+        "url": "https://techcrunch.com/2026/02/03/what-tech-ceos-and-executives-have-said-about-ice-in-minnesota/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T16:13:30+00:00"
+      },
+      {
+        "id": "9656c38b1515",
+        "title": "The lithium boom: could a disused quarry bring riches to Cornwall?",
+        "summary": "Known as ‘white gold’, lithium is among the most important mined elements on the planet – ideal for the rechargeable batteries used in tech products. Can Europe’s largest deposit bring prosperity to the local community?It looks more like the past than the future. A vast chasm scooped out of a scarre...",
+        "url": "https://www.theguardian.com/environment/2026/feb/03/lithium-boom-cornwall-mine-largest-deposit-europe",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T16:08:55+00:00"
+      },
+      {
+        "id": "1af449df00bc",
+        "title": "Anthropic’s launch of AI legal tool hits shares in European data companies",
+        "summary": "Pearson, Experian and others fall sharply after startup unveils software to automate a range of professional servicesEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence firm Anthropic revealed a tool for use by comp...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T16:01:01+00:00"
+      },
+      {
+        "id": "716139679212",
+        "title": "TikTok recovers from dip in usage that benefited rival apps following US ownership change",
+        "summary": "TikTok usage dropped following ownership change, benefiting rival apps. But now, its numbers are climbing again.",
+        "url": "https://techcrunch.com/2026/02/03/tiktok-recovers-from-dip-in-usage-that-benefited-rival-apps-following-u-s-ownership-change/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T15:57:06+00:00"
+      },
+      {
+        "id": "eadf3951f065",
+        "title": "Fitbit founders launch AI platform to help families monitor their health",
+        "summary": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues.",
+        "url": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+        "source": "TechCrunch",
+        "published": "2026-02-03T15:53:36+00:00"
+      },
+      {
+        "id": "b0fb2c59d916",
+        "title": "China bans all retractable car door handles, starting next year",
+        "summary": "The pop-out door handle ban starts in 2027 for new cars, 2029 for existing models.",
+        "url": "https://arstechnica.com/cars/2026/02/china-bans-all-retractable-car-door-handles-starting-next-year/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-03T15:33:06+00:00"
       },
       {
         "id": "8119020b741a",
@@ -33,6 +161,14 @@
         "url": "https://www.theguardian.com/film/2026/feb/03/disney-new-ceo-justin-damaro",
         "source": "Business | The Guardian",
         "published": "2026-02-03T14:47:58+00:00"
+      },
+      {
+        "id": "3cc3111bd5f5",
+        "title": "Disastrous start for US TikTok as users cry censorship",
+        "summary": "New US-owned app struggled with a storm and was accused of blocking content critical of Trump – can it recover?Hello, and welcome to TechScape. I’m Blake Montgomery, writing to you from Doha, where I’m moderating panels about AI and investing as part of the Web Summit Qatar.I want to bring your atte...",
+        "url": "https://www.theguardian.com/technology/2026/feb/02/tiktok-us-owners",
+        "source": "Business | The Guardian",
+        "published": "2026-02-03T14:18:46+00:00"
       },
       {
         "id": "53da5019e643",
@@ -65,160 +201,56 @@
         "url": "https://www.theguardian.com/australia-news/2026/feb/04/we-never-would-have-bought-australian-mortgage-holders-feel-the-pain-as-interest-rates-rise-again",
         "source": "Business | The Guardian",
         "published": "2026-02-03T14:00:06+00:00"
-      },
-      {
-        "id": "1af449df00bc",
-        "title": "Anthropic’s launch of AI legal tool hits shares in European data services firms",
-        "summary": "Stocks in Pearson, London Stock Exchange Group and Experian plunge amid fears over impact of AIEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence firm Anthropic revealed a tool for use by companies’ legal departmen...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T13:38:08+00:00"
-      },
-      {
-        "id": "a2ef3de7b2d2",
-        "title": "India’s Supreme Court to WhatsApp: ‘You cannot play with the right to privacy’",
-        "summary": "India's top court is investigating WhatsApp’s data-sharing model, monopoly power, and user consent.",
-        "url": "https://techcrunch.com/2026/02/03/indias-supreme-court-to-whatsapp-you-cannot-play-with-the-right-to-privacy/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T12:38:05+00:00"
-      },
-      {
-        "id": "21c36b5d8731",
-        "title": "Vema predicts cheap hydrogen could change where data centers are built",
-        "summary": "Vema Hydrogen drills wells to stimulate hydrogen production deep underground, which could result in some of the cheapest hydrogen available.",
-        "url": "https://techcrunch.com/2026/02/03/vema-predicts-cheap-hydrogen-could-change-where-data-centers-are-built/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T12:15:49+00:00"
-      },
-      {
-        "id": "21cc3d05318e",
-        "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
-        "summary": "We don't need self-replicating AI models to have problems, just self-replicating prompts.",
-        "url": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T12:00:01+00:00"
-      },
-      {
-        "id": "939b1bbf2f92",
-        "title": "Avalanche thinks the fusion power industry should think smaller",
-        "summary": "Avalanche has raised $29 million in fresh funding to pursue its unique approach to fusion power, which can currently fit on a table.",
-        "url": "https://techcrunch.com/2026/02/03/avalanche-thinks-the-fusion-power-industry-should-think-smaller/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T11:00:00+00:00"
-      },
-      {
-        "id": "ec7029fdfc46",
-        "title": "台美經貿持續深化，台灣躍升美國第四大貿易夥伴",
-        "summary": "經濟部貿易署今天表示，美國海關去年 1~10 月統計，台灣已超越德國，躍升為美國第四大貿易夥伴，僅次墨西哥、加 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/03/taiwan-becomes-the-fourth-largest-trading-partner-of-the-us/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T10:35:12+00:00"
-      },
-      {
-        "id": "58d9c2fb72aa",
-        "title": "中華電衛星拚億元規模，pre-6G 業務營收估百億",
-        "summary": "展望 2026 年，中華電信表示，OneWeb 與 SES 衛星 2025 年啟用，Astranis 衛星今年 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/03/cht-fr-25q4/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T10:20:24+00:00"
-      },
-      {
-        "id": "799889baaa4f",
-        "title": "6 吋隨身易帶、電子紙護眼閱讀，讀墨新機 mooInk Chill 動眼看",
-        "summary": "Readmoo 讀墨電子書去年底預告開發手機型閱讀器，在 3 日登場的台北國際書展，攜手聯發科技、元太科技、慧 [&#8230;]",
-        "url": "https://ccc.technews.tw/2026/02/03/new-color-ereader-mooink-chill/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T10:19:58+00:00"
-      },
-      {
-        "id": "af3d569d2ab6",
-        "title": "EU has ‘open mind’ on UK customs union talks, says official",
-        "summary": "Valdis Dombrovskis says bloc is ‘ready to engage’ amid meetings with ministers including Rachel ReevesBusiness live – latest updatesThe European Commission would be “open-minded” to discussing closer trade ties with the UK, including a customs union, a senior EU official has said.The EU economy comm...",
-        "url": "https://www.theguardian.com/world/2026/feb/03/eu-uk-customs-union-rachel-reeves-valdis-dombrovskis",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T09:54:11+00:00"
-      },
-      {
-        "id": "c0cde739e77c",
-        "title": "低軌衛星熱度不墜，概念股強攻",
-        "summary": "受惠 SpaceX 申請部署百萬顆衛星，低軌衛星題材股持續發酵，概念股昇達科、耀登、燿華今天強攻漲停，兆赫、華 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/03/leo-stock-hot/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T09:50:31+00:00"
-      },
-      {
-        "id": "1fdc9507f257",
-        "title": "瞄準記憶體缺口！中國長鑫、長江存儲擬大舉擴產，反成搶市占契機",
-        "summary": "據日經報導，由於全球記憶體供應嚴重短缺，中國兩大記憶體晶片製造商正啟動史上最積極的擴產計畫，以追上市場領導者。 [&#8230;]",
-        "url": "https://technews.tw/2026/02/03/china-cxmt-and-ymtc-expand-memory-output/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T09:50:14+00:00"
-      },
-      {
-        "id": "ce6ea1eddd63",
-        "title": "美日稀土產供取得重大進展，中國迴避正面作答",
-        "summary": "中國動輒以稀土為對外關係籌碼下，美國宣布啟動關鍵礦產儲備計畫，日本也宣布在南鳥島海域成功試掘稀土。中國外交部發 [&#8230;]",
-        "url": "https://technews.tw/2026/02/03/china-does-not-respond-to-the-major-progress-in-rare-earths-by-the-us-and-japan/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T09:35:33+00:00"
-      },
-      {
-        "id": "a2695e9e2e6c",
-        "title": "南亞科 1 月營收 153.10 億元創新高，年增超過 600%",
-        "summary": "記憶體大廠南亞科公佈 2026 年 1 月份自結合併營收，金額為新台幣 153.10 億元，較 2025 年1 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/03/nanya-technologys-january-financial-report-hit-a-record-high/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T09:25:12+00:00"
-      },
-      {
-        "id": "b763ca92d445",
-        "title": "英特爾發表 Xeon 600 系列工作站處理器，86 核心效能預計 3 月下旬上市",
-        "summary": "處理器大廠英特爾（Intel）於3日正式宣布推出全新 Intel Xeon 600 系列客戶端工作站處理器，宣 [&#8230;]",
-        "url": "https://technews.tw/2026/02/03/intel-announces-xeon-600-series-workstation-processors/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T09:10:26+00:00"
-      },
-      {
-        "id": "e39a07f4ea05",
-        "title": "明泰1月營收月減48.7%",
-        "summary": "明泰（3380）公布 1 月合併營收 15.28 億元，較上（12）月成長 -48.7%，與去年同期相比為年增 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/03/alpha-3380-202601-financial-report/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T09:00:02+00:00"
-      },
-      {
-        "id": "46db324ca108",
-        "title": "熬夜隔天腦袋容易當機，研究：腦脊液從大腦流出，試圖叫大腦休息",
-        "summary": "為何前天晚上沒睡好，隔天會明顯較難維持注意力、思考速度變慢，連完成簡單任務都比平常費心思？最近科學家發現因睡眠 [&#8230;]",
-        "url": "https://technews.tw/2026/02/03/inadequate-sleep-brain-cerebrospinal-fluid-attention/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T08:54:50+00:00"
-      },
-      {
-        "id": "0c120d5ac079",
-        "title": "達梭系統與輝達緊密合作，三大虛擬助理布局製造業重鎮大中華區",
-        "summary": "工業軟體巨頭達梭系統（Dassault Systèmes）在近期的 3DEXPERIENCE World 大會 [&#8230;]",
-        "url": "https://technews.tw/2026/02/03/dassault-systemes-works-closely-with-nvidia/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-03T08:50:25+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "8342204c9639",
+        "title": "The dump dinner: spaghetti is now being served straight on to the table – but why?",
+        "summary": "A raft of online videos show parents serving up dinner without a single plate in sight, to the amazement of their familiesName: Dump dinners.Age: Horribly new. Continue reading...",
+        "url": "https://www.theguardian.com/food/2026/feb/03/dump-dinner-spaghetti-served-straight-onto-table-why",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T17:25:38+00:00"
+      },
+      {
+        "id": "5934edc23c5b",
+        "title": "Best of show: walk NAMM with us in a gear-mas gallery",
+        "summary": "Who stood out at this year's NAMM show, that festivus of gear that brightens our winters from Anaheim? We've given you some idea with NAMM and LA's Buchla &#038; Friends. Here, in images, are our favorites from NAMM, as captured by LA photographer Mehdi Hassine and veteran Berlin hardware guru Gösta...",
+        "url": "https://cdm.link/best-of-show-namm-26/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-03T16:54:22+00:00"
+      },
       {
         "id": "e1f24089bbc3",
         "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
         "summary": "Information Commissioner’s Office to investigate whether Elon Musk’s firms have complied with data protection lawElon Musk’s X and xAI companies are under formal investigation by the UK’s data protection watchdog after the Grok AI tool produced indecent deepfakes without people’s consent.The Informa...",
         "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
         "source": "Technology | The Guardian",
-        "published": "2026-02-03T14:49:56+00:00"
+        "published": "2026-02-03T16:46:53+00:00"
+      },
+      {
+        "id": "1af449df00bc",
+        "title": "Anthropic’s launch of AI legal tool hits shares in European data companies",
+        "summary": "Pearson, Experian and others fall sharply after startup unveils software to automate a range of professional servicesEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence firm Anthropic revealed a tool for use by comp...",
+        "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T16:01:01+00:00"
+      },
+      {
+        "id": "644621b4d785",
+        "title": "音樂、極權與我們的感知力",
+        "summary": "在中國，「音樂歸音樂」似乎是不可能的悖論。《報導者事件簿005：唱進／噤中國》裡，我們團隊與漫畫家高妍，希望以冷靜和溫暖的筆觸處理台灣音樂工作者以至於更多人，在地緣政治下的時代難題。",
+        "url": "https://www.twreporter.org/a/bookreview-the-reporter-file-005",
+        "source": "報導者",
+        "published": "2026-02-03T16:00:00+00:00"
       },
       {
         "id": "4447354c2345",
         "title": "French headquarters of Elon Musk’s X raided by Paris cybercrime unit",
-        "summary": "Prosecutors summon tech billionaire and ex-CEO for questioning and add Grok AI tool to investigationEurope live – latest updatesProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the company’s former chief executive for questi...",
+        "summary": "Prosecutors’ announcement comes amid a hardening of European attitudes to social media firmsEurope live – latest updatesProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the company’s former chief executive for questioning as...",
         "url": "https://www.theguardian.com/technology/2026/feb/03/french-headquarters-elon-musk-x-raided-paris-cybercrime-unit",
         "source": "Technology | The Guardian",
-        "published": "2026-02-03T14:25:14+00:00"
+        "published": "2026-02-03T15:29:08+00:00"
       },
       {
         "id": "3cc3111bd5f5",
@@ -227,14 +259,6 @@
         "url": "https://www.theguardian.com/technology/2026/feb/02/tiktok-us-owners",
         "source": "Technology | The Guardian",
         "published": "2026-02-03T14:18:46+00:00"
-      },
-      {
-        "id": "1af449df00bc",
-        "title": "Anthropic’s launch of AI legal tool hits shares in European data services firms",
-        "summary": "Stocks in Pearson, London Stock Exchange Group and Experian plunge amid fears over impact of AIEuropean publishing and legal software companies have suffered sharp declines in their share prices after the US artificial intelligence firm Anthropic revealed a tool for use by companies’ legal departmen...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/anthropic-ai-legal-tool-shares-data-services-pearson",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-03T13:38:08+00:00"
       },
       {
         "id": "c7e87ed3921b",
@@ -379,30 +403,6 @@
         "url": "https://www.twreporter.org/a/bookreview-looking-at-women-looking-at-war",
         "source": "報導者",
         "published": "2026-02-02T16:00:00+00:00"
-      },
-      {
-        "id": "e21f943ec415",
-        "title": "Requiem for a film-maker: Darren Aronofsky’s AI revolutionary war series is a horror",
-        "summary": "The once-lauded director of Black Swan and The Wrestler has drowned himself in AI slop with an embarrassing new online seriesIf you happen to find yourself stumbling through Time magazine’s YouTube account, perhaps because you are a time traveller from the 1970s who doesn’t fully understand how the ...",
-        "url": "https://www.theguardian.com/film/2026/feb/02/darren-aronofsky-ai-revolutionary-war-series-review",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-02T12:11:09+00:00"
-      },
-      {
-        "id": "46e579299b3a",
-        "title": "Ukraine’s Tembra Modular continues workshops, gear despite attacks",
-        "summary": "Through blackouts, bitter cold, Internet disruptions, and nightly attacks, Ukrainian DIY producers Tembra Modular persist. The two-person shop continues to run workshops and produce DIY kits and assembled modules. Blackouts can't stop them: their production often takes place literally by candlelight...",
-        "url": "https://cdm.link/ukraine-tembra-modular-endures-blackouts/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-02T10:42:50+00:00"
-      },
-      {
-        "id": "0db376dab261",
-        "title": "TIL: Running OpenClaw in Docker",
-        "summary": "TIL: Running OpenClaw in Docker\nI've been running OpenClaw using Docker on my Mac. Here are the first in my ongoing notes on how I set that up and the commands I'm using to administer it.\n\nUse their Docker Compose configuration\nAnswering all of those questions\nRunning administrative commands\nSetting...",
-        "url": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-01T23:59:13+00:00"
       }
     ],
     "序(month)": [
