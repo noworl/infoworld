@@ -133,8 +133,7 @@
     </div>
     <nav>
       <a href="new_videos.html">New Videos</a>
-      <a href="" id="reddit-tech">Reddit Tech Weekly</a>
-      <a href="" id="reddit-music">Reddit Music Weekly</a>
+      <a href="reddit/index.html">Reddit Weekly</a>
     </nav>
   </header>
   <main id="content">
@@ -146,18 +145,6 @@
     const CATEGORY_LABELS = {"急(hr)": "急", "破(day)": "破", "序(month)": "序"};
     let currentOpen = null;
 
-    // Set dynamic Reddit links
-    function setRedditLinks() {
-      const today = new Date();
-      const yyyy = today.getFullYear();
-      const mm = String(today.getMonth() + 1).padStart(2, '0');
-      const dd = String(today.getDate()).padStart(2, '0');
-      const dateStr = `${yyyy}-${mm}-${dd}`;
-
-      document.getElementById('reddit-tech').href = `reddit/reddit_tech_weekly_${dateStr}.html`;
-      document.getElementById('reddit-music').href = `reddit/reddit_music_weekly_${dateStr}.html`;
-    }
-    setRedditLinks();
 
     function relativeTime(dateStr) {
       const now = new Date();
