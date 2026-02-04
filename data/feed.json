@@ -1,23 +1,95 @@
 {
-  "updated_at": "2026-02-04T22:59:15.562319+00:00",
+  "updated_at": "2026-02-04T23:55:59.378333+00:00",
   "trending": [
-    "david zayas",
-    "2030 winter olympics",
-    "joseph gordon-levitt",
-    "santos vs são paulo",
-    "save act bill",
-    "nancy grace",
-    "war machine 2026",
-    "mcnugget caviar kit",
-    "lego kpop demon hunters",
-    "tomas machac"
+    "jeff stoutland",
+    "superbowl sunday",
+    "bruins vs panthers",
+    "timberwolves vs raptors",
+    "wofford basketball",
+    "gore mountain",
+    "lincoln lawyer season 4",
+    "joey logano",
+    "nuggets vs knicks",
+    "satoshi nakamoto"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "d30369f974a7",
+        "title": "不要只是談 AI 潛力，麥肯錫給企業的三大 AI 治理行動建議",
+        "summary": "過去一年，AI 幾乎成為所有企業策略中不可或缺的關鍵字。然而，根據麥肯錫（McKinsey）的最新觀察，多數企 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/mckinsey-three-major-ai-governance-action-recommendations/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T23:50:26+00:00"
+      },
+      {
+        "id": "dd6dfb391990",
+        "title": "Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs",
+        "summary": "Having raised a €30 million Series A round led by CapitalG, business identity verification startup Duna is now among the most well-capitalized European startups founded by Stripe alumni.",
+        "url": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T23:49:18+00:00"
+      },
+      {
+        "id": "0941b2328897",
+        "title": "AI 軍備競賽再擴大！Google 資本支出翻倍至 1,750 億至 1,850 億美元",
+        "summary": "AI 軍備競賽再擴大，Google 母公司 Alphabet 計劃在 2026 年進行 1,750 億至 1, [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/google-parent-alphabet/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T23:40:51+00:00"
+      },
+      {
+        "id": "dac4cc67c959",
+        "title": "智慧手錶／戒指睡眠追蹤功能有局限，只能從心率與動作「推斷」睡眠狀況",
+        "summary": "智慧手錶與智慧戒指已經成為人們監測自己睡眠品質的熱門工具，但這些追蹤裝置並不一定會直接量測睡眠本身，而多半是從 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/sleep-tracking-devices-have-limits-experts-want-users-to-know-what-they-are/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T23:40:22+00:00"
+      },
+      {
+        "id": "16b45fca8598",
+        "title": "被忽略的氣候關鍵：不當的土地利用，如何加劇全球碳排放",
+        "summary": "說到氣候變遷，多數人直覺認為主因來自發電廠、燃油引擎及工業排放的廢氣。然而，科學研究顯示，人類如何使用土地，同 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/unpacking-the-growth-of-global-agricultural-greenhouse-gas-emissions/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T23:30:29+00:00"
+      },
+      {
+        "id": "d8675af27ee2",
+        "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
+        "summary": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
+        "url": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T23:28:31+00:00"
+      },
+      {
+        "id": "f49f8b543148",
+        "title": "兩個月大就會分類，fMRI 揭示嬰兒大腦可區分生物與非生物",
+        "summary": "在一項研究中，愛爾蘭都柏林三一學院（Trinity College Dublin）的神經科學家發現，僅兩個月大 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/new-brain-scans-reveal-hidden-intelligence-in-babies/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T23:20:02+00:00"
+      },
+      {
+        "id": "9eb10ee0e4fe",
+        "title": "中國研究：菸蒂轉成超級電容電極，解決環境污染難題",
+        "summary": "全球每年會產生約 4.5 兆顆菸蒂，是地球最多廢物，每年造成約 260 億美元環境成本。中國河南大學最近發表研 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/turning-cigarette-butts-into-high-performance-supercapacitors/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T23:10:58+00:00"
+      },
+      {
+        "id": "aba1ca7d93e2",
+        "title": "多軌道衛星互聯成形，重塑偏遠礦區之智慧採礦通訊網路",
+        "summary": "工業網路需求正推動全球採礦業變革，礦產開採活動深入偏遠地區和地下環境，傳統通訊基礎設施已無法支援日益複雜數位系 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/mining-smart-network/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T23:00:23+00:00"
+      },
+      {
         "id": "5e73391c78ad",
         "title": "Google’s Gemini app has surpassed 750M monthly active users",
-        "summary": "Google revealed a significant milestone for it's Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
+        "summary": "Google revealed a significant milestone for its Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
         "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
         "source": "TechCrunch",
         "published": "2026-02-04T22:53:46+00:00"
@@ -32,8 +104,8 @@
       },
       {
         "id": "0599ff210c6e",
-        "title": "The Wayback Machine debuts a new plugin designed to fix the internet’s broken links problem",
-        "summary": "WordPress is helping the non-profit fight the scourge of \"link rot.\"",
+        "title": "The Wayback Machine debuts a new plug-in designed to fix the internet’s broken links problem",
+        "summary": "Should a linked web page go offline, the new feature will then redirect readers to the archived versions, so that there is no drop in service. The tool also archives a user's own posts, helping to ensure their longevity.",
         "url": "https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/",
         "source": "TechCrunch",
         "published": "2026-02-04T22:27:12+00:00"
@@ -135,84 +207,12 @@
         "published": "2026-02-04T18:20:17+00:00"
       },
       {
-        "id": "48a47bfb9a3d",
+        "id": "c899ad2e0451",
         "title": "英特爾攜手軟銀集團發展新一代記憶體，搶攻 AI 商機 2027 年原型亮相",
         "summary": "處理器大廠英特爾宣布，與軟銀集團旗下子公司 SAIMEMORY 簽署合作協議，共同開發名為 Z-Angle M [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/intel-partners-with-softbank-group-to-develop-next-generation-memory/",
+        "url": "https://technews.tw/2026/02/05/intel-partners-with-softbank-group-to-develop-next-generation-memory/",
         "source": "TechNews 科技新報",
         "published": "2026-02-04T18:15:37+00:00"
-      },
-      {
-        "id": "bb38075431dc",
-        "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
-        "summary": "Tinder is testing AI recommendations and insight from your Camera Roll for better matches.",
-        "url": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T18:08:00+00:00"
-      },
-      {
-        "id": "12d9d782a32e",
-        "title": "We all benefit from higher education – so why should only students bear the costs? | Brief letters",
-        "summary": "Student finance | Duvet difficulties | Sunbed peg solution | The French way | Permafrost | Cerne Abbas GiantRachel Reeves thinks it is “not right that people who don’t go to university are having to bear all the cost for others to do so” (Economics viewpoint, 1 February). Higher education – nay, all...",
-        "url": "https://www.theguardian.com/money/2026/feb/04/its-not-only-students-who-benefit-from-higher-education",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T17:57:17+00:00"
-      },
-      {
-        "id": "3c037d30fdc8",
-        "title": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
-        "summary": "The startup has raised more than $500 million, to date, from investors to build a massive, distributed power plant supported by residential batteries.",
-        "url": "https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T17:56:40+00:00"
-      },
-      {
-        "id": "d7a147f1f911",
-        "title": "Hackers publish personal information stolen during Harvard, UPenn data breaches",
-        "summary": "The prolific cybercrime group ShinyHunters took responsibility for hacking Harvard and the University of Pennsylvania, and published the stolen data on its extortion website.",
-        "url": "https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T17:56:37+00:00"
-      },
-      {
-        "id": "f8b2bb2b5de0",
-        "title": "User blowback convinces Adobe to keep supporting 30-year-old 2D animation app",
-        "summary": "Despite the about-face, some customers think \"the damage is done.\"",
-        "url": "https://arstechnica.com/gadgets/2026/02/adobe-reverses-decision-to-discontinue-animate-after-a-lot-of-confusion-and-angst/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T17:55:13+00:00"
-      },
-      {
-        "id": "26b54c6ea37c",
-        "title": "Roblox’s 4D creation feature is now available in open beta",
-        "summary": "Roblox's highly anticipated 4D creation feature has officially arrived in open beta.",
-        "url": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T17:00:00+00:00"
-      },
-      {
-        "id": "a7c1f6f069f4",
-        "title": "‘It’s an absolute bloodbath’: Washington Post lays off hundreds of workers",
-        "summary": "Former Post executive editor blasts owner Jeff Bezos’s ‘sickening efforts to curry favor’ with TrumpThe Washington Post laid off hundreds of employees  on Wednesday, which its former executive editor said “ranks among the darkest days” in the newspaper’s history. Approximately one-third of employees...",
-        "url": "https://www.theguardian.com/media/2026/feb/04/washington-post-layoffs",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T15:39:25+00:00"
-      },
-      {
-        "id": "d22f15fc142a",
-        "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
-        "summary": "ElevenLabs' valuation has raised more than three times in the last 12 months.",
-        "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T15:33:58+00:00"
-      },
-      {
-        "id": "881e84e428b5",
-        "title": "Chinese carmaker Chery to launch fourth brand in UK",
-        "summary": "State-owned company will sell under the Lepas brand, continuing its rapid expansion in the British marketBusiness live – latest updatesThe Chinese carmaker Chery is launching a fourth brand in the UK, continuing a push into the British market where it has rapidly become a major player.The state-owne...",
-        "url": "https://www.theguardian.com/business/2026/feb/04/chinese-carmaker-chery-to-launch-fourth-brand-in-uk",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T15:04:30+00:00"
       }
     ],
     "破(day)": [
@@ -531,12 +531,28 @@
         "published": "2026-01-30T19:26:48+00:00"
       },
       {
+        "id": "3752ead9da29",
+        "title": "2025 in numbers",
+        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2347",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T16:19:39+00:00"
+      },
+      {
         "id": "09225b611b79",
         "title": "‘Her name was Mothball and she changed my life’: the true story behind Diary of a Wombat",
         "summary": "Jackie French was used to the quirks of wild animal behaviour – and then she met a carrot-mad wombat with an appetite for destruction. A bestseller was bornVote for the best Australian children’s picture bookGet our weekend culture and lifestyle emailHer name was Mothball and she changed my life.We ...",
         "url": "https://www.theguardian.com/books/2026/jan/31/jackie-french-true-story-behind-diary-of-a-wombat",
         "source": "Children and teenagers | The Guardian",
         "published": "2026-01-30T14:00:29+00:00"
+      },
+      {
+        "id": "d32f0a5eed31",
+        "title": "Freesound Day video recordings available online",
+        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2352",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T11:10:55+00:00"
       },
       {
         "id": "0ebaa081adef",
@@ -601,22 +617,6 @@
         "url": "https://finance.technews.tw/2026/01/29/mark-zuckerberg-is-all-in-on-ai-as-the-new-social-media/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-01-29T03:00:10+00:00"
-      },
-      {
-        "id": "a4925ff03394",
-        "title": "Meta 財測超優、抵消 AI 鉅額支出疑慮  盤後飆",
-        "summary": "社群媒體巨頭 Meta 核心業務表現強勁，財測遠優於市場預期，緩解了市場對高昂 AI 資本支出降低獲利能力的疑 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/01/29/meta-reports-fourth-quarter-and-full-year-2025-results/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-01-29T02:10:52+00:00"
-      },
-      {
-        "id": "992072a4acf9",
-        "title": "I’ve read this picture book so many times – but only 25 years later do I really understand it | Lenore Taylor",
-        "summary": "Wilfrid Gordon McDonald Partridge was a favourite when my son was small. Now my father’s in a nursing home – and Mem Fox’s book has new significanceVote for the best Australian children’s picture bookWhen my son was small, he and my dad liked to read Mem Fox’s 1984 picture book Wilfrid Gordon McDona...",
-        "url": "https://www.theguardian.com/culture/2026/jan/29/wilfrid-gordon-mcdonald-partridge-mem-fox-best-australian-picture-book-poll",
-        "source": "Children and teenagers | The Guardian",
-        "published": "2026-01-28T14:00:13+00:00"
       }
     ]
   }
