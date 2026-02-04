@@ -1,19 +1,115 @@
 {
-  "updated_at": "2026-02-04T03:08:58.201981+00:00",
+  "updated_at": "2026-02-04T05:01:27.612808+00:00",
   "trending": [
-    "penguins",
-    "kraken vs ducks",
-    "dog the bounty hunter",
-    "mel gibson",
-    "luka garza",
-    "fallout season 3",
-    "steve hilton",
-    "pittsburgh vs virginia",
-    "smu basketball",
-    "ziaire williams"
+    "collin gillespie",
+    "jerami grant",
+    "iranian drones",
+    "toumani camara",
+    "shaedon sharpe",
+    "wyoming basketball",
+    "fresno state basketball",
+    "tyrese maxey",
+    "donovan clingan",
+    "mega millions drawing"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "c4ada26520b5",
+        "title": "支付巨頭 PayPal 財報不佳＋展望失色  股價暴跌 20%",
+        "summary": "美國數位支付巨頭 PayPal 於 3 日發布 2025 年第四季財報及 2026 年展望，雙雙低於華爾街預期 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/paypal-reports-fourth-quarter-and-full-year-2025-results/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T04:40:25+00:00"
+      },
+      {
+        "id": "c097a004a82c",
+        "title": "中國經濟轉向內循環！富達看好製造業、服務業、AI 雲端技術成長",
+        "summary": "富達國際今日舉辦「中國市場馬年投資展望」，亞洲經濟學家劉培乾表示，中國經濟正經歷顯著的分化與轉型，過去依賴房地 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/internal-circulation/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T04:39:10+00:00"
+      },
+      {
+        "id": "ce4fe961ef86",
+        "title": "AI 功能侵蝕網路商業服務，美軟體類股大跌",
+        "summary": "華爾街三大指數今天全面下挫，投資人對傳統軟體業者如何在人工智慧（AI）崛起時刻維持營運抱持懷疑，那斯達克指數下 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/ai-capabilities-are-eroding-online-business-services/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T04:15:42+00:00"
+      },
+      {
+        "id": "a82436cb0336",
+        "title": "消費與勞動薪資脫鉤，經濟學家：AI 破滅對一般人有利",
+        "summary": "物價一直在上漲，但薪水卻沒有增加多少，這是多數人的實際感受，但經濟似乎依舊強勁。經濟學家計算勞動報酬與消費的比 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/ai-trigger-consumption-boom/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T04:02:57+00:00"
+      },
+      {
+        "id": "141a247b3dd9",
+        "title": "IET-KY 卡位低軌衛星題材！MOCVD 難題成高階 MBE 切入商機",
+        "summary": "隨著友達打入低軌衛星產業，目前市場正關注低軌衛星題材，具有相關題材的類股也表現亮眼，如 PCB 廠燿華近日股價 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/iet-ky-mbe/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T04:01:59+00:00"
+      },
+      {
+        "id": "3c0602459718",
+        "title": "時序元件業務賣給美國 SiTime？瑞薩：協商中",
+        "summary": "日本半導體大廠瑞薩電子（Renesas Electronics）傳出擬將時序元件（Timing）業務賣給美國半 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/renesas-in-discussions-with-sitime-to-sell-its-timing-business/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T04:00:24+00:00"
+      },
+      {
+        "id": "18fe143bd8c8",
+        "title": "美軍「鏽蝕匕首」 16 個月內試射成功，烏克蘭將獲得低成本巡弋飛彈",
+        "summary": "美國空軍近日釋出了「鏽蝕匕首」實彈測試細節，這款武器屬於「增程攻擊彈藥」計畫的一部分，此次測試的成功，不僅意味 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/usaf-successfully-test-fired-the-rusty-dagger-low-cost-cruise-missiles/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T03:55:35+00:00"
+      },
+      {
+        "id": "5917134fc377",
+        "title": "需求旺  Ibiden 擬砸「5 千億」增產 AI 用 IC 基板",
+        "summary": "因應需求旺盛，日本 IC 基板大廠揖斐電（Ibiden）擬在今後 3 年砸下 5,000 億日圓，增產 AI  [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/ibiden-plans-500-billion-investment-to-expand-ai-ic-substrate/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T03:40:33+00:00"
+      },
+      {
+        "id": "4cb2cb9150eb",
+        "title": "阻鹽颱風文件公開，美參議員指 AT＆T 與威瑞森擋路",
+        "summary": "美國參議員肯特威爾今天表示，電信業者 AT&#38;T 與 Verizon 阻礙一項名為「鹽颱風」（Salt  [&#8230;]",
+        "url": "https://infosecu.technews.tw/2026/02/04/us-senator-says-att-verizon-blocking-release-of-salt-typhoon-security-assessment-reports/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T03:30:27+00:00"
+      },
+      {
+        "id": "a95a949f3833",
+        "title": "Siemens Energy 投資 10 億美元擴大美國製造，強化電網與發電設備供應",
+        "summary": "Siemens Energy 宣布，將在美國投資 10 億美元擴大製造布局，並於部分據點強化研發與數位電網技術 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/siemens-energy-invest-10-billion-in-us/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T03:29:23+00:00"
+      },
+      {
+        "id": "5e04f9114a35",
+        "title": "HDD 巨頭威騰喊長期毛利率目標突破 50%、股價嗨",
+        "summary": "硬碟大廠威騰電子（Western Digital）在紐約舉行「創新日」（Innovation Day）大會，並 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/wd-targets-long-term-gross-margin-above-50/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T03:20:07+00:00"
+      },
+      {
+        "id": "4b521d816513",
+        "title": "液態氫洩漏卡關，NASA 阿提米絲二號載人登月任務延後至 3 月",
+        "summary": "美國國家航空暨太空總署（NASA）於 3 日宣布，因在測試中發現液態氫洩漏，將阿提米絲二號任務的發射時間延後至 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/nasa-pushes-artemis-ii-mission-back-after-issues-with-fueling-process/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T03:10:57+00:00"
+      },
       {
         "id": "a84e90045cc8",
         "title": "5G 拉貨動能續強  Skyworks 財報報喜、盤後反彈 1%",
@@ -56,8 +152,8 @@
       },
       {
         "id": "8c74e8540642",
-        "title": "迪士尼迎新執行長  樂園主管 D’Amaro 3 月正式接棒",
-        "summary": "美國娛樂巨擘迪士尼（Disney）於 2 月 3 日宣布，任命現任主題樂園與體驗部門主管喬許·達瑪羅（Josh [&#8230;]",
+        "title": "迪士尼迎新執行長  樂園主管 D′Amaro 3 月正式接棒",
+        "summary": "美國娛樂巨擘迪士尼（Disney）3 日宣布，任命現任主題樂園與體驗部門主管喬許·達瑪羅（Josh D′Ama [&#8230;]",
         "url": "https://finance.technews.tw/2026/02/04/disney-taps-parks-head-josh-damaro-as-ceo/",
         "source": "TechNews 科技新報",
         "published": "2026-02-04T02:30:46+00:00"
@@ -117,102 +213,6 @@
         "url": "https://technews.tw/2026/02/04/spain-greece-weigh-teen-social-media-bans-drawing-fury-from-elon-musk/",
         "source": "TechNews 科技新報",
         "published": "2026-02-04T02:00:21+00:00"
-      },
-      {
-        "id": "dade218cd499",
-        "title": "AI 用電狂潮壓境，德州電網擬重審已核准併網案",
-        "summary": "根據彭博社報導，隨著 AI 資料中心在德州快速擴張，用電需求急速攀升，德州電網營運商 Electric Rel [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/ercot-grid-texas/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:55:15+00:00"
-      },
-      {
-        "id": "c4b531348bea",
-        "title": "ABF 載板供應吃緊逐月惡化！高盛調升景碩、南電、欣興目標價",
-        "summary": "由於 ABF 載板的供應吃緊情況將逐月惡化，供需缺口預計在 2026 年下半年達到 10%，並在 2027 年 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/abf-carrier-board-supply-is-tight/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:51:13+00:00"
-      },
-      {
-        "id": "bbfa0b14fffb",
-        "title": "經濟部拍板前瞻研發案，友達啟動低軌衛星天線布局",
-        "summary": "經濟部產業技術司於 1 月 27 日召開「A+ 企業創新研發淬鍊計畫」第 2 次決審會議，正式通過友達光電三項 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/auo-leo/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:50:48+00:00"
-      },
-      {
-        "id": "70ff6c1e605c",
-        "title": "美商務部長憂晶片過度集中台灣，目標取得 4 成市占",
-        "summary": "美國商務部長盧特尼克今天在關鍵礦產相關座談中，再度提到把所有半導體製造都放在「距中國只有 80 英里的地方」根 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/usa-semiconductor-manufacturing-market-share/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:50:34+00:00"
-      },
-      {
-        "id": "7f5acb1b8749",
-        "title": "馬斯克無聊公司即將開挖新隧道，當地市長：「希望不要死人」",
-        "summary": "馬斯克的「無聊公司」即將在納什維爾市開挖新隧道，連通機場與市區，而且不花納稅人一毛錢，就能緩解交通問題。諷刺的 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/boring-company-new-tunnel-nashville/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:44:41+00:00"
-      },
-      {
-        "id": "297463d08f32",
-        "title": "諾和諾德財測遜、股價崩 14%  川普砍藥價影響大",
-        "summary": "丹麥製藥巨頭、熱門減肥藥 Wegovy 開發商諾和諾德（Novo Nordisk）財測遠遜於預期，川普政府施壓 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/novo-nordisk-warns-on-profits-and-sales-amid-trump-drug-price-crackdown/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:40:30+00:00"
-      },
-      {
-        "id": "1d6a1d2c6558",
-        "title": "中國駭客鎖定全球外交官員寄假美國政策檔案，開啟即遭駭入",
-        "summary": "以色列資安公司最新研究指出，中國駭客組織近期寄送偽裝成美國政策簡報的檔案，鎖定全球外交人員發動攻擊，收信者只要 [&#8230;]",
-        "url": "https://infosecu.technews.tw/2026/02/04/chinese-phishers-impersonate-u-s-policy-briefings/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:30:43+00:00"
-      },
-      {
-        "id": "98963d09aa80",
-        "title": "黃仁勳：輝達將考慮參與 OpenAI 下一輪募資和 IPO",
-        "summary": "人工智慧（AI）晶片巨頭輝達（NVIDIA）執行長黃仁勳今天接受美國財經媒體 CNBC 專訪表示，輝達將考慮參 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/nvidia-openai-appear-stalled-on-their-mega-deal/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:20:53+00:00"
-      },
-      {
-        "id": "b80ca8554047",
-        "title": "陳立武：英特爾將跨入 GPU、記憶體荒燒至 2028 年",
-        "summary": "英特爾（Intel Corp.）執行長陳立武（Lip-Bu Tan）宣布，已指派新任架構長，準備打造首款繪圖處 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/intel-is-moving-into-gpus-and-has-hired-a-chief-architect/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:10:06+00:00"
-      },
-      {
-        "id": "ae254df7bbb8",
-        "title": "不是房地產也不是新創，SaaS 可能才是下一顆未爆彈",
-        "summary": "昨晚美股軟體類股明顯走弱，多檔雲端與 SaaS 公司股價同步下挫，市場關注焦點不只落在財報或個別公司基本面，而 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/ai-saas/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:05:10+00:00"
-      },
-      {
-        "id": "84acbdded40f",
-        "title": "AMD 估本季營收呈季減、未大幅擊敗預期  盤後摔",
-        "summary": "超微（AMD）新公布的第四季（2025 年 10-12 月）財報優於華爾街預期，但本季的財測未能超出部分分析師 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/amd-reports-fourth-quarter-and-full-year-2025-financial-results/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T01:00:53+00:00"
-      },
-      {
-        "id": "40ebb2c367d0",
-        "title": "南亞科 1 月營收暴噴 600％！法人：近期股價拉回創極佳買點",
-        "summary": "南亞科公告 1 月營收 153.1 億元，月增 27.4%、年增608%，優於分析師預期的 30.3%。法人指 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/nanya-technologys-january-financial-report-see/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T00:57:16+00:00"
       }
     ],
     "破(day)": [
