@@ -1,19 +1,83 @@
 {
-  "updated_at": "2026-02-04T17:34:26.896029+00:00",
+  "updated_at": "2026-02-04T19:54:58.518016+00:00",
   "trending": [
-    "is chatgpt down",
-    "nascar clash",
-    "galatasaray - istanbulspor",
-    "melanie martinez",
-    "dawn aponte",
-    "nyc marathon",
-    "mickey lolich",
-    "national women in sports day",
-    "miranda kerr",
-    "gabrielle union"
+    "supreme court",
+    "nick bjugstad",
+    "tre johnson",
+    "nba mock draft 2026",
+    "nhl trade deadline",
+    "nba standings",
+    "pizza hut closing locations",
+    "michael vick",
+    "ousmane dieng",
+    "kyshawn george"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "05dcc55cffb4",
+        "title": "\"Capture it all\": ICE urged to explain memo about collecting info on protesters",
+        "summary": "Sen. Markey: Database of peaceful protesters, if it exists, should be shut down.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/capture-it-all-ice-urged-to-explain-memo-about-collecting-info-on-protesters/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-04T18:32:38+00:00"
+      },
+      {
+        "id": "3c782f52e934",
+        "title": "GSK, take two: the bullish tone at the top is finally more convincing | Nils Pratley",
+        "summary": "New boss Luke Miels knows perils of overpromising but there is growing sense pharma firm is closer to filling potentialIt’s a miracle. A mere 25 years after Glaxo Wellcome and SmithKline Beecham merged to form GSK, the share price on Wednesday got back to where the combo started life – a shade over ...",
+        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/04/gsk-take-two-the-bullish-tone-at-the-top-is-finally-more-convincing",
+        "source": "Business | The Guardian",
+        "published": "2026-02-04T18:20:17+00:00"
+      },
+      {
+        "id": "48a47bfb9a3d",
+        "title": "英特爾攜手軟銀集團發展新一代記憶體，搶攻 AI 商機 2027 年原型亮相",
+        "summary": "處理器大廠英特爾宣布，與軟銀集團旗下子公司 SAIMEMORY 簽署合作協議，共同開發名為 Z-Angle M [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/intel-partners-with-softbank-group-to-develop-next-generation-memory/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T18:15:37+00:00"
+      },
+      {
+        "id": "bb38075431dc",
+        "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+        "summary": "Tinder is testing AI recommendations and insight from your Camera Roll for better matches.",
+        "url": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T18:08:00+00:00"
+      },
+      {
+        "id": "12d9d782a32e",
+        "title": "We all benefit from higher education – so why should only students bear the costs? | Brief letters",
+        "summary": "Student finance | Duvet difficulties | Sunbed peg solution | The French way | Permafrost | Cerne Abbas GiantRachel Reeves thinks it is “not right that people who don’t go to university are having to bear all the cost for others to do so” (Economics viewpoint, 1 February). Higher education – nay, all...",
+        "url": "https://www.theguardian.com/money/2026/feb/04/its-not-only-students-who-benefit-from-higher-education",
+        "source": "Business | The Guardian",
+        "published": "2026-02-04T17:57:17+00:00"
+      },
+      {
+        "id": "3c037d30fdc8",
+        "title": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
+        "summary": "The startup has raised more than $500 million, to date, from investors to build a massive, distributed power plant supported by residential batteries.",
+        "url": "https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T17:56:40+00:00"
+      },
+      {
+        "id": "d7a147f1f911",
+        "title": "Hackers publish personal information stolen during Harvard, UPenn data breaches",
+        "summary": "The prolific cybercrime group ShinyHunters took responsibility for hacking Harvard and the University of Pennsylvania, and published the stolen data on its extortion website.",
+        "url": "https://techcrunch.com/2026/02/04/hackers-publish-personal-information-stolen-during-harvard-upenn-data-breaches/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T17:56:37+00:00"
+      },
+      {
+        "id": "f8b2bb2b5de0",
+        "title": "User blowback convinces Adobe to keep supporting 30-year-old 2D animation app",
+        "summary": "Despite the about-face, some customers think \"the damage is done.\"",
+        "url": "https://arstechnica.com/gadgets/2026/02/adobe-reverses-decision-to-discontinue-animate-after-a-lot-of-confusion-and-angst/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-04T17:55:13+00:00"
+      },
       {
         "id": "26b54c6ea37c",
         "title": "Roblox’s 4D creation feature is now available in open beta",
@@ -104,7 +168,7 @@
       },
       {
         "id": "b23e7ee2a45a",
-        "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.",
+        "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the US",
         "summary": "Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices, and free for everyone on mobile and web.",
         "url": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
         "source": "TechCrunch",
@@ -113,10 +177,18 @@
       {
         "id": "bb4d8d6855f0",
         "title": "Apeiron Labs gets $9.5M to flood the oceans with autonomous underwater robots",
-        "summary": "Most of what we know about the ocean just skims the surface, literally. We’ve gathered a large quantity of data on the oceans from satellites, but most of that is based on the top layer of water. Below that, the picture gets murkier. Buoys, ships, and some autonomous rovers have recently added some ...",
+        "summary": "Buoys, ships, and some autonomous rovers have recently added some detail, but it’s nothing like what we get from satellites today. It’s frustrating to everyone from fishermen to the Coast Guard, meteorologists to offshore wind developers.",
         "url": "https://techcrunch.com/2026/02/04/apeiron-labs-gets-95m-to-flood-the-oceans-with-autonomous-underwater-robots/",
         "source": "TechCrunch",
         "published": "2026-02-04T14:00:00+00:00"
+      },
+      {
+        "id": "1843ea9e4fa5",
+        "title": "UK services sector job cuts continue as companies automate, PMI survey shows",
+        "summary": "‘Longest period of job shedding’ in 16 years taking place as business activity grows at fastest rate since August• Business live – latest updatesCompanies in the UK’s services sector cut jobs last month, as they turned to “automation” rather than hiring new staff, a closely watched survey showed.The...",
+        "url": "https://www.theguardian.com/business/2026/feb/04/uk-service-sector-job-cuts-companies-automate-pmi-survey",
+        "source": "Business | The Guardian",
+        "published": "2026-02-04T13:47:43+00:00"
       },
       {
         "id": "b6ed39a369dd",
@@ -129,7 +201,7 @@
       {
         "id": "feddf93a0efd",
         "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
-        "summary": "Fibr AI replaces marketing agency– and engineering-heavy website personalization with autonomous systems designed for enterprise scale.",
+        "summary": "Fibr AI replaces marketing agency- and engineering-heavy website personalization with autonomous systems designed for enterprise scale.",
         "url": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
         "source": "TechCrunch",
         "published": "2026-02-04T13:00:00+00:00"
@@ -141,81 +213,33 @@
         "url": "https://techcrunch.com/2026/02/04/spotify-upgrades-its-lyrics-feature-with-offline-access-more-translations/",
         "source": "TechCrunch",
         "published": "2026-02-04T13:00:00+00:00"
-      },
-      {
-        "id": "6f043c397af8",
-        "title": "AMD 推出第 2 代 Kintex UltraScale+ FPGA 系列，搶攻工業與醫療市場",
-        "summary": "晶片大廠 AMD 正式宣布推出第 2 代 AMD Kintex UltraScale+ FPGA 系列，這項新 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/amd-launches-its-second-generation-kintex-ultrascale-fpga-series/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T12:15:49+00:00"
-      },
-      {
-        "id": "de40e097806f",
-        "title": "威剛 1 月營收 84.12 億元續創新高，較 2025 年同期成長近 200%",
-        "summary": "全球記憶體供貨持續吃緊，受惠DRAM與NAND Flash合約價漲勢銳不可擋，記憶體模組領導品牌威剛1月營運再 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/adatas-january-revenue-hit-a-new-record-high-of-nt8-412-billion/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T12:15:15+00:00"
-      },
-      {
-        "id": "4d6a09550925",
-        "title": "Billionaire US investor Ken Griffin accuses Trump White House of ‘enriching’ itself",
-        "summary": "Citadel hedge fund boss, Republican donor and vocal Trump critic says administration has made ‘distasteful’ choices not in the public interestThe billionaire investor Ken Griffin has accused Donald Trump’s administration of “enriching” its families, and criticised its interference in American busine...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/04/ken-griffin-citadel-republican-donor-donald-trump-critic-white-house",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T12:01:23+00:00"
-      },
-      {
-        "id": "66408a8a5842",
-        "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
-        "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
-        "url": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T12:00:37+00:00"
-      },
-      {
-        "id": "c7875afb82ff",
-        "title": "雲達楊麒令：與輝達、達梭系統合作建構鐵三角，但記憶體漲價很恐怖",
-        "summary": "廣達電腦執行副總暨雲達科技（QCT）總經理楊麒令表示，2026 年的關鍵在於 AI 應用的全面導入，廣達將透過 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/yunda-collaborates-with-nvidia-and-dassault-systemes-to-build-a-iron-triangle/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T11:50:57+00:00"
-      },
-      {
-        "id": "e9b6ef3a8878",
-        "title": "擔心 AI 為能源帶來負擔？黃仁勳：AI 使能源發展更有效率而成為綠能推手",
-        "summary": "在達梭系統的 3DEXPERIENCE WORLD 大會與媒體的問答中，黃仁勳指出，我們正見證著人類歷史上規模 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/ai-makes-energy-development-more-efficient-and-becomes-a-driver-of-green-energy/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T11:15:39+00:00"
-      },
-      {
-        "id": "d8d2ac4f6330",
-        "title": "Striking Starbucks workers urge customers to delete coffee chain’s app",
-        "summary": "Unionized baristas continue to fight for a fair contract and ask public for solidarity as strike stretches into third monthStriking Starbucks baristas are calling on customers of the world’s largest coffee chain to delete its popular mobile app in solidarity with their demands for a first union cont...",
-        "url": "https://www.theguardian.com/business/2026/feb/04/starbucks-strike-workers-urge-customers-delete-app",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T11:00:41+00:00"
-      },
-      {
-        "id": "9fa46d013945",
-        "title": "Wegovy and Ozempic maker forecasts sharp drop in revenue for 2026",
-        "summary": "Novo Nordisk share price plunges after blaming lower US drug prices, patent protection issues and rising competition The maker of Wegovy and Ozempic, Novo Nordisk, has predicted a sharp drop in revenues this year owing to what its boss described as a “painful” push by Donald Trump to lower US weight...",
-        "url": "https://www.theguardian.com/business/2026/feb/04/wegovy-ozempic-forecast-revenue-share-price-drop",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T10:51:40+00:00"
-      },
-      {
-        "id": "75f6b238c76f",
-        "title": "佳能：三大領域發威，全年營收拚百億、獲利創高",
-        "summary": "光學廠佳能企業 1 月營收較去年同期翻倍，達新台幣 10.7 億元，創十年同期新高。佳能表示，今年憑邊緣 AI [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/ability-fr-2601/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T10:35:29+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "1cac5a5a4b17",
+        "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
+        "summary": "Axiom says its AI found solutions to several long-standing math problems, a sign of the technology’s steadily advancing reasoning capabilities.",
+        "url": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
+        "source": "Feed: Artificial Intelligence Latest",
+        "published": "2026-02-04T19:00:00+00:00"
+      },
+      {
+        "id": "1cac5a5a4b17",
+        "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
+        "summary": "Axiom says its AI found solutions to several long-standing math problems, a sign of the technology’s steadily advancing reasoning capabilities.",
+        "url": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
+        "source": "Business Latest",
+        "published": "2026-02-04T19:00:00+00:00"
+      },
+      {
+        "id": "c9df67518b85",
+        "title": "Pikimov, free Web visual tool, now has a classic editor for video editing",
+        "summary": "Pikimov, the community-supported free Web visual tool, keeps getting better. Pikimov 5 dropped today with a \"classic\" editor that makes it competitive with tools like CapCut -- or any time you need a quick video edit. That joins After Effects-style motion tools, with surprising options like backgrou...",
+        "url": "https://cdm.link/pikimov-5/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-04T18:41:04+00:00"
+      },
       {
         "id": "1eabfc9fe70e",
         "title": "The latest AI news we announced in January",
@@ -226,7 +250,7 @@
       },
       {
         "id": "005369006a4f",
-        "title": "Maha trapdoors and apolitical pilates: my relentless search for lefty mommy bloggers",
+        "title": "‘The right has won the family’: my relentless search for lefty mommy bloggers",
         "summary": "The most popular mom content tends to be rightwing tradwife propaganda or not political at all – pushing progressive creators out of the algorithmFor someone who doesn’t have a marble island in their kitchen I spend a disproportionate amount of time staring at marble kitchen islands, slack-jawed, br...",
         "url": "https://www.theguardian.com/lifeandstyle/2026/feb/04/left-progressive-mom-influencers",
         "source": "Technology | The Guardian",
@@ -391,30 +415,6 @@
         "url": "https://cdm.link/best-of-show-namm-26/",
         "source": "CDM Create Digital Music",
         "published": "2026-02-03T16:54:22+00:00"
-      },
-      {
-        "id": "e1f24089bbc3",
-        "title": "UK privacy watchdog opens inquiry into X over Grok AI sexual deepfakes",
-        "summary": "Information Commissioner’s Office to investigate whether Elon Musk’s firms have complied with data protection lawElon Musk’s X and xAI companies are under formal investigation by the UK’s data protection watchdog after the Grok AI tool produced indecent deepfakes without people’s consent.The Informa...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-03T16:46:53+00:00"
-      },
-      {
-        "id": "9656c38b1515",
-        "title": "The lithium boom: could a disused quarry bring riches to Cornwall?",
-        "summary": "Known as ‘white gold’, lithium is among the most important mined elements on the planet – ideal for the rechargeable batteries used in tech products. Can Europe’s largest deposit bring prosperity to the local community?It looks more like the past than the future. A vast chasm scooped out of a scarre...",
-        "url": "https://www.theguardian.com/environment/2026/feb/03/lithium-boom-cornwall-mine-largest-deposit-europe",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-03T16:08:55+00:00"
-      },
-      {
-        "id": "644621b4d785",
-        "title": "音樂、極權與我們的感知力",
-        "summary": "在中國，「音樂歸音樂」似乎是不可能的悖論。《報導者事件簿005：唱進／噤中國》裡，我們團隊與漫畫家高妍，希望以冷靜和溫暖的筆觸處理台灣音樂工作者以至於更多人，在地緣政治下的時代難題。",
-        "url": "https://www.twreporter.org/a/bookreview-the-reporter-file-005",
-        "source": "報導者",
-        "published": "2026-02-03T16:00:00+00:00"
       }
     ],
     "序(month)": [
