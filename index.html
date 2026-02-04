@@ -123,6 +123,14 @@
       padding: 40px;
       text-align: center;
     }
+    .trending-title {
+      text-decoration: line-through;
+    }
+    .trending-keyword {
+      background-color: #ffcccc;
+      padding: 0 2px;
+      border-radius: 2px;
+    }
   </style>
 </head>
 <body>
@@ -172,6 +180,25 @@
     }
     setRedditLinks();
 
+    let trendingKeywords = [];
+
+    function highlightTrending(title) {
+      if (!trendingKeywords.length) return { html: title, isTrending: false };
+
+      let isTrending = false;
+      let result = title;
+
+      for (const keyword of trendingKeywords) {
+        const regex = new RegExp(`(${keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+        if (regex.test(title)) {
+          isTrending = true;
+          result = result.replace(regex, '<span class="trending-keyword">$1</span>');
+        }
+      }
+
+      return { html: result, isTrending };
+    }
+
     function relativeTime(dateStr) {
       const now = new Date();
       const date = new Date(dateStr);
@@ -201,6 +228,9 @@
       document.getElementById("updated").textContent =
         `最後更新：${updatedAt.toLocaleString("zh-TW")}`;
 
+      // Load trending keywords
+      trendingKeywords = data.trending || [];
+
       if (!data.categories || Object.keys(data.categories).length === 0) {
         document.getElementById("content").innerHTML = '<div class="empty">目前沒有文章</div>';
         return;
@@ -219,9 +249,11 @@
           html += `<div class="empty">無文章</div>`;
         } else {
           for (const article of articles) {
+            const { html: titleHtml, isTrending } = highlightTrending(article.title);
+            const titleClass = isTrending ? 'article-title trending-title' : 'article-title';
             html += `
               <div class="article">
-                <div class="article-title" data-id="${article.id}">${article.title}</div>
+                <div class="${titleClass}" data-id="${article.id}">${titleHtml}</div>
                 <div class="article-info">${article.source} · ${relativeTime(article.published)}</div>
                 <div class="article-detail" id="detail-${article.id}">
                   <div class="article-summary">${article.summary}</div>
