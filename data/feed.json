@@ -1,206 +1,218 @@
 {
-  "updated_at": "2026-02-03T23:55:48.230951+00:00",
+  "updated_at": "2026-02-04T03:08:58.201981+00:00",
+  "trending": [
+    "penguins",
+    "kraken vs ducks",
+    "dog the bounty hunter",
+    "mel gibson",
+    "luka garza",
+    "fallout season 3",
+    "steve hilton",
+    "pittsburgh vs virginia",
+    "smu basketball",
+    "ziaire williams"
+  ],
   "categories": {
     "急(hr)": [
       {
-        "id": "e004a4d4f8a9",
-        "title": "民間太空競賽起跑，2025 全球太空投資創新高",
-        "summary": "自冷戰時代起，原本世界各國以美國航太總署為首，大多是以國家力量來推動太空計畫，自從馬斯克的太空探索成功之後，民 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/global-space-investment-hits-record-high-in-2025/",
+        "id": "a84e90045cc8",
+        "title": "5G 拉貨動能續強  Skyworks 財報報喜、盤後反彈 1%",
+        "summary": "蘋果（Apple）iPhone 零件供應商、射頻前端晶片大廠 Skyworks Solutions 發表最新財 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/skyworks-beats-earnings-shares-rebound-1/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-03T23:50:00+00:00"
+        "published": "2026-02-04T03:00:27+00:00"
       },
       {
-        "id": "ad6ec13ecbf4",
-        "title": "霍亂細菌變抗癌幫手？瑞典團隊發現毒素 MakA 可精準抑制大腸癌腫瘤",
-        "summary": "瑞典優密歐大學（Umeå University）的研究人員最近發現一種由霍亂細菌產生的細菌毒素 MakA，這種 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/toxin-stops-colon-cancer-growth-without-harming-healthy-tissue/",
+        "id": "6716d0a0fd01",
+        "title": "多力多滋大降價最多 15％，百事「回溯到 2022 年價格」挽回零食客",
+        "summary": "百事公司（PepsiCo）近期宣布將在美國市場上對包括多力多滋（Doritos）在內的部分零食品牌價格下調最多 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/pepsico-to-cut-some-us-snack-prices-after-backlash/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-03T23:40:56+00:00"
+        "published": "2026-02-04T02:50:23+00:00"
       },
       {
-        "id": "596b2a3cdb7e",
-        "title": "Nexphone 三 OS 智慧手機問世，連上螢幕就讓手機變 PC",
-        "summary": "雖然當前手機畫面投影到智慧電視上很方便，但人們從未停止過想以操作電腦的方式來操作手機內容的念頭。之前曾推出過手 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/windows-mobile-is-back-sort-of/",
+        "id": "7556b116c67b",
+        "title": "搶攻 AI 用電需求，IHI 投資 200 億日圓擴產核能關鍵設備",
+        "summary": "根據日經報導，日本重工業大廠 IHI 宣布，未來三年將投資 200 億日圓，擴大核能電廠關鍵零組件產能，以因應 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/ihi-invest-20-billion-on-nuclear-tools/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-03T23:30:33+00:00"
+        "published": "2026-02-04T02:47:36+00:00"
       },
       {
-        "id": "7bf014ed197a",
-        "title": "India’s Varaha bags $20M to scale carbon removal from the Global South",
-        "summary": "Varaha's fresh funding is part of a $45 million Series B round led by WestBridge Capital.",
-        "url": "https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T23:30:00+00:00"
-      },
-      {
-        "id": "dbced0e44fd2",
-        "title": "不是把模型做更大就能到 AGI，楊立昆直指大型語言模型的根本極限",
-        "summary": "在 2026 年 1 月 27 日的會議上，著名人工智慧專家楊立昆（Yann LeCun）對於人工通用智慧（A [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/yann-lecun-agi/",
+        "id": "ec1bb232ab65",
+        "title": "AMD 執行長蘇姿丰透露：下代 Xbox 預定 2027 年登場",
+        "summary": "在最近的財報電話會議中，AMD 首席執行官長蘇姿丰透露，微軟的下一代 Xbox 主機開發進展順利，預計將於 2 [&#8230;]",
+        "url": "https://ccc.technews.tw/2026/02/04/amd-hints-microsoft-could-launch-its-next-gen-xbox-in-2027/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-03T23:20:16+00:00"
+        "published": "2026-02-04T02:40:57+00:00"
       },
       {
-        "id": "2d526ccbed72",
-        "title": "微軟承認 Windows 11 的 AI 策略失誤，不再強推 Copilot 並重新設計 Recall",
-        "summary": "微軟之前積極將 Copilot AI 功能整合至 Windows 11 各應用程式，但引發大量負面回應。Win [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/microsoft-is-reportedly-backing-down-on-its-ai-first-plan-after-people-made-their-voices-heard/",
+        "id": "7a32a9b28511",
+        "title": "光通訊需求爆！Lumentum 財報亮眼、CPO 喜獲追加訂單，看好兩大成長動能",
+        "summary": "Lumentum 公布 2026 財年第二季財報，受惠於 AI 伺服器集群對高速光通訊的需求，營收年增達 65 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/lumentum-2026-q2-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-03T23:10:33+00:00"
+        "published": "2026-02-04T02:31:35+00:00"
       },
       {
-        "id": "8a344e0d0ee2",
-        "title": "利潤過低，三菱電機擬出售汽車零件業務",
-        "summary": "外媒報導，三菱電機（Mitsubishi Electric）汽車零件業務 2025 上半財年營收為 4,228 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/mitsubishi-electric-may-sell-automotive-parts-business/",
+        "id": "8c74e8540642",
+        "title": "迪士尼迎新執行長  樂園主管 D’Amaro 3 月正式接棒",
+        "summary": "美國娛樂巨擘迪士尼（Disney）於 2 月 3 日宣布，任命現任主題樂園與體驗部門主管喬許·達瑪羅（Josh [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/disney-taps-parks-head-josh-damaro-as-ceo/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-03T23:00:29+00:00"
+        "published": "2026-02-04T02:30:46+00:00"
       },
       {
-        "id": "9c8d9c0eeaff",
-        "title": "Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer",
-        "summary": "\"This Titan is like a god, and the sea creatures worship it.\"",
-        "url": "https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T22:55:59+00:00"
-      },
-      {
-        "id": "61ee4bbd3975",
-        "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
-        "summary": "Two AI giants shake market confidence after investment fails to materialize.",
-        "url": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T22:44:15+00:00"
-      },
-      {
-        "id": "cf32087e09c2",
-        "title": "The Minneapolis tech community holds strong during ‘tense and difficult time’",
-        "summary": "Founders and investors in the Minneapolis tech industry told TechCrunch they've put much of their work on hold to help out their community.",
-        "url": "https://techcrunch.com/2026/02/03/minnesota-tech-community-founders-investors-ice-response/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T22:17:45+00:00"
-      },
-      {
-        "id": "9cedaa710492",
-        "title": "黃仁勳：AI 伴侶將成未來工程設計重要關鍵，軟體定義會無所不在",
-        "summary": "在 3DEXPERIENCE WORLD 大會上聚焦於數位雙生（Virtual Twin）與未來製造的全球矚目 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/ai-companions-will-become-a-key-element-in-future-engineering-design/",
+        "id": "f1ba34c21fbd",
+        "title": "開發 App 更快速，蘋果 Xcode 26.3 推出代理式編碼支援功能",
+        "summary": "蘋果稍早宣布推出 Xcode 26.3 更新版本，正式引入代理式編碼（Agentic Coding） 支援，讓 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/xcode-26-3-agentic-coding/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-03T22:00:07+00:00"
+        "published": "2026-02-04T02:30:02+00:00"
       },
       {
-        "id": "6a816bef2057",
-        "title": "Newborn dies after mother drinks raw milk during pregnancy",
-        "summary": "Raw milk is promoted by anti-vaccine Health Secretary Kennedy.",
-        "url": "https://arstechnica.com/health/2026/02/newborns-death-spurs-raw-milk-warning-in-new-mexico/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T21:15:57+00:00"
+        "id": "acca9dd06deb",
+        "title": "馬年不開心，中國「哭泣小馬」爆紅",
+        "summary": "這幾年經濟正在不均衡急速擴張的環境中，人們擔憂通貨膨脹和消費能力降低的問題，但在中國，他們擔心的是通貨緊縮和經 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/crying-horse/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T02:28:30+00:00"
       },
       {
-        "id": "1a50803cc1ab",
-        "title": "Intel will start making GPUs, a market dominated by Nvidia",
-        "summary": "Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs.",
-        "url": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T21:01:34+00:00"
+        "id": "475125f57df6",
+        "title": "xAI 遭控銷毀內部通訊紀錄，法院再度駁回擴大蒐證請求",
+        "summary": "馬斯克旗下 AI 公司 xAI 與蘋果、OpenAI 之間的反壟斷訴訟持續延燒。近日 OpenAI 指控 xA [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/xai-apple-openai/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T02:22:26+00:00"
       },
       {
-        "id": "86286ad77aca",
-        "title": "X office raided in France's Grok probe; Elon Musk summoned for questioning",
-        "summary": "Paris prosecutor: Illegal content probe includes pornographic images of minors.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/x-office-raided-in-frances-grok-probe-elon-musk-summoned-for-questioning/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T20:13:08+00:00"
+        "id": "63a8ac05070c",
+        "title": "從單點效率到全方位驅動！CloudMile 引領企業邁向 AI 應用第四級",
+        "summary": "台灣企業正處於 AI 轉型的關鍵轉捩點，CloudMile 萬里雲以企業導入與應用 AI 解決方案，突破既有思 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/mira-ai/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T02:21:16+00:00"
       },
       {
-        "id": "21d4d21d1dc1",
-        "title": "YC startups can now receive investment in stablecoin",
-        "summary": "All startups accepted into YC will soon have the option to receive their seed checks via stablecoins.",
-        "url": "https://techcrunch.com/2026/02/03/yc-startups-can-now-recieve-investment-in-stablecoin/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T19:54:12+00:00"
+        "id": "09b4f4aacc72",
+        "title": "尋求結盟制衡中國，歐美將啟動稀土部長級會談",
+        "summary": "歐洲官員明天將與美國政府舉行會談，盼能就稀土與關鍵礦物達成協議。這些礦物對國防工業等產業至關重要。 法新社報導 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/rare-earth-usa-europe/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T02:20:01+00:00"
       },
       {
-        "id": "9dd16ab9dbe1",
-        "title": "Epstein called Mandelson ‘devious’ after he lobbied bank to back mining project",
-        "summary": "In 2010 then business secretary contacted Jes Staley, then at JP Morgan, about funding for £700m listing on London Stock ExchangeJeffrey Epstein described Peter Mandelson as “devious” after lobbying a bank to underwrite a mining project launched by their mutual friend Nat Rothschild, emails included...",
-        "url": "https://www.theguardian.com/politics/2026/feb/03/epstein-mandelson-devious-lobbied-bank-mining-project",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T19:10:36+00:00"
+        "id": "842bbdadd6ef",
+        "title": "法國當局突搜 X 平台巴黎辦公室，調查多項違法指控",
+        "summary": "法國巴黎檢察官辦公室表示，警方今天突搜億萬富豪馬斯克（Elon Musk）旗下社群平台 X 在巴黎的辦公室，檢 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/paris-prosecutors-summon-elon-musk-after-raid-on-xs-french-offices/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T02:10:03+00:00"
       },
       {
-        "id": "9b8ba8b29dfd",
-        "title": "Elon Musk is taking SpaceX’s minority shareholders for a ride | Nils Pratley",
-        "summary": "Merger with loss-making xAI looks to some investors more like a bailout than a  rocket trip to the futureElon Musk merges SpaceX with xAI at $1.25tn valuationTo Elon Musk’s fanclub, there is nothing to see apart from more evidence of the great man’s visionary genius. SpaceX, the rocket firm, is buyi...",
-        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/03/elon-musk-is-taking-spacexs-minority-shareholders-for-a-ride",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T19:07:06+00:00"
+        "id": "0db18b2becbb",
+        "title": "西班牙擬跟進澳洲，禁止 16 歲以下使用社群媒體",
+        "summary": "西班牙總理桑傑士今天指出，西班牙計劃禁止 16 歲以下未成年人使用社群媒體，這些平台將得實施年齡驗證機制，他另 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/spain-greece-weigh-teen-social-media-bans-drawing-fury-from-elon-musk/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T02:00:21+00:00"
       },
       {
-        "id": "2a24bd8d3073",
-        "title": "2026 plans: What’s next for Startup Battlefield 200",
-        "summary": "See what to expect for Startup Battlefield 200 in 2026, the ultimate startup pitch competition on the global stage at TechCrunch Disrupt. Join the mailing list to be the first to know when applications drop.",
-        "url": "https://techcrunch.com/2026/02/03/looking-ahead-to-2026-whats-next-for-startup-battlefield-200/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T18:57:30+00:00"
+        "id": "dade218cd499",
+        "title": "AI 用電狂潮壓境，德州電網擬重審已核准併網案",
+        "summary": "根據彭博社報導，隨著 AI 資料中心在德州快速擴張，用電需求急速攀升，德州電網營運商 Electric Rel [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/ercot-grid-texas/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:55:15+00:00"
       },
       {
-        "id": "5a704df289d5",
-        "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2",
-        "summary": "Switch 2 has already beaten the Wii U and is on its way to overtaking GameCube.",
-        "url": "https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T18:56:20+00:00"
+        "id": "c4b531348bea",
+        "title": "ABF 載板供應吃緊逐月惡化！高盛調升景碩、南電、欣興目標價",
+        "summary": "由於 ABF 載板的供應吃緊情況將逐月惡化，供需缺口預計在 2026 年下半年達到 10%，並在 2027 年 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/abf-carrier-board-supply-is-tight/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:51:13+00:00"
       },
       {
-        "id": "a8bd5db2960f",
-        "title": "Homeland Security is trying to force tech companies to hand over data about Trump critics",
-        "summary": "The use of administrative subpoenas, which are not subject to judicial oversight, are used to demand a wealth of information from tech companies, including the owners of anonymous online accounts documenting ICE operations.",
-        "url": "https://techcrunch.com/2026/02/03/homeland-security-is-trying-to-force-tech-companies-to-hand-over-data-about-trump-critics/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T18:35:19+00:00"
+        "id": "bbfa0b14fffb",
+        "title": "經濟部拍板前瞻研發案，友達啟動低軌衛星天線布局",
+        "summary": "經濟部產業技術司於 1 月 27 日召開「A+ 企業創新研發淬鍊計畫」第 2 次決審會議，正式通過友達光電三項 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/auo-leo/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:50:48+00:00"
       },
       {
-        "id": "7f8af9719a0b",
-        "title": "Google court filings suggest ChromeOS has an expiration date",
-        "summary": "ChromeOS may be canned once the current support guarantee has run its course.",
-        "url": "https://arstechnica.com/google/2026/02/google-court-filings-suggest-googles-chromeos-has-an-expiration-date/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T18:25:18+00:00"
+        "id": "70ff6c1e605c",
+        "title": "美商務部長憂晶片過度集中台灣，目標取得 4 成市占",
+        "summary": "美國商務部長盧特尼克今天在關鍵礦產相關座談中，再度提到把所有半導體製造都放在「距中國只有 80 英里的地方」根 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/usa-semiconductor-manufacturing-market-share/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:50:34+00:00"
       },
       {
-        "id": "53e05d0f0f5e",
-        "title": "Skyryse lands another $300M to make flying, even helicopters, simple and safe",
-        "summary": "Skyrsye, now valued at $1.15 billion, is pushing to get FAA certification for its universal operating system for flight.",
-        "url": "https://techcrunch.com/2026/02/03/skyryse-lands-another-300m-to-make-flying-even-helicopters-simple-and-safe/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T18:21:23+00:00"
+        "id": "7f5acb1b8749",
+        "title": "馬斯克無聊公司即將開挖新隧道，當地市長：「希望不要死人」",
+        "summary": "馬斯克的「無聊公司」即將在納什維爾市開挖新隧道，連通機場與市區，而且不花納稅人一毛錢，就能緩解交通問題。諷刺的 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/boring-company-new-tunnel-nashville/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:44:41+00:00"
       },
       {
-        "id": "331c944650d9",
-        "title": "‘Finally got him to go’: how Epstein was given inside track on events that rippled through global markets",
-        "summary": "Apparent leak by Peter Mandelson gave advance notice of Gordon Brown’s resignation and €500bn eurozone dealOn a brisk Monday evening in May 2010, Gordon Brown stood on the steps of Downing Street and delivered one of the most dramatic announcements of the New Labour era: his resignation as UK prime ...",
-        "url": "https://www.theguardian.com/politics/2026/feb/03/finally-got-him-to-go-jeffrey-epstein-inside-track-uk-peter-mandelson",
-        "source": "Business | The Guardian",
-        "published": "2026-02-03T18:11:34+00:00"
+        "id": "297463d08f32",
+        "title": "諾和諾德財測遜、股價崩 14%  川普砍藥價影響大",
+        "summary": "丹麥製藥巨頭、熱門減肥藥 Wegovy 開發商諾和諾德（Novo Nordisk）財測遠遜於預期，川普政府施壓 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/novo-nordisk-warns-on-profits-and-sales-amid-trump-drug-price-crackdown/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:40:30+00:00"
       },
       {
-        "id": "a08184bc0902",
-        "title": "Xcode 26.3 adds support for Claude, Codex, and other agentic tools via MCP",
-        "summary": "With Model Context Protocol (MCP), this works with more than Codex/Claude, too.",
-        "url": "https://arstechnica.com/apple/2026/02/xcode-26-3-adds-support-for-claude-codex-and-other-agentic-tools-via-mcp/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-03T18:01:49+00:00"
+        "id": "1d6a1d2c6558",
+        "title": "中國駭客鎖定全球外交官員寄假美國政策檔案，開啟即遭駭入",
+        "summary": "以色列資安公司最新研究指出，中國駭客組織近期寄送偽裝成美國政策簡報的檔案，鎖定全球外交人員發動攻擊，收信者只要 [&#8230;]",
+        "url": "https://infosecu.technews.tw/2026/02/04/chinese-phishers-impersonate-u-s-policy-briefings/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:30:43+00:00"
       },
       {
-        "id": "c34d2ab78c7b",
-        "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
-        "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
-        "url": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
-        "source": "TechCrunch",
-        "published": "2026-02-03T18:00:00+00:00"
+        "id": "98963d09aa80",
+        "title": "黃仁勳：輝達將考慮參與 OpenAI 下一輪募資和 IPO",
+        "summary": "人工智慧（AI）晶片巨頭輝達（NVIDIA）執行長黃仁勳今天接受美國財經媒體 CNBC 專訪表示，輝達將考慮參 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/nvidia-openai-appear-stalled-on-their-mega-deal/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:20:53+00:00"
+      },
+      {
+        "id": "b80ca8554047",
+        "title": "陳立武：英特爾將跨入 GPU、記憶體荒燒至 2028 年",
+        "summary": "英特爾（Intel Corp.）執行長陳立武（Lip-Bu Tan）宣布，已指派新任架構長，準備打造首款繪圖處 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/intel-is-moving-into-gpus-and-has-hired-a-chief-architect/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:10:06+00:00"
+      },
+      {
+        "id": "ae254df7bbb8",
+        "title": "不是房地產也不是新創，SaaS 可能才是下一顆未爆彈",
+        "summary": "昨晚美股軟體類股明顯走弱，多檔雲端與 SaaS 公司股價同步下挫，市場關注焦點不只落在財報或個別公司基本面，而 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/ai-saas/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:05:10+00:00"
+      },
+      {
+        "id": "84acbdded40f",
+        "title": "AMD 估本季營收呈季減、未大幅擊敗預期  盤後摔",
+        "summary": "超微（AMD）新公布的第四季（2025 年 10-12 月）財報優於華爾街預期，但本季的財測未能超出部分分析師 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/04/amd-reports-fourth-quarter-and-full-year-2025-financial-results/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T01:00:53+00:00"
+      },
+      {
+        "id": "40ebb2c367d0",
+        "title": "南亞科 1 月營收暴噴 600％！法人：近期股價拉回創極佳買點",
+        "summary": "南亞科公告 1 月營收 153.1 億元，月增 27.4%、年增608%，優於分析師預期的 30.3%。法人指 [&#8230;]",
+        "url": "https://technews.tw/2026/02/04/nanya-technologys-january-financial-report-see/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T00:57:16+00:00"
       }
     ],
     "破(day)": [
@@ -251,6 +263,14 @@
         "url": "https://www.theguardian.com/technology/2026/feb/03/uk-privacy-watchdog-opens-inquiry-into-x-over-grok-ai-sexual-deepfakes",
         "source": "Technology | The Guardian",
         "published": "2026-02-03T16:46:53+00:00"
+      },
+      {
+        "id": "9656c38b1515",
+        "title": "The lithium boom: could a disused quarry bring riches to Cornwall?",
+        "summary": "Known as ‘white gold’, lithium is among the most important mined elements on the planet – ideal for the rechargeable batteries used in tech products. Can Europe’s largest deposit bring prosperity to the local community?It looks more like the past than the future. A vast chasm scooped out of a scarre...",
+        "url": "https://www.theguardian.com/environment/2026/feb/03/lithium-boom-cornwall-mine-largest-deposit-europe",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-03T16:08:55+00:00"
       },
       {
         "id": "1af449df00bc",
@@ -395,21 +415,13 @@
         "url": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-02T19:54:36+00:00"
-      },
-      {
-        "id": "12f40143f5b2",
-        "title": "Advancing AI benchmarking with Game Arena",
-        "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
-        "source": "Google DeepMind",
-        "published": "2026-02-02T17:00:00+00:00"
       }
     ],
     "序(month)": [
       {
         "id": "48fe7417fe59",
         "title": "運用MapToPoster製作精美城市地圖海報",
-        "summary": "MapToPoster 是一個由開發者 originalankur 建立的開源 Python 專案，運用免費的 [&#8230;]",
+        "summary": "MapToPoster&#160;是一個由開發者 originalankur 建立的開源 Python 專案， [&#8230;]",
         "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260203/",
         "source": "中央研究院人社中心地理資訊科學研究專題中心",
         "published": "2026-02-03T15:18:02+00:00"
