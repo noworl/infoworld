@@ -1,19 +1,99 @@
 {
-  "updated_at": "2026-02-04T19:54:58.518016+00:00",
+  "updated_at": "2026-02-04T21:48:40.139918+00:00",
   "trending": [
-    "supreme court",
-    "nick bjugstad",
-    "tre johnson",
-    "nba mock draft 2026",
-    "nhl trade deadline",
-    "nba standings",
-    "pizza hut closing locations",
-    "michael vick",
-    "ousmane dieng",
-    "kyshawn george"
+    "lyon",
+    "lyon fc",
+    "flamengo vs internacional",
+    "elf stock",
+    "french cup",
+    "copa de francia",
+    "tpusa halftime show",
+    "avgo stock",
+    "travis kelce",
+    "caleb jones"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "d3eef3cb1cd4",
+        "title": "Elon Musk’s SpaceX company town is getting a police department",
+        "summary": "The new department will have up to eight police officers and could be up and running in a few months.",
+        "url": "https://techcrunch.com/2026/02/04/elon-musks-spacex-company-town-is-getting-a-police-department/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T21:47:41+00:00"
+      },
+      {
+        "id": "a1a95a6402cb",
+        "title": "Meet Gizmo: a TikTok for interactive, vibe-coded mini apps",
+        "summary": "Gizmo's app is like a TikTok for vibe-coded mini apps...and it's a lot of fun.",
+        "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T21:45:32+00:00"
+      },
+      {
+        "id": "44781d878057",
+        "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
+        "summary": "The two-year-old startup confirms that it closed a Series A led by Lightspeed at $1 billion valuation.",
+        "url": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T21:39:26+00:00"
+      },
+      {
+        "id": "9102561f136b",
+        "title": "Amazon to begin testing AI tools for film and TV production next month",
+        "summary": "Amazon MGM Studios will reportedly begin a closed beta program in March to test its AI tools to help with film and TV production.",
+        "url": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T21:26:43+00:00"
+      },
+      {
+        "id": "117ddb14a3ce",
+        "title": "Should AI chatbots have ads? Anthropic says no.",
+        "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
+        "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-04T21:15:07+00:00"
+      },
+      {
+        "id": "1096e77784b2",
+        "title": "US House takes first step toward creating \"commercial\" deep space program",
+        "summary": "\"We will continue to rely on the ingenuity of the private sector.\"",
+        "url": "https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-04T21:01:05+00:00"
+      },
+      {
+        "id": "47944f53e389",
+        "title": "AMD 亮眼財報檔不住市場過高期待，股價持續狂瀉大跌逾 16%",
+        "summary": "儘管晶片大廠超微（AMD）繳出了營收與獲利雙雙打破歷史紀錄的 2025 年成績單，甚至優於市場預期，但資本市場 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/amds-impressive-financial-results-couldnt-dampen-the-markets-high-expectations/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T21:00:57+00:00"
+      },
+      {
+        "id": "e2881b2ed043",
+        "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+        "summary": "Andreessen Horowitz just raised&#160;a whopping&#160;⁠new&#160;$15 billion&#160;in funding⁠.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;⁠infrastructure&#160;team⁠,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;...",
+        "url": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T20:24:12+00:00"
+      },
+      {
+        "id": "0f0406d74d4e",
+        "title": "Judge gives Musk bad news, says Trump hasn't intervened to block SEC lawsuit",
+        "summary": "Musk is stuck fighting SEC suit seeking $150M in disgorgements from his Twitter takeover.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/trump-ghosts-musk-wont-back-claims-sec-lawsuit-was-political-harassment/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-04T20:23:47+00:00"
+      },
+      {
+        "id": "72f97717f6c2",
+        "title": "Trump admin is \"destroying medical research,\" Senate report finds",
+        "summary": "In a Senate hearing Tuesday, NIH director dismissed concern about research chaos.",
+        "url": "https://arstechnica.com/health/2026/02/trump-admin-is-destroying-medical-research-senate-report-finds/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-04T20:02:22+00:00"
+      },
       {
         "id": "05dcc55cffb4",
         "title": "\"Capture it all\": ICE urged to explain memo about collecting info on protesters",
@@ -87,12 +167,12 @@
         "published": "2026-02-04T17:00:00+00:00"
       },
       {
-        "id": "09049cd1a8ec",
-        "title": "Bill Gates says he ‘regrets’ knowing Epstein as ex-wife alludes to ‘muck’ in marriage",
-        "summary": "Melinda French Gates insists Microsoft founder has questions to answer over his relationship with EpsteinBill Gates has said he “regrets” ever knowing Jeffrey Epstein, as his former wife Melinda French Gates alluded to “muck” in their marriage, and insisted the Microsoft founder has questions to ans...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/04/bill-gates-epstein-relationship-melinda",
+        "id": "a7c1f6f069f4",
+        "title": "‘It’s an absolute bloodbath’: Washington Post lays off hundreds of workers",
+        "summary": "Former Post executive editor blasts owner Jeff Bezos’s ‘sickening efforts to curry favor’ with TrumpThe Washington Post laid off hundreds of employees  on Wednesday, which its former executive editor said “ranks among the darkest days” in the newspaper’s history. Approximately one-third of employees...",
+        "url": "https://www.theguardian.com/media/2026/feb/04/washington-post-layoffs",
         "source": "Business | The Guardian",
-        "published": "2026-02-04T16:37:46+00:00"
+        "published": "2026-02-04T15:39:25+00:00"
       },
       {
         "id": "d22f15fc142a",
@@ -133,89 +213,25 @@
         "url": "https://techcrunch.com/2026/02/04/after-backlash-adobe-cancels-adobe-animate-shutdown-and-puts-app-on-maintenance-mode/",
         "source": "TechCrunch",
         "published": "2026-02-04T14:53:21+00:00"
-      },
-      {
-        "id": "49785a6a1bf3",
-        "title": "NASA finally acknowledges the elephant in the room with the SLS rocket",
-        "summary": "\"You know, you're right, the flight rate—three years is a long time.\"",
-        "url": "https://arstechnica.com/space/2026/02/nasa-finally-acknowledges-the-elephant-in-the-room-with-the-sls-rocket/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T14:41:30+00:00"
-      },
-      {
-        "id": "c7c30a44818f",
-        "title": "Uber appoints new CFO as its AV plans accelerate",
-        "summary": "Krishnamurthy has been at Uber for over six years, spending most of his tenure in the company in its investor relations division.",
-        "url": "https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T14:15:34+00:00"
-      },
-      {
-        "id": "7453984d7447",
-        "title": "Drax insiders privately raised concerns over its sustainability claims, court papers show",
-        "summary": "Company publicly denied allegations that primary forests were being cut down to fuel UK’s biggest power plantSenior executives at Drax raised concerns internally about the validity of the energy company’s sustainability claims while it publicly denied allegations that it was cutting down environment...",
-        "url": "https://www.theguardian.com/business/2026/feb/04/drax-sustainability-claims-court-forests-power-plant",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T14:02:26+00:00"
-      },
-      {
-        "id": "6a531915d0b8",
-        "title": "SNAK Venture Partners raises $50M fund to back vertical marketplaces",
-        "summary": "The firm has already invested in six companies, including BigRentals and Repackify, focused on equipment rental and packaging logistics, respectively.",
-        "url": "https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T14:00:00+00:00"
-      },
-      {
-        "id": "b23e7ee2a45a",
-        "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the US",
-        "summary": "Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices, and free for everyone on mobile and web.",
-        "url": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T14:00:00+00:00"
-      },
-      {
-        "id": "bb4d8d6855f0",
-        "title": "Apeiron Labs gets $9.5M to flood the oceans with autonomous underwater robots",
-        "summary": "Buoys, ships, and some autonomous rovers have recently added some detail, but it’s nothing like what we get from satellites today. It’s frustrating to everyone from fishermen to the Coast Guard, meteorologists to offshore wind developers.",
-        "url": "https://techcrunch.com/2026/02/04/apeiron-labs-gets-95m-to-flood-the-oceans-with-autonomous-underwater-robots/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T14:00:00+00:00"
-      },
-      {
-        "id": "1843ea9e4fa5",
-        "title": "UK services sector job cuts continue as companies automate, PMI survey shows",
-        "summary": "‘Longest period of job shedding’ in 16 years taking place as business activity grows at fastest rate since August• Business live – latest updatesCompanies in the UK’s services sector cut jobs last month, as they turned to “automation” rather than hiring new staff, a closely watched survey showed.The...",
-        "url": "https://www.theguardian.com/business/2026/feb/04/uk-service-sector-job-cuts-companies-automate-pmi-survey",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T13:47:43+00:00"
-      },
-      {
-        "id": "b6ed39a369dd",
-        "title": "慧榮第四季營收年增達 46%，預計第一季年增最多逾 8 成",
-        "summary": "記憶體控制晶片大廠慧榮科技 (SIMO) 公布 2025 年第四季財報，營收金額為 2 億 7,846 萬美元 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/simos-fourth-quarter-revenue-increased-by-46-year-on-year/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T13:00:41+00:00"
-      },
-      {
-        "id": "feddf93a0efd",
-        "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
-        "summary": "Fibr AI replaces marketing agency- and engineering-heavy website personalization with autonomous systems designed for enterprise scale.",
-        "url": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T13:00:00+00:00"
-      },
-      {
-        "id": "0871176df8df",
-        "title": "Spotify upgrades its lyrics feature with offline access, more translations",
-        "summary": "Spotify is revamping its lyrics feature, adding offline access for Premium users, global lyric translations, and a more prominent placement in the Now Playing view.",
-        "url": "https://techcrunch.com/2026/02/04/spotify-upgrades-its-lyrics-feature-with-offline-access-more-translations/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T13:00:00+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "6f8255aff4b8",
+        "title": "24 creative and unexpected Valentine’s Day gifts for him",
+        "summary": "From indestructible wallets to Crocs (yes, Crocs), we rounded up the best guy-approved Valentine’s Day gifts they won’t know how they lived without26 sentimental and practical US Valentine’s Day gifts for her in 2026Sign up for the Filter US newsletter, your weekly guide to buying fewer, better thin...",
+        "url": "https://www.theguardian.com/thefilter-us/2025/dec/10/best-gifts-ideas-for-him-men",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-04T21:16:34+00:00"
+      },
+      {
+        "id": "dc6586f359bc",
+        "title": "Measles Is Causing Brain Swelling in Children in South Carolina",
+        "summary": "In the ongoing measles outbreak in South Carolina that has infected more than 800 people, some children have developed a rare but serious complication called encephalitis.",
+        "url": "https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/",
+        "source": "Science Latest",
+        "published": "2026-02-04T21:15:18+00:00"
+      },
       {
         "id": "1cac5a5a4b17",
         "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
@@ -399,25 +415,17 @@
         "url": "https://www.theguardian.com/technology/2026/feb/03/gemini-grok-chatgpt-claude-qwen-ai-chatbots-identity-crisis",
         "source": "Technology | The Guardian",
         "published": "2026-02-03T17:28:23+00:00"
-      },
-      {
-        "id": "8342204c9639",
-        "title": "The dump dinner: spaghetti is now being served straight on to the table – but why?",
-        "summary": "A raft of online videos show parents serving up dinner without a single plate in sight, to the amazement of their familiesName: Dump dinners.Age: Horribly new. Continue reading...",
-        "url": "https://www.theguardian.com/food/2026/feb/03/dump-dinner-spaghetti-served-straight-onto-table-why",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-03T17:25:38+00:00"
-      },
-      {
-        "id": "5934edc23c5b",
-        "title": "Best of show: walk NAMM with us in a gear-mas gallery",
-        "summary": "Who stood out at this year's NAMM show, that festivus of gear that brightens our winters from Anaheim? We've given you some idea with NAMM and LA's Buchla &#038; Friends. Here, in images, are our favorites from NAMM, as captured by LA photographer Mehdi Hassine and veteran Berlin hardware guru Gösta...",
-        "url": "https://cdm.link/best-of-show-namm-26/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-03T16:54:22+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "b74af14f3341",
+        "title": "What Ultimately Is There? Metaphysics and the Ruliad",
+        "summary": "The Wolfram Institute recently received a grant from the Templeton World Charity Foundation for “Computational Metaphysics”. I wrote this piece in part as a launching point for discussions with experts in traditional philosophy. Moving Metaphysics from Philosophy to Science “What ultimately is there...",
+        "url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2026-02-04T20:24:57+00:00"
+      },
       {
         "id": "8ad599a6bf98",
         "title": "‘I also like that the dad cries’: children on their favourite Australian picture book of all time | Guardian readers",
@@ -609,14 +617,6 @@
         "url": "https://finance.technews.tw/2026/01/29/mark-zuckerberg-is-all-in-on-ai-as-the-new-social-media/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-01-29T03:00:10+00:00"
-      },
-      {
-        "id": "a4925ff03394",
-        "title": "Meta 財測超優、抵消 AI 鉅額支出疑慮  盤後飆",
-        "summary": "社群媒體巨頭 Meta 核心業務表現強勁，財測遠優於市場預期，緩解了市場對高昂 AI 資本支出降低獲利能力的疑 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/01/29/meta-reports-fourth-quarter-and-full-year-2025-results/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-01-29T02:10:52+00:00"
       }
     ]
   }
