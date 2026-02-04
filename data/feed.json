@@ -1,31 +1,87 @@
 {
-  "updated_at": "2026-02-04T14:33:12.614934+00:00",
+  "updated_at": "2026-02-04T17:34:26.896029+00:00",
   "trending": [
-    "aleksandar kovacevic",
-    "t20 world cup",
-    "mae jemison",
-    "frank reich",
-    "washington post",
-    "andy cohen",
-    "nieve",
-    "latest iphone rumors",
-    "ind vs sa",
-    "dave coulier"
+    "is chatgpt down",
+    "nascar clash",
+    "galatasaray - istanbulspor",
+    "melanie martinez",
+    "dawn aponte",
+    "nyc marathon",
+    "mickey lolich",
+    "national women in sports day",
+    "miranda kerr",
+    "gabrielle union"
   ],
   "categories": {
     "急(hr)": [
       {
-        "id": "a160d691e390",
-        "title": "Software sell-off over AI fears hits global stock markets, but FTSE 100 hits record on £8bn insurance takeover – business live",
-        "summary": "Rolling coverage of the latest economic and financial newsBen Barringer, head of technology research at wealth manager Quilter Cheviot,says investors are ‘shunning’ the software market due to uncertainty over AI’s potential, and the disruption it could cause:All innovation means there is going to be...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/04/software-stock-selloff-ai-led-disruption-jensen-huang-services-economy-business-live-news-updates",
+        "id": "26b54c6ea37c",
+        "title": "Roblox’s 4D creation feature is now available in open beta",
+        "summary": "Roblox's highly anticipated 4D creation feature has officially arrived in open beta.",
+        "url": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T17:00:00+00:00"
+      },
+      {
+        "id": "09049cd1a8ec",
+        "title": "Bill Gates says he ‘regrets’ knowing Epstein as ex-wife alludes to ‘muck’ in marriage",
+        "summary": "Melinda French Gates insists Microsoft founder has questions to answer over his relationship with EpsteinBill Gates has said he “regrets” ever knowing Jeffrey Epstein, as his former wife Melinda French Gates alluded to “muck” in their marriage, and insisted the Microsoft founder has questions to ans...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/04/bill-gates-epstein-relationship-melinda",
         "source": "Business | The Guardian",
-        "published": "2026-02-04T14:25:07+00:00"
+        "published": "2026-02-04T16:37:46+00:00"
+      },
+      {
+        "id": "d22f15fc142a",
+        "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
+        "summary": "ElevenLabs' valuation has raised more than three times in the last 12 months.",
+        "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T15:33:58+00:00"
+      },
+      {
+        "id": "881e84e428b5",
+        "title": "Chinese carmaker Chery to launch fourth brand in UK",
+        "summary": "State-owned company will sell under the Lepas brand, continuing its rapid expansion in the British marketBusiness live – latest updatesThe Chinese carmaker Chery is launching a fourth brand in the UK, continuing a push into the British market where it has rapidly become a major player.The state-owne...",
+        "url": "https://www.theguardian.com/business/2026/feb/04/chinese-carmaker-chery-to-launch-fourth-brand-in-uk",
+        "source": "Business | The Guardian",
+        "published": "2026-02-04T15:04:30+00:00"
+      },
+      {
+        "id": "1c30e4fa1e67",
+        "title": "Russian spy satellites have intercepted EU communications satellites",
+        "summary": "Unencrypted European communications are being targeted by Moscow.",
+        "url": "https://arstechnica.com/space/2026/02/russian-spy-satellites-have-intercepted-eu-communications-satellites/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-04T15:02:29+00:00"
+      },
+      {
+        "id": "61abb67669bf",
+        "title": "Cyber-attack and yacht insurer agrees £8bn deal in latest UK stock market exit",
+        "summary": "Beazley, which also covers fine art, agrees to takeover by larger rival Zurich at 60% premiumA British company specialising in insuring against cyber-attacks that also covers fine art and luxury yachts has agreed to be taken over in an £8bn deal, in what would be the latest loss to the London stock ...",
+        "url": "https://www.theguardian.com/business/2026/feb/04/specialist-insurer-beazley-8bn-takeover-zurich",
+        "source": "Business | The Guardian",
+        "published": "2026-02-04T14:55:59+00:00"
+      },
+      {
+        "id": "ae55fc8c5bbe",
+        "title": "After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenance mode’",
+        "summary": "Adobe's announcement about discontinuing Animate was met with incredulity, disappointment, and anger. The company has changed its tune.",
+        "url": "https://techcrunch.com/2026/02/04/after-backlash-adobe-cancels-adobe-animate-shutdown-and-puts-app-on-maintenance-mode/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T14:53:21+00:00"
+      },
+      {
+        "id": "49785a6a1bf3",
+        "title": "NASA finally acknowledges the elephant in the room with the SLS rocket",
+        "summary": "\"You know, you're right, the flight rate—three years is a long time.\"",
+        "url": "https://arstechnica.com/space/2026/02/nasa-finally-acknowledges-the-elephant-in-the-room-with-the-sls-rocket/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-04T14:41:30+00:00"
       },
       {
         "id": "c7c30a44818f",
         "title": "Uber appoints new CFO as its AV plans accelerate",
-        "summary": "Uber is promoting Balaji Krishnamurthy, its VP of strategic finance and investor relations, to be its CFO, replacing its current finance chief Prashanth Mahendra-Rajah.",
+        "summary": "Krishnamurthy has been at Uber for over six years, spending most of his tenure in the company in its investor relations division.",
         "url": "https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/",
         "source": "TechCrunch",
         "published": "2026-02-04T14:15:34+00:00"
@@ -41,7 +97,7 @@
       {
         "id": "6a531915d0b8",
         "title": "SNAK Venture Partners raises $50M fund to back vertical marketplaces",
-        "summary": "SNAK Venture Partners announced Wednesday the close of its oversubsubscribed $50 million debut fund, anchored by Pritzker Group.",
+        "summary": "The firm has already invested in six companies, including BigRentals and Repackify, focused on equipment rental and packaging logistics, respectively.",
         "url": "https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/",
         "source": "TechCrunch",
         "published": "2026-02-04T14:00:00+00:00"
@@ -55,20 +111,12 @@
         "published": "2026-02-04T14:00:00+00:00"
       },
       {
-        "id": "e62b80a1c1f3",
-        "title": "Apeiron Labs gets $29M to flood the oceans with autonomous underwater robots",
+        "id": "bb4d8d6855f0",
+        "title": "Apeiron Labs gets $9.5M to flood the oceans with autonomous underwater robots",
         "summary": "Most of what we know about the ocean just skims the surface, literally. We’ve gathered a large quantity of data on the oceans from satellites, but most of that is based on the top layer of water. Below that, the picture gets murkier. Buoys, ships, and some autonomous rovers have recently added some ...",
-        "url": "https://techcrunch.com/2026/02/04/apeiron-labs-gets-29m-to-flood-the-oceans-with-autonomous-underwater-robots/",
+        "url": "https://techcrunch.com/2026/02/04/apeiron-labs-gets-95m-to-flood-the-oceans-with-autonomous-underwater-robots/",
         "source": "TechCrunch",
         "published": "2026-02-04T14:00:00+00:00"
-      },
-      {
-        "id": "61abb67669bf",
-        "title": "Specialist UK insurer Beazley agrees to £8bn takeover by Zurich",
-        "summary": "Deal values cyber-attack specialist at a 60% premium but marks another loss for the London stock marketA British company specialising in insuring against cyber-attacks which also covers fine art and luxury yachts has agreed to be taken over in an £8bn deal, as it became the latest loss to the London...",
-        "url": "https://www.theguardian.com/business/2026/feb/04/specialist-insurer-beazley-8bn-takeover-zurich",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T13:36:32+00:00"
       },
       {
         "id": "b6ed39a369dd",
@@ -153,7 +201,7 @@
       {
         "id": "9fa46d013945",
         "title": "Wegovy and Ozempic maker forecasts sharp drop in revenue for 2026",
-        "summary": "Novo Nordisk share price plunges after blaming lower US drug prices, patent protection issues and rising competition The maker of Wegovy and Ozempic, Novo Nordisk, has predicted a sharp drop in revenues this year owing to a push by Donald Trump to lower US weight-loss drug prices, rising competition...",
+        "summary": "Novo Nordisk share price plunges after blaming lower US drug prices, patent protection issues and rising competition The maker of Wegovy and Ozempic, Novo Nordisk, has predicted a sharp drop in revenues this year owing to what its boss described as a “painful” push by Donald Trump to lower US weight...",
         "url": "https://www.theguardian.com/business/2026/feb/04/wegovy-ozempic-forecast-revenue-share-price-drop",
         "source": "Business | The Guardian",
         "published": "2026-02-04T10:51:40+00:00"
@@ -165,57 +213,49 @@
         "url": "https://finance.technews.tw/2026/02/04/ability-fr-2601/",
         "source": "TechNews 科技新報",
         "published": "2026-02-04T10:35:29+00:00"
-      },
-      {
-        "id": "ad8e0d648c4b",
-        "title": "美陸軍採購新自走砲限「美國製造」，韓華喊話：直接去當地蓋工廠",
-        "summary": "美國陸軍在經歷長程火砲研發受挫後，近期重新調整戰略，急尋現有的自走砲方案以汰換 M777 榴彈砲，儘管軍方在指 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/hanwha-plans-to-build-factory-in-the-us-for-new-howitzer-bid/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T10:20:27+00:00"
-      },
-      {
-        "id": "b2eef3949d8f",
-        "title": "Santander takes fresh swipe at City watchdog as its car loan scandal bill tops £460m",
-        "summary": "UK arm brands FCA’s compensation scheme ‘overreach’ as Spanish owner signs surprise $12bn takeover of Webster Bank in USSantander has accused the City watchdog of overreach after its bill for the UK motor finance scandal reached £461m, as the Spanish lender signed a $12bn takeover of an American ban...",
-        "url": "https://www.theguardian.com/business/2026/feb/04/santander-fca-compensation-scheme-car-loan-scandal-bill",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T10:12:12+00:00"
-      },
-      {
-        "id": "42bf081119c7",
-        "title": "西藏綠色能源潛力驚人，將成中國能源需求的解答？",
-        "summary": "西藏的綠色能源潛力可能滿足中國的所有能源需求，消息來自於最近的官方調查。根據中國水力發電工程學會和中國電力建設 [&#8230;]",
-        "url": "https://technews.tw/2026/02/04/tibets-exploitable-green-power-could-meet-chinas-energy-needs-official-survey/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T10:10:27+00:00"
-      },
-      {
-        "id": "cfe1cb5dac58",
-        "title": "立積1月營收3.30 億元",
-        "summary": "立積（4968）今（4）日公布 1 月營收，達 3.30 億元，較 12 月成長 5.9%，較去年同期成長 3 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/richwave-4968-202601-financial-report/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T10:10:09+00:00"
-      },
-      {
-        "id": "4067f5ca4248",
-        "title": "新鉅科1月營收2.71 億元",
-        "summary": "新鉅科（3630）今（4）日公布 1 月營收，達 2.71 億元，較 12 月成長 33.0%，較去年同期成長 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/newmax-3630-202601-financial-report/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T10:10:07+00:00"
-      },
-      {
-        "id": "7b0b17da6aab",
-        "title": "義隆1月營收10.68 億元",
-        "summary": "義隆（2458）今（4）日公布 1 月營收，達 10.68 億元，較 12 月成長 16.5%，較去年同期成長 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/04/elan-2458-202601-financial-report/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-04T10:10:05+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "1eabfc9fe70e",
+        "title": "The latest AI news we announced in January",
+        "summary": "mp4 showing a carousel of images including a card reading \"Help that's made for you\"",
+        "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+        "source": "Google DeepMind",
+        "published": "2026-02-04T16:55:00+00:00"
+      },
+      {
+        "id": "005369006a4f",
+        "title": "Maha trapdoors and apolitical pilates: my relentless search for lefty mommy bloggers",
+        "summary": "The most popular mom content tends to be rightwing tradwife propaganda or not political at all – pushing progressive creators out of the algorithmFor someone who doesn’t have a marble island in their kitchen I spend a disproportionate amount of time staring at marble kitchen islands, slack-jawed, br...",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/04/left-progressive-mom-influencers",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-04T16:00:47+00:00"
+      },
+      {
+        "id": "905e08b664c7",
+        "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
+        "summary": "“Too many GPUs makes you lazy,” says the French startup's vice president of science operations, as the company carves out a different path than the major US AI companies.",
+        "url": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
+        "source": "Feed: Artificial Intelligence Latest",
+        "published": "2026-02-04T15:32:45+00:00"
+      },
+      {
+        "id": "905e08b664c7",
+        "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
+        "summary": "“Too many GPUs makes you lazy,” says the French startup's vice president of science operations, as the company carves out a different path than the major US AI companies.",
+        "url": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
+        "source": "Business Latest",
+        "published": "2026-02-04T15:32:45+00:00"
+      },
+      {
+        "id": "f38bad2dfe48",
+        "title": "Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel",
+        "summary": "I've been exploring Go for building small, fast and self-contained binary applications recently. I'm enjoying how there's generally one obvious way to do things and the resulting code is boring and readable - and something that LLMs are very competent at writing. The one catch is distribution, but i...",
+        "url": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-04T14:59:47+00:00"
+      },
       {
         "id": "2b6f4b52f260",
         "title": "Gaming’s new coming-of-age genre embraces ‘millennial cringe’",
@@ -375,46 +415,6 @@
         "url": "https://www.twreporter.org/a/bookreview-the-reporter-file-005",
         "source": "報導者",
         "published": "2026-02-03T16:00:00+00:00"
-      },
-      {
-        "id": "3cc3111bd5f5",
-        "title": "Disastrous start for US TikTok as users cry censorship",
-        "summary": "New US-owned app struggled with a storm and was accused of blocking content critical of Trump – can it recover?Hello, and welcome to TechScape. I’m Blake Montgomery, writing to you from Doha, where I’m moderating panels about AI and investing as part of the Web Summit Qatar.I want to bring your atte...",
-        "url": "https://www.theguardian.com/technology/2026/feb/02/tiktok-us-owners",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-03T14:18:46+00:00"
-      },
-      {
-        "id": "c7e87ed3921b",
-        "title": "‘Fallout’ Producer Jonathan Nolan on AI: ‘We’re in Such a Frothy Moment’",
-        "summary": "The Westworld showrunner thinks AI will be good for burgeoning filmmakers, but not for Hollywood blockbusters.",
-        "url": "https://www.wired.com/story/the-big-interview-podcast-jonathan-nolan-fallout/",
-        "source": "Feed: Artificial Intelligence Latest",
-        "published": "2026-02-03T12:00:00+00:00"
-      },
-      {
-        "id": "bd7c717b70d8",
-        "title": "Rising Temperatures Are Taking a Toll on Sleep Health",
-        "summary": "As nights get hotter around the globe due to climate change, the prevalence of sleep apnea is expected to increase by as much as threefold.",
-        "url": "https://www.wired.com/story/climate-change-heat-sleep-apnea/",
-        "source": "Science Latest",
-        "published": "2026-02-03T10:30:00+00:00"
-      },
-      {
-        "id": "943cd41b4524",
-        "title": "Resolume 7.24 adds 10-bit color, more — plus a bunch of new tutorials",
-        "summary": "Visualist workhorse Resolume continues its rapid update cadence. New in 7.24: 10-bit color output, performance optimizations, improved capture device support, new CRT effect, new  Wire nodes, Wire usability improvements, and more. Plus, the Resolume crew has uploaded a number of tutorials you should...",
-        "url": "https://cdm.link/resolume-7-24/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-03T10:00:31+00:00"
-      },
-      {
-        "id": "3da99bac9e5e",
-        "title": "January sponsors-only newsletter is out",
-        "summary": "I just sent the January edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In the newsletter for January:\n\nLLM predictions for 2026\nCoding agents get even more attention\nClawdbot/Moltbot/OpenClaw went very viral\nKakapo bre...",
-        "url": "https://simonwillison.net/2026/Feb/3/january/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-03T06:36:10+00:00"
       }
     ],
     "序(month)": [
