@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-04T21:48:40.139918+00:00",
+  "updated_at": "2026-02-04T22:59:15.562319+00:00",
   "trending": [
-    "lyon",
-    "lyon fc",
-    "flamengo vs internacional",
-    "elf stock",
-    "french cup",
-    "copa de francia",
-    "tpusa halftime show",
-    "avgo stock",
-    "travis kelce",
-    "caleb jones"
+    "david zayas",
+    "2030 winter olympics",
+    "joseph gordon-levitt",
+    "santos vs são paulo",
+    "save act bill",
+    "nancy grace",
+    "war machine 2026",
+    "mcnugget caviar kit",
+    "lego kpop demon hunters",
+    "tomas machac"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "5e73391c78ad",
+        "title": "Google’s Gemini app has surpassed 750M monthly active users",
+        "summary": "Google revealed a significant milestone for it's Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
+        "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T22:53:46+00:00"
+      },
+      {
+        "id": "aeb168a989f1",
+        "title": "馬斯克躍史上最有錢首富！身價因 SpaceX 整併 xAI 衝破 8,000 億美元",
+        "summary": "特斯拉創辦人馬斯克（Elon Musk）躍居史上最有錢首富，因所創辦 SpaceX（太空探索）完成收購人工智慧 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/surpasses-800-billion/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-04T22:50:47+00:00"
+      },
+      {
+        "id": "0599ff210c6e",
+        "title": "The Wayback Machine debuts a new plugin designed to fix the internet’s broken links problem",
+        "summary": "WordPress is helping the non-profit fight the scourge of \"link rot.\"",
+        "url": "https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/",
+        "source": "TechCrunch",
+        "published": "2026-02-04T22:27:12+00:00"
+      },
       {
         "id": "d3eef3cb1cd4",
         "title": "Elon Musk’s SpaceX company town is getting a police department",
@@ -24,8 +48,8 @@
       },
       {
         "id": "a1a95a6402cb",
-        "title": "Meet Gizmo: a TikTok for interactive, vibe-coded mini apps",
-        "summary": "Gizmo's app is like a TikTok for vibe-coded mini apps...and it's a lot of fun.",
+        "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
+        "summary": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun.",
         "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
         "source": "TechCrunch",
         "published": "2026-02-04T21:45:32+00:00"
@@ -189,33 +213,17 @@
         "url": "https://www.theguardian.com/business/2026/feb/04/chinese-carmaker-chery-to-launch-fourth-brand-in-uk",
         "source": "Business | The Guardian",
         "published": "2026-02-04T15:04:30+00:00"
-      },
-      {
-        "id": "1c30e4fa1e67",
-        "title": "Russian spy satellites have intercepted EU communications satellites",
-        "summary": "Unencrypted European communications are being targeted by Moscow.",
-        "url": "https://arstechnica.com/space/2026/02/russian-spy-satellites-have-intercepted-eu-communications-satellites/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T15:02:29+00:00"
-      },
-      {
-        "id": "61abb67669bf",
-        "title": "Cyber-attack and yacht insurer agrees £8bn deal in latest UK stock market exit",
-        "summary": "Beazley, which also covers fine art, agrees to takeover by larger rival Zurich at 60% premiumA British company specialising in insuring against cyber-attacks that also covers fine art and luxury yachts has agreed to be taken over in an £8bn deal, in what would be the latest loss to the London stock ...",
-        "url": "https://www.theguardian.com/business/2026/feb/04/specialist-insurer-beazley-8bn-takeover-zurich",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T14:55:59+00:00"
-      },
-      {
-        "id": "ae55fc8c5bbe",
-        "title": "After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenance mode’",
-        "summary": "Adobe's announcement about discontinuing Animate was met with incredulity, disappointment, and anger. The company has changed its tune.",
-        "url": "https://techcrunch.com/2026/02/04/after-backlash-adobe-cancels-adobe-animate-shutdown-and-puts-app-on-maintenance-mode/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T14:53:21+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "abe4bc1ea778",
+        "title": "Voxtral transcribes at the speed of sound",
+        "summary": "Voxtral transcribes at the speed of sound\nMistral just released Voxtral Transcribe 2 - a family of two new models, one open weights, for transcribing audio to text. This is the latest in their Whisper-like model family, and a sequel to the original Voxtral which they released in July 2025.\nVoxtral R...",
+        "url": "https://simonwillison.net/2026/Feb/4/voxtral-2/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-04T22:42:34+00:00"
+      },
       {
         "id": "6f8255aff4b8",
         "title": "24 creative and unexpected Valentine’s Day gifts for him",
@@ -407,14 +415,6 @@
         "url": "https://www.theguardian.com/technology/2026/feb/03/french-headquarters-elon-musk-x-raided-paris-cybercrime-unit",
         "source": "Technology | The Guardian",
         "published": "2026-02-03T19:01:37+00:00"
-      },
-      {
-        "id": "715db03ab9af",
-        "title": "From ‘nerdy’ Gemini to ‘edgy’ Grok: how developers are shaping AI behaviours",
-        "summary": "AIs are not sentient – but tweaks to their ethical codes can have far-reaching consequences for usersDo you want an AI assistant that gushes about how it “loves humanity” or one that spews sarcasm? How about a political propagandist ready to lie? If so, ChatGPT, Grok and Qwen are at your disposal.Co...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/gemini-grok-chatgpt-claude-qwen-ai-chatbots-identity-crisis",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-03T17:28:23+00:00"
       }
     ],
     "序(month)": [
@@ -429,7 +429,7 @@
       {
         "id": "8ad599a6bf98",
         "title": "‘I also like that the dad cries’: children on their favourite Australian picture book of all time | Guardian readers",
-        "summary": "From Jetty Jumping to green sheep, children tell us why they love the books they ask for night after nightVote for the best Australian children’s picture bookGet our weekend culture and lifestyle emailWhen Guardian Australia asked readers to nominate their favourite Australian children’s picture boo...",
+        "summary": "From Jetty Jumping to green sheep, children tell us why they love the books they ask for night after nightVoting has now closed in the best Australian picture book poll. Read more about it hereGet our weekend culture and lifestyle emailWhen Guardian Australia asked readers to nominate their favourit...",
         "url": "https://www.theguardian.com/books/2026/feb/05/children-favourite-australian-picture-book",
         "source": "Children and teenagers | The Guardian",
         "published": "2026-02-04T14:00:48+00:00"
@@ -531,28 +531,12 @@
         "published": "2026-01-30T19:26:48+00:00"
       },
       {
-        "id": "3752ead9da29",
-        "title": "2025 in numbers",
-        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2347",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T16:19:39+00:00"
-      },
-      {
         "id": "09225b611b79",
         "title": "‘Her name was Mothball and she changed my life’: the true story behind Diary of a Wombat",
         "summary": "Jackie French was used to the quirks of wild animal behaviour – and then she met a carrot-mad wombat with an appetite for destruction. A bestseller was bornVote for the best Australian children’s picture bookGet our weekend culture and lifestyle emailHer name was Mothball and she changed my life.We ...",
         "url": "https://www.theguardian.com/books/2026/jan/31/jackie-french-true-story-behind-diary-of-a-wombat",
         "source": "Children and teenagers | The Guardian",
         "published": "2026-01-30T14:00:29+00:00"
-      },
-      {
-        "id": "d32f0a5eed31",
-        "title": "Freesound Day video recordings available online",
-        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2352",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T11:10:55+00:00"
       },
       {
         "id": "0ebaa081adef",
@@ -617,6 +601,22 @@
         "url": "https://finance.technews.tw/2026/01/29/mark-zuckerberg-is-all-in-on-ai-as-the-new-social-media/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-01-29T03:00:10+00:00"
+      },
+      {
+        "id": "a4925ff03394",
+        "title": "Meta 財測超優、抵消 AI 鉅額支出疑慮  盤後飆",
+        "summary": "社群媒體巨頭 Meta 核心業務表現強勁，財測遠優於市場預期，緩解了市場對高昂 AI 資本支出降低獲利能力的疑 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/01/29/meta-reports-fourth-quarter-and-full-year-2025-results/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-01-29T02:10:52+00:00"
+      },
+      {
+        "id": "992072a4acf9",
+        "title": "I’ve read this picture book so many times – but only 25 years later do I really understand it | Lenore Taylor",
+        "summary": "Wilfrid Gordon McDonald Partridge was a favourite when my son was small. Now my father’s in a nursing home – and Mem Fox’s book has new significanceVote for the best Australian children’s picture bookWhen my son was small, he and my dad liked to read Mem Fox’s 1984 picture book Wilfrid Gordon McDona...",
+        "url": "https://www.theguardian.com/culture/2026/jan/29/wilfrid-gordon-mcdonald-partridge-mem-fox-best-australian-picture-book-poll",
+        "source": "Children and teenagers | The Guardian",
+        "published": "2026-01-28T14:00:13+00:00"
       }
     ]
   }
