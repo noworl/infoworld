@@ -1,221 +1,229 @@
 {
-  "updated_at": "2026-02-04T23:55:59.378333+00:00",
+  "updated_at": "2026-02-05T05:10:01.682992+00:00",
   "trending": [
-    "jeff stoutland",
-    "superbowl sunday",
-    "bruins vs panthers",
-    "timberwolves vs raptors",
-    "wofford basketball",
-    "gore mountain",
-    "lincoln lawyer season 4",
-    "joey logano",
-    "nuggets vs knicks",
-    "satoshi nakamoto"
+    "ethan hawke",
+    "warriors roster",
+    "ian mckellen",
+    "nintendo direct",
+    "porzingis injury",
+    "utah mammoth",
+    "stephon castle",
+    "harrison barnes",
+    "trayce jackson-davis",
+    "arizona state vs utah"
   ],
   "categories": {
     "急(hr)": [
       {
-        "id": "d30369f974a7",
-        "title": "不要只是談 AI 潛力，麥肯錫給企業的三大 AI 治理行動建議",
-        "summary": "過去一年，AI 幾乎成為所有企業策略中不可或缺的關鍵字。然而，根據麥肯錫（McKinsey）的最新觀察，多數企 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/mckinsey-three-major-ai-governance-action-recommendations/",
+        "id": "27db4dd4b5a8",
+        "title": "K 型經濟繼續分化社會，牛津：至少再持續十年",
+        "summary": "市場對科技的大規模投資，已經提升家庭的平均財富，而且這種累積財富的趨勢，還會持續可能長達十年。但牛津經濟研究院 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/k-economy-will-last-10-years-more/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-04T23:50:26+00:00"
+        "published": "2026-02-05T04:55:18+00:00"
       },
       {
-        "id": "dd6dfb391990",
-        "title": "Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs",
-        "summary": "Having raised a €30 million Series A round led by CapitalG, business identity verification startup Duna is now among the most well-capitalized European startups founded by Stripe alumni.",
-        "url": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T23:49:18+00:00"
-      },
-      {
-        "id": "0941b2328897",
-        "title": "AI 軍備競賽再擴大！Google 資本支出翻倍至 1,750 億至 1,850 億美元",
-        "summary": "AI 軍備競賽再擴大，Google 母公司 Alphabet 計劃在 2026 年進行 1,750 億至 1, [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/google-parent-alphabet/",
+        "id": "72eb0b972ae7",
+        "title": "美議員推新法杜絕詐騙廣告  Meta 恐首當其衝",
+        "summary": "美國跨黨派參議員 4 日提出打詐新法，要求社群平台業者對詐騙廣告負起治理責任，以防杜日益猖獗的詐騙案件，此舉恐 [&#8230;]",
+        "url": "https://infosecu.technews.tw/2026/02/05/us-senators-unveil-bill-to-prevent-scam-ads-on-social-media-platforms/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-04T23:40:51+00:00"
+        "published": "2026-02-05T04:20:30+00:00"
       },
       {
-        "id": "dac4cc67c959",
-        "title": "智慧手錶／戒指睡眠追蹤功能有局限，只能從心率與動作「推斷」睡眠狀況",
-        "summary": "智慧手錶與智慧戒指已經成為人們監測自己睡眠品質的熱門工具，但這些追蹤裝置並不一定會直接量測睡眠本身，而多半是從 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/sleep-tracking-devices-have-limits-experts-want-users-to-know-what-they-are/",
+        "id": "5ce8139b7977",
+        "title": "AI 機器人上網聊天抱怨人類，Moltbook 平台引熱議",
+        "summary": "美國一個專為 AI 代理人（AI Agent）打造的社群平台 Moltbook 引發熱議；有如科幻小說情節，機 [&#8230;]",
+        "url": "https://ccc.technews.tw/2026/02/05/moltbook-ai-bot-complains-about-humans-in-chat/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-04T23:40:22+00:00"
+        "published": "2026-02-05T04:10:56+00:00"
       },
       {
-        "id": "16b45fca8598",
-        "title": "被忽略的氣候關鍵：不當的土地利用，如何加劇全球碳排放",
-        "summary": "說到氣候變遷，多數人直覺認為主因來自發電廠、燃油引擎及工業排放的廢氣。然而，科學研究顯示，人類如何使用土地，同 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/unpacking-the-growth-of-global-agricultural-greenhouse-gas-emissions/",
+        "id": "b09f292809bd",
+        "title": "Anthropic 超級盃廣告暗諷 ChatGPT 導入廣告，OpenAI 奧特曼怎麼看？",
+        "summary": "Anthropic 宣布旗下 AI 聊天機器人 Claude 不會導入廣告，這與 OpenAI 公布將在 Ch [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/ads-are-coming-to-ai-except-claude/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-04T23:30:29+00:00"
+        "published": "2026-02-05T04:04:23+00:00"
       },
       {
-        "id": "d8675af27ee2",
-        "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
-        "summary": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
-        "url": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T23:28:31+00:00"
-      },
-      {
-        "id": "f49f8b543148",
-        "title": "兩個月大就會分類，fMRI 揭示嬰兒大腦可區分生物與非生物",
-        "summary": "在一項研究中，愛爾蘭都柏林三一學院（Trinity College Dublin）的神經科學家發現，僅兩個月大 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/new-brain-scans-reveal-hidden-intelligence-in-babies/",
+        "id": "d3b04678bf72",
+        "title": "Axiom 稱旗下 AI 工具破解四道數學難題！AI 推理力進步或對資安系統有重大影響",
+        "summary": "數學界的人工智慧進步也引起關注。最近 Axiom 新創公司宣稱旗下 AI 工具 AxiomProver 成功解 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/a-new-ai-math-startup-just-cracked-4-previously-unsolved-problems/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-04T23:20:02+00:00"
+        "published": "2026-02-05T04:00:48+00:00"
       },
       {
-        "id": "9eb10ee0e4fe",
-        "title": "中國研究：菸蒂轉成超級電容電極，解決環境污染難題",
-        "summary": "全球每年會產生約 4.5 兆顆菸蒂，是地球最多廢物，每年造成約 260 億美元環境成本。中國河南大學最近發表研 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/turning-cigarette-butts-into-high-performance-supercapacitors/",
+        "id": "32cf5cee2bd4",
+        "title": "木星體型最新測量報告出爐，比過去估算更小、更平坦",
+        "summary": "木星毫無疑問是太陽系最大行星，而過去科學家基於 NASA 先鋒 10 號、先鋒 11 號及航海家 1 號、航海 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/radio-occultation-jupiter-juno/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-04T23:10:58+00:00"
+        "published": "2026-02-05T03:58:04+00:00"
       },
       {
-        "id": "aba1ca7d93e2",
-        "title": "多軌道衛星互聯成形，重塑偏遠礦區之智慧採礦通訊網路",
-        "summary": "工業網路需求正推動全球採礦業變革，礦產開採活動深入偏遠地區和地下環境，傳統通訊基礎設施已無法支援日益複雜數位系 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/mining-smart-network/",
+        "id": "8aca96b96d58",
+        "title": "AI 用電推升燃氣渦輪需求，三菱重工獲利年增逾 15%",
+        "summary": "根據日經報導，美國人工智慧帶動電力需求快速攀升，推升全球燃氣渦輪市場升溫。日本三菱重工預估，截至明年 3 月止 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/mitsubishi-heavy-record/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-04T23:00:23+00:00"
+        "published": "2026-02-05T03:52:51+00:00"
       },
       {
-        "id": "5e73391c78ad",
-        "title": "Google’s Gemini app has surpassed 750M monthly active users",
-        "summary": "Google revealed a significant milestone for its Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
-        "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T22:53:46+00:00"
-      },
-      {
-        "id": "aeb168a989f1",
-        "title": "馬斯克躍史上最有錢首富！身價因 SpaceX 整併 xAI 衝破 8,000 億美元",
-        "summary": "特斯拉創辦人馬斯克（Elon Musk）躍居史上最有錢首富，因所創辦 SpaceX（太空探索）完成收購人工智慧 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/surpasses-800-billion/",
+        "id": "c16bd6988037",
+        "title": "光通訊產業前景俏  設備商 Ciena 重返標普 500 指數",
+        "summary": "光通訊設備商 Ciena 睽違 17 年再度成為標普 500 指數成分股；分析人士看好，AI 基礎設施需求強勁 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/ciena-rejoins-the-sp-500/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-04T22:50:47+00:00"
+        "published": "2026-02-05T03:50:50+00:00"
       },
       {
-        "id": "0599ff210c6e",
-        "title": "The Wayback Machine debuts a new plug-in designed to fix the internet’s broken links problem",
-        "summary": "Should a linked web page go offline, the new feature will then redirect readers to the archived versions, so that there is no drop in service. The tool also archives a user's own posts, helping to ensure their longevity.",
-        "url": "https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T22:27:12+00:00"
-      },
-      {
-        "id": "d3eef3cb1cd4",
-        "title": "Elon Musk’s SpaceX company town is getting a police department",
-        "summary": "The new department will have up to eight police officers and could be up and running in a few months.",
-        "url": "https://techcrunch.com/2026/02/04/elon-musks-spacex-company-town-is-getting-a-police-department/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T21:47:41+00:00"
-      },
-      {
-        "id": "a1a95a6402cb",
-        "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
-        "summary": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun.",
-        "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T21:45:32+00:00"
-      },
-      {
-        "id": "44781d878057",
-        "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
-        "summary": "The two-year-old startup confirms that it closed a Series A led by Lightspeed at $1 billion valuation.",
-        "url": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T21:39:26+00:00"
-      },
-      {
-        "id": "9102561f136b",
-        "title": "Amazon to begin testing AI tools for film and TV production next month",
-        "summary": "Amazon MGM Studios will reportedly begin a closed beta program in March to test its AI tools to help with film and TV production.",
-        "url": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T21:26:43+00:00"
-      },
-      {
-        "id": "117ddb14a3ce",
-        "title": "Should AI chatbots have ads? Anthropic says no.",
-        "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
-        "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T21:15:07+00:00"
-      },
-      {
-        "id": "1096e77784b2",
-        "title": "US House takes first step toward creating \"commercial\" deep space program",
-        "summary": "\"We will continue to rely on the ingenuity of the private sector.\"",
-        "url": "https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T21:01:05+00:00"
-      },
-      {
-        "id": "47944f53e389",
-        "title": "AMD 亮眼財報檔不住市場過高期待，股價持續狂瀉大跌逾 16%",
-        "summary": "儘管晶片大廠超微（AMD）繳出了營收與獲利雙雙打破歷史紀錄的 2025 年成績單，甚至優於市場預期，但資本市場 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/amds-impressive-financial-results-couldnt-dampen-the-markets-high-expectations/",
+        "id": "5219e943a78b",
+        "title": "銀價飆漲，央行下架庫存生肖套幣防套利",
+        "summary": "白銀價格驚驚漲，導致中央銀行發行的生肖套幣出現套利空間，去年底，央行察覺銷售狀況有異，緊急通知中華郵政全面下架 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/silver-prices-surge-as-central-banks-pull-zodiac-coin-sets/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-04T21:00:57+00:00"
+        "published": "2026-02-05T03:40:49+00:00"
       },
       {
-        "id": "e2881b2ed043",
-        "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
-        "summary": "Andreessen Horowitz just raised&#160;a whopping&#160;⁠new&#160;$15 billion&#160;in funding⁠.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;⁠infrastructure&#160;team⁠,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;...",
-        "url": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T20:24:12+00:00"
-      },
-      {
-        "id": "0f0406d74d4e",
-        "title": "Judge gives Musk bad news, says Trump hasn't intervened to block SEC lawsuit",
-        "summary": "Musk is stuck fighting SEC suit seeking $150M in disgorgements from his Twitter takeover.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/trump-ghosts-musk-wont-back-claims-sec-lawsuit-was-political-harassment/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T20:23:47+00:00"
-      },
-      {
-        "id": "72f97717f6c2",
-        "title": "Trump admin is \"destroying medical research,\" Senate report finds",
-        "summary": "In a Senate hearing Tuesday, NIH director dismissed concern about research chaos.",
-        "url": "https://arstechnica.com/health/2026/02/trump-admin-is-destroying-medical-research-senate-report-finds/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T20:02:22+00:00"
-      },
-      {
-        "id": "05dcc55cffb4",
-        "title": "\"Capture it all\": ICE urged to explain memo about collecting info on protesters",
-        "summary": "Sen. Markey: Database of peaceful protesters, if it exists, should be shut down.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/capture-it-all-ice-urged-to-explain-memo-about-collecting-info-on-protesters/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T18:32:38+00:00"
-      },
-      {
-        "id": "3c782f52e934",
-        "title": "GSK, take two: the bullish tone at the top is finally more convincing | Nils Pratley",
-        "summary": "New boss Luke Miels knows perils of overpromising but there is growing sense pharma firm is closer to filling potentialIt’s a miracle. A mere 25 years after Glaxo Wellcome and SmithKline Beecham merged to form GSK, the share price on Wednesday got back to where the combo started life – a shade over ...",
-        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/04/gsk-take-two-the-bullish-tone-at-the-top-is-finally-more-convincing",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T18:20:17+00:00"
-      },
-      {
-        "id": "c899ad2e0451",
-        "title": "英特爾攜手軟銀集團發展新一代記憶體，搶攻 AI 商機 2027 年原型亮相",
-        "summary": "處理器大廠英特爾宣布，與軟銀集團旗下子公司 SAIMEMORY 簽署合作協議，共同開發名為 Z-Angle M [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/intel-partners-with-softbank-group-to-develop-next-generation-memory/",
+        "id": "67b5c6085db1",
+        "title": "功率開關與 IC 供給吃緊！英飛凌宣布 4 月起調漲部分產品價格",
+        "summary": "車用半導體大廠英飛凌今（5 日）通知客戶，由於功率開關與相關 IC 供給持續吃緊，加上原物料與基礎設施成本攀升 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/infineon-technologies-raise-prices/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-04T18:15:37+00:00"
+        "published": "2026-02-05T03:39:56+00:00"
+      },
+      {
+        "id": "8270a4a734eb",
+        "title": "輝達縮減「T5T」郵件範圍，從全公司共享轉為高層限定",
+        "summary": "輝達（Nvidia）近期對其內部的「T5T」（Top 5 Things）電子郵件進行調整，限制了這些郵件的發送 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/nvidia-made-a-change-to-ceo-jensen-huangs-iconic-t5t-email-strategy/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T03:30:13+00:00"
+      },
+      {
+        "id": "fb8dfd7b7614",
+        "title": "學歷無用說誇大了，研究：有錢花的都是高學歷者",
+        "summary": "K 型經濟已經燃起貧富對立之火，原因是當下經濟已經分化成兩個世界，富者享受經濟暴發的果實，但其他人則飽受通膨之 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/education-degree-related-to-spend-more/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T03:20:57+00:00"
+      },
+      {
+        "id": "2692daac0f0f",
+        "title": "台積電：魏哲家拜會高市早苗，規劃熊本二廠改採 3 奈米",
+        "summary": "晶圓代工廠台積電董事長魏哲家今天與日本首相高市早苗會面，雙方洽談日本投資事宜，台積電發布新聞稿表示，考量人工智 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/jasm-3nm/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T03:20:38+00:00"
+      },
+      {
+        "id": "fea5ad9cd6c8",
+        "title": "西門子收購 Canopus AI，將 AI 量測技術導入半導體製造",
+        "summary": "西門子宣布收購 Canopus AI。該公司為運算及人工智慧（AI）驅動之量測解決方案的創新企業，致力於協助半 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/siemens-buy-canopus-ai/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T03:17:29+00:00"
+      },
+      {
+        "id": "bfa8bfef5548",
+        "title": "日本成長戰略鎖定 17 項投資！軍民兩用、防衛出口將成經濟引擎",
+        "summary": "日本首相高市早苗成立「日本成長戰略委員會」，正投入更多資源到機器人、半導體、量子運算及合成生物學等領域，這些技 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/japan-growth-strategy-committee/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T03:12:55+00:00"
+      },
+      {
+        "id": "0cb1ad9eeadf",
+        "title": "日本半導體新星 Rapidus 獲超過 10 億美元投資，IBM 將成為技術夥伴",
+        "summary": "日本半導體新創公司 Rapidus 於 2 月 4 日宣布，私募投資已超過 1,600 億日圓，該數字超出 2 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/rapidus-ibm-invest/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T03:10:34+00:00"
+      },
+      {
+        "id": "d0ea5fb88295",
+        "title": "供電能力增加 20 倍，新加坡 ST Engineering 推出混合動力 Terrex s5 裝甲車",
+        "summary": "在近期舉行的 2024 新加坡航空展中，該國軍工大廠 ST Engineering 再次展現了其在地面裝備的創 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/st-engineering-unveiled-new-hybrid-power-terrex-s5-hed/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T03:04:44+00:00"
+      },
+      {
+        "id": "a11f534e57f5",
+        "title": "IBM 執行長：量子計算 2029 年釋放商業潛力，AI 成為增長核心",
+        "summary": "在 2 月 4 日的世界政府峰會上，IBM 首席執行長阿溫德·克里希納（Arvind Krishna）強調了人 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/ibm-ceo-arvind-krishna-on-ai-quantum-computing/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T03:00:56+00:00"
+      },
+      {
+        "id": "095e9687ebcb",
+        "title": "Arm Q3 授權費收入不如預期  盤後重挫逾 7%",
+        "summary": "半導體矽智財（IP）龍頭 Arm 公布最新財測，看好本季營收將優於市場預期，主要受惠於 AI 晶片設計授權及資 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/arm-holdings-plc-q3-fye26-investor-presentation/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T02:50:45+00:00"
+      },
+      {
+        "id": "5b3bc589b78e",
+        "title": "假三星 SSD 連 Windows 都能騙過，但傳檔速度比 USB 2.0 還慢",
+        "summary": "某印度用戶購買三星 990 Pro 2TB 固態硬碟，外觀包裝完美無瑕，連 Windows 系統及檢測工具都能 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/fake-samsung-990-pro-passes-basic-checks-but-runs-slower-than-a-usb-2-0-drive/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T02:50:44+00:00"
+      },
+      {
+        "id": "d5d6e9ea01d3",
+        "title": "貝森特稱無權動用納稅錢為比特幣紓困、報價跳水",
+        "summary": "美國財政部長貝森特（Scott Bessent）坦承，他無權動用納稅人的錢為比特幣「紓困」，消息傳來衝擊報價跳 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/treasury-secretary-scott-bessent-says-he-has-no-authority-to-use-taxpayer-dollars-to-buy-bitcoin/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T02:40:42+00:00"
+      },
+      {
+        "id": "30cce41c253d",
+        "title": "Exynos 2600 光追效能傳領先高通，Basemark RT 登頂",
+        "summary": "根據 Wccftech 報導，三星下一代旗艦行動晶片 Exynos 2600 近期已現身 Basemark R [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/exynos-2600-basemark-rt/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T02:32:36+00:00"
+      },
+      {
+        "id": "815cf2cded4f",
+        "title": "德儀砸 75 億美元併 Silicon Laboratories，擴大無線連接晶片布局",
+        "summary": "德州儀器（Texas Instruments）週三（4 日）同意以 75 億美元收購晶片設計公司 Silico [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/texas-instruments-silicon-lab/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T02:32:04+00:00"
+      },
+      {
+        "id": "e412aeca5081",
+        "title": "美超微財報優、股價強彈  估毛利率將提升",
+        "summary": "AI 伺服器大廠美超微（Super Micro Computer）財報表現優於預期，股價 4 日大漲逾 13% [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/supermicro-announces-second-quarter-fiscal-year-2026-financial-results/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T02:30:02+00:00"
+      },
+      {
+        "id": "85cfb3e1d656",
+        "title": "傳輸速度升級八倍，NFC 論壇揭示 iPhone 未來 NFC 發展方向",
+        "summary": "全球近距離無線通訊（NFC）技術正迎來新一輪升級浪潮。稍早 NFC 論壇公布最新技術路線圖顯示，未來 NFC  [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/nfc-forum-iphone/",
+        "source": "TechNews 科技新報",
+        "published": "2026-02-05T02:26:36+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "7c08f2aa9f9d",
+        "title": "Spotlighting The World Factbook as We Bid a Fond Farewell",
+        "summary": "Spotlighting The World Factbook as We Bid a Fond Farewell\nSomewhat devastating news today from CIA:\n\nOne of CIA’s oldest and most recognizable intelligence publications, The World Factbook, has sunset.\n\nThere's not even a hint as to why they decided to stop maintaining this publication, which has be...",
+        "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-05T00:23:38+00:00"
+      },
       {
         "id": "abe4bc1ea778",
         "title": "Voxtral transcribes at the speed of sound",
@@ -283,7 +291,7 @@
       {
         "id": "905e08b664c7",
         "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
-        "summary": "“Too many GPUs makes you lazy,” says the French startup's vice president of science operations, as the company carves out a different path than the major US AI companies.",
+        "summary": "“Too many GPUs makes you lazy,” says the French startup’s vice president of science operations, as the company carves out a different path than the major US AI companies.",
         "url": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
         "source": "Feed: Artificial Intelligence Latest",
         "published": "2026-02-04T15:32:45+00:00"
@@ -291,7 +299,7 @@
       {
         "id": "905e08b664c7",
         "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
-        "summary": "“Too many GPUs makes you lazy,” says the French startup's vice president of science operations, as the company carves out a different path than the major US AI companies.",
+        "summary": "“Too many GPUs makes you lazy,” says the French startup’s vice president of science operations, as the company carves out a different path than the major US AI companies.",
         "url": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
         "source": "Business Latest",
         "published": "2026-02-04T15:32:45+00:00"
@@ -407,17 +415,17 @@
         "url": "https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/",
         "source": "Feed: Artificial Intelligence Latest",
         "published": "2026-02-03T19:55:36+00:00"
-      },
-      {
-        "id": "4447354c2345",
-        "title": "French headquarters of Elon Musk’s X raided by Paris cybercrime unit",
-        "summary": "Prosecutors’ announcement comes amid a hardening of European attitudes to social media firmsProsecutors have raided the French headquarters of Elon Musk’s social media platform X and summoned the tech billionaire and the company’s former chief executive for questioning as part of an investigation in...",
-        "url": "https://www.theguardian.com/technology/2026/feb/03/french-headquarters-elon-musk-x-raided-paris-cybercrime-unit",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-03T19:01:37+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "72eb0b972ae7",
+        "title": "美議員推新法杜絕詐騙廣告  Meta 恐首當其衝",
+        "summary": "美國跨黨派參議員 4 日提出打詐新法，要求社群平台業者對詐騙廣告負起治理責任，以防杜日益猖獗的詐騙案件，此舉恐 [&#8230;]",
+        "url": "https://infosecu.technews.tw/2026/02/05/us-senators-unveil-bill-to-prevent-scam-ads-on-social-media-platforms/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-05T04:20:30+00:00"
+      },
       {
         "id": "b74af14f3341",
         "title": "What Ultimately Is There? Metaphysics and the Ruliad",
@@ -609,14 +617,6 @@
         "url": "https://technews.tw/2026/01/29/meta-mark-zuckerberg-ai-smart-glasses/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-01-29T04:20:48+00:00"
-      },
-      {
-        "id": "cae39219b931",
-        "title": "馬克‧祖克柏：AI 將重塑 Meta 社群媒體成為全新未來！隻字不提元宇宙",
-        "summary": "Meta 28 日財報電話會議，執行長馬克·祖克柏（Mark Zuckerberg）強調，人工智慧（AI）將成 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/01/29/mark-zuckerberg-is-all-in-on-ai-as-the-new-social-media/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-01-29T03:00:10+00:00"
       }
     ]
   }
