@@ -1,30 +1,166 @@
 {
-  "updated_at": "2026-02-05T14:35:00.382996+00:00",
+  "updated_at": "2026-02-05T17:37:12.726193+00:00",
   "trending": [
-    "lea michele",
-    "jordan spieth",
-    "valve steam machine",
-    "olympic opening ceremony",
-    "fifa",
-    "national prayer breakfast 2026",
-    "thomas massie",
-    "hims stock",
-    "alycia parks",
-    "new zealand national cricket team vs united states national cricket team match scorecard"
+    "charlie kirk will",
+    "chris boucher",
+    "jackie robinson",
+    "cole anthony",
+    "matt fitzpatrick",
+    "haywood highsmith",
+    "james comer",
+    "mac mcclung",
+    "billie eilish stolen land",
+    "bo jackson"
   ],
   "categories": {
     "急(hr)": [
       {
-        "id": "3b76e69b67f1",
-        "title": "Bank of England governor announces ‘good news’ on inflation after holding interest rates, and ‘shock’ over Mandelson – business live",
-        "summary": "Bank splits 5-4 on interest rate decision, and hints that cuts are coming, as governor pays tribute to Alistair Darling over Mandelson revelationsBank of England keeps interest rates at 3.75% as inflation concerns persistThere are three things to watch out for from the Bank of England’s interest rat...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/05/bank-of-england-interest-rates-european-central-bank-inflation-stock-markets-business-live-news-updates",
+        "id": "fb99f0ea4362",
+        "title": "Secondary sales shift from founder windfalls to employee-retention tools",
+        "summary": "AI startups like Clay and ElevenLabs are using early liquidity to keep their best talent.",
+        "url": "https://techcrunch.com/2026/02/05/secondary-sales-shift-from-founder-windfalls-to-employee-retention-tools/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T17:30:00+00:00"
+      },
+      {
+        "id": "5eba6f4988b8",
+        "title": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
+        "summary": "Launched last September, Vibes lets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.",
+        "url": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T17:19:01+00:00"
+      },
+      {
+        "id": "264fb9ea2c92",
+        "title": "Rio Tinto and Glencore abandon revived $260bn merger plan",
+        "summary": "After weeks of talks mining companies say they cannot reach a deal that delivers value for shareholdersRio Tinto and Glencore have abandoned plans for a $260bn merger, walking away from a deal that would have created the world’s largest mining company.Rio Tinto said it was no longer considering a “m...",
+        "url": "https://www.theguardian.com/business/2026/feb/05/rio-tinto-glencore-abandon-260bn-merger-mining",
         "source": "Business | The Guardian",
-        "published": "2026-02-05T14:07:19+00:00"
+        "published": "2026-02-05T17:18:17+00:00"
+      },
+      {
+        "id": "9ed882f68169",
+        "title": "Pacific Fusion finds a cheaper way to make its fusion reactor work",
+        "summary": "The fusion power startup recently completed some experiments at Sandia National Laboratory's Z Machine and shared the results exclusively with TechCrunch.",
+        "url": "https://techcrunch.com/2026/02/05/pacific-fusion-finds-a-cheaper-way-to-make-its-fusion-reactor-work/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T17:00:00+00:00"
+      },
+      {
+        "id": "831fde6e152f",
+        "title": "This black hole \"burps\" with Death Star energy",
+        "summary": "Dubbed \"Jetty McJetface,\" the tidal disruption event's energy keeps getting brighter and should peak in 2027.",
+        "url": "https://arstechnica.com/science/2026/02/this-black-hole-burps-with-death-star-energy/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T16:02:41+00:00"
+      },
+      {
+        "id": "0be1c19944c3",
+        "title": "Bank of England keeps interest rates at 3.75% as inflation concerns persist",
+        "summary": "Bank indicates anti-inflation measures in Rachel Reeves’s budget likely to pave way for rate cuts in months aheadBusiness live – latest updatesUK inflation rises for first time in five months to 3.4% in DecemberBank of England policymakers have left interest rates unchanged at 3.75%, but indicated t...",
+        "url": "https://www.theguardian.com/business/2026/feb/05/bank-of-england-interest-rates-held-inflation-concerns",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T15:56:25+00:00"
+      },
+      {
+        "id": "2ad95ffcd41b",
+        "title": "Trump’s critical mineral reserve is an admission that the future is electric",
+        "summary": "The administration's $12 billion stockpile of critical minerals is aimed at blunting China's influence. But it also revels the direction of the global economy.",
+        "url": "https://techcrunch.com/2026/02/05/trumps-critical-mineral-reserve-is-an-admission-that-the-future-is-electric/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T15:48:44+00:00"
+      },
+      {
+        "id": "deb9d0825646",
+        "title": "NASA changes its mind, will allow Artemis astronauts to take iPhones to the Moon",
+        "summary": "\"We are giving our crews the tools to capture special moments.\"",
+        "url": "https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T15:46:18+00:00"
+      },
+      {
+        "id": "9af02c73d20e",
+        "title": "Data breach at govtech giant Conduent balloons, affecting millions more Americans",
+        "summary": "The ransomware attack at Conduent allowed hackers to steal a \"significant number of individuals’ personal information\" from the govtech giant's systems. Conduent handles personal and health data of more than 100 million people across America.",
+        "url": "https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T15:25:38+00:00"
+      },
+      {
+        "id": "498163ada213",
+        "title": "Tesla slipped behind VW in European EV sales last year",
+        "summary": "Electric vehicle sales increased by 29% in 2025, even as overall sales grew 2.2%.",
+        "url": "https://arstechnica.com/cars/2026/02/tesla-slipped-behind-vw-in-european-ev-sales-last-year/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T15:16:50+00:00"
+      },
+      {
+        "id": "6fb0a7abe19f",
+        "title": "Summer travel disruption fears over new biometric checks at European borders",
+        "summary": "Industry leaders urge EU to tell authorities to stand down entry-exit system controls if needed Travel industry leaders have called on the European Commission to tell all border authorities to stand down the new entry-exit system (EES) if needed as fears increase of summer disruption.European airpor...",
+        "url": "https://www.theguardian.com/world/2026/feb/05/travel-industry-fears-summer-disruption-biometric-checks-controls-ees-european-borders",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T15:13:10+00:00"
+      },
+      {
+        "id": "68ee4dbd74e1",
+        "title": "How cryptocurrency’s second largest coin missed out on the industry’s boom",
+        "summary": "A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and ether’s static priceUS crypto developer Danny Ryan submitted a proposal in November 2024 to Vitalik Buterin, the founder and symbolic leader of Ethereum, a prominent blockchain powering the world’s second...",
+        "url": "https://www.theguardian.com/technology/2026/feb/05/cryptocurrency-ethereum-bitcoin-industry",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T15:00:39+00:00"
+      },
+      {
+        "id": "0ddb857331ac",
+        "title": "Fundamental raises $255 million Series A with a new take on big data analysis",
+        "summary": "Fundamental has built a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises.",
+        "url": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T15:00:02+00:00"
+      },
+      {
+        "id": "f6cc1e911bfc",
+        "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
+        "summary": "Substack said that customer data was accessed in October 2025, but wasn't discovered until early February.",
+        "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T14:55:02+00:00"
+      },
+      {
+        "id": "ca9c2efc7af2",
+        "title": "ElevenLabs CEO: Voice is the next interface for AI",
+        "summary": "ElevenLabs CEO argued at Web Summit Qatar that voice is the next interface for AI, as OpenAI, Google, and Apple push conversational systems into wearables, new hardware, and everyday interactions.",
+        "url": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T14:41:12+00:00"
+      },
+      {
+        "id": "c8c024b9590f",
+        "title": "Steam Machine and Steam Frame delays are the latest product of the RAM crisis",
+        "summary": "Valve says it still hopes to ship both devices \"in the first half of the year.\"",
+        "url": "https://arstechnica.com/gadgets/2026/02/ram-shortage-delays-valves-steam-machine-desktop-and-steam-frame-headset/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T14:22:41+00:00"
+      },
+      {
+        "id": "6249afc2a089",
+        "title": "Increase of AI bots on the Internet sparks arms race",
+        "summary": "Publishers are rolling out more aggressive defenses.",
+        "url": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T14:21:20+00:00"
+      },
+      {
+        "id": "8921aba6d06f",
+        "title": "Dubai’s potent lure: the reality behind the real-estate frenzy",
+        "summary": "Bankers and billionaires are flocking to the city where income tax is zero but critics say it ignores money laundering – and pay disparities are huge Business live – latest updatesAidan Doyle was an estate agent in Liverpool before he decamped to Dubai and turned a £30,000 annual income into £500,00...",
+        "url": "https://www.theguardian.com/world/2026/feb/05/dubai-real-estate-fortune-hunters-entrepreneurs-population",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T14:10:18+00:00"
       },
       {
         "id": "fc26afdff65c",
-        "title": "More than 35m unexpected salmon deaths at Scottish farms sparks outcry",
+        "title": "Anger over Scottish salmon farm inspections amid 35m unexpected fish deaths",
         "summary": "Animal Equality says two surprise inspections in three years suggests ‘embarrassingly poor’ level of scrutinyScottish salmon farmers recorded more than 35m unexpected salmon deaths in just under three years but there were only two unannounced inspections of facilities over the same period.In Decembe...",
         "url": "https://www.theguardian.com/business/2026/feb/05/more-than-35m-unexpected-salmon-deaths-at-scottish-farms-sparks-outcry",
         "source": "Business | The Guardian",
@@ -39,9 +175,17 @@
         "published": "2026-02-05T13:18:45+00:00"
       },
       {
+        "id": "54e6418d5e5f",
+        "title": "‘We can learn from the old’: how architects are returning to the earth to build homes for the future",
+        "summary": "Rammed earth sourced from, or near, the grounds of a proposed building site is attracting attention as an eco-friendly construction materialFrom afar, the low-rise homestead perched in the Wiltshire countryside may look like any other rural outpost, but step closer and the texture of the walls revea...",
+        "url": "https://www.theguardian.com/environment/2026/feb/05/architects-rammed-earth-buildings-homes-future",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T13:00:37+00:00"
+      },
+      {
         "id": "db57fb3d6c22",
         "title": "Hollywood money fuelled record £2.8bn spend on UK film production last year",
-        "summary": "Growth expected to slow as Netflix pulls back projects to US to secure $80bn takeover of Warner Bros DiscoveryA spending spree by Hollywood studios and streamers pushed investment in film production in the UK to a record £2.8bn last year, but growth is expected to slow this year as Netflix switches ...",
+        "summary": "Growth could slow as Netflix pulls back projects to US to secure $80bn takeover of Warner Bros DiscoveryA spending spree by Hollywood studios and streamers pushed investment in film production in the UK to a record £2.8bn last year, but growth is expected to slow this year as Netflix switches invest...",
         "url": "https://www.theguardian.com/film/2026/feb/05/hollywood-record-spend-uk-film-production-last-year",
         "source": "Business | The Guardian",
         "published": "2026-02-05T12:50:14+00:00"
@@ -69,153 +213,33 @@
         "url": "https://www.theguardian.com/commentisfree/2026/feb/05/donald-trump-making-china-great-again",
         "source": "Business | The Guardian",
         "published": "2026-02-05T12:00:36+00:00"
-      },
-      {
-        "id": "07fd62783f84",
-        "title": "Spotify ventures into physical book sales, adds new audiobook features",
-        "summary": "Spotify users in the U.S. and the UK will soon be able to buy physical books in the app. There's also a new tool that syncs physical books to audiobooks.",
-        "url": "https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T12:00:00+00:00"
-      },
-      {
-        "id": "d484998303f7",
-        "title": "Why haven’t business elites stood up for Minnesota? | Daniel Altschuler",
-        "summary": "If US elites can find the courage to speak up, we can still prevent our country from descending into full-blown autocracyAlex Pretti – an ICU nurse documenting alleged cases of federal immigration agents’ overreach – was killed by federal agents in Minneapolis on 24 January. Just hours later, Minnes...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/05/minnesota-business-elites-immigration",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T11:00:27+00:00"
-      },
-      {
-        "id": "89de0f4ed0b0",
-        "title": "Shell to hand investors bigger payouts despite continued fall in profits",
-        "summary": "Company reports 22% drop in full-year earnings to $18.5bn but boosts dividends and extends share buybacks• Business live – latest updatesShell has said it will continue to hand investors bumper payouts despite reporting its third consecutive year of falling profits following weaker oil prices.The oi...",
-        "url": "https://www.theguardian.com/business/2026/feb/05/shell-increases-multibillion-pound-debt-pile-record-shareholder-payouts-oil-prices",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T10:52:12+00:00"
-      },
-      {
-        "id": "af1aedb6b018",
-        "title": "How can Britain regain its manufacturing power? Start thinking like a developing country | Larry Elliott",
-        "summary": "Since the 70s, China has turned around its economy – from introducing subsidies to mining untapped talent, these are the lessons Starmer must take note ofMargaret Thatcher and Deng Xiaoping were both on a mission when they came to power within months of each other at the tail end of the 1970s. Thatc...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/05/britain-manufacturing-power-developing-country-lessons-china",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T08:00:25+00:00"
-      },
-      {
-        "id": "4205f4510647",
-        "title": "Museums incorporate \"scent of the afterlife\" into Egyptian exhibits",
-        "summary": "“Smell added an emotional and sensory depth that text labels alone could never provide.”",
-        "url": "https://arstechnica.com/science/2026/02/museums-incorporate-scent-of-the-afterlife-into-egyptian-exhibits/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-05T05:01:57+00:00"
-      },
-      {
-        "id": "2e8b241a92ac",
-        "title": "Sanctions having ‘significant impact’ on Russian economy, says EU special envoy",
-        "summary": "Exclusive: David O’Sullivan says war-based economy may be nearing point of becoming ‘unsustainable’Western sanctions are having a “significant impact” on the Russian economy, the EU’s sanctions envoy has said, ahead of the fourth anniversary of Moscow’s full-scale invasion of Ukraine.David O’Sulliva...",
-        "url": "https://www.theguardian.com/world/2026/feb/05/sanctions-significant-impact-russian-economy-interview-eu-special-envoy-david-osullivan",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T05:00:21+00:00"
-      },
-      {
-        "id": "072715feed62",
-        "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
-        "summary": "He posted a novella-sized rant that devolved into to calling his rival \"dishonest\" and \"authoritarian.\"",
-        "url": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T00:45:11+00:00"
-      },
-      {
-        "id": "cd68ec07243a",
-        "title": "As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users",
-        "summary": "The company is engaged in a strategy to diversify its revenue sources as it heads into the new year.",
-        "url": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T00:07:59+00:00"
-      },
-      {
-        "id": "d13285fad77a",
-        "title": "Minister defends long delays to UK military spending plan",
-        "summary": "Luke Pollard says blueprint expected last autumn is ‘a bigger task than many people outside defence realise’\n A government minister has defended long delays to a military spending plan that are also stalling the UK’s next-generation Tempest fighter jet programme, but refused to say when it will be c...",
-        "url": "https://www.theguardian.com/politics/2026/feb/05/minister-luke-pollard-defends-long-delays-uk-military-spending-plan",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T00:01:15+00:00"
-      },
-      {
-        "id": "5314f2db2182",
-        "title": "Flawed economic models mean climate crisis could crash global economy, experts warn",
-        "summary": "States and financial bodies using modelling that ignores shocks from extreme weather and climate tipping points Flawed economic models mean the accelerating impact of the climate crisis could lead to a global financial crash, experts warn.Recovery would be far harder than after the 2008 financial cr...",
-        "url": "https://www.theguardian.com/environment/2026/feb/05/flawed-economic-models-mean-climate-crisis-could-crash-global-economy-experts-warn",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T00:01:15+00:00"
-      },
-      {
-        "id": "7d865d1dc2e7",
-        "title": "Mundi Ventures closes on €750M for Kembara, its largest deep tech and climate fund",
-        "summary": "Spain-based deeptech and climate megafund Kembara has just completed a €750 million first close toward its €1 billion target.",
-        "url": "https://techcrunch.com/2026/02/04/mundi-ventures-closes-on-e750m-for-kembara-its-largest-deep-tech-and-climate-fund/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T00:01:00+00:00"
-      },
-      {
-        "id": "2b1c75477dd7",
-        "title": "Author Correction: PHGDH heterogeneity potentiates cancer cell dissemination and metastasis",
-        "summary": "Nature, Published online: 05 February 2026; doi:10.1038/s41586-026-10202-6Author Correction: PHGDH heterogeneity potentiates cancer cell dissemination and metastasis",
-        "url": "https://www.nature.com/articles/s41586-026-10202-6",
-        "source": "Nature",
-        "published": "2026-02-05T00:00:00+00:00"
-      },
-      {
-        "id": "36eb7a4db029",
-        "title": "These mysterious ridges could be the secret to younger skin",
-        "summary": "Nature, Published online: 05 February 2026; doi:10.1038/d41586-026-00364-8Rete ridges could hold the secrets to revitalising skin.",
-        "url": "https://www.nature.com/articles/d41586-026-00364-8",
-        "source": "Nature",
-        "published": "2026-02-05T00:00:00+00:00"
-      },
-      {
-        "id": "db603f035b0d",
-        "title": "First ‘practical PhDs’ awarded in China — for products rather than papers",
-        "summary": "Nature, Published online: 05 February 2026; doi:10.1038/d41586-026-00356-8The programme is designed to train more elite engineers who can help boost the country’s innovation.",
-        "url": "https://www.nature.com/articles/d41586-026-00356-8",
-        "source": "Nature",
-        "published": "2026-02-05T00:00:00+00:00"
-      },
-      {
-        "id": "cec0d288275e",
-        "title": "NASA’s latest telescope is a feat of early-career leadership",
-        "summary": "Nature, Published online: 05 February 2026; doi:10.1038/d41586-026-00253-0The Pandora satellite provides career training grounds while observing exoplanets.",
-        "url": "https://www.nature.com/articles/d41586-026-00253-0",
-        "source": "Nature",
-        "published": "2026-02-05T00:00:00+00:00"
-      },
-      {
-        "id": "dd6dfb391990",
-        "title": "Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs",
-        "summary": "Having raised a €30 million Series A round led by CapitalG, business identity verification startup Duna is now among the most well-capitalized European startups founded by Stripe alumni.",
-        "url": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T23:49:18+00:00"
-      },
-      {
-        "id": "d8675af27ee2",
-        "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
-        "summary": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
-        "url": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T23:28:31+00:00"
-      },
-      {
-        "id": "a106ba706265",
-        "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
-        "summary": "The window to patch vulnerabilities is shrinking rapidly.",
-        "url": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T23:08:04+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "cd897fbdb49e",
+        "title": "London man angry at ‘Orwellian’ incident in supermarket using facial recognition tech",
+        "summary": "‘I shouldn’t have to prove I am innocent,’ said man misidentified by Sainsbury’s staff using Facewatch systemA man was ordered to leave a supermarket in London after staff misidentified him using controversial new facial recognition technology.Warren Rajah was told to abandon his shopping and leave ...",
+        "url": "https://www.theguardian.com/technology/2026/feb/05/london-man-sainsburys-facial-recognition-facewatch",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-05T16:47:44+00:00"
+      },
+      {
+        "id": "5c49ba058c30",
+        "title": "Cornish tin mine could reopen with Trump administration investment",
+        "summary": "South Crofty site could get $225m funding as US seeks to secure supply of critical metalDonald Trump has aggressively pursued investment into hi-tech industries in recent months, but the US administration has now set its sights on a more traditional sector: tin mining in Cornwall.The South Crofty mi...",
+        "url": "https://www.theguardian.com/business/2026/feb/05/trump-administration-cornish-tin-mine-south-crofty",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-05T15:11:57+00:00"
+      },
+      {
+        "id": "68ee4dbd74e1",
+        "title": "How cryptocurrency’s second largest coin missed out on the industry’s boom",
+        "summary": "A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and ether’s static priceUS crypto developer Danny Ryan submitted a proposal in November 2024 to Vitalik Buterin, the founder and symbolic leader of Ethereum, a prominent blockchain powering the world’s second...",
+        "url": "https://www.theguardian.com/technology/2026/feb/05/cryptocurrency-ethereum-bitcoin-industry",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-05T15:00:39+00:00"
+      },
       {
         "id": "d6a6f3d4bd74",
         "title": "How iPhones Made a Surprising Comeback in China",
@@ -231,14 +255,6 @@
         "url": "https://www.theguardian.com/thefilter/2025/jan/15/best-treadmills-running-machines",
         "source": "Technology | The Guardian",
         "published": "2026-02-05T10:00:16+00:00"
-      },
-      {
-        "id": "3abef9ce32ae",
-        "title": "‘In the end, you feel blank’: India’s female workers watching hours of abusive content to train AI",
-        "summary": "Women in rural communities describe trauma of moderating violent and pornographic content for global tech companiesOn the veranda of her family’s home, with her laptop balanced on a mud slab built into the wall, Monsumi Murmu works from one of the few places where the mobile signal holds. The famili...",
-        "url": "https://www.theguardian.com/global-development/2026/feb/05/in-the-end-you-feel-blank-indias-female-workers-watching-hours-of-abusive-content-to-train-ai",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-05T08:00:24+00:00"
       },
       {
         "id": "b743174c123f",
@@ -337,6 +353,14 @@
         "published": "2026-02-04T16:00:47+00:00"
       },
       {
+        "id": "54d033380523",
+        "title": "告別流量成癮：生成式AI浪潮下，台灣新聞媒體的生存保衛戰",
+        "summary": "當新聞業正同時被數位平台與創作者經濟高牆擠壓，唯一能突圍的，仍是一份人工智慧無法代勞的品牌信任。",
+        "url": "https://www.twreporter.org/a/taiwan-news-media-faces-survival-battle-against-generative-ai-wave",
+        "source": "報導者",
+        "published": "2026-02-04T16:00:00+00:00"
+      },
+      {
         "id": "905e08b664c7",
         "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
         "summary": "“Too many GPUs makes you lazy,” says the French startup’s vice president of science operations, as the company carves out a different path than the major US AI companies.",
@@ -391,33 +415,25 @@
         "url": "https://www.wired.com/story/pregnancy-zero-trimester-influencers/",
         "source": "Science Latest",
         "published": "2026-02-04T11:00:00+00:00"
-      },
-      {
-        "id": "599dd51edc69",
-        "title": "AI Bots Are Now a Significant Source of Web Traffic",
-        "summary": "New data shows AI bots pushing deeper into the web, prompting publishers to roll out more aggressive defenses.",
-        "url": "https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/",
-        "source": "Business Latest",
-        "published": "2026-02-04T10:30:00+00:00"
-      },
-      {
-        "id": "ebdaec1cb794",
-        "title": "HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims",
-        "summary": "Experts worry Robert F. Kennedy Jr.’s Health Department will use an internal AI tool to analyze vaccine injury claims in a way that furthers his anti-vaccine agenda.",
-        "url": "https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/",
-        "source": "Science Latest",
-        "published": "2026-02-04T10:00:00+00:00"
-      },
-      {
-        "id": "5c668a579a7e",
-        "title": "Pinterest sacks two engineers for creating software to identify fired workers",
-        "summary": "Digital pinboard business cutting 15% of workforce as it invests heavily in AI  Pinterest has fired two engineers who created a software tool to identify which workers had lost their jobs in a recent round of cuts and then shared the information, according to reports.The digital pinboard business an...",
-        "url": "https://www.theguardian.com/technology/2026/feb/04/pinterest-sacks-two-engineers-for-software-identify-fired-workers",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-04T09:48:34+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "7eeece706984",
+        "title": "與中央警察大學簽訂學術合作備忘錄 中央研究院人文社會科學研究中心(地理資訊科學研究專題中心)與中央警察大學警政管理學院暨警察科技學院簽訂學術合作備忘錄，期待應用資訊技術於警政管理及科技之跨學科綜合研究，以及基礎地理空間資料與技術的共享與交流...",
+        "summary": "與中央警察大學簽訂學術合作備忘錄 中央研究院人文社會科學研究中心(地理資訊科學研究專題中心)與中央警察大學警政管理學院暨警察科技學院簽訂學術合作備忘錄，期待應用資訊技術於警政管理及科技之跨學科綜合研究，以及基礎地理空間資料與技術的共享與交流，有效期間自生效日起至2029年1月1日。 學術合作備忘錄簽署儀式由警察科技學院吳貫遠院長與中央研究院人社中心詹大千副主任代表雙方致詞並完成簽署，中央警察大學各單位主管蒞臨觀禮，共同見證雙方深化學術交流與合作的重要時刻。",
+        "url": "https://www.facebook.com/asgis/posts/pfbid02E6q9ivPXHMBwLHBUz4Q1R7MM7cUS8snTYhB96j2pZ913j7E9cPVCKfWZT8PXRCM9l",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-05T14:53:16+00:00"
+      },
+      {
+        "id": "bb60007bce9c",
+        "title": "與中央警察大學簽訂學術合作備忘錄",
+        "summary": "中央研究院人文社會科學研究中心(地理資訊科學研究專題中心)與中央警察大學警政管理學院暨警察科技學院簽訂學術合作 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/mou_cpu_2026/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-05T14:52:10+00:00"
+      },
       {
         "id": "7811e1449ed6",
         "title": "【地圖俱樂部】 當分水嶺遇上殖民測量：1907年法國地圖與泰柬邊界爭端 泰國與柬埔寨因長年邊界／主權爭議，2025 年曾兩度爆發致命衝突：先在 7 月出現為期數日的激烈交火並達成一度由區域斡旋的停火，但12 月初戰火再起，最新一輪衝突約 2...",
@@ -461,7 +477,7 @@
       {
         "id": "8cd1759ac8fe",
         "title": "Low end theory",
-        "summary": "How do you create a bassline? This question is not just for bass players. It’s for producers and songwriters, who are likely to be programming their own bass parts in their DAW. Keyboard players can do basslines in their left hand; guitarists do them with their thumbs. The bassline’s main job is to ...",
+        "summary": "How do you create a bassline? This question is not just for bass players. It’s for producers and songwriters, who are likely to be programming their own bass parts in their DAW. Keyboard players can do basslines in their left hand; guitarists do them with their thumbs. And even if you never create o...",
         "url": "https://www.ethanhein.com/wp/2026/low-end-theory/",
         "source": "The Ethan Hein Blog",
         "published": "2026-02-04T13:44:23+00:00"
@@ -601,22 +617,6 @@
         "url": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html",
         "source": "阮一峰的网络日志",
         "published": "2026-01-30T00:10:32+00:00"
-      },
-      {
-        "id": "15958741525b",
-        "title": "Kimi 的一体化，Manus 的分层",
-        "summary": "一、 前天，Kimi 突然发布了旗舰模型 K2.5，事先没有一点风声。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-01-29T08:02:30+00:00"
-      },
-      {
-        "id": "d3b00a3f761b",
-        "title": "Tom Johnson and a rational theory of harmony",
-        "summary": ".",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2591899?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2026-01-29T07:06:01+00:00"
       }
     ]
   }
