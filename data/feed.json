@@ -1,218 +1,218 @@
 {
-  "updated_at": "2026-02-05T05:10:01.682992+00:00",
+  "updated_at": "2026-02-05T08:02:11.825321+00:00",
   "trending": [
-    "ethan hawke",
-    "warriors roster",
-    "ian mckellen",
-    "nintendo direct",
-    "porzingis injury",
-    "utah mammoth",
-    "stephon castle",
-    "harrison barnes",
-    "trayce jackson-davis",
-    "arizona state vs utah"
+    "influencer marketing",
+    "trade deadline nba trades",
+    "tennis scores today",
+    "affordable housing",
+    "polar vortex forecast",
+    "stock market news today",
+    "latest earthquake near me",
+    "new zealand breakers",
+    "bts lightsticks",
+    "where to watch nfl games"
   ],
   "categories": {
     "急(hr)": [
       {
-        "id": "27db4dd4b5a8",
-        "title": "K 型經濟繼續分化社會，牛津：至少再持續十年",
-        "summary": "市場對科技的大規模投資，已經提升家庭的平均財富，而且這種累積財富的趨勢，還會持續可能長達十年。但牛津經濟研究院 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/k-economy-will-last-10-years-more/",
+        "id": "882fa5100d50",
+        "title": "AI 機櫃出貨續放量，鴻海 1 月營收創同期新高、首季淡季表現看俏",
+        "summary": "受惠 AI 伺服器需求持續升溫，鴻海公布 2026 年 1 月營收達新台幣 7,300 億元，雖較前一月減少  [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/ai-server-foxconn-jan/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T04:55:18+00:00"
+        "published": "2026-02-05T08:01:19+00:00"
       },
       {
-        "id": "72eb0b972ae7",
-        "title": "美議員推新法杜絕詐騙廣告  Meta 恐首當其衝",
-        "summary": "美國跨黨派參議員 4 日提出打詐新法，要求社群平台業者對詐騙廣告負起治理責任，以防杜日益猖獗的詐騙案件，此舉恐 [&#8230;]",
-        "url": "https://infosecu.technews.tw/2026/02/05/us-senators-unveil-bill-to-prevent-scam-ads-on-social-media-platforms/",
+        "id": "e88f69bc0943",
+        "title": "GitHub 擁抱 Claude、Codex，編碼代理程式進駐平台",
+        "summary": "GitHub 正式在平台內直接提供 Anthropic 的 Claude 與 OpenAI 的 Codex 這 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/claude-and-codex-are-now-available-in-public-preview-on-github/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T04:20:30+00:00"
+        "published": "2026-02-05T07:54:37+00:00"
       },
       {
-        "id": "5ce8139b7977",
-        "title": "AI 機器人上網聊天抱怨人類，Moltbook 平台引熱議",
-        "summary": "美國一個專為 AI 代理人（AI Agent）打造的社群平台 Moltbook 引發熱議；有如科幻小說情節，機 [&#8230;]",
-        "url": "https://ccc.technews.tw/2026/02/05/moltbook-ai-bot-complains-about-humans-in-chat/",
+        "id": "d355e1797690",
+        "title": "全福神經營養性角膜炎新藥收案過半！青光眼新藥二期下半年有望收案完成",
+        "summary": "全福生技董事長林羣今日分享全力投入三項眼科新藥的二期臨床試驗，其中神經營養性角膜炎新藥 BRM424 二期試驗 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/new-drug-for-neurotrophic-keratitis/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T04:10:56+00:00"
+        "published": "2026-02-05T07:48:05+00:00"
       },
       {
-        "id": "b09f292809bd",
-        "title": "Anthropic 超級盃廣告暗諷 ChatGPT 導入廣告，OpenAI 奧特曼怎麼看？",
-        "summary": "Anthropic 宣布旗下 AI 聊天機器人 Claude 不會導入廣告，這與 OpenAI 公布將在 Ch [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/ads-are-coming-to-ai-except-claude/",
+        "id": "ed65f6d09f5d",
+        "title": "跟著台積電熊本廠前進日本！太普高砸 50 億投資兩大建案跨足房地產",
+        "summary": "台積電董事長魏哲家與日本首相高市早苗今日宣布已敲定熊本二廠將導入 3 奈米製程，而跟著台積電前進日本的太普高， [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/tsmc-kumamoto-plant/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T04:04:23+00:00"
+        "published": "2026-02-05T07:39:39+00:00"
       },
       {
-        "id": "d3b04678bf72",
-        "title": "Axiom 稱旗下 AI 工具破解四道數學難題！AI 推理力進步或對資安系統有重大影響",
-        "summary": "數學界的人工智慧進步也引起關注。最近 Axiom 新創公司宣稱旗下 AI 工具 AxiomProver 成功解 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/a-new-ai-math-startup-just-cracked-4-previously-unsolved-problems/",
-        "source": "TechNews 科技新報",
-        "published": "2026-02-05T04:00:48+00:00"
+        "id": "3b76e69b67f1",
+        "title": "Bank of England expected to leave interest rates on hold after rise in inflation – business live",
+        "summary": "Rolling coverage of the latest economic and financial newsThe slump in bitcoin is continuing today, wiping out all the gains since Donald Trump’s election victory over a year ago.The world’s largest crypto currency dropped as low as $70,052 early today, its lowest level since 6 November 2024, the da...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/05/bank-of-england-interest-rates-european-central-bank-inflation-stock-markets-business-live-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T07:33:46+00:00"
       },
       {
-        "id": "32cf5cee2bd4",
-        "title": "木星體型最新測量報告出爐，比過去估算更小、更平坦",
-        "summary": "木星毫無疑問是太陽系最大行星，而過去科學家基於 NASA 先鋒 10 號、先鋒 11 號及航海家 1 號、航海 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/radio-occultation-jupiter-juno/",
+        "id": "1811d79d761a",
+        "title": "貝瑞「死亡螺旋」預言成真？比特幣、白銀急殺",
+        "summary": "加密貨幣、貴金屬市場賣壓再現，比特幣 5 日跌至逼近 7 萬美元關卡，白銀期貨盤中下殺 17%，與大賣空本尊貝 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/bitcoin-and-silver-prices-fell/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:58:04+00:00"
+        "published": "2026-02-05T07:20:55+00:00"
       },
       {
-        "id": "8aca96b96d58",
-        "title": "AI 用電推升燃氣渦輪需求，三菱重工獲利年增逾 15%",
-        "summary": "根據日經報導，美國人工智慧帶動電力需求快速攀升，推升全球燃氣渦輪市場升溫。日本三菱重工預估，截至明年 3 月止 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/mitsubishi-heavy-record/",
+        "id": "0c83280ffad2",
+        "title": "食品通膨又復燃，美國牛排價格五年大漲 72%",
+        "summary": "誰說通貨膨脹降溫，去年底開始食品通膨出現再次抬頭的不祥之兆。去年底美國「家庭食品」的消費者物價指數大幅上漲，五 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/food-inflation/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:52:51+00:00"
+        "published": "2026-02-05T07:16:11+00:00"
       },
       {
-        "id": "c16bd6988037",
-        "title": "光通訊產業前景俏  設備商 Ciena 重返標普 500 指數",
-        "summary": "光通訊設備商 Ciena 睽違 17 年再度成為標普 500 指數成分股；分析人士看好，AI 基礎設施需求強勁 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/ciena-rejoins-the-sp-500/",
+        "id": "abf490703bd4",
+        "title": "茂達1月營收6.83 億元",
+        "summary": "茂達（6138）今（5）日公布 1 月營收，達 6.83 億元，較 12 月成長 7.8%，較去年同期成長 1 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/anpec-6138-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:50:50+00:00"
+        "published": "2026-02-05T07:10:04+00:00"
       },
       {
-        "id": "5219e943a78b",
-        "title": "銀價飆漲，央行下架庫存生肖套幣防套利",
-        "summary": "白銀價格驚驚漲，導致中央銀行發行的生肖套幣出現套利空間，去年底，央行察覺銷售狀況有異，緊急通知中華郵政全面下架 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/silver-prices-surge-as-central-banks-pull-zodiac-coin-sets/",
+        "id": "cc4e72928a2a",
+        "title": "雲豹能源下一個十年挑戰千億營收！天能綠電及台普威第二季陸續掛牌",
+        "summary": "雲豹能源今年迎接十週年，總經理趙書閔表示，從「再生能源整合第一品牌」到「循環經濟發展整合集團」，下一個十年將邁 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/asia-low-carbon-new-energy/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:40:49+00:00"
+        "published": "2026-02-05T07:08:12+00:00"
       },
       {
-        "id": "67b5c6085db1",
-        "title": "功率開關與 IC 供給吃緊！英飛凌宣布 4 月起調漲部分產品價格",
-        "summary": "車用半導體大廠英飛凌今（5 日）通知客戶，由於功率開關與相關 IC 供給持續吃緊，加上原物料與基礎設施成本攀升 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/infineon-technologies-raise-prices/",
+        "id": "0a3f9dab5b19",
+        "title": "新普1月營收月減24.5%",
+        "summary": "新普（6121）公布 1 月合併營收 59.41 億元，較上（12）月成長 -24.5%，與去年同期相比為年增 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/smp-6121-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:39:56+00:00"
+        "published": "2026-02-05T07:00:13+00:00"
       },
       {
-        "id": "8270a4a734eb",
-        "title": "輝達縮減「T5T」郵件範圍，從全公司共享轉為高層限定",
-        "summary": "輝達（Nvidia）近期對其內部的「T5T」（Top 5 Things）電子郵件進行調整，限制了這些郵件的發送 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/nvidia-made-a-change-to-ceo-jensen-huangs-iconic-t5t-email-strategy/",
+        "id": "889c8266ea10",
+        "title": "信驊1月營收9.00 億元",
+        "summary": "信驊（5274）今（5）日公布 1 月營收，達 9.00 億元，較 12 月成長 3.2%，較去年同期成長 2 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/aspeed-5274-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:30:13+00:00"
+        "published": "2026-02-05T07:00:12+00:00"
       },
       {
-        "id": "fb8dfd7b7614",
-        "title": "學歷無用說誇大了，研究：有錢花的都是高學歷者",
-        "summary": "K 型經濟已經燃起貧富對立之火，原因是當下經濟已經分化成兩個世界，富者享受經濟暴發的果實，但其他人則飽受通膨之 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/education-degree-related-to-spend-more/",
+        "id": "0096b40761c1",
+        "title": "穩懋1月營收14.68 億元",
+        "summary": "穩懋（3105）今（5）日公布 1 月營收，達 14.68 億元，較 12 月成長 -9.1%，較去年同期成長 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/win-3105-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:20:57+00:00"
+        "published": "2026-02-05T07:00:06+00:00"
       },
       {
-        "id": "2692daac0f0f",
-        "title": "台積電：魏哲家拜會高市早苗，規劃熊本二廠改採 3 奈米",
-        "summary": "晶圓代工廠台積電董事長魏哲家今天與日本首相高市早苗會面，雙方洽談日本投資事宜，台積電發布新聞稿表示，考量人工智 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/jasm-3nm/",
+        "id": "732302e81305",
+        "title": "台積電魏哲家會見高市早苗，日政府力挺熊本 3 奈米晶圓廠投產",
+        "summary": "台積電董事長魏哲家等高層今（5）日傳出前往首相官邸，與日本首相高市早苗會面，並告知日本熊本二廠將量產 3 奈米 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/tsmc-3nm-takaichi-sanae-cc/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:20:38+00:00"
+        "published": "2026-02-05T06:50:35+00:00"
       },
       {
-        "id": "fea5ad9cd6c8",
-        "title": "西門子收購 Canopus AI，將 AI 量測技術導入半導體製造",
-        "summary": "西門子宣布收購 Canopus AI。該公司為運算及人工智慧（AI）驅動之量測解決方案的創新企業，致力於協助半 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/siemens-buy-canopus-ai/",
+        "id": "50be77b8795d",
+        "title": "群聯1月營收月增20.0%",
+        "summary": "群聯（8299）公布 1 月合併營收 104.52 億元，較上（12）月成長 20.0%，與去年同期相比為年增 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/phison-8299-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:17:29+00:00"
+        "published": "2026-02-05T06:50:08+00:00"
       },
       {
-        "id": "bfa8bfef5548",
-        "title": "日本成長戰略鎖定 17 項投資！軍民兩用、防衛出口將成經濟引擎",
-        "summary": "日本首相高市早苗成立「日本成長戰略委員會」，正投入更多資源到機器人、半導體、量子運算及合成生物學等領域，這些技 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/japan-growth-strategy-committee/",
+        "id": "259fb9db0845",
+        "title": "智易1月營收月增0.6%",
+        "summary": "智易（3596）公布 1 月合併營收 42.33 億元，較上（12）月成長 0.6%，與去年同期相比為年增 7 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/arcadyan-3596-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:12:55+00:00"
+        "published": "2026-02-05T06:50:04+00:00"
       },
       {
-        "id": "0cb1ad9eeadf",
-        "title": "日本半導體新星 Rapidus 獲超過 10 億美元投資，IBM 將成為技術夥伴",
-        "summary": "日本半導體新創公司 Rapidus 於 2 月 4 日宣布，私募投資已超過 1,600 億日圓，該數字超出 2 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/rapidus-ibm-invest/",
+        "id": "54965f9c2167",
+        "title": "生髮藥新創上市首日翻倍飆  尚無營收但潛力受矚",
+        "summary": "專門開發落髮治療藥物的小型生技公司 Veradermics 上市首日飆漲 122%，該公司目前尚未產生營收，但 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/veradermics-shares-double-on-ipo-debut/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:10:34+00:00"
+        "published": "2026-02-05T06:40:36+00:00"
       },
       {
-        "id": "d0ea5fb88295",
-        "title": "供電能力增加 20 倍，新加坡 ST Engineering 推出混合動力 Terrex s5 裝甲車",
-        "summary": "在近期舉行的 2024 新加坡航空展中，該國軍工大廠 ST Engineering 再次展現了其在地面裝備的創 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/st-engineering-unveiled-new-hybrid-power-terrex-s5-hed/",
+        "id": "356cfcd5f83c",
+        "title": "矽格1月營收月增1.3%",
+        "summary": "矽格（6257）公布 1 月合併營收 18.27 億元，較上（12）月成長 1.3%，與去年同期相比為年增 1 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/sigurd-6257-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:04:44+00:00"
+        "published": "2026-02-05T06:40:12+00:00"
       },
       {
-        "id": "a11f534e57f5",
-        "title": "IBM 執行長：量子計算 2029 年釋放商業潛力，AI 成為增長核心",
-        "summary": "在 2 月 4 日的世界政府峰會上，IBM 首席執行長阿溫德·克里希納（Arvind Krishna）強調了人 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/ibm-ceo-arvind-krishna-on-ai-quantum-computing/",
+        "id": "eaea4bf93691",
+        "title": "聯亞1月營收月增17.4%",
+        "summary": "聯亞（3081）公布 1 月合併營收 2.71 億元，較上（12）月成長 17.4%，與去年同期相比為年增 1 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/landmark-3081-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T03:00:56+00:00"
+        "published": "2026-02-05T06:40:08+00:00"
       },
       {
-        "id": "095e9687ebcb",
-        "title": "Arm Q3 授權費收入不如預期  盤後重挫逾 7%",
-        "summary": "半導體矽智財（IP）龍頭 Arm 公布最新財測，看好本季營收將優於市場預期，主要受惠於 AI 晶片設計授權及資 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/arm-holdings-plc-q3-fye26-investor-presentation/",
+        "id": "c5bd4054e72e",
+        "title": "台光電1月營收月增24.8%",
+        "summary": "台光電（2383）公布 1 月合併營收 108.63 億元，較上（12）月成長 24.8%，與去年同期相比為年 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/emc-2383-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T02:50:45+00:00"
+        "published": "2026-02-05T06:40:07+00:00"
       },
       {
-        "id": "5b3bc589b78e",
-        "title": "假三星 SSD 連 Windows 都能騙過，但傳檔速度比 USB 2.0 還慢",
-        "summary": "某印度用戶購買三星 990 Pro 2TB 固態硬碟，外觀包裝完美無瑕，連 Windows 系統及檢測工具都能 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/fake-samsung-990-pro-passes-basic-checks-but-runs-slower-than-a-usb-2-0-drive/",
+        "id": "2e9388d69656",
+        "title": "亞馬遜傳將擴大採用 AI  加速影視產出效率",
+        "summary": "美國科技巨頭亞馬遜（Amazon）旗下握有影音串流平台 Prime Video，並於 2022 年收購知名電影 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/amazon-plans-to-use-ai-to-speed-up-tv-and-film-production/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T02:50:44+00:00"
+        "published": "2026-02-05T06:30:18+00:00"
       },
       {
-        "id": "d5d6e9ea01d3",
-        "title": "貝森特稱無權動用納稅錢為比特幣紓困、報價跳水",
-        "summary": "美國財政部長貝森特（Scott Bessent）坦承，他無權動用納稅人的錢為比特幣「紓困」，消息傳來衝擊報價跳 [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/treasury-secretary-scott-bessent-says-he-has-no-authority-to-use-taxpayer-dollars-to-buy-bitcoin/",
+        "id": "0d6e3aca934c",
+        "title": "是方1月營收3.16 億元",
+        "summary": "是方（6561）今（5）日公布 1 月營收，達 3.16 億元，較 12 月成長 1.5%，較去年同期成長 - [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/chief-6561-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T02:40:42+00:00"
+        "published": "2026-02-05T06:30:14+00:00"
       },
       {
-        "id": "30cce41c253d",
-        "title": "Exynos 2600 光追效能傳領先高通，Basemark RT 登頂",
-        "summary": "根據 Wccftech 報導，三星下一代旗艦行動晶片 Exynos 2600 近期已現身 Basemark R [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/exynos-2600-basemark-rt/",
+        "id": "aa70e46e70c4",
+        "title": "廣錠1月營收812.00 萬元",
+        "summary": "廣錠（6441）今（5）日公布 1 月營收，達 812.00 萬元，較 12 月成長 32.8%，較去年同期成 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/ibg-6441-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T02:32:36+00:00"
+        "published": "2026-02-05T06:30:04+00:00"
       },
       {
-        "id": "815cf2cded4f",
-        "title": "德儀砸 75 億美元併 Silicon Laboratories，擴大無線連接晶片布局",
-        "summary": "德州儀器（Texas Instruments）週三（4 日）同意以 75 億美元收購晶片設計公司 Silico [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/texas-instruments-silicon-lab/",
+        "id": "9dccd36b662a",
+        "title": "SpaceX 想部署百萬顆衛星  FCC 受理、將徵公眾意見",
+        "summary": "馬斯克（Elon Musk）旗下太空探索技術公司 SpaceX 部署 100 萬顆衛星星座的申請已經獲得受理。 [&#8230;]",
+        "url": "https://technews.tw/2026/02/05/space-bureau-accepts-for-filing-spacexs-application-for-orbital-data-centers/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T02:32:04+00:00"
+        "published": "2026-02-05T06:20:51+00:00"
       },
       {
-        "id": "e412aeca5081",
-        "title": "美超微財報優、股價強彈  估毛利率將提升",
-        "summary": "AI 伺服器大廠美超微（Super Micro Computer）財報表現優於預期，股價 4 日大漲逾 13% [&#8230;]",
-        "url": "https://finance.technews.tw/2026/02/05/supermicro-announces-second-quarter-fiscal-year-2026-financial-results/",
+        "id": "576987a4be17",
+        "title": "聯茂1月營收31.64 億元",
+        "summary": "聯茂（6213）今（5）日公布 1 月營收，達 31.64 億元，較 12 月成長 -0.2%，較去年同期成長 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/iteq-6213-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T02:30:02+00:00"
+        "published": "2026-02-05T06:20:09+00:00"
       },
       {
-        "id": "85cfb3e1d656",
-        "title": "傳輸速度升級八倍，NFC 論壇揭示 iPhone 未來 NFC 發展方向",
-        "summary": "全球近距離無線通訊（NFC）技術正迎來新一輪升級浪潮。稍早 NFC 論壇公布最新技術路線圖顯示，未來 NFC  [&#8230;]",
-        "url": "https://technews.tw/2026/02/05/nfc-forum-iphone/",
+        "id": "be8632fb30b5",
+        "title": "創意1月營收42.36 億元",
+        "summary": "創意（3443）今（5）日公布 1 月營收，達 42.36 億元，較 12 月成長 -10.8%，較去年同期成 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/05/guc-3443-202601-financial-report/",
         "source": "TechNews 科技新報",
-        "published": "2026-02-05T02:26:36+00:00"
+        "published": "2026-02-05T06:20:08+00:00"
       }
     ],
     "破(day)": [
