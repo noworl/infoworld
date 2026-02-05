@@ -1,19 +1,99 @@
 {
-  "updated_at": "2026-02-05T17:37:12.726193+00:00",
+  "updated_at": "2026-02-05T19:53:09.098892+00:00",
   "trending": [
-    "charlie kirk will",
-    "chris boucher",
-    "jackie robinson",
-    "cole anthony",
-    "matt fitzpatrick",
-    "haywood highsmith",
-    "james comer",
-    "mac mcclung",
-    "billie eilish stolen land",
-    "bo jackson"
+    "atletico madrid",
+    "isaiah jackson",
+    "racing de estrasburgo - mónaco",
+    "zubac",
+    "real betis - atlético madrid",
+    "atalanta vs juventus",
+    "strasbourg vs monaco",
+    "trump rx",
+    "atalanta - juventus",
+    "josh minott"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "7e8b01714d31",
+        "title": "Calls to halt UK Palantir contracts grow amid ‘lack of transparency’ over deals",
+        "summary": "Opposition MPs urge Labour to pause public contracts with the US tech firm after attempts to examine deals blockedLabour should halt public contracts with the US tech company Palantir, opposition politicians have said, amid growing concern at the lack of government transparency over dealings with th...",
+        "url": "https://www.theguardian.com/politics/2026/feb/05/calls-to-halt-uk-palantir-contracts-grow-amid-lack-of-transparency-over-deals",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T19:02:27+00:00"
+      },
+      {
+        "id": "244a1fc88d49",
+        "title": "One of Europe’s largest universities knocked offline for days after cyberattack",
+        "summary": "An alleged ransomware attack has taken down the systems of the Sapienza University of Rome.",
+        "url": "https://techcrunch.com/2026/02/05/one-of-europes-largest-universities-knocked-offline-for-days-after-cyberattack/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T19:00:46+00:00"
+      },
+      {
+        "id": "e98f6b026b41",
+        "title": "Elon Musk is getting serious about orbital data centers",
+        "summary": "We’re starting to see the idea of Musk-owned orbital AI data clusters cohere into an actual plan.",
+        "url": "https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T18:50:49+00:00"
+      },
+      {
+        "id": "c16a3761dd7a",
+        "title": "NASA astronauts can now bring their phones with them on their mission to the moon",
+        "summary": "Get ready for some selfies that are out of this world. Crew-12 is expected to head to the International Space Station next week, while the highly anticipated Artemis II mission -- which will bring humans around the moon for the first time since the 1960s -- was delayed until March.",
+        "url": "https://techcrunch.com/2026/02/05/nasa-astronauts-can-now-bring-their-phones-with-them-on-their-mission-to-the-moon/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T18:29:48+00:00"
+      },
+      {
+        "id": "51f82f99e06f",
+        "title": "Rape allegation against ex-Barclays CEO Jes Staley was raised in US Epstein investigation",
+        "summary": "Newly unsealed files claim the banker, who has denied any wrongdoing, forced a woman to touch his genitals during a massage before raping herUS prosecutors reviewed allegations of rape and bodily harm against the former Barclays boss and former JP Morgan banker Jes Staley, according to newly unseale...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/05/jes-staley-barclays-rape-allegation-us-prosecutors-epstein",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T18:29:14+00:00"
+      },
+      {
+        "id": "334d1e49d35b",
+        "title": "OpenAI launches a way for enterprises to build and manage AI agents",
+        "summary": "OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.",
+        "url": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T18:09:50+00:00"
+      },
+      {
+        "id": "0ea7530d0270",
+        "title": "Google hints at big AirDrop expansion for Android \"very soon\"",
+        "summary": "AirDrop came to the Pixel 10 last year, and more Android phones will join the party in 2026.",
+        "url": "https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T18:06:56+00:00"
+      },
+      {
+        "id": "a6a7f3cf2731",
+        "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
+        "summary": "The newest version of Anthropic's model is designed to broaden its capabilities and appeal, allowing for a greater variety of uses and customers.",
+        "url": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T17:51:13+00:00"
+      },
+      {
+        "id": "756fe1212290",
+        "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+        "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
+        "url": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T17:46:59+00:00"
+      },
+      {
+        "id": "89de0f4ed0b0",
+        "title": "Shell will consider fossil fuel investment in Venezuela, says chief executive",
+        "summary": "Wael Sawan weighs up production project as company boosts dividends despite 22% drop in full-year earnings• Business live – latest updatesShell is considering fossil fuel investments in Venezuela worth billions of dollars, according to its chief executive.Wael Sawan said Europe’s largest oil company...",
+        "url": "https://www.theguardian.com/business/2026/feb/05/shell-increases-multibillion-pound-debt-pile-record-shareholder-payouts-oil-prices",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T17:45:54+00:00"
+      },
       {
         "id": "fb99f0ea4362",
         "title": "Secondary sales shift from founder windfalls to employee-retention tools",
@@ -45,6 +125,22 @@
         "url": "https://techcrunch.com/2026/02/05/pacific-fusion-finds-a-cheaper-way-to-make-its-fusion-reactor-work/",
         "source": "TechCrunch",
         "published": "2026-02-05T17:00:00+00:00"
+      },
+      {
+        "id": "78e07600514c",
+        "title": "US job openings dropped to a five-year low in December 2025, report shows",
+        "summary": "Data from November 2025 was also revised lower amid a softening in labor market conditions at the end of the yearUS job openings dropped to the lowest level in more than five years in December and data for the prior month was revised lower amid a softening in labor market conditions at the end of 20...",
+        "url": "https://www.theguardian.com/business/2026/feb/05/us-job-openings-five-year-low-december-report",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T16:48:44+00:00"
+      },
+      {
+        "id": "debc8f5d5a18",
+        "title": "Airlines should tell UK customers the carbon impact of flights, watchdog says",
+        "summary": "CAA’s guidance also including booking sites to enable passengers to make ‘more informed travel decisions’Airlines and booking firms should give UK customers information about the environmental impact of their flights, the regulator has said.The Civil Aviation Authority urged booking sites to enable ...",
+        "url": "https://www.theguardian.com/environment/2026/feb/05/watchdog-urges-airlines-tell-uk-customers-carbon-impact-flights",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T16:05:00+00:00"
       },
       {
         "id": "831fde6e152f",
@@ -95,14 +191,6 @@
         "published": "2026-02-05T15:16:50+00:00"
       },
       {
-        "id": "6fb0a7abe19f",
-        "title": "Summer travel disruption fears over new biometric checks at European borders",
-        "summary": "Industry leaders urge EU to tell authorities to stand down entry-exit system controls if needed Travel industry leaders have called on the European Commission to tell all border authorities to stand down the new entry-exit system (EES) if needed as fears increase of summer disruption.European airpor...",
-        "url": "https://www.theguardian.com/world/2026/feb/05/travel-industry-fears-summer-disruption-biometric-checks-controls-ees-european-borders",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T15:13:10+00:00"
-      },
-      {
         "id": "68ee4dbd74e1",
         "title": "How cryptocurrency’s second largest coin missed out on the industry’s boom",
         "summary": "A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and ether’s static priceUS crypto developer Danny Ryan submitted a proposal in November 2024 to Vitalik Buterin, the founder and symbolic leader of Ethereum, a prominent blockchain powering the world’s second...",
@@ -125,101 +213,37 @@
         "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
         "source": "TechCrunch",
         "published": "2026-02-05T14:55:02+00:00"
-      },
-      {
-        "id": "ca9c2efc7af2",
-        "title": "ElevenLabs CEO: Voice is the next interface for AI",
-        "summary": "ElevenLabs CEO argued at Web Summit Qatar that voice is the next interface for AI, as OpenAI, Google, and Apple push conversational systems into wearables, new hardware, and everyday interactions.",
-        "url": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T14:41:12+00:00"
-      },
-      {
-        "id": "c8c024b9590f",
-        "title": "Steam Machine and Steam Frame delays are the latest product of the RAM crisis",
-        "summary": "Valve says it still hopes to ship both devices \"in the first half of the year.\"",
-        "url": "https://arstechnica.com/gadgets/2026/02/ram-shortage-delays-valves-steam-machine-desktop-and-steam-frame-headset/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-05T14:22:41+00:00"
-      },
-      {
-        "id": "6249afc2a089",
-        "title": "Increase of AI bots on the Internet sparks arms race",
-        "summary": "Publishers are rolling out more aggressive defenses.",
-        "url": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-05T14:21:20+00:00"
-      },
-      {
-        "id": "8921aba6d06f",
-        "title": "Dubai’s potent lure: the reality behind the real-estate frenzy",
-        "summary": "Bankers and billionaires are flocking to the city where income tax is zero but critics say it ignores money laundering – and pay disparities are huge Business live – latest updatesAidan Doyle was an estate agent in Liverpool before he decamped to Dubai and turned a £30,000 annual income into £500,00...",
-        "url": "https://www.theguardian.com/world/2026/feb/05/dubai-real-estate-fortune-hunters-entrepreneurs-population",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T14:10:18+00:00"
-      },
-      {
-        "id": "fc26afdff65c",
-        "title": "Anger over Scottish salmon farm inspections amid 35m unexpected fish deaths",
-        "summary": "Animal Equality says two surprise inspections in three years suggests ‘embarrassingly poor’ level of scrutinyScottish salmon farmers recorded more than 35m unexpected salmon deaths in just under three years but there were only two unannounced inspections of facilities over the same period.In Decembe...",
-        "url": "https://www.theguardian.com/business/2026/feb/05/more-than-35m-unexpected-salmon-deaths-at-scottish-farms-sparks-outcry",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T13:43:56+00:00"
-      },
-      {
-        "id": "5206d98ee5ca",
-        "title": "Why the Bank of England is holding rates despite a weakening economy | Phillip Inman",
-        "summary": "Rising unemployment and falling inflation made a strong case for a cut but  Andrew Bailey opted to wait and seeBank of England keeps interest rates on holdBusiness live – latest updatesWhen unemployment is rising and inflation falling, the Bank of England would, under normal circumstances, cut the c...",
-        "url": "https://www.theguardian.com/business/2026/feb/05/why-bank-of-england-holding-rates-weakening-economy-inflation",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T13:18:45+00:00"
-      },
-      {
-        "id": "54e6418d5e5f",
-        "title": "‘We can learn from the old’: how architects are returning to the earth to build homes for the future",
-        "summary": "Rammed earth sourced from, or near, the grounds of a proposed building site is attracting attention as an eco-friendly construction materialFrom afar, the low-rise homestead perched in the Wiltshire countryside may look like any other rural outpost, but step closer and the texture of the walls revea...",
-        "url": "https://www.theguardian.com/environment/2026/feb/05/architects-rammed-earth-buildings-homes-future",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T13:00:37+00:00"
-      },
-      {
-        "id": "db57fb3d6c22",
-        "title": "Hollywood money fuelled record £2.8bn spend on UK film production last year",
-        "summary": "Growth could slow as Netflix pulls back projects to US to secure $80bn takeover of Warner Bros DiscoveryA spending spree by Hollywood studios and streamers pushed investment in film production in the UK to a record £2.8bn last year, but growth is expected to slow this year as Netflix switches invest...",
-        "url": "https://www.theguardian.com/film/2026/feb/05/hollywood-record-spend-uk-film-production-last-year",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T12:50:14+00:00"
-      },
-      {
-        "id": "21c4b09b49de",
-        "title": "Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue",
-        "summary": "The company said it now has 325 million paying users across Google One and YouTube Premium, up from 300 million users three months earlier.",
-        "url": "https://techcrunch.com/2026/02/05/googles-subscriptions-rise-in-q4-as-youtube-pulls-60b-in-yearly-revenue/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T12:31:10+00:00"
-      },
-      {
-        "id": "5b227c63f29f",
-        "title": "Mandelson sought Epstein’s help in hunt for lucrative roles at Glencore and BP",
-        "summary": "Days after Labour’s 2010 defeat former cabinet minister began dogged pursuit of ‘highly paid’ jobs, emails showPeter Mandelson began seeking advice from the convicted child sex offender Jeffrey Epstein on how to land “highly paid” senior roles with companies including BP and Glencore within days of ...",
-        "url": "https://www.theguardian.com/politics/2026/feb/05/mandelson-sought-epstein-help-lucrative-corporate-roles-glencore",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T12:28:12+00:00"
-      },
-      {
-        "id": "8295c0f40557",
-        "title": "Donald Trump is making China great again | Steven Greenhouse",
-        "summary": "The president’s policies have weakened the US’s competitive position and undermined its alliances to China’s advantageIf Donald Trump’s presidency has any theme (beyond self-promotion), it’s that his “America First” agenda will Make America Great Again. Unfortunately for the American people, if Trum...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/05/donald-trump-making-china-great-again",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T12:00:36+00:00"
       }
     ],
     "破(day)": [
       {
+        "id": "dcc00231be1f",
+        "title": "Magic Beach by Alison Lester named Australia’s best children’s picture book",
+        "summary": "Lester’s 1990 classic about the wonders of nature wins Guardian Australia poll ahead of Possum Magic in second placeAlison Lester interview: ‘Everything I do looks a bit like a stuffed toy’Children on their favourite picture book: ‘I also like that the dad cries’Magic Beach by Alison Lester has won ...",
+        "url": "https://www.theguardian.com/books/2026/feb/05/alison-lester-magic-beach-best-australia-children-picture-book",
+        "source": "Children and teenagers | The Guardian",
+        "published": "2026-02-05T19:00:46+00:00"
+      },
+      {
+        "id": "c8d0bcf2b9c9",
+        "title": "The 2026 Winter Olympics Will Have a Major Impact on the Region’s Snow",
+        "summary": "A recent report found that carbon emissions caused by the Milano Cortina Olympics could lead to the loss of 5.5 square kilometers of snowpack and millions of metric tons of glacial ice.",
+        "url": "https://www.wired.com/story/winter-olympics-2026-impacts-snow/",
+        "source": "Science Latest",
+        "published": "2026-02-05T18:43:15+00:00"
+      },
+      {
+        "id": "e0d9b5016d9a",
+        "title": "The Rise and Fall of the World's Largest Gay Dating App",
+        "summary": "The new book The Wall Dancers explores the uneasy relationship between Chinese internet users and a government that is always watching.",
+        "url": "https://www.wired.com/story/made-in-china-how-people-in-china-learn-what-they-can-say-online/",
+        "source": "Business Latest",
+        "published": "2026-02-05T18:26:09+00:00"
+      },
+      {
         "id": "cd897fbdb49e",
-        "title": "London man angry at ‘Orwellian’ incident in supermarket using facial recognition tech",
-        "summary": "‘I shouldn’t have to prove I am innocent,’ said man misidentified by Sainsbury’s staff using Facewatch systemA man was ordered to leave a supermarket in London after staff misidentified him using controversial new facial recognition technology.Warren Rajah was told to abandon his shopping and leave ...",
+        "title": "‘Orwellian’: Sainsbury’s staff using facial recognition tech eject innocent shopper",
+        "summary": "Man misidentified by London supermarket using Facewatch system says: ‘I shouldn’t have to prove I am not a criminal’A man was ordered to leave a supermarket in London after staff misidentified him using controversial new facial recognition technology.Warren Rajah was told to abandon his shopping and...",
         "url": "https://www.theguardian.com/technology/2026/feb/05/london-man-sainsburys-facial-recognition-facewatch",
         "source": "Technology | The Guardian",
         "published": "2026-02-05T16:47:44+00:00"
@@ -295,6 +319,14 @@
         "url": "https://www.theguardian.com/technology/2026/feb/04/google-alphabet-earnings-report",
         "source": "Technology | The Guardian",
         "published": "2026-02-05T00:20:45+00:00"
+      },
+      {
+        "id": "bbba82491e9b",
+        "title": "Advancing finance with Claude Opus 4.6",
+        "summary": "Advancing finance with Claude Opus 4.6",
+        "url": "https://claude.com/blog/opus-4-6-finance",
+        "source": "Claude Blog",
+        "published": "2026-02-05T00:00:00+00:00"
       },
       {
         "id": "abe4bc1ea778",
@@ -383,38 +415,6 @@
         "url": "https://www.theguardian.com/books/2026/feb/05/children-favourite-australian-picture-book",
         "source": "Children and teenagers | The Guardian",
         "published": "2026-02-04T14:00:48+00:00"
-      },
-      {
-        "id": "156a554302a6",
-        "title": "Condemnation of Elon Musk’s AI chatbot reached ‘tipping point’ after French raid, Australia’s eSafety chief says",
-        "summary": "A number of countries including Australia are investigating X over Grok-produced sexualised deepfakesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe eSafety commissioner, Julie Inman Grant, says global regulatory focus on Elon Musk...",
-        "url": "https://www.theguardian.com/technology/2026/feb/05/australia-esafety-commissioner-elon-musk-ai-chatbot-grok-deepfakes",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-04T14:00:47+00:00"
-      },
-      {
-        "id": "2b6f4b52f260",
-        "title": "Gaming’s new coming-of-age genre embraces ‘millennial cringe’",
-        "summary": "Perfect Tides perfectly captures the older millennial college experience, and a time when nobody worried about being embarrassing online• Don’t get Pushing Buttons delivered to your inbox? Sign up hereI’ve noticed an interesting micro-trend emerging in the last few years: millennial nostalgia games....",
-        "url": "https://www.theguardian.com/games/2026/feb/04/gamings-new-coming-of-age-genre-embraces-millennial-cringe",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-04T12:35:42+00:00"
-      },
-      {
-        "id": "3c7abd17d85a",
-        "title": "King Britt shares a Moog-filled Black History Month music playlist",
-        "summary": "You've got to feed yourself -- that goes for music just like everything else. So your ears don't just want this playlist from King Britt and Moog. They need this playlist. And you can bet, given King's incredible Blacktronika project, those ears will be fully satisfied.\nThe post King Britt shares a ...",
-        "url": "https://cdm.link/king-britt-moog-black-history-month-music-playlist/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-04T11:36:26+00:00"
-      },
-      {
-        "id": "03d00f6b33e8",
-        "title": "Why Are Some Women Training for Pregnancy Like It’s a Marathon?",
-        "summary": "A growing legion of “zero trimester” influencers are convincing followers that healthy pregnancies are a choice—and that raw milk, watching sunsets, and pricey specialized courses can help.",
-        "url": "https://www.wired.com/story/pregnancy-zero-trimester-influencers/",
-        "source": "Science Latest",
-        "published": "2026-02-04T11:00:00+00:00"
       }
     ],
     "序(month)": [
