@@ -1,19 +1,51 @@
 {
-  "updated_at": "2026-02-05T21:05:02.330566+00:00",
+  "updated_at": "2026-02-05T23:00:53.292168+00:00",
   "trending": [
-    "amazon earnings",
-    "tony hawk",
-    "six nations",
-    "usgs earthquakes",
-    "zayn",
-    "michael saylor",
-    "milano cortina",
-    "red gerard",
-    "blaze alexander",
-    "álvaro fidalgo"
+    "scott bessent",
+    "horizon hunters gathering",
+    "maxine waters",
+    "nuclear treaty russia",
+    "john tonje",
+    "breeze airways",
+    "seth jarvis",
+    "what time is super bowl 2026",
+    "island boys",
+    "be stock"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "bbb26b7cd047",
+        "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
+        "summary": "In 2026, Amazon plans to spend $200 billion in capex. Google is just behind at $175 billion to $185 billion. It's a lot of money!",
+        "url": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T22:43:11+00:00"
+      },
+      {
+        "id": "72b89db6786d",
+        "title": "The Washington Post is retreating from Silicon Valley when it matters most",
+        "summary": "The Bezos-owned newspaper gutted its San Francisco bureau and coverage of tech — including journalists reporting on Amazon and Blue Origin",
+        "url": "https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T21:36:21+00:00"
+      },
+      {
+        "id": "16c5d96d664b",
+        "title": "A16z VC wants founders to stop stressing over insane ARR numbers",
+        "summary": "A16z VC Jennifer Li⁠, who oversees some of the firm's fastest growing AI companies, warns founders not to believe every ARR claim made on X.",
+        "url": "https://techcrunch.com/2026/02/05/a16z-vc-wants-founders-to-stop-stressing-over-insane-arr-numbers/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T21:28:46+00:00"
+      },
+      {
+        "id": "d17442e44e03",
+        "title": "\"ICE Out of Our Faces Act\" would ban ICE and CBP use of facial recognition",
+        "summary": "Senator: ICE and CBP \"have built an arsenal of surveillance technologies.\"",
+        "url": "https://arstechnica.com/tech-policy/2026/02/ice-out-of-our-faces-act-would-ban-ice-and-cbp-use-of-facial-recognition/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T20:54:50+00:00"
+      },
       {
         "id": "73ee706753e1",
         "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
@@ -181,41 +213,17 @@
         "url": "https://www.theguardian.com/environment/2026/feb/05/watchdog-urges-airlines-tell-uk-customers-carbon-impact-flights",
         "source": "Business | The Guardian",
         "published": "2026-02-05T16:05:00+00:00"
-      },
-      {
-        "id": "831fde6e152f",
-        "title": "This black hole \"burps\" with Death Star energy",
-        "summary": "Dubbed \"Jetty McJetface,\" the tidal disruption event's energy keeps getting brighter and should peak in 2027.",
-        "url": "https://arstechnica.com/science/2026/02/this-black-hole-burps-with-death-star-energy/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-05T16:02:41+00:00"
-      },
-      {
-        "id": "0be1c19944c3",
-        "title": "Bank of England keeps interest rates at 3.75% as inflation concerns persist",
-        "summary": "Bank indicates anti-inflation measures in Rachel Reeves’s budget likely to pave way for rate cuts in months aheadBusiness live – latest updatesUK inflation rises for first time in five months to 3.4% in DecemberBank of England policymakers have left interest rates unchanged at 3.75%, but indicated t...",
-        "url": "https://www.theguardian.com/business/2026/feb/05/bank-of-england-interest-rates-held-inflation-concerns",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T15:56:25+00:00"
-      },
-      {
-        "id": "2ad95ffcd41b",
-        "title": "Trump’s critical mineral reserve is an admission that the future is electric",
-        "summary": "The administration's $12 billion stockpile of critical minerals is aimed at blunting China's influence. But it also revels the direction of the global economy.",
-        "url": "https://techcrunch.com/2026/02/05/trumps-critical-mineral-reserve-is-an-admission-that-the-future-is-electric/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T15:48:44+00:00"
-      },
-      {
-        "id": "deb9d0825646",
-        "title": "NASA changes its mind, will allow Artemis astronauts to take iPhones to the Moon",
-        "summary": "\"We are giving our crews the tools to capture special moments.\"",
-        "url": "https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-05T15:46:18+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "85f2310a1446",
+        "title": "Loyalty Is Dead in Silicon Valley",
+        "summary": "Founders used to be wedded to their companies. Now, anyone can be lured away for the right price.",
+        "url": "https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/",
+        "source": "Business Latest",
+        "published": "2026-02-05T21:33:11+00:00"
+      },
       {
         "id": "7eee46099404",
         "title": "Opus 4.6 and Codex 5.3",
@@ -407,14 +415,6 @@
         "url": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
         "source": "Business Latest",
         "published": "2026-02-04T15:32:45+00:00"
-      },
-      {
-        "id": "f38bad2dfe48",
-        "title": "Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel",
-        "summary": "I've been exploring Go for building small, fast and self-contained binary applications recently. I'm enjoying how there's generally one obvious way to do things and the resulting code is boring and readable - and something that LLMs are very competent at writing. The one catch is distribution, but i...",
-        "url": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-04T14:59:47+00:00"
       }
     ],
     "序(month)": [
