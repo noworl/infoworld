@@ -1,19 +1,51 @@
 {
-  "updated_at": "2026-02-05T19:53:09.098892+00:00",
+  "updated_at": "2026-02-05T21:05:02.330566+00:00",
   "trending": [
-    "atletico madrid",
-    "isaiah jackson",
-    "racing de estrasburgo - mónaco",
-    "zubac",
-    "real betis - atlético madrid",
-    "atalanta vs juventus",
-    "strasbourg vs monaco",
-    "trump rx",
-    "atalanta - juventus",
-    "josh minott"
+    "amazon earnings",
+    "tony hawk",
+    "six nations",
+    "usgs earthquakes",
+    "zayn",
+    "michael saylor",
+    "milano cortina",
+    "red gerard",
+    "blaze alexander",
+    "álvaro fidalgo"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "73ee706753e1",
+        "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+        "summary": "The new model is build to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
+        "url": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T20:01:39+00:00"
+      },
+      {
+        "id": "14e874118098",
+        "title": "Barclays reportedly cuts ties with lobbying firm co-founded by Peter Mandelson",
+        "summary": "Vodafone also reviewing its contract with Global Counsel after revelations of former minister’s links to Jeffrey EpsteinBarclays has reportedly cut ties with the lobbying firm co-founded by Peter Mandelson, after intense scrutiny of the founders’ dealings with the late child sex offender Jeffrey Eps...",
+        "url": "https://www.theguardian.com/business/2026/feb/05/barclays-vodafone-lobbying-firm-global-counsel-peter-mandelson",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T19:37:49+00:00"
+      },
+      {
+        "id": "b151d1630e5f",
+        "title": "Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites",
+        "summary": "Microsoft won’t explain why Bing blocked 1.5 million Neocities websites.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T19:32:28+00:00"
+      },
+      {
+        "id": "1f0a9c6d56bc",
+        "title": "Watch Kanzi the bonobo pretend to have a tea party",
+        "summary": "“Kanzi is able to generate an idea of this pretend object and at the same time know it’s not real.”",
+        "url": "https://arstechnica.com/science/2026/02/watch-kanzi-the-bonobo-pretend-to-have-a-tea-party/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T19:07:15+00:00"
+      },
       {
         "id": "7e8b01714d31",
         "title": "Calls to halt UK Palantir contracts grow amid ‘lack of transparency’ over deals",
@@ -29,6 +61,14 @@
         "url": "https://techcrunch.com/2026/02/05/one-of-europes-largest-universities-knocked-offline-for-days-after-cyberattack/",
         "source": "TechCrunch",
         "published": "2026-02-05T19:00:46+00:00"
+      },
+      {
+        "id": "70a918b98dab",
+        "title": "Bad sleep made woman's eyelids so floppy they flipped inside out, got stuck",
+        "summary": "Never underestimate the value of a good night's sleep.",
+        "url": "https://arstechnica.com/health/2026/02/a-womans-eyelids-flipped-inside-out-on-their-own-the-fix-was-sleep/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T18:55:22+00:00"
       },
       {
         "id": "e98f6b026b41",
@@ -104,7 +144,7 @@
       },
       {
         "id": "5eba6f4988b8",
-        "title": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
+        "title": "Meta tests a stand-alone app for its AI-generated ‘Vibes’ videos",
         "summary": "Launched last September, Vibes lets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.",
         "url": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
         "source": "TechCrunch",
@@ -121,7 +161,7 @@
       {
         "id": "9ed882f68169",
         "title": "Pacific Fusion finds a cheaper way to make its fusion reactor work",
-        "summary": "The fusion power startup recently completed some experiments at Sandia National Laboratory's Z Machine and shared the results exclusively with TechCrunch.",
+        "summary": "The fusion power startup recently completed some experiments at Sandia National Laboratories and shared the results exclusively with TechCrunch.",
         "url": "https://techcrunch.com/2026/02/05/pacific-fusion-finds-a-cheaper-way-to-make-its-fusion-reactor-work/",
         "source": "TechCrunch",
         "published": "2026-02-05T17:00:00+00:00"
@@ -173,49 +213,17 @@
         "url": "https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/",
         "source": "Ars Technica - All content",
         "published": "2026-02-05T15:46:18+00:00"
-      },
-      {
-        "id": "9af02c73d20e",
-        "title": "Data breach at govtech giant Conduent balloons, affecting millions more Americans",
-        "summary": "The ransomware attack at Conduent allowed hackers to steal a \"significant number of individuals’ personal information\" from the govtech giant's systems. Conduent handles personal and health data of more than 100 million people across America.",
-        "url": "https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T15:25:38+00:00"
-      },
-      {
-        "id": "498163ada213",
-        "title": "Tesla slipped behind VW in European EV sales last year",
-        "summary": "Electric vehicle sales increased by 29% in 2025, even as overall sales grew 2.2%.",
-        "url": "https://arstechnica.com/cars/2026/02/tesla-slipped-behind-vw-in-european-ev-sales-last-year/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-05T15:16:50+00:00"
-      },
-      {
-        "id": "68ee4dbd74e1",
-        "title": "How cryptocurrency’s second largest coin missed out on the industry’s boom",
-        "summary": "A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and ether’s static priceUS crypto developer Danny Ryan submitted a proposal in November 2024 to Vitalik Buterin, the founder and symbolic leader of Ethereum, a prominent blockchain powering the world’s second...",
-        "url": "https://www.theguardian.com/technology/2026/feb/05/cryptocurrency-ethereum-bitcoin-industry",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T15:00:39+00:00"
-      },
-      {
-        "id": "0ddb857331ac",
-        "title": "Fundamental raises $255 million Series A with a new take on big data analysis",
-        "summary": "Fundamental has built a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises.",
-        "url": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T15:00:02+00:00"
-      },
-      {
-        "id": "f6cc1e911bfc",
-        "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
-        "summary": "Substack said that customer data was accessed in October 2025, but wasn't discovered until early February.",
-        "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T14:55:02+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "7eee46099404",
+        "title": "Opus 4.6 and Codex 5.3",
+        "summary": "Two major new model releases today, within about 15 minutes of each other.\nAnthropic released Opus 4.6. Here's its pelican:\n\nOpenAI release GPT-5.3-Codex, albeit only via their Codex app, not yet in their API. Here's its pelican:\n\nI've had a bit of preview access to both of these models and to be ho...",
+        "url": "https://simonwillison.net/2026/Feb/5/two-new-models/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-05T20:29:20+00:00"
+      },
       {
         "id": "dcc00231be1f",
         "title": "Magic Beach by Alison Lester named Australia’s best children’s picture book",
@@ -407,14 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-04T14:59:47+00:00"
-      },
-      {
-        "id": "8ad599a6bf98",
-        "title": "‘I also like that the dad cries’: children on their favourite Australian picture book of all time | Guardian readers",
-        "summary": "From Jetty Jumping to green sheep, children tell us why they love the books they ask for night after nightVoting has now closed in the best Australian picture book poll. Read more about it hereGet our weekend culture and lifestyle emailWhen Guardian Australia asked readers to nominate their favourit...",
-        "url": "https://www.theguardian.com/books/2026/feb/05/children-favourite-australian-picture-book",
-        "source": "Children and teenagers | The Guardian",
-        "published": "2026-02-04T14:00:48+00:00"
       }
     ],
     "序(month)": [
@@ -460,7 +460,7 @@
       },
       {
         "id": "b74af14f3341",
-        "title": "What Ultimately Is There? Metaphysics and the Ruliad",
+        "title": "What Ultimately Is There?<br> Metaphysics and the Ruliad",
         "summary": "The Wolfram Institute recently received a grant from the Templeton World Charity Foundation for “Computational Metaphysics”. I wrote this piece in part as a launching point for discussions with experts in traditional philosophy. Moving Metaphysics from Philosophy to Science “What ultimately is there...",
         "url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
         "source": "Stephen Wolfram Writings",
