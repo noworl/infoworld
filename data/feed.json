@@ -1,42 +1,98 @@
 {
-  "updated_at": "2026-02-05T11:11:07.397842+00:00",
+  "updated_at": "2026-02-05T14:35:00.382996+00:00",
   "trending": [
-    "xrp",
-    "when was the first super bowl",
-    "caf",
-    "knox county schools",
-    "зимние олимпийские игры – 2026",
-    "dense fog advisory",
-    "lottery results today",
-    "fortnite server status",
-    "clara tauson",
-    "netflix top movies right now"
+    "lea michele",
+    "jordan spieth",
+    "valve steam machine",
+    "olympic opening ceremony",
+    "fifa",
+    "national prayer breakfast 2026",
+    "thomas massie",
+    "hims stock",
+    "alycia parks",
+    "new zealand national cricket team vs united states national cricket team match scorecard"
   ],
   "categories": {
     "急(hr)": [
       {
         "id": "3b76e69b67f1",
-        "title": "Bank of England expected to leave interest rates on hold; UK construction activity shrinks again – business live",
-        "summary": "Rolling coverage of the latest economic and financial newsThere are three things to watch out for from the Bank of England’s interest rate decision and its latest monetary policy report (MPR), reports Simon French, chief economist at City firm Panmure Liberum:What the qualitative comments from MPC [...",
+        "title": "Bank of England governor announces ‘good news’ on inflation after holding interest rates, and ‘shock’ over Mandelson – business live",
+        "summary": "Bank splits 5-4 on interest rate decision, and hints that cuts are coming, as governor pays tribute to Alistair Darling over Mandelson revelationsBank of England keeps interest rates at 3.75% as inflation concerns persistThere are three things to watch out for from the Bank of England’s interest rat...",
         "url": "https://www.theguardian.com/business/live/2026/feb/05/bank-of-england-interest-rates-european-central-bank-inflation-stock-markets-business-live-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-05T10:55:00+00:00"
+        "published": "2026-02-05T14:07:19+00:00"
+      },
+      {
+        "id": "fc26afdff65c",
+        "title": "More than 35m unexpected salmon deaths at Scottish farms sparks outcry",
+        "summary": "Animal Equality says two surprise inspections in three years suggests ‘embarrassingly poor’ level of scrutinyScottish salmon farmers recorded more than 35m unexpected salmon deaths in just under three years but there were only two unannounced inspections of facilities over the same period.In Decembe...",
+        "url": "https://www.theguardian.com/business/2026/feb/05/more-than-35m-unexpected-salmon-deaths-at-scottish-farms-sparks-outcry",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T13:43:56+00:00"
+      },
+      {
+        "id": "5206d98ee5ca",
+        "title": "Why the Bank of England is holding rates despite a weakening economy | Phillip Inman",
+        "summary": "Rising unemployment and falling inflation made a strong case for a cut but  Andrew Bailey opted to wait and seeBank of England keeps interest rates on holdBusiness live – latest updatesWhen unemployment is rising and inflation falling, the Bank of England would, under normal circumstances, cut the c...",
+        "url": "https://www.theguardian.com/business/2026/feb/05/why-bank-of-england-holding-rates-weakening-economy-inflation",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T13:18:45+00:00"
+      },
+      {
+        "id": "db57fb3d6c22",
+        "title": "Hollywood money fuelled record £2.8bn spend on UK film production last year",
+        "summary": "Growth expected to slow as Netflix pulls back projects to US to secure $80bn takeover of Warner Bros DiscoveryA spending spree by Hollywood studios and streamers pushed investment in film production in the UK to a record £2.8bn last year, but growth is expected to slow this year as Netflix switches ...",
+        "url": "https://www.theguardian.com/film/2026/feb/05/hollywood-record-spend-uk-film-production-last-year",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T12:50:14+00:00"
+      },
+      {
+        "id": "21c4b09b49de",
+        "title": "Google’s subscriptions rise in Q4 as YouTube pulls $60B in yearly revenue",
+        "summary": "The company said it now has 325 million paying users across Google One and YouTube Premium, up from 300 million users three months earlier.",
+        "url": "https://techcrunch.com/2026/02/05/googles-subscriptions-rise-in-q4-as-youtube-pulls-60b-in-yearly-revenue/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T12:31:10+00:00"
+      },
+      {
+        "id": "5b227c63f29f",
+        "title": "Mandelson sought Epstein’s help in hunt for lucrative roles at Glencore and BP",
+        "summary": "Days after Labour’s 2010 defeat former cabinet minister began dogged pursuit of ‘highly paid’ jobs, emails showPeter Mandelson began seeking advice from the convicted child sex offender Jeffrey Epstein on how to land “highly paid” senior roles with companies including BP and Glencore within days of ...",
+        "url": "https://www.theguardian.com/politics/2026/feb/05/mandelson-sought-epstein-help-lucrative-corporate-roles-glencore",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T12:28:12+00:00"
+      },
+      {
+        "id": "8295c0f40557",
+        "title": "Donald Trump is making China great again | Steven Greenhouse",
+        "summary": "The president’s policies have weakened the US’s competitive position and undermined its alliances to China’s advantageIf Donald Trump’s presidency has any theme (beyond self-promotion), it’s that his “America First” agenda will Make America Great Again. Unfortunately for the American people, if Trum...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/05/donald-trump-making-china-great-again",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T12:00:36+00:00"
+      },
+      {
+        "id": "07fd62783f84",
+        "title": "Spotify ventures into physical book sales, adds new audiobook features",
+        "summary": "Spotify users in the U.S. and the UK will soon be able to buy physical books in the app. There's also a new tool that syncs physical books to audiobooks.",
+        "url": "https://techcrunch.com/2026/02/05/spotify-ventures-into-physical-book-sales-adds-new-audiobook-features/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T12:00:00+00:00"
+      },
+      {
+        "id": "d484998303f7",
+        "title": "Why haven’t business elites stood up for Minnesota? | Daniel Altschuler",
+        "summary": "If US elites can find the courage to speak up, we can still prevent our country from descending into full-blown autocracyAlex Pretti – an ICU nurse documenting alleged cases of federal immigration agents’ overreach – was killed by federal agents in Minneapolis on 24 January. Just hours later, Minnes...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/05/minnesota-business-elites-immigration",
+        "source": "Business | The Guardian",
+        "published": "2026-02-05T11:00:27+00:00"
       },
       {
         "id": "89de0f4ed0b0",
-        "title": "Shell to hand investors big payouts despite continued profit loss",
-        "summary": "Company’s total debt rose to $45.7bn as adjusted earnings for 2025 fell 22% to $18.5bn owing to weaker oil prices• Business live – latest updatesShell has said it will continue to hand investors bumper payouts despite reporting its third consecutive year of falling profits following weaker oil price...",
+        "title": "Shell to hand investors bigger payouts despite continued fall in profits",
+        "summary": "Company reports 22% drop in full-year earnings to $18.5bn but boosts dividends and extends share buybacks• Business live – latest updatesShell has said it will continue to hand investors bumper payouts despite reporting its third consecutive year of falling profits following weaker oil prices.The oi...",
         "url": "https://www.theguardian.com/business/2026/feb/05/shell-increases-multibillion-pound-debt-pile-record-shareholder-payouts-oil-prices",
         "source": "Business | The Guardian",
         "published": "2026-02-05T10:52:12+00:00"
-      },
-      {
-        "id": "873d88ef793c",
-        "title": "Chris Rokos hedge fund ends talks with Peter Mandelson on advisory role",
-        "summary": "Rokos Capital Management was in discussions to hire former ambassador to US  until latest Epstein revelations• Business live – latest updatesA $22bn (£16bn) London hedge fund has “terminated” talks with Peter Mandelson over an advisory role after emails revealed that the former UK business secretary...",
-        "url": "https://www.theguardian.com/business/2026/feb/05/chris-rokos-hedge-fund-ends-talks-with-peter-mandelson-on-advisory-role-epstein-files",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T09:49:06+00:00"
       },
       {
         "id": "af1aedb6b018",
@@ -103,20 +159,44 @@
         "published": "2026-02-05T00:01:00+00:00"
       },
       {
+        "id": "2b1c75477dd7",
+        "title": "Author Correction: PHGDH heterogeneity potentiates cancer cell dissemination and metastasis",
+        "summary": "Nature, Published online: 05 February 2026; doi:10.1038/s41586-026-10202-6Author Correction: PHGDH heterogeneity potentiates cancer cell dissemination and metastasis",
+        "url": "https://www.nature.com/articles/s41586-026-10202-6",
+        "source": "Nature",
+        "published": "2026-02-05T00:00:00+00:00"
+      },
+      {
+        "id": "36eb7a4db029",
+        "title": "These mysterious ridges could be the secret to younger skin",
+        "summary": "Nature, Published online: 05 February 2026; doi:10.1038/d41586-026-00364-8Rete ridges could hold the secrets to revitalising skin.",
+        "url": "https://www.nature.com/articles/d41586-026-00364-8",
+        "source": "Nature",
+        "published": "2026-02-05T00:00:00+00:00"
+      },
+      {
+        "id": "db603f035b0d",
+        "title": "First ‘practical PhDs’ awarded in China — for products rather than papers",
+        "summary": "Nature, Published online: 05 February 2026; doi:10.1038/d41586-026-00356-8The programme is designed to train more elite engineers who can help boost the country’s innovation.",
+        "url": "https://www.nature.com/articles/d41586-026-00356-8",
+        "source": "Nature",
+        "published": "2026-02-05T00:00:00+00:00"
+      },
+      {
+        "id": "cec0d288275e",
+        "title": "NASA’s latest telescope is a feat of early-career leadership",
+        "summary": "Nature, Published online: 05 February 2026; doi:10.1038/d41586-026-00253-0The Pandora satellite provides career training grounds while observing exoplanets.",
+        "url": "https://www.nature.com/articles/d41586-026-00253-0",
+        "source": "Nature",
+        "published": "2026-02-05T00:00:00+00:00"
+      },
+      {
         "id": "dd6dfb391990",
         "title": "Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs",
         "summary": "Having raised a €30 million Series A round led by CapitalG, business identity verification startup Duna is now among the most well-capitalized European startups founded by Stripe alumni.",
         "url": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
         "source": "TechCrunch",
         "published": "2026-02-04T23:49:18+00:00"
-      },
-      {
-        "id": "96a88c38e4f1",
-        "title": "Bunnings given green light to use facial recognition tech on customers to combat crime",
-        "summary": "Tribunal heard Bunnings store managers’ evidence of regular threatening or abusive behaviour from some customersFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastHardware giant Bunnings has been given the green light to use facial recogn...",
-        "url": "https://www.theguardian.com/australia-news/2026/feb/05/bunnings-given-green-light-to-use-facial-recognition-tech-on-customers-to-combat",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T23:36:39+00:00"
       },
       {
         "id": "d8675af27ee2",
@@ -133,86 +213,6 @@
         "url": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
         "source": "Ars Technica - All content",
         "published": "2026-02-04T23:08:04+00:00"
-      },
-      {
-        "id": "5e73391c78ad",
-        "title": "Google’s Gemini app has surpassed 750M monthly active users",
-        "summary": "Google revealed a significant milestone for its Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
-        "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T22:53:46+00:00"
-      },
-      {
-        "id": "678f0c49deeb",
-        "title": "FBI stymied by Apple's Lockdown Mode after seizing journalist's iPhone",
-        "summary": "Post reporter was compelled to unlock MacBook Pro with fingerprint, however.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T22:41:15+00:00"
-      },
-      {
-        "id": "0599ff210c6e",
-        "title": "The Wayback Machine debuts a new plug-in designed to fix the internet’s broken links problem",
-        "summary": "Should a linked web page go offline, the new feature will then redirect readers to the archived versions, so that there is no drop in service. The tool also archives a user's own posts, helping to ensure their longevity.",
-        "url": "https://techcrunch.com/2026/02/04/the-wayback-machine-debuts-a-new-plugin-designed-to-fix-the-internets-broken-links-problem/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T22:27:12+00:00"
-      },
-      {
-        "id": "d3eef3cb1cd4",
-        "title": "Elon Musk’s SpaceX company town is getting a police department",
-        "summary": "The new department will have up to eight police officers and could be up and running in a few months.",
-        "url": "https://techcrunch.com/2026/02/04/elon-musks-spacex-company-town-is-getting-a-police-department/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T21:47:41+00:00"
-      },
-      {
-        "id": "a1a95a6402cb",
-        "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
-        "summary": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun.",
-        "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T21:45:32+00:00"
-      },
-      {
-        "id": "2780aab27dc1",
-        "title": "US agency investigates Nike for alleged discrimination against white workers",
-        "summary": "EEOC demands firm turn over ‘DEI-related objectives’ amid Trump administration’s crackdown on diversity initiativesThe US Equal Employment Opportunity Commission (EEOC) has launched an investigation into Nike over allegations that the sports giant discriminated against white employees and job applic...",
-        "url": "https://www.theguardian.com/business/2026/feb/04/nike-white-employee-discrimination-eeoc",
-        "source": "Business | The Guardian",
-        "published": "2026-02-04T21:44:01+00:00"
-      },
-      {
-        "id": "44781d878057",
-        "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
-        "summary": "The two-year-old startup confirms that it closed a Series A led by Lightspeed at $1 billion valuation.",
-        "url": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T21:39:26+00:00"
-      },
-      {
-        "id": "9102561f136b",
-        "title": "Amazon to begin testing AI tools for film and TV production next month",
-        "summary": "Amazon MGM Studios will reportedly begin a closed beta program in March to test its AI tools to help with film and TV production.",
-        "url": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
-        "source": "TechCrunch",
-        "published": "2026-02-04T21:26:43+00:00"
-      },
-      {
-        "id": "117ddb14a3ce",
-        "title": "Should AI chatbots have ads? Anthropic says no.",
-        "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
-        "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T21:15:07+00:00"
-      },
-      {
-        "id": "1096e77784b2",
-        "title": "US House takes first step toward creating \"commercial\" deep space program",
-        "summary": "\"We will continue to rely on the ingenuity of the private sector.\"",
-        "url": "https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-04T21:01:05+00:00"
       }
     ],
     "破(day)": [
@@ -394,7 +394,7 @@
       },
       {
         "id": "599dd51edc69",
-        "title": "AI Bots Are Now a Signifigant Source of Web Traffic",
+        "title": "AI Bots Are Now a Significant Source of Web Traffic",
         "summary": "New data shows AI bots pushing deeper into the web, prompting publishers to roll out more aggressive defenses.",
         "url": "https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/",
         "source": "Business Latest",
@@ -419,6 +419,22 @@
     ],
     "序(month)": [
       {
+        "id": "7811e1449ed6",
+        "title": "【地圖俱樂部】 當分水嶺遇上殖民測量：1907年法國地圖與泰柬邊界爭端 泰國與柬埔寨因長年邊界／主權爭議，2025 年曾兩度爆發致命衝突：先在 7 月出現為期數日的激烈交火並達成一度由區域斡旋的停火，但12 月初戰火再起，最新一輪衝突約 2...",
+        "summary": "【地圖俱樂部】 當分水嶺遇上殖民測量：1907年法國地圖與泰柬邊界爭端 泰國與柬埔寨因長年邊界／主權爭議，2025 年曾兩度爆發致命衝突：先在 7 月出現為期數日的激烈交火並達成一度由區域斡旋的停火，但12 月初戰火再起，最新一輪衝突約 20 天（接近三週），直到 12 月 27 日雙方再度宣布停火；在停火前後的統計中，兩國合計至少 101 人死亡、超過 50 萬人被迫撤離，並傳出戰機空襲、砲擊與火箭攻擊等升高情勢的作戰手段。 柬埔寨與泰國的邊界爭議，源頭可追溯至法國殖民時期。19 世紀末至 20 世紀初，柬埔寨隸屬於「法屬印度支那」，而泰國（當時稱暹羅）仍維持形式上的獨立。隨著法國向中南半島...",
+        "url": "https://www.facebook.com/asgis/posts/pfbid0sKUiGqjs2a6mPRfj5VFciqn1ovCNrQQxK5boAdeGqs1gH6Emq6EJ22gs96fTzJDAl",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-05T13:50:29+00:00"
+      },
+      {
+        "id": "7928aa6b3a9b",
+        "title": "‘Depths of Wikipedia’ Creator Annie Rauwerda on ‘Fragile’ Internet Citations",
+        "summary": "Annie Rauwerda can’t remember a world without Wikipedia. Born in 1999, just two years before the platform launched, she says it has been omnipresent in her life and a source [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/05/depths-of-wikipedia-creator-annie-rauwerda-on-fragile-internet-citations/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-05T12:00:00+00:00"
+      },
+      {
         "id": "d304818cc48b",
         "title": "Mathematical spheres, an interview with Tom Johnson",
         "summary": ".",
@@ -437,7 +453,7 @@
       {
         "id": "52021e366f04",
         "title": "早期使用的 Google 地圖 2D 模式時，其底圖不論是電子地圖或衛星影像都採用 Web Mercator（EPSG:3857）投影座標系統，這也是目前多數網路地圖平台或網路地圖圖磚服務的標準配置。 Web Mercator 是麥卡托投影...",
-        "summary": "早期使用的 Google 地圖 2D 模式時，其底圖不論是電子地圖或衛星影像都採用 Web Mercator（EPSG:3857）投影座標系統，這也是目前多數網路地圖平台或網路地圖圖磚服務的標準配置。 Web Mercator 是麥卡托投影方式的一種，屬於保形投影，透過將經緯線維持為正交網格來確保局部角度與形狀的正確性，適合即時互動與導航應用；但其代價是隨緯度升高尺度迅速膨脹，在高緯度區域必須不斷拉長南北方向，使得極區附近的面積產生顯著誇大，因此南北範圍強制截斷在 ±85°，這也是 Google 地圖後來在小比例尺地圖（全球尺度下）是會自動切換成 3D 球形來顯示圖資的主要原因。 從 Goog...",
+        "summary": "早期使用的 Google 地圖 2D 模式時，其底圖不論是電子地圖或衛星影像都採用 Web Mercator（EPSG:3857）投影座標系統，這也是目前多數網路地圖平台或網路地圖圖磚服務的標準配置。 Web Mercator 是麥卡托投影方式的一種，屬於保形投影，透過將經緯線維持為正交網格來確保局部角度與形狀的正確性，又因整張地球全圖是正方型，適合四分樹切割法支援即時互動與導航應用；但其代價是隨緯度升高尺度迅速膨脹，在高緯度區域必須不斷拉長南北方向，使得極區附近的面積產生顯著誇大，因此強制截斷南北緯度範圍在 ±85°（格陵蘭最北端約為 83.7°N），這也是 Google 地圖後來在小比例尺...",
         "url": "https://www.facebook.com/asgis/posts/pfbid0LfY8nB1qL4ifGHAtmpdvu2eqn78zorFC8WB7jo88ueptM7qSujjipyJxUhn8o4cAl",
         "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
         "published": "2026-02-04T15:13:46+00:00"
@@ -601,22 +617,6 @@
         "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2591899?af=R",
         "source": "tandf: Journal of Mathematics and Music: Table of Contents",
         "published": "2026-01-29T07:06:01+00:00"
-      },
-      {
-        "id": "78e005b85aae",
-        "title": "Min-On Music Journey No. 102: Republic of Mozambique",
-        "summary": "Welcome to Min-On’s Music Journey! Today we invite you  [&#8230;]",
-        "url": "https://www.min-on.org/zh-hant/14668/min-on-music-journey-no-102-republic-of-mozambique/",
-        "source": "Chinese Traditional – Min-On Website",
-        "published": "2026-01-28T07:27:40+00:00"
-      },
-      {
-        "id": "fac659800cf0",
-        "title": "Two-chord shuttles on the pod",
-        "summary": "After talking about them in aural skills class, I figured it was time to do an episode about them. This one includes some compositional ideas of my own in addition to all the examples from the pop canon. The two-chord shuttle by Dr. Ethan Hein A foundational building block of funk Read on Substack",
-        "url": "https://www.ethanhein.com/wp/2026/two-chord-shuttles-on-the-pod/",
-        "source": "The Ethan Hein Blog",
-        "published": "2026-01-27T23:43:21+00:00"
       }
     ]
   }
