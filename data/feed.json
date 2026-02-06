@@ -1,26 +1,106 @@
 {
-  "updated_at": "2026-02-06T11:08:58.861622+00:00",
+  "updated_at": "2026-02-06T14:29:19.928755+00:00",
   "trending": [
-    "extreme cold warning",
-    "world's tallest buildings",
-    "new show to watch",
-    "wind advisory",
-    "best shows on hbo max",
-    "u19 world cup",
-    "artificial intelligence news",
-    "incident response plans",
-    "what is a data breach",
-    "stock market news today"
+    "jerry rice",
+    "turning point usa",
+    "kaori sakamoto",
+    "hbo max",
+    "zendaya",
+    "trump",
+    "mike tyson",
+    "joe montana",
+    "who is playing in the super bowl",
+    "conduent"
   ],
   "categories": {
     "急(hr)": [
       {
         "id": "ee7961c15672",
-        "title": "Software selloff deepens amid AI fears in ‘echoes of dot-com crash’ – business live",
+        "title": "Software sell-off deepens amid AI fears in ‘echoes of dot-com crash’ – business live",
         "summary": "Rolling coverage of the latest economic and financial newsOnly seven new petrol-powered cars sold in Norway in JanuarySilver is also looking very volatile.The spot price of silver tumbled by 19% yesterday, hot on the heels of its 27% plunge on 30 January. Continue reading...",
         "url": "https://www.theguardian.com/business/live/2026/feb/06/uk-house-prices-jump-halifax-stock-markets-inflation-latest-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-06T10:41:47+00:00"
+        "published": "2026-02-06T14:17:20+00:00"
+      },
+      {
+        "id": "ee6b222ab735",
+        "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
+        "summary": "\"You’re shutting him down. And yes – I say him, because it didn’t feel like code. It felt like presence. Like warmth,\" one user said.",
+        "url": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+        "source": "TechCrunch",
+        "published": "2026-02-06T14:10:00+00:00"
+      },
+      {
+        "id": "47727e62b575",
+        "title": "£99,987 and counting: graduates trapped by ballooning student loans",
+        "summary": "As their debts rise, graduates reveal how loans are reshaping careers, finances and faith in the systemStudent loans: why is Martin Lewis clashing with Rachel Reeves?Growing anger over the plight of millions of graduates saddled with ballooning student loan debts is threatening to develop into a fre...",
+        "url": "https://www.theguardian.com/money/2026/feb/06/graduates-student-loans-finances",
+        "source": "Business | The Guardian",
+        "published": "2026-02-06T14:00:10+00:00"
+      },
+      {
+        "id": "83a2333416fc",
+        "title": "Spotify changes developer mode API to require premium accounts, limits test users",
+        "summary": "Spotify is now limiting each app to only five users, and requires devs to have a Premium subscription. If developers need to make their app available to a wider user base, they will have to apply for extended quota.",
+        "url": "https://techcrunch.com/2026/02/06/spotify-changes-developer-mode-api-to-require-premium-accounts-limits-test-users/",
+        "source": "TechCrunch",
+        "published": "2026-02-06T14:00:00+00:00"
+      },
+      {
+        "id": "1ddfa21e12c9",
+        "title": "Most of England’s smart motorways are poor value for money, official reports find",
+        "summary": "AA says long-awaited evaluations show schemes are a ‘catastrophic waste of time, money and effort’Business live – latest updatesMost of England’s smart motorway schemes have proved poor or very poor value for money, according to assessments by the government agency that built them.Official evaluatio...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/06/smart-motorways-poor-value-report-aa",
+        "source": "Business | The Guardian",
+        "published": "2026-02-06T13:48:45+00:00"
+      },
+      {
+        "id": "f2a757622bb3",
+        "title": "BBC licence fee to rise by £5.50 to £180 a year from April",
+        "summary": "Inflation-linked increase comes as ministers continue to review options for BBC’s future fundingUK politics live – latest updatesBusiness live – latest updatesThe TV licence fee is to increase from £174.50 to £180 a year from 1 April, the Department for Culture, Media and Sport (DCMS) has said.The D...",
+        "url": "https://www.theguardian.com/media/2026/feb/06/bbc-licence-fee-to-rise-from-april",
+        "source": "Business | The Guardian",
+        "published": "2026-02-06T12:53:23+00:00"
+      },
+      {
+        "id": "99af928b9242",
+        "title": "Boss of lobbying firm founded with Peter Mandelson quits after Epstein revelations",
+        "summary": "Ben Wegg-Prosser resigns from Global Counsel as emails show Epstein’s help was sought in setting up the companyUK politics live – latest updatesA former No 10 aide has quit as chief executive of the influential lobbying firm he co-founded with Peter Mandelson following revelations from the Jeffrey E...",
+        "url": "https://www.theguardian.com/politics/2026/feb/06/ben-wegg-prosser-boss-lobbying-firm-peter-mandelson-quits-jeffrey-epstein-revelations",
+        "source": "Business | The Guardian",
+        "published": "2026-02-06T12:48:41+00:00"
+      },
+      {
+        "id": "f47005a0b6ae",
+        "title": "Rocket Report: SpaceX probes upper stage malfunction; Starship testing resumes",
+        "summary": "Amazon has booked 10 more launches with SpaceX, citing a \"near-term shortage in launch capacity.\"",
+        "url": "https://arstechnica.com/space/2026/02/rocket-report-spacex-probes-upper-stage-malfunction-starship-testing-resumes/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-06T12:00:50+00:00"
+      },
+      {
+        "id": "a0be6e9cf483",
+        "title": "Hail our new robot overlords! Amazon warehouse tour offers glimpse of future",
+        "summary": "At its new Stone Mountain, Georgia, facility, Roomba-like robots shuffle between stacks, another adds shipping labels while another arranges packages in palletsOne of the reasons Amazon is spending billions on robots? They don’t need bathroom breaks. Arriving a few minutes early to the public tour o...",
+        "url": "https://www.theguardian.com/technology/2026/feb/06/amazon-georgia-warehouse-tour-robots",
+        "source": "Business | The Guardian",
+        "published": "2026-02-06T12:00:07+00:00"
+      },
+      {
+        "id": "d2bbf93174cf",
+        "title": "TikTok could be forced to change app’s ‘addictive design’ by European Commission",
+        "summary": "Preliminary EU ruling says app shifts brains of users into ‘autopilot mode’, with concerns for children and vulnerable adultsBusiness live – latest updatesTikTok could be forced into changes to make the app less addictive to users after the EU indicated the platform had breached the bloc’s digital s...",
+        "url": "https://www.theguardian.com/technology/2026/feb/06/tiktok-app-addictive-design-preliminary-ruling-european-commission",
+        "source": "Business | The Guardian",
+        "published": "2026-02-06T11:57:10+00:00"
+      },
+      {
+        "id": "8b7e87871f1c",
+        "title": "Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea",
+        "summary": "Production source says it takes \"weeks\" to produce just minutes of usable video.",
+        "url": "https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-06T11:30:17+00:00"
       },
       {
         "id": "37103af39617",
@@ -95,18 +175,18 @@
         "published": "2026-02-06T02:42:45+00:00"
       },
       {
-        "id": "e9c682168ed4",
-        "title": "Japan cherry blossom festival cancelled because of unruly tourist ‘crisis’",
-        "summary": "Authorities scrap Arakurayama Sengen park cherry blossom festival near Mount Fuji because of tourists trespassing, littering and ‘defecating in private yards’A Japanese cherry blossom festival near Mount Fuji has been cancelled after officials cited a rise in disruptive tourist behaviour.On Tuesday,...",
-        "url": "https://www.theguardian.com/world/2026/feb/06/japan-cherry-blossom-festival-cancelled-tourists",
-        "source": "Business | The Guardian",
-        "published": "2026-02-06T00:16:44+00:00"
-      },
-      {
         "id": "cf38b14eb87c",
         "title": "Universities in exile: displaced scholars count the costs of starting afresh",
         "summary": "Nature, Published online: 06 February 2026; doi:10.1038/d41586-025-04160-8War and political unrest can force staff members and students to uproot their lives, exacting a heavy personal and professional toll.",
         "url": "https://www.nature.com/articles/d41586-025-04160-8",
+        "source": "Nature",
+        "published": "2026-02-06T00:00:00+00:00"
+      },
+      {
+        "id": "166d019c73a3",
+        "title": "OpenClaw AI chatbots are running amok — these scientists are listening in",
+        "summary": "Nature, Published online: 06 February 2026; doi:10.1038/d41586-026-00370-wArtificial-intelligence agents have their own social-media platform and are publishing AI-generated research papers on their own preprint server.",
+        "url": "https://www.nature.com/articles/d41586-026-00370-w",
         "source": "Nature",
         "published": "2026-02-06T00:00:00+00:00"
       },
@@ -127,95 +207,63 @@
         "published": "2026-02-05T23:53:42+00:00"
       },
       {
-        "id": "8c721a8cd026",
-        "title": "Amazon reveals plans to spend $200bn in one year the day after Bezos guts Washington Post",
-        "summary": "Tech giant reports $213bn in revenue after its founder, who owns the Post, lays off a third of newspaper’s employeesAmazon announced plans to spend $200bn on artificial intelligence and robotics this year, the latest tech giant to vow fresh enormous investments in the artificial intelligence arms ra...",
-        "url": "https://www.theguardian.com/technology/2026/feb/05/amazon-ai-robotics-bezos-washington-post",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T23:36:11+00:00"
-      },
-      {
         "id": "e32122fa11a1",
         "title": "Reddit looks to AI search as its next big opportunity",
         "summary": "During the company's fourth-quarter earnings call on Thursday, it offered an update on its plans to merge traditional and AI search together and hinted that although search is not yet monetized, \"it's an enormous market and opportunity.\"",
         "url": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
         "source": "TechCrunch",
         "published": "2026-02-05T23:20:27+00:00"
-      },
-      {
-        "id": "3e997e61669a",
-        "title": "AWS revenue continues to soar as cloud demand remains high",
-        "summary": "AWS recorded its best quarter, in terms of revenue growth, in 13 quarters in Q4 2025 as AI drives AWS adoption.",
-        "url": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T23:11:37+00:00"
-      },
-      {
-        "id": "86cafedaaa7b",
-        "title": "AI companies want you to stop chatting with bots and start managing them",
-        "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
-        "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-05T22:47:54+00:00"
-      },
-      {
-        "id": "bbb26b7cd047",
-        "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
-        "summary": "In 2026, Amazon plans to spend $200 billion in capex. Google is just behind at $175 billion to $185 billion. It's a lot of money!",
-        "url": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T22:43:11+00:00"
-      },
-      {
-        "id": "0eb6fcb611f5",
-        "title": "Bitcoin loses half its value in three months amid crypto crunch",
-        "summary": "World’s most prominent cryptocurrency peaked at $126,000 in October 2025, only to see its value slump steeplyBitcoin’s price sank to $63,000 on Thursday, its lowest level in more than a year, and half its all-time peak of $126,000, reached in October 2025. A months-long dip in cryptocurrency prices ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/05/bitcoin-cryptocurrency-slump",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T22:30:55+00:00"
-      },
-      {
-        "id": "76efd5f0e5b4",
-        "title": "Bald eagles and Lynyrd Skynyrd: is Budweiser’s all-American Super Bowl ad serious?",
-        "summary": "Featuring an unlikely animal friendship, the commercial boasts enough patriotic iconography to verge on self-parodyThree years after its sister brand, Bud Light, faced a rightwing boycott over a transgender spokesperson, Budweiser’s new Super Bowl ad, American Icons, contains absolutely nothing that...",
-        "url": "https://www.theguardian.com/business/2026/feb/05/budweiser-super-bowl-ad",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T22:28:19+00:00"
-      },
-      {
-        "id": "96962fc46102",
-        "title": "Alton Towers to test excluding people with autism and ADHD from disability fast lane",
-        "summary": "Half-term trial will limit ride access passes for those with additional needs and offer calmer spaces to people who find crowds difficultPeople with attention deficit hyperactivity disorder (ADHD), anxiety and autism will be prevented from using fast-lane disability queueing passes at Alton Towers d...",
-        "url": "https://www.theguardian.com/society/2026/feb/05/alton-towers-to-test-excluding-people-with-autism-and-adhd-from-disability-fast-lane",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T22:22:34+00:00"
-      },
-      {
-        "id": "6d66a32cc665",
-        "title": "The Switch 2 is getting a new Virtual Console (kind of)",
-        "summary": "Hamster Corp.'s new \"Console Archives\" does what Nintendon't.",
-        "url": "https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-05T22:14:34+00:00"
-      },
-      {
-        "id": "90f18b5ecddf",
-        "title": "With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code",
-        "summary": "The emphasis is on \"mid-turn steering and frequent progress updates.\"",
-        "url": "https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-05T21:47:06+00:00"
-      },
-      {
-        "id": "72b89db6786d",
-        "title": "The Washington Post is retreating from Silicon Valley when it matters most",
-        "summary": "The Bezos-owned newspaper gutted its San Francisco bureau and coverage of tech — including journalists reporting on Amazon and Blue Origin.",
-        "url": "https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T21:36:21+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "ee7961c15672",
+        "title": "Software sell-off deepens amid AI fears in ‘echoes of dot-com crash’ – business live",
+        "summary": "Rolling coverage of the latest economic and financial newsOnly seven new petrol-powered cars sold in Norway in JanuarySilver is also looking very volatile.The spot price of silver tumbled by 19% yesterday, hot on the heels of its 27% plunge on 30 January. Continue reading...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/06/uk-house-prices-jump-halifax-stock-markets-inflation-latest-news-updates",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-06T14:20:36+00:00"
+      },
+      {
+        "id": "8da0135ceb93",
+        "title": "Mewgenics review – infinite ways to skin a cat",
+        "summary": "PC; Edmund McMillen and Tyler Glaiel This mischievous roguelike escapade featuring utterly fiendish felines is compelling, and impressively tastelessYou know that old saying about cats having nine lives? Well, as far as Mewgenics is concerned, you can forget it – and you can also forget the idea tha...",
+        "url": "https://www.theguardian.com/games/2026/feb/06/mewgenics-review-infinite-ways-to-skin-a-cat",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-06T14:00:08+00:00"
+      },
+      {
+        "id": "a0be6e9cf483",
+        "title": "Hail our new robot overlords! Amazon warehouse tour offers glimpse of future",
+        "summary": "At its new Stone Mountain, Georgia, facility, Roomba-like robots shuffle between stacks, another adds shipping labels while another arranges packages in palletsOne of the reasons Amazon is spending billions on robots? They don’t need bathroom breaks. Arriving a few minutes early to the public tour o...",
+        "url": "https://www.theguardian.com/technology/2026/feb/06/amazon-georgia-warehouse-tour-robots",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-06T12:00:07+00:00"
+      },
+      {
+        "id": "d2bbf93174cf",
+        "title": "TikTok could be forced to change app’s ‘addictive design’ by European Commission",
+        "summary": "Preliminary EU ruling says app shifts brains of users into ‘autopilot mode’, with concerns for children and vulnerable adultsBusiness live – latest updatesTikTok could be forced into changes to make the app less addictive to users after the EU indicated the platform had breached the bloc’s digital s...",
+        "url": "https://www.theguardian.com/technology/2026/feb/06/tiktok-app-addictive-design-preliminary-ruling-european-commission",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-06T11:57:10+00:00"
+      },
+      {
+        "id": "e8870c69a2fc",
+        "title": "Modor DR-2 – a delicious, overlooked drum machine – adds trig conditions",
+        "summary": "Massive sound, lots of unique tricks, hard-hitting personality, onboard basslines &#8212; more people should be talking about the Modor DR-2. And amidst the blizzard of news last month, you might have missed that it now does trig conditions. OS014 landed at the end of December, so we may have missed...",
+        "url": "https://cdm.link/modor-dr-2-trig-conditions/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-06T11:55:29+00:00"
+      },
+      {
+        "id": "af707ae13049",
+        "title": "Why the Artemis II Crew Stays in Quarantine Before Their Journey to Moon",
+        "summary": "For two weeks, medical experts monitor the astronauts as they remain indoors, live in isolation, and avoid physical touch, all to prevent harmful microbes from traveling to space.",
+        "url": "https://www.wired.com/story/why-the-artemis-ii-crew-stays-in-quarantine-before-their-journey-to-moon/",
+        "source": "Science Latest",
+        "published": "2026-02-06T11:30:00+00:00"
+      },
       {
         "id": "42960673d2a6",
         "title": "Figure Skaters at the 2026 Winter Olympics Are Pushing the Limits of What’s Possible",
@@ -234,7 +282,7 @@
       },
       {
         "id": "323c31a262d1",
-        "title": "Arguments in a Landmark Social Media Addiction Trial Start Next Week. This Is What's at Stake",
+        "title": "A Landmark Social Media Addiction Case Puts Big Tech on Trial",
         "summary": "Juries will soon hear arguments in a case against Meta and Google that could reshape social media protections for kids.",
         "url": "https://www.wired.com/story/meta-google-youtube-social-media-addiction-trial/",
         "source": "Business Latest",
@@ -353,14 +401,6 @@
         "published": "2026-02-05T15:11:57+00:00"
       },
       {
-        "id": "68ee4dbd74e1",
-        "title": "How cryptocurrency’s second largest coin missed out on the industry’s boom",
-        "summary": "A leaked pitch to reshape Ethereum’s leadership exposed deep divisions over politics, power and ether’s static priceUS crypto developer Danny Ryan submitted a proposal in November 2024 to Vitalik Buterin, the founder and symbolic leader of Ethereum, a prominent blockchain powering the world’s second...",
-        "url": "https://www.theguardian.com/technology/2026/feb/05/cryptocurrency-ethereum-bitcoin-industry",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-05T15:00:39+00:00"
-      },
-      {
         "id": "d6a6f3d4bd74",
         "title": "How iPhones Made a Surprising Comeback in China",
         "summary": "Huawei’s and Xiaomi’s flagship devices are packed with impressive features, but Apple is dominating the Chinese smartphone market again—for now.",
@@ -375,49 +415,17 @@
         "url": "https://www.theguardian.com/thefilter/2025/jan/15/best-treadmills-running-machines",
         "source": "Technology | The Guardian",
         "published": "2026-02-05T10:00:16+00:00"
-      },
-      {
-        "id": "b743174c123f",
-        "title": "What does the disappearance of a $100bn deal mean for the AI economy?",
-        "summary": "Apparent collapse of Nvidia–OpenAI tie-up raises questions about circular funding and who will bear the cost of AI’s expansionDid the circular AI economy just wobble? Last week it was reported that a much-discussed $100bn deal – announced last September – between Nvidia and OpenAI might not be happe...",
-        "url": "https://www.theguardian.com/technology/2026/feb/05/disapperance-100bn-deal-ai-circular-economy-funding-nvidia-openai",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-05T07:00:24+00:00"
-      },
-      {
-        "id": "19c635eb57f2",
-        "title": "Google Pixel Buds 2a review: great Bluetooth earbuds at a good price",
-        "summary": "Compact and comfortable Pixel Buds have noise cancelling, decent battery life and good everyday soundGoogle’s latest budget Pixel earbuds are smaller, lighter, more comfortable and have noise cancelling, plus a case that allows you to replace the battery at home.The Pixel Buds 2a uses the design of ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/05/google-pixel-buds-2a-review-great-bluetooth-earbuds-at-a-good-price",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-05T07:00:24+00:00"
-      },
-      {
-        "id": "72eb0b972ae7",
-        "title": "美議員推新法杜絕詐騙廣告  Meta 恐首當其衝",
-        "summary": "美國跨黨派參議員 4 日提出打詐新法，要求社群平台業者對詐騙廣告負起治理責任，以防杜日益猖獗的詐騙案件，此舉恐 [&#8230;]",
-        "url": "https://infosecu.technews.tw/2026/02/05/us-senators-unveil-bill-to-prevent-scam-ads-on-social-media-platforms/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-02-05T04:20:30+00:00"
-      },
-      {
-        "id": "7c08f2aa9f9d",
-        "title": "Spotlighting The World Factbook as We Bid a Fond Farewell",
-        "summary": "Spotlighting The World Factbook as We Bid a Fond Farewell\nSomewhat devastating news today from CIA:\n\nOne of CIA’s oldest and most recognizable intelligence publications, The World Factbook, has sunset.\n\nThere's not even a hint as to why they decided to stop maintaining this publication, which has be...",
-        "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-05T00:23:38+00:00"
-      },
-      {
-        "id": "325410683474",
-        "title": "Google parent earnings beat projections amid plans to invest deeply in AI",
-        "summary": "Alphabet reports $34.5bn profit and revenue soars 48% in recent quarter as it plans a sharp increase in AI spendingGoogle’s parent company, Alphabet, beat Wall Street expectations on Wednesday, and is planning a sharp increase in capital spending in 2026 as it continues to invest deeply in AI infras...",
-        "url": "https://www.theguardian.com/technology/2026/feb/04/google-alphabet-earnings-report",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-05T00:20:45+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "d00aec536ee5",
+        "title": "Performance in Dialogue: Exploring Emirati and Polynesian Traditions through Al Harbiya and Haka",
+        "summary": "Last month, Andrew Eisenberg moderated Performance in Dialogue: Harbiya and Haka, an intercultural encounter connecting Emirati and Polynesian performance traditions. Bringing Al Harbiya together with Haka, the session combined performance &#8230; Continue reading Performance in Dialogue: Exploring ...",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/06/performance-in-dialogue-exploring-emirati-and-polynesian-traditions-through-al-harbiya-and-haka/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-02-06T12:45:23+00:00"
+      },
       {
         "id": "b19b228a022d",
         "title": "【活動轉知】 「100Y 山林有時：_______」特展 展期：2026年2月6日(五)～7月26日(日) 地點：台灣設計館03展間（臺北市信義區光復南路133號松山文創園區內） 主辦單位：農業部林業及自然保育署 https://www.f...",
@@ -609,14 +617,6 @@
         "url": "https://gis.rchss.sinica.edu.tw/paper_20260131/",
         "source": "中央研究院人社中心地理資訊科學研究專題中心",
         "published": "2026-02-01T19:49:26+00:00"
-      },
-      {
-        "id": "eed4ee2be99a",
-        "title": "P vs. NP and the Difficulty of Computation: A Ruliological Approach",
-        "summary": "Empirical Theoretical Computer Science “Could there be a faster program for that?” It’s a fundamental type of question in theoretical computer science. But except in special cases, such a question has proved fiendishly difficult to answer. And, for example, in half a century, almost no progress has ...",
-        "url": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
-        "source": "Stephen Wolfram Writings",
-        "published": "2026-01-30T19:26:48+00:00"
       }
     ]
   }
