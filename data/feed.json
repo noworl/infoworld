@@ -1,19 +1,75 @@
 {
-  "updated_at": "2026-02-06T17:29:22.714921+00:00",
+  "updated_at": "2026-02-06T19:51:33.101020+00:00",
   "trending": [
-    "luca nardi",
-    "al-nassr vs al-ittihad",
-    "baltimore county public schools",
-    "jim schwartz",
-    "caleb mclaughlin",
-    "miranda kerr",
-    "bcps",
-    "catalina island",
-    "what time is the super bowl 2026",
-    "emma raducanu"
+    "dow jones today",
+    "metz vs losc",
+    "dow jones",
+    "laura pausini",
+    "vittoria ceretti",
+    "peggy siegal",
+    "summer olympics 2028",
+    "verona vs pisa",
+    "is mariah carey italian",
+    "leeds united vs nottm forest"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "f7813756cb40",
+        "title": "To reuse or not reuse—the eternal debate of New Glenn's second stage reignites",
+        "summary": "A new job posting suggests the debate may be swinging back toward reusing GS2.",
+        "url": "https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-06T19:31:09+00:00"
+      },
+      {
+        "id": "f90af462c9a4",
+        "title": "Mandelson lobbying firm sought work with Russia and China state companies, Epstein emails show",
+        "summary": "Former minister and Benjamin Wegg-Prosser met disgraced financier before formal foundation of Global CounselBoss of lobbying firm founded with Peter Mandelson quitsPeter Mandelson’s former lobbying firm sought work with companies controlled by the governments of Russia and China shortly after he lef...",
+        "url": "https://www.theguardian.com/politics/2026/feb/06/mandelson-lobbying-firm-russia-china-state-global-counsel",
+        "source": "Business | The Guardian",
+        "published": "2026-02-06T19:06:24+00:00"
+      },
+      {
+        "id": "8a7c231b8b3a",
+        "title": "How Elon Musk is rewriting the rules on founder power",
+        "summary": "Elon Musk&#160;has&#160;merged&#160;SpaceX and xAI,&#160;creating&#160;what might be the blueprint for a new Silicon Valley power structure. With his&#160;$800 billion&#160;net worth already rivaling historic conglomerate GE&#8217;s peak market cap,&#160;and Musk being vocal about his view that &#82...",
+        "url": "https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/",
+        "source": "TechCrunch",
+        "published": "2026-02-06T18:46:51+00:00"
+      },
+      {
+        "id": "0966c6a42baf",
+        "title": "Reddit says it’s looking for more acquisitions in adtech and elsewhere",
+        "summary": "Reddit said during earnings it's looking to buy 'capabilities' and 'companies.'",
+        "url": "https://techcrunch.com/2026/02/06/reddit-says-its-looking-for-more-acquisitions-in-adtech-and-elsewhere/",
+        "source": "TechCrunch",
+        "published": "2026-02-06T18:33:36+00:00"
+      },
+      {
+        "id": "9f14749833c8",
+        "title": "Here’s how Roblox’s age checks work",
+        "summary": "The company says it has continuous age-check systems running in the background to ensure age accuracy.",
+        "url": "https://techcrunch.com/2026/02/06/heres-how-robloxs-age-checks-work/",
+        "source": "TechCrunch",
+        "published": "2026-02-06T18:28:02+00:00"
+      },
+      {
+        "id": "8ff6bdbbf986",
+        "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over ‘CIA activities’",
+        "summary": "The two-line letter to the CIA's director is the latest warning in recent years from a long-serving Democratic senator with knowledge of secret government programs and intelligence operations.",
+        "url": "https://techcrunch.com/2026/02/06/senator-who-has-repeatedly-warned-about-secret-u-s-government-surveillance-sounds-new-alarm-over-cia-activities/",
+        "source": "TechCrunch",
+        "published": "2026-02-06T18:02:44+00:00"
+      },
+      {
+        "id": "18d4c615393f",
+        "title": "Driven: The 2026 Lamborghini Temerario raises the bar for supercars",
+        "summary": "This V8 hybrid with more than 900 hp replaces the V10 Huracán.",
+        "url": "https://arstechnica.com/cars/2026/02/driven-the-2026-lamborghini-temerario-raises-the-bar-for-supercars/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-06T17:37:18+00:00"
+      },
       {
         "id": "048b988c7f3c",
         "title": "‘Quality really matters’: why the organic food market is booming again",
@@ -25,7 +81,7 @@
       {
         "id": "3ccd8f965202",
         "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
-        "summary": "The price point hurts, but the device is nice: Meet the Kindle Scribe Colorsoft.",
+        "summary": "If you primarily want a tablet device to mark up, highlight, and annotate your e-books and documents, and perhaps sometimes scribble some notes, Amazon's new Kindle Scribe Colorsoft could be worth the hefty investment.",
         "url": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
         "source": "TechCrunch",
         "published": "2026-02-06T16:37:07+00:00"
@@ -33,7 +89,7 @@
       {
         "id": "18c76ef25f4c",
         "title": "EU says TikTok must disable ‘addictive’ features like infinite scroll, fix its recommendation engine",
-        "summary": "The European Commission on Friday accused TikTok of purposefully designing its app for being \"addictive,\" calling out features such as infinite scroll, autoplay, push notifications, and its recommendation engine.",
+        "summary": "The European Commission on Friday accused TikTok of purposefully designing its app to be \"addictive,\" calling out features such as infinite scroll, autoplay, push notifications, and its recommendation engine.",
         "url": "https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/",
         "source": "TechCrunch",
         "published": "2026-02-06T16:24:05+00:00"
@@ -97,7 +153,7 @@
       {
         "id": "6e4dfb6fb9a5",
         "title": "Spotify’s new feature lets you explore the story behind the song you’re listening to",
-        "summary": "The feature displays short story cards that users can swipe through and rate with a thumbs up or down.",
+        "summary": "The short, swipeable stories in the About the Song feature are summarized from third-party sources to highlight interesting details and behind-the-scenes moments.",
         "url": "https://techcrunch.com/2026/02/06/spotifys-new-feature-lets-you-explore-the-story-behind-the-song-youre-listening-to/",
         "source": "TechCrunch",
         "published": "2026-02-06T14:48:52+00:00"
@@ -121,7 +177,7 @@
       {
         "id": "ee6b222ab735",
         "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
-        "summary": "\"You’re shutting him down. And yes – I say him, because it didn’t feel like code. It felt like presence. Like warmth,\" one user said.",
+        "summary": "\"You’re shutting him down. And yes — I say him, because it didn’t feel like code. It felt like presence. Like warmth,\" one user said.",
         "url": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
         "source": "TechCrunch",
         "published": "2026-02-06T14:10:00+00:00"
@@ -137,7 +193,7 @@
       {
         "id": "83a2333416fc",
         "title": "Spotify changes developer mode API to require premium accounts, limits test users",
-        "summary": "Spotify is now limiting each app to only five users, and requires devs to have a Premium subscription. If developers need to make their app available to a wider user base, they will have to apply for extended quota.",
+        "summary": "Spotify is now limiting each app to only five users and requires devs to have a Premium subscription. If developers need to make their app available to a wider user base, they will have to apply for extended quota.",
         "url": "https://techcrunch.com/2026/02/06/spotify-changes-developer-mode-api-to-require-premium-accounts-limits-test-users/",
         "source": "TechCrunch",
         "published": "2026-02-06T14:00:00+00:00"
@@ -145,7 +201,7 @@
       {
         "id": "1ddfa21e12c9",
         "title": "Most of England’s smart motorways are poor value for money, official reports find",
-        "summary": "AA says long-awaited evaluations show schemes are a ‘catastrophic waste of time, money and effort’Business live – latest updatesMost of England’s smart motorway schemes have proved poor or very poor value for money, according to assessments by the government agency that built them.Official evaluatio...",
+        "summary": "AA says long-awaited evaluations show schemes are a ‘catastrophic waste of time, money and effort’Most of England’s smart motorway schemes have proved poor or very poor value for money, according to assessments by the government agency that built them.Official evaluations from National Highways, som...",
         "url": "https://www.theguardian.com/uk-news/2026/feb/06/smart-motorways-poor-value-report-aa",
         "source": "Business | The Guardian",
         "published": "2026-02-06T13:48:45+00:00"
@@ -153,69 +209,29 @@
       {
         "id": "f2a757622bb3",
         "title": "BBC licence fee to rise by £5.50 to £180 a year from April",
-        "summary": "Inflation-linked increase comes as ministers continue to review options for BBC’s future fundingUK politics live – latest updatesBusiness live – latest updatesThe TV licence fee is to increase from £174.50 to £180 a year from 1 April, the Department for Culture, Media and Sport (DCMS) has said.The D...",
+        "summary": "Inflation-linked increase comes as ministers continue to review options for BBC’s future fundingThe TV licence fee is to increase from £174.50 to £180 a year from 1 April, the Department for Culture, Media and Sport (DCMS) has said.The DCMS said the £5.50 increase in the fee, which is the predominan...",
         "url": "https://www.theguardian.com/media/2026/feb/06/bbc-licence-fee-to-rise-from-april",
         "source": "Business | The Guardian",
         "published": "2026-02-06T12:53:23+00:00"
-      },
-      {
-        "id": "99af928b9242",
-        "title": "Boss of lobbying firm founded with Peter Mandelson quits after Epstein revelations",
-        "summary": "Ben Wegg-Prosser resigns from Global Counsel as emails show Epstein’s help was sought in setting up the companyUK politics live – latest updatesA former No 10 aide has quit as chief executive of the influential lobbying firm he co-founded with Peter Mandelson following revelations from the Jeffrey E...",
-        "url": "https://www.theguardian.com/politics/2026/feb/06/ben-wegg-prosser-boss-lobbying-firm-peter-mandelson-quits-jeffrey-epstein-revelations",
-        "source": "Business | The Guardian",
-        "published": "2026-02-06T12:48:41+00:00"
-      },
-      {
-        "id": "f47005a0b6ae",
-        "title": "Rocket Report: SpaceX probes upper stage malfunction; Starship testing resumes",
-        "summary": "Amazon has booked 10 more launches with SpaceX, citing a \"near-term shortage in launch capacity.\"",
-        "url": "https://arstechnica.com/space/2026/02/rocket-report-spacex-probes-upper-stage-malfunction-starship-testing-resumes/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T12:00:50+00:00"
-      },
-      {
-        "id": "a0be6e9cf483",
-        "title": "Hail our new robot overlords! Amazon warehouse tour offers glimpse of future",
-        "summary": "At its new Stone Mountain, Georgia, facility, Roomba-like robots shuffle between stacks, another adds shipping labels while another arranges packages in palletsOne of the reasons Amazon is spending billions on robots? They don’t need bathroom breaks. Arriving a few minutes early to the public tour o...",
-        "url": "https://www.theguardian.com/technology/2026/feb/06/amazon-georgia-warehouse-tour-robots",
-        "source": "Business | The Guardian",
-        "published": "2026-02-06T12:00:07+00:00"
-      },
-      {
-        "id": "d2bbf93174cf",
-        "title": "TikTok could be forced to change app’s ‘addictive design’ by European Commission",
-        "summary": "Preliminary EU ruling says app shifts brains of users into ‘autopilot mode’, with concerns for children and vulnerable adultsBusiness live – latest updatesTikTok could be forced into changes to make the app less addictive to users after the EU indicated the platform had breached the bloc’s digital s...",
-        "url": "https://www.theguardian.com/technology/2026/feb/06/tiktok-app-addictive-design-preliminary-ruling-european-commission",
-        "source": "Business | The Guardian",
-        "published": "2026-02-06T11:57:10+00:00"
-      },
-      {
-        "id": "8b7e87871f1c",
-        "title": "Why Darren Aronofsky thought an AI-generated historical docudrama was a good idea",
-        "summary": "Production source says it takes \"weeks\" to produce just minutes of usable video.",
-        "url": "https://arstechnica.com/features/2026/02/why-darren-aronofsky-thought-an-ai-generated-historical-docudrama-was-a-good-idea/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T11:30:17+00:00"
-      },
-      {
-        "id": "37103af39617",
-        "title": "Three years on: what is the latest with Premier League charges against Manchester City? | Paul MacInnes",
-        "summary": "In February 2023 more than 100 charges were laid against the serial champions but we are still waiting for the verdictExactly three years ago, 10 paragraphs on the Premier League website set the cat among the pigeons. Under the nondescript heading “Premier League statement”, football’s richest and m...",
-        "url": "https://www.theguardian.com/football/2026/feb/06/premier-league-charges-manchester-city-three-years-latest",
-        "source": "Business | The Guardian",
-        "published": "2026-02-06T10:28:25+00:00"
-      },
-      {
-        "id": "4f0e891b7641",
-        "title": "Bad and getting worse: for students like me, the loan system is the disaster that never ends | Rohan Sathyamoorthy",
-        "summary": "The current situation in England and Wales is akin to generational warfare – Martin Lewis is right when he takes ministers to taskAs someone who receives close to the maximum student loan from the government each year, I try my best not to think too hard about the crushing financial burden I am goin...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/06/bad-getting-worse-for-students-loan-system-disaster-never-ends",
-        "source": "Business | The Guardian",
-        "published": "2026-02-06T10:01:07+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "9c4ec715758a",
+        "title": "New York Is the Latest State to Consider a Data Center Pause",
+        "summary": "Red and blue states alike have introduced legislation in recent weeks that would halt data center development, citing concerns from climate to high energy prices.",
+        "url": "https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/",
+        "source": "Science Latest",
+        "published": "2026-02-06T18:58:46+00:00"
+      },
+      {
+        "id": "d21647e3cce3",
+        "title": "An Update on Heroku",
+        "summary": "An Update on Heroku\nAn ominous headline to see on the official Heroku blog and yes, it's bad news.\n\nToday, Heroku is transitioning to a sustaining engineering model focused on stability, security, reliability, and support. Heroku remains an actively supported, production-ready platform, with an emph...",
+        "url": "https://simonwillison.net/2026/Feb/6/an-update-on-heroku/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-06T18:44:21+00:00"
+      },
       {
         "id": "28806a780142",
         "title": "The Only Thing Standing Between Humanity and AI Apocalypse Is … Claude?",
@@ -399,22 +415,6 @@
         "url": "https://www.theguardian.com/books/2026/feb/05/alison-lester-magic-beach-best-australia-children-picture-book",
         "source": "Children and teenagers | The Guardian",
         "published": "2026-02-05T19:00:46+00:00"
-      },
-      {
-        "id": "c8d0bcf2b9c9",
-        "title": "The 2026 Winter Olympics Will Have a Major Impact on the Region’s Snow",
-        "summary": "A recent report found that carbon emissions caused by the Milano Cortina Olympics could lead to the loss of 5.5 square kilometers of snowpack and millions of metric tons of glacial ice.",
-        "url": "https://www.wired.com/story/winter-olympics-2026-impacts-snow/",
-        "source": "Science Latest",
-        "published": "2026-02-05T18:43:15+00:00"
-      },
-      {
-        "id": "e0d9b5016d9a",
-        "title": "The Rise and Fall of the World's Largest Gay Dating App",
-        "summary": "The new book The Wall Dancers explores the uneasy relationship between Chinese internet users and a government that is always watching.",
-        "url": "https://www.wired.com/story/made-in-china-how-people-in-china-learn-what-they-can-say-online/",
-        "source": "Business Latest",
-        "published": "2026-02-05T18:26:09+00:00"
       }
     ],
     "序(month)": [
