@@ -1,19 +1,51 @@
 {
-  "updated_at": "2026-02-05T23:00:53.292168+00:00",
+  "updated_at": "2026-02-06T05:08:17.890016+00:00",
   "trending": [
-    "scott bessent",
-    "horizon hunters gathering",
-    "maxine waters",
-    "nuclear treaty russia",
-    "john tonje",
-    "breeze airways",
-    "seth jarvis",
-    "what time is super bowl 2026",
-    "island boys",
-    "be stock"
+    "halle berry",
+    "milo ventimiglia",
+    "van hunt",
+    "weather snow storm",
+    "tarleton state basketball",
+    "nioh 3",
+    "collin gillespie",
+    "kara swisher",
+    "gui santos",
+    "darren woodson"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "cede87826264",
+        "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
+        "summary": "The startup -- with backing from Accel -- is building a financial layer that handles the authentication and micro-payments required for AI agents.",
+        "url": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T23:53:42+00:00"
+      },
+      {
+        "id": "e32122fa11a1",
+        "title": "Reddit looks to AI search as its next big opportunity",
+        "summary": "During the company's fourth-quarter earnings call on Thursday, it offered an update on its plans to merge traditional and AI search together and hinted that although search is not yet monetized, \"it's an enormous market and opportunity.\"",
+        "url": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T23:20:27+00:00"
+      },
+      {
+        "id": "3e997e61669a",
+        "title": "AWS revenue continues to soar as cloud demand remains high",
+        "summary": "AWS recorded its best quarter, in terms of revenue growth, in 13 quarters in Q4 2025 as AI drives AWS adoption.",
+        "url": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
+        "source": "TechCrunch",
+        "published": "2026-02-05T23:11:37+00:00"
+      },
+      {
+        "id": "86cafedaaa7b",
+        "title": "AI companies want you to stop chatting with bots and start managing them",
+        "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
+        "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T22:47:54+00:00"
+      },
       {
         "id": "bbb26b7cd047",
         "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
@@ -23,17 +55,33 @@
         "published": "2026-02-05T22:43:11+00:00"
       },
       {
+        "id": "6d66a32cc665",
+        "title": "The Switch 2 is getting a new Virtual Console (kind of)",
+        "summary": "Hamster Corp.'s new \"Console Archives\" does what Nintendon't.",
+        "url": "https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T22:14:34+00:00"
+      },
+      {
+        "id": "90f18b5ecddf",
+        "title": "With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code",
+        "summary": "The emphasis is on \"mid-turn steering and frequent progress updates.\"",
+        "url": "https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-05T21:47:06+00:00"
+      },
+      {
         "id": "72b89db6786d",
         "title": "The Washington Post is retreating from Silicon Valley when it matters most",
-        "summary": "The Bezos-owned newspaper gutted its San Francisco bureau and coverage of tech — including journalists reporting on Amazon and Blue Origin",
+        "summary": "The Bezos-owned newspaper gutted its San Francisco bureau and coverage of tech — including journalists reporting on Amazon and Blue Origin.",
         "url": "https://techcrunch.com/2026/02/05/the-washington-post-is-retreating-from-silicon-valley-when-it-matters-most/",
         "source": "TechCrunch",
         "published": "2026-02-05T21:36:21+00:00"
       },
       {
         "id": "16c5d96d664b",
-        "title": "A16z VC wants founders to stop stressing over insane ARR numbers",
-        "summary": "A16z VC Jennifer Li⁠, who oversees some of the firm's fastest growing AI companies, warns founders not to believe every ARR claim made on X.",
+        "title": "a16z VC wants founders to stop stressing over insane ARR numbers",
+        "summary": "Andreessen Horowitz VC Jennifer Li⁠, who oversees some of the firm's fastest-growing AI companies, warns founders not to believe every ARR claim made on X.",
         "url": "https://techcrunch.com/2026/02/05/a16z-vc-wants-founders-to-stop-stressing-over-insane-arr-numbers/",
         "source": "TechCrunch",
         "published": "2026-02-05T21:28:46+00:00"
@@ -49,7 +97,7 @@
       {
         "id": "73ee706753e1",
         "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
-        "summary": "The new model is build to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
+        "summary": "The new model is built to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
         "url": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
         "source": "TechCrunch",
         "published": "2026-02-05T20:01:39+00:00"
@@ -165,57 +213,33 @@
         "url": "https://www.theguardian.com/business/2026/feb/05/shell-increases-multibillion-pound-debt-pile-record-shareholder-payouts-oil-prices",
         "source": "Business | The Guardian",
         "published": "2026-02-05T17:45:54+00:00"
-      },
-      {
-        "id": "fb99f0ea4362",
-        "title": "Secondary sales shift from founder windfalls to employee-retention tools",
-        "summary": "AI startups like Clay and ElevenLabs are using early liquidity to keep their best talent.",
-        "url": "https://techcrunch.com/2026/02/05/secondary-sales-shift-from-founder-windfalls-to-employee-retention-tools/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T17:30:00+00:00"
-      },
-      {
-        "id": "5eba6f4988b8",
-        "title": "Meta tests a stand-alone app for its AI-generated ‘Vibes’ videos",
-        "summary": "Launched last September, Vibes lets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.",
-        "url": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T17:19:01+00:00"
-      },
-      {
-        "id": "264fb9ea2c92",
-        "title": "Rio Tinto and Glencore abandon revived $260bn merger plan",
-        "summary": "After weeks of talks mining companies say they cannot reach a deal that delivers value for shareholdersRio Tinto and Glencore have abandoned plans for a $260bn merger, walking away from a deal that would have created the world’s largest mining company.Rio Tinto said it was no longer considering a “m...",
-        "url": "https://www.theguardian.com/business/2026/feb/05/rio-tinto-glencore-abandon-260bn-merger-mining",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T17:18:17+00:00"
-      },
-      {
-        "id": "9ed882f68169",
-        "title": "Pacific Fusion finds a cheaper way to make its fusion reactor work",
-        "summary": "The fusion power startup recently completed some experiments at Sandia National Laboratories and shared the results exclusively with TechCrunch.",
-        "url": "https://techcrunch.com/2026/02/05/pacific-fusion-finds-a-cheaper-way-to-make-its-fusion-reactor-work/",
-        "source": "TechCrunch",
-        "published": "2026-02-05T17:00:00+00:00"
-      },
-      {
-        "id": "78e07600514c",
-        "title": "US job openings dropped to a five-year low in December 2025, report shows",
-        "summary": "Data from November 2025 was also revised lower amid a softening in labor market conditions at the end of the yearUS job openings dropped to the lowest level in more than five years in December and data for the prior month was revised lower amid a softening in labor market conditions at the end of 20...",
-        "url": "https://www.theguardian.com/business/2026/feb/05/us-job-openings-five-year-low-december-report",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T16:48:44+00:00"
-      },
-      {
-        "id": "debc8f5d5a18",
-        "title": "Airlines should tell UK customers the carbon impact of flights, watchdog says",
-        "summary": "CAA’s guidance also including booking sites to enable passengers to make ‘more informed travel decisions’Airlines and booking firms should give UK customers information about the environmental impact of their flights, the regulator has said.The Civil Aviation Authority urged booking sites to enable ...",
-        "url": "https://www.theguardian.com/environment/2026/feb/05/watchdog-urges-airlines-tell-uk-customers-carbon-impact-flights",
-        "source": "Business | The Guardian",
-        "published": "2026-02-05T16:05:00+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "08454aeec9a0",
+        "title": "Quoting Karel D'Oosterlinck",
+        "summary": "When I want to quickly implement a one-off experiment in a part of the codebase I am unfamiliar with, I get codex to do extensive due diligence. Codex explores relevant slack channels, reads related discussions, fetches experimental branches from those discussions, and cherry picks useful changes fo...",
+        "url": "https://simonwillison.net/2026/Feb/6/karel-doosterlinck/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-06T00:42:22+00:00"
+      },
+      {
+        "id": "54e12f30c250",
+        "title": "Two Titanic Structures Hidden Deep Within the Earth Have Altered the Magnetic Field for Millions of Years",
+        "summary": "A team of geologists found for the first time evidence linking regions of low seismic velocity and the shape of the Earth’s magnetic field.",
+        "url": "https://www.wired.com/story/titanic-structures-earth-magnetic-field-millions-of-years/",
+        "source": "Science Latest",
+        "published": "2026-02-05T23:58:25+00:00"
+      },
+      {
+        "id": "f7b48c1b1727",
+        "title": "Mitchell Hashimoto: My AI Adoption Journey",
+        "summary": "Mitchell Hashimoto: My AI Adoption Journey\nSome really good and unconventional tips in here for getting to a place with coding agents where they demonstrably improve your workflow and productivity. I particularly liked:\n\n\nReproduce your own work - when learning to use coding agents Mitchell went thr...",
+        "url": "https://simonwillison.net/2026/Feb/5/ai-adoption-journey/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-05T23:39:07+00:00"
+      },
       {
         "id": "85f2310a1446",
         "title": "Loyalty Is Dead in Silicon Valley",
@@ -391,33 +415,17 @@
         "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
         "source": "Google DeepMind",
         "published": "2026-02-04T16:55:00+00:00"
-      },
-      {
-        "id": "005369006a4f",
-        "title": "‘The right has won the family’: my relentless search for lefty mommy bloggers",
-        "summary": "The most popular mom content tends to be rightwing tradwife propaganda or not political at all – pushing progressive creators out of the algorithmFor someone who doesn’t have a marble island in their kitchen I spend a disproportionate amount of time staring at marble kitchen islands, slack-jawed, br...",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/04/left-progressive-mom-influencers",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-04T16:00:47+00:00"
-      },
-      {
-        "id": "54d033380523",
-        "title": "告別流量成癮：生成式AI浪潮下，台灣新聞媒體的生存保衛戰",
-        "summary": "當新聞業正同時被數位平台與創作者經濟高牆擠壓，唯一能突圍的，仍是一份人工智慧無法代勞的品牌信任。",
-        "url": "https://www.twreporter.org/a/taiwan-news-media-faces-survival-battle-against-generative-ai-wave",
-        "source": "報導者",
-        "published": "2026-02-04T16:00:00+00:00"
-      },
-      {
-        "id": "905e08b664c7",
-        "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
-        "summary": "“Too many GPUs makes you lazy,” says the French startup’s vice president of science operations, as the company carves out a different path than the major US AI companies.",
-        "url": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
-        "source": "Business Latest",
-        "published": "2026-02-04T15:32:45+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "4519bd5bf772",
+        "title": "科技爱好者周刊（第 384 期）：为什么软件股下跌",
+        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+        "url": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html",
+        "source": "阮一峰的网络日志",
+        "published": "2026-02-06T00:14:20+00:00"
+      },
       {
         "id": "7eeece706984",
         "title": "與中央警察大學簽訂學術合作備忘錄 中央研究院人文社會科學研究中心(地理資訊科學研究專題中心)與中央警察大學警政管理學院暨警察科技學院簽訂學術合作備忘錄，期待應用資訊技術於警政管理及科技之跨學科綜合研究，以及基礎地理空間資料與技術的共享與交流...",
@@ -609,14 +617,6 @@
         "url": "https://blog.freesound.org/?p=2352",
         "source": "The Freesound Blog",
         "published": "2026-01-30T11:10:55+00:00"
-      },
-      {
-        "id": "4c700af1c688",
-        "title": "科技爱好者周刊（第 383 期）：你是第几级 AI 编程",
-        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-01-30T00:10:32+00:00"
       }
     ]
   }
