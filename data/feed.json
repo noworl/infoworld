@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-02-06T19:51:33.101020+00:00",
+  "updated_at": "2026-02-06T21:06:12.380547+00:00",
   "trending": [
-    "dow jones today",
-    "metz vs losc",
-    "dow jones",
-    "laura pausini",
-    "vittoria ceretti",
-    "peggy siegal",
-    "summer olympics 2028",
-    "verona vs pisa",
-    "is mariah carey italian",
-    "leeds united vs nottm forest"
+    "san marino",
+    "norway",
+    "great britain",
+    "luxembourg",
+    "kliff kingsbury",
+    "madagascar",
+    "celta vigo",
+    "liechtenstein",
+    "latvia",
+    "kosovo"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "6c143cf362b2",
+        "title": "Google and Microsoft-backed Terradot acquires carbon removal competitor",
+        "summary": "The acquisition could mark the beginning of consolidation in the carbon removal market since removal costs remain higher than buyers would like to pay.",
+        "url": "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/",
+        "source": "TechCrunch",
+        "published": "2026-02-06T20:26:29+00:00"
+      },
+      {
+        "id": "7160054fbcdc",
+        "title": "Maybe AI agents can be lawyers after all",
+        "summary": "This week's release of Opus 4.6 shook up the agentic AI leaderboards.",
+        "url": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
+        "source": "TechCrunch",
+        "published": "2026-02-06T20:26:23+00:00"
+      },
       {
         "id": "f7813756cb40",
         "title": "To reuse or not reuse—the eternal debate of New Glenn's second stage reignites",
@@ -197,22 +213,6 @@
         "url": "https://techcrunch.com/2026/02/06/spotify-changes-developer-mode-api-to-require-premium-accounts-limits-test-users/",
         "source": "TechCrunch",
         "published": "2026-02-06T14:00:00+00:00"
-      },
-      {
-        "id": "1ddfa21e12c9",
-        "title": "Most of England’s smart motorways are poor value for money, official reports find",
-        "summary": "AA says long-awaited evaluations show schemes are a ‘catastrophic waste of time, money and effort’Most of England’s smart motorway schemes have proved poor or very poor value for money, according to assessments by the government agency that built them.Official evaluations from National Highways, som...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/06/smart-motorways-poor-value-report-aa",
-        "source": "Business | The Guardian",
-        "published": "2026-02-06T13:48:45+00:00"
-      },
-      {
-        "id": "f2a757622bb3",
-        "title": "BBC licence fee to rise by £5.50 to £180 a year from April",
-        "summary": "Inflation-linked increase comes as ministers continue to review options for BBC’s future fundingThe TV licence fee is to increase from £174.50 to £180 a year from 1 April, the Department for Culture, Media and Sport (DCMS) has said.The DCMS said the £5.50 increase in the fee, which is the predominan...",
-        "url": "https://www.theguardian.com/media/2026/feb/06/bbc-licence-fee-to-rise-from-april",
-        "source": "Business | The Guardian",
-        "published": "2026-02-06T12:53:23+00:00"
       }
     ],
     "破(day)": [
