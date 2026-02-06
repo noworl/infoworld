@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-06T22:54:42.185552+00:00",
+  "updated_at": "2026-02-06T23:54:54.261375+00:00",
   "trending": [
-    "maha",
-    "knicks vs pistons",
-    "stray kids movie",
-    "jd vance booed",
-    "terry gannon",
-    "alberto tomba",
-    "henrique maderite",
-    "cecilia bartoli",
-    "super bowl halftime show",
-    "charlize theron"
+    "knicks injury report",
+    "steve martin",
+    "bam adebayo",
+    "ryo hisatsune",
+    "michael vick",
+    "jordan spieth",
+    "joel dahmen",
+    "mardi gras 2026",
+    "pasto - bucaramanga",
+    "irs stimulus check"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "d175a6469392",
+        "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
+        "summary": "Apple engineers are working to support AI chatbot apps over the next few months.",
+        "url": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
+        "source": "TechCrunch",
+        "published": "2026-02-06T23:53:43+00:00"
+      },
       {
         "id": "b9e153663ba1",
         "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
@@ -205,17 +213,17 @@
         "url": "https://arstechnica.com/space/2026/02/congress-advances-bill-requiring-nasa-to-reconsider-deorbiting-space-station/",
         "source": "Ars Technica - All content",
         "published": "2026-02-06T15:36:56+00:00"
-      },
-      {
-        "id": "fc7d143546f3",
-        "title": "Levi’s sales grow in UK as celebrities drive denim revival",
-        "summary": "Noel Gallagher and Harry Styles lead way, and sales of jeans in general rise faster than wider fashion marketThe UK was one of Levi’s fastest-growing markets last year as British trend leaders from Harry Styles to Noel Gallagher and Grime Gran were spotted in the brand’s kit.Lucia Marcuzzo, the mana...",
-        "url": "https://www.theguardian.com/fashion/2026/feb/06/levis-sales-grow-in-uk-as-celebrities-drive-denim-revival",
-        "source": "Business | The Guardian",
-        "published": "2026-02-06T15:21:47+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "64f44df5b32a",
+        "title": "Quoting Tom Dale",
+        "summary": "I don't know why this week became the tipping point, but nearly every software engineer I've talked to is experiencing some degree of mental health crisis.\n[...] Many people assuming I meant job loss anxiety but that's just one presentation. I'm seeing near-manic episodes triggered by watching softw...",
+        "url": "https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-06T23:41:31+00:00"
+      },
       {
         "id": "cbd5394b819f",
         "title": "Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly",
@@ -407,14 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/5/ai-adoption-journey/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-05T23:39:07+00:00"
-      },
-      {
-        "id": "85f2310a1446",
-        "title": "Loyalty Is Dead in Silicon Valley",
-        "summary": "Founders used to be wedded to their companies. Now, anyone can be lured away for the right price.",
-        "url": "https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/",
-        "source": "Business Latest",
-        "published": "2026-02-05T21:33:11+00:00"
       }
     ],
     "序(month)": [
