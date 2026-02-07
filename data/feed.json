@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-07T15:54:43.141522+00:00",
+  "updated_at": "2026-02-07T17:01:57.542204+00:00",
   "trending": [
-    "hilary knight",
-    "pwhl",
-    "katie boulter",
-    "where to watch fc barcelona vs rcd mallorca",
-    "birmingham vs leicester city",
-    "hunter hess",
-    "paige desorbo",
-    "usa hockey",
-    "stuttgart fc",
-    "merel conijn"
+    "newcastle vs brentford",
+    "kirsty muir",
+    "vinicius oliveira",
+    "boston weather snow forecast",
+    "gyokeres",
+    "felix auger aliassime",
+    "genoa vs napoli",
+    "wisconsin vs indiana",
+    "laila edwards",
+    "arkansas vs mississippi state prediction"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "1d045dd78051",
+        "title": "UK trade policy: time to stop the secret deals and get systematic",
+        "summary": "Liam Byrne is echoing Robin Cook’s ethical trade policy, warning the UK needs deals more open to scrutiny to prevent future issuesTrade can be a dirty business. Andrew Mountbatten-Windsor was tolerated as a “special representative for trade and investment” in the noughties despite allegations that h...",
+        "url": "https://www.theguardian.com/business/2026/feb/07/uk-trade-policy-time-to-stop-the-secret-deals-and-get-systematic",
+        "source": "Business | The Guardian",
+        "published": "2026-02-07T16:00:06+00:00"
+      },
       {
         "id": "dcdcbf6b67bb",
         "title": "Why has Elon Musk merged his rocket company with his AI startup?",
@@ -205,17 +213,25 @@
         "url": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
         "source": "Ars Technica - All content",
         "published": "2026-02-06T22:43:12+00:00"
-      },
-      {
-        "id": "1f3a7547e806",
-        "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
-        "summary": "Incident is at least the third time the exchange has been targeted by thieves.",
-        "url": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T22:16:51+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "3ce6517fa12b",
+        "title": "Battle of the chatbots: Anthropic and OpenAI go head-to-head over ads in their AI products",
+        "summary": "New Anthropic campaign suggests other AI platforms will incorporate targeted ads in their chatbot conversationsThe Seahawks and the Patriots aren’t the only ones gearing up for a fight.AI rivals Anthropic and OpenAI have launched a war of ads trying to court corporate America during one of the bigge...",
+        "url": "https://www.theguardian.com/technology/2026/feb/07/ai-chatbots-anthropic-openai-claude-chatgpt",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-07T16:00:06+00:00"
+      },
+      {
+        "id": "1fba899d048f",
+        "title": "《無處安放的記憶》：填補官方敘事斷層，台籍老兵口述歷史仍是一場「戰役」",
+        "summary": "與其接受荊子馨所謂在殖民時期的台灣「強調認同形塑中的矛盾與多重性的激進意識」，那些將各自的政治意圖附加在這些口述歷史計畫上的政治人物，追求著完全相反的目標：「對『日本人』、『中國人』或『台灣人』身分進行最終且全面性的肯認。」",
+        "url": "https://www.twreporter.org/a/bookreview-displaced-memory-displaced-people",
+        "source": "報導者",
+        "published": "2026-02-07T16:00:00+00:00"
+      },
       {
         "id": "d3059ab6d696",
         "title": "How StrongDM's AI team build serious software without even looking at the code",
@@ -399,22 +415,6 @@
         "url": "https://www.wired.com/story/uncanny-valley-podcast-tech-elites-epstein-files-musk-mega-merger-crypto-scam-compound/",
         "source": "Business Latest",
         "published": "2026-02-06T10:00:00+00:00"
-      },
-      {
-        "id": "5b26dbc0849d",
-        "title": "Deepfake fraud taking place on an industrial scale, study finds",
-        "summary": "AI content for scams can be targeted at individuals and ‘produced by pretty much anybody’, researchers sayDeepfake fraud has gone “industrial”, an analysis published by AI experts has said.Tools to create tailored, even personalised, scams – leveraging, for example, deepfake videos of Swedish journa...",
-        "url": "https://www.theguardian.com/technology/2026/feb/06/deepfake-taking-place-on-an-industrial-scale-study-finds",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-06T08:00:02+00:00"
-      },
-      {
-        "id": "08454aeec9a0",
-        "title": "Quoting Karel D'Oosterlinck",
-        "summary": "When I want to quickly implement a one-off experiment in a part of the codebase I am unfamiliar with, I get codex to do extensive due diligence. Codex explores relevant slack channels, reads related discussions, fetches experimental branches from those discussions, and cherry picks useful changes fo...",
-        "url": "https://simonwillison.net/2026/Feb/6/karel-doosterlinck/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-06T00:42:22+00:00"
       }
     ],
     "序(month)": [
