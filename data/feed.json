@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-07T04:54:45.662743+00:00",
+  "updated_at": "2026-02-07T07:10:40.103204+00:00",
   "trending": [
-    "chris hemsworth",
-    "mcdonalds caviar kit",
-    "jimmy fallon",
-    "mega millions drawing",
-    "grizzlies",
-    "dylan cardwell",
-    "ghislaine maxwell",
-    "john collins",
-    "mr beast",
-    "noam chomsky"
+    "dd cafe",
+    "aubrey plaza",
+    "mega millions winning numbers",
+    "will smith",
+    "polar vortex split forecast",
+    "movies streaming this weekend",
+    "willow tv",
+    "lil uzi vert",
+    "50 cent",
+    "green day"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "cc220ee0fcc7",
+        "title": "Benchmark raises $225M in special funds to double down on Cerebras",
+        "summary": "Benchmark Capital has been an investor in the Nvidia rival since 2016.",
+        "url": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
+        "source": "TechCrunch",
+        "published": "2026-02-07T05:23:04+00:00"
+      },
       {
         "id": "1267952b5ba7",
         "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
@@ -205,14 +213,6 @@
         "url": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
         "source": "TechCrunch",
         "published": "2026-02-06T16:37:07+00:00"
-      },
-      {
-        "id": "18c76ef25f4c",
-        "title": "EU says TikTok must disable ‘addictive’ features like infinite scroll, fix its recommendation engine",
-        "summary": "The European Commission on Friday accused TikTok of purposefully designing its app to be \"addictive,\" calling out features such as infinite scroll, autoplay, push notifications, and its recommendation engine.",
-        "url": "https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/",
-        "source": "TechCrunch",
-        "published": "2026-02-06T16:24:05+00:00"
       }
     ],
     "破(day)": [
