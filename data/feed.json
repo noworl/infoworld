@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-02-07T14:57:30.106389+00:00",
+  "updated_at": "2026-02-07T15:54:43.141522+00:00",
   "trending": [
-    "scott galloway",
-    "appeals court trump",
-    "superbowl food",
-    "six nations",
-    "ukraine",
-    "barcelona - r.c.d. mallorca",
-    "arsenal vs sunderland",
-    "wolves vs chelsea",
-    "fulham vs everton",
-    "bournemouth vs aston villa"
+    "hilary knight",
+    "pwhl",
+    "katie boulter",
+    "where to watch fc barcelona vs rcd mallorca",
+    "birmingham vs leicester city",
+    "hunter hess",
+    "paige desorbo",
+    "usa hockey",
+    "stuttgart fc",
+    "merel conijn"
   ],
   "categories": {
     "急(hr)": [
@@ -104,8 +104,8 @@
       },
       {
         "id": "db3e2e73da0b",
-        "title": "Lib Dems urge FCA to investigate Peter Mandelson over potential insider trading",
-        "summary": "Exclusive: Daisy Cooper says ex-minister could have ‘abused trading laws’ when sharing state information with Jeffrey EpsteinThe Liberal Democrats have urged the UK’s financial regulator to immediately investigate Peter Mandelson, saying his apparent decision to leak highly confidential government i...",
+        "title": "FCA urged to investigate Peter Mandelson over potential insider trading",
+        "summary": "Exclusive: Lib Dem Daisy Cooper says ex-minister could have ‘abused trading laws’ when sharing state information with Jeffrey EpsteinThe Liberal Democrats have urged the UK’s financial regulator to immediately investigate Peter Mandelson, saying his apparent decision to leak highly confidential gove...",
         "url": "https://www.theguardian.com/politics/2026/feb/07/lib-dems-urge-fca-investigate-peter-mandelson-potential-insider-trading",
         "source": "Business | The Guardian",
         "published": "2026-02-07T08:00:57+00:00"
@@ -216,6 +216,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "d3059ab6d696",
+        "title": "How StrongDM's AI team build serious software without even looking at the code",
+        "summary": "Last week I hinted at a demo I had seen from a team implementing what Dan Shapiro called the Dark Factory level of AI adoption, where no human even looks at the code the coding agents are producing. That team was part of StrongDM, and they've just shared the first public description of how they are ...",
+        "url": "https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-07T15:40:48+00:00"
+      },
       {
         "id": "dcdcbf6b67bb",
         "title": "Why has Elon Musk merged his rocket company with his AI startup?",
@@ -407,14 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/6/karel-doosterlinck/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-06T00:42:22+00:00"
-      },
-      {
-        "id": "54e12f30c250",
-        "title": "Two Titanic Structures Hidden Deep Within the Earth Have Altered the Magnetic Field for Millions of Years",
-        "summary": "A team of geologists found for the first time evidence linking regions of low seismic velocity and the shape of the Earth’s magnetic field.",
-        "url": "https://www.wired.com/story/titanic-structures-earth-magnetic-field-millions-of-years/",
-        "source": "Science Latest",
-        "published": "2026-02-05T23:58:25+00:00"
       }
     ],
     "序(month)": [
