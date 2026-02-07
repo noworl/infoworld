@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-07T20:57:50.853810+00:00",
+  "updated_at": "2026-02-07T21:54:38.222430+00:00",
   "trending": [
-    "amen thompson",
-    "lyon",
-    "how long is the super bowl",
-    "scott hamilton skater",
-    "celtic vs dundee",
-    "real sociedad",
-    "tcu basketball",
-    "umass basketball",
-    "georgia",
-    "rockets vs thunder"
+    "chock and bates married",
+    "muin gafurov",
+    "charlene guignard",
+    "marco fabbri",
+    "italy milano cortina 2026",
+    "maverick mcnealy",
+    "dick vitale",
+    "marshall basketball",
+    "kyoji horiguchi",
+    "diana davis"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "3bae3e6874c2",
+        "title": "NBA star Giannis Antetokounmpo joins Kalshi as an investor",
+        "summary": "Antetokounmpo is the first NBA player to directly invest in Kalshi.",
+        "url": "https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/",
+        "source": "TechCrunch",
+        "published": "2026-02-07T21:30:41+00:00"
+      },
       {
         "id": "398897d408eb",
         "title": "New York lawmakers propose a three-year pause on new data centers",
@@ -205,17 +213,17 @@
         "url": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
         "source": "TechCrunch",
         "published": "2026-02-06T23:53:43+00:00"
-      },
-      {
-        "id": "7dd61db77979",
-        "title": "Sixteen Claude AI agents working together created a new C compiler",
-        "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.",
-        "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T23:40:58+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "e6df371fa5d1",
+        "title": "Quoting David Crawshaw",
+        "summary": "I am having more fun programming than I ever have, because so many more of the programs I wish I could find the time to write actually exist. I wish I could share this joy with the people who are fearful about the changes agents are bringing. The fear itself I understand, I have fear more broadly ab...",
+        "url": "https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-07T21:31:44+00:00"
+      },
       {
         "id": "3ce6517fa12b",
         "title": "Battle of the chatbots: Anthropic and OpenAI go head-to-head over ads in their AI products",
@@ -407,14 +415,6 @@
         "url": "https://www.theguardian.com/books/2026/feb/06/gruffalo-granny-released-september-julian-donaldson-axel-scheffler",
         "source": "Children and teenagers | The Guardian",
         "published": "2026-02-06T10:00:14+00:00"
-      },
-      {
-        "id": "49725feec460",
-        "title": "‘Uncanny Valley’: Tech Elites in the Epstein Files, Musk’s Mega Merger, and a Crypto Scam Compound",
-        "summary": "Several big names in tech turned up in the Epstein files. In this episode of Uncanny Valley, our hosts break down what it all means and catch you up on other big stories of the week.",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-tech-elites-epstein-files-musk-mega-merger-crypto-scam-compound/",
-        "source": "Business Latest",
-        "published": "2026-02-06T10:00:00+00:00"
       }
     ],
     "序(month)": [
