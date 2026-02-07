@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-07T17:01:57.542204+00:00",
+  "updated_at": "2026-02-07T19:05:29.648446+00:00",
   "trending": [
-    "newcastle vs brentford",
-    "kirsty muir",
-    "vinicius oliveira",
-    "boston weather snow forecast",
-    "gyokeres",
-    "felix auger aliassime",
-    "genoa vs napoli",
-    "wisconsin vs indiana",
-    "laila edwards",
-    "arkansas vs mississippi state prediction"
+    "zendaya",
+    "rickie fowler",
+    "quad god",
+    "scott hamilton",
+    "ollie martin",
+    "missouri vs south carolina",
+    "oregon vs purdue",
+    "habeas corpus",
+    "kiyan anthony",
+    "latvia"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "398897d408eb",
+        "title": "New York lawmakers propose a three-year pause on new data centers",
+        "summary": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
+        "url": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+        "source": "TechCrunch",
+        "published": "2026-02-07T18:23:04+00:00"
+      },
       {
         "id": "1d045dd78051",
         "title": "UK trade policy: time to stop the secret deals and get systematic",
@@ -205,14 +213,6 @@
         "url": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
         "source": "TechCrunch",
         "published": "2026-02-06T22:43:22+00:00"
-      },
-      {
-        "id": "daeffbebf273",
-        "title": "Lawyer sets new standard for abuse of AI; judge tosses case",
-        "summary": "Behold the most overwrought AI legal filings you will ever gaze upon.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T22:43:12+00:00"
       }
     ],
     "破(day)": [
