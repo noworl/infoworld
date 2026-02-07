@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-07T13:56:46.702210+00:00",
+  "updated_at": "2026-02-07T14:57:30.106389+00:00",
   "trending": [
-    "trumprx.com website",
-    "alex hall skier",
-    "incident response plans",
-    "best shows on hbo max",
-    "latest iphone rumors",
-    "conduent",
-    "blockchain technology",
-    "cryptocurrency trading",
-    "michael saylor",
-    "fintech innovation"
+    "scott galloway",
+    "appeals court trump",
+    "superbowl food",
+    "six nations",
+    "ukraine",
+    "barcelona - r.c.d. mallorca",
+    "arsenal vs sunderland",
+    "wolves vs chelsea",
+    "fulham vs everton",
+    "bournemouth vs aston villa"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "dcdcbf6b67bb",
+        "title": "Why has Elon Musk merged his rocket company with his AI startup?",
+        "summary": "SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questionedThe acquisition of xAI by SpaceX is a typical Elon Musk deal: big numbers backed by big ambition.As well as extending “the light of consciousness to the stars”, as Musk described it, the...",
+        "url": "https://www.theguardian.com/technology/2026/feb/07/why-has-elon-musk-merged-his-rocket-company-with-his-ai-startup",
+        "source": "Business | The Guardian",
+        "published": "2026-02-07T14:00:04+00:00"
+      },
       {
         "id": "36d8cc351f24",
         "title": "Reform-run Kent council accused of fabricating £40m net zero savings",
@@ -205,17 +213,17 @@
         "url": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
         "source": "Ars Technica - All content",
         "published": "2026-02-06T22:16:51+00:00"
-      },
-      {
-        "id": "30fc4fe83894",
-        "title": "It just got easier for Claude to check in on your WordPress site",
-        "summary": "WordPress users can now leverage Claude to analyze web traffic or find information about other internal site metrics.",
-        "url": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
-        "source": "TechCrunch",
-        "published": "2026-02-06T22:04:59+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "dcdcbf6b67bb",
+        "title": "Why has Elon Musk merged his rocket company with his AI startup?",
+        "summary": "SpaceX’s acquisition of xAI creates business worth $1.25tn but whether premise behind deal will work is questionedThe acquisition of xAI by SpaceX is a typical Elon Musk deal: big numbers backed by big ambition.As well as extending “the light of consciousness to the stars”, as Musk described it, the...",
+        "url": "https://www.theguardian.com/technology/2026/feb/07/why-has-elon-musk-merged-his-rocket-company-with-his-ai-startup",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-07T14:00:04+00:00"
+      },
       {
         "id": "068231179ec3",
         "title": "Victims urge tougher action on deepfake abuse as new law comes into force",
@@ -391,14 +399,6 @@
         "url": "https://www.theguardian.com/technology/2026/feb/06/deepfake-taking-place-on-an-industrial-scale-study-finds",
         "source": "Technology | The Guardian",
         "published": "2026-02-06T08:00:02+00:00"
-      },
-      {
-        "id": "158d52d12e1a",
-        "title": "Uber found liable for sexual assault by driver and ordered to pay victim $8.5m",
-        "summary": "Verdict could influence more than 3,000 similar cases against ride-hailing companyA federal jury in Phoenix ordered Uber on Thursday to pay $8.5m after finding the company liable in a lawsuit brought by a woman who said she was sexually assaulted by a driver. The verdict could influence thousands of...",
-        "url": "https://www.theguardian.com/technology/2026/feb/05/uber-liable-sexual-assault",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-06T02:42:45+00:00"
       },
       {
         "id": "08454aeec9a0",
