@@ -1,19 +1,75 @@
 {
-  "updated_at": "2026-02-07T11:46:25.630346+00:00",
+  "updated_at": "2026-02-07T13:56:46.702210+00:00",
   "trending": [
-    "man united vs tottenham",
-    "billy crudup",
-    "injury lawyer",
-    "virginia",
-    "olympic schedule today",
-    "ryan cochran-siegle",
-    "irs tax refunds",
-    "alycia parks",
-    "clash",
-    "drug"
+    "trumprx.com website",
+    "alex hall skier",
+    "incident response plans",
+    "best shows on hbo max",
+    "latest iphone rumors",
+    "conduent",
+    "blockchain technology",
+    "cryptocurrency trading",
+    "michael saylor",
+    "fintech innovation"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "36d8cc351f24",
+        "title": "Reform-run Kent council accused of fabricating £40m net zero savings",
+        "summary": "Exclusive: Disclosures show figures cited by council leader rested on unfunded ideas listed briefly in budget papersReform UK’s flagship council has been accused of telling a “blatant lie” after its claim of nearly £40m in savings on net zero was found to be based on hypothetical projects for which ...",
+        "url": "https://www.theguardian.com/politics/2026/feb/07/reform-run-kent-council-accused-of-fabricating-40m-net-zero-savings",
+        "source": "Business | The Guardian",
+        "published": "2026-02-07T13:34:18+00:00"
+      },
+      {
+        "id": "1611cb9ba70a",
+        "title": "Under Trump, EPA’s enforcement of environmental laws collapses, report finds",
+        "summary": "The Environmental Protection Agency has drastically pulled back on holding polluters accountable.",
+        "url": "https://arstechnica.com/science/2026/02/under-trump-epas-enforcement-of-environmental-laws-collapses-report-finds/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-07T12:00:35+00:00"
+      },
+      {
+        "id": "12c00a21e07e",
+        "title": "The Epstein files reveal that a vast global conspiracy actually exists – sort of",
+        "summary": "The documents confirm what many have long assumed: elites live by their own special rules and codes of immunityThe millions of Jeffrey Epstein files dumped last Friday by the US Department of Justice will provide journalists, conspiracy theorists and interested members of the public with months of r...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/07/epstein-files-global-conspiracy",
+        "source": "Business | The Guardian",
+        "published": "2026-02-07T12:00:03+00:00"
+      },
+      {
+        "id": "5e240d323793",
+        "title": "UK electric vehicle charging firms ‘seeking buyers amid rising costs and tough competition’",
+        "summary": "Mergers and acquisitions will shrink number of operators from more than 100 to five or six, says Be.EV co-founderBritish electric charger companies are asking rivals to buy them as they run out of cash amid rising costs and intense competition, according to industry bosses.A wave of mergers and acqu...",
+        "url": "https://www.theguardian.com/environment/2026/feb/07/uk-electric-vehicle-charging-mergers-acquisitions-b-ev",
+        "source": "Business | The Guardian",
+        "published": "2026-02-07T12:00:02+00:00"
+      },
+      {
+        "id": "b030d9325ce1",
+        "title": "Post-Brexit sales of British farm products to EU fall by 37%",
+        "summary": "NFU warn it could take years to restore Brexit losses despite efforts to smooth negotiations on farming and other elements of UK-EU resetExports of British farm products to the EU have dropped almost 40% in the five years since Brexit, highlighting the trade barriers caused by the UK’s divorce from ...",
+        "url": "https://www.theguardian.com/environment/2026/feb/07/brexit-farm-products-sales-eu",
+        "source": "Business | The Guardian",
+        "published": "2026-02-07T12:00:02+00:00"
+      },
+      {
+        "id": "78c15838621f",
+        "title": "Trump housing policy is a mess and it won’t fix the US housing crisis",
+        "summary": "Deregulation alone can’t make homes affordable when rising inequality, not zoning, is what is driving prices upDonald Trump has an interesting view of how housing plays in US politics. “I don’t want to drive housing prices down. I want to drive housing prices up for people that own their homes,” he ...",
+        "url": "https://www.theguardian.com/business/2026/feb/07/trump-rising-home-prices-affordability-crisis",
+        "source": "Business | The Guardian",
+        "published": "2026-02-07T12:00:02+00:00"
+      },
+      {
+        "id": "609d48c22d81",
+        "title": "Thousands of Malawi businesses close in protest over tax changes",
+        "summary": "Peaceful demonstrations force a delay in measures aimed at improving revenue collection but which many fear will be fatal for small traders Demonstrations across Malawi’s four main cities during the past week have achieved a delay in the introduction of a new tax regime that business owners claim wi...",
+        "url": "https://www.theguardian.com/global-development/2026/feb/07/businesses-close-protest-malawi-tax-changes-electronic-invoicing-system",
+        "source": "Business | The Guardian",
+        "published": "2026-02-07T12:00:01+00:00"
+      },
       {
         "id": "429ac31802d9",
         "title": "Waymo is trying to seduce me. But another option is staring us in the face | Dave Schilling",
@@ -29,14 +85,6 @@
         "url": "https://www.theguardian.com/money/2026/feb/07/monzo-natwest-hsbc-refunds-fraud-scam-fos-ombudsman",
         "source": "Business | The Guardian",
         "published": "2026-02-07T11:00:01+00:00"
-      },
-      {
-        "id": "36d8cc351f24",
-        "title": "Reform-run Kent council accused of fabricating £40m net zero savings",
-        "summary": "Exclusive: Disclosures show figures cited by council leader rested on unfunded ideas listed briefly in budget papersReform UK’s flagship council has been accused of telling a “blatant lie” after its claim of nearly £40m in savings on net zero was found to be based on hypothetical projects for which ...",
-        "url": "https://www.theguardian.com/politics/2026/feb/07/reform-run-kent-council-accused-of-fabricating-40m-net-zero-savings",
-        "source": "Business | The Guardian",
-        "published": "2026-02-07T10:43:25+00:00"
       },
       {
         "id": "068231179ec3",
@@ -165,54 +213,6 @@
         "url": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
         "source": "TechCrunch",
         "published": "2026-02-06T22:04:59+00:00"
-      },
-      {
-        "id": "528bbd4e3a16",
-        "title": "Why $700 could be a \"death sentence\" for the Steam Machine",
-        "summary": "Analysts expect Valve might be hit particularly hard by soaring RAM, storage prices.",
-        "url": "https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T21:53:05+00:00"
-      },
-      {
-        "id": "0525da4d8acd",
-        "title": "Dow Jones hits 50,000 milestone amid tech gains and hopes of lower interest rates",
-        "summary": "Although tech stocks and cryptocurrencies suffered recent falls, investors largely shrugged off geopolitical tensions The Dow Jones industrial average crossed 50,000 for the first time, as ballooning tech valuations, robust corporate earnings and hopes of lower interest rates drive it to new highs.L...",
-        "url": "https://www.theguardian.com/business/2026/feb/06/dow-stock-market-record-high",
-        "source": "Business | The Guardian",
-        "published": "2026-02-06T21:31:44+00:00"
-      },
-      {
-        "id": "dc527e952701",
-        "title": "Prince Andrew advisor pitched Jeffrey Epstein on investing in EV startups like Lucid Motors",
-        "summary": "The mysterious businessman pitched Jeffrey Epstein on numerous mobility startups in an era when the sector was white hot, according to TechCrunch's review of hundreds of documents released by the Department of Justice.",
-        "url": "https://techcrunch.com/2026/02/06/prince-andrew-advisor-pitched-jeffrey-epstein-on-investing-in-ev-startups-like-lucid-motors/",
-        "source": "TechCrunch",
-        "published": "2026-02-06T21:23:50+00:00"
-      },
-      {
-        "id": "ba39ba71c8f3",
-        "title": "COVID-19 cleared the skies but also supercharged methane emissions",
-        "summary": "Less pollution meant lower amounts of a methane-destroying chemical.",
-        "url": "https://arstechnica.com/science/2026/02/covid-19-cleared-the-skies-but-also-supercharged-methane-emissions/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T21:05:45+00:00"
-      },
-      {
-        "id": "c2b27a588967",
-        "title": "Waymo leverages Genie 3 to create a world model for self-driving cars",
-        "summary": "With Genie 3, Waymo wants to explore rare and even impossible driving conditions.",
-        "url": "https://arstechnica.com/google/2026/02/waymo-leverages-genie-3-to-create-a-world-model-for-self-driving-cars/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T20:44:35+00:00"
-      },
-      {
-        "id": "6c143cf362b2",
-        "title": "Google- and Microsoft-backed Terradot acquires carbon-removal competitor",
-        "summary": "The acquisition could mark the beginning of consolidation in the carbon-removal market since removal costs remain higher than buyers would like to pay.",
-        "url": "https://techcrunch.com/2026/02/06/google-and-microsoft-backed-terradot-acquires-carbon-removal-competitor/",
-        "source": "TechCrunch",
-        "published": "2026-02-06T20:26:29+00:00"
       }
     ],
     "破(day)": [
@@ -419,6 +419,14 @@
     ],
     "序(month)": [
       {
+        "id": "63ddc080610f",
+        "title": "移動中的家鄉：克拉拉．史都華（Clara Stewart）的地圖視角 文/謝曉陽 【全文閱讀】 完整文章請見：獨立評論＠天下... https://opinion.cw.com.tw/blog/profile/52/article/1705...",
+        "summary": "移動中的家鄉：克拉拉．史都華（Clara Stewart）的地圖視角 文/謝曉陽 【全文閱讀】 完整文章請見：獨立評論＠天下 https://opinion.cw.com.tw/blog/profile/52/article/17056",
+        "url": "https://www.facebook.com/asgis/posts/pfbid02zitkJDNqTpGXZYv8vTcJw7ERnNTjMjLxkCT5auJpdvSVMJqfQUjfrgy6qVwV4EV3l",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-07T13:25:46+00:00"
+      },
+      {
         "id": "a162e40e81c3",
         "title": "Internet Archive and Partners Select Local Newsrooms from Across the US to Participate in the Today’s News for Tomorrow Program",
         "summary": "Internet Archive, Poynter Institute, and Investigative Reporters and Editors (IRE) are pleased to announce the first cohort of newsrooms to join the Today’s News for Tomorrow program. With support from [&#8230;]",
@@ -609,14 +617,6 @@
         "url": "https://www.min-on.org/zh-hant/14681/%e6%b0%91%e9%9f%b3%e6%8e%a2%e6%88%88%e7%b3%bb%e5%88%97%e7%ac%ac55%e8%bc%af%ef%bc%9a%e5%b7%b4%e5%8b%83%e7%be%85%c2%b7%e7%93%a6%e8%90%8a%e5%85%ad%e9%87%8d%e5%a5%8f%e5%95%9f%e5%8b%95%e6%97%a5%e6%9c%ac/",
         "source": "Chinese Traditional – Min-On Website",
         "published": "2026-02-02T08:30:14+00:00"
-      },
-      {
-        "id": "37f7dbbf8455",
-        "title": "高雄果嶺自然公園的歷史地景變遷",
-        "summary": "撰文/廖德宗（居住於高雄市，從事資訊業，業餘進行人文地理研究） 摘要 本文以高雄市政府2025年10月開放之高 [&#8230;]",
-        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260202/",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心",
-        "published": "2026-02-01T19:58:15+00:00"
       }
     ]
   }
