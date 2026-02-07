@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-02-06T23:54:54.261375+00:00",
+  "updated_at": "2026-02-07T04:54:45.662743+00:00",
   "trending": [
-    "knicks injury report",
-    "steve martin",
-    "bam adebayo",
-    "ryo hisatsune",
-    "michael vick",
-    "jordan spieth",
-    "joel dahmen",
-    "mardi gras 2026",
-    "pasto - bucaramanga",
-    "irs stimulus check"
+    "chris hemsworth",
+    "mcdonalds caviar kit",
+    "jimmy fallon",
+    "mega millions drawing",
+    "grizzlies",
+    "dylan cardwell",
+    "ghislaine maxwell",
+    "john collins",
+    "mr beast",
+    "noam chomsky"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "1267952b5ba7",
+        "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
+        "summary": "The organizer of the event swears it's not a joke.",
+        "url": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
+        "source": "TechCrunch",
+        "published": "2026-02-07T01:00:52+00:00"
+      },
+      {
+        "id": "4ab73a65e6ef",
+        "title": "‘Industry’ season 4 captures tech fraud better than any show on TV right now",
+        "summary": "This latest season of the TV show Industry takes a look at the world of money and power through the eyes of a fintech baron.",
+        "url": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
+        "source": "TechCrunch",
+        "published": "2026-02-07T00:06:23+00:00"
+      },
       {
         "id": "d175a6469392",
         "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
@@ -21,6 +37,22 @@
         "url": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
         "source": "TechCrunch",
         "published": "2026-02-06T23:53:43+00:00"
+      },
+      {
+        "id": "7dd61db77979",
+        "title": "Sixteen Claude AI agents working together created a new C compiler",
+        "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.",
+        "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-06T23:40:58+00:00"
+      },
+      {
+        "id": "b9d05f145319",
+        "title": "Penisgate erupts at Olympics; scandal exposes risks of bulking your bulge",
+        "summary": "Claims of penis injections in ski jumpers has fillers spewing into the news.",
+        "url": "https://arstechnica.com/health/2026/02/penisgate-erupts-at-olympics-scandal-exposes-risks-of-bulking-your-budge/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-06T23:08:42+00:00"
       },
       {
         "id": "b9e153663ba1",
@@ -32,7 +64,7 @@
       },
       {
         "id": "daeffbebf273",
-        "title": "Randomly quoting Ray Bradbury did not save lawyer from losing case over AI errors",
+        "title": "Lawyer sets new standard for abuse of AI; judge tosses case",
         "summary": "Behold the most overwrought AI legal filings you will ever gaze upon.",
         "url": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
         "source": "Ars Technica - All content",
@@ -181,38 +213,6 @@
         "url": "https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/",
         "source": "TechCrunch",
         "published": "2026-02-06T16:24:05+00:00"
-      },
-      {
-        "id": "d5e002ce322d",
-        "title": "New critique debunks claim that trees can sense a solar eclipse",
-        "summary": "Controversial 2025 study \"represents the encroachment of pseudoscience into the heart of biological research.\"",
-        "url": "https://arstechnica.com/science/2026/02/new-critique-debunks-claim-that-trees-can-sense-a-solar-eclipse/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T16:17:45+00:00"
-      },
-      {
-        "id": "7365805c7f60",
-        "title": "Stellantis swallows $26 billion costs as it rethinks its EV strategy",
-        "summary": "The automaker follows Ford and GM in writing down huge sums after betting wrong.",
-        "url": "https://arstechnica.com/cars/2026/02/stellantis-swallows-26-billion-costs-as-it-rethinks-its-ev-strategy/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T15:59:47+00:00"
-      },
-      {
-        "id": "41b2262b6a51",
-        "title": "China’s Salt Typhoon hackers broke into Norwegian companies",
-        "summary": "Norway's government accused China’s Salt Typhoon hacking group of conducting a cyberespionage campaign in the country.",
-        "url": "https://techcrunch.com/2026/02/06/chinas-salt-typhoon-hackers-broke-into-norwegian-companies/",
-        "source": "TechCrunch",
-        "published": "2026-02-06T15:39:46+00:00"
-      },
-      {
-        "id": "87d753bb36df",
-        "title": "Lawmakers ask what it would take to \"store\" the International Space Station",
-        "summary": "NASA shall evaluate the \"viability of transferring the ISS to a safe orbital harbor\" after retirement.",
-        "url": "https://arstechnica.com/space/2026/02/congress-advances-bill-requiring-nasa-to-reconsider-deorbiting-space-station/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-06T15:36:56+00:00"
       }
     ],
     "破(day)": [
