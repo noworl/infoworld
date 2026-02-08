@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-02-07T23:00:10.396725+00:00",
+  "updated_at": "2026-02-08T00:03:07.871015+00:00",
   "trending": [
-    "querétaro - león",
-    "eduarda moura",
-    "jesse diggins",
-    "bkfc",
-    "tari eason",
-    "will riley",
-    "matt fitzpatrick",
-    "toluca - cruz azul",
-    "brandon figueroa",
-    "grand canyon university"
+    "niko price",
+    "camilla carr",
+    "seton hall vs creighton",
+    "inter miami vs barcelona",
+    "tennessee vs kentucky",
+    "barcelona vs inter miami",
+    "how to watch turning point halftime show",
+    "hornets vs hawks",
+    "daniil donchenko",
+    "marvin bagley iii"
   ],
   "categories": {
     "急(hr)": [
@@ -217,6 +217,22 @@
     ],
     "破(day)": [
       {
+        "id": "21795c644ec6",
+        "title": "Vouch",
+        "summary": "Vouch\nMitchell Hashimoto's new system to help address the deluge of worthless AI-generated PRs faced by open source projects now that the friction involved in contributing has dropped so low.\nHe says:\n\nThe idea is simple: Unvouched users can't contribute to your projects. Very bad users can be expli...",
+        "url": "https://simonwillison.net/2026/Feb/7/vouch/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-07T23:57:57+00:00"
+      },
+      {
+        "id": "79bc00bb7876",
+        "title": "Claude: Speed up responses with fast mode",
+        "summary": "Claude: Speed up responses with fast mode\nNew \"research preview\" from Anthropic today: you can now access a faster version of their frontier model Claude Opus 4.6 by typing /fast in Claude Code... but at a cost that's 6x the normal price.\nOpus is usually $5/million input and $25/million output. The ...",
+        "url": "https://simonwillison.net/2026/Feb/7/claude-fast-mode/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-07T23:10:33+00:00"
+      },
+      {
         "id": "e6df371fa5d1",
         "title": "Quoting David Crawshaw",
         "summary": "I am having more fun programming than I ever have, because so many more of the programs I wish I could find the time to write actually exist. I wish I could share this joy with the people who are fearful about the changes agents are bringing. The fear itself I understand, I have fear more broadly ab...",
@@ -399,22 +415,6 @@
         "url": "https://www.wired.com/story/public-health-workers-are-quitting-over-assignments-to-guantanamo/",
         "source": "Science Latest",
         "published": "2026-02-06T11:00:00+00:00"
-      },
-      {
-        "id": "323c31a262d1",
-        "title": "A Landmark Social Media Addiction Case Puts Big Tech on Trial",
-        "summary": "Juries will soon hear arguments in a case against Meta and Google that could reshape social media protections for kids.",
-        "url": "https://www.wired.com/story/meta-google-youtube-social-media-addiction-trial/",
-        "source": "Business Latest",
-        "published": "2026-02-06T10:30:00+00:00"
-      },
-      {
-        "id": "607551425efd",
-        "title": "‘Gruffalo Granny is coming to stay’: new story to be released in September",
-        "summary": "Macmillan announces new instalment of popular Julia Donaldson tale featuring illustrations by Axel SchefflerThe Gruffalo family is to expand after the publisher of the popular children’s stories announced a long-awaited third book about the beloved monster.The new tale, Gruffalo Granny, will be publ...",
-        "url": "https://www.theguardian.com/books/2026/feb/06/gruffalo-granny-released-september-julian-donaldson-axel-scheffler",
-        "source": "Children and teenagers | The Guardian",
-        "published": "2026-02-06T10:00:14+00:00"
       }
     ],
     "序(month)": [
