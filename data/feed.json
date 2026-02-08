@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-08T00:03:07.871015+00:00",
+  "updated_at": "2026-02-08T05:46:53.276593+00:00",
   "trending": [
-    "niko price",
-    "camilla carr",
-    "seton hall vs creighton",
-    "inter miami vs barcelona",
-    "tennessee vs kentucky",
-    "barcelona vs inter miami",
-    "how to watch turning point halftime show",
-    "hornets vs hawks",
-    "daniil donchenko",
-    "marvin bagley iii"
+    "kingston flemings",
+    "demar derozan",
+    "huntington bank",
+    "arizona state vs colorado",
+    "kobe bufkin",
+    "portland trail blazers",
+    "devin carter",
+    "tabla liga mx",
+    "lorenzo hunt",
+    "surya bonaly"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "2f481430f72f",
+        "title": "India has changed its startup rules for deep tech",
+        "summary": "India is adjusting startup rules to help more of its deep tech startups with funding and long-term success.",
+        "url": "https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/",
+        "source": "TechCrunch",
+        "published": "2026-02-08T03:30:00+00:00"
+      },
+      {
+        "id": "c67e5bcb5529",
+        "title": "The kids ‘picked last in gym class’ gear up for Super Bowl",
+        "summary": "YouTube CEO Neal Mohan is expected to be there. Apple's Tim Cook, too.",
+        "url": "https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/",
+        "source": "TechCrunch",
+        "published": "2026-02-08T01:26:49+00:00"
+      },
+      {
+        "id": "43c05ba16108",
+        "title": "Washington Post publisher Will Lewis abruptly resigns amid criticism of staff cuts",
+        "summary": "Departure comes days after newspaper laid off nearly one-third of staff, including more than 300 journalistsWill Lewis, the Murdoch media veteran who took over as publisher and chief executive of the Washington Post in early 2024, announced abruptly on Saturday evening that he is leaving the company...",
+        "url": "https://www.theguardian.com/media/2026/feb/07/washington-post-will-lewis-resigns",
+        "source": "Business | The Guardian",
+        "published": "2026-02-07T23:27:33+00:00"
+      },
       {
         "id": "3bae3e6874c2",
         "title": "NBA star Giannis Antetokounmpo joins Kalshi as an investor",
@@ -87,14 +111,6 @@
         "published": "2026-02-07T12:00:03+00:00"
       },
       {
-        "id": "5e240d323793",
-        "title": "UK electric vehicle charging firms ‘seeking buyers amid rising costs and tough competition’",
-        "summary": "Mergers and acquisitions will shrink number of operators from more than 100 to five or six, says Be.EV co-founderBritish electric charger companies are asking rivals to buy them as they run out of cash amid rising costs and intense competition, according to industry bosses.A wave of mergers and acqu...",
-        "url": "https://www.theguardian.com/environment/2026/feb/07/uk-electric-vehicle-charging-mergers-acquisitions-b-ev",
-        "source": "Business | The Guardian",
-        "published": "2026-02-07T12:00:02+00:00"
-      },
-      {
         "id": "b030d9325ce1",
         "title": "Post-Brexit sales of British farm products to EU fall by 37%",
         "summary": "NFU warn it could take years to restore Brexit losses despite efforts to smooth negotiations on farming and other elements of UK-EU resetExports of British farm products to the EU have dropped almost 40% in the five years since Brexit, highlighting the trade barriers caused by the UK’s divorce from ...",
@@ -107,6 +123,14 @@
         "title": "Trump housing policy is a mess and it won’t fix the US housing crisis",
         "summary": "Deregulation alone can’t make homes affordable when rising inequality, not zoning, is what is driving prices upDonald Trump has an interesting view of how housing plays in US politics. “I don’t want to drive housing prices down. I want to drive housing prices up for people that own their homes,” he ...",
         "url": "https://www.theguardian.com/business/2026/feb/07/trump-rising-home-prices-affordability-crisis",
+        "source": "Business | The Guardian",
+        "published": "2026-02-07T12:00:02+00:00"
+      },
+      {
+        "id": "5e240d323793",
+        "title": "UK electric vehicle charging firms ‘seeking buyers amid rising costs and tough competition’",
+        "summary": "Mergers and acquisitions will shrink number of operators from more than 100 to five or six, says Be.EV co-founderBritish electric charger companies are asking rivals to buy them as they run out of cash amid rising costs and intense competition, according to industry bosses.A wave of mergers and acqu...",
+        "url": "https://www.theguardian.com/environment/2026/feb/07/uk-electric-vehicle-charging-mergers-acquisitions-b-ev",
         "source": "Business | The Guardian",
         "published": "2026-02-07T12:00:02+00:00"
       },
@@ -159,22 +183,6 @@
         "published": "2026-02-07T08:00:56+00:00"
       },
       {
-        "id": "34978c4d6176",
-        "title": "UK threatens to seize Russia-linked shadow fleet tanker in escalatory move",
-        "summary": "Capture of rogue ship could open a new front against Moscow at a time when Russia’s oil revenues are tumblingThe UK is threatening to seize a Russia-linked shadow fleet tanker in an escalatory move that could lead to the opening up of a new front against Moscow at a time when the country’s oil reven...",
-        "url": "https://www.theguardian.com/world/2026/feb/07/uk-threatens-to-seize-russia-linked-shadow-fleet-tanker-in-escalatory-move",
-        "source": "Business | The Guardian",
-        "published": "2026-02-07T07:00:56+00:00"
-      },
-      {
-        "id": "3ba07d79ad7e",
-        "title": "Wealthy use loophole to conceal value of £300m in Scottish land sales",
-        "summary": "Prices paid for large estates not being disclosed on official register, land reform advocates sayLand reform campaigners are alarmed at the increasing use of a legal loophole that allows landowners to conceal the price paid for Highland estates from the public register.Andy Wightman, a land reform a...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/07/wealthy-use-loophole-to-conceal-value-of-300m-in-scottish-land-sales",
-        "source": "Business | The Guardian",
-        "published": "2026-02-07T07:00:55+00:00"
-      },
-      {
         "id": "e8fbd4f89d8f",
         "title": "‘Plainly wrong’: London flat dwellers fight shock £200,000 heating bill",
         "summary": "Almost 1m UK households are hooked up to heat networks. None had protection from poor service or price hikes … until last month‘If I could move, I would – to a place without a heat network. But I can’t while this debt is hanging over me,” says Anja Georgiou.The mother lives with her family in a rent...",
@@ -205,17 +213,17 @@
         "url": "https://techcrunch.com/2026/02/06/industry-season-4-captures-tech-fraud-better-than-any-show-on-tv-right-now/",
         "source": "TechCrunch",
         "published": "2026-02-07T00:06:23+00:00"
-      },
-      {
-        "id": "d175a6469392",
-        "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
-        "summary": "Apple engineers are working to support AI chatbot apps over the next few months.",
-        "url": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
-        "source": "TechCrunch",
-        "published": "2026-02-06T23:53:43+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "0d0f4b114fc8",
+        "title": "Quoting Thomas Ptacek",
+        "summary": "People on the orange site are laughing at this, assuming it's just an ad and that there's nothing to it. Vulnerability researchers I talk to do not think this is a joke. As an erstwhile vuln researcher myself: do not bet against LLMs on this.\nAxios: Anthropic's Claude Opus 4.6 uncovers 500 zero-day ...",
+        "url": "https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-08T02:25:53+00:00"
+      },
       {
         "id": "21795c644ec6",
         "title": "Vouch",
@@ -405,14 +413,6 @@
         "title": "Figure Skaters at the 2026 Winter Olympics Are Pushing the Limits of What’s Possible",
         "summary": "For years, quad axel jumps seemed impossible. Then Ilia Malinin landed one in 2022. As he heads to the Milano Cortina Games, everyone wants to know what’s next.",
         "url": "https://www.wired.com/story/figure-skating-2026-winter-olympics-pushing-the-limits/",
-        "source": "Science Latest",
-        "published": "2026-02-06T11:00:00+00:00"
-      },
-      {
-        "id": "0ef07b80e023",
-        "title": "Public Health Workers Are Quitting Over Assignments to Guantánamo",
-        "summary": "Doctors, nurses, and other officers are increasingly being deployed to ICE detention centers. Some have resigned in protest, while others offer a rare look into bleak conditions.",
-        "url": "https://www.wired.com/story/public-health-workers-are-quitting-over-assignments-to-guantanamo/",
         "source": "Science Latest",
         "published": "2026-02-06T11:00:00+00:00"
       }
