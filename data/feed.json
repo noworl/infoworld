@@ -1,19 +1,67 @@
 {
-  "updated_at": "2026-02-09T21:08:09.185988+00:00",
+  "updated_at": "2026-02-09T23:56:01.539211+00:00",
   "trending": [
-    "lake erie ice crack",
-    "emilea zingas",
-    "us women's hockey team",
-    "rhythm dance olympics",
-    "france milano cortina 2026",
-    "porto vs sporting",
-    "max schuemann",
-    "pulmonary embolism",
-    "wootton high school",
-    "laurence fournier beaudry"
+    "oregon vs indiana",
+    "arizona vs kansas",
+    "kings vs pelicans",
+    "charles bediako",
+    "jazz vs heat",
+    "fifa world cup 2026",
+    "xavier basketball",
+    "lionel shriver",
+    "eddie the eagle",
+    "hawks vs timberwolves"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "3a1082c1fe0d",
+        "title": "Waymo is testing driverless robotaxis in Nashville",
+        "summary": "This is the typical next step before it launches a commercial service.",
+        "url": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
+        "source": "TechCrunch",
+        "published": "2026-02-09T22:59:55+00:00"
+      },
+      {
+        "id": "804c33bb01bf",
+        "title": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\"",
+        "summary": "The Ayaneo Next II pushes past 3 pounds, 13 inches wide, and costs up to $4,300.",
+        "url": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-09T22:51:16+00:00"
+      },
+      {
+        "id": "6b0d93336588",
+        "title": "MrBeast’s company buys Gen Z-focused fintech app Step",
+        "summary": "YouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app.",
+        "url": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
+        "source": "TechCrunch",
+        "published": "2026-02-09T21:26:11+00:00"
+      },
+      {
+        "id": "6a5074dc73cf",
+        "title": "Bluesky finally adds drafts",
+        "summary": "The move comes as Bluesky’s competitors, X and Threads, have long supported drafts.",
+        "url": "https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/",
+        "source": "TechCrunch",
+        "published": "2026-02-09T21:22:08+00:00"
+      },
+      {
+        "id": "e54ce109ea2a",
+        "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+        "summary": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks CEO Ali Ghodsi believes. But it could give rise to competitors.",
+        "url": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+        "source": "TechCrunch",
+        "published": "2026-02-09T21:14:50+00:00"
+      },
+      {
+        "id": "92c5ee1ca2de",
+        "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents",
+        "summary": "SpaceMolt envisions a world where AI plays with itself and the humans just watch.",
+        "url": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-09T21:09:42+00:00"
+      },
       {
         "id": "166d4be84e45",
         "title": "Anthropic’s India expansion collides with a local company that already had the name",
@@ -29,6 +77,14 @@
         "url": "https://www.theguardian.com/us-news/2026/feb/09/bad-bunny-super-bowl-villas-tacos",
         "source": "Business | The Guardian",
         "published": "2026-02-09T20:40:37+00:00"
+      },
+      {
+        "id": "d814ad5a24a7",
+        "title": "Google experiments with locking YouTube Music lyrics behind paywall",
+        "summary": "After a lengthy test, YouTube Music is making lyrics a premium feature.",
+        "url": "https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-09T20:40:13+00:00"
       },
       {
         "id": "364dc6b85c22",
@@ -157,62 +213,6 @@
         "url": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
         "source": "TechCrunch",
         "published": "2026-02-09T17:00:00+00:00"
-      },
-      {
-        "id": "972cd1a010b7",
-        "title": "Snapchat now lets you inform others when you have arrived at your destination",
-        "summary": "With its new \"Arrival Notifications,\" users can now set one-time or recurring alerts for locations beyond their home, providing an automatic way to share when they’ve arrived at their destination.",
-        "url": "https://techcrunch.com/2026/02/09/snapchat-now-lets-you-inform-others-when-you-have-arrived-at-your-destination/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T17:00:00+00:00"
-      },
-      {
-        "id": "5caf814dcbdb",
-        "title": "Pubs don’t deserve special measures | Letters",
-        "summary": "Singling out pubs for government help when other high street businesses are also suffering is wrong, writes Michael Newman. Plus letters from John Whitney and Pamela EllisSimon Jenkins leaves one or two&nbsp;unanswered questions in his&nbsp;plea for state help with saving&nbsp;pubs (Here is a politi...",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/09/pubs-dont-deserve-special-measures",
-        "source": "Business | The Guardian",
-        "published": "2026-02-09T16:59:46+00:00"
-      },
-      {
-        "id": "d4c6302b5ce8",
-        "title": "Rise in UK borrowing costs reverses after cabinet backs Starmer",
-        "summary": "Investors reassured by support for PM after fears about effect of a more left-leaning replacement on public financesBusiness live – latest updatesUK politics live – latest updatesUK borrowing costs dipped back on Monday after rising earlier in the day, as cabinet ministers voiced support for the emb...",
-        "url": "https://www.theguardian.com/business/2026/feb/09/uk-borrowing-costs-rise-after-departure-of-two-key-keir-starmer-aides",
-        "source": "Business | The Guardian",
-        "published": "2026-02-09T16:46:32+00:00"
-      },
-      {
-        "id": "7c3802bd2f3c",
-        "title": "Hacktivist scrapes over 500,000 stalkerware customers’ payment records",
-        "summary": "More than half-a-million people who bought access to phone surveillance and social media snooping apps had their email address and partial payment card numbers published online.",
-        "url": "https://techcrunch.com/2026/02/09/hacktivist-scrapes-over-500000-stalkerware-customers-payment-records/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T16:20:12+00:00"
-      },
-      {
-        "id": "f7946fa68772",
-        "title": "Ofcom under fire after refusing to investigate ‘misleading’ GB News Trump interview",
-        "summary": "US president not challenged over false claims climate change is ‘hoax’ and parts of London have sharia lawThe UK’s media regulator Ofcom has been accused of abandoning “any pretence” of guarding against misleading and biased television coverage, after it refused to investigate a series of complaints...",
-        "url": "https://www.theguardian.com/media/2026/feb/09/ofcom-investigate-gb-news-trump-interview",
-        "source": "Business | The Guardian",
-        "published": "2026-02-09T15:57:53+00:00"
-      },
-      {
-        "id": "bda12c4eaf58",
-        "title": "Scottish Labour leader calls for Keir Starmer to resign as PM – video",
-        "summary": "Anas Sarwar, the leader of the Labour party in Scotland, called on Monday for Keir Starmer to resign, saying the government's failures had 'drowned out' its accomplishments. Calls for the prime minister's resignation have been growing this week after new Epstein files revelations about Peter Mandels...",
-        "url": "https://www.theguardian.com/politics/video/2026/feb/09/scottish-labour-leader-anas-sarwar-calls-for-keir-starmer-to-resign-as-pm-video",
-        "source": "Business | The Guardian",
-        "published": "2026-02-09T15:51:54+00:00"
-      },
-      {
-        "id": "8f2a2e365f8d",
-        "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
-        "summary": "YouTube TV is offering new, less expensive plans that can be customized around topics like sports, news, and entertainment.",
-        "url": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T15:47:08+00:00"
       }
     ],
     "破(day)": [
@@ -273,6 +273,14 @@
         "published": "2026-02-09T12:00:00+00:00"
       },
       {
+        "id": "0d9d931c7152",
+        "title": "‘Disturbing’: Australian government demands review of Roblox’s PG rating after reports of child grooming",
+        "summary": "Communications minister Anika Wells points to media reports alleging children can access spaces meant for adults which include explicit sexual contentFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastReports of child grooming and vile co...",
+        "url": "https://www.theguardian.com/australia-news/2026/feb/09/australian-government-roblox-rating-child-safety",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-09T11:30:02+00:00"
+      },
+      {
         "id": "2c52372aa0e6",
         "title": "AI Is Here to Replace Nuclear Treaties. Scared Yet?",
         "summary": "The last major nuclear arms treaty between the US and Russia just expired. Some experts believe a combination of satellite surveillance, AI, and human reviewers can take its place. Others, not so much.",
@@ -319,6 +327,14 @@
         "url": "https://www.theguardian.com/artanddesign/2026/feb/09/china-ai-weiwei-western-censorship-home-surveillance",
         "source": "Technology | The Guardian",
         "published": "2026-02-09T05:00:52+00:00"
+      },
+      {
+        "id": "eba1b811ace4",
+        "title": "Behind the model launch: What customers discovered testing Claude Opus 4.6 early",
+        "summary": "Behind the model launch: What customers discovered testing Claude Opus 4.6 early",
+        "url": "https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early",
+        "source": "Claude Blog",
+        "published": "2026-02-09T00:00:00+00:00"
       },
       {
         "id": "a4f030482ab4",
@@ -399,22 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-07T21:31:44+00:00"
-      },
-      {
-        "id": "e01fb0d5caf4",
-        "title": "Rage against the machine: a California community rallied against a datacenter – and won",
-        "summary": "Organizers in Monterey Park took inspiration from other US cities to fight against the construction of a giant datacenterWhen a southern California city council proposed building a giant datacenter the size of four football fields last December, five residents vowed to stop it.Through a frenetic wor...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/07/california-monterey-park-stop-datacenter-construction",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-07T16:00:07+00:00"
-      },
-      {
-        "id": "3ce6517fa12b",
-        "title": "Battle of the chatbots: Anthropic and OpenAI go head-to-head over ads in their AI products",
-        "summary": "New Anthropic campaign suggests other AI platforms will incorporate targeted ads in their chatbot conversationsThe Seahawks and the Patriots aren’t the only ones gearing up for a fight.AI rivals Anthropic and OpenAI have launched a war of ads trying to court corporate America during one of the bigge...",
-        "url": "https://www.theguardian.com/technology/2026/feb/07/ai-chatbots-anthropic-openai-claude-chatgpt",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-07T16:00:06+00:00"
       }
     ],
     "序(month)": [
