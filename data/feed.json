@@ -1,23 +1,103 @@
 {
-  "updated_at": "2026-02-09T18:38:49.759615+00:00",
+  "updated_at": "2026-02-09T21:08:09.185988+00:00",
   "trending": [
-    "curling scoring",
-    "cory thiesse",
-    "femke kok",
-    "brittany bowe",
-    "emma raducanu",
-    "bad bunny burning flag video",
-    "south africa national cricket team vs canada national cricket team standings",
-    "erin jackson",
-    "clemency",
-    "atalanta - cremonese"
+    "lake erie ice crack",
+    "emilea zingas",
+    "us women's hockey team",
+    "rhythm dance olympics",
+    "france milano cortina 2026",
+    "porto vs sporting",
+    "max schuemann",
+    "pulmonary embolism",
+    "wootton high school",
+    "laurence fournier beaudry"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "166d4be84e45",
+        "title": "Anthropic’s India expansion collides with a local company that already had the name",
+        "summary": "India's Anthropic Software has taken the U.S. AI giant to court over a name dispute.",
+        "url": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+        "source": "TechCrunch",
+        "published": "2026-02-09T21:01:41+00:00"
+      },
+      {
+        "id": "e11b2d91e6ef",
+        "title": "Beloved LA taco shop makes surprise cameo in Bad Bunny’s half-time show",
+        "summary": "Owner of Villa’s Tacos said the rapper loved their restaurant and asked the business to join his Super Bowl performanceA beloved Los Angeles taqueria made its primetime debut during Bad Bunny’s Super Bowl LX half-time show, delighting and surprising its legion of faithful patrons.Bad Bunny’s 13-minu...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/09/bad-bunny-super-bowl-villas-tacos",
+        "source": "Business | The Guardian",
+        "published": "2026-02-09T20:40:37+00:00"
+      },
+      {
+        "id": "364dc6b85c22",
+        "title": "Trump FCC investigates The View, reportedly says \"fake news\" will be punished",
+        "summary": "FCC recently issued equal-time warning to late-night and daytime talk shows.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/trump-fcc-investigates-the-view-reportedly-says-fake-news-will-be-punished/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-09T20:27:44+00:00"
+      },
+      {
+        "id": "5b68552b5756",
+        "title": "ChatGPT rolls out ads",
+        "summary": "OpenAI faced a backlash late last year when it tested app suggestions that looked like unwanted ads. Still, the AI company needs to generate revenue from its popular chatbot to cover the costs of developing its technology and growing the business.",
+        "url": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
+        "source": "TechCrunch",
+        "published": "2026-02-09T20:15:26+00:00"
+      },
+      {
+        "id": "25d2efa3a445",
+        "title": "Lidar-maker Ouster buys vision company StereoLabs as sensor consolidation continues",
+        "summary": "Ouster is paying $35 million along with 1.8 million shares.",
+        "url": "https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues/",
+        "source": "TechCrunch",
+        "published": "2026-02-09T20:08:05+00:00"
+      },
+      {
+        "id": "38c7d061150e",
+        "title": "Reform-led Worcestershire set to issue England’s largest council tax rise",
+        "summary": "Cap-busting tax hike will be embarrassing for the party, which has made low council tax a priorityReform-led Worcestershire county council is likely to issue England’s largest council tax rise this April after it was given special permission by the government to increase it by up to 9%.Worcestershir...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/09/reform-worcestershire-council-tax-england-largest-rise",
+        "source": "Business | The Guardian",
+        "published": "2026-02-09T19:49:00+00:00"
+      },
+      {
+        "id": "8c1a130ebedf",
+        "title": "Discord faces backlash over age checks after data breach exposed 70,000 IDs",
+        "summary": "Discord to block adult content unless users verify ages with selfies or IDs.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-09T19:39:22+00:00"
+      },
+      {
+        "id": "ec25bdff5c7b",
+        "title": "So, what’s going on with Musicboard?",
+        "summary": "Is Musicboard shutting down? Company says no, but users are worried.",
+        "url": "https://techcrunch.com/2026/02/09/so-whats-going-on-with-musicboard/",
+        "source": "TechCrunch",
+        "published": "2026-02-09T18:44:55+00:00"
+      },
+      {
+        "id": "b65f8c33d8ec",
+        "title": "NatWest is chasing the mass affluent wallet. So is everyone else | Nils Pratley",
+        "summary": "Bank snares biggest acquisition since it was bailed out by taxpayers in 2008 but it isn’t cheap – and may be slow to pay offNatWest to buy wealth manager Evelyn Partners for £2.7bnAnnounce a £2.7bn acquisition and watch your stock market value fall by £3.1bn.NatWest picked a bad day to announce its ...",
+        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/09/natwest-mass-affluent-wallet",
+        "source": "Business | The Guardian",
+        "published": "2026-02-09T18:38:21+00:00"
+      },
+      {
+        "id": "e4c9618b3b8e",
+        "title": "NIH head, still angry about COVID, wants a second scientific revolution",
+        "summary": "Can we pander to MAHA, re-litigate COVID, and improve science at the same time?",
+        "url": "https://arstechnica.com/science/2026/02/nih-head-still-angry-about-covid-wants-a-second-scientific-revolution/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-09T18:32:55+00:00"
+      },
+      {
         "id": "1a08c5612025",
         "title": "Harvey reportedly raising at $11B valuation just months after it hit $8B",
-        "summary": "After announcing $190 million in ARR in December, Harvey may be raising again a big leap in valuation.",
+        "summary": "After announcing $190 million in ARR in December, Harvey may be raising again.",
         "url": "https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/",
         "source": "TechCrunch",
         "published": "2026-02-09T18:21:02+00:00"
@@ -33,7 +113,7 @@
       {
         "id": "b91932073c66",
         "title": "Lyft opens its ride-hailing app to teens",
-        "summary": "Rival Uber started allowing teens to use the app two years ago.",
+        "summary": "The new Lyft service comes with a number of guardrails. Only a parent or guardian can create a teen account and drivers who are matched with these underage passengers must meet additional criteria and pass yearly background checks.",
         "url": "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/",
         "source": "TechCrunch",
         "published": "2026-02-09T18:05:32+00:00"
@@ -111,6 +191,14 @@
         "published": "2026-02-09T16:20:12+00:00"
       },
       {
+        "id": "f7946fa68772",
+        "title": "Ofcom under fire after refusing to investigate ‘misleading’ GB News Trump interview",
+        "summary": "US president not challenged over false claims climate change is ‘hoax’ and parts of London have sharia lawThe UK’s media regulator Ofcom has been accused of abandoning “any pretence” of guarding against misleading and biased television coverage, after it refused to investigate a series of complaints...",
+        "url": "https://www.theguardian.com/media/2026/feb/09/ofcom-investigate-gb-news-trump-interview",
+        "source": "Business | The Guardian",
+        "published": "2026-02-09T15:57:53+00:00"
+      },
+      {
         "id": "bda12c4eaf58",
         "title": "Scottish Labour leader calls for Keir Starmer to resign as PM – video",
         "summary": "Anas Sarwar, the leader of the Labour party in Scotland, called on Monday for Keir Starmer to resign, saying the government's failures had 'drowned out' its accomplishments. Calls for the prime minister's resignation have been growing this week after new Epstein files revelations about Peter Mandels...",
@@ -125,94 +213,6 @@
         "url": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
         "source": "TechCrunch",
         "published": "2026-02-09T15:47:08+00:00"
-      },
-      {
-        "id": "754dd468fe21",
-        "title": "Ive and Newson bring old-school charm to Ferrari's first EV interior",
-        "summary": "Analogue dials, aluminum switches, and plenty of buttons for the Ferrari Luce.",
-        "url": "https://arstechnica.com/cars/2026/02/ive-and-newson-bring-old-school-charm-to-ferraris-first-ev-interior/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-09T15:44:33+00:00"
-      },
-      {
-        "id": "bd50c5021146",
-        "title": "Discord to roll out age verification next month for full access to its platform",
-        "summary": "All users will be put into a \"teen-appropriate experience\" by default unless they prove that they are adults.",
-        "url": "https://techcrunch.com/2026/02/09/discord-to-roll-out-age-verification-next-month-for-full-access-to-its-platform/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T15:39:02+00:00"
-      },
-      {
-        "id": "ba5662d2a55e",
-        "title": "Report: Imminent Apple hardware updates include MacBook Pro, iPads, and iPhone 17e",
-        "summary": "High-end Macs and less-expensive iPhones and iPads are all on the docket.",
-        "url": "https://arstechnica.com/gadgets/2026/02/report-imminent-apple-hardware-updates-include-macbook-pro-ipads-and-iphone-17e/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-09T15:28:40+00:00"
-      },
-      {
-        "id": "d36146e5d5a6",
-        "title": "Uber to buy delivery arm of Turkey’s Getir",
-        "summary": "The deal will see Uber paying $335 million at the outset to purchase Getir's food delivery business. Uber will also pay $100 million for a 15% stake in Getir's grocery, retail, and water delivery business.",
-        "url": "https://techcrunch.com/2026/02/09/uber-to-buy-delivery-arm-of-turkeys-getir/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T15:07:03+00:00"
-      },
-      {
-        "id": "9fb750900f88",
-        "title": "Call for speakers: TechCrunch Founder Summit 2026",
-        "summary": "Submit to speak at TechCrunch Founder Summit 2026 to lead a roundtable. Share scaling insights with 1,100 founders on June 23 in Boston.",
-        "url": "https://techcrunch.com/2026/02/09/call-for-speakers-techcrunch-founder-summit-2026/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T15:00:00+00:00"
-      },
-      {
-        "id": "54213268a9f7",
-        "title": "Why would Elon Musk pivot from Mars to the Moon all of a sudden?",
-        "summary": "\"SpaceX has already shifted focus to building a self-growing city on the Moon.\"",
-        "url": "https://arstechnica.com/space/2026/02/has-elon-musk-given-up-on-mars/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-09T14:38:39+00:00"
-      },
-      {
-        "id": "e91ba16c1896",
-        "title": "UK, UN and EU deplore ‘monumental injustice’ of Jimmy Lai’s 20-year jail sentence",
-        "summary": "Son says Hong Kong media figure, 78, fears dying alone while legal team say Lai is now world’s highest profile political prisonerThe UK, the UN, EU and rights groups have condemned the sentencing of the pro-democracy activist and publisher Jimmy Lai, a British citizen who has been jailed for an unpr...",
-        "url": "https://www.theguardian.com/world/2026/feb/09/uk-un-eu-jail-sentence-jimmy-lai-hong-kong",
-        "source": "Business | The Guardian",
-        "published": "2026-02-09T14:35:23+00:00"
-      },
-      {
-        "id": "ab7f972593da",
-        "title": "The battle begins: 2026 Startup Battlefield 200 nominations are open",
-        "summary": "Calling Pre-Series A founders: nominations for TechCrunch Startup Battlefield 200 are open. Compete in the world’s most iconic pitch competition at Disrupt 2026 from October 13 - 15.",
-        "url": "https://techcrunch.com/2026/02/09/the-battle-begins-startup-battlefield-200-nominations-are-open/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T14:30:00+00:00"
-      },
-      {
-        "id": "18011cd5f0c2",
-        "title": "Files cast light on Jeffrey Epstein’s ties to cryptocurrency",
-        "summary": "Newly released documents detail convicted sex offender’s early backing of bitcoin and Coinbase Millions of files related to Jeffrey Epstein have brought to light his ties to the highest echelons of the cryptocurrency industry.Documents published last week by the US Department of Justice reveal Epste...",
-        "url": "https://www.theguardian.com/technology/2026/feb/09/jeffrey-epstein-crypto",
-        "source": "Business | The Guardian",
-        "published": "2026-02-09T14:00:22+00:00"
-      },
-      {
-        "id": "4c351dd34718",
-        "title": "‘We’re being turned into an energy colony’: Argentina’s nuclear plan faces backlash over US interests",
-        "summary": "Push to restart uranium mining in Patagonia has sparked fears about the environmental impact and loss of sovereignty over key resourcesOn an outcrop above the Chubut River, one of the few to cut across the arid Patagonian steppe of southern Argentina, Sergio Pichiñán points across a wide swath of sc...",
-        "url": "https://www.theguardian.com/global-development/2026/feb/09/energy-colony-argentina-patagonia-uranium-nuclear-plan-backlash-over-us-interests",
-        "source": "Business | The Guardian",
-        "published": "2026-02-09T14:00:20+00:00"
-      },
-      {
-        "id": "2093e66930be",
-        "title": "Gather AI, maker of ‘curious’ warehouse drones, lands $40M led by Keith Block’s firm",
-        "summary": "Gather AI has closed funding from former Salesforce CEO's firm Smith Point Capital. Its warehouse AI system doesn't just scan. It seeks out specific data.",
-        "url": "https://techcrunch.com/2026/02/09/gather-ai-maker-of-curious-warehouse-drones-lands-40m-led-by-keith-blocks-firm/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T14:00:00+00:00"
       }
     ],
     "破(day)": [
