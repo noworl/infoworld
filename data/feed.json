@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-09T05:46:32.575908+00:00",
+  "updated_at": "2026-02-09T08:07:36.783750+00:00",
   "trending": [
-    "biathlon",
-    "eiza gonzález",
-    "stanford",
-    "apple iphone 18 pro max",
-    "amd",
-    "huawei",
-    "world",
-    "was mark wahlberg at the super bowl",
-    "germany",
-    "juan pablo guanipa"
+    "vehicle accident lawyers",
+    "auto accident attorney",
+    "pedestrian accident lawyers",
+    "auto accident lawyer",
+    "stock market news today",
+    "nfl schedule this week",
+    "fintech innovation",
+    "cryptocurrency trading",
+    "artificial intelligence news",
+    "world's tallest buildings"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "e63b334f1b07",
+        "title": "Japan’s Nikkei hits record high and yen strengthens after Takaichi’s election win – business live",
+        "summary": "Rolling coverage of the latest economic and financial newsSanae Takaichi’s conservatives cement power in landslide Japan election winJapan’s top currency official has said the government remains on high alert as it monitors the foreign exchange market.Atsushi Mimura, the finance ministry’s vice mini...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/09/japan-election-nikkei-record-high-yen-strengthens-takaichi-election-win-keir-starmer-pound-bonds-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-09T07:48:49+00:00"
+      },
+      {
+        "id": "ca913be81f57",
+        "title": "Southern Water admits 18-year meter mix-up – but insists we owe it more",
+        "summary": "It kept on billing us for a neighbouring house’s supply although I live alone at my grandmother’s homeI’m currently renting my grandmother’s house while she is in a care home with dementia.Soon after I moved in, I was hit with a £614 quarterly water bill from Southern Water. I was already paying £62...",
+        "url": "https://www.theguardian.com/money/2026/feb/09/southern-water-admits-18-year-meter-mix-up-but-insists-we-owe-it-more",
+        "source": "Business | The Guardian",
+        "published": "2026-02-09T07:00:54+00:00"
+      },
+      {
+        "id": "ace5e332110a",
+        "title": "A broken high street and its billionaire owners",
+        "summary": "The whole town centre of Newton Aycliffe in County Durham is owned by billionaire brothers – so why is it so run down? Josh Halliday reportsThe Guardian’s northern editor, Josh Halliday, recently went to Newton Aycliffe, a town in County Durham, to talk to residents about their high street. They hat...",
+        "url": "https://www.theguardian.com/news/audio/2026/feb/09/a-broken-high-street-and-its-billionaire-owners",
+        "source": "Business | The Guardian",
+        "published": "2026-02-09T03:00:48+00:00"
+      },
       {
         "id": "858672971979",
         "title": "A Project Hail Mary final trailer? Yes please",
@@ -189,33 +213,25 @@
         "url": "https://www.theguardian.com/business/2026/feb/08/bp-faces-calls-for-new-strategy-to-end-period-of-turbulance-annual-results-investor-pressure-climate",
         "source": "Business | The Guardian",
         "published": "2026-02-08T12:38:58+00:00"
-      },
-      {
-        "id": "88f5f9faad60",
-        "title": "Office buzz: UK employers turn to beehives to boost workplace wellbeing",
-        "summary": "Providers report rise in demand as companies seek mental health benefits and increased sense of communityIn a growing number of workplaces, the soundtrack of the lunch break is no longer the rustle of sandwiches at a desk, but the quiet hum of bees – housed just outside the office window.Employers f...",
-        "url": "https://www.theguardian.com/environment/2026/feb/08/uk-employers-beehives-office-workplace-mental-health-community-nature",
-        "source": "Business | The Guardian",
-        "published": "2026-02-08T12:34:33+00:00"
-      },
-      {
-        "id": "04c9404929ec",
-        "title": "Want to stop Trump bullying your country? Retaliate",
-        "summary": "Faced with economic coercion, Europe has trodden carefully. My experience tells me that’s not enoughIn February of last year, Donald Trump convened the first full cabinet meeting of his second term in the White House. He proudly announced his intention to impose sweeping tariffs on the US’s closest ...",
-        "url": "https://www.theguardian.com/books/2026/feb/08/want-to-stop-trump-bullying-your-country-retaliate",
-        "source": "Business | The Guardian",
-        "published": "2026-02-08T12:00:30+00:00"
-      },
-      {
-        "id": "ba03afc91799",
-        "title": "‘It has to be amazing’: Liberty links with Bridgerton as it capitalises on maximalist trend",
-        "summary": "Department store’s retail boss reveals how it is thriving by focusing on unique items and tie-ups from Adidas to Grayson PerryOn a damp Thursday in central London, shoppers have fled the rain to indulge in some Bridgerton-themed escapism at upmarket department store Liberty, which has dedicated its ...",
-        "url": "https://www.theguardian.com/business/2026/feb/08/liberty-department-store-bridgerton-lydia-king-retail-managing-director",
-        "source": "Business | The Guardian",
-        "published": "2026-02-08T11:00:29+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "32503b2aebeb",
+        "title": "Logitech MX Master 4 review: the best work mouse you can buy",
+        "summary": "Ergonomic shape, quality materials and satisfying clicks, now with novel haptic feedback and repairable designLogitech’s latest productivity power-house updates one of the greatest mice of all time with smoother materials, a repair-friendly design and a haptic motor for phone-like vibrations on your...",
+        "url": "https://www.theguardian.com/technology/2026/feb/09/logitech-mx-master-4-review-the-best-work-mouse-you-can-buy",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-09T07:00:53+00:00"
+      },
+      {
+        "id": "5ab410390c49",
+        "title": "四大科技巨頭 AI 資本支出規模  超越登月計畫",
+        "summary": "美國科技巨頭砸重金投資人工智慧（AI）基礎設施，規模已超越阿波羅登月等美國歷史上的重大事件。 華爾街日報報導， [&#8230;]",
+        "url": "https://technews.tw/2026/02/09/big-techs-ai-push-is-costing-a-lot-more-than-the-moon-landing/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-09T06:40:50+00:00"
+      },
       {
         "id": "a4f030482ab4",
         "title": "Kākāpō mug by Karen James",
@@ -399,25 +415,17 @@
         "url": "https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-06T22:31:31+00:00"
-      },
-      {
-        "id": "8368728557e6",
-        "title": "RFK Jr. Has Packed an Autism Panel With Cranks and Conspiracy Theorists",
-        "summary": "Among those Robert F. Kennedy Jr. recently named to a federal autism committee are people who tout dangerous treatments and say vaccine manufacturers are “poisoning children.”",
-        "url": "https://www.wired.com/story/rfk-jr-s-picks-for-a-key-autism-panel-include-advocates-for-bizarre-theories/",
-        "source": "Science Latest",
-        "published": "2026-02-06T21:02:54+00:00"
-      },
-      {
-        "id": "9c4ec715758a",
-        "title": "New York Is the Latest State to Consider a Data Center Pause",
-        "summary": "Red and blue states alike have introduced legislation in recent weeks that would halt data center development, citing concerns from climate to high energy prices.",
-        "url": "https://www.wired.com/story/new-york-is-the-latest-state-to-consider-a-data-center-pause/",
-        "source": "Science Latest",
-        "published": "2026-02-06T18:58:46+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "737fc4c2d860",
+        "title": "2026年國科會「AI導入人文社科領域研究推動計畫」第二期計畫啟動說明會 場次一：2026年2月 9 日（一） 10:00 – 12:00 場次二：2026年2月11日（三） 10:00",
+        "summary": "2026年國科會「AI導入人文社科領域研究推動計畫」第二期計畫啟動說明會 場次一：2026年2月 9 日（一） 10:00 – 12:00 場次二：2026年2月11日（三） 10:00 – 12:00 地點：線上會議室 https://www.ai-humanities.tw/activity-tw/2026_startup/",
+        "url": "https://www.facebook.com/asgis/posts/pfbid02qdC2tdR96mApUiopz4k45wgifoZ84TUQFjpTUAWVJYScRUdDPPQgiQCUK42Yzeojl",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-09T07:02:30+00:00"
+      },
       {
         "id": "ba6e3fd40dee",
         "title": "屏東縣文化資產保護所：屏東縣開發行為涉及有形文化資產查詢系統，已於2026年1月1日正式上線。 https://pican.pthg.gov.tw/ping_tung_assets/",
@@ -609,14 +617,6 @@
         "url": "https://blog.archive.org/2026/02/04/recording-now-available-from-protect-our-future-memory-webinar/",
         "source": "Internet Archive Blogs",
         "published": "2026-02-04T05:09:18+00:00"
-      },
-      {
-        "id": "48fe7417fe59",
-        "title": "運用MapToPoster製作精美城市地圖海報",
-        "summary": "MapToPoster&#160;是一個由開發者 originalankur 建立的開源 Python 專案， [&#8230;]",
-        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260203/",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心",
-        "published": "2026-02-03T15:18:02+00:00"
       }
     ]
   }
