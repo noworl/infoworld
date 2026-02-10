@@ -1,19 +1,51 @@
 {
-  "updated_at": "2026-02-10T19:46:16.772712+00:00",
+  "updated_at": "2026-02-10T22:08:57.203793+00:00",
   "trending": [
-    "torgashev",
-    "napoli vs como",
-    "marvel rivals patch notes",
-    "premier league schedule",
-    "sturla holm lægreid",
-    "max scherzer",
-    "andrew torgashev",
-    "marvel rivals",
-    "womens hockey usa",
-    "overwatch patch notes"
+    "purdue vs nebraska",
+    "sarasota shooting",
+    "snowfall weather forecast",
+    "courtney love",
+    "yuma kagiyama",
+    "charlie woods",
+    "george mason university",
+    "f stock",
+    "rob havenstein",
+    "epl table"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "4b04b44bd9e0",
+        "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
+        "summary": "Robert Playter announcd he is leaving Boston Dynamics after 30 years at the company in various roles, including six years as CEO.",
+        "url": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T21:20:10+00:00"
+      },
+      {
+        "id": "1b45acfa6e7a",
+        "title": "VC Masha Bucher, Epstein associate and Day One founder, explains herself",
+        "summary": "After numerous news reports documented Masha Bucher's close business and personal relationship with convicted sex offender Jeffrey Epstein, Bucher took to X to explain.",
+        "url": "https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T21:07:44+00:00"
+      },
+      {
+        "id": "9762e19d5dfe",
+        "title": "Google sent personal and financial information of student journalist to ICE",
+        "summary": "The tech giant handed over the personal information of a journalist and student who attended a pro-Palestinian protest in 2024. This is the latest example of ICE using its controversial subpoena powers to target people critical of the Trump administration.",
+        "url": "https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T20:41:21+00:00"
+      },
+      {
+        "id": "ab7c8918cbda",
+        "title": "Nearly half of xAI’s founding team has now left the company",
+        "summary": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.",
+        "url": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T20:31:51+00:00"
+      },
       {
         "id": "b77cb4ba35e3",
         "title": "Here’s how Rivian changed the rear door manual release on the R2",
@@ -29,6 +61,38 @@
         "url": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
         "source": "TechCrunch",
         "published": "2026-02-10T19:34:51+00:00"
+      },
+      {
+        "id": "d35765b8d82f",
+        "title": "Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site",
+        "summary": "DDoS hit blog that tried to uncover Archive.today founder's identity in 2023.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-10T19:29:34+00:00"
+      },
+      {
+        "id": "cc7287bb4df8",
+        "title": "US restaurants targeted for opposing ICE: ‘I refuse to cook for fascists’",
+        "summary": "Restaurants face one-star reviews and less business in an already precarious industry. Some restaurateurs fear speaking out as immigrants themselvesAmid calls for a national shutdown on 30 January, Anton Kinloch displayed a sign on the sidewalk outside Lone Wolf, his craft cocktail bar and restauran...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/10/us-restaurant-owners-ice-immigration",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T19:00:56+00:00"
+      },
+      {
+        "id": "358d35d94d77",
+        "title": "Yet another co-founder departs Elon Musk's xAI",
+        "summary": "Tony Wu leaves a company now entangled with social media, space-based IPOs.",
+        "url": "https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-10T18:54:39+00:00"
+      },
+      {
+        "id": "63b073714e68",
+        "title": "Dewormer ivermectin as cancer cure? RFK Jr.'s NIH funds \"absurd\" study.",
+        "summary": "There's no reason to think ivermectin cures cancer, but RFK Jr's NIH is on it anyway.",
+        "url": "https://arstechnica.com/health/2026/02/dewormer-ivermectin-as-cancer-cure-rfk-jr-s-nih-funds-absurd-study/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-10T18:44:32+00:00"
       },
       {
         "id": "1221aefca229",
@@ -149,73 +213,25 @@
         "url": "https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/",
         "source": "TechCrunch",
         "published": "2026-02-10T15:54:48+00:00"
-      },
-      {
-        "id": "192e11730384",
-        "title": "Trump EPA reportedly seeks to revoke landmark air pollution rule",
-        "summary": "EPA administrator Lee Zeldin is reportedly expected to repeal the 2009 \"endangerment finding\" that underpins U.S. climate regulatory efforts.",
-        "url": "https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T15:47:13+00:00"
-      },
-      {
-        "id": "b7449247d190",
-        "title": "The EU is working on a blanket ban of ‘forever chemicals’. Why isn't Britain? | Pippa Neill",
-        "summary": "In Lancashire, I met people living with dangerous levels of Pfas, including in their food. The government is failing themLast week, on the morning the government published its Pfas action plan, I got a worried phone call from a woman called Sam who lives next door to a chemical factory in Lancashire...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/10/eu-ban-forever-chemicals-britain-lancashire-government-pfas",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T15:32:45+00:00"
-      },
-      {
-        "id": "d1807cdd0c69",
-        "title": "YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying",
-        "summary": "YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.",
-        "url": "https://techcrunch.com/2026/02/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T15:06:26+00:00"
-      },
-      {
-        "id": "453ea292d5e7",
-        "title": "Hauler Hero collects $16M for its AI waste management software",
-        "summary": "Hauler Hero has seen its customer base, revenue, and head count double since the company raised its seed round in 2024.",
-        "url": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T15:00:00+00:00"
-      },
-      {
-        "id": "5fd099fed03c",
-        "title": "India orders social media platforms to take down deepfakes faster",
-        "summary": "India’s new rules take effect February 20, tightening deepfake oversight and shrinking takedown windows to as little as two hours.",
-        "url": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T14:51:13+00:00"
-      },
-      {
-        "id": "aff399216642",
-        "title": "Will the Gulf’s push for its own AI succeed?",
-        "summary": "Tech giants Alphabet, Amazon, Microsoft and Meta to collectively invest $600bn on artificial intelligence this yearHello, and welcome to TechScape. Today in tech, we’re discussing the Persian Gulf countries making a play for sovereignty over their own artificial intelligence in response to an unstab...",
-        "url": "https://www.theguardian.com/technology/2026/feb/09/us-tech-ai-companies-gulf-states",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T14:45:34+00:00"
-      },
-      {
-        "id": "2353d5a5a256",
-        "title": "Alphabet selling very rare 100-year bonds to help fund AI investment",
-        "summary": "Alphabet becomes first tech company to issue 100-year bonds in nearly three decades.",
-        "url": "https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-10T14:44:52+00:00"
-      },
-      {
-        "id": "7d8c28c08d67",
-        "title": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
-        "summary": "Thomas Dohmke's new startup offers an AI system to allow developers to better manage all the code AI agents produce.",
-        "url": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T14:30:00+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "5e24e4fd6f30",
+        "title": "The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating",
+        "summary": "Are you speechless watching US figure skater Ilia Malinin on the ice? Science explains how it’s possible the Quad God can do more than four full rotations in the air.",
+        "url": "https://www.wired.com/story/2026-winter-olympics-figure-skating-quadruple-axel-science/",
+        "source": "Science Latest",
+        "published": "2026-02-10T20:45:00+00:00"
+      },
+      {
+        "id": "e80d107bdac6",
+        "title": "RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees",
+        "summary": "The site Realfood.gov uses Elon Musk’s Grok chatbot to dispense nutrition information—some of which contradicts the government’s new guidelines.",
+        "url": "https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/",
+        "source": "Science Latest",
+        "published": "2026-02-10T20:30:28+00:00"
+      },
       {
         "id": "5f9113a991b0",
         "title": "Move 2.0 adds Audio Tracks with clip warping, live processing; more",
@@ -399,22 +415,6 @@
         "url": "https://www.theguardian.com/australia-news/2026/feb/09/australian-government-roblox-rating-child-safety",
         "source": "Technology | The Guardian",
         "published": "2026-02-09T11:30:02+00:00"
-      },
-      {
-        "id": "2c52372aa0e6",
-        "title": "AI Is Here to Replace Nuclear Treaties. Scared Yet?",
-        "summary": "The last major nuclear arms treaty between the US and Russia just expired. Some experts believe a combination of satellite surveillance, AI, and human reviewers can take its place. Others, not so much.",
-        "url": "https://www.wired.com/story/satellites-ai-nuclear-treaties/",
-        "source": "Business Latest",
-        "published": "2026-02-09T11:30:00+00:00"
-      },
-      {
-        "id": "7c6de36c497b",
-        "title": "This Startup Thinks It Can Make Rocket Fuel From Water. Stop Laughing",
-        "summary": "General Galactic, cofounded by a former SpaceX engineer, plans to test its water-based propellant this fall. If successful, it could help usher in a new era of space travel. That's a big “if.”",
-        "url": "https://www.wired.com/story/general-galactic-water-rocket-fuel-test/",
-        "source": "Science Latest",
-        "published": "2026-02-09T10:30:00+00:00"
       }
     ],
     "序(month)": [
