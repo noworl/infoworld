@@ -1,19 +1,155 @@
 {
-  "updated_at": "2026-02-10T15:49:45.127734+00:00",
+  "updated_at": "2026-02-10T19:46:16.772712+00:00",
   "trending": [
-    "lutnick",
-    "tony yayo",
-    "julius erving",
-    "michelle randolph",
-    "nicholas braun",
-    "coco gauff",
-    "spgi stock",
-    "lunar new year",
-    "ehsan adil",
-    "rivian r2"
+    "torgashev",
+    "napoli vs como",
+    "marvel rivals patch notes",
+    "premier league schedule",
+    "sturla holm lægreid",
+    "max scherzer",
+    "andrew torgashev",
+    "marvel rivals",
+    "womens hockey usa",
+    "overwatch patch notes"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "b77cb4ba35e3",
+        "title": "Here’s how Rivian changed the rear door manual release on the R2",
+        "summary": "Rivian, along with other automakers, has been under pressure to make the manual door releases easier to access. The new R2 SUV does that — here's how.",
+        "url": "https://techcrunch.com/2026/02/10/heres-how-rivian-changed-the-rear-door-manual-release-on-the-r2/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T19:38:54+00:00"
+      },
+      {
+        "id": "f84ed0df5400",
+        "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
+        "summary": "Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories, and add  backgrounds to text posts.",
+        "url": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T19:34:51+00:00"
+      },
+      {
+        "id": "1221aefca229",
+        "title": "Prediction market Kalshi reached $1bn in trading volume during Super Bowl",
+        "summary": "Kalshi says ‘incredible weekend’ after $145m in bets on Bad Bunny’s opening song and guests during half-time showOnline prediction market Kalshi hit a daily record on Super Bowl Sunday, surpassing $1bn in trading volume, the company announced on Tuesday.Kalshi’s CEO, Tarek Mansour, called it an “inc...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/kalshi-super-bowl",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T18:28:50+00:00"
+      },
+      {
+        "id": "15b8054502aa",
+        "title": "Windows' original Secure Boot certificates expire in June—here's what you need to do",
+        "summary": "PCs without the new certificates could eventually have trouble booting new OSes.",
+        "url": "https://arstechnica.com/gadgets/2026/02/microsoft-sounds-the-alarm-about-secure-boot-certificates-expiring-later-this-year/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-10T18:04:01+00:00"
+      },
+      {
+        "id": "bfa8e36b147a",
+        "title": "Cowboys, lassos, and nudity: AI startups turn to stunts for attention in a crowded market",
+        "summary": "Businesses are using theatrical stunts not for shock alone but to create viral content and drive sales conversations onlineWhen Lunos, an AI startup in New York City, was gearing up for launch, its founder and chief executive, Duncan Barrigan, and his team wanted to make a splash. So they shelled ou...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/10/ai-business-startups-stunts",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T17:00:53+00:00"
+      },
+      {
+        "id": "72b70c2446ea",
+        "title": "Upgraded Google safety tools can now find and remove more of your personal info",
+        "summary": "The Results About You tool is getting an upgrade.",
+        "url": "https://arstechnica.com/gadgets/2026/02/upgraded-google-safety-tools-can-now-find-and-remove-more-of-your-personal-info/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-10T16:59:25+00:00"
+      },
+      {
+        "id": "cbc301044043",
+        "title": "Honeymoon period for new BP boss won’t last long",
+        "summary": "Markets did not like the decision to suspend share buy-backs – and investors will want clarity about what happens nextThe clearing of the decks continues apace at BP. The last chief executive, Murray Auchincloss, got the heave-ho in December. Last month brought news of hefty write-downs on the troub...",
+        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/10/honeymoon-period-for-new-bp-boss-wont-last-long",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T16:57:02+00:00"
+      },
+      {
+        "id": "0adccecb63e7",
+        "title": "We need a fresh vision to save our high streets | Letters",
+        "summary": "Readers respond to an editorial and letters on the decline of town centres and the need to redesign public spacesRegarding your editorial (The Guardian view on high-street decline: a symbol of failure in a discontented nation, 3 February), saving high streets requires four things that the Treasury, ...",
+        "url": "https://www.theguardian.com/society/2026/feb/10/we-need-a-fresh-vision-to-save-our-high-streets",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T16:53:16+00:00"
+      },
+      {
+        "id": "9fb5144f3a82",
+        "title": "Student loan move could cost Labour dear | Letter",
+        "summary": "Dr Michael Symonds and Gavin Greenwood respond to an editorial on graduate loansYour editorial (8 February) is correct to highlight that a graduate levy by stealth is no way to fund the NHS and its potential consequences. This will include resident doctors, whose dissatisfaction with their pay and w...",
+        "url": "https://www.theguardian.com/money/2026/feb/10/student-loan-move-could-cost-labour-dear",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T16:51:48+00:00"
+      },
+      {
+        "id": "9c285ecc0356",
+        "title": "Where will I get £2 in a cashless world? | Brief letters",
+        "summary": "Special coins | Country Diary | Duvet days | Washing instructions | Sleeping on the job | A former princeI enjoyed Sammy Gecsoyler’s article on using only cash for a week (My week of only using cash: could a return to notes and coins change my life?, 10 February), but he does not mention the joy of ...",
+        "url": "https://www.theguardian.com/money/2026/feb/10/where-will-i-get-2-in-a-cashless-world",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T16:51:17+00:00"
+      },
+      {
+        "id": "e2bca1f4ec09",
+        "title": "Former Tesla product manager wants to make luxury goods impossible to fake, starting with a chip",
+        "summary": "The startup claims that it has developed a \"hack-proof\" chip that can't be bypassed by devices like Flipper Zero, a widely available hacking tool that can be used to tamper with wireless systems. These chips are linked with digital certificates to verify the authenticity of the products.",
+        "url": "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T16:30:00+00:00"
+      },
+      {
+        "id": "267aea1213dc",
+        "title": "UK sleepwalking into joblessness epidemic, Tesco boss warns",
+        "summary": "Ashwin Prasad says far fewer people in work than there could be with ministers just ‘tinkering at the edges’ of problemThe UK is “sleepwalking into a quiet epidemic” of joblessness with millions of people out of work and on benefits, the boss of the nation’s biggest supermarket chain has warned.Ashw...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/uk-sleepwalking-into-joblessness-epidemic-tesco-boss-unemployment",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T16:21:04+00:00"
+      },
+      {
+        "id": "0281e907bd52",
+        "title": "The Kia PV5 electric van combines futuristic looks and thoughtful design",
+        "summary": "Forget VW's expensive retro bus—this is the electric van we've been waiting for.",
+        "url": "https://arstechnica.com/cars/2026/02/the-kia-pv5-electric-van-combines-futuristic-looks-and-thoughtful-design/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-10T16:20:20+00:00"
+      },
+      {
+        "id": "72875551cb27",
+        "title": "Singapore says China-backed hackers targeted its four largest phone companies",
+        "summary": "The Singaporean government said the China-backed hackers gained \"limited access to critical systems\" run by the country's top four telecommunication giants, but said they did not disrupt services or steal customers' data.",
+        "url": "https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T16:19:39+00:00"
+      },
+      {
+        "id": "4205adc05806",
+        "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
+        "summary": "Vega Security raised $120 million, bringing its valuation to $700 million, in a round led by Accel. The company aims to rethink how enterprises detect cybersecurity threats.",
+        "url": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T16:00:00+00:00"
+      },
+      {
+        "id": "2e942d86e631",
+        "title": "What to know about Netflix’s landmark acquisition of Warner Bros.",
+        "summary": "Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop.",
+        "url": "https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T15:56:21+00:00"
+      },
+      {
+        "id": "80281464f288",
+        "title": "Google expands tools to let users remove sensitive data about themselves from Search",
+        "summary": "Users will be able to more easily request the removal of results that include private information or non-consensual explicit imagery.",
+        "url": "https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T15:54:48+00:00"
+      },
       {
         "id": "192e11730384",
         "title": "Trump EPA reportedly seeks to revoke landmark air pollution rule",
@@ -21,6 +157,14 @@
         "url": "https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/",
         "source": "TechCrunch",
         "published": "2026-02-10T15:47:13+00:00"
+      },
+      {
+        "id": "b7449247d190",
+        "title": "The EU is working on a blanket ban of ‘forever chemicals’. Why isn't Britain? | Pippa Neill",
+        "summary": "In Lancashire, I met people living with dangerous levels of Pfas, including in their food. The government is failing themLast week, on the morning the government published its Pfas action plan, I got a worried phone call from a woman called Sam who lives next door to a chemical factory in Lancashire...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/10/eu-ban-forever-chemicals-britain-lancashire-government-pfas",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T15:32:45+00:00"
       },
       {
         "id": "d1807cdd0c69",
@@ -69,153 +213,41 @@
         "url": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
         "source": "TechCrunch",
         "published": "2026-02-10T14:30:00+00:00"
-      },
-      {
-        "id": "55c2780bbd36",
-        "title": "More pollution and higher energy costs: critics condemn Trump’s anti-environment agenda",
-        "summary": "US courts, scholars and Democrats are pushing back against the president’s aggressive drive to boost fossil fuelsDonald Trump’s aggressive drive to boost fossil fuels, including dirty coal, coupled with his administration’s moves to roll back wind and solar power, face mounting fire from courts, sch...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/10/trump-anti-environment-agenda-pushback",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T14:00:39+00:00"
-      },
-      {
-        "id": "ad4ecc3f995a",
-        "title": "Spotify hits a record 751M monthly users thanks to Wrapped, new free features",
-        "summary": "Spotify credited a successful Wrapped campaign and new features in its free tier for its rapid user growth",
-        "url": "https://techcrunch.com/2026/02/10/spotify-hits-a-record-751m-monthly-users-thanks-to-wrapped-new-free-features/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T14:00:14+00:00"
-      },
-      {
-        "id": "816d574bfa2c",
-        "title": "Primary Ventures raises healthy $625M Fund V to focus on seed investing",
-        "summary": "Primary Ventures has closed a $625 million fund focused on seed investing nationwide. It's a sizeable accomplishment for a seed-stage VC firm.",
-        "url": "https://techcrunch.com/2026/02/10/primary-ventures-raises-massive-625m-fund-v-to-focus-on-seed-investing/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T14:00:00+00:00"
-      },
-      {
-        "id": "686b828b1d65",
-        "title": "Proptech startup Smart Bricks raises $5 million pre-seed led by a16z",
-        "summary": "Smart Bricks is an AI-powered proptech that helps investors find high-quality real estate investments",
-        "url": "https://techcrunch.com/2026/02/10/proptech-startup-smart-bricks-raises-5-million-pre-seed-in-round-led-by-a16z/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T14:00:00+00:00"
-      },
-      {
-        "id": "a3c7b9b5a911",
-        "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
-        "summary": "Startup Runway has raised a $315 million round at a $5.3 billion valuation, funds it will use to expand beyond AI video generation and into world models.",
-        "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T14:00:00+00:00"
-      },
-      {
-        "id": "b41a3ddba0f1",
-        "title": "Apple and Google pledge not to discriminate against third-party apps in UK deal",
-        "summary": "Critics brand deal with regulator as ‘lightweight’ with ‘no legal bite’ as tech giants avoid legally binding measures Apple and Google have committed to avoid discriminating against apps that compete with their own products under an agreement with the UK’s competition watchdog, as they avoided legal...",
-        "url": "https://www.theguardian.com/technology/2026/feb/10/apple-google-third-party-apps-app-store",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T13:10:02+00:00"
-      },
-      {
-        "id": "50d484682583",
-        "title": "AstraZeneca CEO hails NHS drug price deal but keeps pause on £200m UK investment",
-        "summary": "Pascal Soriot suggests UK-US agreement will not be enough to revive plan to expand Cambridge siteBusiness live – latest updatesThe boss of Britain’s biggest pharmaceutical company has said the government’s recent drug pricing deal is a “very positive step” but is unlikely to unfreeze a paused £200m ...",
-        "url": "https://www.theguardian.com/business/2026/feb/10/astrazeneca-ceo-pascal-soriot-nhs-drug-price-deal-uk-investment-cambridge",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T12:26:15+00:00"
-      },
-      {
-        "id": "4906be9a03fd",
-        "title": "After Republican complaints, judicial body pulls climate advice",
-        "summary": "Meant to help judges handle scientific issues, document is now climate-free.",
-        "url": "https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-10T12:15:19+00:00"
-      },
-      {
-        "id": "e4f479687cbf",
-        "title": "Barclays CEO ‘shocked’ by Epstein revelations as bank deals with Staley fallout",
-        "summary": "CS Venkatakrishnan dismayed by ‘depravity and corruption’ revealed in Epstein files as he announces profitsBusiness live – latest updatesThe chief executive of Barclays has said he is “deeply dismayed and shocked” at the “depravity and the corruption” revealed in the Epstein files, as the bank deals...",
-        "url": "https://www.theguardian.com/business/2026/feb/10/barclays-epstein-files-bank-jes-staley-profits",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T11:55:22+00:00"
-      },
-      {
-        "id": "dab3fe975147",
-        "title": "YouTube rolls out an AI playlist generator for Premium users",
-        "summary": "YouTube Music is rolling out a new AI-powered playlist-generation feature that allows Premium users on iOS and Android to use text prompts to create playlists.",
-        "url": "https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T11:52:39+00:00"
-      },
-      {
-        "id": "7eac5b3b523e",
-        "title": "UK backs biggest English onshore windfarm in a decade among 190 green energy projects",
-        "summary": "Government also offers contracts for record number of solar schemes as it aims to create clean electricity system by 2030Business live – latest updatesThe largest onshore windfarm in England in a decade has been awarded a government subsidy among 190 contracts for renewable energy projects, as Labou...",
-        "url": "https://www.theguardian.com/business/2026/feb/10/uk-onshore-windfarm-new-green-energy-projects-contracts",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T11:47:26+00:00"
-      },
-      {
-        "id": "ec12c440da5f",
-        "title": "No, the human-robot singularity isn’t here. But we must take action to govern AI | Samuel Woolley",
-        "summary": "Moltbook, a social media site for AI agents, is nothing new. Still, the marriage of big tech and politics demands we take a standOn a recent trip to the San Francisco Bay Area, I was shocked by the billboards that lined the freeway outside of the airport. “The singularity is here,” proclaimed one. “...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/10/human-robot-singularity-govern-ai",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T11:00:35+00:00"
-      },
-      {
-        "id": "5b20339cb6f6",
-        "title": "BT replaces Openreach boss in latest management shake-up",
-        "summary": "Katie Milligan replaces Clive Selley, who oversaw £12bn rollout of full fibre broadband to 25m homesBusiness live – latest updatesThe head of BT’s infrastructure arm, Openreach, is to step down after nearly a decade, having almost completed a £12bn rollout of full fibre broadband to 25m homes.Clive ...",
-        "url": "https://www.theguardian.com/business/2026/feb/10/bt-openreach-boss-clive-selley-full-fibre-broadband",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T10:55:02+00:00"
-      },
-      {
-        "id": "ddf91f6ab290",
-        "title": "BP halts share buy-backs as annual profits slide",
-        "summary": "Pressure mounts on oil and gas company as it aims for turnaround under new chief executiveBusiness live – latest updatesBP has halted share buybacks after reporting weaker annual profits as it prepares to continue a plan to resuscitate its fortunes under a new chief executive.The company became the ...",
-        "url": "https://www.theguardian.com/business/2026/feb/10/bp-halts-share-buy-backs-profits-fall-chief-executive",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T10:31:46+00:00"
-      },
-      {
-        "id": "02bc03b1126c",
-        "title": "Telstra joint venture to axe more than 200 jobs amid AI rollout",
-        "summary": "Some jobs will be moved offshore in wake of telco’s $700m partnership with tech consultancy AccentureGet our breaking news email, free app or daily news podcastMore than 200 Telstra jobs are expected to be cut, as the telco rolls out AI capabilities and sends some jobs to India.Telstra and the techn...",
-        "url": "https://www.theguardian.com/business/2026/feb/10/telstra-ai-job-cuts-offshore-workforce",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T09:38:48+00:00"
-      },
-      {
-        "id": "80d47cea7870",
-        "title": "Europeans shunning US as Emirates and Asia travel prove popular, says Tui",
-        "summary": "Travel company reports lower demand for US amid signs Trump immigration crackdown is deterring travellersBusiness live – latest updatesEuropeans are booking fewer trips to the US, Europe’s biggest travel operator has said, as appetite for long-haul travel wanes and concerns linger around Donald Trum...",
-        "url": "https://www.theguardian.com/business/2026/feb/10/europeans-us-emirates-asia-travel-tui-trump-immigration-crackdown",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T09:18:04+00:00"
-      },
-      {
-        "id": "00805a979853",
-        "title": "£700m plan with ‘fish disco’ could save 90% of marine life, says Hinkley Point C study",
-        "summary": "Scientists find underwater acoustic project to stop fish being sucked into cooling systems could save 44 tonnes a yearScientists have found that plans that include a “fish disco” to deter migratory marine life from the nearby Hinkley Point C nuclear reactor could help save 90% of fish from the power...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/10/hinkley-point-c-plan-could-save-fish-being-sucked-into-pipes-study-finds",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T08:30:22+00:00"
-      },
-      {
-        "id": "34ec6571b32a",
-        "title": "State-sponsored hackers targeting defence sector employees, Google says",
-        "summary": "Cyber-espionage campaigns are targeting employees directly, including through hiring processes, report claimsDefence companies, their hiring processes and their employees have become a key target of state-sponsored cyber-espionage campaigns, according to a report from Google released before the Muni...",
-        "url": "https://www.theguardian.com/world/2026/feb/10/state-sponsored-hackers-targeting-defence-sector-employees-google-says",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T07:00:16+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "5f9113a991b0",
+        "title": "Move 2.0 adds Audio Tracks with clip warping, live processing; more",
+        "summary": "If you&#8217;ve got an Ableton Move, you can take advantage of its public beta today, too, just by connecting Move to your computer. And this is a huge release: in addition to other new functionality, Audio Tracks support warping clips and live-processing audio. This has the power to turn Move into ...",
+        "url": "https://cdm.link/move-2-0-adds-audio-tracks-with-clip-warping-live-processing-more/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-10T17:47:24+00:00"
+      },
+      {
+        "id": "a395cb5f2f85",
+        "title": "Introducing Showboat and Rodney, so agents can demo what they’ve built",
+        "summary": "A key challenge working with coding agents is having them both test what they’ve built and demonstrate that software to you, their overseer. This goes beyond automated tests - we need artifacts that show their progress and help us see exactly what the agent-produced software is able to do. I’ve just...",
+        "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-10T17:45:29+00:00"
+      },
+      {
+        "id": "bfa8e36b147a",
+        "title": "Cowboys, lassos, and nudity: AI startups turn to stunts for attention in a crowded market",
+        "summary": "Businesses are using theatrical stunts not for shock alone but to create viral content and drive sales conversations onlineWhen Lunos, an AI startup in New York City, was gearing up for launch, its founder and chief executive, Duncan Barrigan, and his team wanted to make a splash. So they shelled ou...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/10/ai-business-startups-stunts",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-10T17:00:53+00:00"
+      },
+      {
+        "id": "700bdeb5e424",
+        "title": "唱進／噤中國",
+        "summary": "本篇報導漫畫改編自受訪者親身經驗、記者訪談內容與採訪見聞：走進中國市場的台灣樂團與創作歌手，正如何在政治壓力下自保？深愛他們的樂迷，又該以什麼方法理解？",
+        "url": "https://www.twreporter.org/a/echoing-red-chorus-when-taiwan-indie-acts-head-for-china-comic",
+        "source": "報導者",
+        "published": "2026-02-10T16:00:00+00:00"
+      },
       {
         "id": "aff399216642",
         "title": "Will the Gulf’s push for its own AI succeed?",
@@ -266,7 +298,7 @@
       },
       {
         "id": "45de5bfe2242",
-        "title": "OpenAI Abandons “io” Branding for Its AI Hardware",
+        "title": "OpenAI Abandons ‘io’ Branding for Its AI Hardware",
         "summary": "A court filing in a trademark lawsuit reveals OpenAI won't use the name “io” for its AI hardware device, which isn't expected to ship until 2027.",
         "url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
         "source": "Business Latest",
@@ -383,41 +415,17 @@
         "url": "https://www.wired.com/story/general-galactic-water-rocket-fuel-test/",
         "source": "Science Latest",
         "published": "2026-02-09T10:30:00+00:00"
-      },
-      {
-        "id": "32503b2aebeb",
-        "title": "Logitech MX Master 4 review: the best work mouse you can buy",
-        "summary": "Ergonomic shape, quality materials and satisfying clicks, now with novel haptic feedback and repairable designLogitech’s latest productivity power-house updates one of the greatest mice of all time with smoother materials, a repair-friendly design and a haptic motor for phone-like vibrations on your...",
-        "url": "https://www.theguardian.com/technology/2026/feb/09/logitech-mx-master-4-review-the-best-work-mouse-you-can-buy",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-09T07:00:53+00:00"
-      },
-      {
-        "id": "5ab410390c49",
-        "title": "四大科技巨頭 AI 資本支出規模  超越登月計畫",
-        "summary": "美國科技巨頭砸重金投資人工智慧（AI）基礎設施，規模已超越阿波羅登月等美國歷史上的重大事件。 華爾街日報報導， [&#8230;]",
-        "url": "https://technews.tw/2026/02/09/big-techs-ai-push-is-costing-a-lot-more-than-the-moon-landing/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-02-09T06:40:50+00:00"
-      },
-      {
-        "id": "f596d8e00e1d",
-        "title": "全球首创！癌症患者的子宫被\"搬家\"，术后自然怀孕生子",
-        "summary": "（来源：麻省理工科技评论）近期，瑞士的一个医疗团队公布了一则喜讯，他们成功完成了一项助力人类实现生育的实验性手术，这项技术尤其为接受过肠癌或直肠癌治疗的患者带来了希望。放疗和化疗会产生严重的副作用，损伤子宫和卵巢组织。外科医生们研发出一种潜在的解决办法：在癌症治疗期间，将这些器官移位并缝合固定，避开治疗区域。待癌症治疗结束后，再将子宫与卵巢、输卵管一同复位。这项手术的效果十分显著，一名接受过该手术的母亲顺利诞下一名男婴。主刀的妇科肿瘤学家丹妮拉・胡贝尔（Daniela Huber）表示，这名名为卢西恩的男婴是该手术助力诞生的第五名婴儿，也是欧洲的首例。该手术的开创者雷坦・里贝罗（Reitan ...",
-        "url": "https://www.mittrchina.com/news/detail/15894",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-09T05:29:10+00:00"
-      },
-      {
-        "id": "a595db72d206",
-        "title": "‘Was I scared going back to China? No’: Ai Weiwei on AI, western censorship and returning home",
-        "summary": "He has been jailed, tracked and threatened by China’s government. What was it like pay a visit home? As he publishes a polemic about surveillance and state control, the artist relives a momentous trip to see his motherAi Weiwei is talking me through the decision-making process before his first visit...",
-        "url": "https://www.theguardian.com/artanddesign/2026/feb/09/china-ai-weiwei-western-censorship-home-surveillance",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-09T05:00:52+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "118387bc4d1d",
+        "title": "運用 Lidar 建立智慧鐵路巡查作業#光達 #LiDER #鐵道 #軌道 中華顧問這次在瑞芳到牡丹的 10 公里路段，開啟了超酷的「點雲」黑科技實驗！ 他們在維修車上安裝了「行動式光達」（Mobile LiDAR），就像幫火車裝上超強掃描...",
+        "summary": "運用 Lidar 建立智慧鐵路巡查作業#光達 #LiDER #鐵道 #軌道 中華顧問這次在瑞芳到牡丹的 10 公里路段，開啟了超酷的「點雲」黑科技實驗！ 他們在維修車上安裝了「行動式光達」（Mobile LiDAR），就像幫火車裝上超強掃描儀，每秒發射 360 萬個雷射點，捕捉周遭環境的所有細節。 透過這數十億個「光點」組成的 3D 模型，工程師不必再辛苦地人工巡查。 系統會自動計算軌道路線，甚至能一秒抓出哪些樹木長歪了、或是哪些建物太靠近軌道。為鐵路養護提供精確的數據支撐，朝向「智慧鐵路巡查」的目標邁進。 這種「智慧鐵路巡查」不僅效率翻倍，還能更精準地確保行車安全。 科技的力量，真的讓鐵道維...",
+        "url": "https://www.facebook.com/asgis/posts/pfbid02NSJk1YSQDBKzU9z9Mwia32AstNVumzTUo9BcNceddmLLrG9mzdDdBJoJToJpSRehl",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-10T15:37:52+00:00"
+      },
       {
         "id": "2aefc80c4a1a",
         "title": "QGIS 繁體中文翻譯檔下載",
@@ -609,14 +617,6 @@
         "url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
         "source": "Stephen Wolfram Writings",
         "published": "2026-02-04T20:24:57+00:00"
-      },
-      {
-        "id": "52021e366f04",
-        "title": "早期使用的 Google 地圖 2D 模式時，其底圖不論是電子地圖或衛星影像都採用 Web Mercator（EPSG:3857）投影座標系統，這也是目前多數網路地圖平台或網路地圖圖磚服務的標準配置。 Web Mercator 是麥卡托投影...",
-        "summary": "早期使用的 Google 地圖 2D 模式時，其底圖不論是電子地圖或衛星影像都採用 Web Mercator（EPSG:3857）投影座標系統，這也是目前多數網路地圖平台或網路地圖圖磚服務的標準配置。 Web Mercator 是麥卡托投影方式的一種，屬於保形投影，透過將經緯線維持為正交網格來確保局部角度與形狀的正確性，又因整張地球全圖是正方型，適合四分樹切割法支援即時互動與導航應用；但其代價是隨緯度升高尺度迅速膨脹，在高緯度區域必須不斷拉長南北方向，使得極區附近的面積產生顯著誇大，因此強制截斷南北緯度範圍在 ±85°（格陵蘭最北端約為 83.7°N），這也是 Google 地圖後來在小比例尺...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0LfY8nB1qL4ifGHAtmpdvu2eqn78zorFC8WB7jo88ueptM7qSujjipyJxUhn8o4cAl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-04T15:13:46+00:00"
       }
     ]
   }
