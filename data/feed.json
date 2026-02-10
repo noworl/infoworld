@@ -1,26 +1,82 @@
 {
-  "updated_at": "2026-02-10T08:09:28.345046+00:00",
+  "updated_at": "2026-02-10T11:57:34.871306+00:00",
   "trending": [
-    "arc raiders pve mode",
-    "grocery",
-    "spectrum outage",
-    "bbc confirms doctor who",
-    "seedance 2.0",
-    "namibia vs netherlands",
-    "pat spencer",
-    "al horford",
-    "jahmai mashack",
-    "chet holmgren"
+    "jennifer grey",
+    "good morning america",
+    "eddie bauer",
+    "jasmine paolini",
+    "pak vs usa",
+    "elise mertens",
+    "california mask ban",
+    "uae vs new zealand",
+    "flash flood warning",
+    "incident response plans"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "dab3fe975147",
+        "title": "YouTube rolls out an AI playlist generator for Premium users",
+        "summary": "YouTube Music is rolling out a new AI-powered playlist-generation feature that allows Premium users on iOS and Android to use text prompts to create playlists.",
+        "url": "https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T11:52:39+00:00"
+      },
+      {
         "id": "12a82d47e9cc",
         "title": "Global stocks reach record highs; BP annual profits slump 16% – business live",
-        "summary": "Japan’s Nikkei jumps to new peak in extended rally after Sanae Takaichi’s party secures election victory; London-listed oil giant BP suspends share buybackGood morning, and welcome to our rolling coverage of business, the financial markets and the world economy.Global stocks hit a new record in Asia...",
+        "summary": "Japan’s Nikkei jumps to new peak in extended rally after Sanae Takaichi’s party secures election victory; London-listed oil giant BP suspends share buybackThe chief executive of Barclays has said he is “deeply dismayed and shocked” at the “depravity and the corruption” revealed in the Epstein files,...",
         "url": "https://www.theguardian.com/business/live/2026/feb/10/global-stocks-record-highs-bp-annual-profits-slump-us-retail-sales-live-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-10T07:50:55+00:00"
+        "published": "2026-02-10T11:24:19+00:00"
+      },
+      {
+        "id": "5b20339cb6f6",
+        "title": "BT replaces Openreach boss in latest management shake-up",
+        "summary": "Clive Selley, who oversaw £12bn rollout of full fibre broadband to 25m homes, will lead international divisionBusiness live – latest updatesThe head of BT’s infrastructure arm Openreach is to step down after almost a decade, having almost completed a £12bn rollout of full fibre broadband to 25m home...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/bt-openreach-boss-clive-selley-full-fibre-broadband",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T10:55:02+00:00"
+      },
+      {
+        "id": "e4f479687cbf",
+        "title": "Barclays CEO ‘shocked’ by Epstein revelations as bank deals with Staley fallout",
+        "summary": "CS Venkatakrishnan dismayed by ‘depravity and corruption’ revealed in Epstein files as he announces profitsBusiness live – latest updatesThe chief executive of Barclays has said he is “deeply dismayed and shocked” at the “depravity and the corruption” revealed in the Epstein files, as the bank deals...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/barclays-epstein-files-bank-jes-staley-profits",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T10:25:08+00:00"
+      },
+      {
+        "id": "02bc03b1126c",
+        "title": "Telstra joint venture to axe more than 200 jobs amid AI rollout",
+        "summary": "Some jobs will be moved offshore in wake of telco’s $700m partnership with tech consultancy AccentureGet our breaking news email, free app or daily news podcastMore than 200 Telstra jobs are expected to be cut, as the telco rolls out AI capabilities and sends some jobs to India.Telstra and the techn...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/telstra-ai-job-cuts-offshore-workforce",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T09:38:48+00:00"
+      },
+      {
+        "id": "7eac5b3b523e",
+        "title": "UK backs biggest English onshore windfarm in a decade among 190 green energy projects",
+        "summary": "Government also offers contracts for record number of solar schemes as it aims to create clean electricity system by 2030Business live – latest updatesThe largest onshore windfarm in England in a decade has been awarded a government subsidy among 190 contracts for energy projects, as Labour attempts...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/uk-onshore-windfarm-new-green-energy-projects-contracts",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T09:29:26+00:00"
+      },
+      {
+        "id": "80d47cea7870",
+        "title": "Europeans shunning US as Emirates and Asia travel prove popular, says Tui",
+        "summary": "Travel company reports lower demand for US amid signs Trump immigration crackdown is deterring travellersBusiness live – latest updatesEuropeans are booking fewer trips to the US, Europe’s biggest travel operator has said, as appetite for long-haul travel wanes and concerns linger around Donald Trum...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/europeans-us-emirates-asia-travel-tui-trump-immigration-crackdown",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T09:18:04+00:00"
+      },
+      {
+        "id": "00805a979853",
+        "title": "£700m ‘fish disco’ plan could save 90% of marine life, says Hinkley Point C study",
+        "summary": "Scientists find underwater acoustic project to stop fish being sucked into cooling systems could save 44 tonnes a yearScientists have found that plans to use a “fish disco” to deter migratory marine life from the nearby Hinkley Point C nuclear reactor could help save 90% of fish from the power plant...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/10/hinkley-point-c-plan-could-save-fish-being-sucked-into-pipes-study-finds",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T08:30:22+00:00"
       },
       {
         "id": "34ec6571b32a",
@@ -53,14 +109,6 @@
         "url": "https://www.theguardian.com/world/2026/feb/10/uk-and-us-sink-to-new-lows-in-global-index-of-corruption",
         "source": "Business | The Guardian",
         "published": "2026-02-10T06:00:15+00:00"
-      },
-      {
-        "id": "00805a979853",
-        "title": "Hinkley Point C plan could save 90% of fish being sucked into pipes, study finds",
-        "summary": "Scientists find £700m underwater acoustic project, likened to a ‘fish disco’, could save 44 tonnes a yearScientists have found that plans to use a “fish disco” to deter migratory marine life from the nearby Hinkley Point C nuclear reactor could help save 90% of fish from the power plant’s water inta...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/10/hinkley-point-c-plan-could-save-fish-being-sucked-into-pipes-study-finds",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T06:00:14+00:00"
       },
       {
         "id": "9ef8e77d5089",
@@ -103,6 +151,54 @@
         "published": "2026-02-10T00:01:05+00:00"
       },
       {
+        "id": "c1d3a6a9303f",
+        "title": "Internet blackout: Iran’s academic shutdown",
+        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00418-xInternet blackout: Iran’s academic shutdown",
+        "url": "https://www.nature.com/articles/d41586-026-00418-x",
+        "source": "Nature",
+        "published": "2026-02-10T00:00:00+00:00"
+      },
+      {
+        "id": "6c5fb9cebf03",
+        "title": "Preserving water under megacities is crucial — and urgent",
+        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00420-3Preserving water under megacities is crucial — and urgent",
+        "url": "https://www.nature.com/articles/d41586-026-00420-3",
+        "source": "Nature",
+        "published": "2026-02-10T00:00:00+00:00"
+      },
+      {
+        "id": "f031b506bf82",
+        "title": "Publishing less won’t save the research system",
+        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00419-wPublishing less won’t save the research system",
+        "url": "https://www.nature.com/articles/d41586-026-00419-w",
+        "source": "Nature",
+        "published": "2026-02-10T00:00:00+00:00"
+      },
+      {
+        "id": "d42fa5bbb019",
+        "title": "Marine protection in the Azores: a triumph for conservation and sustainability",
+        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00421-2Marine protection in the Azores: a triumph for conservation and sustainability",
+        "url": "https://www.nature.com/articles/d41586-026-00421-2",
+        "source": "Nature",
+        "published": "2026-02-10T00:00:00+00:00"
+      },
+      {
+        "id": "68676c0ca10d",
+        "title": "China’s biotech boom: why the nation must collaborate to stay ahead",
+        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00387-1Increased geopolitical tensions are prompting some in China to argue that the country should go it alone in biotechnology. That would be a backwards step — for China and the rest of the world.",
+        "url": "https://www.nature.com/articles/d41586-026-00387-1",
+        "source": "Nature",
+        "published": "2026-02-10T00:00:00+00:00"
+      },
+      {
+        "id": "311c26e85fb4",
+        "title": "Public-speaking tips from the experts: what scientists can learn from comics, musicians and actors",
+        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-025-04166-2Taking to the stage to present your science is a key part of research, but talks often fall flat, says John Tregoning. Can scientists learn from performers to better engage an audience?",
+        "url": "https://www.nature.com/articles/d41586-025-04166-2",
+        "source": "Nature",
+        "published": "2026-02-10T00:00:00+00:00"
+      },
+      {
         "id": "3a1082c1fe0d",
         "title": "Waymo is testing driverless robotaxis in Nashville",
         "summary": "This is the typical next step before it launches a commercial service.",
@@ -117,105 +213,25 @@
         "url": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/",
         "source": "Ars Technica - All content",
         "published": "2026-02-09T22:51:16+00:00"
-      },
-      {
-        "id": "8eeb9212d19f",
-        "title": "Miliband pledges up to £1bn for community green energy schemes",
-        "summary": "UK projects will allow local areas to control and profit from renewable power generation, says energy secretaryThe UK government is pledging to spend up to £1bn on community-owned green energy schemes in an effort to combat growing scepticism and resistance to renewables and grid upgrade projects.Ed...",
-        "url": "https://www.theguardian.com/environment/2026/feb/09/miliband-pledges-up-to-1bn-for-community-green-energy-schemes",
-        "source": "Business | The Guardian",
-        "published": "2026-02-09T22:30:04+00:00"
-      },
-      {
-        "id": "6b0d93336588",
-        "title": "MrBeast’s company buys Gen Z-focused fintech app Step",
-        "summary": "YouTube megastar MrBeast announced on Monday that his company, Beast Industries, is buying Step, a teen-focused banking app.",
-        "url": "https://techcrunch.com/2026/02/09/mrbeasts-company-buys-gen-z-focused-fintech-app-step/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T21:26:11+00:00"
-      },
-      {
-        "id": "6a5074dc73cf",
-        "title": "Bluesky finally adds drafts",
-        "summary": "The move comes as Bluesky’s competitors, X and Threads, have long supported drafts.",
-        "url": "https://techcrunch.com/2026/02/09/bluesky-finally-adds-drafts/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T21:22:08+00:00"
-      },
-      {
-        "id": "e54ce109ea2a",
-        "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
-        "summary": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks CEO Ali Ghodsi believes. But it could give rise to competitors.",
-        "url": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T21:14:50+00:00"
-      },
-      {
-        "id": "92c5ee1ca2de",
-        "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents",
-        "summary": "SpaceMolt envisions a world where AI plays with itself and the humans just watch.",
-        "url": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-09T21:09:42+00:00"
-      },
-      {
-        "id": "166d4be84e45",
-        "title": "Anthropic’s India expansion collides with a local company that already had the name",
-        "summary": "India's Anthropic Software has taken the U.S. AI giant to court over a name dispute.",
-        "url": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T21:01:41+00:00"
-      },
-      {
-        "id": "d814ad5a24a7",
-        "title": "Google experiments with locking YouTube Music lyrics behind paywall",
-        "summary": "After a lengthy test, YouTube Music is making lyrics a premium feature.",
-        "url": "https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-09T20:40:13+00:00"
-      },
-      {
-        "id": "364dc6b85c22",
-        "title": "Trump FCC investigates The View, reportedly says \"fake news\" will be punished",
-        "summary": "FCC recently issued equal-time warning to late-night and daytime talk shows.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/trump-fcc-investigates-the-view-reportedly-says-fake-news-will-be-punished/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-09T20:27:44+00:00"
-      },
-      {
-        "id": "5b68552b5756",
-        "title": "ChatGPT rolls out ads",
-        "summary": "OpenAI faced a backlash late last year when it tested app suggestions that looked like unwanted ads. Still, the AI company needs to generate revenue from its popular chatbot to cover the costs of developing its technology and growing the business.",
-        "url": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T20:15:26+00:00"
-      },
-      {
-        "id": "25d2efa3a445",
-        "title": "Lidar-maker Ouster buys vision company StereoLabs as sensor consolidation continues",
-        "summary": "Ouster is paying $35 million along with 1.8 million shares.",
-        "url": "https://techcrunch.com/2026/02/09/lidar-maker-ouster-buys-vision-company-stereolabs-as-sensor-consolidation-continues/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T20:08:05+00:00"
-      },
-      {
-        "id": "38c7d061150e",
-        "title": "Reform-led Worcestershire set to issue England’s largest council tax rise",
-        "summary": "Cap-busting tax hike will be embarrassing for the party, which has made low council tax a priorityReform-led Worcestershire county council is likely to issue England’s largest council tax rise this April after it was given special permission by the government to increase it by up to 9%.Worcestershir...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/09/reform-worcestershire-council-tax-england-largest-rise",
-        "source": "Business | The Guardian",
-        "published": "2026-02-09T19:49:00+00:00"
-      },
-      {
-        "id": "8c1a130ebedf",
-        "title": "Discord faces backlash over age checks after data breach exposed 70,000 IDs",
-        "summary": "Discord to block adult content unless users verify ages with selfies or IDs.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-09T19:39:22+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "096e83ef7295",
+        "title": "Ableton Live 12.4 adds Link Audio, updated effects, more: hands-on details",
+        "summary": "Ableton Live 12.4 enters public beta today. New features include continued refinement of Live&#8217;s audio effects and the ability to merge stems and separate stems for just a selected portion of time. And there&#8217;s one unexpected twist: Ableton Link can now do audio. Here&#8217;s a deep dive i...",
+        "url": "https://cdm.link/ableton-live-12-4-adds-link-audio-updated-effects-hands-on-details/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-10T10:19:48+00:00"
+      },
+      {
+        "id": "02bc03b1126c",
+        "title": "Telstra joint venture to axe more than 200 jobs amid AI rollout",
+        "summary": "Some jobs will be moved offshore in wake of telco’s $700m partnership with tech consultancy AccentureGet our breaking news email, free app or daily news podcastMore than 200 Telstra jobs are expected to be cut, as the telco rolls out AI capabilities and sends some jobs to India.Telstra and the techn...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/telstra-ai-job-cuts-offshore-workforce",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-10T09:38:48+00:00"
+      },
       {
         "id": "0ae993d339b3",
         "title": "Beats Powerbeats Fit review: Apple’s compact workout earbuds revamped",
@@ -345,14 +361,6 @@
         "published": "2026-02-09T10:30:00+00:00"
       },
       {
-        "id": "3145107c7a0f",
-        "title": "I asked AI to name my wife. To the hopelessly incorrect people it cited, my deepest apologies | Martin Rowson",
-        "summary": "Authors, a newsreader, a lawyer and an esteemed colleague: they’re all great – but I’m not married to any of them. Can we really depend on this technology?Recently, the Rowsons accidentally invented a new game that anyone can play at home. I have yet to come up with a world-beating name for it, so f...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/09/who-is-my-wife-martin-rowson-ai-technology",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-09T10:00:31+00:00"
-      },
-      {
         "id": "32503b2aebeb",
         "title": "Logitech MX Master 4 review: the best work mouse you can buy",
         "summary": "Ergonomic shape, quality materials and satisfying clicks, now with novel haptic feedback and repairable designLogitech’s latest productivity power-house updates one of the greatest mice of all time with smoother materials, a repair-friendly design and a haptic motor for phone-like vibrations on your...",
@@ -367,6 +375,14 @@
         "url": "https://technews.tw/2026/02/09/big-techs-ai-push-is-costing-a-lot-more-than-the-moon-landing/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-02-09T06:40:50+00:00"
+      },
+      {
+        "id": "f596d8e00e1d",
+        "title": "全球首创！癌症患者的子宫被\"搬家\"，术后自然怀孕生子",
+        "summary": "（来源：麻省理工科技评论）近期，瑞士的一个医疗团队公布了一则喜讯，他们成功完成了一项助力人类实现生育的实验性手术，这项技术尤其为接受过肠癌或直肠癌治疗的患者带来了希望。放疗和化疗会产生严重的副作用，损伤子宫和卵巢组织。外科医生们研发出一种潜在的解决办法：在癌症治疗期间，将这些器官移位并缝合固定，避开治疗区域。待癌症治疗结束后，再将子宫与卵巢、输卵管一同复位。这项手术的效果十分显著，一名接受过该手术的母亲顺利诞下一名男婴。主刀的妇科肿瘤学家丹妮拉・胡贝尔（Daniela Huber）表示，这名名为卢西恩的男婴是该手术助力诞生的第五名婴儿，也是欧洲的首例。该手术的开创者雷坦・里贝罗（Reitan ...",
+        "url": "https://www.mittrchina.com/news/detail/15894",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-09T05:29:10+00:00"
       },
       {
         "id": "a595db72d206",
@@ -399,22 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/8/kakapo-mug/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-08T17:25:07+00:00"
-      },
-      {
-        "id": "a7382e80cae4",
-        "title": "黎智英被判20年：香港《國安法》迄今最重刑期，川普4月訪中能否啟動救援？",
-        "summary": "黎智英被判有期徒刑20年，此為港版《國安法》生效以來最嚴厲判決，子女聲明擔心父親恐將成為「身死獄中的殉道者」。川普預計4月訪中國，外界認其動向為能否推動特赦黎智英關鍵。",
-        "url": "https://www.twreporter.org/a/hello-world-2026-02-09",
-        "source": "報導者",
-        "published": "2026-02-08T16:00:00+00:00"
-      },
-      {
-        "id": "8bcd5e018d81",
-        "title": "硅谷顶级风投350页年度报告：从算力竞赛到能源革命，这些科技领域正在剧烈重构",
-        "summary": "Contrary 是一家成立于 2018 年的美国风险投资公司，由 Eric Tarczynski 创办，自成立以来，其以“人才驱动＋研究驱动”为核心方法论，在全球顶级高校铺设了庞大的人才网络，通过识别最优秀的年轻技术人才来发现投资机会。该公司旗下的研究部门 Contrary Research 已经覆盖了 400 多家私有科技公司的深度分析，是少数能在研究质量上与专业咨询机构叫板的 VC 研究团队。每年年初，Contrary Research 都会发布一份年度技术趋势报告。2025 年 1 月发布的首期报告获得了不错的行业关注度。如今，他们的 2026 年版 Tech Trends Repor...",
-        "url": "https://www.mittrchina.com/news/detail/15892",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-08T12:55:51+00:00"
       }
     ],
     "序(month)": [
