@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-09T23:56:01.539211+00:00",
+  "updated_at": "2026-02-10T05:52:50.664328+00:00",
   "trending": [
-    "oregon vs indiana",
-    "arizona vs kansas",
-    "kings vs pelicans",
-    "charles bediako",
-    "jazz vs heat",
-    "fifa world cup 2026",
-    "xavier basketball",
-    "lionel shriver",
-    "eddie the eagle",
-    "hawks vs timberwolves"
+    "jahmai mashack",
+    "marcus smart",
+    "chet holmgren",
+    "austin rivers",
+    "earned income tax credit delay",
+    "cedric coward",
+    "gg jackson ii",
+    "jake laravia",
+    "isaiah hartenstein",
+    "aaron wiggins"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "18e2435ec992",
+        "title": "Tem raises $75M to remake electricity markets using AI",
+        "summary": "Tem has built a transaction engine that relies on AI to cut costs. Lightspeed led the round to help the startup expand to the U.S. and Australia.",
+        "url": "https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T03:01:00+00:00"
+      },
+      {
+        "id": "1d5f636deaa7",
+        "title": "India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain",
+        "summary": "India's Aadhaar is moving into wallets, hotels and policing through a new app. Critics say that amid the broader Aadhaar rollout, it's unclear how data shared through the new app would prevent breaches or leaks.",
+        "url": "https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T03:00:00+00:00"
+      },
+      {
+        "id": "c04055ecf9e2",
+        "title": "Lower-income families face 137-year wait for living standards to double, says UK thinktank",
+        "summary": "Two decades of weak pay growth have left poorer households stuck, Resolution Foundation says, fuelling political uneaseIt would take 137 years for lower-income families in the UK to see their living standards double at the current rate of growth, according to a thinktank.A two-decade stagnation in d...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/10/lower-income-families-living-standards",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T00:01:05+00:00"
+      },
       {
         "id": "3a1082c1fe0d",
         "title": "Waymo is testing driverless robotaxis in Nashville",
@@ -189,33 +213,41 @@
         "url": "https://arstechnica.com/culture/2026/02/disclosure-day-super-bowl-trailer-could-it-be-aliens/",
         "source": "Ars Technica - All content",
         "published": "2026-02-09T17:41:50+00:00"
-      },
-      {
-        "id": "1f627987764d",
-        "title": "Anthropic closes in on $20B round",
-        "summary": "The company raised $13 billion in equity funding just five months ago, but intense competition between frontier labs and the ongoing cost of compute have made them eager to raise as quickly as possible.",
-        "url": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T17:37:23+00:00"
-      },
-      {
-        "id": "5cd38f7e8f0e",
-        "title": "Jimmy Lai: will Hong Kong media tycoon die in jail? – The Latest",
-        "summary": "The media mogul and prominent pro-democracy activist Jimmy Lai has been sentenced to 20 years in prison in Hong Kong for national security offences. His family has described the sentence as ‘heartbreakingly cruel’, given the 78-year-old’s declining health. Lai was convicted in December on charges of...",
-        "url": "https://www.theguardian.com/news/audio/2026/feb/09/jimmy-lai-will-hong-kong-media-tycoon-die-in-jail-the-latest",
-        "source": "Business | The Guardian",
-        "published": "2026-02-09T17:27:47+00:00"
-      },
-      {
-        "id": "77cfba7652ba",
-        "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
-        "summary": "Founded by former Google Japan leaders, InfiniMind is building enterprise AI to turn vast, unused video archives into searchable, actionable business intelligence.",
-        "url": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T17:00:00+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "45de5bfe2242",
+        "title": "OpenAI Abandons ‘io’ Branding for Its AI Hardware",
+        "summary": "A court filing in a trademark lawsuit reveals OpenAI won't use the name “io” for its AI hardware device, which isn't expected to ship until 2027.",
+        "url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
+        "source": "Business Latest",
+        "published": "2026-02-10T05:45:16+00:00"
+      },
+      {
+        "id": "8cbe1120fb17",
+        "title": "Meta 將 WhatsApp 封殺對手 AI，歐盟控反競爭恐祭措施",
+        "summary": "美國科技業巨擘 Meta 近期讓旗下熱門傳訊軟體 WhatsApp 封殺其人工智慧（AI）競爭對手的服務，9  [&#8230;]",
+        "url": "https://technews.tw/2026/02/10/eu-threatens-temporary-measures-to-stop-meta-blocking-ai-rivals-from-whatsapp/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-10T01:30:10+00:00"
+      },
+      {
+        "id": "6068e368f09a",
+        "title": "Structured Context Engineering for File-Native Agentic Systems",
+        "summary": "Structured Context Engineering for File-Native Agentic Systems\nNew paper by Damon McMillan exploring challenging LLM context tasks involving large SQL schemas (up to 10,000 tables) across different models and file formats:\n\nUsing SQL generation as a proxy for programmatic agent operations, we presen...",
+        "url": "https://simonwillison.net/2026/Feb/9/structured-context-engineering-for-file-native-agentic-systems/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-09T23:56:51+00:00"
+      },
+      {
+        "id": "ab4a4922210c",
+        "title": "Meta Goes to Trial in a New Mexico Child Safety Case. Here’s What’s at Stake",
+        "summary": "Attorney general Raúl Torrez is accusing the tech giant of failing to protect minors on Facebook and Instagram.",
+        "url": "https://www.wired.com/story/meta-child-safety-trial-new-mexico-attorney-general/",
+        "source": "Business Latest",
+        "published": "2026-02-09T23:54:47+00:00"
+      },
       {
         "id": "6870eca3a778",
         "title": "Live out your Xenakis fantasies, free in your browser, with SonicSketch",
@@ -329,6 +361,14 @@
         "published": "2026-02-09T05:00:52+00:00"
       },
       {
+        "id": "171eb76e5893",
+        "title": "科学家发现脂肪开关，关掉后吃多也不怕胖，正研发新减肥药",
+        "summary": "本文是专业学术论文解读，不做医疗建议。小鼠大吃特吃高热量食物也不会长胖，而且肝脏还更健康，甚至连有害胆固醇都降低了？近日，来自美国克利夫兰大学医院和凯斯西储大学的研究团队发现了一种名为 SCoR2 的酶，它是人体合成脂肪的关键开关。只要把这个开关关掉，就能在不影响饮食的情况下阻止体重增加，同时还能清理脂肪肝、降低坏胆固醇。目前，针对该靶点的三合一新药正在研发中，预计一年半内进入临床试验，有望成为未来肥胖和心血管病患者的新福音。相关论文发表于 Science Signal。这意味着，未来可能有一种药，吃下去不仅可以帮助你控制体重，还能保护你的肝脏，甚至让你的心脏更健康。（来源：上述论文）在我们的...",
+        "url": "https://www.mittrchina.com/news/detail/15893",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-09T03:34:24+00:00"
+      },
+      {
         "id": "eba1b811ace4",
         "title": "Behind the model launch: What customers discovered testing Claude Opus 4.6 early",
         "summary": "Behind the model launch: What customers discovered testing Claude Opus 4.6 early",
@@ -375,49 +415,33 @@
         "url": "https://www.mittrchina.com/news/detail/15890",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-02-08T08:11:34+00:00"
-      },
-      {
-        "id": "c440a5f1ccf7",
-        "title": "‘I fell into it’: ex-criminal hackers urge Manchester pupils to use web skills for good",
-        "summary": "Initiative aims to identify proficient gamers and coders who can help companies identify flaws in their cybersecurity Cybercriminals, the shadowy online figures often depicted in Hollywood movies as hooded villains capable of wiping millions of pounds off the value of businesses at a keystroke, are ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/08/i-fell-into-it-ex-criminal-hackers-urge-manchester-pupils-to-use-web-skills-for-good",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-08T08:00:25+00:00"
-      },
-      {
-        "id": "0d0f4b114fc8",
-        "title": "Quoting Thomas Ptacek",
-        "summary": "People on the orange site are laughing at this, assuming it's just an ad and that there's nothing to it. Vulnerability researchers I talk to do not think this is a joke. As an erstwhile vuln researcher myself: do not bet against LLMs on this.\nAxios: Anthropic's Claude Opus 4.6 uncovers 500 zero-day ...",
-        "url": "https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-08T02:25:53+00:00"
-      },
-      {
-        "id": "21795c644ec6",
-        "title": "Vouch",
-        "summary": "Vouch\nMitchell Hashimoto's new system to help address the deluge of worthless AI-generated PRs faced by open source projects now that the friction involved in contributing has dropped so low.\nHe says:\n\nThe idea is simple: Unvouched users can't contribute to your projects. Very bad users can be expli...",
-        "url": "https://simonwillison.net/2026/Feb/7/vouch/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-07T23:57:57+00:00"
-      },
-      {
-        "id": "79bc00bb7876",
-        "title": "Claude: Speed up responses with fast mode",
-        "summary": "Claude: Speed up responses with fast mode\nNew \"research preview\" from Anthropic today: you can now access a faster version of their frontier model Claude Opus 4.6 by typing /fast in Claude Code... but at a cost that's 6x the normal price.\nOpus is usually $5/million input and $25/million output. The ...",
-        "url": "https://simonwillison.net/2026/Feb/7/claude-fast-mode/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-07T23:10:33+00:00"
-      },
-      {
-        "id": "e6df371fa5d1",
-        "title": "Quoting David Crawshaw",
-        "summary": "I am having more fun programming than I ever have, because so many more of the programs I wish I could find the time to write actually exist. I wish I could share this joy with the people who are fearful about the changes agents are bringing. The fear itself I understand, I have fear more broadly ab...",
-        "url": "https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-07T21:31:44+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "2b9b49288219",
+        "title": "這項 GitHub 專案 AI-driven Topographic Map Generation（davidoesch/ai-topographic-maps），結合 Google Gemini 的 NanoBanana 多模態影像生成能...",
+        "summary": "這項 GitHub 專案 AI-driven Topographic Map Generation（davidoesch/ai-topographic-maps），結合 Google Gemini 的 NanoBanana 多模態影像生成能力，透過精心設計的提示文字（prompt）驅動 AI 進行風格轉換，將高解析度航空影像自動轉譯為瑞士製圖局風格（Swiss-style）的等高線地形圖。該專案展示了生成式 AI 在地圖視覺化與地形表現上的潛力，但目前仍屬實驗性質，成果主要用於研究與技術展示，尚不適合直接應用於正式測繪或導航用途。 https://github.com/davidoesch/a...",
+        "url": "https://www.facebook.com/asgis/posts/pfbid0dDpqG7WwChwCcG5Jp3qYDWTLRQqYoz2dwCirHC3dcJ6VkkweckijdtK4eZkQmVmbl",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-10T03:58:03+00:00"
+      },
+      {
+        "id": "67e7652f5d5f",
+        "title": "OSGeo 20週年快樂！ 開源地理空間基金會（OSGeo）成立於 2006 年，致力於支援與推廣自由且開放原始碼的地理空間軟體與技術。到 2026 年 2 月，OSGeo 慶祝成立 20 週年。最初由一群共享「開放地理空間軟體」願景的開發...",
+        "summary": "OSGeo 20週年快樂！ 開源地理空間基金會（OSGeo）成立於 2006 年，致力於支援與推廣自由且開放原始碼的地理空間軟體與技術。到 2026 年 2 月，OSGeo 慶祝成立 20 週年。最初由一群共享「開放地理空間軟體」願景的開發者和專案組成，OSGeo 已發展成一個全球性的組織，擁有超過 50 個官方專案、遍及全球 30 多個地區分會（Local Chapters）、以及每年舉辦的 FOSS4G 國際社群會議。這些年來，OSGeo 透過提供法律、組織和社群支持，讓開放原始碼地理資訊技術得以永續發展，並促進跨國、跨領域的合作與創新。 https://reurl.cc/mk8eyj",
+        "url": "https://www.facebook.com/asgis/posts/pfbid02wvpuxPuh7zc73GosUwyN7Pzzb42pkoyUxbMxh7mBi8Qoi7MUyPnuhA23AjHsoZqUl",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-10T03:34:09+00:00"
+      },
+      {
+        "id": "e6f0bec27baa",
+        "title": "https://osm.kids 是一個以開放街圖（OpenStreetMap）為基礎數據的互動式網路地圖，有別於 Google 地圖強調食衣住行等生活資訊，這個 OSM Kids! 網站則是以兒童有關的 POI 為主，例如：圖書館、書店、...",
+        "summary": "https://osm.kids 是一個以開放街圖（OpenStreetMap）為基礎數據的互動式網路地圖，有別於 Google 地圖強調食衣住行等生活資訊，這個 OSM Kids! 網站則是以兒童有關的 POI 為主，例如：圖書館、書店、遊樂場（溜滑梯）、主題公園、玩具店等的資訊，臺灣本地的資料也很完整，可以提供有育兒的家庭參考。",
+        "url": "https://www.facebook.com/asgis/posts/pfbid0WbBob5hbeHDZsNfVz2g5a5swLbisZaAh5juxuJSLzjcXDZjkqfzwthnjUGJNEcgLl",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-10T02:47:02+00:00"
+      },
       {
         "id": "7f7630080eab",
         "title": "開放定向地圖繪製軟體 OpenOrienteering Mapper (OOM) 定向運動（Orienteering，又稱定向越野）是一項結合體能體力與地圖判讀智慧的運動。參加者需利用大會提供的專用地圖與指北針，在陌生的環境中自行規劃路徑，...",
@@ -593,30 +617,6 @@
         "url": "https://blog.archive.org/2026/02/04/inside-the-new-wayback-machine-plugin-for-wordpress/",
         "source": "Internet Archive Blogs",
         "published": "2026-02-04T12:00:00+00:00"
-      },
-      {
-        "id": "695223dad486",
-        "title": "打狗水道淨水池 量水器室",
-        "summary": "打狗水道淨水池 量水器室",
-        "url": "https://www.facebook.com/asgis/posts/pfbid07tf3GWXs7VGdBF8tKENCp24XaHu1nHn5CoKMuMeZj8N5A2C5A2Y6UggDtf84Xj8tl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-04T11:38:36+00:00"
-      },
-      {
-        "id": "4c12046c274b",
-        "title": "世界來過臺灣：從未知之島到航運樞紐 文/蘇峯楠（國立故宮博物院書畫文獻處助理研究員）  每張地圖都是航路上的凝視，從被想像的島嶼輪廓，到被航線連結的節點，本篇將以五幅不同時期的地圖為線索，追索臺灣在海洋世界中的位置變化，並從地圖的筆觸裡，讀...",
-        "summary": "世界來過臺灣：從未知之島到航運樞紐 文/蘇峯楠（國立故宮博物院書畫文獻處助理研究員）  每張地圖都是航路上的凝視，從被想像的島嶼輪廓，到被航線連結的節點，本篇將以五幅不同時期的地圖為線索，追索臺灣在海洋世界中的位置變化，並從地圖的筆觸裡，讀出歷史流動的方向。 完整文章請見：安妮新聞互動網站 Vol.24 https://aade.project.edu.tw/annetimes/journal/27",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0sHx2v1B22eM5tqf2bpHwd3TfVu7c3PJeqCihhDD5B6Eq1aHsGfLDUmTyiEEMpV3Pl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-04T10:11:33+00:00"
-      },
-      {
-        "id": "1af9608307c1",
-        "title": "#2026台北國際書展  ▎臺師大出版中心《織編世界：台灣當代旅遊敘事》講座 . 【出版品簡介】... 當閱讀海外旅遊文學時，是否曾感受到文字編織世界的魅力？分享從冷戰、戒嚴到解嚴後的遊記、日記與書信的實例，邀請大家思考旅遊的力量。旅人跨越...",
-        "summary": "#2026台北國際書展  ▎臺師大出版中心《織編世界：台灣當代旅遊敘事》講座 . 【出版品簡介】 當閱讀海外旅遊文學時，是否曾感受到文字編織世界的魅力？分享從冷戰、戒嚴到解嚴後的遊記、日記與書信的實例，邀請大家思考旅遊的力量。旅人跨越疆界重組生命經驗，並承載時代的情感結構。無論是熱衷記錄足跡的旅人、讀者、教師、旅遊業者、文創工作者，或單純好奇「為何旅遊？」都歡迎加入問答與對話。 / 【講座資訊】 主題：旅遊的力量：台灣當代旅遊敘事Q&amp;A 主講人：林淑慧（國立臺灣師範大學臺灣語文學系教授） 時間：2月6日(五) 12:30-13:15 地點：台北世貿一館 D620展位 - #旅遊文學 #...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0xSRPZ8WB71G6CeFwbrpQteNdbaykoWHyvakdXv6qaPb6N6SU5CnRQNA2haaHLkobl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-04T09:52:31+00:00"
       }
     ]
   }
