@@ -1,19 +1,147 @@
 {
-  "updated_at": "2026-02-10T11:57:34.871306+00:00",
+  "updated_at": "2026-02-10T15:49:45.127734+00:00",
   "trending": [
-    "jennifer grey",
-    "good morning america",
-    "eddie bauer",
-    "jasmine paolini",
-    "pak vs usa",
-    "elise mertens",
-    "california mask ban",
-    "uae vs new zealand",
-    "flash flood warning",
-    "incident response plans"
+    "lutnick",
+    "tony yayo",
+    "julius erving",
+    "michelle randolph",
+    "nicholas braun",
+    "coco gauff",
+    "spgi stock",
+    "lunar new year",
+    "ehsan adil",
+    "rivian r2"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "192e11730384",
+        "title": "Trump EPA reportedly seeks to revoke landmark air pollution rule",
+        "summary": "EPA administrator Lee Zeldin is reportedly expected to repeal the 2009 \"endangerment finding\" that underpins U.S. climate regulatory efforts.",
+        "url": "https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T15:47:13+00:00"
+      },
+      {
+        "id": "d1807cdd0c69",
+        "title": "YouTubers aren’t relying on ad revenue anymore — here’s how some are diversifying",
+        "summary": "YouTubers are no longer just creators, and in some cases, their side businesses are growing faster than their channels.",
+        "url": "https://techcrunch.com/2026/02/10/youtubers-arent-relying-on-ad-revenue-anymore-heres-how-some-are-diversifying/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T15:06:26+00:00"
+      },
+      {
+        "id": "453ea292d5e7",
+        "title": "Hauler Hero collects $16M for its AI waste management software",
+        "summary": "Hauler Hero has seen its customer base, revenue, and head count double since the company raised its seed round in 2024.",
+        "url": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T15:00:00+00:00"
+      },
+      {
+        "id": "5fd099fed03c",
+        "title": "India orders social media platforms to take down deepfakes faster",
+        "summary": "India’s new rules take effect February 20, tightening deepfake oversight and shrinking takedown windows to as little as two hours.",
+        "url": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T14:51:13+00:00"
+      },
+      {
+        "id": "aff399216642",
+        "title": "Will the Gulf’s push for its own AI succeed?",
+        "summary": "Tech giants Alphabet, Amazon, Microsoft and Meta to collectively invest $600bn on artificial intelligence this yearHello, and welcome to TechScape. Today in tech, we’re discussing the Persian Gulf countries making a play for sovereignty over their own artificial intelligence in response to an unstab...",
+        "url": "https://www.theguardian.com/technology/2026/feb/09/us-tech-ai-companies-gulf-states",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T14:45:34+00:00"
+      },
+      {
+        "id": "2353d5a5a256",
+        "title": "Alphabet selling very rare 100-year bonds to help fund AI investment",
+        "summary": "Alphabet becomes first tech company to issue 100-year bonds in nearly three decades.",
+        "url": "https://arstechnica.com/gadgets/2026/02/alphabet-selling-very-rare-100-year-bunds-to-help-fund-ai-investment/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-10T14:44:52+00:00"
+      },
+      {
+        "id": "7d8c28c08d67",
+        "title": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
+        "summary": "Thomas Dohmke's new startup offers an AI system to allow developers to better manage all the code AI agents produce.",
+        "url": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T14:30:00+00:00"
+      },
+      {
+        "id": "55c2780bbd36",
+        "title": "More pollution and higher energy costs: critics condemn Trump’s anti-environment agenda",
+        "summary": "US courts, scholars and Democrats are pushing back against the president’s aggressive drive to boost fossil fuelsDonald Trump’s aggressive drive to boost fossil fuels, including dirty coal, coupled with his administration’s moves to roll back wind and solar power, face mounting fire from courts, sch...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/10/trump-anti-environment-agenda-pushback",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T14:00:39+00:00"
+      },
+      {
+        "id": "ad4ecc3f995a",
+        "title": "Spotify hits a record 751M monthly users thanks to Wrapped, new free features",
+        "summary": "Spotify credited a successful Wrapped campaign and new features in its free tier for its rapid user growth",
+        "url": "https://techcrunch.com/2026/02/10/spotify-hits-a-record-751m-monthly-users-thanks-to-wrapped-new-free-features/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T14:00:14+00:00"
+      },
+      {
+        "id": "816d574bfa2c",
+        "title": "Primary Ventures raises healthy $625M Fund V to focus on seed investing",
+        "summary": "Primary Ventures has closed a $625 million fund focused on seed investing nationwide. It's a sizeable accomplishment for a seed-stage VC firm.",
+        "url": "https://techcrunch.com/2026/02/10/primary-ventures-raises-massive-625m-fund-v-to-focus-on-seed-investing/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T14:00:00+00:00"
+      },
+      {
+        "id": "686b828b1d65",
+        "title": "Proptech startup Smart Bricks raises $5 million pre-seed led by a16z",
+        "summary": "Smart Bricks is an AI-powered proptech that helps investors find high-quality real estate investments",
+        "url": "https://techcrunch.com/2026/02/10/proptech-startup-smart-bricks-raises-5-million-pre-seed-in-round-led-by-a16z/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T14:00:00+00:00"
+      },
+      {
+        "id": "a3c7b9b5a911",
+        "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
+        "summary": "Startup Runway has raised a $315 million round at a $5.3 billion valuation, funds it will use to expand beyond AI video generation and into world models.",
+        "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T14:00:00+00:00"
+      },
+      {
+        "id": "b41a3ddba0f1",
+        "title": "Apple and Google pledge not to discriminate against third-party apps in UK deal",
+        "summary": "Critics brand deal with regulator as ‘lightweight’ with ‘no legal bite’ as tech giants avoid legally binding measures Apple and Google have committed to avoid discriminating against apps that compete with their own products under an agreement with the UK’s competition watchdog, as they avoided legal...",
+        "url": "https://www.theguardian.com/technology/2026/feb/10/apple-google-third-party-apps-app-store",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T13:10:02+00:00"
+      },
+      {
+        "id": "50d484682583",
+        "title": "AstraZeneca CEO hails NHS drug price deal but keeps pause on £200m UK investment",
+        "summary": "Pascal Soriot suggests UK-US agreement will not be enough to revive plan to expand Cambridge siteBusiness live – latest updatesThe boss of Britain’s biggest pharmaceutical company has said the government’s recent drug pricing deal is a “very positive step” but is unlikely to unfreeze a paused £200m ...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/astrazeneca-ceo-pascal-soriot-nhs-drug-price-deal-uk-investment-cambridge",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T12:26:15+00:00"
+      },
+      {
+        "id": "4906be9a03fd",
+        "title": "After Republican complaints, judicial body pulls climate advice",
+        "summary": "Meant to help judges handle scientific issues, document is now climate-free.",
+        "url": "https://arstechnica.com/science/2026/02/us-court-agency-pulls-climate-change-from-science-advisory-document/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-10T12:15:19+00:00"
+      },
+      {
+        "id": "e4f479687cbf",
+        "title": "Barclays CEO ‘shocked’ by Epstein revelations as bank deals with Staley fallout",
+        "summary": "CS Venkatakrishnan dismayed by ‘depravity and corruption’ revealed in Epstein files as he announces profitsBusiness live – latest updatesThe chief executive of Barclays has said he is “deeply dismayed and shocked” at the “depravity and the corruption” revealed in the Epstein files, as the bank deals...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/barclays-epstein-files-bank-jes-staley-profits",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T11:55:22+00:00"
+      },
       {
         "id": "dab3fe975147",
         "title": "YouTube rolls out an AI playlist generator for Premium users",
@@ -23,28 +151,36 @@
         "published": "2026-02-10T11:52:39+00:00"
       },
       {
-        "id": "12a82d47e9cc",
-        "title": "Global stocks reach record highs; BP annual profits slump 16% – business live",
-        "summary": "Japan’s Nikkei jumps to new peak in extended rally after Sanae Takaichi’s party secures election victory; London-listed oil giant BP suspends share buybackThe chief executive of Barclays has said he is “deeply dismayed and shocked” at the “depravity and the corruption” revealed in the Epstein files,...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/10/global-stocks-record-highs-bp-annual-profits-slump-us-retail-sales-live-news-updates",
+        "id": "7eac5b3b523e",
+        "title": "UK backs biggest English onshore windfarm in a decade among 190 green energy projects",
+        "summary": "Government also offers contracts for record number of solar schemes as it aims to create clean electricity system by 2030Business live – latest updatesThe largest onshore windfarm in England in a decade has been awarded a government subsidy among 190 contracts for renewable energy projects, as Labou...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/uk-onshore-windfarm-new-green-energy-projects-contracts",
         "source": "Business | The Guardian",
-        "published": "2026-02-10T11:24:19+00:00"
+        "published": "2026-02-10T11:47:26+00:00"
+      },
+      {
+        "id": "ec12c440da5f",
+        "title": "No, the human-robot singularity isn’t here. But we must take action to govern AI | Samuel Woolley",
+        "summary": "Moltbook, a social media site for AI agents, is nothing new. Still, the marriage of big tech and politics demands we take a standOn a recent trip to the San Francisco Bay Area, I was shocked by the billboards that lined the freeway outside of the airport. “The singularity is here,” proclaimed one. “...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/10/human-robot-singularity-govern-ai",
+        "source": "Business | The Guardian",
+        "published": "2026-02-10T11:00:35+00:00"
       },
       {
         "id": "5b20339cb6f6",
         "title": "BT replaces Openreach boss in latest management shake-up",
-        "summary": "Clive Selley, who oversaw £12bn rollout of full fibre broadband to 25m homes, will lead international divisionBusiness live – latest updatesThe head of BT’s infrastructure arm Openreach is to step down after almost a decade, having almost completed a £12bn rollout of full fibre broadband to 25m home...",
+        "summary": "Katie Milligan replaces Clive Selley, who oversaw £12bn rollout of full fibre broadband to 25m homesBusiness live – latest updatesThe head of BT’s infrastructure arm, Openreach, is to step down after nearly a decade, having almost completed a £12bn rollout of full fibre broadband to 25m homes.Clive ...",
         "url": "https://www.theguardian.com/business/2026/feb/10/bt-openreach-boss-clive-selley-full-fibre-broadband",
         "source": "Business | The Guardian",
         "published": "2026-02-10T10:55:02+00:00"
       },
       {
-        "id": "e4f479687cbf",
-        "title": "Barclays CEO ‘shocked’ by Epstein revelations as bank deals with Staley fallout",
-        "summary": "CS Venkatakrishnan dismayed by ‘depravity and corruption’ revealed in Epstein files as he announces profitsBusiness live – latest updatesThe chief executive of Barclays has said he is “deeply dismayed and shocked” at the “depravity and the corruption” revealed in the Epstein files, as the bank deals...",
-        "url": "https://www.theguardian.com/business/2026/feb/10/barclays-epstein-files-bank-jes-staley-profits",
+        "id": "ddf91f6ab290",
+        "title": "BP halts share buy-backs as annual profits slide",
+        "summary": "Pressure mounts on oil and gas company as it aims for turnaround under new chief executiveBusiness live – latest updatesBP has halted share buybacks after reporting weaker annual profits as it prepares to continue a plan to resuscitate its fortunes under a new chief executive.The company became the ...",
+        "url": "https://www.theguardian.com/business/2026/feb/10/bp-halts-share-buy-backs-profits-fall-chief-executive",
         "source": "Business | The Guardian",
-        "published": "2026-02-10T10:25:08+00:00"
+        "published": "2026-02-10T10:31:46+00:00"
       },
       {
         "id": "02bc03b1126c",
@@ -53,14 +189,6 @@
         "url": "https://www.theguardian.com/business/2026/feb/10/telstra-ai-job-cuts-offshore-workforce",
         "source": "Business | The Guardian",
         "published": "2026-02-10T09:38:48+00:00"
-      },
-      {
-        "id": "7eac5b3b523e",
-        "title": "UK backs biggest English onshore windfarm in a decade among 190 green energy projects",
-        "summary": "Government also offers contracts for record number of solar schemes as it aims to create clean electricity system by 2030Business live – latest updatesThe largest onshore windfarm in England in a decade has been awarded a government subsidy among 190 contracts for energy projects, as Labour attempts...",
-        "url": "https://www.theguardian.com/business/2026/feb/10/uk-onshore-windfarm-new-green-energy-projects-contracts",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T09:29:26+00:00"
       },
       {
         "id": "80d47cea7870",
@@ -72,8 +200,8 @@
       },
       {
         "id": "00805a979853",
-        "title": "£700m ‘fish disco’ plan could save 90% of marine life, says Hinkley Point C study",
-        "summary": "Scientists find underwater acoustic project to stop fish being sucked into cooling systems could save 44 tonnes a yearScientists have found that plans to use a “fish disco” to deter migratory marine life from the nearby Hinkley Point C nuclear reactor could help save 90% of fish from the power plant...",
+        "title": "£700m plan with ‘fish disco’ could save 90% of marine life, says Hinkley Point C study",
+        "summary": "Scientists find underwater acoustic project to stop fish being sucked into cooling systems could save 44 tonnes a yearScientists have found that plans that include a “fish disco” to deter migratory marine life from the nearby Hinkley Point C nuclear reactor could help save 90% of fish from the power...",
         "url": "https://www.theguardian.com/uk-news/2026/feb/10/hinkley-point-c-plan-could-save-fish-being-sucked-into-pipes-study-finds",
         "source": "Business | The Guardian",
         "published": "2026-02-10T08:30:22+00:00"
@@ -85,137 +213,33 @@
         "url": "https://www.theguardian.com/world/2026/feb/10/state-sponsored-hackers-targeting-defence-sector-employees-google-says",
         "source": "Business | The Guardian",
         "published": "2026-02-10T07:00:16+00:00"
-      },
-      {
-        "id": "c3c4c2c2ab35",
-        "title": "EasyJet refuses to honour a promised £472 refund",
-        "summary": "We had to buy a new ticket after an air traffic control outage but the airline is giving endless excuses for not repaying usThe day before my easyJet flight to Budapest last July, a UK air traffic control outage caused significant disruption at Gatwick.On my arrival at the airport check-in, easyJet ...",
-        "url": "https://www.theguardian.com/money/2026/feb/10/easyjet-refuses-to-honour-a-promised-472-refund",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T07:00:14+00:00"
-      },
-      {
-        "id": "456d4e67d8f0",
-        "title": "The first signs of burnout are coming from the people who embrace AI the most",
-        "summary": "Because employees could do more, work began bleeding into lunch breaks and late evenings. The employees' to-do lists expanded to fill every hour that AI freed up, and then kept going.",
-        "url": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T06:46:55+00:00"
-      },
-      {
-        "id": "df58be62c446",
-        "title": "UK and US sink to new lows in global index of corruption",
-        "summary": "Countries’ drop in scores in annual table comes amid ‘worrying trend’ of backsliding in established democraciesThe UK and US have sunk to new lows in a global index of corruption, amid a “worrying trend” of democratic institutions being eroded by political donations, cash for access and state target...",
-        "url": "https://www.theguardian.com/world/2026/feb/10/uk-and-us-sink-to-new-lows-in-global-index-of-corruption",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T06:00:15+00:00"
-      },
-      {
-        "id": "9ef8e77d5089",
-        "title": "My week of only using cash: could a return to notes and coins change my life?",
-        "summary": "After a reckless shopping spree, I ditched contactless payments and bank cards to see how far £200 cash in hand would get me – and if I could improve my spending habitsIf I’m lucky, I can just about squeeze a £20 note into the back of my phone case, which holds the device I reflexively tap to pay fo...",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/10/my-week-of-only-using-cash-could-a-return-to-notes-and-coins-change-my-life",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T05:00:12+00:00"
-      },
-      {
-        "id": "e03924da0888",
-        "title": "South Korean crypto exchange races to recover $40bn of bitcoin sent to customers by mistake",
-        "summary": "Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollarsSouth Korea’s second-largest cryptocurrency exchange is scrambling to recover more than $40bn of cryptocurrency after accidentally crediting customers with...",
-        "url": "https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T04:26:12+00:00"
-      },
-      {
-        "id": "18e2435ec992",
-        "title": "Tem raises $75M to remake electricity markets using AI",
-        "summary": "Tem has built a transaction engine that relies on AI to cut costs. Lightspeed led the round to help the startup expand to the U.S. and Australia.",
-        "url": "https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T03:01:00+00:00"
-      },
-      {
-        "id": "1d5f636deaa7",
-        "title": "India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain",
-        "summary": "India's Aadhaar is moving into wallets, hotels and policing through a new app. Critics say that amid the broader Aadhaar rollout, it's unclear how data shared through the new app would prevent breaches or leaks.",
-        "url": "https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T03:00:00+00:00"
-      },
-      {
-        "id": "c04055ecf9e2",
-        "title": "Lower-income families face 137-year wait for living standards to double, says UK thinktank",
-        "summary": "Two decades of weak pay growth have left poorer households stuck, Resolution Foundation says, fuelling political uneaseIt would take 137 years for lower-income families in the UK to see their living standards double at the current rate of growth, according to a thinktank.A two-decade stagnation in d...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/10/lower-income-families-living-standards",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T00:01:05+00:00"
-      },
-      {
-        "id": "c1d3a6a9303f",
-        "title": "Internet blackout: Iran’s academic shutdown",
-        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00418-xInternet blackout: Iran’s academic shutdown",
-        "url": "https://www.nature.com/articles/d41586-026-00418-x",
-        "source": "Nature",
-        "published": "2026-02-10T00:00:00+00:00"
-      },
-      {
-        "id": "6c5fb9cebf03",
-        "title": "Preserving water under megacities is crucial — and urgent",
-        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00420-3Preserving water under megacities is crucial — and urgent",
-        "url": "https://www.nature.com/articles/d41586-026-00420-3",
-        "source": "Nature",
-        "published": "2026-02-10T00:00:00+00:00"
-      },
-      {
-        "id": "f031b506bf82",
-        "title": "Publishing less won’t save the research system",
-        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00419-wPublishing less won’t save the research system",
-        "url": "https://www.nature.com/articles/d41586-026-00419-w",
-        "source": "Nature",
-        "published": "2026-02-10T00:00:00+00:00"
-      },
-      {
-        "id": "d42fa5bbb019",
-        "title": "Marine protection in the Azores: a triumph for conservation and sustainability",
-        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00421-2Marine protection in the Azores: a triumph for conservation and sustainability",
-        "url": "https://www.nature.com/articles/d41586-026-00421-2",
-        "source": "Nature",
-        "published": "2026-02-10T00:00:00+00:00"
-      },
-      {
-        "id": "68676c0ca10d",
-        "title": "China’s biotech boom: why the nation must collaborate to stay ahead",
-        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-026-00387-1Increased geopolitical tensions are prompting some in China to argue that the country should go it alone in biotechnology. That would be a backwards step — for China and the rest of the world.",
-        "url": "https://www.nature.com/articles/d41586-026-00387-1",
-        "source": "Nature",
-        "published": "2026-02-10T00:00:00+00:00"
-      },
-      {
-        "id": "311c26e85fb4",
-        "title": "Public-speaking tips from the experts: what scientists can learn from comics, musicians and actors",
-        "summary": "Nature, Published online: 10 February 2026; doi:10.1038/d41586-025-04166-2Taking to the stage to present your science is a key part of research, but talks often fall flat, says John Tregoning. Can scientists learn from performers to better engage an audience?",
-        "url": "https://www.nature.com/articles/d41586-025-04166-2",
-        "source": "Nature",
-        "published": "2026-02-10T00:00:00+00:00"
-      },
-      {
-        "id": "3a1082c1fe0d",
-        "title": "Waymo is testing driverless robotaxis in Nashville",
-        "summary": "This is the typical next step before it launches a commercial service.",
-        "url": "https://techcrunch.com/2026/02/09/waymo-is-testing-driverless-robotaxis-in-nashville/",
-        "source": "TechCrunch",
-        "published": "2026-02-09T22:59:55+00:00"
-      },
-      {
-        "id": "804c33bb01bf",
-        "title": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\"",
-        "summary": "The Ayaneo Next II pushes past 3 pounds, 13 inches wide, and costs up to $4,300.",
-        "url": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-09T22:51:16+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "aff399216642",
+        "title": "Will the Gulf’s push for its own AI succeed?",
+        "summary": "Tech giants Alphabet, Amazon, Microsoft and Meta to collectively invest $600bn on artificial intelligence this yearHello, and welcome to TechScape. Today in tech, we’re discussing the Persian Gulf countries making a play for sovereignty over their own artificial intelligence in response to an unstab...",
+        "url": "https://www.theguardian.com/technology/2026/feb/09/us-tech-ai-companies-gulf-states",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-10T14:45:34+00:00"
+      },
+      {
+        "id": "cc09c4fbce17",
+        "title": "Romeo Is a Dead Man review – a misfire from a storied gaming provocateur",
+        "summary": "PlayStation 5 (version tested), Xbox, PC; Grasshopper Manufacture/Marvelous Inc After some dumb fun hacking at zombies, legendary developer Suda51’s first original game in a decade sadly only delivers a host of incoherent disappointmentsEver since he baffled GameCube owners with 2005’s Killer7, Japa...",
+        "url": "https://www.theguardian.com/games/2026/feb/10/romeo-is-a-dead-man-review-grasshopper-manufacture-suda51",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-10T14:11:49+00:00"
+      },
+      {
+        "id": "b41a3ddba0f1",
+        "title": "Apple and Google pledge not to discriminate against third-party apps in UK deal",
+        "summary": "Critics brand deal with regulator as ‘lightweight’ with ‘no legal bite’ as tech giants avoid legally binding measures Apple and Google have committed to avoid discriminating against apps that compete with their own products under an agreement with the UK’s competition watchdog, as they avoided legal...",
+        "url": "https://www.theguardian.com/technology/2026/feb/10/apple-google-third-party-apps-app-store",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-10T13:10:02+00:00"
+      },
       {
         "id": "096e83ef7295",
         "title": "Ableton Live 12.4 adds Link Audio, updated effects, more: hands-on details",
@@ -242,7 +266,7 @@
       },
       {
         "id": "45de5bfe2242",
-        "title": "OpenAI Abandons ‘io’ Branding for Its AI Hardware",
+        "title": "OpenAI Abandons “io” Branding for Its AI Hardware",
         "summary": "A court filing in a trademark lawsuit reveals OpenAI won't use the name “io” for its AI hardware device, which isn't expected to ship until 2027.",
         "url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
         "source": "Business Latest",
@@ -391,33 +415,25 @@
         "url": "https://www.theguardian.com/artanddesign/2026/feb/09/china-ai-weiwei-western-censorship-home-surveillance",
         "source": "Technology | The Guardian",
         "published": "2026-02-09T05:00:52+00:00"
-      },
-      {
-        "id": "171eb76e5893",
-        "title": "科学家发现脂肪开关，关掉后吃多也不怕胖，正研发新减肥药",
-        "summary": "本文是专业学术论文解读，不做医疗建议。小鼠大吃特吃高热量食物也不会长胖，而且肝脏还更健康，甚至连有害胆固醇都降低了？近日，来自美国克利夫兰大学医院和凯斯西储大学的研究团队发现了一种名为 SCoR2 的酶，它是人体合成脂肪的关键开关。只要把这个开关关掉，就能在不影响饮食的情况下阻止体重增加，同时还能清理脂肪肝、降低坏胆固醇。目前，针对该靶点的三合一新药正在研发中，预计一年半内进入临床试验，有望成为未来肥胖和心血管病患者的新福音。相关论文发表于 Science Signal。这意味着，未来可能有一种药，吃下去不仅可以帮助你控制体重，还能保护你的肝脏，甚至让你的心脏更健康。（来源：上述论文）在我们的...",
-        "url": "https://www.mittrchina.com/news/detail/15893",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-09T03:34:24+00:00"
-      },
-      {
-        "id": "eba1b811ace4",
-        "title": "Behind the model launch: What customers discovered testing Claude Opus 4.6 early",
-        "summary": "Behind the model launch: What customers discovered testing Claude Opus 4.6 early",
-        "url": "https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early",
-        "source": "Claude Blog",
-        "published": "2026-02-09T00:00:00+00:00"
-      },
-      {
-        "id": "a4f030482ab4",
-        "title": "Kākāpō mug by Karen James",
-        "summary": "Friend and neighbour Karen James made me a Kākāpō mug. It has a charismatic Kākāpō, four Kākāpō chicks (in celebration of the 2026 breeding season) and even has some rimu fruit!\n\n\nI love it so much.\n\n    Tags: kakapo, art",
-        "url": "https://simonwillison.net/2026/Feb/8/kakapo-mug/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-08T17:25:07+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "2aefc80c4a1a",
+        "title": "QGIS 繁體中文翻譯檔下載",
+        "summary": "QGIS 在臺灣 GIS 社群中已具有相當高的滲透率，憑藉其開源免費、硬體需求低以及豐富的外掛程式資源，長期深 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/qgis_zh-hant/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-10T14:19:43+00:00"
+      },
+      {
+        "id": "3f691339e7c8",
+        "title": "QGIS 繁體中文翻譯檔下載 QGIS 在臺灣 GIS 社群中已具有相當高的滲透率，憑藉其開源免費、硬體需求低以及豐富的外掛程式資源，長期深受社群喜愛與肯定。然而，作為由志工維護的軟體，QGIS 的繁體中文語系介面品質長期不佳，對於向普羅大...",
+        "summary": "QGIS 繁體中文翻譯檔下載 QGIS 在臺灣 GIS 社群中已具有相當高的滲透率，憑藉其開源免費、硬體需求低以及豐富的外掛程式資源，長期深受社群喜愛與肯定。然而，作為由志工維護的軟體，QGIS 的繁體中文語系介面品質長期不佳，對於向普羅大眾推廣造成了明顯的障礙。由於 QGIS 軟體本身改版頻繁，在功能持續擴充的同時，受限於翻譯人力不足，以及不熟悉簡繁中文差異的翻譯者所產生的錯譯問題，導致介面中英夾雜、繁簡混用、功能名稱不一致等情形層出不窮。 有鑑於此，中央研究院資訊所莊庭瑞副研究員（人社中心 GIS 專題中心合聘）所主持的實驗室，指導 2025 年暑期實習生陳育霖同學，嘗試導入大型語言模型（...",
+        "url": "https://www.facebook.com/asgis/posts/pfbid038FjbFpskJMo5KYrcJmXTKGoi6MawtkMcLiiHqCnHi6WRY8KkS3N7VHewsxcrzKJUl",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-10T12:58:54+00:00"
+      },
       {
         "id": "2b9b49288219",
         "title": "這項 GitHub 專案 AI-driven Topographic Map Generation（davidoesch/ai-topographic-maps），結合 Google Gemini 的 NanoBanana 多模態影像生成能...",
@@ -444,8 +460,8 @@
       },
       {
         "id": "7f7630080eab",
-        "title": "開放定向地圖繪製軟體 OpenOrienteering Mapper (OOM) 定向運動（Orienteering，又稱定向越野）是一項結合體能體力與地圖判讀智慧的運動。參加者需利用大會提供的專用地圖與指北針，在陌生的環境中自行規劃路徑，...",
-        "summary": "開放定向地圖繪製軟體 OpenOrienteering Mapper (OOM) 定向運動（Orienteering，又稱定向越野）是一項結合體能體力與地圖判讀智慧的運動。參加者需利用大會提供的專用地圖與指北針，在陌生的環境中自行規劃路徑，尋找地圖上標示的數個「檢查點」，並以最短時間完成賽程者為勝。 定向運動所使用的地圖，並不是一般我們熟悉的觀光地圖或道路地圖，而是依照國際定向越野運動總會所制訂的國際定向運動製圖規範（如 ISOM／ISSprOM）繪製的高精度專用地形圖。這類地圖的核心目標是「輔助導航與快速判讀地形」，因此在比例尺、等高線間距、顏色配置，以及各類地物符號上，都有非常嚴格的標準。...",
+        "title": "開放定向地圖繪製軟體 OpenOrienteering Mapper (OOM) 定向運動（Orienteering）是一項結合體能體力與地圖判讀智慧的運動。參加者需利用大會提供的專用地圖與指北針，在陌生的環境中自行規劃路徑，尋找地圖上標示...",
+        "summary": "開放定向地圖繪製軟體 OpenOrienteering Mapper (OOM) 定向運動（Orienteering）是一項結合體能體力與地圖判讀智慧的運動。參加者需利用大會提供的專用地圖與指北針，在陌生的環境中自行規劃路徑，尋找地圖上標示的數個「檢查點」，並以最短時間完成賽程者為勝。 定向運動所使用的地圖，並不是一般我們熟悉的觀光地圖或道路地圖，而是依照國際定向越野運動總會所制訂的國際定向運動製圖規範（如 ISOM／ISSprOM）繪製的高精度專用地形圖。這類地圖的核心目標是「輔助導航與快速判讀地形」，因此在比例尺、等高線間距、顏色配置，以及各類地物符號上，都有非常嚴格的標準。 例如，森林可...",
         "url": "https://www.facebook.com/asgis/posts/pfbid02B9GGWhu61ZGxpUB6msEaRP1gLX7zU1wxgoDYRW2s9Y6iJgi3KWBY5BW4pY9K5WTml",
         "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
         "published": "2026-02-09T14:31:17+00:00"
@@ -601,22 +617,6 @@
         "url": "https://www.facebook.com/asgis/posts/pfbid0LfY8nB1qL4ifGHAtmpdvu2eqn78zorFC8WB7jo88ueptM7qSujjipyJxUhn8o4cAl",
         "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
         "published": "2026-02-04T15:13:46+00:00"
-      },
-      {
-        "id": "8cd1759ac8fe",
-        "title": "Low end theory",
-        "summary": "How do you create a bassline? This question is not just for bass players. It’s for producers and songwriters, who are likely to be programming their own bass parts in their DAW. Keyboard players can do basslines in their left hand; guitarists do them with their thumbs. And even if you never create o...",
-        "url": "https://www.ethanhein.com/wp/2026/low-end-theory/",
-        "source": "The Ethan Hein Blog",
-        "published": "2026-02-04T13:44:23+00:00"
-      },
-      {
-        "id": "025e79956521",
-        "title": "Preserving the Open Web: Inside the New Wayback Machine Plugin for WordPress",
-        "summary": "Link rot. There’s nothing quite as frustrating as clicking on a link that leads to nowhere. WordPress, which powers more than 40% of websites online, recently partnered with the Internet [&#8230;]",
-        "url": "https://blog.archive.org/2026/02/04/inside-the-new-wayback-machine-plugin-for-wordpress/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-02-04T12:00:00+00:00"
       }
     ]
   }
