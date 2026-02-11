@@ -1,23 +1,63 @@
 {
-  "updated_at": "2026-02-11T21:52:00.661631+00:00",
+  "updated_at": "2026-02-11T23:04:56.898722+00:00",
   "trending": [
-    "piper gilles",
-    "iowa vs maryland",
-    "mcd stock",
-    "jeremy sochan",
-    "lilah fear",
-    "italy milano cortina 2026",
-    "walk for peace",
-    "csco stock",
-    "damian clara",
-    "emilea zingas"
+    "joao fonseca",
+    "cross season 2",
+    "abyss codes",
+    "nick castellanos",
+    "pistons vs raptors",
+    "blake lively",
+    "snowfall weather forecast",
+    "tj oshie",
+    "diablo 2",
+    "kevin patullo"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "e7dcf295fc8d",
+        "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+        "summary": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
+        "url": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T22:48:35+00:00"
+      },
+      {
+        "id": "55424ce34d95",
+        "title": "Starmer tells Jim Ratcliffe to apologise for saying UK ‘colonised’ by immigrants",
+        "summary": "PM calls comments by Man United co-owner, who also hit out at people on benefits, ‘offensive and wrong’Keir Starmer has said Manchester United co-owner Jim Ratcliffe should apologise for his comments that the UK is being “colonised” by immigrants.In an interview with Sky News on Wednesday, Britain’s...",
+        "url": "https://www.theguardian.com/business/2026/feb/11/uk-immigrants-man-utd-sir-jim-ratcliffe-tax-monaco",
+        "source": "Business | The Guardian",
+        "published": "2026-02-11T22:18:42+00:00"
+      },
+      {
+        "id": "2ececd983c47",
+        "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
+        "summary": "ClickFix bait, combined with advanced Castleloader malware, is installing Lumma \"at scale.\"",
+        "url": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T22:11:40+00:00"
+      },
+      {
+        "id": "986418e2d5bb",
+        "title": "OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development",
+        "summary": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.",
+        "url": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T21:57:18+00:00"
+      },
+      {
+        "id": "b55ec78daa7c",
+        "title": "Byte magazine artist Robert Tinney, who illustrated the birth of PCs, dies at 78",
+        "summary": "He became one of the first to visualize personal computing by painting vivid cover art.",
+        "url": "https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T21:51:33+00:00"
+      },
+      {
         "id": "534c9aea7b16",
         "title": "Apple’s Siri revamp reportedly delayed… again",
-        "summary": "Apple has been promising a new-and-improved, cutting-edge, AI-powered Siri since it first unveiled Apple Intelligence in 2024.",
+        "summary": "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.",
         "url": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
         "source": "TechCrunch",
         "published": "2026-02-11T21:19:46+00:00"
@@ -29,6 +69,22 @@
         "url": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
         "source": "TechCrunch",
         "published": "2026-02-11T21:07:37+00:00"
+      },
+      {
+        "id": "f24736c5ca5b",
+        "title": "Yes, Rocket Lab is blowing up engines. No, it's not a big deal, CEO says.",
+        "summary": "\"We are in the part of the program where we are doing very nasty things to the engine.\"",
+        "url": "https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T21:04:18+00:00"
+      },
+      {
+        "id": "5101ff5b9bbe",
+        "title": "Did seabird poop fuel rise of Chincha in Peru?",
+        "summary": "Guano dramatically boosted the production of maize, and the surplus helped fuel the Chincha Kingdom’s economy.",
+        "url": "https://arstechnica.com/science/2026/02/did-seabird-poop-fuel-rise-of-chincha-in-peru/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T20:55:02+00:00"
       },
       {
         "id": "636873458307",
@@ -55,8 +111,32 @@
         "published": "2026-02-11T20:46:40+00:00"
       },
       {
+        "id": "9d545a760f9c",
+        "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
+        "summary": "Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.",
+        "url": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T20:44:19+00:00"
+      },
+      {
+        "id": "e073fd4fda69",
+        "title": "\"Windows 11 26H1\" is a special version of Windows exclusively for new Arm PCs",
+        "summary": "Arm PCs have enjoyed special treatment from Microsoft for the past two years.",
+        "url": "https://arstechnica.com/gadgets/2026/02/windows-11-26h1-is-a-special-version-of-windows-exclusively-for-new-arm-pcs/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T20:28:35+00:00"
+      },
+      {
+        "id": "ca4abc5f3c38",
+        "title": "Google recovers \"deleted\" Nest video in high-profile abduction case",
+        "summary": "Users only get three hours of free Nest video storage, but Google can retrieve videos much later.",
+        "url": "https://arstechnica.com/google/2026/02/google-recovers-deleted-nest-video-in-high-profile-abduction-case/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T20:15:54+00:00"
+      },
+      {
         "id": "6c43ca63c73f",
-        "title": "Victory for Elon Musk: US labor board abandons authority over SpaceX",
+        "title": "US decides SpaceX is like an airline, exempting it from Labor Relations Act",
         "summary": "US labels SpaceX a common carrier by air, will regulate firm under railway law.",
         "url": "https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/",
         "source": "Ars Technica - All content",
@@ -133,89 +213,17 @@
         "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/11/wake-up-labour-mps-price-of-electricity-is-crisis-for-industry-and-growth",
         "source": "Business | The Guardian",
         "published": "2026-02-11T18:58:17+00:00"
-      },
-      {
-        "id": "cdcafc76d340",
-        "title": "Labour can win political argument for closer EU ties, says Rachel Reeves",
-        "summary": "Chancellor says stronger alignment with Europe is ‘biggest prize’ for trade and economic growthRachel Reeves has insisted Labour can win the political argument for a closer relationship with the EU, calling it the “biggest prize” for UK economic growth.Some Labour strategists have been wary of makin...",
-        "url": "https://www.theguardian.com/politics/2026/feb/11/labour-political-argument-closer-eu-ties-rachel-reeves",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T18:51:23+00:00"
-      },
-      {
-        "id": "6156f8f09692",
-        "title": "The Guardian view on a ‘Made in Europe’ industrial strategy: an idea whose time has come | Editorial",
-        "summary": "Defending European strategic interests must be a priority to level the economic playing field in an increasingly volatile worldGiven the daunting nature of the challenges they face in the era of Donald Trump, it is perhaps understandable that European politicians should wish to get away from it all....",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/11/the-guardian-view-on-a-made-in-europe-industrial-strategy-an-idea-whose-time-has-come",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T18:43:51+00:00"
-      },
-      {
-        "id": "e3871514cfca",
-        "title": "DOJ says Trenchant boss sold exploits to Russian broker capable of accessing ‘millions of computers and devices’",
-        "summary": "The former boss of the L3Harris-owned hacking and surveillance tools maker Trenchant faces nine years in prison for selling several exploits to a Russian broker, which counts the Russian government among its customers.",
-        "url": "https://techcrunch.com/2026/02/11/doj-says-trenchant-boss-sold-exploits-to-russian-broker-capable-of-accessing-millions-of-computers-and-devices/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T18:41:41+00:00"
-      },
-      {
-        "id": "8a06744bf12b",
-        "title": "Michelin two-star chef in hygiene row hits out at ‘prehistoric’ inspectors",
-        "summary": "Gareth Ward of Ynyshir in Wales vows to fight on after inspection report is disclosed revealing concerns about fliesA chef whose Michelin two-star restaurant in Wales was given a one-star hygiene rating has claimed the inspection regime is “prehistoric” as it emerged officers raised concerns about d...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/11/chef-michelin-two-stars-restaurant-ynyshir-wales-hygiene-inspectors",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T18:18:54+00:00"
-      },
-      {
-        "id": "3972012459bb",
-        "title": "Smart home PSA: Apple's \"new architecture\" for Home app becomes mandatory today",
-        "summary": "Updated Home app is required for Matter support and some types of accessories.",
-        "url": "https://arstechnica.com/gadgets/2026/02/smart-home-psa-apples-new-architecture-for-home-app-becomes-mandatory-today/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-11T18:18:17+00:00"
-      },
-      {
-        "id": "638a2c6e4cd1",
-        "title": "Why the economics of orbital AI are so brutal",
-        "summary": "A 1 GW orbital data center would cost roughly $42.4 billion — almost three times its ground-bound equivalent.",
-        "url": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T18:15:21+00:00"
-      },
-      {
-        "id": "55424ce34d95",
-        "title": "UK being ‘colonised by immigrants’, says Man United co-owner Sir Jim Ratcliffe",
-        "summary": "Britain’s seventh-richest man, who vocally backed Brexit then moved to Monaco, also hits out at people on benefitsThe billionaire Sir Jim Ratcliffe, who moved to tax-free Monaco in 2020, has claimed that the UK is being “colonised” by immigrants.Speaking in an interview with Sky News, Britain’s seve...",
-        "url": "https://www.theguardian.com/business/2026/feb/11/uk-immigrants-man-utd-sir-jim-ratcliffe-tax-monaco",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T18:10:49+00:00"
-      },
-      {
-        "id": "32b74a41ea28",
-        "title": "Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed",
-        "summary": "The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed.",
-        "url": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T18:00:00+00:00"
-      },
-      {
-        "id": "fe917ec00f91",
-        "title": "Google releases the first beta of Android 17, adopts a continuous developer release plan",
-        "summary": "Google is changing how developers get access to new APIs and features of the latest version.",
-        "url": "https://techcrunch.com/2026/02/11/google-releases-the-first-beta-of-android-17-adopts-a-continous-developer-release-plan/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T18:00:00+00:00"
-      },
-      {
-        "id": "3488e735ebe5",
-        "title": "How AI changes the math for startups, according to a Microsoft VP",
-        "summary": "Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
-        "url": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T17:51:37+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "05b590528fc2",
+        "title": "Study of Buddhist Monks Finds Meditation Alters Brain Activity",
+        "summary": "Meditation isn’t thinking about nothing. New research reinforces that it's a mind-altering, dynamic state that promotes focus, learning, and well-being.",
+        "url": "https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/",
+        "source": "Science Latest",
+        "published": "2026-02-11T22:35:39+00:00"
+      },
       {
         "id": "b8a29b3dde66",
         "title": "Quoting Andrew Deck for Niemen Lab",
@@ -407,14 +415,6 @@
         "url": "https://www.twreporter.org/a/echoing-red-chorus-when-taiwan-indie-acts-head-for-china-comic",
         "source": "報導者",
         "published": "2026-02-10T16:00:00+00:00"
-      },
-      {
-        "id": "aff399216642",
-        "title": "Is it possible to develop AI without the US?",
-        "summary": "Tech giants Alphabet, Amazon, Microsoft and Meta to collectively invest $600bn on artificial intelligence this yearHello, and welcome to TechScape. Today in tech, we’re discussing the Persian Gulf countries making a play for sovereignty over their own artificial intelligence in response to an unstab...",
-        "url": "https://www.theguardian.com/technology/2026/feb/09/us-tech-ai-companies-gulf-states",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-10T14:45:34+00:00"
       }
     ],
     "序(month)": [
