@@ -1,19 +1,99 @@
 {
-  "updated_at": "2026-02-11T19:39:52.365260+00:00",
+  "updated_at": "2026-02-11T21:52:00.661631+00:00",
   "trending": [
-    "james van der beek",
-    "bologna vs lazio",
-    "paris fc vs real madrid",
-    "paris football club femenino - real madrid c. f. femenino",
-    "gary sanchez",
-    "scotty james",
-    "bayern - rb leipzig",
-    "iryna zarutska",
-    "ios 26.3",
-    "aston villa vs brighton"
+    "piper gilles",
+    "iowa vs maryland",
+    "mcd stock",
+    "jeremy sochan",
+    "lilah fear",
+    "italy milano cortina 2026",
+    "walk for peace",
+    "csco stock",
+    "damian clara",
+    "emilea zingas"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "534c9aea7b16",
+        "title": "Apple’s Siri revamp reportedly delayed… again",
+        "summary": "Apple has been promising a new-and-improved, cutting-edge, AI-powered Siri since it first unveiled Apple Intelligence in 2024.",
+        "url": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T21:19:46+00:00"
+      },
+      {
+        "id": "0851e76eed60",
+        "title": "Uber Eats launches AI assistant to help with grocery cart creation",
+        "summary": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
+        "url": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T21:07:37+00:00"
+      },
+      {
+        "id": "636873458307",
+        "title": "Who will own your company’s AI layer? Glean’s CEO explains",
+        "summary": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aimi...",
+        "url": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T20:49:07+00:00"
+      },
+      {
+        "id": "e07349983ab3",
+        "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+        "summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+        "url": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T20:47:00+00:00"
+      },
+      {
+        "id": "71a00b6f9638",
+        "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users",
+        "summary": "Critical security flaws targeting Windows and Office users allow hackers to take complete control of a victim's computer by clicking a malicious link or opening a file. Patch now.",
+        "url": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T20:46:40+00:00"
+      },
+      {
+        "id": "6c43ca63c73f",
+        "title": "Victory for Elon Musk: US labor board abandons authority over SpaceX",
+        "summary": "US labels SpaceX a common carrier by air, will regulate firm under railway law.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T20:05:44+00:00"
+      },
+      {
+        "id": "ac4623ad4210",
+        "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
+        "summary": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.",
+        "url": "https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T19:58:01+00:00"
+      },
+      {
+        "id": "1ad4453e5dbd",
+        "title": "Cash App adds payment links so you can get paid in a DM",
+        "summary": "The new feature allows users to share payment requests in a variety of digital settings.",
+        "url": "https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T19:50:41+00:00"
+      },
+      {
+        "id": "348509b041a5",
+        "title": "Apple releases iOS 26.3 with updates that mainly benefit non-Apple devices",
+        "summary": "It's getting a little easier to move from iOS to Android, if that's your thing.",
+        "url": "https://arstechnica.com/gadgets/2026/02/apple-releases-ios-26-3-with-updates-that-mainly-benefit-non-apple-devices/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T19:49:13+00:00"
+      },
+      {
+        "id": "6f0cfda95955",
+        "title": "China showcases new Moon ship and reusable rocket in one extraordinary test",
+        "summary": "The test marks a significant step in China's push to land humans on the Moon by 2030.",
+        "url": "https://arstechnica.com/space/2026/02/china-showcases-new-moon-ship-and-reusable-rocket-in-one-extraordinary-test/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T19:35:41+00:00"
+      },
       {
         "id": "8e63a5436117",
         "title": "Amazon’s new eero Signal keeps you connected to the internet when outages occur",
@@ -48,7 +128,7 @@
       },
       {
         "id": "b016c745e105",
-        "title": "Wake up Labour MPs: price of electricity is crisis for industry and growth | Nils Pratley",
+        "title": "Wake up Labour MPs: the price of electricity is a crisis for industry and growth | Nils Pratley",
         "summary": "Centrica boss’s 2030 prediction is not controversial, but government’s strategy hardly adds up to one to prove him wrong The price of electricity is less entertaining than a bout of leadership plotting but Labour MPs, if they lifted their gaze, could note that the boss of one of our largest energy c...",
         "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/11/wake-up-labour-mps-price-of-electricity-is-crisis-for-industry-and-growth",
         "source": "Business | The Guardian",
@@ -87,9 +167,17 @@
         "published": "2026-02-11T18:18:54+00:00"
       },
       {
+        "id": "3972012459bb",
+        "title": "Smart home PSA: Apple's \"new architecture\" for Home app becomes mandatory today",
+        "summary": "Updated Home app is required for Matter support and some types of accessories.",
+        "url": "https://arstechnica.com/gadgets/2026/02/smart-home-psa-apples-new-architecture-for-home-app-becomes-mandatory-today/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T18:18:17+00:00"
+      },
+      {
         "id": "638a2c6e4cd1",
         "title": "Why the economics of orbital AI are so brutal",
-        "summary": "A 1 Gw orbital data center would cost roughly $42.4B—almost three times its ground-bound equivalent.",
+        "summary": "A 1 GW orbital data center would cost roughly $42.4 billion — almost three times its ground-bound equivalent.",
         "url": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
         "source": "TechCrunch",
         "published": "2026-02-11T18:15:21+00:00"
@@ -125,97 +213,17 @@
         "url": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
         "source": "TechCrunch",
         "published": "2026-02-11T17:51:37+00:00"
-      },
-      {
-        "id": "7c6a4872b305",
-        "title": "UpScrolled’s social network is struggling to moderate hate speech after fast growth",
-        "summary": "UpScrolled, a social network that surged in the wake of the U.S. TikTok deal, has seen an uptick in harmful content, including usernames and hashtags that contain racial slurs.",
-        "url": "https://techcrunch.com/2026/02/11/upscrolleds-social-network-is-struggling-to-moderate-hate-speech-after-fast-growth/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T17:47:15+00:00"
-      },
-      {
-        "id": "fc10257c15be",
-        "title": "US labor board drops years-long legal battle with SpaceX in victory for Musk",
-        "summary": "National Labor Relations Board says it does not have legal oversight of SpaceX and dismisses caseThe US labor board is abandoning a years-long legal battle against Elon Musk’s SpaceX and signaling it will steer clear of future cases against the company, according to a letter from the board cited by ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/11/nlrb-drops-legal-battle-spacex-elon-musk",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T17:00:42+00:00"
-      },
-      {
-        "id": "144b003c134d",
-        "title": "Mixed message in France’s letter about fertility | Letters",
-        "summary": "Daniel Whittington writes that it shows a lack of understanding; plus letters on the length of maternity leave and the emotional cost of leaving conception too lateAs a 24-year-old French man, I think this plan (France’s letters to 29-year-olds to remind them to have babies is a spectacular missing ...",
-        "url": "https://www.theguardian.com/money/2026/feb/11/mixed-message-in-frances-letter-about-fertility",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T16:54:59+00:00"
-      },
-      {
-        "id": "e07349983ab3",
-        "title": "Senior engineers, including co-founders, exit xAI amid controversy",
-        "summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
-        "url": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T16:39:49+00:00"
-      },
-      {
-        "id": "becf53396d0c",
-        "title": "Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV",
-        "summary": "Inertia Enterprises will use the Series A investment to build one of the world's most powerful lasers, a key part of its power plant design.",
-        "url": "https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T16:29:43+00:00"
-      },
-      {
-        "id": "7e3338195823",
-        "title": "Scottish rocket startup nears collapse despite £26m in taxpayer loans",
-        "summary": "Orbex’s collapse would put 150 jobs at risk and dash hopes of it launching first homegrown rocket from ScotlandA British space company hoping to launch the first homegrown rocket from Scotland is on the brink of collapse, threatening 150 jobs and throwing doubt over the UK’s extraterrestrial ambitio...",
-        "url": "https://www.theguardian.com/business/2026/feb/11/scottish-rocket-startup-orbex-nears-collapse-26m-taxpayer-loans",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T16:24:58+00:00"
-      },
-      {
-        "id": "5dbae749e8e4",
-        "title": "US added 130,000 jobs in January, surpassing expectations as 2025 growth is slashed",
-        "summary": "Unemployment rate was 4.3% in January with gains 13,000 less than the 143,000 jobs added a year ago, report showsThe US jobs market added 130,000 jobs in January, according to a highly anticipated labor market report released on Wednesday, a surge of job growth after months of fatigue in the labor m...",
-        "url": "https://www.theguardian.com/business/2026/feb/11/delayed-us-january-jobs-report",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T16:13:58+00:00"
-      },
-      {
-        "id": "62eb729463e4",
-        "title": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
-        "summary": "The startup, Monaco, has come out of stealth as an AI-native all-in-one CRM plus more system backed by names like the Collison brothers and Garry Tan.",
-        "url": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T16:00:00+00:00"
-      },
-      {
-        "id": "1c8445207aa4",
-        "title": "Upside Robotics is reducing fertilizer use and waste in corn crops",
-        "summary": "Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.",
-        "url": "https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T16:00:00+00:00"
-      },
-      {
-        "id": "2ff1052ebed0",
-        "title": "Amazon Pharmacy to expand same-day delivery to nearly 4,500 US cities",
-        "summary": "The expansion will cover customers in newly served states such as Idaho and Massachusetts.",
-        "url": "https://techcrunch.com/2026/02/11/amazon-pharmacy-to-expand-same-day-delivery-to-nearly-4500-us-cities/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T15:46:26+00:00"
-      },
-      {
-        "id": "54c2d5da59be",
-        "title": "What's next after the Trump administration revokes key finding on climate change?",
-        "summary": "The EPA is revoking the finding for legal, not scientific, reasons.",
-        "url": "https://arstechnica.com/science/2026/02/whats-next-after-the-trump-administration-revokes-key-finding-on-climate-change/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-11T15:10:19+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "b8a29b3dde66",
+        "title": "Quoting Andrew Deck for Niemen Lab",
+        "summary": "An AI-generated report, delivered directly to the email inboxes of journalists, was an essential tool in the Times’ coverage. It was also one of the first signals that conservative media was turning against the administration [...]\nBuilt in-house and known internally as the “Manosphere Report,” the ...",
+        "url": "https://simonwillison.net/2026/Feb/11/manosphere-report/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-11T20:59:03+00:00"
+      },
       {
         "id": "f537e03f4d8d",
         "title": "Novagrid, sequenced multi-effect with bitcrusher, sonic motion plug-in",
@@ -407,14 +415,6 @@
         "url": "https://www.theguardian.com/technology/2026/feb/09/us-tech-ai-companies-gulf-states",
         "source": "Technology | The Guardian",
         "published": "2026-02-10T14:45:34+00:00"
-      },
-      {
-        "id": "cc09c4fbce17",
-        "title": "Romeo Is a Dead Man review – a misfire from a storied gaming provocateur",
-        "summary": "PlayStation 5 (version tested), Xbox, PC; Grasshopper Manufacture/Marvelous Inc After some dumb fun hacking at zombies, legendary developer Suda51’s first original game in a decade sadly only delivers a host of incoherent disappointmentsEver since he baffled GameCube owners with 2005’s Killer7, Japa...",
-        "url": "https://www.theguardian.com/games/2026/feb/10/romeo-is-a-dead-man-review-grasshopper-manufacture-suda51",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-10T14:11:49+00:00"
       }
     ],
     "序(month)": [
