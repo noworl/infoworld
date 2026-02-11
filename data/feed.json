@@ -1,26 +1,58 @@
 {
-  "updated_at": "2026-02-11T08:05:53.622285+00:00",
+  "updated_at": "2026-02-11T11:33:30.820291+00:00",
   "trending": [
-    "el paso airport",
-    "f1",
-    "seamus culleton ice detention",
-    "kristen stewart",
-    "snowfall",
-    "jonbenet ramsey",
-    "dalton knecht",
-    "los angeles weather",
-    "derby",
-    "cancer"
+    "guy den ouden",
+    "florida lottery",
+    "saks fifth avenue",
+    "usa today",
+    "ramadan 2026",
+    "t20 world cup schedule",
+    "josh segarra",
+    "amazon prime",
+    "instagram",
+    "eng vs wi"
   ],
   "categories": {
     "急(hr)": [
       {
         "id": "d3b1d316fd89",
-        "title": "Markets brace for US jobs report, with White House telling investors ‘they shouldn’t panic’ – business live",
-        "summary": "Trump adviser Peter Navarro says ‘we have to revise our expectations down’ because of US deportation programmeGood morning, and welcome to our rolling coverage of business, the financial markets and the world economy.It’s non-farm payrolls day! The eagerly-awaited US jobs report is out today, and th...",
+        "title": "Markets brace for US jobs data as White House acknowledges ICE effects; Heineken to cut 6,000 roles – business live",
+        "summary": "White House tells investors ‘they shouldn’t panic’ but says job numbers will be lower in future because of US deportation programme; Heineken hit by slower beer salesFord Motor Co. has fallen behind Chinese manufacturer BYD in global vehicle sales for the first time last year.Ford’s wholesales dropp...",
         "url": "https://www.theguardian.com/business/live/2026/feb/11/markets-us-jobs-report-non-farm-payrolls-bank-of-england-business-live-news-latest",
         "source": "Business | The Guardian",
-        "published": "2026-02-11T07:50:29+00:00"
+        "published": "2026-02-11T11:10:48+00:00"
+      },
+      {
+        "id": "53ee2e72ba58",
+        "title": "You might love olive oil, but don’t put it on your CV | Polly Hudson",
+        "summary": "The foodstuff was apparently listed as an interest on a job résumé, according to a viral social media post. It might make you stand out, but not in a good wayCompetition in the jobs market is ferocious, so today’s applicants must attempt to stand out. However, it now transpires, not too much. Online...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/11/olive-oil-job-cv-resume-social-media-viral",
+        "source": "Business | The Guardian",
+        "published": "2026-02-11T11:00:15+00:00"
+      },
+      {
+        "id": "90ba1410930b",
+        "title": "Activist investor Elliott builds up stake in London Stock Exchange Group",
+        "summary": "US firm held talks with LSEG to push performance at time of reduced listings and AI concernsBusiness live – latest updatesThe activist investor Elliott Management has built up a “significant” stake in the London Stock Exchange Group (LSEG) and is engaging with the company to drive its performance at...",
+        "url": "https://www.theguardian.com/business/2026/feb/11/activist-investor-elliott-builds-up-stake-in-london-stock-exchange-group",
+        "source": "Business | The Guardian",
+        "published": "2026-02-11T11:00:12+00:00"
+      },
+      {
+        "id": "00aa13f27543",
+        "title": "UK wealth manager and price comparison site shares fall amid AI fears",
+        "summary": "Drop comes as AI firm Altruist launches service that helps advisers create personalised tax strategiesBusiness live – latest updatesWealth managers and price comparison sites have become the latest companies to be hit by fears that their businesses will be disrupted by new artificial intelligence in...",
+        "url": "https://www.theguardian.com/business/2026/feb/11/uk-wealth-manager-and-price-comparison-site-shares-fall-amid-ai-fears",
+        "source": "Business | The Guardian",
+        "published": "2026-02-11T10:03:36+00:00"
+      },
+      {
+        "id": "5132acf6e88f",
+        "title": "Qatar’s beIN Sports wins LA 2028 media rights in buildup to 2036 Olympics bid",
+        "summary": "Qatar still has infrastructure from 2022 World CupAhmedabad, India likely to be other host candidateQatar’s bid to host the 2036 Olympic Games has received a boost with the state-owned broadcaster beIN Sports concluding a media rights deal for the 2028 Games in Los Angeles.It is understood that beIN...",
+        "url": "https://www.theguardian.com/sport/2026/feb/11/qatars-bein-sports-wins-la-2028-media-rights-in-buildup-to-2036-olympics-bid",
+        "source": "Business | The Guardian",
+        "published": "2026-02-11T08:00:11+00:00"
       },
       {
         "id": "111c11e1f3e8",
@@ -127,6 +159,22 @@
         "published": "2026-02-11T00:01:03+00:00"
       },
       {
+        "id": "92e800caf195",
+        "title": "My professor said ‘Black people are not interested in the environment’. I set out to prove him wrong",
+        "summary": "Nature, Published online: 11 February 2026; doi:10.1038/d41586-026-00351-zEnvironmental sociologist Dorceta Taylor has helped her field to be more welcoming to researchers of colour.",
+        "url": "https://www.nature.com/articles/d41586-026-00351-z",
+        "source": "Nature",
+        "published": "2026-02-11T00:00:00+00:00"
+      },
+      {
+        "id": "f168c68abf4e",
+        "title": "What drugs are safe during pregnancy? There’s a shocking lack of data",
+        "summary": "Nature, Published online: 11 February 2026; doi:10.1038/d41586-026-00331-3Drug trials have typically excluded pregnant people for safety reasons. But that’s now starting to change.",
+        "url": "https://www.nature.com/articles/d41586-026-00331-3",
+        "source": "Nature",
+        "published": "2026-02-11T00:00:00+00:00"
+      },
+      {
         "id": "13b26dc0b1b1",
         "title": "SpaceX's next-gen Super Heavy booster aces four days of \"cryoproof\" testing",
         "summary": "The next Starship flight is a key precursor for more ambitious missions.",
@@ -165,57 +213,25 @@
         "url": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
         "source": "TechCrunch",
         "published": "2026-02-10T21:20:10+00:00"
-      },
-      {
-        "id": "1b45acfa6e7a",
-        "title": "VC Masha Bucher, Epstein associate and Day One founder, explains herself",
-        "summary": "After numerous news reports documented Masha Bucher's close business and personal relationship with convicted sex offender Jeffrey Epstein, Bucher took to X to explain.",
-        "url": "https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T21:07:44+00:00"
-      },
-      {
-        "id": "9762e19d5dfe",
-        "title": "Google sent personal and financial information of student journalist to ICE",
-        "summary": "The tech giant handed over the personal information of a journalist and student who attended a pro-Palestinian protest in 2024. This is the latest example of ICE using its controversial subpoena powers to target people critical of the Trump administration.",
-        "url": "https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T20:41:21+00:00"
-      },
-      {
-        "id": "763d107b9569",
-        "title": "Children in England ‘bombarded’ with online ads for harmful products",
-        "summary": "Teenagers routinely see content promoting weight-loss drugs, steroids and skin-whitening creams, research finds Children are being “bombarded” with harmful products online, including weight-loss drugs, steroids and skin-whitening chemicals, a study has found.Research conducted for the children’s com...",
-        "url": "https://www.theguardian.com/media/2026/feb/10/children-promotion-weight-loss-drugs-steroids-skin-whitening-creams-social-media",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T20:00:56+00:00"
-      },
-      {
-        "id": "b77cb4ba35e3",
-        "title": "Here’s how Rivian changed the rear door manual release on the R2",
-        "summary": "Rivian, along with other automakers, has been under pressure to make the manual door releases easier to access. The new R2 SUV does that — here's how.",
-        "url": "https://techcrunch.com/2026/02/10/heres-how-rivian-changed-the-rear-door-manual-release-on-the-r2/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T19:38:54+00:00"
-      },
-      {
-        "id": "f84ed0df5400",
-        "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
-        "summary": "Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories, and add  backgrounds to text posts.",
-        "url": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T19:34:51+00:00"
-      },
-      {
-        "id": "d35765b8d82f",
-        "title": "Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site",
-        "summary": "DDoS hit blog that tried to uncover Archive.today founder's identity in 2023.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-10T19:29:34+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "472084701199",
+        "title": "AI Industry Rivals Are Teaming Up on a Startup Accelerator",
+        "summary": "OpenAI, Anthropic, Google, and a host of other major tech companies have found common ground in F/ai, a new startup accelerator based out of Paris.",
+        "url": "https://www.wired.com/story/ai-industry-rivals-are-teaming-up-on-a-startup-accelerator/",
+        "source": "Business Latest",
+        "published": "2026-02-11T10:55:24+00:00"
+      },
+      {
+        "id": "f7a6d758bf89",
+        "title": "Astronomers Are Closing In on the Kuiper Belt’s Secrets",
+        "summary": "As next-generation telescopes map this outer frontier, astronomers are bracing for discoveries that could reveal hidden planets, strange structures, and clues to the solar system’s chaotic youth.",
+        "url": "https://www.wired.com/story/astronomers-are-closing-in-on-the-kuiper-belts-secrets/",
+        "source": "Science Latest",
+        "published": "2026-02-11T10:00:00+00:00"
+      },
       {
         "id": "99d4ecc6f71f",
         "title": "社群平台被控害孩童上癮，Instagram 執行長傳喚作證",
@@ -399,25 +415,17 @@
         "url": "https://www.twreporter.org/a/bookreview-forest-lookout-tower-in-taiwan",
         "source": "報導者",
         "published": "2026-02-09T16:00:00+00:00"
-      },
-      {
-        "id": "0f5f1cb3754f",
-        "title": "How a decades-old video game has helped me defeat the doomscroll",
-        "summary": "Trading social media for Pokémon battles and evolutions in Kanto on a Game Boy Advance has been surprisingly sereneCutting back on doomscrolling must be one of the hardest new year resolutions to keep. Instinctively tapping on the usual suspects on your phone’s home screen becomes a reflex, and vast...",
-        "url": "https://www.theguardian.com/games/2026/feb/09/how-a-decades-old-video-game-has-helped-me-defeat-the-doomscroll",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-09T14:29:36+00:00"
-      },
-      {
-        "id": "c98c9b0e5a85",
-        "title": "Dream with this: solenoids, percussion, and circuits in live Torso session",
-        "summary": "Here's a perfect way to treat your ears at the start of the week. Sound artist and percussionist Lorenzo Colombo recorded this ethereal, cosmic live set at Torso Electronics in Copenhagen. The dadamachines automat toolkit and its mechanical possibilities get woven together with Torso's T1 and S4 har...",
-        "url": "https://cdm.link/solenoids-percussion-and-circuits-in-live-torso-session/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-09T14:14:13+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "23f097146549",
+        "title": "【齊柏林衛星首波回傳影像，空拍對照驚喜公開！】 這份春節前的賀禮，讓所有太空迷都沸騰！ 去年底升空的台灣自製衛星—#齊柏林衛星，在經過嚴密的驗證與上百次測試後，第一波取像成果今天正式亮相！ 看見涵蓋新竹科學園區、台南安平、高雄興達港的高解析...",
+        "summary": "【齊柏林衛星首波回傳影像，空拍對照驚喜公開！】 這份春節前的賀禮，讓所有太空迷都沸騰！ 去年底升空的台灣自製衛星—#齊柏林衛星，在經過嚴密的驗證與上百次測試後，第一波取像成果今天正式亮相！ 看見涵蓋新竹科學園區、台南安平、高雄興達港的高解析影像，我們心中充滿難以言喻的感動。衛星影像中清晰可見國家同步輻射研究中心、億載金城、興達電廠，在與齊導同地點的空拍對照後，台灣十多年來的真實變化，一覽無遺。 齊柏林衛星不僅達成解析度 1 米的驚人規格，在影像優化後更提升至 0.7 米，從直升機的高空，躍升到深邃的太空，讓記錄台灣地景、甚至全世界的重任，持續發光。 我們期待與 國家太空中心 TASA  展開更...",
+        "url": "https://www.facebook.com/asgis/posts/pfbid02Akf99DwwWukzHtBGCLqZuioq9L4dbz98sG6GSKRiMYtbTFrPRN7VTgCeDGarL2GXl",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-11T10:26:13+00:00"
+      },
       {
         "id": "b81a836f2ea3",
         "title": "國家太空中心（TASA）展示了「福衛八號 - 齊柏林衛星（FS-8A)」第一波影像成果，確認原始影像地面解析度（Ground Sample Distance, GSD）符合1米規格。 詳細內容請參閱 TASA 新聞稿： https://ww...",
@@ -609,14 +617,6 @@
         "url": "https://www.facebook.com/asgis/posts/pfbid0sKUiGqjs2a6mPRfj5VFciqn1ovCNrQQxK5boAdeGqs1gH6Emq6EJ22gs96fTzJDAl",
         "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
         "published": "2026-02-05T13:50:29+00:00"
-      },
-      {
-        "id": "7928aa6b3a9b",
-        "title": "‘Depths of Wikipedia’ Creator Annie Rauwerda on ‘Fragile’ Internet Citations",
-        "summary": "Annie Rauwerda can’t remember a world without Wikipedia. Born in 1999, just two years before the platform launched, she says it has been omnipresent in her life and a source [&#8230;]",
-        "url": "https://blog.archive.org/2026/02/05/depths-of-wikipedia-creator-annie-rauwerda-on-fragile-internet-citations/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-02-05T12:00:00+00:00"
       }
     ]
   }
