@@ -1,19 +1,83 @@
 {
-  "updated_at": "2026-02-10T22:08:57.203793+00:00",
+  "updated_at": "2026-02-11T05:19:27.241983+00:00",
   "trending": [
-    "purdue vs nebraska",
-    "sarasota shooting",
-    "snowfall weather forecast",
-    "courtney love",
-    "yuma kagiyama",
-    "charlie woods",
-    "george mason university",
-    "f stock",
-    "rob havenstein",
-    "epl table"
+    "oklahoma st vs arizona state",
+    "rose byrne",
+    "stephon castle",
+    "sa vs afg",
+    "jake laravia",
+    "san jose state basketball",
+    "rui hachimura",
+    "denis shapovalov",
+    "rafael jodar",
+    "carter bryant"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "3b30346c9f23",
+        "title": "The big AI job swap: why white-collar workers are ditching their careers",
+        "summary": "As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and, in some cases, giving up their vocation?California-based Jacqueline Bowman had been dead set on becoming a writer since she was a child. At 14 she go...",
+        "url": "https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers",
+        "source": "Business | The Guardian",
+        "published": "2026-02-11T05:00:08+00:00"
+      },
+      {
+        "id": "6aa2e31fd6f7",
+        "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
+        "summary": "The executive has denied the allegation that she engaged in discrimination.",
+        "url": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T02:15:27+00:00"
+      },
+      {
+        "id": "ab7c8918cbda",
+        "title": "Okay, now exactly half of xAI’s founding team has left the company",
+        "summary": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.",
+        "url": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T01:50:00+00:00"
+      },
+      {
+        "id": "07a2660b7c27",
+        "title": "FDA refuses to review Moderna's mRNA flu vaccine",
+        "summary": "The move comes amid RFK Jr.'s relentless efforts to enact his anti-vaccine agenda.",
+        "url": "https://arstechnica.com/health/2026/02/fda-refuses-to-review-modernas-mrna-flu-vaccine/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T01:21:12+00:00"
+      },
+      {
+        "id": "5fcea4258162",
+        "title": "‘Unsustainable’ gaps in policing of franchise businesses must end, MPs say",
+        "summary": "House of Commons business and trade committee calls for changes after series of scandals in sectorThe UK government needs to eradicate “unsustainable” gaps in the policing of franchise businesses after a series of scandals to hit the sector, a parliamentary committee has found.The conclusion forms p...",
+        "url": "https://www.theguardian.com/business/2026/feb/11/unsustainable-gaps-policing-franchise-businesses-mps",
+        "source": "Business | The Guardian",
+        "published": "2026-02-11T00:01:03+00:00"
+      },
+      {
+        "id": "13b26dc0b1b1",
+        "title": "SpaceX's next-gen Super Heavy booster aces four days of \"cryoproof\" testing",
+        "summary": "The next Starship flight is a key precursor for more ambitious missions.",
+        "url": "https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-10T23:35:30+00:00"
+      },
+      {
+        "id": "0fbb9c01d716",
+        "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
+        "summary": "A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies.",
+        "url": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T23:16:28+00:00"
+      },
+      {
+        "id": "8bd074790aa0",
+        "title": "An ice dance duo skated to AI music at the Olympics",
+        "summary": "Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.",
+        "url": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
+        "source": "TechCrunch",
+        "published": "2026-02-10T22:31:13+00:00"
+      },
       {
         "id": "4b04b44bd9e0",
         "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
@@ -37,14 +101,6 @@
         "url": "https://techcrunch.com/2026/02/10/google-sent-personal-and-financial-information-of-student-journalist-to-ice/",
         "source": "TechCrunch",
         "published": "2026-02-10T20:41:21+00:00"
-      },
-      {
-        "id": "ab7c8918cbda",
-        "title": "Nearly half of xAI’s founding team has now left the company",
-        "summary": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.",
-        "url": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T20:31:51+00:00"
       },
       {
         "id": "b77cb4ba35e3",
@@ -111,14 +167,6 @@
         "published": "2026-02-10T18:04:01+00:00"
       },
       {
-        "id": "bfa8e36b147a",
-        "title": "Cowboys, lassos, and nudity: AI startups turn to stunts for attention in a crowded market",
-        "summary": "Businesses are using theatrical stunts not for shock alone but to create viral content and drive sales conversations onlineWhen Lunos, an AI startup in New York City, was gearing up for launch, its founder and chief executive, Duncan Barrigan, and his team wanted to make a splash. So they shelled ou...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/10/ai-business-startups-stunts",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T17:00:53+00:00"
-      },
-      {
         "id": "72b70c2446ea",
         "title": "Upgraded Google safety tools can now find and remove more of your personal info",
         "summary": "The Results About You tool is getting an upgrade.",
@@ -165,57 +213,33 @@
         "url": "https://techcrunch.com/2026/02/10/former-tesla-product-manager-wants-to-make-luxury-goods-impossible-to-fake-starting-with-a-chip/",
         "source": "TechCrunch",
         "published": "2026-02-10T16:30:00+00:00"
-      },
-      {
-        "id": "267aea1213dc",
-        "title": "UK sleepwalking into joblessness epidemic, Tesco boss warns",
-        "summary": "Ashwin Prasad says far fewer people in work than there could be with ministers just ‘tinkering at the edges’ of problemThe UK is “sleepwalking into a quiet epidemic” of joblessness with millions of people out of work and on benefits, the boss of the nation’s biggest supermarket chain has warned.Ashw...",
-        "url": "https://www.theguardian.com/business/2026/feb/10/uk-sleepwalking-into-joblessness-epidemic-tesco-boss-unemployment",
-        "source": "Business | The Guardian",
-        "published": "2026-02-10T16:21:04+00:00"
-      },
-      {
-        "id": "0281e907bd52",
-        "title": "The Kia PV5 electric van combines futuristic looks and thoughtful design",
-        "summary": "Forget VW's expensive retro bus—this is the electric van we've been waiting for.",
-        "url": "https://arstechnica.com/cars/2026/02/the-kia-pv5-electric-van-combines-futuristic-looks-and-thoughtful-design/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-10T16:20:20+00:00"
-      },
-      {
-        "id": "72875551cb27",
-        "title": "Singapore says China-backed hackers targeted its four largest phone companies",
-        "summary": "The Singaporean government said the China-backed hackers gained \"limited access to critical systems\" run by the country's top four telecommunication giants, but said they did not disrupt services or steal customers' data.",
-        "url": "https://techcrunch.com/2026/02/10/singapore-china-backed-hackers-targeted-largest-phone-companies-salt-typhoon/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T16:19:39+00:00"
-      },
-      {
-        "id": "4205adc05806",
-        "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
-        "summary": "Vega Security raised $120 million, bringing its valuation to $700 million, in a round led by Accel. The company aims to rethink how enterprises detect cybersecurity threats.",
-        "url": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T16:00:00+00:00"
-      },
-      {
-        "id": "2e942d86e631",
-        "title": "What to know about Netflix’s landmark acquisition of Warner Bros.",
-        "summary": "Learn more about Netflix's acquisition of Warner Bros., considered the most historic megadeal in Hollywood, as it continues to develop.",
-        "url": "https://techcrunch.com/2026/02/10/what-to-know-about-netflixs-landmark-acquisition-of-warner-bros/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T15:56:21+00:00"
-      },
-      {
-        "id": "80281464f288",
-        "title": "Google expands tools to let users remove sensitive data about themselves from Search",
-        "summary": "Users will be able to more easily request the removal of results that include private information or non-consensual explicit imagery.",
-        "url": "https://techcrunch.com/2026/02/10/google-remove-sensitive-personal-data-from-search/",
-        "source": "TechCrunch",
-        "published": "2026-02-10T15:54:48+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "3b30346c9f23",
+        "title": "The big AI job swap: why white-collar workers are ditching their careers",
+        "summary": "As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and, in some cases, giving up their vocation?California-based Jacqueline Bowman had been dead set on becoming a writer since she was a child. At 14 she go...",
+        "url": "https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-11T05:00:08+00:00"
+      },
+      {
+        "id": "af38e6b23c88",
+        "title": "Meta 推出全新 AI 功能，讓 Facebook 個人資料照片變身動態 GIF",
+        "summary": "Meta 最近在 Facebook 上推出一項全新的 AI 功能，讓使用者能將靜態的個人資料照片轉換為生動的動 [&#8230;]",
+        "url": "https://technews.tw/2026/02/11/meta-launches-new-ai-features/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-11T03:00:43+00:00"
+      },
+      {
+        "id": "52c07308bc12",
+        "title": "Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE",
+        "summary": "The letter comes after Benioff joked at a company event on Monday that ICE was monitoring international employees in attendance, sparking immediate backlash.",
+        "url": "https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/",
+        "source": "Business Latest",
+        "published": "2026-02-10T22:25:34+00:00"
+      },
       {
         "id": "5e24e4fd6f30",
         "title": "The Physics Behind the Quadruple Axel, the Most Difficult Jump in Figure Skating",
@@ -391,33 +415,17 @@
         "url": "https://www.theguardian.com/technology/2026/feb/09/jeffrey-epstein-crypto",
         "source": "Technology | The Guardian",
         "published": "2026-02-09T14:00:22+00:00"
-      },
-      {
-        "id": "4c351dd34718",
-        "title": "‘We’re being turned into an energy colony’: Argentina’s nuclear plan faces backlash over US interests",
-        "summary": "Push to restart uranium mining in Patagonia has sparked fears about the environmental impact and loss of sovereignty over key resourcesOn an outcrop above the Chubut River, one of the few to cut across the arid Patagonian steppe of southern Argentina, Sergio Pichiñán points across a wide swath of sc...",
-        "url": "https://www.theguardian.com/global-development/2026/feb/09/energy-colony-argentina-patagonia-uranium-nuclear-plan-backlash-over-us-interests",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-09T14:00:20+00:00"
-      },
-      {
-        "id": "6ba0400cc55e",
-        "title": "No Company Has Admitted to Replacing Workers With AI in New York",
-        "summary": "New York state has required companies to disclose if “technological innovation or automation” was the cause of job loss for nearly a year. So far, none has.",
-        "url": "https://www.wired.com/story/no-company-has-admitted-to-replacing-workers-with-ai-in-new-york/",
-        "source": "Business Latest",
-        "published": "2026-02-09T12:00:00+00:00"
-      },
-      {
-        "id": "0d9d931c7152",
-        "title": "‘Disturbing’: Australian government demands review of Roblox’s PG rating after reports of child grooming",
-        "summary": "Communications minister Anika Wells points to media reports alleging children can access spaces meant for adults which include explicit sexual contentFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastReports of child grooming and vile co...",
-        "url": "https://www.theguardian.com/australia-news/2026/feb/09/australian-government-roblox-rating-child-safety",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-09T11:30:02+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "d980781cca51",
+        "title": "本專題中心很榮幸邀請到英國知名航空歷史作家包柯克（Chris Pocock）先生蒞臨演講。Chris Pocock 長期致力於航空史與高空偵察飛行的研究，著有多本廣受好評且深具影響力的著作，包括《Dragon Lady: The Histo...",
+        "summary": "本專題中心很榮幸邀請到英國知名航空歷史作家包柯克（Chris Pocock）先生蒞臨演講。Chris Pocock 長期致力於航空史與高空偵察飛行的研究，著有多本廣受好評且深具影響力的著作，包括《Dragon Lady: The History of the U-2 Spyplane》、《The Black Bats: CIA Spy Flights Over China from Taiwan, 1951–1969》以及《50 Years of the U-2》等重要作品。此次演講，他以「Black Cat Squadron（黑貓中隊始末）」為題，深入分享這段結合航空科技、冷戰歷史與臺灣集體...",
+        "url": "https://www.facebook.com/asgis/posts/pfbid0hLfhTM83YZup3gEqcxFJWZPbDUSfTNrXigdmHauinAseu91QSRDLQjRL5K7uzbG9l",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
+        "published": "2026-02-11T00:57:39+00:00"
+      },
       {
         "id": "118387bc4d1d",
         "title": "運用 Lidar 建立智慧鐵路巡查作業#光達 #LiDER #鐵道 #軌道 中華顧問這次在瑞芳到牡丹的 10 公里路段，開啟了超酷的「點雲」黑科技實驗！ 他們在維修車上安裝了「行動式光達」（Mobile LiDAR），就像幫火車裝上超強掃描...",
@@ -609,14 +617,6 @@
         "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2539359?af=R",
         "source": "tandf: Journal of Mathematics and Music: Table of Contents",
         "published": "2026-02-05T10:37:10+00:00"
-      },
-      {
-        "id": "b74af14f3341",
-        "title": "What Ultimately Is There?<br> Metaphysics and the Ruliad",
-        "summary": "The Wolfram Institute recently received a grant from the Templeton World Charity Foundation for “Computational Metaphysics”. I wrote this piece in part as a launching point for discussions with experts in traditional philosophy. Moving Metaphysics from Philosophy to Science “What ultimately is there...",
-        "url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
-        "source": "Stephen Wolfram Writings",
-        "published": "2026-02-04T20:24:57+00:00"
       }
     ]
   }
