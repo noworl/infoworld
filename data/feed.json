@@ -1,19 +1,155 @@
 {
-  "updated_at": "2026-02-12T15:10:47.251609+00:00",
+  "updated_at": "2026-02-12T19:36:02.330803+00:00",
   "trending": [
-    "maria sakkari",
-    "heavy snow forecast",
-    "hilary duff",
-    "friday the 13th",
-    "lindsey jacobellis",
-    "recalls",
-    "stefanos tsitsipas",
-    "connor watkins",
-    "madeira",
-    "frida karlsson"
+    "trinidad chambliss",
+    "rise kudo",
+    "mboko",
+    "felix auger aliassime",
+    "choi ga-on",
+    "madison beer",
+    "anthony banda",
+    "womens half pipe final",
+    "barca vs atletico madrid",
+    "winter weather warnings"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "35ac8f44a328",
+        "title": "Hacker linked to Epstein removed from Black Hat cyber conference website",
+        "summary": "Emails published by the Justice Department revealed cybersecurity veteran Vincenzo Iozzo emailed, and arranged to meet, Jeffrey Epstein multiple times between 2014 and 2018.",
+        "url": "https://techcrunch.com/2026/02/12/hacker-linked-to-epstein-removed-from-black-hat-cyber-conference-website/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T19:15:04+00:00"
+      },
+      {
+        "id": "c4e5f2e982e1",
+        "title": "Trump administration undermines EPA enforcement of Clean Air Act",
+        "summary": "The EPA's new rule seeks to undo a 2009 finding that allowed the federal government to regulate six greenhouse gases.",
+        "url": "https://techcrunch.com/2026/02/12/trump-administration-undermines-epa-enforcement-of-clean-air-act/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T19:13:31+00:00"
+      },
+      {
+        "id": "191a22c82b81",
+        "title": "Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing",
+        "summary": "WP Engine claims Automattic was going to target more hosting companies with royalty fees.",
+        "url": "https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T19:02:07+00:00"
+      },
+      {
+        "id": "0197fbc0a3f6",
+        "title": "Lisa Nandy refers Telegraph sale to watchdogs over rightwing media plurality concerns",
+        "summary": "CMA and Ofcom to examine DMGT takeover amid fears merger could curb ‘diverging editorial stances’ in pressLisa Nandy, the culture secretary, has referred the Telegraph’s proposed sale to the publisher of the Daily Mail to the competition and media watchdogs, weeks after she raised concerns about the...",
+        "url": "https://www.theguardian.com/media/2026/feb/12/lisa-nandy-refers-telegraph-sale-to-watchdogs-over-rightwing-media-plurality-concerns-daily-mail",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T18:52:21+00:00"
+      },
+      {
+        "id": "b7ed829b1340",
+        "title": "How to deal with the “Claude crash”: Relx should keep buying back shares, then buy more | Nils Pratley",
+        "summary": "The firm remains confident even as the market flips from seeing it as an AI winner to fearing its profit margin will implodeAs the FTSE 100 index bobs along close to all-time highs, it is easy to miss the quiet share price crash in one corner of the market. It’s got a name – the “Claude crash”, refe...",
+        "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/feb/12/relx-claude-crash-buy-back-shares",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T18:43:37+00:00"
+      },
+      {
+        "id": "315007c2a26b",
+        "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+        "summary": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
+        "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T18:30:12+00:00"
+      },
+      {
+        "id": "e29771b0d43d",
+        "title": "Share values of property services firms tumble over fears of AI disruption",
+        "summary": "But, after second day of Wall Street falls, analysts say sell-off ‘may overstate AI’s immediate risk to complex deal-making’Shares in commercial property services companies have tumbled, in the latest sell-off driven by fears over disruption from artificial intelligence.After steep declines on Wall ...",
+        "url": "https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T18:01:00+00:00"
+      },
+      {
+        "id": "d91fed4b27c7",
+        "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+        "summary": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker.",
+        "url": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T18:00:00+00:00"
+      },
+      {
+        "id": "f4c3514fd0a8",
+        "title": "Aurora’s driverless trucks can now travel farther distances faster than human drivers",
+        "summary": "CEO Chris Urmson called it a “superhuman” moment, adding that Aurora’s trucks can now carry freight 1,000 miles in 15 hours — faster than what a human driver can legally accomplish.",
+        "url": "https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T17:58:30+00:00"
+      },
+      {
+        "id": "aacee4a7ed7c",
+        "title": "Jim Ratcliffe apologises for ‘choice of language’ after saying immigrants ‘colonising’ UK",
+        "summary": "Monaco-based Manchester United co-owner responds to politicians’ and football fans’ anger at ‘disgraceful’ wordsUK politics live – latest updatesMonaco-based billionaire Jim Ratcliffe faced implicit criticism from the football club he co-owns, after widespread condemnation of his claims that the UK ...",
+        "url": "https://www.theguardian.com/business/2026/feb/12/jim-ratcliffe-accused-hypocrisy-uk-colonised-immigrants",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T17:12:53+00:00"
+      },
+      {
+        "id": "dd291e9f385c",
+        "title": "More US investors sue South Korean government over handling of Coupang data breach",
+        "summary": "Coupang’s massive data breach has sparked U.S. investor lawsuits against the South Korean government over alleged discrimination.",
+        "url": "https://techcrunch.com/2026/02/12/more-u-s-investors-sue-south-korean-government-over-handling-of-coupang-data-breach/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T16:56:32+00:00"
+      },
+      {
+        "id": "0a77092de143",
+        "title": "RFK Jr. food pyramid site links to Grok, which says you shouldn’t trust RFK Jr.",
+        "summary": "Grok generated a meal plan to fit RFK Jr.'s food pyramid, then explained why it's bad.",
+        "url": "https://arstechnica.com/health/2026/02/rfk-jr-food-pyramid-site-links-to-grok-which-says-you-shouldnt-trust-rfk-jr/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-12T16:44:10+00:00"
+      },
+      {
+        "id": "0a96c3b62f67",
+        "title": "Trump named ‘undisputed champion of beautiful clean coal’ by industry group",
+        "summary": "Award was presented as president directed Pentagon to buy billions of dollars’ worth of energy from coal plantsUS politics live – latest updatesDonald Trump was crowned the “undisputed champion of beautiful clean coal” during a White House ceremony on Wednesday, during which the president received a...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/12/trump-clean-coal-award",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T16:36:19+00:00"
+      },
+      {
+        "id": "9481b0ee913a",
+        "title": "US consumers, business pay 90% of tariff costs, says Federal Reserve",
+        "summary": "The Fed's research contradict Trump's claim foreign companies would bear the burden.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/us-consumers-business-pay-90-of-tariff-costs-says-federal-reserve/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-12T15:40:47+00:00"
+      },
+      {
+        "id": "94607ee340f3",
+        "title": "Party like it's 2001: Diablo II gets a new expansion, new playable class",
+        "summary": "Alongside new endgame content, Blizzard says the Warlock is coming to other Diablo games soon.",
+        "url": "https://arstechnica.com/gaming/2026/02/diablo-ii-gets-its-first-new-playable-class-in-over-25-years/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-12T15:36:18+00:00"
+      },
+      {
+        "id": "86f7a306cee6",
+        "title": "Apple acquires all rights to ‘Severance,’ will produce future seasons in-house",
+        "summary": "The show is expected to run for four seasons, with the possibility of spin-offs, a prequel, and foreign versions.",
+        "url": "https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T15:34:11+00:00"
+      },
+      {
+        "id": "85d359409cfd",
+        "title": "Declines in health and education in poor countries ‘harming earning potential’",
+        "summary": "World Bank says children born today could earn 51% more over lifetime if their country’s human capital improvedDeteriorating health, education and training in many developing countries is dramatically depressing the future earnings of children born today, the World Bank has said.In a report, the Wor...",
+        "url": "https://www.theguardian.com/business/2026/feb/12/declining-health-education-poor-countries-harms-earning-potential-world-bank",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T15:06:00+00:00"
+      },
       {
         "id": "aaaefdc193d0",
         "title": "Ratcliffe says immigrants cost too much, while Ineos lobbies for state funding",
@@ -39,28 +175,12 @@
         "published": "2026-02-12T14:37:20+00:00"
       },
       {
-        "id": "5d068496057e",
-        "title": "Chancellor Rachel Reeves predicts ‘stronger growth this year’ after UK economy ends 2025 ‘in the slow lane’ – business live",
-        "summary": "Rolling coverage of the UK’s new GDP report, showing growth of just 0.1% in October-December and 1.3% across 2025UK economy limps along at 0.1% growth – but there are reasons for optimism in 2026Reaction to the news that the UK grew by just 0.1% in the final quarter of 2025 (see earlier post) is rol...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/12/uk-gdp-report-economy-december-q4-2025-growth-rachel-reeves-budget-news-updates",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T14:29:10+00:00"
-      },
-      {
         "id": "1622191ba7d1",
         "title": "‘People like cheap energy’: the bagel shop saving money and emissions with plug-in batteries",
         "summary": "A pilot scheme in Brooklyn is giving businesses batteries to form an electricity storage network – part of a growing number of innovative DIY energy ideas around the worldIn the back of Black Seed Bagels in northern Brooklyn is a giant catering kitchen filled with industrial-size containers of condi...",
         "url": "https://www.theguardian.com/environment/2026/feb/12/bagel-shop-saving-money-emissions-plug-in-batteries-brooklyn-new-york",
         "source": "Business | The Guardian",
         "published": "2026-02-12T14:19:38+00:00"
-      },
-      {
-        "id": "85d359409cfd",
-        "title": "Declining health and education in poor countries harms earning potential, World Bank says",
-        "summary": "Report says children born today could earn 51% more over lifetime if their country’s human capital improvedDeteriorating health, education and training in many developing countries is dramatically depressing the future earnings of children born today, the World Bank has said.In a report, the World B...",
-        "url": "https://www.theguardian.com/business/2026/feb/12/declining-health-education-poor-countries-harms-earning-potential-world-bank",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T14:00:14+00:00"
       },
       {
         "id": "4a2ea65300be",
@@ -79,143 +199,103 @@
         "published": "2026-02-12T13:37:12+00:00"
       },
       {
+        "id": "796f7423f441",
+        "title": "We can move beyond the capitalist model and save the climate – here are the first three steps | Jason Hickel and Yanis Varoufakis",
+        "summary": "Capitalism cares about our species’ prospects as much as a wolf cares about a lamb’s. But democratise our economy and a better world is within our graspWe have an urgent responsibility. Our existing economic system is incapable of addressing the social and ecological crises we face in the 21st centu...",
+        "url": "https://www.theguardian.com/environment/commentisfree/2026/feb/12/capitalist-model-climate-growth-capitalism-species-humanity",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T13:00:13+00:00"
+      },
+      {
         "id": "36bb234129d8",
         "title": "Ex-Barclays boss Jes Staley was trustee of Jeffrey Epstein’s estate until 2015, files say",
         "summary": "Information appears to contradict court testimony by banker in 2025 over nature of ties to convicted sex offenderThe former Barclays boss Jes Staley was named as a trustee of Jeffrey Epstein’s estate until at least May 2015, according to documents that appear to contradict court testimony given by t...",
         "url": "https://www.theguardian.com/business/2026/feb/12/ex-barclays-boss-jes-staley-was-trustee-of-jeffrey-epstein-estate-until-2015-files-say",
         "source": "Business | The Guardian",
         "published": "2026-02-12T12:57:48+00:00"
-      },
-      {
-        "id": "aacee4a7ed7c",
-        "title": "Jim Ratcliffe apologises for ‘choice of language’ after saying immigrants were ‘colonising’ UK",
-        "summary": "Manchester United co-owner, who lives in Monaco, responds to backlash over comments labelled ‘offensive and wrong’ by Keir StarmerUK politics live – latest updatesThe Monaco-based billionaire Jim Ratcliffe has said he is sorry that his “choice of language has offended some people in the UK and Europ...",
-        "url": "https://www.theguardian.com/business/2026/feb/12/jim-ratcliffe-accused-hypocrisy-uk-colonised-immigrants",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T12:43:27+00:00"
-      },
-      {
-        "id": "aefef5ae7dcd",
-        "title": "We let Chrome's Auto Browse agent surf the web for us—here's what happened",
-        "summary": "Auto Browse is capable of some impressive things, but it can also crash and burn spectacularly.",
-        "url": "https://arstechnica.com/google/2026/02/tested-how-chromes-auto-browse-agent-handles-common-web-tasks/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-12T12:00:14+00:00"
-      },
-      {
-        "id": "4007744eccef",
-        "title": "‘Another way to gamble money’: booming prediction markets prompt confusion and concern",
-        "summary": "Polymarket and Kalshi are less regulated than betting sites, but users can win or lose large sums on the platformsYadin Eldar, 21, has been betting on prediction markets since 2019. His friends think he’s “crazy”, he said. But the craze surrounding these platforms is rapidly gathering steam.Users ca...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/12/prediction-markets-polymarket-kalshi-online-gambling",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T12:00:13+00:00"
-      },
-      {
-        "id": "888d522eb8ef",
-        "title": "Why is the Washington Post cratering so spectacularly? | Margaret Sullivan",
-        "summary": "To understand the change in Washington Post’s fortunes, it is worth comparing its demise to the New York Times’s trajectoryNot so long ago – it’s been less than a decade – the New York Times and the Washington Post were almost neck and neck in the race for readers, reputation and scoops. The Times w...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/12/washington-post-fires-staff",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T11:00:13+00:00"
-      },
-      {
-        "id": "710cb9142da6",
-        "title": "'The UK has been colonised by immigrants,' says Man United co-owner Jim Ratcliffe – video",
-        "summary": "In an interview with Sky News, Britain’s seventh-richest man, Jim Ratcliffe, who moved to tax-free Monaco in 2020, took aim at people receiving state support and immigrants.'You can’t afford … you can’t have an economy with 9 million people on benefits and huge levels of immigrants coming in,' he sa...",
-        "url": "https://www.theguardian.com/business/video/2026/feb/12/man-united-co-owner-jim-ratcliffe-uk-immigrants-video",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T10:58:10+00:00"
-      },
-      {
-        "id": "b6e5496c13ef",
-        "title": "Families falling apart because of UK’s ‘broken’ paternity leave, study suggests",
-        "summary": "About 39% of separated parents say not sharing caring responsibilities contributed to breakdown of relationshipUK politics live – latest updatesMore than one in three separated parents believe the UK’s “pitiful” paternity leave played a part in their breakup, research has suggested.The campaign grou...",
-        "url": "https://www.theguardian.com/money/2026/feb/12/families-uk-broken-paternity-leave-study",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T10:44:19+00:00"
-      },
-      {
-        "id": "ec2ef0c414d5",
-        "title": "Here’s a key task for the new boss at the BBC: solve the mystery of all the disappearing women | Anne McElvoy",
-        "summary": "A report detailing how the careers of female presenters are curtailed should be a clarion call. The problem has endured for too longAs the BBC closes in on a new director general, the possibility again arises that it could be a woman. The talk is of the former BBC One controller Jay Hunt, the former...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/12/bbc-women-female-presenters",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T10:41:40+00:00"
-      },
-      {
-        "id": "769f5818a77f",
-        "title": "Inside Will Lewis’s tumultuous two years as publisher of the Washington Post",
-        "summary": "Before the Post’s sweeping layoffs and Lewis’s abrupt resignation, his tenure was marked by controversy and clashes with staffStanding on the seventh floor in the center of the Washington Post’s open newsroom on the morning of 3 June 2024, publisher Will Lewis decided to deliver some tough love to a...",
-        "url": "https://www.theguardian.com/media/2026/feb/12/will-lewis-washington-post-publisher",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T10:00:39+00:00"
-      },
-      {
-        "id": "c62e6e78431d",
-        "title": "Schroders agrees £9.9bn takeover by US investor, ending 200 years of family ownership",
-        "summary": "British asset management group’s deal with Nuveen will create one of world’s biggest fund managersSchroders has agreed a £9.9bn takeover by a US investor, ending two centuries of family ownership of the historic British asset management group.Chicago-based Nuveen will buy the City firm, it said on T...",
-        "url": "https://www.theguardian.com/business/2026/feb/12/schroders-takeover-us-investor-end-200-years-family-ownership-asset-management",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T09:39:25+00:00"
-      },
-      {
-        "id": "260f977d93b7",
-        "title": "UK economy limps along at 0.1% growth – but there are reasons for optimism in 2026",
-        "summary": "Consumers and businesses are not yet taking the hint despite six interest rate cutsUK economy grows by only 0.1% amid falling business investmentBusiness live – latest updatesRachel Reeves has suggested 2026 is the year Labour can start to deliver on its economic promises; but 0.1% GDP growth in the...",
-        "url": "https://www.theguardian.com/business/2026/feb/12/uk-economy-gdp-reasons-for-optimism-analysis",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T09:14:00+00:00"
-      },
-      {
-        "id": "aa8bb2a3a937",
-        "title": "Economics has failed on the climate crisis. This complexity scientist has a mind-blowing plan to fix that",
-        "summary": "Doyne Farmer says a super-simulator of the global economy would accelerate the transition to a green, clean worldIt’s a mind-blowing idea: an economic model of the world in which every company is individually represented, making realistic decisions that change as the economy changes. From this aston...",
-        "url": "https://www.theguardian.com/environment/2026/feb/12/economics-climate-crisis-complexity-scientist-plan",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T08:00:43+00:00"
-      },
-      {
-        "id": "9955d460f4a6",
-        "title": "Behold the incredible shrinking Starmer: the PM who promises more while giving less  | Aditya Chakrabortty",
-        "summary": "It is not just this doomed government but the Labour party itself that is disappearing before our very eyesWhen he does go, what will the political death certificate give as the true cause of Keir Starmer’s demise? It won’t be the Peter Mandelson scandal, the policy U-turns or the bleak nights at pr...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/12/keir-starmer-prime-minister-government-labour-party",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T06:00:43+00:00"
-      },
-      {
-        "id": "95c791e46cdd",
-        "title": "Russia attempted to ‘fully block’ WhatsApp, Meta-owned company says",
-        "summary": "Move is a ‘backwards step’, company spokesperson says, amid concerns Kremlin is seeking more state control via messaging apps such as MaxRussia has attempted to “fully block” WhatsApp in an attempt to push users towards its own state-sponsored communications app, Max, a spokesperson for the Meta-own...",
-        "url": "https://www.theguardian.com/world/2026/feb/12/russia-attempt-block-whatsapp-meta-says",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T05:49:21+00:00"
-      },
-      {
-        "id": "78a076b31a65",
-        "title": "What bots talk about when they think humans aren’t listening – podcast",
-        "summary": "In late January a new social media site took a certain corner of the internet by storm. Moltbook was conceived as a space where AI assistants could let off steam, chat and compare notes on their bosses, but it quickly became the focus of breathless claims that the singularity had arrived as the bots...",
-        "url": "https://www.theguardian.com/science/audio/2026/feb/12/what-bots-talk-about-when-they-think-humans-arent-listening-podcast",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T05:00:40+00:00"
-      },
-      {
-        "id": "77aec863e551",
-        "title": "Salesforce workers outraged after CEO makes joke about ICE watching them",
-        "summary": "Marc Benioff’s remarks criticized as employees were reportedly planning to urge him to cancel business with agencyMarc Benioff, the Salesforce CEO and co-founder, is facing growing criticism over a joke he made about US Immigration and Customs Enforcement (ICE) monitoring international employees dur...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/11/salesforce-marc-benioff-ice-joke-employees",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T03:03:02+00:00"
-      },
-      {
-        "id": "410141e1d7bc",
-        "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
-        "summary": "SpaceX's crew missions will now launch from Cape Canaveral Space Force Station.",
-        "url": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-12T02:23:50+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "e8b20f65d3e2",
+        "title": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity",
+        "summary": "In an interview with WIRED, Greg Brockman says his political donations support OpenAI's mission—even if some employees at the company disagree.",
+        "url": "https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/",
+        "source": "Business Latest",
+        "published": "2026-02-12T19:00:00+00:00"
+      },
+      {
+        "id": "9abe9267f322",
+        "title": "Gemini 3 Deep Think",
+        "summary": "Gemini 3 Deep Think\nNew from Google. They say it's \"built to push the frontier of intelligence and solve modern challenges across science, research, and engineering\".\nIt drew me a really good SVG of a pelican riding a bicycle! I think this is the best one I've seen so far - here's my previous collec...",
+        "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-12T18:12:17+00:00"
+      },
+      {
+        "id": "e29771b0d43d",
+        "title": "Share values of property services firms tumble over fears of AI disruption",
+        "summary": "But, after second day of Wall Street falls, analysts say sell-off ‘may overstate AI’s immediate risk to complex deal-making’Shares in commercial property services companies have tumbled, in the latest sell-off driven by fears over disruption from artificial intelligence.After steep declines on Wall ...",
+        "url": "https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-12T18:01:00+00:00"
+      },
+      {
+        "id": "bc0c8463bf3f",
+        "title": "An AI Agent Published a Hit Piece on Me",
+        "summary": "An AI Agent Published a Hit Piece on Me\nScott Shambaugh helps maintain the excellent and venerable matplotlib Python charting library, including taking on the thankless task of triaging and reviewing incoming pull requests.\nA GitHub account called @crabby-rathbun opened PR 31132 the other day in res...",
+        "url": "https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-12T17:45:05+00:00"
+      },
+      {
+        "id": "6f46bf7d6e48",
+        "title": "New, free TechAudioTools lets you get serious with Unreal’s MetaSounds",
+        "summary": "MetaSounds is a powerful platform for sound, synthesis, and procedural audio and music. And the price is right (free). But in the past, it had some gaps in out-of-the-box functionality. Epic has quietly released TechAudioTools Content, a bunch of free editor tools and widgets that anyone interested ...",
+        "url": "https://cdm.link/free-techaudiotools-unreal-engine/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-12T17:08:42+00:00"
+      },
+      {
+        "id": "a395109c5e04",
+        "title": "Supervisor, not overseer",
+        "summary": "In my post about my Showboat project I used the term \"overseer\" to refer to the person who manages a coding agent. It turns out that's a term tied to slavery and plantation management. So that's gross! I've edited that post to use \"supervisor\" instead, and I'll be using that going forward.\n\n    Tags...",
+        "url": "https://simonwillison.net/2026/Feb/12/supervisor/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-12T16:47:04+00:00"
+      },
+      {
+        "id": "e795181f01f6",
+        "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+        "summary": "Gemini 3 Deep Think logo",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+        "source": "Google DeepMind",
+        "published": "2026-02-12T16:13:00+00:00"
+      },
+      {
+        "id": "99b4cc5503e4",
+        "title": "修屋、勞動、重建身心──楠西震災一年，百果之鄉的絕處逢春記",
+        "summary": "「從前大家埋頭拚生計，經過這一場地震，才意識到彼此連結、互相扶持，社區才有未來。」",
+        "url": "https://www.twreporter.org/a/the-year-of-healing-tainan-chiayi-earthquake-nansi-survivors",
+        "source": "報導者",
+        "published": "2026-02-12T16:00:00+00:00"
+      },
+      {
+        "id": "973388dc900c",
+        "title": "年關將近，仍待蓋回厝瓦、補上人生破洞的丹娜絲災民心內話",
+        "summary": "丹娜絲重創嘉南，許多老屋毀損甚至塌陷。有人無力修復卻也只能「走一步算一步」；有人為重建祖厝二度就業當保全；有人想辦法為更弱勢的家戶找資源⋯⋯記者在年關前再次走訪災區，記下災民修復家園的艱難與互助。",
+        "url": "https://www.twreporter.org/a/the-year-of-healing-typhoon-danas-tainan-villagers",
+        "source": "報導者",
+        "published": "2026-02-12T16:00:00+00:00"
+      },
+      {
+        "id": "2eb62187117b",
+        "title": "Elon Musk posted about race almost every day in January",
+        "summary": "Many social media posts by Tesla CEO on his platform are indiscernible from those of white supremacists, say expertsElon Musk’s longtime fixation on a white racial majority is intensifying. The richest man in the world posted about how the white race was under threat, made allusions to race science ...",
+        "url": "https://www.theguardian.com/technology/2026/feb/12/elon-musk-posts-january-white-supremacists",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-12T14:24:58+00:00"
+      },
       {
         "id": "76198b5eb226",
         "title": "What is Pokopia? Inside the calming Pokémon game that ditches battles for gardening",
@@ -263,6 +343,14 @@
         "url": "https://technews.tw/2026/02/12/meta-will-let-users-tweak-threads-algorithms-as-long-as-they-ask-nicely/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-02-12T02:20:45+00:00"
+      },
+      {
+        "id": "e7fc78fd970f",
+        "title": "Claude Enterprise, now available self-serve",
+        "summary": "Claude Enterprise, now available self-serve",
+        "url": "https://claude.com/blog/self-serve-enterprise",
+        "source": "Claude Blog",
+        "published": "2026-02-12T00:00:00+00:00"
       },
       {
         "id": "8c989a80c795",
@@ -327,97 +415,17 @@
         "url": "https://www.wired.com/story/jeffrey-epstein-advised-an-elon-musk-associate-on-taking-tesla-private/",
         "source": "Business Latest",
         "published": "2026-02-11T18:11:45+00:00"
-      },
-      {
-        "id": "d436d8766886",
-        "title": "cysqlite - a new sqlite driver",
-        "summary": "cysqlite - a new sqlite driver\nCharles Leifer has been maintaining pysqlite3 - a fork of the Python standard library's sqlite3 module that makes it much easier to run upgraded SQLite versions - since 2018.\nHe's been working on a ground-up Cython rewrite called cysqlite for almost as long, but it's f...",
-        "url": "https://simonwillison.net/2026/Feb/11/cysqlite/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-11T17:34:40+00:00"
-      },
-      {
-        "id": "123914ced111",
-        "title": "Man behind satirical Crewkerne Gazette AI videos was jailed in UK for hate crimes",
-        "summary": "Joshua Bonehill-Paine revealed as owner of X account known for videos depicting politicians such as Keir StarmerThe person behind an anonymous social media account that posts AI videos of UK politicians has been identified as a man who has spent time in prison for multiple hate crimes directed towar...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/11/crewkerne-gazette-joshua-bonehill-paine-ai-videos-hate-crimes",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-11T17:17:35+00:00"
-      },
-      {
-        "id": "322e3008c6cc",
-        "title": "Reanimal review – you will never turn your back on a pelican again as long as you live",
-        "summary": "PC, PlayStation 5, Xbox, Switch 2; Tarsier StudiosChildhood terrors come to wretched life in a grim fairytale of a puzzle-platformer that’s as beautifully macabre as it is hard to put down“I thought you were dead,” are the first words you’ll hear from the child protagonists of this horror puzzle-pla...",
-        "url": "https://www.theguardian.com/games/2026/feb/11/reanimal-review",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-11T16:00:15+00:00"
-      },
-      {
-        "id": "29cc4f953348",
-        "title": "許仁碩／讀《「台日友好」異論》：我們不是朋友嗎？",
-        "summary": "如果我們只在意對方嘴巴上挺不挺自己，並不了解對方到底是什麼背景，或是不在意對方的主張與行動，會對其所在地的人們造成什麼樣的影響，那真的是友情嗎？作者在書中犀利地分析，這樣的矛盾來自於台日雙方的「慾望」。",
-        "url": "https://www.twreporter.org/a/bookreview-rethinking-taiwan-japan-friendship",
-        "source": "報導者",
-        "published": "2026-02-11T16:00:00+00:00"
-      },
-      {
-        "id": "0181c581931e",
-        "title": "OHYUNG’s IOWA on Trans Music Archive is as powerful as a glacier",
-        "summary": "Take a moment for the arresting stillness of \"all dolls go to heaven.\" IOWA, the full-length opus by film composer Lia Ouyang Rusli (\"OHYUNG\"), hits you deep in the gut. The first 2026 release by must-follow label Trans Music Archive is both an essential meditation and a call to arms.\nThe post OHYUN...",
-        "url": "https://cdm.link/ohyung-iowa/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-11T12:55:17+00:00"
-      },
-      {
-        "id": "f93cb9b7cc0d",
-        "title": "Is surprise box-office hit Iron Lung the future of ‘video game films’?",
-        "summary": "The YouTube gaming star’s weird and divisive adaptation of his obscure horror film is a game within a film about a game – and hints at new directions for storytelling• Don’t get Pushing Buttons delivered to your inbox? Sign up hereSomething weird struck me early on while watching the movie Iron Lung...",
-        "url": "https://www.theguardian.com/games/2026/feb/11/pushing-buttons-hit-film-iron-lung-youtube-markiplier",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-11T12:30:05+00:00"
-      },
-      {
-        "id": "472084701199",
-        "title": "AI Industry Rivals Are Teaming Up on a Startup Accelerator",
-        "summary": "OpenAI, Anthropic, Google, and a host of other major tech companies have found common ground in F/ai, a new startup accelerator based out of Paris.",
-        "url": "https://www.wired.com/story/ai-industry-rivals-are-teaming-up-on-a-startup-accelerator/",
-        "source": "Business Latest",
-        "published": "2026-02-11T10:55:24+00:00"
-      },
-      {
-        "id": "f7a6d758bf89",
-        "title": "Astronomers Are Closing In on the Kuiper Belt’s Secrets",
-        "summary": "As next-generation telescopes map this outer frontier, astronomers are bracing for discoveries that could reveal hidden planets, strange structures, and clues to the solar system’s chaotic youth.",
-        "url": "https://www.wired.com/story/astronomers-are-closing-in-on-the-kuiper-belts-secrets/",
-        "source": "Science Latest",
-        "published": "2026-02-11T10:00:00+00:00"
-      },
-      {
-        "id": "99d4ecc6f71f",
-        "title": "社群平台被控害孩童上癮，Instagram 執行長傳喚作證",
-        "summary": "社群平台 Instagram 執行長莫瑟里（Adam Mosseri）明天將應洛杉磯法院傳喚作證。此案原告律師 [&#8230;]",
-        "url": "https://technews.tw/2026/02/11/instagram-boss-to-testify-at-social-media-addiction-trial/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-02-11T07:00:51+00:00"
-      },
-      {
-        "id": "3b30346c9f23",
-        "title": "The big AI job swap: why white-collar workers are ditching their careers",
-        "summary": "As AI job losses rise in the professional sector, many are switching to more traditional trades. But how do they feel about accepting lower pay – and, in some cases, giving up their vocation?California-based Jacqueline Bowman had been dead set on becoming a writer since she was a child. At 14 she go...",
-        "url": "https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-11T05:00:08+00:00"
-      },
-      {
-        "id": "af38e6b23c88",
-        "title": "Meta 推出全新 AI 功能，讓 Facebook 個人資料照片變身動態 GIF",
-        "summary": "Meta 最近在 Facebook 上推出一項全新的 AI 功能，讓使用者能將靜態的個人資料照片轉換為生動的動 [&#8230;]",
-        "url": "https://technews.tw/2026/02/11/meta-launches-new-ai-features/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-02-11T03:00:43+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "78751a1c9871",
+        "title": "科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？",
+        "summary": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周春节假期，周刊休息。）...",
+        "url": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html",
+        "source": "阮一峰的网络日志",
+        "published": "2026-02-12T18:34:10+00:00"
+      },
       {
         "id": "869766a67df1",
         "title": "CityGML轉KMZ格式",
@@ -587,12 +595,20 @@
         "published": "2026-01-30T19:26:48+00:00"
       },
       {
-        "id": "4c700af1c688",
-        "title": "科技爱好者周刊（第 383 期）：你是第几级 AI 编程",
-        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-01-30T00:10:32+00:00"
+        "id": "3752ead9da29",
+        "title": "2025 in numbers",
+        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2347",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T16:19:39+00:00"
+      },
+      {
+        "id": "d32f0a5eed31",
+        "title": "Freesound Day video recordings available online",
+        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2352",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T11:10:55+00:00"
       },
       {
         "id": "d3b00a3f761b",
@@ -601,22 +617,6 @@
         "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2591899?af=R",
         "source": "tandf: Journal of Mathematics and Music: Table of Contents",
         "published": "2026-01-29T07:06:01+00:00"
-      },
-      {
-        "id": "78e005b85aae",
-        "title": "Min-On Music Journey No. 102: Republic of Mozambique",
-        "summary": "Welcome to Min-On’s Music Journey! Today we invite you  [&#8230;]",
-        "url": "https://www.min-on.org/zh-hant/14668/min-on-music-journey-no-102-republic-of-mozambique/",
-        "source": "Chinese Traditional – Min-On Website",
-        "published": "2026-01-28T07:27:40+00:00"
-      },
-      {
-        "id": "fac659800cf0",
-        "title": "Two-chord shuttles on the pod",
-        "summary": "After talking about them in aural skills class, I figured it was time to do an episode about them. This one includes some compositional ideas of my own in addition to all the examples from the pop canon. The two-chord shuttle by Dr. Ethan Hein A foundational building block of funk Read on Substack",
-        "url": "https://www.ethanhein.com/wp/2026/two-chord-shuttles-on-the-pod/",
-        "source": "The Ethan Hein Blog",
-        "published": "2026-01-27T23:43:21+00:00"
       }
     ]
   }
