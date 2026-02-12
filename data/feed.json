@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-02-11T23:04:56.898722+00:00",
+  "updated_at": "2026-02-12T05:21:11.711990+00:00",
   "trending": [
-    "joao fonseca",
-    "cross season 2",
-    "abyss codes",
-    "nick castellanos",
-    "pistons vs raptors",
-    "blake lively",
-    "snowfall weather forecast",
-    "tj oshie",
-    "diablo 2",
-    "kevin patullo"
+    "golden state warriors",
+    "lincoln lawyer season 5",
+    "nick kroll",
+    "gui santos",
+    "colorado vs texas tech",
+    "cardi b tour",
+    "benjamin netanyahu",
+    "de'anthony melton",
+    "cincinnati vs kansas state",
+    "sec basketball standings"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "410141e1d7bc",
+        "title": "SpaceX takes down Dragon crew arm, giving Starship a leg up in Florida",
+        "summary": "SpaceX's crew missions will now launch from Cape Canaveral Space Force Station.",
+        "url": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-12T02:23:50+00:00"
+      },
+      {
+        "id": "739f93397a76",
+        "title": "Trump orders the military to make agreements with coal power plants",
+        "summary": "The administration's \"reasoning\" for doing so has little connection to reality.",
+        "url": "https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-12T00:02:53+00:00"
+      },
+      {
+        "id": "e6d0da8f1d72",
+        "title": "Housing market in England and Wales ‘showing tentative signs of recovery’",
+        "summary": "Rics surveyors report inquiries from new buyers, agreed sales and house prices were less negative in JanuaryThere are “tentative signs” that the housing market in England and Wales is recovering from a months-long slowdown after uncertainty around the autumn budget and economic pressures, estate age...",
+        "url": "https://www.theguardian.com/business/2026/feb/12/housing-market-in-england-wales-rics-sales-house-prices",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T00:01:32+00:00"
+      },
+      {
+        "id": "ad3c88514715",
+        "title": "El Paso airport closed after military used new anti-drone laser to zap party balloon",
+        "summary": "\"I want to be very, very clear that this should’ve never happened.\"",
+        "url": "https://arstechnica.com/space/2026/02/el-paso-airport-closed-after-military-used-new-anti-drone-laser-to-zap-party-balloon/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-11T23:50:01+00:00"
+      },
+      {
+        "id": "6778a9c4fc1b",
+        "title": "xAI lays out interplanetary ambitions in public all-hands",
+        "summary": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
+        "url": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
+        "source": "TechCrunch",
+        "published": "2026-02-11T23:29:08+00:00"
+      },
       {
         "id": "e7dcf295fc8d",
         "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
@@ -40,7 +80,7 @@
       },
       {
         "id": "986418e2d5bb",
-        "title": "OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development",
+        "title": "OpenAI disbands mission alignment team",
         "summary": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.",
         "url": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
         "source": "TechCrunch",
@@ -173,53 +213,29 @@
         "url": "https://arstechnica.com/space/2026/02/china-showcases-new-moon-ship-and-reusable-rocket-in-one-extraordinary-test/",
         "source": "Ars Technica - All content",
         "published": "2026-02-11T19:35:41+00:00"
-      },
-      {
-        "id": "8e63a5436117",
-        "title": "Amazon’s new eero Signal keeps you connected to the internet when outages occur",
-        "summary": "A new device from eero will keep you online even if your ISP goes down.",
-        "url": "https://techcrunch.com/2026/02/11/amazons-new-eero-signal-keeps-you-connected-to-the-internet-when-outages-occur/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T19:30:14+00:00"
-      },
-      {
-        "id": "66c2c2727bb0",
-        "title": "The search is on: 2026 Joseph C. Belden Innovation Award nominations are open",
-        "summary": "Nominations for the 2026 Joseph C. Belden Innovation Award are open, inviting SMBs with groundbreaking innovation a chance to win scaling opportunities. Last day to apply is February 13.",
-        "url": "https://techcrunch.com/2026/02/11/the-search-is-on-2026-joseph-c-belden-innovation-award-nominations-are-open/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T19:30:00+00:00"
-      },
-      {
-        "id": "6a3d3e099652",
-        "title": "Activist investor Ancora publicly opposes the WBD-Netflix deal",
-        "summary": "An investment group is trying to sway Netflix shareholders to reject the WBD deal in favor of Paramount.",
-        "url": "https://techcrunch.com/2026/02/11/activist-investor-ancora-publicly-opposes-the-wbd-netflix-deal/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T19:20:50+00:00"
-      },
-      {
-        "id": "4fb5c3d381e5",
-        "title": "NUS urges ‘loan shark’ Reeves to reverse changes to student debt repayment",
-        "summary": "Policy announced in autumn budget freezes threshold at which students start repaying university loansProtesters dressed as sharks and in Rachel Reeves face masks gathered outside the Houses of Parliament on Wednesday to express their anger over changes to their student loans and their ballooning deb...",
-        "url": "https://www.theguardian.com/money/2026/feb/11/nus-urges-rachel-reeves-to-reverse-changes-to-student-debt-repayment",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T19:20:12+00:00"
-      },
-      {
-        "id": "b016c745e105",
-        "title": "Wake up Labour MPs: the price of electricity is a crisis for industry and growth | Nils Pratley",
-        "summary": "Centrica boss’s 2030 prediction is not controversial, but government’s strategy hardly adds up to one to prove him wrong The price of electricity is less entertaining than a bout of leadership plotting but Labour MPs, if they lifted their gaze, could note that the boss of one of our largest energy c...",
-        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/11/wake-up-labour-mps-price-of-electricity-is-crisis-for-industry-and-growth",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T18:58:17+00:00"
       }
     ],
     "破(day)": [
       {
+        "id": "bb4eeb5a20f2",
+        "title": "Meta 申請專利獲准，用 AI 模擬已故用戶「繼續發文」",
+        "summary": "Meta 最近獲得一項專利，內容描述一套利用人工智慧（AI）來模擬已故或缺席使用者社群媒體活動的系統。這項專利 [&#8230;]",
+        "url": "https://technews.tw/2026/02/12/death-isnt-the-end-meta-patented-an-ai-that-lets-you-keep-posting-from-beyond-the-grave/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-12T02:40:16+00:00"
+      },
+      {
+        "id": "6571c8b1533b",
+        "title": "Meta 推「Dear Algo」，一句話客製 Threads 動態三天",
+        "summary": "Meta 最近推出了一項名為「Dear Algo」的新功能，讓 Threads 用戶能暫時自定義他們的動態消息 [&#8230;]",
+        "url": "https://technews.tw/2026/02/12/meta-will-let-users-tweak-threads-algorithms-as-long-as-they-ask-nicely/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-12T02:20:45+00:00"
+      },
+      {
         "id": "05b590528fc2",
         "title": "Study of Buddhist Monks Finds Meditation Alters Brain Activity",
-        "summary": "Meditation isn’t thinking about nothing. New research reinforces that it's a mind-altering, dynamic state that promotes focus, learning, and well-being.",
+        "summary": "Meditation isn’t thinking about nothing. New research reinforces that it’s a mind-altering, dynamic state that promotes focus, learning, and well-being.",
         "url": "https://www.wired.com/story/study-of-buddhist-monks-finds-meditation-alters-brain-activity/",
         "source": "Science Latest",
         "published": "2026-02-11T22:35:39+00:00"
@@ -399,72 +415,24 @@
         "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-10T17:45:29+00:00"
-      },
-      {
-        "id": "bfa8e36b147a",
-        "title": "Cowboys, lassos, and nudity: AI startups turn to stunts for attention in a crowded market",
-        "summary": "Businesses are using theatrical stunts not for shock alone but to create viral content and drive sales conversations onlineWhen Lunos, an AI startup in New York City, was gearing up for launch, its founder and chief executive, Duncan Barrigan, and his team wanted to make a splash. So they shelled ou...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/10/ai-business-startups-stunts",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-10T17:00:53+00:00"
-      },
-      {
-        "id": "700bdeb5e424",
-        "title": "唱進／噤中國",
-        "summary": "本篇報導漫畫改編自受訪者親身經驗、記者訪談內容與採訪見聞：走進中國市場的台灣樂團與創作歌手，正如何在政治壓力下自保？深愛他們的樂迷，又該以什麼方法理解？",
-        "url": "https://www.twreporter.org/a/echoing-red-chorus-when-taiwan-indie-acts-head-for-china-comic",
-        "source": "報導者",
-        "published": "2026-02-10T16:00:00+00:00"
       }
     ],
     "序(month)": [
       {
-        "id": "03c5c94fca4d",
-        "title": "新聞媒體的開源地圖解決方案 這篇教學文章是由地圖設計師、製圖師和視覺新聞工作者 Scott Reinhard 撰寫，他曾與國際新聞社 Reuters（路透社） 合作，為新聞故事設計互動地圖。文章分享了他如何使用開源工具建立一個可重複使用的網...",
-        "summary": "新聞媒體的開源地圖解決方案 這篇教學文章是由地圖設計師、製圖師和視覺新聞工作者 Scott Reinhard 撰寫，他曾與國際新聞社 Reuters（路透社） 合作，為新聞故事設計互動地圖。文章分享了他如何使用開源工具建立一個可重複使用的網路地圖系統，以支援自動化資料與新聞報導情境。 作者製作這個教學網站的目的，是展示從設計、資料整理到切圖與樣式設定的整體流程，並示範如何用 開源方案取代傳統訂閱式地圖服務。透過開源工具，可以降低成本、提高控制權，而且更容易客製化地圖外觀與行為，適合新聞團隊的工作流程。 在技術上，他主要採用了以下開源元件： • Protomaps 作為互動網路地圖基底，搭配 P...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid02vynXtioUuCjn67Nqk7ATycMg5JhbqojS2C6UdV4BsFnmTEXLuGh6jrGLTs2ByCfBl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-11T14:06:30+00:00"
+        "id": "869766a67df1",
+        "title": "CityGML轉KMZ格式",
+        "summary": "不論是從日本「PLATEAU」計畫下載免費的 3D 城市模型，或是透過內政部國土測繪中心「多維度國家空間資訊 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/citygml2kmz/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-12T02:40:02+00:00"
       },
       {
-        "id": "b1ce671dca32",
-        "title": "Esri 創辦人 Jack Dangermond 提出建造「行星級神經系統（planetary nervous system）」的願景，想像未來地球會擁有一套自己的神經系統，能透過遍布全球的感測器與資料網路，讓「數位孿生（Digital T...",
-        "summary": "Esri 創辦人 Jack Dangermond 提出建造「行星級神經系統（planetary nervous system）」的願景，想像未來地球會擁有一套自己的神經系統，能透過遍布全球的感測器與資料網路，讓「數位孿生（Digital Twins）」不再只是某個時間點的靜態模型，而是能即時更新、持續成長的「活地圖」。同時，他認為地理資訊產業下一次真正的大突破，關鍵不在於開發更多新軟體，而是人們能否改變觀念，願意彼此分享資料，攜手解決氣候變遷、災害防治與永續發展等全球性問題。 ArcNews Winter 2026 完整報導：",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0BKCngqkwbxCpUS2fJK2RDiojuR1M8SJY3pFoRCzx4JPCvMf6F6pYSQNpFPD3w2Vfl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-11T11:38:45+00:00"
-      },
-      {
-        "id": "23f097146549",
-        "title": "【齊柏林衛星首波回傳影像，空拍對照驚喜公開！】 這份春節前的賀禮，讓所有太空迷都沸騰！ 去年底升空的台灣自製衛星—#齊柏林衛星，在經過嚴密的驗證與上百次測試後，第一波取像成果今天正式亮相！ 看見涵蓋新竹科學園區、台南安平、高雄興達港的高解析...",
-        "summary": "【齊柏林衛星首波回傳影像，空拍對照驚喜公開！】 這份春節前的賀禮，讓所有太空迷都沸騰！ 去年底升空的台灣自製衛星—#齊柏林衛星，在經過嚴密的驗證與上百次測試後，第一波取像成果今天正式亮相！ 看見涵蓋新竹科學園區、台南安平、高雄興達港的高解析影像，我們心中充滿難以言喻的感動。衛星影像中清晰可見國家同步輻射研究中心、億載金城、興達電廠，在與齊導同地點的空拍對照後，台灣十多年來的真實變化，一覽無遺。 齊柏林衛星不僅達成解析度 1 米的驚人規格，在影像優化後更提升至 0.7 米，從直升機的高空，躍升到深邃的太空，讓記錄台灣地景、甚至全世界的重任，持續發光。 我們期待與 國家太空中心 TASA  展開更...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid02Akf99DwwWukzHtBGCLqZuioq9L4dbz98sG6GSKRiMYtbTFrPRN7VTgCeDGarL2GXl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-11T10:26:13+00:00"
-      },
-      {
-        "id": "b81a836f2ea3",
-        "title": "國家太空中心（TASA）展示了「福衛八號 - 齊柏林衛星（FS-8A)」第一波影像成果，確認原始影像地面解析度（Ground Sample Distance, GSD）符合1米規格。 詳細內容請參閱 TASA 新聞稿： https://ww...",
-        "summary": "國家太空中心（TASA）展示了「福衛八號 - 齊柏林衛星（FS-8A)」第一波影像成果，確認原始影像地面解析度（Ground Sample Distance, GSD）符合1米規格。 詳細內容請參閱 TASA 新聞稿： https://www.tasa.org.tw/…/6246e657-4cc8-477c-a8ba-dcac7df2f…",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0y3oqdSWrmoWnaP1VdTV6SGAuH1BRE7eTGBuypN1XScENxZSg7ikE3jiA6EDaS9gLl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-11T05:22:02+00:00"
-      },
-      {
-        "id": "d980781cca51",
-        "title": "本專題中心很榮幸邀請到英國知名航空歷史作家包柯克（Chris Pocock）先生蒞臨演講。Chris Pocock 長期致力於航空史與高空偵察飛行的研究，著有多本廣受好評且深具影響力的著作，包括《Dragon Lady: The Histo...",
-        "summary": "本專題中心很榮幸邀請到英國知名航空歷史作家包柯克（Chris Pocock）先生蒞臨演講。Chris Pocock 長期致力於航空史與高空偵察飛行的研究，著有多本廣受好評且深具影響力的著作，包括《Dragon Lady: The History of the U-2 Spyplane》、《The Black Bats: CIA Spy Flights Over China from Taiwan, 1951–1969》以及《50 Years of the U-2》等重要作品。此次演講，他以「Black Cat Squadron（黑貓中隊始末）」為題，深入分享這段結合航空科技、冷戰歷史與臺灣集體...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0hLfhTM83YZup3gEqcxFJWZPbDUSfTNrXigdmHauinAseu91QSRDLQjRL5K7uzbG9l",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-11T00:57:39+00:00"
-      },
-      {
-        "id": "118387bc4d1d",
-        "title": "運用 Lidar 建立智慧鐵路巡查作業#光達 #LiDER #鐵道 #軌道 中華顧問這次在瑞芳到牡丹的 10 公里路段，開啟了超酷的「點雲」黑科技實驗！ 他們在維修車上安裝了「行動式光達」（Mobile LiDAR），就像幫火車裝上超強掃描...",
-        "summary": "運用 Lidar 建立智慧鐵路巡查作業#光達 #LiDER #鐵道 #軌道 中華顧問這次在瑞芳到牡丹的 10 公里路段，開啟了超酷的「點雲」黑科技實驗！ 他們在維修車上安裝了「行動式光達」（Mobile LiDAR），就像幫火車裝上超強掃描儀，每秒發射 360 萬個雷射點，捕捉周遭環境的所有細節。 透過這數十億個「光點」組成的 3D 模型，工程師不必再辛苦地人工巡查。 系統會自動計算軌道路線，甚至能一秒抓出哪些樹木長歪了、或是哪些建物太靠近軌道。為鐵路養護提供精確的數據支撐，朝向「智慧鐵路巡查」的目標邁進。 這種「智慧鐵路巡查」不僅效率翻倍，還能更精準地確保行車安全。 科技的力量，真的讓鐵道維...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid02NSJk1YSQDBKzU9z9Mwia32AstNVumzTUo9BcNceddmLLrG9mzdDdBJoJToJpSRehl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-10T15:37:52+00:00"
+        "id": "be43eb690411",
+        "title": "智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex",
+        "summary": "一、引言 刚才我看到，智谱新一代的旗舰模型 GLM-5 已经正式发布了。...",
+        "url": "http://www.ruanyifeng.com/blog/2026/02/glm-5.html",
+        "source": "阮一峰的网络日志",
+        "published": "2026-02-12T01:26:13+00:00"
       },
       {
         "id": "2aefc80c4a1a",
@@ -473,102 +441,6 @@
         "url": "https://gis.rchss.sinica.edu.tw/qgis_zh-hant/",
         "source": "中央研究院人社中心地理資訊科學研究專題中心",
         "published": "2026-02-10T14:19:43+00:00"
-      },
-      {
-        "id": "3f691339e7c8",
-        "title": "QGIS 繁體中文翻譯檔下載 QGIS 在臺灣 GIS 社群中已具有相當高的滲透率，憑藉其開源免費、硬體需求低以及豐富的外掛程式資源，長期深受社群喜愛與肯定。然而，作為由志工維護的軟體，QGIS 的繁體中文語系介面品質長期不佳，對於向普羅大...",
-        "summary": "QGIS 繁體中文翻譯檔下載 QGIS 在臺灣 GIS 社群中已具有相當高的滲透率，憑藉其開源免費、硬體需求低以及豐富的外掛程式資源，長期深受社群喜愛與肯定。然而，作為由志工維護的軟體，QGIS 的繁體中文語系介面品質長期不佳，對於向普羅大眾推廣造成了明顯的障礙。由於 QGIS 軟體本身改版頻繁，在功能持續擴充的同時，受限於翻譯人力不足，以及不熟悉簡繁中文差異的翻譯者所產生的錯譯問題，導致介面中英夾雜、繁簡混用、功能名稱不一致等情形層出不窮。 有鑑於此，中央研究院資訊所莊庭瑞副研究員（人社中心 GIS 專題中心合聘）所主持的實驗室，指導 2025 年暑期實習生陳育霖同學，嘗試導入大型語言模型（...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid038FjbFpskJMo5KYrcJmXTKGoi6MawtkMcLiiHqCnHi6WRY8KkS3N7VHewsxcrzKJUl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-10T12:58:54+00:00"
-      },
-      {
-        "id": "2b9b49288219",
-        "title": "這項 GitHub 專案 AI-driven Topographic Map Generation（davidoesch/ai-topographic-maps），結合 Google Gemini 的 NanoBanana 多模態影像生成能...",
-        "summary": "這項 GitHub 專案 AI-driven Topographic Map Generation（davidoesch/ai-topographic-maps），結合 Google Gemini 的 NanoBanana 多模態影像生成能力，透過精心設計的提示文字（prompt）驅動 AI 進行風格轉換，將高解析度航空影像自動轉譯為瑞士製圖局風格（Swiss-style）的等高線地形圖。該專案展示了生成式 AI 在地圖視覺化與地形表現上的潛力，但目前仍屬實驗性質，成果主要用於研究與技術展示，尚不適合直接應用於正式測繪或導航用途。 https://github.com/davidoesch/a...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0dDpqG7WwChwCcG5Jp3qYDWTLRQqYoz2dwCirHC3dcJ6VkkweckijdtK4eZkQmVmbl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-10T03:58:03+00:00"
-      },
-      {
-        "id": "67e7652f5d5f",
-        "title": "OSGeo 20週年快樂！ 開源地理空間基金會（OSGeo）成立於 2006 年，致力於支援與推廣自由且開放原始碼的地理空間軟體與技術。到 2026 年 2 月，OSGeo 慶祝成立 20 週年。最初由一群共享「開放地理空間軟體」願景的開發...",
-        "summary": "OSGeo 20週年快樂！ 開源地理空間基金會（OSGeo）成立於 2006 年，致力於支援與推廣自由且開放原始碼的地理空間軟體與技術。到 2026 年 2 月，OSGeo 慶祝成立 20 週年。最初由一群共享「開放地理空間軟體」願景的開發者和專案組成，OSGeo 已發展成一個全球性的組織，擁有超過 50 個官方專案、遍及全球 30 多個地區分會（Local Chapters）、以及每年舉辦的 FOSS4G 國際社群會議。這些年來，OSGeo 透過提供法律、組織和社群支持，讓開放原始碼地理資訊技術得以永續發展，並促進跨國、跨領域的合作與創新。 https://reurl.cc/mk8eyj",
-        "url": "https://www.facebook.com/asgis/posts/pfbid02wvpuxPuh7zc73GosUwyN7Pzzb42pkoyUxbMxh7mBi8Qoi7MUyPnuhA23AjHsoZqUl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-10T03:34:09+00:00"
-      },
-      {
-        "id": "e6f0bec27baa",
-        "title": "https://osm.kids 是一個以開放街圖（OpenStreetMap）為基礎數據的互動式網路地圖，有別於 Google 地圖強調食衣住行等生活資訊，這個 OSM Kids! 網站則是以兒童有關的 POI 為主，例如：圖書館、書店、...",
-        "summary": "https://osm.kids 是一個以開放街圖（OpenStreetMap）為基礎數據的互動式網路地圖，有別於 Google 地圖強調食衣住行等生活資訊，這個 OSM Kids! 網站則是以兒童有關的 POI 為主，例如：圖書館、書店、遊樂場（溜滑梯）、主題公園、玩具店等的資訊，臺灣本地的資料也很完整，可以提供有育兒的家庭參考。",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0WbBob5hbeHDZsNfVz2g5a5swLbisZaAh5juxuJSLzjcXDZjkqfzwthnjUGJNEcgLl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-10T02:47:02+00:00"
-      },
-      {
-        "id": "7f7630080eab",
-        "title": "開放定向地圖繪製軟體 OpenOrienteering Mapper (OOM) 定向運動（Orienteering）是一項結合體能體力與地圖判讀智慧的運動。參加者需利用大會提供的專用地圖與指北針，在陌生的環境中自行規劃路徑，尋找地圖上標示...",
-        "summary": "開放定向地圖繪製軟體 OpenOrienteering Mapper (OOM) 定向運動（Orienteering）是一項結合體能體力與地圖判讀智慧的運動。參加者需利用大會提供的專用地圖與指北針，在陌生的環境中自行規劃路徑，尋找地圖上標示的數個「檢查點」，並以最短時間完成賽程者為勝。 定向運動所使用的地圖，並不是一般我們熟悉的觀光地圖或道路地圖，而是依照國際定向越野運動總會所制訂的國際定向運動製圖規範（如 ISOM／ISSprOM）繪製的高精度專用地形圖。這類地圖的核心目標是「輔助導航與快速判讀地形」，因此在比例尺、等高線間距、顏色配置，以及各類地物符號上，都有非常嚴格的標準。 例如，森林可...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid02B9GGWhu61ZGxpUB6msEaRP1gLX7zU1wxgoDYRW2s9Y6iJgi3KWBY5BW4pY9K5WTml",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-09T14:31:17+00:00"
-      },
-      {
-        "id": "61cc720221db",
-        "title": "研究論文： 翁與潔、翁世豪(2024) 如何應用GIS繪製校園定向地圖，《大專體育》170期 頁13-23。 摘要 定向地圖是定向越野運動不可或缺的工具，也是定向越野運動發展的關鍵。臺灣目前較缺乏定向地圖繪製技術課程或研習，主要靠繪圖者自學...",
-        "summary": "研究論文： 翁與潔、翁世豪(2024) 如何應用GIS繪製校園定向地圖，《大專體育》170期 頁13-23。 摘要 定向地圖是定向越野運動不可或缺的工具，也是定向越野運動發展的關鍵。臺灣目前較缺乏定向地圖繪製技術課程或研習，主要靠繪圖者自學。本文旨在介紹地理資訊系統 (GIS)軟體之基本概念、學習方向及管道，提供臺灣定向地圖繪製者參考。本文使用GIS 之軟體及工具繪製校園定向地圖，包括：開放街圖 (OpenStreetMap)、開源地理資訊系統 (QGIS) 及無人飛行載具 (UAV) 等取得所需基本圖，再將基本圖匯入開放定向地圖繪製 (OpenOrienteering Mapper, OOM...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0F4XmbgQFNvPwX4AHHrAw1Py1jqNHYhwa5whHrjddpXXZS6qY823dF6LoBykmGR4pl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-09T14:26:35+00:00"
-      },
-      {
-        "id": "9d5240fa248b",
-        "title": "來自 MIT 的研究團隊最新發表一篇與關於紐約市人流數據的研究論文，該研究首度建立了一套涵蓋全市人行道、斑馬線與行人通道的「步行流量模型」，讓研究者能從整體尺度理解市民實際走路的路徑與密度分布。過去都市交通分析大多以車流為主，但行人資料長期...",
-        "summary": "來自 MIT 的研究團隊最新發表一篇與關於紐約市人流數據的研究論文，該研究首度建立了一套涵蓋全市人行道、斑馬線與行人通道的「步行流量模型」，讓研究者能從整體尺度理解市民實際走路的路徑與密度分布。過去都市交通分析大多以車流為主，但行人資料長期缺乏系統性整理；這次 MIT 團隊結合開放街圖資、土地使用、人口資料與實際感測紀錄，推估出不同街段的行人活動強度，補上城市規劃中長久缺失的「步行視角」。 研究顯示，曼哈頓中城依然是行人最密集的區域，但布魯克林、皇后區與布朗克斯等外圍行政區，其實也存在許多高人流熱點，只是過去較少被納入投資與改善優先名單。更關鍵的是，團隊不只看「事故發生數量」，還進一步比較「每...",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0PAF5c7spTZNvX6eRFQcDYgM2TPQaUCff7YRTJL6BjibEjW9BiJittQiHm763fdFRl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-09T10:05:34+00:00"
-      },
-      {
-        "id": "737fc4c2d860",
-        "title": "2026年國科會「AI導入人文社科領域研究推動計畫」第二期計畫啟動說明會 場次一：2026年2月 9 日（一） 10:00 – 12:00 場次二：2026年2月11日（三） 10:00",
-        "summary": "2026年國科會「AI導入人文社科領域研究推動計畫」第二期計畫啟動說明會 場次一：2026年2月 9 日（一） 10:00 – 12:00 場次二：2026年2月11日（三） 10:00 – 12:00 地點：線上會議室 https://www.ai-humanities.tw/activity-tw/2026_startup/",
-        "url": "https://www.facebook.com/asgis/posts/pfbid02qdC2tdR96mApUiopz4k45wgifoZ84TUQFjpTUAWVJYScRUdDPPQgiQCUK42Yzeojl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-09T07:02:30+00:00"
-      },
-      {
-        "id": "ba6e3fd40dee",
-        "title": "屏東縣文化資產保護所：屏東縣開發行為涉及有形文化資產查詢系統，已於2026年1月1日正式上線。 https://pican.pthg.gov.tw/ping_tung_assets/",
-        "summary": "屏東縣文化資產保護所：屏東縣開發行為涉及有形文化資產查詢系統，已於2026年1月1日正式上線。 https://pican.pthg.gov.tw/ping_tung_assets/",
-        "url": "https://www.facebook.com/asgis/posts/pfbid05W55fVyNCw99CWFKEYUtHnFmwzFmzqW1bNgN2dMxpf7QwsJ9CV1e6wA7aq9KXHfKl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-09T05:27:55+00:00"
-      },
-      {
-        "id": "d4a2ad00957a",
-        "title": "【訊息轉知】新書出版訊息 書名：《Mapmatics: A Mathematician's Guide to Navigating the World》 作者：Paulina Rowińska 出版社：‎Belknap Press 出版日期...",
-        "summary": "【訊息轉知】新書出版訊息 書名：《Mapmatics: A Mathematician's Guide to Navigating the World》 作者：Paulina Rowińska 出版社：‎Belknap Press 出版日期：2024年9月17日 ISBN：9780674294233 https://www.amazon.com/dp/0674294238/",
-        "url": "https://www.facebook.com/asgis/posts/pfbid025HWbAyH81nsP5pydxQFPd7kcHYefpqiT935eHKa7Ca8JSTJNSCDFdf6n4UNxfXbAl",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-08T15:43:53+00:00"
-      },
-      {
-        "id": "1989e058839d",
-        "title": "「115年春節疏運觀光路網圖」折頁開放下載！ 印製單位：交通部觀光署 https://www.taiwan.net.tw/view.aspx?uid=29504",
-        "summary": "「115年春節疏運觀光路網圖」折頁開放下載！ 印製單位：交通部觀光署 https://www.taiwan.net.tw/view.aspx?uid=29504",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0375NLkV8dTb4tJGjH8zDw4sXWDtwe1HzTDXbbizA7MkHXwrLPa15c8hekRTsTvm29l",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-08T10:50:24+00:00"
-      },
-      {
-        "id": "63ddc080610f",
-        "title": "移動中的家鄉：克拉拉．史都華（Clara Stewart）的地圖視角 文/謝曉陽 【全文閱讀】 完整文章請見：獨立評論＠天下... https://opinion.cw.com.tw/blog/profile/52/article/1705...",
-        "summary": "移動中的家鄉：克拉拉．史都華（Clara Stewart）的地圖視角 文/謝曉陽 【全文閱讀】 完整文章請見：獨立評論＠天下 https://opinion.cw.com.tw/blog/profile/52/article/17056",
-        "url": "https://www.facebook.com/asgis/posts/pfbid02zitkJDNqTpGXZYv8vTcJw7ERnNTjMjLxkCT5auJpdvSVMJqfQUjfrgy6qVwV4EV3l",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-07T13:25:46+00:00"
       },
       {
         "id": "a162e40e81c3",
@@ -587,22 +459,6 @@
         "published": "2026-02-06T12:45:23+00:00"
       },
       {
-        "id": "b19b228a022d",
-        "title": "【活動轉知】 「100Y 山林有時：_______」特展 展期：2026年2月6日(五)～7月26日(日) 時間：10:00",
-        "summary": "【活動轉知】 「100Y 山林有時：_______」特展 展期：2026年2月6日(五)～7月26日(日) 時間：10:00 – 18:00 （週一固定休館，除夕至初四休館） 地點：台灣設計館03展間（臺北市信義區光復南路133號松山文創園區內） 主辦單位：農業部林業及自然保育署 https://www.forest.gov.tw/ForestNews/0077831",
-        "url": "https://www.facebook.com/asgis/posts/pfbid0qG7Vjo6PzvosKwzJuNEBrjxDu8ZGDGrzGfxsA2jj2qwemia2XEiWkfNC8Erxrdwal",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-06T08:44:07+00:00"
-      },
-      {
-        "id": "4a1c05a557d4",
-        "title": "【地圖俱樂部】 奧匈歷史特種地圖製作之簡介 撰文/許哲明 (軍備局生製中心第401廠測繪榮譽顧問、中華民國地圖學會常務監事) 奧匈帝國(Austro-Hungarian Empire)是歐洲存在於1867年至1918年間的一聯邦君主制國家，...",
-        "summary": "【地圖俱樂部】 奧匈歷史特種地圖製作之簡介 撰文/許哲明 (軍備局生製中心第401廠測繪榮譽顧問、中華民國地圖學會常務監事) 奧匈帝國(Austro-Hungarian Empire)是歐洲存在於1867年至1918年間的一聯邦君主制國家，是當代歐洲國土面積第二大國，僅次於俄國；主要是由奧地利王國和匈牙利王國所組成。一戰於1918年結束後，建立了了奧地利、匈牙利、捷克斯洛伐克等等獨立國家。本文所探討的廣惠專案歷史地圖數位典藏成果中，檢整有關《奧匈帝國七萬五千分一特種圖》圖資。 完整文章請見：https://gis.rchss.sinica.edu.tw/mapclub_20260204/",
-        "url": "https://www.facebook.com/asgis/posts/pfbid02dLvM4eqX5GvUd3U2Se3noRR6czgfsFzKB8TJQYSRN37t6zZDtL3mfJYxyWMkL4k9l",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-06T06:18:10+00:00"
-      },
-      {
         "id": "4519bd5bf772",
         "title": "科技爱好者周刊（第 384 期）：为什么软件股下跌",
         "summary": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -611,12 +467,156 @@
         "published": "2026-02-06T00:14:20+00:00"
       },
       {
-        "id": "7eeece706984",
-        "title": "與中央警察大學簽訂學術合作備忘錄 中央研究院人文社會科學研究中心(地理資訊科學研究專題中心)與中央警察大學警政管理學院暨警察科技學院簽訂學術合作備忘錄，期待應用資訊技術於警政管理及科技之跨學科綜合研究，以及基礎地理空間資料與技術的共享與交流...",
-        "summary": "與中央警察大學簽訂學術合作備忘錄 中央研究院人文社會科學研究中心(地理資訊科學研究專題中心)與中央警察大學警政管理學院暨警察科技學院簽訂學術合作備忘錄，期待應用資訊技術於警政管理及科技之跨學科綜合研究，以及基礎地理空間資料與技術的共享與交流，有效期間自生效日起至2029年1月1日。 學術合作備忘錄簽署儀式由警察科技學院吳貫遠院長與中央研究院人社中心詹大千副主任代表雙方致詞並完成簽署，中央警察大學各單位主管蒞臨觀禮，共同見證雙方深化學術交流與合作的重要時刻。",
-        "url": "https://www.facebook.com/asgis/posts/pfbid02E6q9ivPXHMBwLHBUz4Q1R7MM7cUS8snTYhB96j2pZ913j7E9cPVCKfWZT8PXRCM9l",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心 Page",
-        "published": "2026-02-05T14:53:16+00:00"
+        "id": "bb60007bce9c",
+        "title": "與中央警察大學簽訂學術合作備忘錄",
+        "summary": "中央研究院人文社會科學研究中心(地理資訊科學研究專題中心)與中央警察大學警政管理學院暨警察科技學院簽訂學術合作 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/mou_cpu_2026/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-05T14:52:10+00:00"
+      },
+      {
+        "id": "7928aa6b3a9b",
+        "title": "‘Depths of Wikipedia’ Creator Annie Rauwerda on ‘Fragile’ Internet Citations",
+        "summary": "Annie Rauwerda can’t remember a world without Wikipedia. Born in 1999, just two years before the platform launched, she says it has been omnipresent in her life and a source [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/05/depths-of-wikipedia-creator-annie-rauwerda-on-fragile-internet-citations/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-05T12:00:00+00:00"
+      },
+      {
+        "id": "d304818cc48b",
+        "title": "Mathematical spheres, an interview with Tom Johnson",
+        "summary": ".",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2539359?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2026-02-05T10:37:10+00:00"
+      },
+      {
+        "id": "b74af14f3341",
+        "title": "What Ultimately Is There?<br> Metaphysics and the Ruliad",
+        "summary": "The Wolfram Institute recently received a grant from the Templeton World Charity Foundation for “Computational Metaphysics”. I wrote this piece in part as a launching point for discussions with experts in traditional philosophy. Moving Metaphysics from Philosophy to Science “What ultimately is there...",
+        "url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2026-02-04T20:24:57+00:00"
+      },
+      {
+        "id": "8cd1759ac8fe",
+        "title": "Low end theory",
+        "summary": "How do you create a bassline? This question is not just for bass players. It’s for producers and songwriters, who are likely to be programming their own bass parts in their DAW. Keyboard players can do basslines in their left hand; guitarists do them with their thumbs. And even if you never create o...",
+        "url": "https://www.ethanhein.com/wp/2026/low-end-theory/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-02-04T13:44:23+00:00"
+      },
+      {
+        "id": "025e79956521",
+        "title": "Preserving the Open Web: Inside the New Wayback Machine Plugin for WordPress",
+        "summary": "Link rot. There’s nothing quite as frustrating as clicking on a link that leads to nowhere. WordPress, which powers more than 40% of websites online, recently partnered with the Internet [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/04/inside-the-new-wayback-machine-plugin-for-wordpress/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-04T12:00:00+00:00"
+      },
+      {
+        "id": "c80c07854607",
+        "title": "奧匈歷史特種地圖製作之簡介",
+        "summary": "撰文/許哲明 (軍備局生製中心第401廠測繪榮譽顧問、中華民國地圖學會常務監事) 一、前言 奧匈帝國(Aust [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260204/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-04T09:38:44+00:00"
+      },
+      {
+        "id": "a97844aed9b7",
+        "title": "Recording Now Available from “Protect Our Future Memory” Webinar",
+        "summary": "Last week, Internet Archive welcomed more than 150 attendees to the webinar, “Protect Our Future Memory: Join the Call for Library Digital Rights.” Held on January 27, the event brought [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/04/recording-now-available-from-protect-our-future-memory-webinar/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-04T05:09:18+00:00"
+      },
+      {
+        "id": "48fe7417fe59",
+        "title": "運用MapToPoster製作精美城市地圖海報",
+        "summary": "MapToPoster&#160;是一個由開發者 originalankur 建立的開源 Python 專案， [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260203/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-03T15:18:02+00:00"
+      },
+      {
+        "id": "1eb94e9b195a",
+        "title": "I’m in this Adam Neely video about AI",
+        "summary": "I make a couple of brief appearances in Adam Neely&#8217;s latest video about generative AI music. Neither of us think it’s a good idea.",
+        "url": "https://www.ethanhein.com/wp/2026/im-in-this-adam-neely-video-about-ai/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-02-02T21:52:16+00:00"
+      },
+      {
+        "id": "d9f5ffde1e07",
+        "title": "Follow the Changes: 9 Ways Web Archives are Used in Digital Investigations",
+        "summary": "Guest post from Thais Lobo, Liliana Bounegru &#38; Jonathan W. Y. Gray, King&#8217;s College London. This work was supported by the Centre for Digital Culture and Department of Digital Humanities [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/02/follow-the-changes/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-02T16:49:01+00:00"
+      },
+      {
+        "id": "ab6ef84e7329",
+        "title": "民音探戈系列第55輯：巴勃羅·瓦萊六重奏啟動日本巡演",
+        "summary": "民音探戈系列再度登場，推出其第55輯「巴勃羅·瓦萊六重奏：探戈史詩」，正式展開日本巡演。 這支樂團由阿根廷鋼琴 [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14681/%e6%b0%91%e9%9f%b3%e6%8e%a2%e6%88%88%e7%b3%bb%e5%88%97%e7%ac%ac55%e8%bc%af%ef%bc%9a%e5%b7%b4%e5%8b%83%e7%be%85%c2%b7%e7%93%a6%e8%90%8a%e5%85%ad%e9%87%8d%e5%a5%8f%e5%95%9f%e5%8b%95%e6%97%a5%e6%9c%ac/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-02-02T08:30:14+00:00"
+      },
+      {
+        "id": "37f7dbbf8455",
+        "title": "高雄果嶺自然公園的歷史地景變遷",
+        "summary": "撰文/廖德宗（居住於高雄市，從事資訊業，業餘進行人文地理研究） 摘要 本文以高雄市政府2025年10月開放之高 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260202/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-01T19:58:15+00:00"
+      },
+      {
+        "id": "41c82052ee40",
+        "title": "本專題中心同仁發表國際期刊論文一篇",
+        "summary": "本專題中心詹大千研究員、兼任研究助理政治大學地政所林佳瑢同學、研究助理范志中先生及唐嘉宏博士（目前任教於淡江大 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/paper_20260131/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-01T19:49:26+00:00"
+      },
+      {
+        "id": "eed4ee2be99a",
+        "title": "P vs. NP and the Difficulty of Computation: A Ruliological Approach",
+        "summary": "Empirical Theoretical Computer Science “Could there be a faster program for that?” It’s a fundamental type of question in theoretical computer science. But except in special cases, such a question has proved fiendishly difficult to answer. And, for example, in half a century, almost no progress has ...",
+        "url": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2026-01-30T19:26:48+00:00"
+      },
+      {
+        "id": "3752ead9da29",
+        "title": "2025 in numbers",
+        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2347",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T16:19:39+00:00"
+      },
+      {
+        "id": "d32f0a5eed31",
+        "title": "Freesound Day video recordings available online",
+        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2352",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T11:10:55+00:00"
+      },
+      {
+        "id": "4c700af1c688",
+        "title": "科技爱好者周刊（第 383 期）：你是第几级 AI 编程",
+        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+        "url": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html",
+        "source": "阮一峰的网络日志",
+        "published": "2026-01-30T00:10:32+00:00"
+      },
+      {
+        "id": "d3b00a3f761b",
+        "title": "Tom Johnson and a rational theory of harmony",
+        "summary": ".",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2591899?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2026-01-29T07:06:01+00:00"
       }
     ]
   }
