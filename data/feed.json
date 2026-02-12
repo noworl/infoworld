@@ -1,26 +1,122 @@
 {
-  "updated_at": "2026-02-12T11:28:35.300082+00:00",
+  "updated_at": "2026-02-12T15:10:47.251609+00:00",
   "trending": [
-    "carolyn bessette",
-    "mets",
-    "ind vs nam",
-    "ramadan 2026",
-    "bangladesh election 2026",
-    "politico",
-    "aa",
-    "online lottery",
-    "horoscope",
-    "iraq"
+    "maria sakkari",
+    "heavy snow forecast",
+    "hilary duff",
+    "friday the 13th",
+    "lindsey jacobellis",
+    "recalls",
+    "stefanos tsitsipas",
+    "connor watkins",
+    "madeira",
+    "frida karlsson"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "aaaefdc193d0",
+        "title": "Ratcliffe says immigrants cost too much, while Ineos lobbies for state funding",
+        "summary": "Billionaire’s business has in recent years claimed UK and EU support for refineries and chemicals plants worth about €800mJim Ratcliffe apologises for ‘choice of language’ after saying immigrants were ‘colonising’ UKThe backlash against Sir Jim Ratcliffe’s comments about immigrants to the UK “costin...",
+        "url": "https://www.theguardian.com/business/2026/feb/12/jim-ratcliffe-immigrants-ineos-uk-eu-funding",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T14:41:36+00:00"
+      },
+      {
+        "id": "1ba328eb56aa",
+        "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+        "summary": "In a letter to Apple CEO Tim Cook, FTC chair Andrew Ferguson cited reports from Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leaning outlets from the top 20 articles in the Apple News feed.",
+        "url": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T14:40:03+00:00"
+      },
+      {
+        "id": "4fbe8ae60ed4",
+        "title": "EU leaders to clash over ‘Buy European’ push at Belgium summit",
+        "summary": "Leaders to discuss once-taboo policy of favouring European companies, in attempt to regain economic competitivenessEU leaders were expected to diverge over the extent to which “Buy European” is an answer to Europe’s waning economic fortunes, at a summit on how to secure the continent’s future in a m...",
+        "url": "https://www.theguardian.com/world/2026/feb/12/eu-leaders-clash-buy-european-belgium-summit",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T14:37:20+00:00"
+      },
+      {
         "id": "5d068496057e",
-        "title": "UK economy ends 2025 ‘in the slow lane’ after growing just 0.1% in Q4 – business live",
-        "summary": "Rolling coverage of the UK’s new GDP report, showing growth of just 0.1% in October-DecemberUK economy limps along at 0.1% growth – but there are reasons for optimism in 2026Reaction to the news that the UK grew by just 0.1% in the final quarter of 2025 (see earlier post) is rolling in, and City exp...",
+        "title": "Chancellor Rachel Reeves predicts ‘stronger growth this year’ after UK economy ends 2025 ‘in the slow lane’ – business live",
+        "summary": "Rolling coverage of the UK’s new GDP report, showing growth of just 0.1% in October-December and 1.3% across 2025UK economy limps along at 0.1% growth – but there are reasons for optimism in 2026Reaction to the news that the UK grew by just 0.1% in the final quarter of 2025 (see earlier post) is rol...",
         "url": "https://www.theguardian.com/business/live/2026/feb/12/uk-gdp-report-economy-december-q4-2025-growth-rachel-reeves-budget-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-12T11:00:42+00:00"
+        "published": "2026-02-12T14:29:10+00:00"
+      },
+      {
+        "id": "1622191ba7d1",
+        "title": "‘People like cheap energy’: the bagel shop saving money and emissions with plug-in batteries",
+        "summary": "A pilot scheme in Brooklyn is giving businesses batteries to form an electricity storage network – part of a growing number of innovative DIY energy ideas around the worldIn the back of Black Seed Bagels in northern Brooklyn is a giant catering kitchen filled with industrial-size containers of condi...",
+        "url": "https://www.theguardian.com/environment/2026/feb/12/bagel-shop-saving-money-emissions-plug-in-batteries-brooklyn-new-york",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T14:19:38+00:00"
+      },
+      {
+        "id": "85d359409cfd",
+        "title": "Declining health and education in poor countries harms earning potential, World Bank says",
+        "summary": "Report says children born today could earn 51% more over lifetime if their country’s human capital improvedDeteriorating health, education and training in many developing countries is dramatically depressing the future earnings of children born today, the World Bank has said.In a report, the World B...",
+        "url": "https://www.theguardian.com/business/2026/feb/12/declining-health-education-poor-countries-harms-earning-potential-world-bank",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T14:00:14+00:00"
+      },
+      {
+        "id": "4a2ea65300be",
+        "title": "Eclipse backs all-EV marketplace Ever in $31M funding round",
+        "summary": "The San Francisco-based startup says its AI-first approach has allowed it to scale faster.",
+        "url": "https://techcrunch.com/2026/02/12/eclipse-backs-all-ev-marketplace-ever-in-31m-funding-round/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T14:00:09+00:00"
+      },
+      {
+        "id": "97b4fc34ec24",
+        "title": "QPR and Crawley sued for £11.1m by former player who claims they did not protect him",
+        "summary": "Amrit Bansal-McNulty claim relates to alleged racismClubs deny wrongdoing in case being heard at tribunalQueens Park Rangers and Crawley Town are being sued for more than £11m by a former player who is claiming they failed to protect him from alleged racist banter that he says destroyed his career.T...",
+        "url": "https://www.theguardian.com/football/2026/feb/12/qpr-crawley-sued-former-player-amrit-bansal-mcnulty-claims-they-did-not-protect-him",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T13:37:12+00:00"
+      },
+      {
+        "id": "36bb234129d8",
+        "title": "Ex-Barclays boss Jes Staley was trustee of Jeffrey Epstein’s estate until 2015, files say",
+        "summary": "Information appears to contradict court testimony by banker in 2025 over nature of ties to convicted sex offenderThe former Barclays boss Jes Staley was named as a trustee of Jeffrey Epstein’s estate until at least May 2015, according to documents that appear to contradict court testimony given by t...",
+        "url": "https://www.theguardian.com/business/2026/feb/12/ex-barclays-boss-jes-staley-was-trustee-of-jeffrey-epstein-estate-until-2015-files-say",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T12:57:48+00:00"
+      },
+      {
+        "id": "aacee4a7ed7c",
+        "title": "Jim Ratcliffe apologises for ‘choice of language’ after saying immigrants were ‘colonising’ UK",
+        "summary": "Manchester United co-owner, who lives in Monaco, responds to backlash over comments labelled ‘offensive and wrong’ by Keir StarmerUK politics live – latest updatesThe Monaco-based billionaire Jim Ratcliffe has said he is sorry that his “choice of language has offended some people in the UK and Europ...",
+        "url": "https://www.theguardian.com/business/2026/feb/12/jim-ratcliffe-accused-hypocrisy-uk-colonised-immigrants",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T12:43:27+00:00"
+      },
+      {
+        "id": "aefef5ae7dcd",
+        "title": "We let Chrome's Auto Browse agent surf the web for us—here's what happened",
+        "summary": "Auto Browse is capable of some impressive things, but it can also crash and burn spectacularly.",
+        "url": "https://arstechnica.com/google/2026/02/tested-how-chromes-auto-browse-agent-handles-common-web-tasks/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-12T12:00:14+00:00"
+      },
+      {
+        "id": "4007744eccef",
+        "title": "‘Another way to gamble money’: booming prediction markets prompt confusion and concern",
+        "summary": "Polymarket and Kalshi are less regulated than betting sites, but users can win or lose large sums on the platformsYadin Eldar, 21, has been betting on prediction markets since 2019. His friends think he’s “crazy”, he said. But the craze surrounding these platforms is rapidly gathering steam.Users ca...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/12/prediction-markets-polymarket-kalshi-online-gambling",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T12:00:13+00:00"
+      },
+      {
+        "id": "888d522eb8ef",
+        "title": "Why is the Washington Post cratering so spectacularly? | Margaret Sullivan",
+        "summary": "To understand the change in Washington Post’s fortunes, it is worth comparing its demise to the New York Times’s trajectoryNot so long ago – it’s been less than a decade – the New York Times and the Washington Post were almost neck and neck in the race for readers, reputation and scoops. The Times w...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/12/washington-post-fires-staff",
+        "source": "Business | The Guardian",
+        "published": "2026-02-12T11:00:13+00:00"
       },
       {
         "id": "710cb9142da6",
@@ -47,14 +143,6 @@
         "published": "2026-02-12T10:41:40+00:00"
       },
       {
-        "id": "aacee4a7ed7c",
-        "title": "Jim Ratcliffe accused of hypocrisy after saying UK ‘colonised’ by immigrants",
-        "summary": "Manchester United co-owner, who lives in Monaco, faces growing backlash for using ‘far-right narratives’UK politics live – latest updatesThe Monaco-based billionaire Jim Ratcliffe has been accused of hypocrisy and using “far-right narratives”, as a backlash grew over his claims that the UK was being...",
-        "url": "https://www.theguardian.com/business/2026/feb/12/jim-ratcliffe-accused-hypocrisy-uk-colonised-immigrants",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T10:24:50+00:00"
-      },
-      {
         "id": "769f5818a77f",
         "title": "Inside Will Lewis’s tumultuous two years as publisher of the Washington Post",
         "summary": "Before the Post’s sweeping layoffs and Lewis’s abrupt resignation, his tenure was marked by controversy and clashes with staffStanding on the seventh floor in the center of the Washington Post’s open newsroom on the morning of 3 June 2024, publisher Will Lewis decided to deliver some tough love to a...",
@@ -69,14 +157,6 @@
         "url": "https://www.theguardian.com/business/2026/feb/12/schroders-takeover-us-investor-end-200-years-family-ownership-asset-management",
         "source": "Business | The Guardian",
         "published": "2026-02-12T09:39:25+00:00"
-      },
-      {
-        "id": "4fbe8ae60ed4",
-        "title": "EU leaders to clash over ‘Buy European’ push at Belgium summit",
-        "summary": "Leaders to discuss once-taboo policy of favouring European companies, in attempt to regain economic competitivenessEU leaders are expected to diverge on whether “Buy European” is an answer to Europe’s waning economic fortunes, at a summit on how to secure the continent’s future in a more volatile gl...",
-        "url": "https://www.theguardian.com/world/2026/feb/12/eu-leaders-clash-buy-european-belgium-summit",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T09:38:59+00:00"
       },
       {
         "id": "260f977d93b7",
@@ -133,89 +213,17 @@
         "url": "https://arstechnica.com/space/2026/02/heres-why-americas-most-historic-launch-pad-is-getting-yet-another-facelift/",
         "source": "Ars Technica - All content",
         "published": "2026-02-12T02:23:50+00:00"
-      },
-      {
-        "id": "3b69d65e5a78",
-        "title": "US House backs bid to block Canada tariffs in rebuke of Trump",
-        "summary": "Republicans join Democrats in objecting to national emergency US president declared to impose tariffsThe US House on Wednesday voted to rescind tariffs that Donald Trump imposed on Canada last year, a rare bipartisan rebuke of the White House’s trade policy as the president threatened electoral reta...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/11/us-house-vote-trump-canada-tariffs",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T00:48:09+00:00"
-      },
-      {
-        "id": "739f93397a76",
-        "title": "Trump orders the military to make agreements with coal power plants",
-        "summary": "The administration's \"reasoning\" for doing so has little connection to reality.",
-        "url": "https://arstechnica.com/science/2026/02/trumps-latest-plan-to-revive-coal-power-make-the-military-buy-it/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-12T00:02:53+00:00"
-      },
-      {
-        "id": "e6d0da8f1d72",
-        "title": "Housing market in England and Wales ‘showing tentative signs of recovery’",
-        "summary": "Rics surveyors report inquiries from new buyers, agreed sales and house prices were less negative in JanuaryThere are “tentative signs” that the housing market in England and Wales is recovering from a months-long slowdown after uncertainty around the autumn budget and economic pressures, estate age...",
-        "url": "https://www.theguardian.com/business/2026/feb/12/housing-market-in-england-wales-rics-sales-house-prices",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T00:01:32+00:00"
-      },
-      {
-        "id": "e658325caa5d",
-        "title": "Self-powered vibration sensor for wearable health care and voice detection",
-        "summary": "Nature, Published online: 12 February 2026; doi:10.1038/d41586-026-00250-3Densely packed arrays of electrical components called capacitors can form a high-fidelity vibration sensor that can be worn on the skin.",
-        "url": "https://www.nature.com/articles/d41586-026-00250-3",
-        "source": "Nature",
-        "published": "2026-02-12T00:00:00+00:00"
-      },
-      {
-        "id": "9e1c5c147eb1",
-        "title": "Science funding needs fixing — but not through chaotic reforms",
-        "summary": "Nature, Published online: 12 February 2026; doi:10.1038/d41586-026-00447-6The changes announced by a major UK science funder are putting scientists — and the future of research — in a difficult position.",
-        "url": "https://www.nature.com/articles/d41586-026-00447-6",
-        "source": "Nature",
-        "published": "2026-02-12T00:00:00+00:00"
-      },
-      {
-        "id": "ad3c88514715",
-        "title": "El Paso airport closed after military used new anti-drone laser to zap party balloon",
-        "summary": "\"I want to be very, very clear that this should’ve never happened.\"",
-        "url": "https://arstechnica.com/space/2026/02/el-paso-airport-closed-after-military-used-new-anti-drone-laser-to-zap-party-balloon/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-11T23:50:01+00:00"
-      },
-      {
-        "id": "6778a9c4fc1b",
-        "title": "xAI lays out interplanetary ambitions in public all-hands",
-        "summary": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
-        "url": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T23:29:08+00:00"
-      },
-      {
-        "id": "7c2e7f30af85",
-        "title": "Chaos and confusion in El Paso after airspace closed and quickly reopened",
-        "summary": "Officials in US border city say FAA decisions caused major disruption – and residents are still scrambling for answersOfficials in Texas were left scrambling for answers on Wednesday after the Federal Aviation Administration (FAA) issued a surprise order to shut down the airspace over El Paso for 10...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/11/el-paso-airspace-texas",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T23:16:48+00:00"
-      },
-      {
-        "id": "8c989a80c795",
-        "title": "Instagram CEO dismisses idea of social media addiction in landmark trial",
-        "summary": "Adam Mosseri defends app on witness stand and says critics must separate ‘clinical addiction’ from ‘problematic use’Instagram’s CEO dismissed the idea that users can be addicted to social media at a landmark California trial on Wednesday.“I think it’s important to differentiate between clinical addi...",
-        "url": "https://www.theguardian.com/technology/2026/feb/11/instagram-adam-mosseri-social-media-addiction-trial",
-        "source": "Business | The Guardian",
-        "published": "2026-02-11T22:51:10+00:00"
-      },
-      {
-        "id": "e7dcf295fc8d",
-        "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
-        "summary": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
-        "url": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
-        "source": "TechCrunch",
-        "published": "2026-02-11T22:48:35+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "76198b5eb226",
+        "title": "What is Pokopia? Inside the calming Pokémon game that ditches battles for gardening",
+        "summary": "We explore the cosy world-building spin-off with Game Freak’s Shigeru Ohmori and his fellow developers – and learn how it began with a Pokémon-hunting dreamPokémon is celebrating its 30th anniversary this month, and everybody knows what to expect from these games by now. The concept is simple: head ...",
+        "url": "https://www.theguardian.com/games/2026/feb/12/what-is-pokopia-developers-explain-addictive-new-pokemon-game",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-12T13:35:14+00:00"
+      },
       {
         "id": "8f8e640542bb",
         "title": "The Fight Over US Climate Rules Is Just Beginning",
@@ -407,14 +415,6 @@
         "url": "https://technews.tw/2026/02/11/meta-launches-new-ai-features/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-02-11T03:00:43+00:00"
-      },
-      {
-        "id": "52c07308bc12",
-        "title": "Salesforce Workers Circulate Open Letter Urging CEO Marc Benioff to Denounce ICE",
-        "summary": "The letter comes after Benioff joked at a company event on Monday that ICE was monitoring international employees in attendance, sparking immediate backlash.",
-        "url": "https://www.wired.com/story/letter-salesforce-employees-sent-after-marc-benioffs-ice-comments/",
-        "source": "Business Latest",
-        "published": "2026-02-10T22:25:34+00:00"
       }
     ],
     "序(month)": [
@@ -587,22 +587,6 @@
         "published": "2026-01-30T19:26:48+00:00"
       },
       {
-        "id": "3752ead9da29",
-        "title": "2025 in numbers",
-        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2347",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T16:19:39+00:00"
-      },
-      {
-        "id": "d32f0a5eed31",
-        "title": "Freesound Day video recordings available online",
-        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2352",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T11:10:55+00:00"
-      },
-      {
         "id": "4c700af1c688",
         "title": "科技爱好者周刊（第 383 期）：你是第几级 AI 编程",
         "summary": "这里记录每周值得分享的科技内容，周五发布。...",
@@ -617,6 +601,22 @@
         "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2591899?af=R",
         "source": "tandf: Journal of Mathematics and Music: Table of Contents",
         "published": "2026-01-29T07:06:01+00:00"
+      },
+      {
+        "id": "78e005b85aae",
+        "title": "Min-On Music Journey No. 102: Republic of Mozambique",
+        "summary": "Welcome to Min-On’s Music Journey! Today we invite you  [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14668/min-on-music-journey-no-102-republic-of-mozambique/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-01-28T07:27:40+00:00"
+      },
+      {
+        "id": "fac659800cf0",
+        "title": "Two-chord shuttles on the pod",
+        "summary": "After talking about them in aural skills class, I figured it was time to do an episode about them. This one includes some compositional ideas of my own in addition to all the examples from the pop canon. The two-chord shuttle by Dr. Ethan Hein A foundational building block of funk Read on Substack",
+        "url": "https://www.ethanhein.com/wp/2026/two-chord-shuttles-on-the-pod/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-01-27T23:43:21+00:00"
       }
     ]
   }
