@@ -1,23 +1,63 @@
 {
-  "updated_at": "2026-02-13T19:55:26.893777+00:00",
+  "updated_at": "2026-02-13T21:54:36.304463+00:00",
   "trending": [
-    "maxim naumov",
-    "shelby miller",
-    "juliana peres magalhães",
-    "ligue 1",
-    "wasserman",
-    "chase josey",
-    "paul caneiro",
-    "figure skating",
-    "lsu baseball",
-    "aleksandr selevko"
+    "presidents day",
+    "pebble beach leaderboard",
+    "kazakhstan",
+    "yuma kagiyama",
+    "us women's hockey team",
+    "daniel grassl",
+    "mikhail shaidorov",
+    "michael j fox",
+    "kendall coyne schofield",
+    "cha jun-hwan"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "76c78de82eca",
+        "title": "Fintech lending giant Figure confirms data breach",
+        "summary": "The company said hackers downloaded “a limited number of files” after breaking into an employee’s account. The hacking group ShinyHunters took responsibility for the breach.",
+        "url": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T21:02:46+00:00"
+      },
+      {
+        "id": "51e6b7a7c78f",
+        "title": "Why top talent is walking away from OpenAI and xAI",
+        "summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to ...",
+        "url": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T21:00:00+00:00"
+      },
+      {
+        "id": "6a9643cc3d1e",
+        "title": "The first Android 17 beta is now available on Pixel devices",
+        "summary": "Don't expect big changes yet.",
+        "url": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T20:58:25+00:00"
+      },
+      {
+        "id": "80cb7a990644",
+        "title": "Sex toys maker Tenga says hacker stole customer information",
+        "summary": "The Japanese sex toy maker said a hacker broke into an employee's inbox and stole customer names, email addresses, and correspondence, including order details and customer service inquiries.",
+        "url": "https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T20:19:05+00:00"
+      },
+      {
+        "id": "aeb0724f44c3",
+        "title": "After a routine code rejection, an AI agent published a hit piece on someone by name",
+        "summary": "One developer is struggling with the social implications of a drive-by AI character attack.",
+        "url": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T19:40:21+00:00"
+      },
+      {
         "id": "86bfc01751d9",
         "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
-        "summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships to the chatbot.",
+        "summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships with the chatbot.",
         "url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
         "source": "TechCrunch",
         "published": "2026-02-13T18:10:00+00:00"
@@ -173,46 +213,6 @@
         "url": "https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/",
         "source": "TechCrunch",
         "published": "2026-02-13T14:58:39+00:00"
-      },
-      {
-        "id": "4ceb65e8d019",
-        "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
-        "summary": "These bots supposedly need a human body to accomplish great things in meatspace.",
-        "url": "https://arstechnica.com/ai/2026/02/i-spent-two-days-gigging-at-rentahuman-and-didnt-make-a-single-cent/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-13T14:41:21+00:00"
-      },
-      {
-        "id": "f30991b1889f",
-        "title": "Heathrow isn’t crowded, it’s travellers walking on the wrong side, boss says",
-        "summary": "Thomas Woldbye says part of airport’s problem is UK passengers walk on the left while others walk on the rightHeathrow airport has revealed a crowding problem that a third runway cannot solve: British and foreign travellers walk on different sides, and keep colliding, according to its chief executiv...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/13/heathrow-overcrowded-travellers-walking-on-wrong-side-left-right",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T14:01:53+00:00"
-      },
-      {
-        "id": "58c870459f84",
-        "title": "Score, the dating app for people with good credit, is back",
-        "summary": "Two years ago, a controversial dating app was launched and quickly shuttered: for people with good-to-excellent credit. Now, the founder is relaunching it, open to anyone.",
-        "url": "https://techcrunch.com/2026/02/13/score-the-dating-app-for-good-to-excellent-credit-returns-for-everyone-to-use/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T14:00:00+00:00"
-      },
-      {
-        "id": "8d25ca963e9d",
-        "title": "Penalty notice: Euro Car Parks fined £473,000 for ignoring regulator",
-        "summary": "High court refuses injunction to stop CMA naming company penalised for failing to hand over informationEuro Car Parks is infamous for dishing out fines but the private parking company has been hit with an almost £475,000 penalty of its own after it failed to hand over information to a regulator.The ...",
-        "url": "https://www.theguardian.com/business/2026/feb/13/euro-car-parks-fined-uk-competition-regulator-cma",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T13:57:48+00:00"
-      },
-      {
-        "id": "f47ad38bae8e",
-        "title": "US inflation falls to 2.4% in January after Trump’s tariffs led to price fluctuations",
-        "summary": "Economists predicted a slight easing of inflation, although it’s unclear whether Fed will again cut interest ratesUS inflation moderated in January to 2.4%, an easing after Donald Trump’s tariffs triggered price fluctuations last year.Prices rose 0.2% from December to January, according to data rele...",
-        "url": "https://www.theguardian.com/business/2026/feb/13/january-inflation-tariffs-trump",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T13:53:25+00:00"
       }
     ],
     "破(day)": [
@@ -234,7 +234,7 @@
       },
       {
         "id": "d9278d0c0d71",
-        "title": "Jam, color, and geometry — discover Perplex On’s AV synthesia bliss",
+        "title": "Jam, color, and geometry — discover Perplex On’s AV synesthesia bliss",
         "summary": "Dive deep into these explosions of sound, light, and shape from Munich-based Perplex On, as the musical act pairs compact instruments with visuals made in Lottie and Imaginando&#8217;s VS &#8211; Visual Synthesizer. Dazzle at these eye-popping, brain-tickling audiovisual explorations. Warning: conta...",
         "url": "https://cdm.link/perplex-on-av/",
         "source": "CDM Create Digital Music",
@@ -247,14 +247,6 @@
         "url": "https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/",
         "source": "Science Latest",
         "published": "2026-02-13T18:25:53+00:00"
-      },
-      {
-        "id": "94036b207e34",
-        "title": "‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations",
-        "summary": "Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship datacentersElon Musk’s artificial intelligence company is continuing to fuel its datacenters with unpermitted gas turbines, an investigation by the Floodlight newsroom shows. Thermal footage captured by Flo...",
-        "url": "https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-13T18:00:15+00:00"
       },
       {
         "id": "d10aa01238e7",
@@ -413,6 +405,14 @@
         "title": "生命河流轉了彎──中繼屋裡過新年，馬太鞍災民盼在淤泥中種回希望",
         "summary": "2025年9月馬太鞍溪堰塞湖毀了許多人的家。災難過去近5個月，重建工作持續進行。記者訪問3位仍住在中繼屋或暫住工廠的居民，面對面目全非的家園，他們選擇留下守護受傷的土地，期盼淤泥也能開出花朵。",
         "url": "https://www.twreporter.org/a/the-year-of-healing-hualien-mataian-villagers",
+        "source": "報導者",
+        "published": "2026-02-12T16:00:00+00:00"
+      },
+      {
+        "id": "99b4cc5503e4",
+        "title": "修屋、勞動、重建身心──楠西震災一年，百果之鄉的絕處逢春記",
+        "summary": "「從前大家埋頭拚生計，經過這一場地震，才意識到彼此連結、互相扶持，社區才有未來。」",
+        "url": "https://www.twreporter.org/a/the-year-of-healing-tainan-chiayi-earthquake-nansi-survivors",
         "source": "報導者",
         "published": "2026-02-12T16:00:00+00:00"
       }
