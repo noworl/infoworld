@@ -1,19 +1,83 @@
 {
-  "updated_at": "2026-02-12T23:01:50.230717+00:00",
+  "updated_at": "2026-02-13T05:14:36.373664+00:00",
   "trending": [
-    "konami",
-    "krafton",
-    "scott galloway",
-    "krafton games",
-    "iceland reynisfjara black sand beach",
-    "corinthians vs bragantino",
-    "paranaense - santos",
-    "fluminense - botafogo",
-    "arsenal fixtures",
-    "dead or alive 6"
+    "2026 winter olympics men figure skating",
+    "marcus smart",
+    "brent faiyaz",
+    "tyler perry",
+    "aus vs zim",
+    "uc irvine basketball",
+    "daniel gafford",
+    "jamal lewis",
+    "dow jones stock markets",
+    "long beach state basketball"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "ad1ec24c42a3",
+        "title": "Waymo is asking DoorDash drivers to shut the doors of its self-driving cars",
+        "summary": "If a passenger accidentally leaves a Waymo door open, the vehicle can get stuck in place.",
+        "url": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T04:41:41+00:00"
+      },
+      {
+        "id": "ad0a3ca81c6f",
+        "title": "When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered",
+        "summary": "This was the first launch of the Ariane 64, the most powerful rocket in European space history.",
+        "url": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T00:34:29+00:00"
+      },
+      {
+        "id": "b9a6b2f8012b",
+        "title": "Attempt to modernise NS&I has been a ‘full-spectrum disaster’, MPs find",
+        "summary": "Spending watchdog says state-owned bank exposed taxpayers to ‘unacceptable risk’ as cost spiral to £3bnAn attempt to modernise the state-owned savings bank NS&amp;I has been a “full-spectrum disaster”, parliament’s spending watchdog has concluded in a damning report.NS&amp;I (National Savings &amp; ...",
+        "url": "https://www.theguardian.com/money/2026/feb/13/attempt-to-modernise-ns-and-i-full-spectrum-disaster-mps-spending-watchdog-finds",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T00:01:29+00:00"
+      },
+      {
+        "id": "8d3bba89a242",
+        "title": "For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer",
+        "summary": "The longevity-obsessed investor Bryan Johnson is charging $1 million to sign up for his \"Immortals\" program.",
+        "url": "https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T23:43:47+00:00"
+      },
+      {
+        "id": "ddd8ed6c12bd",
+        "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
+        "summary": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
+        "url": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T23:26:56+00:00"
+      },
+      {
+        "id": "d79e93738c63",
+        "title": "IBM will hire your entry-level talent in the age of AI",
+        "summary": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
+        "url": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T23:23:17+00:00"
+      },
+      {
+        "id": "a322365dd9eb",
+        "title": "Rivian was saved by software in 2025",
+        "summary": "The company's annual revenue was boosted by its technology joint venture with Volkswagen Group.",
+        "url": "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/",
+        "source": "TechCrunch",
+        "published": "2026-02-12T23:17:32+00:00"
+      },
+      {
+        "id": "b9452571b29b",
+        "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+        "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
+        "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-12T22:56:02+00:00"
+      },
       {
         "id": "7198e79120e3",
         "title": "UK economy grows by only 0.1% amid falling business investment",
@@ -21,6 +85,22 @@
         "url": "https://www.theguardian.com/business/2026/feb/12/uk-economy-grows-rachel-reeves-budget-ons-gdp-growth",
         "source": "Business | The Guardian",
         "published": "2026-02-12T22:45:30+00:00"
+      },
+      {
+        "id": "cf64a4e14da8",
+        "title": "Trump official overruled FDA scientists to reject Moderna's flu shot",
+        "summary": "FDA's top vaccine regulator, Vinay Prasad, is known for overruling scientists.",
+        "url": "https://arstechnica.com/health/2026/02/trump-official-overruled-fda-scientists-to-reject-modernas-flu-shot/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-12T22:36:33+00:00"
+      },
+      {
+        "id": "52b623075013",
+        "title": "Spider-Noir teaser comes in colorized \"True Hue\" and black and white",
+        "summary": "Nicolas Cage described his character as \"70 percent Humphrey Bogart and 30 percent Bugs Bunny.\"",
+        "url": "https://arstechnica.com/culture/2026/02/spider-noir-teaser-comes-in-colorized-true-hue-and-black-and-white/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-12T22:14:53+00:00"
       },
       {
         "id": "f8f226c36cdd",
@@ -133,86 +213,6 @@
         "url": "https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/",
         "source": "TechCrunch",
         "published": "2026-02-12T19:02:07+00:00"
-      },
-      {
-        "id": "f9e22a7dbf3c",
-        "title": "Bringing the \"functionally extinct\" American chestnut back from the dead",
-        "summary": "Wiped out in its native range by invasive pathogens, the trees may make a comeback.",
-        "url": "https://arstechnica.com/science/2026/02/can-modern-genetics-help-us-restore-the-appalachian-forests-of-the-1800s/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-12T19:00:31+00:00"
-      },
-      {
-        "id": "3902e5bf75cd",
-        "title": "Unique structure of elephant whiskers give them built-in sensing \"intelligence\"",
-        "summary": "The material properties change gradually from base to tip for better navigation, more precise manipulation.",
-        "url": "https://arstechnica.com/science/2026/02/unique-structure-of-elephant-whiskers-give-them-built-in-sensing-intelligence/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-12T19:00:15+00:00"
-      },
-      {
-        "id": "0197fbc0a3f6",
-        "title": "Lisa Nandy refers Telegraph sale to watchdogs over rightwing media plurality concerns",
-        "summary": "CMA and Ofcom to examine DMGT takeover amid fears merger could curb ‘diverging editorial stances’ in pressLisa Nandy, the culture secretary, has referred the Telegraph’s proposed sale to the publisher of the Daily Mail to the competition and media watchdogs, weeks after she raised concerns about the...",
-        "url": "https://www.theguardian.com/media/2026/feb/12/lisa-nandy-refers-telegraph-sale-to-watchdogs-over-rightwing-media-plurality-concerns-daily-mail",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T18:52:21+00:00"
-      },
-      {
-        "id": "d1f38d652f7a",
-        "title": "2026 Nissan Leaf review: The best budget EV on sale right now",
-        "summary": "A week with the new Leaf in frigid weather did not cool our feelings for the car.",
-        "url": "https://arstechnica.com/cars/2026/02/2026-nissan-leaf-review-the-best-budget-ev-on-sale-right-now/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-12T18:49:04+00:00"
-      },
-      {
-        "id": "b7ed829b1340",
-        "title": "How to deal with the “Claude crash”: Relx should keep buying back shares, then buy more | Nils Pratley",
-        "summary": "The firm remains confident even as the market flips from seeing it as an AI winner to fearing its profit margin will implodeAs the FTSE 100 index bobs along close to all-time highs, it is easy to miss the quiet share price crash in one corner of the market. It’s got a name – the “Claude crash”, refe...",
-        "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/feb/12/relx-claude-crash-buy-back-shares",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T18:43:37+00:00"
-      },
-      {
-        "id": "23f4c3cebbd7",
-        "title": "Ben Jennings on Jim Ratcliffe’s ‘colonisation’ comments – cartoon",
-        "summary": "Continue reading...",
-        "url": "https://www.theguardian.com/commentisfree/picture/2026/feb/12/ben-jennings-jim-ratcliffe-colonisation-comments-cartoon",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T18:36:18+00:00"
-      },
-      {
-        "id": "315007c2a26b",
-        "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
-        "summary": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
-        "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
-        "source": "TechCrunch",
-        "published": "2026-02-12T18:30:12+00:00"
-      },
-      {
-        "id": "e29771b0d43d",
-        "title": "Share values of property services firms tumble over fears of AI disruption",
-        "summary": "But, after second day of Wall Street falls, analysts say sell-off ‘may overstate AI’s immediate risk to complex deal-making’Shares in commercial property services companies have tumbled, in the latest sell-off driven by fears over disruption from artificial intelligence.After steep declines on Wall ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T18:01:00+00:00"
-      },
-      {
-        "id": "d91fed4b27c7",
-        "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
-        "summary": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker.",
-        "url": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
-        "source": "TechCrunch",
-        "published": "2026-02-12T18:00:00+00:00"
-      },
-      {
-        "id": "f4c3514fd0a8",
-        "title": "Aurora’s driverless trucks can now travel farther distances faster than human drivers",
-        "summary": "CEO Chris Urmson called it a “superhuman” moment, adding that Aurora’s trucks can now carry freight 1,000 miles in 15 hours — faster than what a human driver can legally accomplish.",
-        "url": "https://techcrunch.com/2026/02/12/auroras-driverless-trucks-can-now-travel-farther-distances-faster-than-human-drivers/",
-        "source": "TechCrunch",
-        "published": "2026-02-12T17:58:30+00:00"
       }
     ],
     "破(day)": [
