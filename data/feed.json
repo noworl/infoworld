@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-13T21:54:36.304463+00:00",
+  "updated_at": "2026-02-13T23:06:07.899512+00:00",
   "trending": [
-    "presidents day",
-    "pebble beach leaderboard",
-    "kazakhstan",
-    "yuma kagiyama",
-    "us women's hockey team",
-    "daniel grassl",
-    "mikhail shaidorov",
-    "michael j fox",
-    "kendall coyne schofield",
-    "cha jun-hwan"
+    "george mason basketball",
+    "gary player",
+    "clemson baseball",
+    "alex vesia",
+    "mi state vs wisconsin",
+    "friday the 13th movies",
+    "kevin fiala",
+    "randy fine",
+    "nascar schedule",
+    "crime 101 movie"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "a106f580de5b",
+        "title": "Verizon makes customers wait 35 days to unlock fully paid-off phones",
+        "summary": "Verizon unlocks have 35-day waiting period after paying off device plan online.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T22:13:27+00:00"
+      },
+      {
+        "id": "0ad6028255b6",
+        "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+        "summary": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+        "url": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T22:12:26+00:00"
+      },
+      {
+        "id": "49298e2ad8eb",
+        "title": "Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage",
+        "summary": "“This is definitely not about dogs,” senator says, urging a pause on Ring face scans.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T21:39:29+00:00"
+      },
       {
         "id": "76c78de82eca",
         "title": "Fintech lending giant Figure confirms data breach",
@@ -45,14 +69,6 @@
         "url": "https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/",
         "source": "TechCrunch",
         "published": "2026-02-13T20:19:05+00:00"
-      },
-      {
-        "id": "aeb0724f44c3",
-        "title": "After a routine code rejection, an AI agent published a hit piece on someone by name",
-        "summary": "One developer is struggling with the social implications of a drive-by AI character attack.",
-        "url": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-13T19:40:21+00:00"
       },
       {
         "id": "86bfc01751d9",
@@ -197,25 +213,17 @@
         "url": "https://www.theguardian.com/world/2026/feb/13/beijing-pastry-shop-overrun-shoppers-xi-jinping-visit-lunar-new-year",
         "source": "Business | The Guardian",
         "published": "2026-02-13T15:17:36+00:00"
-      },
-      {
-        "id": "16949c3e0dc7",
-        "title": "Cohere’s $240M year sets stage for IPO",
-        "summary": "Cohere surpassed $240 million in annual recurring revenue in 2025, highlighting strong enterprise AI demand as the Canadian startup positions itself for a potential IPO amid intensifying competition from OpenAI and Anthropic.",
-        "url": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T15:03:10+00:00"
-      },
-      {
-        "id": "bb572b7c5690",
-        "title": "Meta plans to add facial recognition to its smart glasses, report claims",
-        "summary": "The feature, internally known as “Name Tag,” would allow smart glasses wearers to identify people and get information about them via Meta's AI assistant.",
-        "url": "https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T14:58:39+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "0f245090a8b3",
+        "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
+        "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
+        "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+        "source": "Business Latest",
+        "published": "2026-02-13T21:56:18+00:00"
+      },
       {
         "id": "7e9994f0cddf",
         "title": "Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits",
@@ -405,14 +413,6 @@
         "title": "生命河流轉了彎──中繼屋裡過新年，馬太鞍災民盼在淤泥中種回希望",
         "summary": "2025年9月馬太鞍溪堰塞湖毀了許多人的家。災難過去近5個月，重建工作持續進行。記者訪問3位仍住在中繼屋或暫住工廠的居民，面對面目全非的家園，他們選擇留下守護受傷的土地，期盼淤泥也能開出花朵。",
         "url": "https://www.twreporter.org/a/the-year-of-healing-hualien-mataian-villagers",
-        "source": "報導者",
-        "published": "2026-02-12T16:00:00+00:00"
-      },
-      {
-        "id": "99b4cc5503e4",
-        "title": "修屋、勞動、重建身心──楠西震災一年，百果之鄉的絕處逢春記",
-        "summary": "「從前大家埋頭拚生計，經過這一場地震，才意識到彼此連結、互相扶持，社區才有未來。」",
-        "url": "https://www.twreporter.org/a/the-year-of-healing-tainan-chiayi-earthquake-nansi-survivors",
         "source": "報導者",
         "published": "2026-02-12T16:00:00+00:00"
       }
