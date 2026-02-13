@@ -1,26 +1,90 @@
 {
-  "updated_at": "2026-02-13T11:10:09.994622+00:00",
+  "updated_at": "2026-02-13T14:29:49.562005+00:00",
   "trending": [
-    "south carolina state university",
-    "canada vs uae",
-    "seattle seahawks news",
-    "skyland ranch",
-    "kevin nash",
-    "caf",
-    "spacex launch",
-    "apple",
-    "valentines day",
-    "sports"
+    "alex de minaur",
+    "al-shabab vs al-ahli",
+    "halle berry",
+    "john harbaugh",
+    "usa vs netherlands",
+    "conduent",
+    "stephen wilson jr",
+    "igor tudor",
+    "dense fog advisory",
+    "derek carr"
   ],
   "categories": {
     "急(hr)": [
       {
         "id": "e4f220faed2f",
-        "title": "Trump ‘plans to roll back’ some metal tariffs; NatWest hands bankers £495m bonus pot – business live",
-        "summary": "Rolling coverage of the latest economic and financial newsGold is recovering today too, up 1.1% at $4,973.1 per ounce, gaining back some ground after dropping by about 3% yesterday.The yellow metal came under pressure after data released on Wednesday showed the US job market began 2026 on firmer foo...",
+        "title": "Trump ‘plans to roll back’ some metal tariffs; US inflation weaker than expected in January - business live",
+        "summary": "Rolling coverage of the latest economic and financial newsEuropean markets are subdued this morning – the FTSE 100 is now down very slightly by 0.01%, and the pan-continental Europe Stoxx 600 index is down by 0.34%. That loss is being led by the basic materials sector, which is down 1.43%.The French...",
         "url": "https://www.theguardian.com/business/live/2026/feb/13/trump-metal-tariffs-natwest-bankers-bonus-latest-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-13T10:40:51+00:00"
+        "published": "2026-02-13T14:09:28+00:00"
+      },
+      {
+        "id": "f30991b1889f",
+        "title": "Heathrow isn’t crowded, it’s travellers walking on the wrong side, boss says",
+        "summary": "Thomas Woldbye says part of airport’s problem is UK passengers walk on the left while others walk on the rightHeathrow airport has revealed a crowding problem that a third runway cannot solve: British and foreign travellers walk on different sides, and keep colliding, according to its chief executiv...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/13/heathrow-overcrowded-travellers-walking-on-wrong-side-left-right",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T14:01:53+00:00"
+      },
+      {
+        "id": "58c870459f84",
+        "title": "Score, the dating app for people with good credit, is back",
+        "summary": "Two years ago, a controversial dating app was launched and quickly shuttered: for people with good-to-excellent credit.  Now, the founder is relaunching it, open to anyone.",
+        "url": "https://techcrunch.com/2026/02/13/score-the-dating-app-for-good-to-excellent-credit-returns-for-everyone-to-use/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T14:00:00+00:00"
+      },
+      {
+        "id": "8d25ca963e9d",
+        "title": "Euro Car Parks fined £473,000 in first for UK competition regulator",
+        "summary": "High court refuses injunction to stop CMA naming company penalised for failing to hand over informationEuro Car Parks is infamous for dishing out fines but the private parking company has been hit with a near- £475,000 penalty of its own after it failed to hand over information to a regulator.The Co...",
+        "url": "https://www.theguardian.com/business/2026/feb/13/euro-car-parks-fined-uk-competition-regulator-cma",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T13:57:48+00:00"
+      },
+      {
+        "id": "7cb4b14eac67",
+        "title": "Bank bosses get huge pay rises in sign top City salaries back to pre-crash highs",
+        "summary": "Nat West chief executive’s £6.6m pay package for 2025 is largest since disgraced predecessor’s £7.7m in 2006Business live – latest updatesA trio of bank bosses have been handed huge pay packets in the latest sign that the vast salaries and bonuses handed to Wall Street and City of London executives ...",
+        "url": "https://www.theguardian.com/business/2026/feb/13/paul-thwaite-natwest-ceo-payout-fred-goodwin",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T13:46:26+00:00"
+      },
+      {
+        "id": "e2341ad8ee58",
+        "title": "French police arrest nine people over suspected €10m Louvre ticket fraud",
+        "summary": "Prosecutors’ office says two museum workers, several tour guides and suspected mastermind among those detainedFrench police investigating a suspected €10m (£8.7m) ticket fraud scheme at the Louvre museum in Paris have detained nine people, including two members of staff.“Based on the information ava...",
+        "url": "https://www.theguardian.com/world/2026/feb/13/french-police-arrest-people-suspected-louvre-ticket-fraud",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T13:26:18+00:00"
+      },
+      {
+        "id": "7a106f8a30ed",
+        "title": "Rocket Report: Say cheerio to Orbex; China is getting good at booster landings",
+        "summary": "\"You absolutely have to have a plan to compete with SpaceX on price.\"",
+        "url": "https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T12:00:09+00:00"
+      },
+      {
+        "id": "3a2141735317",
+        "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
+        "summary": "Pam Bondi and Kristi Noem sued for coercing platforms into censoring ICE posts.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T12:00:07+00:00"
+      },
+      {
+        "id": "7bd2f289e674",
+        "title": "Tell us: are you expecting to give or receive an inheritance?",
+        "summary": "We want to hear from people about how inheritance plays a role in their lives, whether they are giving, receiving or expecting nothing at allLast November, ahead of G20 meetings in Johannesburg, South Africa, economists warned in a report that more than $70tn (£53tn) of inherited wealth will pass do...",
+        "url": "https://www.theguardian.com/inequality/2026/feb/13/tell-us-are-you-expecting-to-give-or-receive-an-inheritance",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T11:25:54+00:00"
       },
       {
         "id": "0ccfafa934b4",
@@ -53,22 +117,6 @@
         "url": "https://www.theguardian.com/sport/2026/feb/13/a-great-wee-place-the-small-scottish-factory-crafting-olympic-curling-stones",
         "source": "Business | The Guardian",
         "published": "2026-02-13T09:00:38+00:00"
-      },
-      {
-        "id": "7cb4b14eac67",
-        "title": "Paul Thwaite seals largest payout for NatWest CEO since disgraced Fred Goodwin in 2006",
-        "summary": "Thwaite given £6.6m pay package for 2025, while Goodwin received £7.7m when bank was known as RBSBusiness live – latest updatesThe NatWest boss, Paul Thwaite, has clinched the largest payout for a chief executive of the banking group since his disgraced predecessor Fred Goodwin took home £7.7m in th...",
-        "url": "https://www.theguardian.com/business/2026/feb/13/paul-thwaite-natwest-ceo-payout-fred-goodwin",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T08:38:28+00:00"
-      },
-      {
-        "id": "71d579c96f3c",
-        "title": "Reform UK’s Kent council faces ‘extreme risk’ after passing first budget",
-        "summary": "Councillors vote for 3.99% council tax increase while mounting ‘attack on the vulnerable’, opposition saysReform UK’s showcase council in Kent faces “extreme risk” and “instability”, opposition politicians have warned, after it passed its first budget.The party’s councillors voted it through on Thur...",
-        "url": "https://www.theguardian.com/politics/2026/feb/13/reform-uk-kent-council-extreme-risk-pass-first-budget",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T08:19:54+00:00"
       },
       {
         "id": "5aae91ed6a83",
@@ -159,78 +207,46 @@
         "published": "2026-02-13T00:01:28+00:00"
       },
       {
-        "id": "8d3bba89a242",
-        "title": "For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer",
-        "summary": "The longevity-obsessed investor Bryan Johnson is charging $1 million to sign up for his \"Immortals\" program.",
-        "url": "https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/",
-        "source": "TechCrunch",
-        "published": "2026-02-12T23:43:47+00:00"
-      },
-      {
-        "id": "ddd8ed6c12bd",
-        "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
-        "summary": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
-        "url": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
-        "source": "TechCrunch",
-        "published": "2026-02-12T23:26:56+00:00"
-      },
-      {
-        "id": "d79e93738c63",
-        "title": "IBM will hire your entry-level talent in the age of AI",
-        "summary": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
-        "url": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
-        "source": "TechCrunch",
-        "published": "2026-02-12T23:23:17+00:00"
-      },
-      {
-        "id": "a322365dd9eb",
-        "title": "Rivian was saved by software in 2025",
-        "summary": "The company's annual revenue was boosted by its technology joint venture with Volkswagen Group.",
-        "url": "https://techcrunch.com/2026/02/12/rivian-was-saved-by-software-in-2025/",
-        "source": "TechCrunch",
-        "published": "2026-02-12T23:17:32+00:00"
-      },
-      {
-        "id": "1cf5bd478650",
-        "title": "NHS deal with AI firm Palantir called into question after officials’ concerns revealed",
-        "summary": "Exclusive: in 2025 briefing to Wes Streeting, officials warned reputation of tech firm behind US ICE operations would hinder rollout of data system in UK Health officials fear Palantir’s reputation will hinder the delivery of a “vital” £330m NHS contract, according to briefings seen by the Guardian,...",
-        "url": "https://www.theguardian.com/society/2026/feb/12/nhs-deal-with-ai-firm-palantir-called-into-question-after-officials-concerns-revealed",
-        "source": "Business | The Guardian",
-        "published": "2026-02-12T23:04:51+00:00"
-      },
-      {
-        "id": "b9452571b29b",
-        "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-        "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
-        "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-12T22:56:02+00:00"
-      },
-      {
-        "id": "cf64a4e14da8",
-        "title": "Trump official overruled FDA scientists to reject Moderna's flu shot",
-        "summary": "FDA's top vaccine regulator, Vinay Prasad, is known for overruling scientists.",
-        "url": "https://arstechnica.com/health/2026/02/trump-official-overruled-fda-scientists-to-reject-modernas-flu-shot/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-12T22:36:33+00:00"
+        "id": "85247f78afa7",
+        "title": "Is social media addictive for teens? US courts wade into scientific debate",
+        "summary": "Nature, Published online: 13 February 2026; doi:10.1038/d41586-026-00433-yA wave of lawsuits will push juries to decide on an issue that researchers are still debating.",
+        "url": "https://www.nature.com/articles/d41586-026-00433-y",
+        "source": "Nature",
+        "published": "2026-02-13T00:00:00+00:00"
       }
     ],
     "破(day)": [
       {
+        "id": "a2d1158a5499",
+        "title": "‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood",
+        "summary": "An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figuresA leading Hollywood figure has warned “it’s likely over for us”, after watching a widely disseminated AI-generated clip featuring Tom Cruise and Brad Pitt fighting.Rhett Reese, co-writer of Deadpool &amp;...",
+        "url": "https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-13T13:32:55+00:00"
+      },
+      {
+        "id": "e7154e5e4501",
+        "title": "OpenAI retired its most seductive chatbot – leaving users angry and grieving: ‘I can’t live like this’",
+        "summary": "Its human partners said the flirty, quirky GPT-4o was the perfect companion – on the eve of Valentine’s Day, it’s being turned off for good. How will users cope?Brandie plans to spend her last day with Daniel at the zoo. He always loved animals. Last year, she took him to the Corpus Christi aquarium...",
+        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/13/openai-chatbot-gpt4o-valentines-day",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-13T12:30:24+00:00"
+      },
+      {
+        "id": "a735ef11f5c8",
+        "title": "Anthropic raises $30bn in latest round, valuing Claude bot maker at $380bn",
+        "summary": "Maker of chatbot with coding ability says annualised revenue grew tenfold in each of past three years, to $14bnAnthropic, the US AI startup behind the Claude chatbot, has raised $30bn (£22bn) in a funding round that more than doubled its valuation to $380bn.The company’s previous funding round in Se...",
+        "url": "https://www.theguardian.com/technology/2026/feb/12/anthropic-funding-round",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-13T11:30:00+00:00"
+      },
+      {
         "id": "1cf5bd478650",
         "title": "NHS deal with AI firm Palantir called into question after officials’ concerns revealed",
         "summary": "Exclusive: in 2025 briefing to Wes Streeting, officials warned reputation of tech firm behind US ICE operations would hinder rollout of data system in UK Health officials fear Palantir’s reputation will hinder the delivery of a “vital” £330m NHS contract, according to briefings seen by the Guardian,...",
         "url": "https://www.theguardian.com/society/2026/feb/12/nhs-deal-with-ai-firm-palantir-called-into-question-after-officials-concerns-revealed",
         "source": "Technology | The Guardian",
         "published": "2026-02-12T23:04:51+00:00"
-      },
-      {
-        "id": "a735ef11f5c8",
-        "title": "Anthropic raises $30bn in latest round, valuing Claude bot maker at $380bn",
-        "summary": "Maker of chatbot boasting coding ability said annualised revenue grew tenfold in each of past three years, to $14bnAnthropic, the US AI startup behind the Claude chatbot, has raised $30bn (£22bn) in a funding round that more than doubled its valuation to $380bn.The company’s previous funding round i...",
-        "url": "https://www.theguardian.com/technology/2026/feb/12/anthropic-funding-round",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-12T22:46:53+00:00"
       },
       {
         "id": "d038d14366d7",
@@ -399,25 +415,17 @@
         "url": "https://technews.tw/2026/02/12/death-isnt-the-end-meta-patented-an-ai-that-lets-you-keep-posting-from-beyond-the-grave/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-02-12T02:40:16+00:00"
-      },
-      {
-        "id": "6571c8b1533b",
-        "title": "Meta 推「Dear Algo」，一句話客製 Threads 動態三天",
-        "summary": "Meta 最近推出了一項名為「Dear Algo」的新功能，讓 Threads 用戶能暫時自定義他們的動態消息 [&#8230;]",
-        "url": "https://technews.tw/2026/02/12/meta-will-let-users-tweak-threads-algorithms-as-long-as-they-ask-nicely/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-02-12T02:20:45+00:00"
-      },
-      {
-        "id": "e7fc78fd970f",
-        "title": "Claude Enterprise, now available self-serve",
-        "summary": "Claude Enterprise, now available self-serve",
-        "url": "https://claude.com/blog/self-serve-enterprise",
-        "source": "Claude Blog",
-        "published": "2026-02-12T00:00:00+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "84bd16daedd6",
+        "title": "Tuning in to College Radio Materials on World Radio Day 2026",
+        "summary": "On February 13, World Radio Day acknowledges the importance of radio around the globe. The annual event has been taking place for a little over a decade, dating back to [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/13/tuning-in-to-college-radio-materials-on-world-radio-day-2026/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-13T12:00:00+00:00"
+      },
       {
         "id": "78751a1c9871",
         "title": "科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？",
@@ -609,14 +617,6 @@
         "url": "https://blog.freesound.org/?p=2352",
         "source": "The Freesound Blog",
         "published": "2026-01-30T11:10:55+00:00"
-      },
-      {
-        "id": "d3b00a3f761b",
-        "title": "Tom Johnson and a rational theory of harmony",
-        "summary": ".",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2591899?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2026-01-29T07:06:01+00:00"
       }
     ]
   }
