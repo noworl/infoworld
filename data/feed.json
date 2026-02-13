@@ -1,23 +1,71 @@
 {
-  "updated_at": "2026-02-13T17:30:39.109432+00:00",
+  "updated_at": "2026-02-13T19:55:26.893777+00:00",
   "trending": [
-    "noah kahan fenway",
-    "tomas etcheverry",
-    "cpi inflation rate",
-    "galatasaray - eyüpspor",
-    "casey dawson",
-    "high on life 2",
-    "al hilal - al-ettifaq",
-    "is presidents day a federal holiday",
-    "wake forest baseball",
-    "joey loperfido"
+    "maxim naumov",
+    "shelby miller",
+    "juliana peres magalhães",
+    "ligue 1",
+    "wasserman",
+    "chase josey",
+    "paul caneiro",
+    "figure skating",
+    "lsu baseball",
+    "aleksandr selevko"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "86bfc01751d9",
+        "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+        "summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships to the chatbot.",
+        "url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T18:10:00+00:00"
+      },
+      {
+        "id": "0f04d7a20470",
+        "title": "$1.8 million MST3K Kickstarter brings in (almost) everyone from the old show",
+        "summary": "MST3K's 2010s revival looked forward; this one is emphatically looking backward.",
+        "url": "https://arstechnica.com/culture/2026/02/1-8-million-mst3k-kickstarter-brings-in-almost-everyone-from-the-old-show/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T17:52:35+00:00"
+      },
+      {
+        "id": "6527b573e236",
+        "title": "The SEC closed its investigation into Fisker",
+        "summary": "The financial regulator revealed in a response to a TechCrunch records request that the probe was closed in September 2025.",
+        "url": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T17:48:43+00:00"
+      },
+      {
+        "id": "5994b28e24c6",
+        "title": "There’s a cost to going cashless | Letters",
+        "summary": "Readers respond to Sammy Gecsoyler’s article about his week without bank and contactless cardsI welcome Sammy Gecsoyler’s article (My week of only using cash: could a return to notes and coins change my life?, 10 February) while noting that he is young, employed and living in a city, and that he com...",
+        "url": "https://www.theguardian.com/money/2026/feb/13/theres-a-cost-to-going-cashless",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T17:48:10+00:00"
+      },
+      {
+        "id": "1ed649008022",
+        "title": "India partners with Alibaba.com for export push despite past China tech bans",
+        "summary": "India turns to Alibaba.com's B2B network of 50 million buyers in 200 countries to help businesses scale global exports.",
+        "url": "https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T17:32:59+00:00"
+      },
+      {
+        "id": "995f9985c66e",
+        "title": "Tiny, 45 base long RNA can make copies of itself",
+        "summary": "Self-copying RNAs may have been a key stop along the pathway to life.",
+        "url": "https://arstechnica.com/science/2026/02/researchers-find-small-rnas-that-can-make-copies-of-themselves/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T17:29:51+00:00"
+      },
+      {
         "id": "c55ef4576afe",
         "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
-        "summary": "After Anthropic's Super Bowl ads, Claude's app reached the top 10 on the U.S. App Store.",
+        "summary": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT.",
         "url": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
         "source": "TechCrunch",
         "published": "2026-02-13T17:16:27+00:00"
@@ -33,7 +81,7 @@
       {
         "id": "c0d62f4257f9",
         "title": "AI is indeed coming – but there is also evidence to allay investor fears",
-        "summary": "Opinions are divided about the potential impact of artificial intelligence as the response to a recent viral essay showsUK ad agencies undergo their biggest exodus of staff as AI threatens industryThe message from investors to the software, wealth management, legal services and logistics industries ...",
+        "summary": "Opinions are divided about the potential impact of artificial intelligence as the response to a recent viral essay showsUK ad agencies undergo biggest exodus of staff as AI threatens industryThe message from investors to the software, wealth management, legal services and logistics industries this m...",
         "url": "https://www.theguardian.com/technology/2026/feb/13/ai-effects-on-business-industry-evidence-to-allay-investor-fears",
         "source": "Business | The Guardian",
         "published": "2026-02-13T17:00:30+00:00"
@@ -165,57 +213,49 @@
         "url": "https://www.theguardian.com/business/2026/feb/13/january-inflation-tariffs-trump",
         "source": "Business | The Guardian",
         "published": "2026-02-13T13:53:25+00:00"
-      },
-      {
-        "id": "7cb4b14eac67",
-        "title": "Bank bosses get huge pay rises in sign top City salaries back to pre-crash highs",
-        "summary": "Nat West CEO’s £6.6m pay package for 2025 is largest for group since disgraced Fred Goodwin’s £7.7m in 2006Business live – latest updatesA trio of bank bosses have been given huge pay packets in the latest sign that the vast salaries and bonuses handed to Wall Street and City of London executives in...",
-        "url": "https://www.theguardian.com/business/2026/feb/13/paul-thwaite-natwest-ceo-payout-fred-goodwin",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T13:46:26+00:00"
-      },
-      {
-        "id": "e2341ad8ee58",
-        "title": "French police arrest nine people over suspected €10m Louvre ticket fraud",
-        "summary": "Prosecutors’ office says two museum workers, several tour guides and suspected mastermind among those detainedFrench police investigating a suspected €10m (£8.7m) ticket fraud scheme at the Louvre museum in Paris have detained nine people, including two members of staff.“Based on the information ava...",
-        "url": "https://www.theguardian.com/world/2026/feb/13/french-police-arrest-people-suspected-louvre-ticket-fraud",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T13:26:18+00:00"
-      },
-      {
-        "id": "5798cd3114fa",
-        "title": "Boss of P&O Ferries owner DP World leaves over Jeffrey Epstein links",
-        "summary": "Sultan Ahmed bin Sulayem’s exit as group chair and CEO follows pressure after publication of emailsThe boss of the P&amp;O Ferries owner, DP World, has left the company after revelations over his ties with the sex offender Jeffrey Epstein forced the ports and logistics company to take action.Dubai-b...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/13/p-and-o-ferries-owner-dp-world-boss-leaves-jeffrey-epstein-links",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T13:11:32+00:00"
-      },
-      {
-        "id": "7a106f8a30ed",
-        "title": "Rocket Report: Say cheerio to Orbex; China is getting good at booster landings",
-        "summary": "\"You absolutely have to have a plan to compete with SpaceX on price.\"",
-        "url": "https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-13T12:00:09+00:00"
-      },
-      {
-        "id": "3a2141735317",
-        "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
-        "summary": "Pam Bondi and Kristi Noem sued for coercing platforms into censoring ICE posts.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-13T12:00:07+00:00"
-      },
-      {
-        "id": "7bd2f289e674",
-        "title": "Tell us: are you expecting to give or receive an inheritance?",
-        "summary": "We want to hear from people about how inheritance plays a role in their lives, whether they are giving, receiving or expecting nothing at allLast November, ahead of G20 meetings in Johannesburg, South Africa, economists warned in a report that more than $70tn (£53tn) of inherited wealth will pass do...",
-        "url": "https://www.theguardian.com/inequality/2026/feb/13/tell-us-are-you-expecting-to-give-or-receive-an-inheritance",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T11:25:54+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "7e9994f0cddf",
+        "title": "Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits",
+        "summary": "As prediction market platforms like Polymarket and Kalshi battle regulators in court, Senate Democrats are urging the CFTC to avoid weighing in, escalating a broader fight over the burgeoning industry.",
+        "url": "https://www.wired.com/story/senators-urge-top-regulators-to-stay-out-of-prediction-market-lawsuits/",
+        "source": "Business Latest",
+        "published": "2026-02-13T19:31:24+00:00"
+      },
+      {
+        "id": "21c8710d55ed",
+        "title": "Join Our Livestream: The Hype, Reality, and Future of EVs",
+        "summary": "Pose your questions to a panel of WIRED experts about the future of the electric vehicle industry.",
+        "url": "https://www.wired.com/story/livestream-the-hype-reality-and-future-of-electric-vehicles/",
+        "source": "Business Latest",
+        "published": "2026-02-13T19:21:47+00:00"
+      },
+      {
+        "id": "d9278d0c0d71",
+        "title": "Jam, color, and geometry — discover Perplex On’s AV synthesia bliss",
+        "summary": "Dive deep into these explosions of sound, light, and shape from Munich-based Perplex On, as the musical act pairs compact instruments with visuals made in Lottie and Imaginando&#8217;s VS &#8211; Visual Synthesizer. Dazzle at these eye-popping, brain-tickling audiovisual explorations. Warning: conta...",
+        "url": "https://cdm.link/perplex-on-av/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-13T18:43:34+00:00"
+      },
+      {
+        "id": "84f25f523d65",
+        "title": "Record Low Snow in the West Will Mean Less Water, More Fire, and Political Chaos",
+        "summary": "Snowpack levels across a wide swath of western US states are among the lowest seen in decades, even as regulators struggle to negotiate water rights in the region.",
+        "url": "https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/",
+        "source": "Science Latest",
+        "published": "2026-02-13T18:25:53+00:00"
+      },
+      {
+        "id": "94036b207e34",
+        "title": "‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations",
+        "summary": "Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship datacentersElon Musk’s artificial intelligence company is continuing to fuel its datacenters with unpermitted gas turbines, an investigation by the Floodlight newsroom shows. Thermal footage captured by Flo...",
+        "url": "https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-13T18:00:15+00:00"
+      },
       {
         "id": "d10aa01238e7",
         "title": "Zillow Has Gone Wild—for AI",
@@ -375,46 +415,6 @@
         "url": "https://www.twreporter.org/a/the-year-of-healing-hualien-mataian-villagers",
         "source": "報導者",
         "published": "2026-02-12T16:00:00+00:00"
-      },
-      {
-        "id": "99b4cc5503e4",
-        "title": "修屋、勞動、重建身心──楠西震災一年，百果之鄉的絕處逢春記",
-        "summary": "「從前大家埋頭拚生計，經過這一場地震，才意識到彼此連結、互相扶持，社區才有未來。」",
-        "url": "https://www.twreporter.org/a/the-year-of-healing-tainan-chiayi-earthquake-nansi-survivors",
-        "source": "報導者",
-        "published": "2026-02-12T16:00:00+00:00"
-      },
-      {
-        "id": "973388dc900c",
-        "title": "年關將近，仍待蓋回厝瓦、補上人生破洞的丹娜絲災民心內話",
-        "summary": "丹娜絲重創嘉南，許多老屋毀損甚至塌陷。有人無力修復卻也只能「走一步算一步」；有人為重建祖厝二度就業當保全；有人想辦法為更弱勢的家戶找資源⋯⋯記者在年關前再次走訪災區，記下災民修復家園的艱難與互助。",
-        "url": "https://www.twreporter.org/a/the-year-of-healing-typhoon-danas-tainan-villagers",
-        "source": "報導者",
-        "published": "2026-02-12T16:00:00+00:00"
-      },
-      {
-        "id": "2eb62187117b",
-        "title": "Elon Musk posted about race almost every day in January",
-        "summary": "Many social media posts by Tesla CEO on his platform are indiscernible from those of white supremacists, say expertsElon Musk’s longtime fixation on a white racial majority is intensifying. The richest man in the world posted about how the white race was under threat, made allusions to race science ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/12/elon-musk-posts-january-white-supremacists",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-12T14:24:58+00:00"
-      },
-      {
-        "id": "76198b5eb226",
-        "title": "What is Pokopia? Inside the calming Pokémon game that ditches battles for gardening",
-        "summary": "We explore the cosy world-building spin-off with Game Freak’s Shigeru Ohmori and his fellow developers – and learn how it began with a Pokémon-hunting dreamPokémon is celebrating its 30th anniversary this month, and everybody knows what to expect from these games by now. The concept is simple: head ...",
-        "url": "https://www.theguardian.com/games/2026/feb/12/what-is-pokopia-developers-explain-addictive-new-pokemon-game",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-12T13:35:14+00:00"
-      },
-      {
-        "id": "8f8e640542bb",
-        "title": "The Fight Over US Climate Rules Is Just Beginning",
-        "summary": "As the EPA moves to roll back the endangerment finding, which allows it to regulate greenhouse gases, experts predict uncertainty for business and a protracted legal fight.",
-        "url": "https://www.wired.com/story/the-fight-over-us-climate-rules-is-just-beginning/",
-        "source": "Science Latest",
-        "published": "2026-02-12T10:30:00+00:00"
       }
     ],
     "序(month)": [
