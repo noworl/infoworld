@@ -1,26 +1,138 @@
 {
-  "updated_at": "2026-02-13T14:29:49.562005+00:00",
+  "updated_at": "2026-02-13T17:30:39.109432+00:00",
   "trending": [
-    "alex de minaur",
-    "al-shabab vs al-ahli",
-    "halle berry",
-    "john harbaugh",
-    "usa vs netherlands",
-    "conduent",
-    "stephen wilson jr",
-    "igor tudor",
-    "dense fog advisory",
-    "derek carr"
+    "noah kahan fenway",
+    "tomas etcheverry",
+    "cpi inflation rate",
+    "galatasaray - eyüpspor",
+    "casey dawson",
+    "high on life 2",
+    "al hilal - al-ettifaq",
+    "is presidents day a federal holiday",
+    "wake forest baseball",
+    "joey loperfido"
   ],
   "categories": {
     "急(hr)": [
       {
-        "id": "e4f220faed2f",
-        "title": "Trump ‘plans to roll back’ some metal tariffs; US inflation weaker than expected in January - business live",
-        "summary": "Rolling coverage of the latest economic and financial newsEuropean markets are subdued this morning – the FTSE 100 is now down very slightly by 0.01%, and the pan-continental Europe Stoxx 600 index is down by 0.34%. That loss is being led by the basic materials sector, which is down 1.43%.The French...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/13/trump-metal-tariffs-natwest-bankers-bonus-latest-news-updates",
+        "id": "c55ef4576afe",
+        "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+        "summary": "After Anthropic's Super Bowl ads, Claude's app reached the top 10 on the U.S. App Store.",
+        "url": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T17:16:27+00:00"
+      },
+      {
+        "id": "9a3ad3bc16cc",
+        "title": "UK ad agencies undergo their biggest exodus of staff as AI threatens industry",
+        "summary": "Number of employees declined by more than 14% to 24,963 last year, with fall greatest among younger workersAI is indeed coming – but there is also evidence to allay investor fearsUK advertising agencies had their biggest annual exodus of staff last year, led by younger workers, as artificial intelli...",
+        "url": "https://www.theguardian.com/media/2026/feb/13/uk-ad-agencies-biggest-annual-exodus-of-staff-ai-threatens-industry",
         "source": "Business | The Guardian",
-        "published": "2026-02-13T14:09:28+00:00"
+        "published": "2026-02-13T17:00:30+00:00"
+      },
+      {
+        "id": "c0d62f4257f9",
+        "title": "AI is indeed coming – but there is also evidence to allay investor fears",
+        "summary": "Opinions are divided about the potential impact of artificial intelligence as the response to a recent viral essay showsUK ad agencies undergo their biggest exodus of staff as AI threatens industryThe message from investors to the software, wealth management, legal services and logistics industries ...",
+        "url": "https://www.theguardian.com/technology/2026/feb/13/ai-effects-on-business-industry-evidence-to-allay-investor-fears",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T17:00:30+00:00"
+      },
+      {
+        "id": "e839fe07d529",
+        "title": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
+        "summary": "Roku delivered an impressive Q4, posting net income of $80.5 million. The company also outlined plans for streaming bundles.",
+        "url": "https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T16:39:27+00:00"
+      },
+      {
+        "id": "d0cec0348955",
+        "title": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
+        "summary": "\"Our matches convert to actual dates at about 10x the rate of Tinder,\" Weng told TechCrunch.",
+        "url": "https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T16:24:53+00:00"
+      },
+      {
+        "id": "be2a0547a9a9",
+        "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+        "summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+        "url": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T16:11:01+00:00"
+      },
+      {
+        "id": "ebdb3daa78ca",
+        "title": "Dutch phone giant Odido says millions of customers affected by data breach",
+        "summary": "The Dutch phone giant Odido is the latest phone and internet company to be hacked in recent months, as governments and financially motivated hackers continue to steal highly confidential information about phone customers.",
+        "url": "https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T15:54:13+00:00"
+      },
+      {
+        "id": "a1930b2d4133",
+        "title": "Amazon’s Ring cancels partnership with Flock, a network of AI cameras used by ICE, feds, and police",
+        "summary": "This news comes less than a week after Ring's Super Bowl commercial stoked controversy over the company's capacity for mass surveillance.",
+        "url": "https://techcrunch.com/2026/02/13/amazons-ring-cancels-partnership-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T15:40:15+00:00"
+      },
+      {
+        "id": "3f09e3ac1798",
+        "title": "Reeves appoints higher pay advocate to fight skills shortages as chief economic adviser",
+        "summary": "Labour market expert Prof Brian Bell has called for better pay and conditions in key sectors, particularly social careRachel Reeves has appointed a labour market expert who has repeatedly called for better pay and conditions in key sectors, such as social care, to reduce the UK’s reliance on migrant...",
+        "url": "https://www.theguardian.com/business/2026/feb/13/rachel-reeves-appoints-brian-bell-chief-economic-adviser-skills-shortages-social-care",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T15:38:02+00:00"
+      },
+      {
+        "id": "815d3cd81386",
+        "title": "What if riders don't close a robotaxi door after a ride? Try DoorDash.",
+        "summary": "Robotaxis can't escape the gig economy as Waymo tries to solve a human problem.",
+        "url": "https://arstechnica.com/cars/2026/02/what-if-riders-dont-close-a-robotaxi-door-after-a-ride-try-doordash/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T15:32:01+00:00"
+      },
+      {
+        "id": "95d50005e202",
+        "title": "Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.",
+        "summary": "\"It’s time to go back to the Moon—this time to stay.\"",
+        "url": "https://arstechnica.com/space/2026/02/why-is-bezos-trolling-musk-on-x-with-turtle-pics-because-he-has-a-new-moon-plan/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T15:19:49+00:00"
+      },
+      {
+        "id": "d51f3a67868a",
+        "title": "Beijing pastry shop overrun by shoppers after Xi Jinping’s visit",
+        "summary": "Customers flock to Daoxiangcun to pick up cakes selected by the president during lunar new year tour around cityA Beijing pastry shop visited by the Chinese president, Xi Jinping, on a lunar new year tour this week has been swarmed by customers hoping to get their hands on Xi-approved sweet treats.T...",
+        "url": "https://www.theguardian.com/world/2026/feb/13/beijing-pastry-shop-overrun-shoppers-xi-jinping-visit-lunar-new-year",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T15:17:36+00:00"
+      },
+      {
+        "id": "16949c3e0dc7",
+        "title": "Cohere’s $240M year sets stage for IPO",
+        "summary": "Cohere surpassed $240 million in annual recurring revenue in 2025, highlighting strong enterprise AI demand as the Canadian startup positions itself for a potential IPO amid intensifying competition from OpenAI and Anthropic.",
+        "url": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T15:03:10+00:00"
+      },
+      {
+        "id": "bb572b7c5690",
+        "title": "Meta plans to add facial recognition to its smart glasses, report claims",
+        "summary": "The feature, internally known as “Name Tag,” would allow smart glasses wearers to identify people and get information about them via Meta's AI assistant.",
+        "url": "https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/",
+        "source": "TechCrunch",
+        "published": "2026-02-13T14:58:39+00:00"
+      },
+      {
+        "id": "4ceb65e8d019",
+        "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
+        "summary": "These bots supposedly need a human body to accomplish great things in meatspace.",
+        "url": "https://arstechnica.com/ai/2026/02/i-spent-two-days-gigging-at-rentahuman-and-didnt-make-a-single-cent/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T14:41:21+00:00"
       },
       {
         "id": "f30991b1889f",
@@ -33,23 +145,31 @@
       {
         "id": "58c870459f84",
         "title": "Score, the dating app for people with good credit, is back",
-        "summary": "Two years ago, a controversial dating app was launched and quickly shuttered: for people with good-to-excellent credit.  Now, the founder is relaunching it, open to anyone.",
+        "summary": "Two years ago, a controversial dating app was launched and quickly shuttered: for people with good-to-excellent credit. Now, the founder is relaunching it, open to anyone.",
         "url": "https://techcrunch.com/2026/02/13/score-the-dating-app-for-good-to-excellent-credit-returns-for-everyone-to-use/",
         "source": "TechCrunch",
         "published": "2026-02-13T14:00:00+00:00"
       },
       {
         "id": "8d25ca963e9d",
-        "title": "Euro Car Parks fined £473,000 in first for UK competition regulator",
-        "summary": "High court refuses injunction to stop CMA naming company penalised for failing to hand over informationEuro Car Parks is infamous for dishing out fines but the private parking company has been hit with a near- £475,000 penalty of its own after it failed to hand over information to a regulator.The Co...",
+        "title": "Penalty notice: Euro Car Parks fined £473,000 for ignoring regulator",
+        "summary": "High court refuses injunction to stop CMA naming company penalised for failing to hand over informationEuro Car Parks is infamous for dishing out fines but the private parking company has been hit with an almost £475,000 penalty of its own after it failed to hand over information to a regulator.The ...",
         "url": "https://www.theguardian.com/business/2026/feb/13/euro-car-parks-fined-uk-competition-regulator-cma",
         "source": "Business | The Guardian",
         "published": "2026-02-13T13:57:48+00:00"
       },
       {
+        "id": "f47ad38bae8e",
+        "title": "US inflation falls to 2.4% in January after Trump’s tariffs led to price fluctuations",
+        "summary": "Economists predicted a slight easing of inflation, although it’s unclear whether Fed will again cut interest ratesUS inflation moderated in January to 2.4%, an easing after Donald Trump’s tariffs triggered price fluctuations last year.Prices rose 0.2% from December to January, according to data rele...",
+        "url": "https://www.theguardian.com/business/2026/feb/13/january-inflation-tariffs-trump",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T13:53:25+00:00"
+      },
+      {
         "id": "7cb4b14eac67",
         "title": "Bank bosses get huge pay rises in sign top City salaries back to pre-crash highs",
-        "summary": "Nat West chief executive’s £6.6m pay package for 2025 is largest since disgraced predecessor’s £7.7m in 2006Business live – latest updatesA trio of bank bosses have been handed huge pay packets in the latest sign that the vast salaries and bonuses handed to Wall Street and City of London executives ...",
+        "summary": "Nat West CEO’s £6.6m pay package for 2025 is largest for group since disgraced Fred Goodwin’s £7.7m in 2006Business live – latest updatesA trio of bank bosses have been given huge pay packets in the latest sign that the vast salaries and bonuses handed to Wall Street and City of London executives in...",
         "url": "https://www.theguardian.com/business/2026/feb/13/paul-thwaite-natwest-ceo-payout-fred-goodwin",
         "source": "Business | The Guardian",
         "published": "2026-02-13T13:46:26+00:00"
@@ -61,6 +181,14 @@
         "url": "https://www.theguardian.com/world/2026/feb/13/french-police-arrest-people-suspected-louvre-ticket-fraud",
         "source": "Business | The Guardian",
         "published": "2026-02-13T13:26:18+00:00"
+      },
+      {
+        "id": "5798cd3114fa",
+        "title": "Boss of P&O Ferries owner DP World leaves over Jeffrey Epstein links",
+        "summary": "Sultan Ahmed bin Sulayem’s exit as group chair and CEO follows pressure after publication of emailsThe boss of the P&amp;O Ferries owner, DP World, has left the company after revelations over his ties with the sex offender Jeffrey Epstein forced the ports and logistics company to take action.Dubai-b...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/13/p-and-o-ferries-owner-dp-world-boss-leaves-jeffrey-epstein-links",
+        "source": "Business | The Guardian",
+        "published": "2026-02-13T13:11:32+00:00"
       },
       {
         "id": "7a106f8a30ed",
@@ -85,137 +213,25 @@
         "url": "https://www.theguardian.com/inequality/2026/feb/13/tell-us-are-you-expecting-to-give-or-receive-an-inheritance",
         "source": "Business | The Guardian",
         "published": "2026-02-13T11:25:54+00:00"
-      },
-      {
-        "id": "0ccfafa934b4",
-        "title": "Will the Epstein files tarnish the reputation of Jamie Dimon, America’s banker?",
-        "summary": "The final stretch of the JP Morgan Chase chief’s career is a bumpy one, as Trump himself demands prosecutors investigate Epstein’s ties to Dimon’s bank Continue reading...",
-        "url": "https://www.theguardian.com/business/ng-interactive/2026/feb/13/epstein-files-jamie-dimon",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T10:00:41+00:00"
-      },
-      {
-        "id": "4817b870a444",
-        "title": "Fusion startup Helion hits blistering temps as it races toward 2028 deadline",
-        "summary": "Helion's Polaris device hit 150 million degrees C recently, a milestone that nudges the company toward its commercial power plant that will sell electricity to Microsoft.",
-        "url": "https://techcrunch.com/2026/02/13/fusion-startup-helion-hits-blistering-temps-as-it-races-toward-2028-deadline/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T10:00:00+00:00"
-      },
-      {
-        "id": "04e653a5f330",
-        "title": "Shares in trucking and logistics firms plunge after AI freight tool launch",
-        "summary": "SemiCab platform by Algorhythm, previously considered a ‘penny stock’, sparks ‘category 5 paranoia’ across sectorShares in trucking and logistics companies have plunged as the sector became the latest to be targeted by investors fearful that new artificial intelligence tools could slash demand.A new...",
-        "url": "https://www.theguardian.com/business/2026/feb/13/trucking-logistics-shares-ai-freight-tool-launch-semicab-algorhythm",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T09:04:20+00:00"
-      },
-      {
-        "id": "b3ab1f4e5232",
-        "title": "‘A great wee place’: the small Scottish factory crafting Olympic curling stones",
-        "summary": "All stones in Cortina are made from granite found on tiny island in Firth of Clyde and crafted in East Ayrshire“It takes 60m years and about six hours to make a curling stone,” shouts Ricky English above the whine of the lathes. The operations manager at Kays Scotland is surrounded by wheels of anci...",
-        "url": "https://www.theguardian.com/sport/2026/feb/13/a-great-wee-place-the-small-scottish-factory-crafting-olympic-curling-stones",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T09:00:38+00:00"
-      },
-      {
-        "id": "5aae91ed6a83",
-        "title": "Homes for sale in England for £300,000 or less – in pictures",
-        "summary": "From a picturesque cottage in a country village to a listed building in the heart of bustling Manchester Continue reading...",
-        "url": "https://www.theguardian.com/money/gallery/2026/feb/13/homes-for-sale-in-england-for-300000-or-less-in-pictures",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T07:00:40+00:00"
-      },
-      {
-        "id": "66a8b6e7e696",
-        "title": "Reeves urged to reassure MPs over public finances amid £6bn-a-year Send costs",
-        "summary": "City analysts say financial market investors will be worried if cost is deducted from budget surplusRachel Reeves is under pressure to reassure MPs over the state of the UK’s public finances, amid concerns that the rising cost of special educational needs and disabilities (Send) could leave a signif...",
-        "url": "https://www.theguardian.com/politics/2026/feb/13/rachel-reeves-mps-public-finances-send-costs-markets",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T07:00:37+00:00"
-      },
-      {
-        "id": "0a7fafcaa664",
-        "title": "First-time buyers enjoy biggest choice of low-deposit mortgages in UK since 2008",
-        "summary": "More than 500 deals now offer 95% loans as banks and building societies loosen their borrowing rulesWould-be first-time buyers have the biggest choice of low-deposit mortgages for at least 18 years, new data shows, suggesting that 2026 is looking positive for those trying to get a foot on the proper...",
-        "url": "https://www.theguardian.com/money/2026/feb/13/first-time-buyers-low-deposit-mortgages-uk-banks-building-societies",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T07:00:37+00:00"
-      },
-      {
-        "id": "19b1f32b77d8",
-        "title": "Experience: I’m a professional chef in Antarctica",
-        "summary": "You have to be careful managing supplies – there is one delivery a yearThe first time anyone goes&nbsp;to the Antarctic is truly special. Just getting there is an adventure: it takes several planes, and about three to five days. Travelling there was a childhood dream of mine. I saw it as a way to te...",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/13/experience-im-a-professional-chef-in-antarctica",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T05:00:36+00:00"
-      },
-      {
-        "id": "ad1ec24c42a3",
-        "title": "Waymo is asking DoorDash drivers to shut the doors of its self-driving cars",
-        "summary": "If a passenger accidentally leaves a Waymo door open, the vehicle can get stuck in place.",
-        "url": "https://techcrunch.com/2026/02/12/waymo-is-asking-doordash-drivers-to-shut-the-doors-of-its-self-driving-cars/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T04:41:41+00:00"
-      },
-      {
-        "id": "9d26d2c18e82",
-        "title": "Gold thief flees scene of the crime on donkey in central Turkey – video",
-        "summary": "A suspect who broke into a jewellery store using a forklift, allegedly stole 150 grams of gold, and fled the scene on a donkey was arrested in Kayseri, central Turkey. Police teams from the provincial police department identified the suspect after reviewing security camera footage following the inci...",
-        "url": "https://www.theguardian.com/world/video/2026/feb/13/gold-thief-flees-scene-of-the-on-donkey-in-central-turkey-video",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T03:40:43+00:00"
-      },
-      {
-        "id": "ad0a3ca81c6f",
-        "title": "When Amazon badly needed a ride, Europe's Ariane 6 rocket delivered",
-        "summary": "This was the first launch of the Ariane 64, the most powerful rocket in European space history.",
-        "url": "https://arstechnica.com/space/2026/02/when-amazon-badly-needed-a-ride-europes-ariane-6-rocket-delivered/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-13T00:34:29+00:00"
-      },
-      {
-        "id": "61ef20bae666",
-        "title": "Tony Blair’s thinktank accuses Ed Miliband of driving up energy prices",
-        "summary": "Report by Tony Blair Institute urges government to drop some green policies amid criticism of decarbonisation goalAnalysis: Blair’s oil lobbying is a misleading rehash of fossil fuel industry spinTony Blair’s thinktank has accused Ed Miliband of driving up energy prices in his push to make Britain’s...",
-        "url": "https://www.theguardian.com/environment/2026/feb/13/tony-blair-institute-thinktank-ed-miliband-energy-prices",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T00:01:30+00:00"
-      },
-      {
-        "id": "b9a6b2f8012b",
-        "title": "Attempt to modernise NS&I has been a ‘full-spectrum disaster’, MPs find",
-        "summary": "Spending watchdog says state-owned bank exposed taxpayers to ‘unacceptable risk’ as cost spiral to £3bnAn attempt to modernise the state-owned savings bank NS&amp;I has been a “full-spectrum disaster”, parliament’s spending watchdog has concluded in a damning report.NS&amp;I (National Savings &amp; ...",
-        "url": "https://www.theguardian.com/money/2026/feb/13/attempt-to-modernise-ns-and-i-full-spectrum-disaster-mps-spending-watchdog-finds",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T00:01:29+00:00"
-      },
-      {
-        "id": "195222da8b9d",
-        "title": "Food firms urge Europe not to ban calling non-meat products ‘sausages’",
-        "summary": "Exclusive: Manufacturers tell European Commission proposed ban would cause unnecessary confusionMore than a dozen food companies have urged the European Commission not to ban the use of words such as “sausage” and “burger” for non-meat products.Companies including Linda McCarney Foods, Quorn and THI...",
-        "url": "https://www.theguardian.com/world/2026/feb/13/food-firms-urge-europe-not-to-ban-calling-non-meat-products-sausages",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T00:01:29+00:00"
-      },
-      {
-        "id": "716cd1fcafc2",
-        "title": "Tony Blair’s oil lobbying is a misleading rehash of fossil fuel industry spin",
-        "summary": "Ex-PM’s thinktank urges more drilling and fewer renewables, ignoring evidence that clean energy is cheaper and better for billsA thinktank with close ties to Saudi Arabia and substantial funding from a Donald Trump ally needs to present a particularly robust analysis to earn the right to be listened...",
-        "url": "https://www.theguardian.com/business/2026/feb/13/tony-blair-oil-lobbying-fossil-fuel-industry-renewables-energy-bills",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T00:01:28+00:00"
-      },
-      {
-        "id": "85247f78afa7",
-        "title": "Is social media addictive for teens? US courts wade into scientific debate",
-        "summary": "Nature, Published online: 13 February 2026; doi:10.1038/d41586-026-00433-yA wave of lawsuits will push juries to decide on an issue that researchers are still debating.",
-        "url": "https://www.nature.com/articles/d41586-026-00433-y",
-        "source": "Nature",
-        "published": "2026-02-13T00:00:00+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "d10aa01238e7",
+        "title": "Zillow Has Gone Wild—for AI",
+        "summary": "As the housing market stalls, Zillow’s CEO sees AI as “an ingredient rather than a threat” that can both help the company protect its turf and reinvent how people search for homes.",
+        "url": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/",
+        "source": "Business Latest",
+        "published": "2026-02-13T16:14:25+00:00"
+      },
+      {
+        "id": "e191497ea8ea",
+        "title": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair – tested",
+        "summary": "From handheld to corded, self-emptying to stick models, these are our resident cleaner’s favourite vacuums for a spotless home• The best cordless vacuum cleaners, tested• How to make your vacuum cleaner last longerBuying a vacuum cleaner isn’t as easy as you might think. With so many brands and mode...",
+        "url": "https://www.theguardian.com/thefilter/2026/feb/13/best-vacuum-cleaners-uk-tested",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-13T15:00:28+00:00"
+      },
       {
         "id": "a2d1158a5499",
         "title": "‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood",
@@ -345,6 +361,22 @@
         "published": "2026-02-12T16:13:00+00:00"
       },
       {
+        "id": "f66586f94fb9",
+        "title": "專訪監委田秋堇：見證46年前林宅血案，「我們懷著傷繼續行走，不被憤恨掩蓋」",
+        "summary": "「人本來就很難懷著恐懼過日子。對於悲傷痛苦的事，大家也不會有興趣主動瞭解。但不知道有時候是一件滿危險的事。因為你會不知道防範，也不知道會遭遇什麼。所以我們是不是應該讓大家知道，我們是花了多少力氣，才讓這樣的事情不再重演。」",
+        "url": "https://www.twreporter.org/a/interview-tien-chiu-chin-on-1980-lin-family-murders",
+        "source": "報導者",
+        "published": "2026-02-12T16:00:00+00:00"
+      },
+      {
+        "id": "42da0c805d45",
+        "title": "生命河流轉了彎──中繼屋裡過新年，馬太鞍災民盼在淤泥中種回希望",
+        "summary": "2025年9月馬太鞍溪堰塞湖毀了許多人的家。災難過去近5個月，重建工作持續進行。記者訪問3位仍住在中繼屋或暫住工廠的居民，面對面目全非的家園，他們選擇留下守護受傷的土地，期盼淤泥也能開出花朵。",
+        "url": "https://www.twreporter.org/a/the-year-of-healing-hualien-mataian-villagers",
+        "source": "報導者",
+        "published": "2026-02-12T16:00:00+00:00"
+      },
+      {
         "id": "99b4cc5503e4",
         "title": "修屋、勞動、重建身心──楠西震災一年，百果之鄉的絕處逢春記",
         "summary": "「從前大家埋頭拚生計，經過這一場地震，才意識到彼此連結、互相扶持，社區才有未來。」",
@@ -383,38 +415,6 @@
         "url": "https://www.wired.com/story/the-fight-over-us-climate-rules-is-just-beginning/",
         "source": "Science Latest",
         "published": "2026-02-12T10:30:00+00:00"
-      },
-      {
-        "id": "dd7e4872f5f8",
-        "title": "The best walking pads and under-desk treadmills, tried and tested to turn your workday into a workout",
-        "summary": "Sedentary lifestyles are bad for us, but which under-desk treadmills and walking pads are worth the cost? Our expert stepped up to find out• The best treadmills for your homeVarious guidelines suggest we all try to walk at least 10,000 steps a day to improve our health and wellbeing. Public Health E...",
-        "url": "https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-12T10:00:06+00:00"
-      },
-      {
-        "id": "c205f4445142",
-        "title": "‘At 2am, it feels like someone’s there’: why Nigerians are choosing chatbots to give them advice and therapy",
-        "summary": "With many unable to access or afford qualified therapists, AI is filling the mental healthcare vacuum, amid calls for tighter regulationOn a quiet evening in her Abuja hotel, Joy Adeboye, 23, sits on her bed clutching her phone, her mind racing and chest tightening. On her screen is yet another abus...",
-        "url": "https://www.theguardian.com/global-development/2026/feb/12/nigeria-mental-health-ai-chatbots-psychiatry-therapy-depression-privacy",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-12T06:00:41+00:00"
-      },
-      {
-        "id": "95c791e46cdd",
-        "title": "Russia attempted to ‘fully block’ WhatsApp, Meta-owned company says",
-        "summary": "Move is a ‘backwards step’, company spokesperson says, amid concerns Kremlin is seeking more state control via messaging apps such as MaxRussia has attempted to “fully block” WhatsApp in an attempt to push users towards its own state-sponsored communications app, Max, a spokesperson for the Meta-own...",
-        "url": "https://www.theguardian.com/world/2026/feb/12/russia-attempt-block-whatsapp-meta-says",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-12T05:49:21+00:00"
-      },
-      {
-        "id": "bb4eeb5a20f2",
-        "title": "Meta 申請專利獲准，用 AI 模擬已故用戶「繼續發文」",
-        "summary": "Meta 最近獲得一項專利，內容描述一套利用人工智慧（AI）來模擬已故或缺席使用者社群媒體活動的系統。這項專利 [&#8230;]",
-        "url": "https://technews.tw/2026/02/12/death-isnt-the-end-meta-patented-an-ai-that-lets-you-keep-posting-from-beyond-the-grave/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-02-12T02:40:16+00:00"
       }
     ],
     "序(month)": [
