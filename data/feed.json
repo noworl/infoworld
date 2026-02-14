@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-14T05:01:24.750511+00:00",
+  "updated_at": "2026-02-14T07:49:33.441828+00:00",
   "trending": [
-    "movies streaming this weekend",
+    "sidney crosby",
+    "hailey baptiste",
+    "ireland vs oman",
+    "dustin hoffman",
+    "peggy fleming",
+    "día de san valentín",
+    "aarons",
+    "gabriela berlingeri",
     "northern lights aurora borealis forecast",
-    "smackdown results",
-    "jacob fatu",
-    "gen z",
-    "oppenheimer",
-    "jonathan haidt",
-    "michele tafoya",
-    "carter bryant",
-    "big ten basketball standings"
+    "movies streaming this weekend"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "9bb5bbad9528",
+        "title": "Pension annuity sales hit record as average pot exceeds £80,000",
+        "summary": "Rachel Reeves’s inheritance tax changes encourage more people to invest in previously unloved product The government’s “inheritance tax raid” on pensions has helped drive sales of retirement annuities to new&nbsp;highs.Industry data this week revealed they enjoyed a “record-breaking” 2025, with sale...",
+        "url": "https://www.theguardian.com/money/2026/feb/14/uk-pension-annuities-sales-rachel-reeves-inheritance-tax-invest",
+        "source": "Business | The Guardian",
+        "published": "2026-02-14T07:00:48+00:00"
+      },
+      {
+        "id": "964cbc86e520",
+        "title": "‘My husband burned down our house – then the bank threatened repossession’",
+        "summary": "A family struggled to rebuild their lives after an abusive marriage ended in tragedy and financial ruinFamily life ended for Francesca Onody on a late summer evening in 2022 when her abusive husband doused their cottage with petrol as police arrived to arrest him. She and her children escaped second...",
+        "url": "https://www.theguardian.com/money/2026/feb/14/my-husband-burned-down-our-house-bank-repossession-finances",
+        "source": "Business | The Guardian",
+        "published": "2026-02-14T07:00:46+00:00"
+      },
+      {
+        "id": "155b7f142a94",
+        "title": "Nothing opens its first retail store in India",
+        "summary": "The two-story location will sell products from Nothing and the more affordable, mass-market brand CMF.",
+        "url": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
+        "source": "TechCrunch",
+        "published": "2026-02-14T06:30:00+00:00"
+      },
       {
         "id": "aa6d13f74680",
         "title": "Indian pharmacy chain giant exposed customer data and internal systems",
@@ -189,30 +213,6 @@
         "url": "https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/",
         "source": "TechCrunch",
         "published": "2026-02-13T16:24:53+00:00"
-      },
-      {
-        "id": "be2a0547a9a9",
-        "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
-        "summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
-        "url": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T16:11:01+00:00"
-      },
-      {
-        "id": "ebdb3daa78ca",
-        "title": "Dutch phone giant Odido says millions of customers affected by data breach",
-        "summary": "The Dutch phone giant Odido is the latest phone and internet company to be hacked in recent months, as governments and financially motivated hackers continue to steal highly confidential information about phone customers.",
-        "url": "https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T15:54:13+00:00"
-      },
-      {
-        "id": "a1930b2d4133",
-        "title": "Amazon’s Ring cancels partnership with Flock, a network of AI cameras used by ICE, feds, and police",
-        "summary": "This news comes less than a week after Ring's Super Bowl commercial stoked controversy over the company's capacity for mass surveillance.",
-        "url": "https://techcrunch.com/2026/02/13/amazons-ring-cancels-partnership-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T15:40:15+00:00"
       }
     ],
     "破(day)": [
