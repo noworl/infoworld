@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-02-14T07:49:33.441828+00:00",
+  "updated_at": "2026-02-14T09:05:53.214577+00:00",
   "trending": [
+    "weather in india today",
+    "sports",
+    "quentin halys",
+    "nh",
     "sidney crosby",
     "hailey baptiste",
     "ireland vs oman",
     "dustin hoffman",
     "peggy fleming",
-    "día de san valentín",
-    "aarons",
-    "gabriela berlingeri",
-    "northern lights aurora borealis forecast",
-    "movies streaming this weekend"
+    "día de san valentín"
   ],
   "categories": {
     "急(hr)": [
@@ -53,6 +53,14 @@
         "url": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
         "source": "TechCrunch",
         "published": "2026-02-14T02:40:42+00:00"
+      },
+      {
+        "id": "30d0b974aa92",
+        "title": "Elon Musk’s xAI faces second lawsuit over toxic pollutants from datacenter",
+        "summary": "NAACP alleges artificial intelligence firm is violating Clean Air Act and polluting Black communities in MississippiElon Musk’s artificial intelligence company xAI is facing a second lawsuit alleging it is illegally emitting toxic pollutants from its enormous datacenters, which house its supercomput...",
+        "url": "https://www.theguardian.com/technology/2026/feb/13/elon-musk-xai-pollution-naacp",
+        "source": "Business | The Guardian",
+        "published": "2026-02-14T00:47:56+00:00"
       },
       {
         "id": "9021ff7442e0",
@@ -205,14 +213,6 @@
         "url": "https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/",
         "source": "TechCrunch",
         "published": "2026-02-13T16:39:27+00:00"
-      },
-      {
-        "id": "d0cec0348955",
-        "title": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
-        "summary": "\"Our matches convert to actual dates at about 10x the rate of Tinder,\" Weng told TechCrunch.",
-        "url": "https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T16:24:53+00:00"
       }
     ],
     "破(day)": [
@@ -603,20 +603,20 @@
         "published": "2026-01-30T19:26:48+00:00"
       },
       {
-        "id": "3752ead9da29",
-        "title": "2025 in numbers",
-        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2347",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T16:19:39+00:00"
+        "id": "d3b00a3f761b",
+        "title": "Tom Johnson and a rational theory of harmony",
+        "summary": ".",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2591899?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2026-01-29T07:06:01+00:00"
       },
       {
-        "id": "d32f0a5eed31",
-        "title": "Freesound Day video recordings available online",
-        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2352",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T11:10:55+00:00"
+        "id": "78e005b85aae",
+        "title": "Min-On Music Journey No. 102: Republic of Mozambique",
+        "summary": "Welcome to Min-On’s Music Journey! Today we invite you  [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14668/min-on-music-journey-no-102-republic-of-mozambique/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-01-28T07:27:40+00:00"
       }
     ]
   }
