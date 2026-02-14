@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-14T17:01:14.062834+00:00",
+  "updated_at": "2026-02-14T19:05:15.601678+00:00",
   "trending": [
-    "apolo ohno",
-    "simone biles husband",
-    "muchova",
-    "sevilla - alavés",
-    "sevilla vs alavés",
-    "jordan stolz",
-    "regal cinemas",
-    "trabzonspor vs fenerbahçe",
-    "cooper mcleod",
-    "caleb love"
+    "inter vs juventus",
+    "inter - juventus",
+    "navy basketball",
+    "providence basketball",
+    "dunk contest 2026",
+    "northwestern vs nebraska",
+    "frida karlsson",
+    "movies theaters",
+    "amc movies",
+    "uconn vs marquette"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "fb8299a97284",
+        "title": "‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites",
+        "summary": "This week, Alta unveiled its first integration collaboration, teaming up with Public School, a storied New York City brand.",
+        "url": "https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/",
+        "source": "TechCrunch",
+        "published": "2026-02-14T19:00:00+00:00"
+      },
+      {
+        "id": "ae5fbfe7d362",
+        "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+        "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+        "url": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+        "source": "TechCrunch",
+        "published": "2026-02-14T18:26:52+00:00"
+      },
+      {
+        "id": "d9bfee0130f1",
+        "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
+        "summary": "Designer Kate Barton teams up with Fiducia AI and IBM for a NYFW presentation.",
+        "url": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
+        "source": "TechCrunch",
+        "published": "2026-02-14T17:43:46+00:00"
+      },
       {
         "id": "cf42cdecbcdb",
         "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
@@ -189,33 +213,25 @@
         "url": "https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/",
         "source": "Ars Technica - All content",
         "published": "2026-02-13T23:16:48+00:00"
-      },
-      {
-        "id": "90a77977e2ff",
-        "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
-        "summary": "Hayden AI's cameras will scan for violations from 7 city vehicles.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-13T23:03:08+00:00"
-      },
-      {
-        "id": "a106f580de5b",
-        "title": "Verizon imposes new roadblock on users trying to unlock paid-off phones",
-        "summary": "Verizon unlocks have 35-day waiting period after paying off device plan online.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-13T22:13:27+00:00"
-      },
-      {
-        "id": "0ad6028255b6",
-        "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
-        "summary": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
-        "url": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T22:12:26+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "c3df50bda725",
+        "title": "Andy Griffiths: ‘Life is a joyously unhinged, absurd wonderland of possibility’",
+        "summary": "Named as Australia’s Children’s Laureate for 2026/2027, the beloved author opens up about the best thing a fan has ever sent him – and his first tattooGet our weekend culture and lifestyle emailYou’ve just been announced as Australia’s Children’s Laureate – congratulations! What’s the first book tha...",
+        "url": "https://www.theguardian.com/books/2026/feb/14/andy-griffiths-life-is-a-joyously-unhinged-absurd-wonderland-of-possibility",
+        "source": "Children and teenagers | The Guardian",
+        "published": "2026-02-14T19:00:00+00:00"
+      },
+      {
+        "id": "8f371eafbe60",
+        "title": "The problem with doorbell cams: Nancy Guthrie case and Ring Super Bowl ad reawaken surveillance fears",
+        "summary": "Many people bought the devices thinking they would do little more than protect their delivery packagesWhat happens to the data that smart home cameras collect? Can law enforcement access this information – even when users aren’t aware officers may be viewing their footage? Two recent events have put...",
+        "url": "https://www.theguardian.com/technology/2026/feb/14/doorbell-cameras-ring-nancy-guthrie-super-bowl",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-14T18:00:01+00:00"
+      },
       {
         "id": "e45027cf118f",
         "title": "US military used Anthropic’s AI model Claude in Venezuela raid, report says",
@@ -399,22 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-12T18:12:17+00:00"
-      },
-      {
-        "id": "e29771b0d43d",
-        "title": "Share values of property services firms tumble over fears of AI disruption",
-        "summary": "But, after second day of Wall Street falls, analysts say sell-off ‘may overstate AI’s immediate risk to complex deal-making’Shares in commercial property services companies have tumbled, in the latest sell-off driven by fears over disruption from artificial intelligence.After steep declines on Wall ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/12/share-values-of-property-services-firms-tumble-over-fears-of-ai-disruption",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-12T18:01:00+00:00"
-      },
-      {
-        "id": "bc0c8463bf3f",
-        "title": "An AI Agent Published a Hit Piece on Me",
-        "summary": "An AI Agent Published a Hit Piece on Me\nScott Shambaugh helps maintain the excellent and venerable matplotlib Python charting library, including taking on the thankless task of triaging and reviewing incoming pull requests.\nA GitHub account called @crabby-rathbun opened PR 31132 the other day in res...",
-        "url": "https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-12T17:45:05+00:00"
       }
     ],
     "序(month)": [
