@@ -1,22 +1,54 @@
 {
-  "updated_at": "2026-02-13T23:06:07.899512+00:00",
+  "updated_at": "2026-02-14T05:01:24.750511+00:00",
   "trending": [
-    "george mason basketball",
-    "gary player",
-    "clemson baseball",
-    "alex vesia",
-    "mi state vs wisconsin",
-    "friday the 13th movies",
-    "kevin fiala",
-    "randy fine",
-    "nascar schedule",
-    "crime 101 movie"
+    "movies streaming this weekend",
+    "northern lights aurora borealis forecast",
+    "smackdown results",
+    "jacob fatu",
+    "gen z",
+    "oppenheimer",
+    "jonathan haidt",
+    "michele tafoya",
+    "carter bryant",
+    "big ten basketball standings"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "aa6d13f74680",
+        "title": "Indian pharmacy chain giant exposed customer data and internal systems",
+        "summary": "A backend flaw in web admin dashboards used by one of India's largest pharmacy chains, exposed thousands of online pharmacy orders.",
+        "url": "https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/",
+        "source": "TechCrunch",
+        "published": "2026-02-14T03:30:00+00:00"
+      },
+      {
+        "id": "17c51e07c3de",
+        "title": "Airbnb plans to bake in AI features for search, discovery and support",
+        "summary": "Airbnb CEO Brian Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.",
+        "url": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
+        "source": "TechCrunch",
+        "published": "2026-02-14T02:40:42+00:00"
+      },
+      {
+        "id": "9021ff7442e0",
+        "title": "WHO slams US-funded newborn vaccine trial as \"unethical\"",
+        "summary": "CDC awarded $1.6 million for study birth dose of hepatitis B vaccine in Guinea-Bissau.",
+        "url": "https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T23:16:48+00:00"
+      },
+      {
+        "id": "90a77977e2ff",
+        "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
+        "summary": "Hayden AI's cameras will scan for violations from 7 city vehicles.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-13T23:03:08+00:00"
+      },
+      {
         "id": "a106f580de5b",
-        "title": "Verizon makes customers wait 35 days to unlock fully paid-off phones",
+        "title": "Verizon imposes new roadblock on users trying to unlock paid-off phones",
         "summary": "Verizon unlocks have 35-day waiting period after paying off device plan online.",
         "url": "https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/",
         "source": "Ars Technica - All content",
@@ -181,41 +213,33 @@
         "url": "https://techcrunch.com/2026/02/13/amazons-ring-cancels-partnership-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
         "source": "TechCrunch",
         "published": "2026-02-13T15:40:15+00:00"
-      },
-      {
-        "id": "3f09e3ac1798",
-        "title": "Reeves appoints higher pay advocate to fight skills shortages as chief economic adviser",
-        "summary": "Labour market expert Prof Brian Bell has called for better pay and conditions in key sectors, particularly social careRachel Reeves has appointed a labour market expert who has repeatedly called for better pay and conditions in key sectors, such as social care, to reduce the UK’s reliance on migrant...",
-        "url": "https://www.theguardian.com/business/2026/feb/13/rachel-reeves-appoints-brian-bell-chief-economic-adviser-skills-shortages-social-care",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T15:38:02+00:00"
-      },
-      {
-        "id": "815d3cd81386",
-        "title": "What if riders don't close a robotaxi door after a ride? Try DoorDash.",
-        "summary": "Robotaxis can't escape the gig economy as Waymo tries to solve a human problem.",
-        "url": "https://arstechnica.com/cars/2026/02/what-if-riders-dont-close-a-robotaxi-door-after-a-ride-try-doordash/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-13T15:32:01+00:00"
-      },
-      {
-        "id": "95d50005e202",
-        "title": "Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.",
-        "summary": "\"It’s time to go back to the Moon—this time to stay.\"",
-        "url": "https://arstechnica.com/space/2026/02/why-is-bezos-trolling-musk-on-x-with-turtle-pics-because-he-has-a-new-moon-plan/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-13T15:19:49+00:00"
-      },
-      {
-        "id": "d51f3a67868a",
-        "title": "Beijing pastry shop overrun by shoppers after Xi Jinping’s visit",
-        "summary": "Customers flock to Daoxiangcun to pick up cakes selected by the president during lunar new year tour around cityA Beijing pastry shop visited by the Chinese president, Xi Jinping, on a lunar new year tour this week has been swarmed by customers hoping to get their hands on Xi-approved sweet treats.T...",
-        "url": "https://www.theguardian.com/world/2026/feb/13/beijing-pastry-shop-overrun-shoppers-xi-jinping-visit-lunar-new-year",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T15:17:36+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "169c162ceb49",
+        "title": "Quoting Thoughtworks",
+        "summary": "The retreat challenged the narrative that AI eliminates the need for junior developers. Juniors are more profitable than they have ever been. AI tools get them past the awkward initial net-negative phase faster. They serve as a call option on future productivity. And they are better at AI tools than...",
+        "url": "https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-14T04:54:41+00:00"
+      },
+      {
+        "id": "6bd8e3ecfc43",
+        "title": "Anthropic's public benefit mission",
+        "summary": "Someone asked if there was an Anthropic equivalent to OpenAI's IRS mission statements over time.\nAnthropic are a \"public benefit corporation\" but not a non-profit, so they don't have the same requirements to file public documents with the IRS every year.\nBut when I asked Claude it ran a search and d...",
+        "url": "https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-13T23:59:51+00:00"
+      },
+      {
+        "id": "ba9f3a68d739",
+        "title": "The evolution of OpenAI's mission statement",
+        "summary": "As a USA 501(c)(3) the OpenAI non-profit has to file a tax return each year with the IRS. One of the required fields on that tax return is to \"Briefly describe the organization’s mission or most significant activities\" - this has actual legal weight to it as the IRS can use it to evaluate if the org...",
+        "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-13T23:38:29+00:00"
+      },
       {
         "id": "0f245090a8b3",
         "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
@@ -391,30 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/12/supervisor/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-12T16:47:04+00:00"
-      },
-      {
-        "id": "e795181f01f6",
-        "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-        "summary": "Gemini 3 Deep Think logo",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-        "source": "Google DeepMind",
-        "published": "2026-02-12T16:13:00+00:00"
-      },
-      {
-        "id": "f66586f94fb9",
-        "title": "專訪監委田秋堇：見證46年前林宅血案，「我們懷著傷繼續行走，不被憤恨掩蓋」",
-        "summary": "「人本來就很難懷著恐懼過日子。對於悲傷痛苦的事，大家也不會有興趣主動瞭解。但不知道有時候是一件滿危險的事。因為你會不知道防範，也不知道會遭遇什麼。所以我們是不是應該讓大家知道，我們是花了多少力氣，才讓這樣的事情不再重演。」",
-        "url": "https://www.twreporter.org/a/interview-tien-chiu-chin-on-1980-lin-family-murders",
-        "source": "報導者",
-        "published": "2026-02-12T16:00:00+00:00"
-      },
-      {
-        "id": "42da0c805d45",
-        "title": "生命河流轉了彎──中繼屋裡過新年，馬太鞍災民盼在淤泥中種回希望",
-        "summary": "2025年9月馬太鞍溪堰塞湖毀了許多人的家。災難過去近5個月，重建工作持續進行。記者訪問3位仍住在中繼屋或暫住工廠的居民，面對面目全非的家園，他們選擇留下守護受傷的土地，期盼淤泥也能開出花朵。",
-        "url": "https://www.twreporter.org/a/the-year-of-healing-hualien-mataian-villagers",
-        "source": "報導者",
-        "published": "2026-02-12T16:00:00+00:00"
       }
     ],
     "序(month)": [
