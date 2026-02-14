@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-02-14T21:50:43.469777+00:00",
+  "updated_at": "2026-02-14T22:55:49.609343+00:00",
   "trending": [
-    "haywood highsmith",
-    "jordan spieth",
-    "tage thompson",
-    "endymion parade route",
-    "colorado vs byu",
-    "jack eichel",
-    "purdue vs iowa",
-    "rob leonard",
-    "german marquez",
-    "kansas state vs houston"
+    "devin booker",
+    "rory mcilroy",
+    "pachuca - atlas",
+    "bobby portis",
+    "norman powell",
+    "atl. san luis - querétaro",
+    "nascar o'reilly series",
+    "damian lillard",
+    "jake guentzel",
+    "hughes brothers hockey"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "8d8586ff0fd9",
+        "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
+        "summary": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of accounts that criticize ICE.",
+        "url": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
+        "source": "TechCrunch",
+        "published": "2026-02-14T22:30:00+00:00"
+      },
+      {
+        "id": "a7380418621b",
+        "title": "Is safety is ‘dead’ at xAI?",
+        "summary": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
+        "url": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+        "source": "TechCrunch",
+        "published": "2026-02-14T21:55:44+00:00"
+      },
       {
         "id": "aaea29ac1d88",
         "title": "NASA has a new problem to fix before the next Artemis II countdown test",
@@ -21,6 +37,14 @@
         "url": "https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/",
         "source": "Ars Technica - All content",
         "published": "2026-02-14T21:02:47+00:00"
+      },
+      {
+        "id": "eb0cb6047a1f",
+        "title": "BrewDog could be broken up as craft beer business put up for sale",
+        "summary": "Brewer last month said it was closing its distilling brands, prompting concerns for jobs at its Scottish facilityThe beer-maker BrewDog could be broken up after consultants were called in to help find new investors.The Scotland-based brewer, which makes craft beer such as Punk IPA and Elvis Juice, h...",
+        "url": "https://www.theguardian.com/business/2026/feb/14/brewdog-could-be-broken-up-as-craft-beer-business-put-up-for-sale",
+        "source": "Business | The Guardian",
+        "published": "2026-02-14T20:58:18+00:00"
       },
       {
         "id": "81c590bfdd02",
@@ -189,30 +213,6 @@
         "url": "https://www.theguardian.com/money/2026/feb/14/my-husband-burned-down-our-house-bank-repossession-finances",
         "source": "Business | The Guardian",
         "published": "2026-02-14T07:00:46+00:00"
-      },
-      {
-        "id": "155b7f142a94",
-        "title": "Nothing opens its first retail store in India",
-        "summary": "The two-story location will sell products from Nothing and the more affordable, mass-market brand CMF.",
-        "url": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
-        "source": "TechCrunch",
-        "published": "2026-02-14T06:30:00+00:00"
-      },
-      {
-        "id": "15aefdba625c",
-        "title": "Race to find source of carcinogenic Pfas in Cumbria and Lancashire waters",
-        "summary": "Exclusive: High levels of banned ‘forever chemical’ have been detected in rivers and groundwater at 25 sitesA string of toxic pollution hotspots has been uncovered across Cumbria and Lancashire, with high levels of the banned cancer-causing “forever chemical” Pfos detected in rivers and groundwater ...",
-        "url": "https://www.theguardian.com/environment/2026/feb/14/race-to-find-source-of-carcinogenic-chemical-pfos-polluting-cumbria-and-lancashire-waters",
-        "source": "Business | The Guardian",
-        "published": "2026-02-14T06:00:46+00:00"
-      },
-      {
-        "id": "aa6d13f74680",
-        "title": "Indian pharmacy chain giant exposed customer data and internal systems",
-        "summary": "A backend flaw in web admin dashboards used by one of India's largest pharmacy chains, exposed thousands of online pharmacy orders.",
-        "url": "https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/",
-        "source": "TechCrunch",
-        "published": "2026-02-14T03:30:00+00:00"
       }
     ],
     "破(day)": [
