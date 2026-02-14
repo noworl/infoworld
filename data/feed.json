@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-02-14T11:47:38.251096+00:00",
+  "updated_at": "2026-02-14T13:56:46.025483+00:00",
   "trending": [
-    "alaska airlines",
-    "sco vs eng",
-    "nyt connections hints",
-    "jakara anthony",
-    "ps5 games",
-    "caf",
-    "weather winter storm warning",
-    "b",
-    "k",
-    "on"
+    "olympic hockey standings",
+    "alexei navalny",
+    "dte",
+    "como vs fiorentina",
+    "oppenheimer movie",
+    "lucas pinheiro braathen",
+    "new zealand vs south africa",
+    "werder vs bayern",
+    "scotland national cricket team vs england cricket team standings",
+    "river radamus"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "96fb97eac0fd",
+        "title": "US fixation on the hard-hat economy and making manufacturing great again makes little sense",
+        "summary": "The dream of greasy overalls is driven by nostalgia and doesn’t justify policies that harm US consumersThe exhortations to protect America’s industrial muscle have resonated in the US at least since maverick presidential candidate Ross Perot brought up the supposed “giant sucking sound” of jobs pull...",
+        "url": "https://www.theguardian.com/business/2026/feb/14/trump-manufacturing-jobs-economy",
+        "source": "Business | The Guardian",
+        "published": "2026-02-14T12:00:54+00:00"
+      },
+      {
+        "id": "54a9315c7c1b",
+        "title": "Astronomers are filling in the blanks of the Kuiper Belt",
+        "summary": "Next-generation telescopes are mapping this outer frontier.",
+        "url": "https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-14T11:45:48+00:00"
+      },
       {
         "id": "8d7869abb7be",
         "title": "Trump’s repeal of landmark Obama-era climate rule: four key takeaways",
@@ -197,22 +213,6 @@
         "url": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/",
         "source": "TechCrunch",
         "published": "2026-02-13T17:48:43+00:00"
-      },
-      {
-        "id": "5994b28e24c6",
-        "title": "There’s a cost to going cashless | Letters",
-        "summary": "Readers respond to Sammy Gecsoyler’s article about his week without bank and contactless cardsI welcome Sammy Gecsoyler’s article (My week of only using cash: could a return to notes and coins change my life?, 10 February) while noting that he is young, employed and living in a city, and that he com...",
-        "url": "https://www.theguardian.com/money/2026/feb/13/theres-a-cost-to-going-cashless",
-        "source": "Business | The Guardian",
-        "published": "2026-02-13T17:48:10+00:00"
-      },
-      {
-        "id": "1ed649008022",
-        "title": "India partners with Alibaba.com for export push despite past China tech bans",
-        "summary": "India turns to Alibaba.com's B2B network of 50 million buyers in 200 countries to help businesses scale global exports.",
-        "url": "https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/",
-        "source": "TechCrunch",
-        "published": "2026-02-13T17:32:59+00:00"
       }
     ],
     "破(day)": [
@@ -419,6 +419,14 @@
     ],
     "序(month)": [
       {
+        "id": "adefb1ede4af",
+        "title": "GIS專題中心誠徵碩士獎助生1名",
+        "summary": "【依&#160;&#160; 據】中央研究院人文社會科學研究中心「博、碩士生獎助培育說明」及地理資訊科學研究專 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/recruit_20260210/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-14T12:29:06+00:00"
+      },
+      {
         "id": "84bd16daedd6",
         "title": "Tuning in to College Radio Materials on World Radio Day 2026",
         "summary": "On February 13, World Radio Day acknowledges the importance of radio around the globe. The annual event has been taking place for a little over a decade, dating back to [&#8230;]",
@@ -609,14 +617,6 @@
         "url": "https://blog.freesound.org/?p=2347",
         "source": "The Freesound Blog",
         "published": "2026-01-30T16:19:39+00:00"
-      },
-      {
-        "id": "d32f0a5eed31",
-        "title": "Freesound Day video recordings available online",
-        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2352",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T11:10:55+00:00"
       }
     ]
   }
