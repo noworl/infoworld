@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-02-14T23:52:07.734827+00:00",
+  "updated_at": "2026-02-15T05:13:35.771954+00:00",
   "trending": [
-    "jalen brunson",
-    "ben shelton",
-    "spike lee",
-    "unrivaled 1v1",
-    "ole miss basketball",
-    "rajah caruth",
-    "allan houston",
-    "ron harper",
-    "texas tech vs arizona",
-    "anthony anderson"
+    "tabla liga mx",
+    "cain velasquez",
+    "liv golf leaderboard",
+    "minnesota vs washington",
+    "wynonna judd",
+    "raphael veiga",
+    "jalen williams",
+    "saint mary's basketball",
+    "erin jackson 2026 olympics",
+    "titanic"
   ],
   "categories": {
     "急(hr)": [
@@ -24,7 +24,7 @@
       },
       {
         "id": "a7380418621b",
-        "title": "Is safety is ‘dead’ at xAI?",
+        "title": "Is safety ‘dead’ at xAI?",
         "summary": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
         "url": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
         "source": "TechCrunch",
@@ -217,9 +217,33 @@
     ],
     "破(day)": [
       {
+        "id": "3bc5a8f92488",
+        "title": "Launching Interop 2026",
+        "summary": "Launching Interop 2026\nJake Archibald reports on Interop 2026, the initiative between Apple, Google, Igalia, Microsoft, and Mozilla to collaborate on ensuring a targeted set of web platform features reach cross-browser parity over the course of the year.\nI hadn't realized how influential and success...",
+        "url": "https://simonwillison.net/2026/Feb/15/interop-2026/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-15T04:33:22+00:00"
+      },
+      {
+        "id": "131d98a87f7e",
+        "title": "無懼監管與會計質疑，Meta 為何堅持加入這場「富可敵國」的算力競賽？",
+        "summary": "Meta Platforms（Meta）在今年的資本支出預測高達 1,350 億美元，專注於建設龐大的 AI  [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/15/what-is-next-for-meta-amid-its-massive-ai-spending-projection/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-15T01:50:49+00:00"
+      },
+      {
+        "id": "2486bb53e6cb",
+        "title": "Quoting Boris Cherny",
+        "summary": "Someone has to prompt the Claudes, talk to customers, coordinate with other teams, decide what to build next. Engineering is changing and great engineers are more important than ever.\n&mdash; Boris Cherny, Claude Code creator, on why Anthropic are still hiring developers\n\n    Tags: careers, anthropi...",
+        "url": "https://simonwillison.net/2026/Feb/14/boris/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-14T23:59:09+00:00"
+      },
+      {
         "id": "c3df50bda725",
         "title": "Andy Griffiths: ‘Life is a joyously unhinged, absurd wonderland of possibility’",
-        "summary": "Named as Australia’s Children’s Laureate for 2026/2027, the beloved author opens up about the best thing a fan has ever sent him – and his first tattooGet our weekend culture and lifestyle emailYou’ve just been announced as Australia’s Children’s Laureate – congratulations! What’s the first book tha...",
+        "summary": "Named as Australia’s children’s laureate for 2026-27, the beloved author opens up about the best thing a fan has ever sent him – and his first tattooGet our weekend culture and lifestyle emailYou’ve just been announced as Australia’s children’s laureate – congratulations! What’s the first book that ...",
         "url": "https://www.theguardian.com/books/2026/feb/14/andy-griffiths-life-is-a-joyously-unhinged-absurd-wonderland-of-possibility",
         "source": "Children and teenagers | The Guardian",
         "published": "2026-02-14T19:00:00+00:00"
@@ -391,30 +415,6 @@
         "url": "https://cdm.link/free-ffmpeg-gui-audio/",
         "source": "CDM Create Digital Music",
         "published": "2026-02-12T19:54:07+00:00"
-      },
-      {
-        "id": "d53447486435",
-        "title": "A Wave of Unexplained Bot Traffic Is Sweeping the Web",
-        "summary": "From small publishers to US federal agencies, websites are reporting unusual spikes in automated traffic linked to IP addresses in Lanzhou, China.",
-        "url": "https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/",
-        "source": "Business Latest",
-        "published": "2026-02-12T19:50:44+00:00"
-      },
-      {
-        "id": "e8b20f65d3e2",
-        "title": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity",
-        "summary": "In an interview with WIRED, Greg Brockman says his political donations support OpenAI's mission—even if some employees at the company disagree.",
-        "url": "https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/",
-        "source": "Business Latest",
-        "published": "2026-02-12T19:00:00+00:00"
-      },
-      {
-        "id": "9abe9267f322",
-        "title": "Gemini 3 Deep Think",
-        "summary": "Gemini 3 Deep Think\nNew from Google. They say it's \"built to push the frontier of intelligence and solve modern challenges across science, research, and engineering\".\nIt drew me a really good SVG of a pelican riding a bicycle! I think this is the best one I've seen so far - here's my previous collec...",
-        "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-12T18:12:17+00:00"
       }
     ],
     "序(month)": [
