@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-02-15T20:56:13.910599+00:00",
+  "updated_at": "2026-02-15T21:51:18.408722+00:00",
   "trending": [
-    "scott hamilton",
-    "us mens hockey",
-    "austin dillon",
-    "travis pastrana",
-    "dayton basketball",
-    "olympic hockey bracket",
-    "us men's hockey",
-    "justin allgaier",
-    "bradley basketball",
-    "johnny gaudreau"
+    "noah hanifin",
+    "canada milano cortina 2026",
+    "seton hall basketball",
+    "tommy fleetwood",
+    "deanna stellato-dudek",
+    "green bay basketball",
+    "min woo lee",
+    "franzreb",
+    "campbell basketball",
+    "chris stapleton"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "a76fcbc8453b",
+        "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+        "summary": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
+        "url": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+        "source": "TechCrunch",
+        "published": "2026-02-15T21:11:28+00:00"
+      },
+      {
+        "id": "b6cd6a09fb8d",
+        "title": "Ancient Mars was warm and wet, not cold and icy",
+        "summary": "Kaolinite pebbles show evidence of alteration under high rainfall conditions.",
+        "url": "https://arstechnica.com/science/2026/02/ancient-mars-was-warm-and-wet-not-cold-and-icy/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-15T20:14:16+00:00"
+      },
       {
         "id": "960db6a7184b",
         "title": "Editor’s Note: Retraction of article containing fabricated quotations",
@@ -197,25 +213,25 @@
         "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/15/cuba-crisis-oil-shortage-venezuela-donald-trump-havana",
         "source": "Business | The Guardian",
         "published": "2026-02-15T06:00:15+00:00"
-      },
-      {
-        "id": "8d8586ff0fd9",
-        "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
-        "summary": "The Department of Homeland Security has been increasing pressure on tech companies to identify the owners of accounts that criticize ICE.",
-        "url": "https://techcrunch.com/2026/02/14/homeland-security-reportedly-sent-hundreds-of-subpoenas-seeking-to-unmask-anti-ice-accounts/",
-        "source": "TechCrunch",
-        "published": "2026-02-14T22:30:00+00:00"
-      },
-      {
-        "id": "a7380418621b",
-        "title": "Is safety ‘dead’ at xAI?",
-        "summary": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
-        "url": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
-        "source": "TechCrunch",
-        "published": "2026-02-14T21:55:44+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "f5d494fc0417",
+        "title": "Em dash",
+        "summary": "I'm occasionally accused of using LLMs to write the content on my blog. I don't do that, and I don't think my writing has much of an LLM smell to it... with one notable exception:\n    # Finally, do em dashes\n    s = s.replace(' - ', u'\\u2014')\n\nThat code to add em dashes to my posts dates back to at...",
+        "url": "https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-15T21:40:46+00:00"
+      },
+      {
+        "id": "76c4ecb89d9f",
+        "title": "Deep Blue",
+        "summary": "We coined a new term on the Oxide and Friends podcast last month (primary credit to Adam Leventhal) covering the sense of psychological ennui leading into existential dread that many software developers are feeling thanks to the encroachment of generative AI into their field of work.\nWe're calling i...",
+        "url": "https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-15T21:06:44+00:00"
+      },
       {
         "id": "e645398f22cb",
         "title": "Gwtar: a static efficient single-file HTML format",
@@ -399,22 +415,6 @@
         "url": "https://www.mittrchina.com/news/detail/15922",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-02-14T04:27:00+00:00"
-      },
-      {
-        "id": "6bd8e3ecfc43",
-        "title": "Anthropic's public benefit mission",
-        "summary": "Someone asked if there was an Anthropic equivalent to OpenAI's IRS mission statements over time.\nAnthropic are a \"public benefit corporation\" but not a non-profit, so they don't have the same requirements to file public documents with the IRS every year.\nBut when I asked Claude it ran a search and d...",
-        "url": "https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-13T23:59:51+00:00"
-      },
-      {
-        "id": "ba9f3a68d739",
-        "title": "The evolution of OpenAI's mission statement",
-        "summary": "As a USA 501(c)(3) the OpenAI non-profit has to file a tax return each year with the IRS. One of the required fields on that tax return is to \"Briefly describe the organization’s mission or most significant activities\" - this has actual legal weight to it as the IRS can use it to evaluate if the org...",
-        "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-13T23:38:29+00:00"
       }
     ],
     "序(month)": [
