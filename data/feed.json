@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-15T05:13:35.771954+00:00",
+  "updated_at": "2026-02-15T07:52:12.942935+00:00",
   "trending": [
-    "tabla liga mx",
-    "cain velasquez",
-    "liv golf leaderboard",
-    "minnesota vs washington",
-    "wynonna judd",
-    "raphael veiga",
-    "jalen williams",
-    "saint mary's basketball",
-    "erin jackson 2026 olympics",
-    "titanic"
+    "linda noskova",
+    "bright horizons",
+    "chapman",
+    "restaurant",
+    "politics",
+    "dublin airport flights",
+    "playstation plus games",
+    "travel vaccine",
+    "2026 年冬奥会高山滑雪",
+    "laila edwards"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "640407a59d38",
+        "title": "Brushing fraud: Britons told to beware of mystery parcels as new scam soars",
+        "summary": "Fraudsters use stolen personal details to send out products, then post a fake verified and positive online reviewA package arrives but you can’t remember ordering anything.When you open it, you find some cheap, flimsy jewellery. Continue reading...",
+        "url": "https://www.theguardian.com/money/2026/feb/15/brushing-fraud-britons-mystery-parcels-scam-review",
+        "source": "Business | The Guardian",
+        "published": "2026-02-15T07:00:17+00:00"
+      },
+      {
+        "id": "e4da5fc3271a",
+        "title": "‘It makes no sense’: the battle over plans for a windfarm by the Yorkshire Dales",
+        "summary": "The fight for Hope Moor is set to be repeated across the UK as the government aims to hit its renewable energy targetsInstead of a slingshot, the Davids are brandishing a sculpture and a coffee table book. Their Goliaths are a Norwegian energy company and a UK energy secretary with renewable targets...",
+        "url": "https://www.theguardian.com/environment/2026/feb/15/battle-plans-windfarm-yorkshire-dales",
+        "source": "Business | The Guardian",
+        "published": "2026-02-15T07:00:16+00:00"
+      },
+      {
+        "id": "545b77028df8",
+        "title": "No fuel, no tourists, no cash - this was the week the Cuban crisis got real",
+        "summary": "Diplomats in Havana are preparing for an alternative Trump tactic: the country being starved until people take to the streets and the US can step inAmong the verdant gardens of Havana’s diplomatic quarter, Siboney, ambassadors from countries traditionally allied to the United States are expressing i...",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/15/cuba-crisis-oil-shortage-venezuela-donald-trump-havana",
+        "source": "Business | The Guardian",
+        "published": "2026-02-15T06:00:15+00:00"
+      },
       {
         "id": "8d8586ff0fd9",
         "title": "Homeland Security reportedly sent hundreds of subpoenas seeking to unmask anti-ICE accounts",
@@ -189,33 +213,41 @@
         "url": "https://www.theguardian.com/commentisfree/2026/feb/14/jeff-bezos-washington-post-news-not-safe",
         "source": "Business | The Guardian",
         "published": "2026-02-14T10:00:49+00:00"
-      },
-      {
-        "id": "9bb5bbad9528",
-        "title": "Pension annuity sales hit record as average pot exceeds £80,000",
-        "summary": "Rachel Reeves’s inheritance tax changes encourage more people to invest in previously unloved product The government’s “inheritance tax raid” on pensions has helped drive sales of retirement annuities to new&nbsp;highs.Industry data this week revealed they enjoyed a “record-breaking” 2025, with sale...",
-        "url": "https://www.theguardian.com/money/2026/feb/14/uk-pension-annuities-sales-rachel-reeves-inheritance-tax-invest",
-        "source": "Business | The Guardian",
-        "published": "2026-02-14T07:00:48+00:00"
-      },
-      {
-        "id": "483b4b14ebc4",
-        "title": "Peta calls for pork-free menus as Peppa Pig show rolls into Grimsby",
-        "summary": "Auditorium to remove bacon and sausages from cafe during stage run after request from campaign groupCampaigners are calling on theatre bosses to stop serving bacon, sausages and ham in their cafes – at least while Peppa Pig and her family are performing in the same building.Grimsby Auditorium in Lin...",
-        "url": "https://www.theguardian.com/stage/2026/feb/14/peta-pork-free-menus-peppa-pig-big-family-show-grimsby",
-        "source": "Business | The Guardian",
-        "published": "2026-02-14T07:00:47+00:00"
-      },
-      {
-        "id": "964cbc86e520",
-        "title": "‘My husband burned down our house – then the bank threatened repossession’",
-        "summary": "A family struggled to rebuild their lives after an abusive marriage ended in tragedy and financial ruinFamily life ended for Francesca Onody on a late summer evening in 2022 when her abusive husband doused their cottage with petrol as police arrived to arrest him. She and her children escaped second...",
-        "url": "https://www.theguardian.com/money/2026/feb/14/my-husband-burned-down-our-house-bank-repossession-finances",
-        "source": "Business | The Guardian",
-        "published": "2026-02-14T07:00:46+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "92f6adca1099",
+        "title": "Meta 計劃讓 Ray-Ban 智慧眼鏡「認出你是誰」，臉部辨識功能將回歸？",
+        "summary": "Meta 計劃在其 Ray-Ban 智慧眼鏡中引入名為「Name Tag」的臉部辨識技術，這個決定標誌著該公司 [&#8230;]",
+        "url": "https://infosecu.technews.tw/2026/02/15/meta-planning-to-add-facial-recognition-tech-to-smart-glasses/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-15T07:30:23+00:00"
+      },
+      {
+        "id": "640407a59d38",
+        "title": "Brushing fraud: Britons told to beware of mystery parcels as new scam soars",
+        "summary": "Fraudsters use stolen personal details to send out products, then post a fake verified and positive online reviewA package arrives but you can’t remember ordering anything.When you open it, you find some cheap, flimsy jewellery. Continue reading...",
+        "url": "https://www.theguardian.com/money/2026/feb/15/brushing-fraud-britons-mystery-parcels-scam-review",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-15T07:00:17+00:00"
+      },
+      {
+        "id": "bf3eb0ce379d",
+        "title": "No swiping involved: the AI dating apps promising to find your soulmate",
+        "summary": "Agenic AI apps first interview you and then give you limited matches selected for ‘similarity and reciprocity of personality’Dating apps exploit you, dating profiles lie to you, and sex is basically something old people used to do. You might as well consider it: can AI help you find love?For a handf...",
+        "url": "https://www.theguardian.com/technology/2026/feb/15/ai-dating-apps-personality-matchmaking",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-15T07:00:16+00:00"
+      },
+      {
+        "id": "854e923af682",
+        "title": "How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
+        "summary": "How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt\nThis piece by Margaret-Anne Storey is the best explanation of the term cognitive debt I've seen so far.\n\nCognitive debt, a term gaining traction recently, instead communicates the notion that the debt compounded from g...",
+        "url": "https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-15T05:20:11+00:00"
+      },
       {
         "id": "3bc5a8f92488",
         "title": "Launching Interop 2026",
@@ -383,38 +415,6 @@
         "url": "https://www.theguardian.com/society/2026/feb/12/nhs-deal-with-ai-firm-palantir-called-into-question-after-officials-concerns-revealed",
         "source": "Technology | The Guardian",
         "published": "2026-02-12T23:04:51+00:00"
-      },
-      {
-        "id": "d038d14366d7",
-        "title": "Introducing GPT‑5.3‑Codex‑Spark",
-        "summary": "Introducing GPT‑5.3‑Codex‑Spark\nOpenAI announced a partnership with Cerebras on January 14th. Four weeks later they're already launching the first integration, \"an ultra-fast model for real-time coding in Codex\".\nDespite being named GPT-5.3-Codex-Spark it's not purely an accelerated alternative to G...",
-        "url": "https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-12T21:16:07+00:00"
-      },
-      {
-        "id": "dfd80baa257a",
-        "title": "Quoting Anthropic",
-        "summary": "Claude Code was made available to the general public in May 2025. Today, Claude Code’s run-rate revenue has grown to over $2.5 billion; this figure has more than doubled since the beginning of 2026. The number of weekly active Claude Code users has also doubled since January 1 [six weeks ago].\n&mdas...",
-        "url": "https://simonwillison.net/2026/Feb/12/anthropic/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-12T20:22:14+00:00"
-      },
-      {
-        "id": "b530c9668682",
-        "title": "Covering electricity price increases from our data centers",
-        "summary": "Covering electricity price increases from our data centers\nOne of the sub-threads of the AI energy usage discourse has been the impact new data centers have on the cost of electricity to nearby residents. Here's detailed analysis from Bloomberg in September reporting \"Wholesale electricity costs as ...",
-        "url": "https://simonwillison.net/2026/Feb/12/covering-electricity-price-increases/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-12T20:01:23+00:00"
-      },
-      {
-        "id": "11cac393f907",
-        "title": "FFAB unlocks the batch audio powers of the free ffmpeg with a GUI",
-        "summary": "FFmpeg, the free multimedia toolkit, is so powerful that, honestly, it's entirely possible not to know all that it can do. For audio, the new FFAB offers a graphical front-end on Mac and Linux, with real-time preview, drag-and-drop filters, parallel processing, and useful visualizations that even co...",
-        "url": "https://cdm.link/free-ffmpeg-gui-audio/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-12T19:54:07+00:00"
       }
     ],
     "序(month)": [
