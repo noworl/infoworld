@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-15T19:15:28.752037+00:00",
+  "updated_at": "2026-02-15T20:56:13.910599+00:00",
   "trending": [
-    "derek carr",
-    "jordan spieth",
-    "usa vs germany hockey",
-    "mike joy",
-    "utsa basketball",
-    "napoli vs roma",
-    "kevin harvick",
-    "jimmie johnson",
-    "akshay bhatia",
-    "all star game 2026 time"
+    "scott hamilton",
+    "us mens hockey",
+    "austin dillon",
+    "travis pastrana",
+    "dayton basketball",
+    "olympic hockey bracket",
+    "us men's hockey",
+    "justin allgaier",
+    "bradley basketball",
+    "johnny gaudreau"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "960db6a7184b",
+        "title": "Editor’s Note: Retraction of article containing fabricated quotations",
+        "summary": "We are reinforcing our editorial standards following this incident.",
+        "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-15T18:09:09+00:00"
+      },
       {
         "id": "a1d106db9329",
         "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
@@ -205,14 +213,6 @@
         "url": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
         "source": "TechCrunch",
         "published": "2026-02-14T21:55:44+00:00"
-      },
-      {
-        "id": "aaea29ac1d88",
-        "title": "NASA has a new problem to fix before the next Artemis II countdown test",
-        "summary": "\"We observed materially lower leak rates compared to prior observations during WDR-1.\"",
-        "url": "https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-14T21:02:47+00:00"
       }
     ],
     "破(day)": [
