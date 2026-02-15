@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-02-15T15:52:33.499937+00:00",
+  "updated_at": "2026-02-15T17:01:35.284555+00:00",
   "trending": [
-    "dave dombrowski",
-    "nacional vs porto",
-    "men's team pursuit speed skating",
-    "stephen a smith",
-    "jason bateman",
-    "felix auger aliassime",
-    "hardik pandya",
-    "rinku singh",
-    "alex de minaur",
-    "shivam dube"
+    "levante - valencia c. f.",
+    "levante vs valencia",
+    "netherlands",
+    "torino vs bologna",
+    "jake paul",
+    "who is jake paul",
+    "tpe country",
+    "shaheen afridi",
+    "utah basketball",
+    "atletico madrid"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "a23a4cd8fe81",
+        "title": "What the Epstein files reveal about EV startups and Silicon Valley",
+        "summary": "Will the Epstein revelations lead to broader fallout in Silicon Valley?",
+        "url": "https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/",
+        "source": "TechCrunch",
+        "published": "2026-02-15T16:54:12+00:00"
+      },
+      {
+        "id": "161c20c0e278",
+        "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
+        "summary": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.",
+        "url": "https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
+        "source": "TechCrunch",
+        "published": "2026-02-15T15:53:53+00:00"
+      },
       {
         "id": "34808182f28a",
         "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
@@ -197,25 +213,17 @@
         "url": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
         "source": "TechCrunch",
         "published": "2026-02-14T17:43:46+00:00"
-      },
-      {
-        "id": "cf42cdecbcdb",
-        "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
-        "summary": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
-        "url": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
-        "source": "TechCrunch",
-        "published": "2026-02-14T16:23:22+00:00"
-      },
-      {
-        "id": "e45027cf118f",
-        "title": "US military used Anthropic’s AI model Claude in Venezuela raid, report says",
-        "summary": "Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir TechnologiesClaude, the AI model developed by Anthropic, was used by the US military during its operation to kidnap Nicolás Maduro from Venezuela, the Wall Street Journal revealed on Saturday, a high-profile ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid",
-        "source": "Business | The Guardian",
-        "published": "2026-02-14T16:15:02+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "2a240bd52d61",
+        "title": "心願未圓的團年飯──香港宏福苑大火災民，惦記回不了的家",
+        "summary": "短期安置突然有變、返家收拾機會渺渺，就連長期安置方案，港府在年關前也給不出來。災民的新年願望，都與「安居」有關：「不是現在一定要回答我們未來如何，而是告訴我們未來每一階段，stage 1、2、3預計會發生什麼？」",
+        "url": "https://www.twreporter.org/a/the-year-of-healing-hong-kong-tai-po-fire-resettlement",
+        "source": "報導者",
+        "published": "2026-02-15T16:00:00+00:00"
+      },
       {
         "id": "65e2f93e7406",
         "title": "Quoting Eric Meyer",
@@ -239,6 +247,14 @@
         "url": "https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/",
         "source": "Science Latest",
         "published": "2026-02-15T12:00:00+00:00"
+      },
+      {
+        "id": "fb292dd0dd25",
+        "title": "地球气候的“蝴蝶效应”版图已经面目全非，科学家们首次给出了系统性证据",
+        "summary": "2015 年末的那场超级厄尔尼诺事件，很多人至今记忆犹新。那一年冬天，加利福尼亚等待已久的暴雨终于降临，而东非却遭遇严重洪灾，印度尼西亚的火灾浓烟弥漫了整个东南亚......人们对这类现象已经习以为常，赤道太平洋一打喷嚏，千里之外就会感冒。这种跨越大洋和大陆的气候 “牵一发而动全身” 的效应，气象学界称之为遥相关（teleconnection）。过去一个多世纪以来，科学家一直在绘制和利用这张联动地图，用它来做季节性预报、评估农业风险、规划水资源调度。2026 年 1 月，发表在《地球物理研究快报》（Geophysical Research Letters）上的一项研究显示，这张地图本身正在发生...",
+        "url": "https://www.mittrchina.com/news/detail/15927",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-15T11:19:28+00:00"
       },
       {
         "id": "92f6adca1099",
@@ -321,12 +337,44 @@
         "published": "2026-02-14T16:15:02+00:00"
       },
       {
+        "id": "f8d1e89a6b44",
+        "title": "Meta新专利允许AI接管逝者账号，继续在社交平台“存活”",
+        "summary": "一个人去世后，AI 是否应该代替他继续在社交媒体上“活着”？几年前，这或许听起来还像是科幻美剧《黑镜》的设定，但如今，随着技术的发展，我们或许已经到了认真思考这个问题的时候。近日，据相关媒体报道：Meta，这家掌控着 Facebook、Instagram 和 WhatsApp 的社交网络巨头，在 2025 年 12 月获得了一项新的专利授权。关于这项专利的技术描述十分直接：利用大语言模型来“模拟”用户的社交媒体活动。其中，最引人注目的一项条款是: 这种模拟不仅适用于用户暂时离开平台的情况，甚至当用户“已故”时，AI 可以接管账号，继续以你的名义在数字世界中“活下去”。这份专利最初提交于 202...",
+        "url": "https://www.mittrchina.com/news/detail/15925",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-14T15:10:09+00:00"
+      },
+      {
+        "id": "0b97a6dd7b6a",
+        "title": "中科大攻克锂金属电池快充难题，15分钟满电，终结续航焦虑",
+        "summary": "从智能手机到电动汽车，绝大多数电子设备都依赖传统的锂离子电池（LIBs）供电 。经过数十年的技术迭代，锂离子电池的安全性、循环寿命已趋于成熟，成为当下主流的储能方案，但其能量密度已逐渐逼近物理极限，且在极端环境运行及超快充电场景下，锂离子电池仍面临充电速度慢、性能衰减快、安全隐患突出等诸多挑战。为了突破这一瓶颈，科学家将目光投向了锂金属电池（LMBs）。作为下一代高能量密度电池的核心候选技术，锂金属电池的理论能量密度可达 500 Wh/kg 以上，远超传统锂离子电池，一旦实现实用化，有望让电动汽车续航里程翻倍、便携式设备充电频率大幅降低。但长期以来，锂金属电池始终被快充难题牢牢困住，无法走向规...",
+        "url": "https://www.mittrchina.com/news/detail/15924",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-14T15:05:03+00:00"
+      },
+      {
         "id": "169c162ceb49",
         "title": "Quoting Thoughtworks",
         "summary": "The retreat challenged the narrative that AI eliminates the need for junior developers. Juniors are more profitable than they have ever been. AI tools get them past the awkward initial net-negative phase faster. They serve as a call option on future productivity. And they are better at AI tools than...",
         "url": "https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-14T04:54:41+00:00"
+      },
+      {
+        "id": "151147088666",
+        "title": "中国AI回答牛顿300年之问，破解数学之吻难题，打开高维几何新视野",
+        "summary": "冬天是吃橙子的季节，当你吃橙子的时候，你是否想过这样一个问题：在桌子上摆上几个橙子，让几个橙子中间围绕一个橙子，在保持互相不重叠的情况下，最多可以摆几个？在三维空间里，答案是 12 个。这就是著名的亲吻数问题。可是如果是在更高维的空间里呢？这个连牛顿也没想明白的几何难题，困扰了人类三百多年。最近，上海科学智能研究院（下称上智院）与北京大学、复旦大学的联合研究团队打造了一个名为 PackingStar 的 AI 系统，不仅重现了人类已知的所有高维亲吻数纪录，还一口气把从 25 维到 31 维的纪录全部打破，并且在 12、14、17、20、21 等多个维度上打破了多球接吻数的最佳纪录。除此之外，它...",
+        "url": "https://www.mittrchina.com/news/detail/15923",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-14T04:29:48+00:00"
+      },
+      {
+        "id": "cef3b9b65a1d",
+        "title": "当AI开始“记得”你：与两位创业者拆解AI记忆技术",
+        "summary": "进入 2026 年，AI 记忆正在成为行业最热的竞争焦点之一。Google 为 Gemini 上线了“个人智能”（Personal Intelligence）功能，经用户授权后可调取 Gmail、Google Photos、搜索记录等个人数据，实现跨应用的语境理解，而非简单地检索单封邮件或一张照片，让 Gemini 开始对用户的数据进行“思考”，而非仅仅“获取”它。而在更早之前，OpenAI 的 ChatGPT 也已大幅升级了记忆系统，使其能够引用用户所有历史对话，奥特曼在发布时表示，“这指向了我们兴奋的方向：AI 系统在你的一生中了解你，并变得极其有用和个性化。”在基础设施层面，AI 记忆正...",
+        "url": "https://www.mittrchina.com/news/detail/15922",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-14T04:27:00+00:00"
       },
       {
         "id": "6bd8e3ecfc43",
@@ -367,54 +415,6 @@
         "url": "https://www.wired.com/story/livestream-the-hype-reality-and-future-of-electric-vehicles/",
         "source": "Business Latest",
         "published": "2026-02-13T19:21:47+00:00"
-      },
-      {
-        "id": "d9278d0c0d71",
-        "title": "Jam, color, and geometry — discover Perplex On’s AV synesthesia bliss",
-        "summary": "Dive deep into these explosions of sound, light, and shape from Munich-based Perplex On, as the musical act pairs compact instruments with visuals made in Lottie and Imaginando&#8217;s VS &#8211; Visual Synthesizer. Dazzle at these eye-popping, brain-tickling audiovisual explorations. Warning: conta...",
-        "url": "https://cdm.link/perplex-on-av/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-13T18:43:34+00:00"
-      },
-      {
-        "id": "84f25f523d65",
-        "title": "Record Low Snow in the West Will Mean Less Water, More Fire, and Political Chaos",
-        "summary": "Snowpack levels across a wide swath of western US states are among the lowest seen in decades, even as regulators struggle to negotiate water rights in the region.",
-        "url": "https://www.wired.com/story/record-low-snow-in-the-west-will-mean-less-water-more-fire-and-political-chaos/",
-        "source": "Science Latest",
-        "published": "2026-02-13T18:25:53+00:00"
-      },
-      {
-        "id": "c0d62f4257f9",
-        "title": "AI is indeed coming – but there is also evidence to allay investor fears",
-        "summary": "Opinions are divided about the potential impact of artificial intelligence as the response to a recent viral essay showsUK ad agencies undergo biggest exodus of staff as AI threatens industryThe message from investors to the software, wealth management, legal services and logistics industries this m...",
-        "url": "https://www.theguardian.com/technology/2026/feb/13/ai-effects-on-business-industry-evidence-to-allay-investor-fears",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-13T17:00:30+00:00"
-      },
-      {
-        "id": "d10aa01238e7",
-        "title": "Zillow Has Gone Wild—for AI",
-        "summary": "As the housing market stalls, Zillow’s CEO sees AI as “an ingredient rather than a threat” that can both help the company protect its turf and reinvent how people search for homes.",
-        "url": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/",
-        "source": "Business Latest",
-        "published": "2026-02-13T16:14:25+00:00"
-      },
-      {
-        "id": "e191497ea8ea",
-        "title": "The best vacuum cleaners in the UK for hard floors, carpet and pet hair – tested",
-        "summary": "From handheld to corded, self-emptying to stick models, these are our resident cleaner’s favourite vacuums for a spotless home• The best cordless vacuum cleaners, tested• How to make your vacuum cleaner last longerBuying a vacuum cleaner isn’t as easy as you might think. With so many brands and mode...",
-        "url": "https://www.theguardian.com/thefilter/2026/feb/13/best-vacuum-cleaners-uk-tested",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-13T15:00:28+00:00"
-      },
-      {
-        "id": "a735ef11f5c8",
-        "title": "Anthropic raises $30bn in latest round, valuing Claude bot maker at $380bn",
-        "summary": "Maker of chatbot with coding ability says annualised revenue grew tenfold in each of past three years, to $14bnAnthropic, the US AI startup behind the Claude chatbot, has raised $30bn (£22bn) in a funding round that more than doubled its valuation to $380bn.The company’s previous funding round in Se...",
-        "url": "https://www.theguardian.com/technology/2026/feb/12/anthropic-funding-round",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-13T11:30:00+00:00"
       }
     ],
     "序(month)": [
