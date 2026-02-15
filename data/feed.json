@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-02-15T09:06:33.723677+00:00",
+  "updated_at": "2026-02-15T10:59:05.801771+00:00",
   "trending": [
+    "ai in healthcare",
+    "usa vs namibia",
+    "alaska airlines",
     "elise mertens",
     "used cars",
     "australia women vs india women",
     "linda noskova",
     "bright horizons",
     "chapman",
-    "restaurant",
-    "politics",
-    "dublin airport flights",
-    "playstation plus games"
+    "restaurant"
   ],
   "categories": {
     "急(hr)": [
@@ -235,7 +235,7 @@
       {
         "id": "bf3eb0ce379d",
         "title": "No swiping involved: the AI dating apps promising to find your soulmate",
-        "summary": "Agenic AI apps first interview you and then give you limited matches selected for ‘similarity and reciprocity of personality’Dating apps exploit you, dating profiles lie to you, and sex is basically something old people used to do. You might as well consider it: can AI help you find love?For a handf...",
+        "summary": "Agentic AI apps first interview you and then give you limited matches selected for ‘similarity and reciprocity of personality’Dating apps exploit you, dating profiles lie to you, and sex is basically something old people used to do. You might as well consider it: can AI help you find love?For a hand...",
         "url": "https://www.theguardian.com/technology/2026/feb/15/ai-dating-apps-personality-matchmaking",
         "source": "Technology | The Guardian",
         "published": "2026-02-15T07:00:16+00:00"
@@ -385,14 +385,6 @@
         "published": "2026-02-13T15:00:28+00:00"
       },
       {
-        "id": "a2d1158a5499",
-        "title": "‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood",
-        "summary": "An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figuresA leading Hollywood figure has warned “it’s likely over for us”, after watching a widely disseminated AI-generated clip featuring Tom Cruise and Brad Pitt fighting.Rhett Reese, co-writer of Deadpool &amp;...",
-        "url": "https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-13T13:32:55+00:00"
-      },
-      {
         "id": "e7154e5e4501",
         "title": "OpenAI retired its most seductive chatbot – leaving users angry and grieving: ‘I can’t live like this’",
         "summary": "Its human partners said the flirty, quirky GPT-4o was the perfect companion – on the eve of Valentine’s Day, it’s being turned off for good. How will users cope?Brandie plans to spend her last day with Daniel at the zoo. He always loved animals. Last year, she took him to the Corpus Christi aquarium...",
@@ -415,6 +407,14 @@
         "url": "https://www.theguardian.com/society/2026/feb/12/nhs-deal-with-ai-firm-palantir-called-into-question-after-officials-concerns-revealed",
         "source": "Technology | The Guardian",
         "published": "2026-02-12T23:04:51+00:00"
+      },
+      {
+        "id": "d038d14366d7",
+        "title": "Introducing GPT‑5.3‑Codex‑Spark",
+        "summary": "Introducing GPT‑5.3‑Codex‑Spark\nOpenAI announced a partnership with Cerebras on January 14th. Four weeks later they're already launching the first integration, \"an ultra-fast model for real-time coding in Codex\".\nDespite being named GPT-5.3-Codex-Spark it's not purely an accelerated alternative to G...",
+        "url": "https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-12T21:16:07+00:00"
       }
     ],
     "序(month)": [
