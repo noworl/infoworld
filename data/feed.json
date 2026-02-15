@@ -1,26 +1,42 @@
 {
-  "updated_at": "2026-02-15T15:01:13.388355+00:00",
+  "updated_at": "2026-02-15T15:52:33.499937+00:00",
   "trending": [
-    "kaysha love bobsled",
-    "kaillie humphries",
-    "rayo vallecano - atlético madrid",
-    "magda linette",
-    "lisa vittozzi",
-    "gisele pelicot book",
-    "arsenal vs wigan athletic",
-    "paul anka",
-    "usman tariq",
-    "josie baff"
+    "dave dombrowski",
+    "nacional vs porto",
+    "men's team pursuit speed skating",
+    "stephen a smith",
+    "jason bateman",
+    "felix auger aliassime",
+    "hardik pandya",
+    "rinku singh",
+    "alex de minaur",
+    "shivam dube"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "34808182f28a",
+        "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+        "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+        "url": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+        "source": "TechCrunch",
+        "published": "2026-02-15T15:41:16+00:00"
+      },
+      {
         "id": "30c6bae48efe",
-        "title": "Welsh munitions factory seen as crucial to boosting stockpiles is still yet to open",
+        "title": "Welsh munitions factory seen as crucial to boosting UK stockpiles and aiding Ukraine is yet to open",
         "summary": "Exclusive: Delay at Glascoed is latest setback for armed forces and for UK’s capacity to supply shells to UkraineA new factory in Wales seen as crucial to boosting UK munitions production remains unopened more than six months after its planned launch, adding to a string of delays dogging the armed f...",
         "url": "https://www.theguardian.com/uk-news/2026/feb/15/welsh-munitions-factory-delay-bae-systems-glascoed-delay-shells-ukraine",
         "source": "Business | The Guardian",
-        "published": "2026-02-15T14:00:28+00:00"
+        "published": "2026-02-15T15:16:49+00:00"
+      },
+      {
+        "id": "fd5b46b5e060",
+        "title": "Even amid rising economic uncertainty, now is not the time to hug your job",
+        "summary": "In a rapidly changing job market, it’s not necessarily good for workers to cling to their current employmentAfter all the employee protests over the past few years – the “great resignations”, the “quiet quittings”, the “bare-minimum Mondays” and “coffee badgings” – we have finally arrived at “job hu...",
+        "url": "https://www.theguardian.com/business/2026/feb/15/economic-uncertainty-job-changes",
+        "source": "Business | The Guardian",
+        "published": "2026-02-15T15:00:24+00:00"
       },
       {
         "id": "d65408882508",
@@ -175,14 +191,6 @@
         "published": "2026-02-14T18:33:36+00:00"
       },
       {
-        "id": "ae5fbfe7d362",
-        "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-        "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
-        "url": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-        "source": "TechCrunch",
-        "published": "2026-02-14T18:26:52+00:00"
-      },
-      {
         "id": "d9bfee0130f1",
         "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
         "summary": "Designer Kate Barton teams up with Fiducia AI and IBM for a NYFW presentation.",
@@ -205,14 +213,6 @@
         "url": "https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid",
         "source": "Business | The Guardian",
         "published": "2026-02-14T16:15:02+00:00"
-      },
-      {
-        "id": "5b1ff96fab61",
-        "title": "Record 1,000 UK taxpayers under 30 earned more than £1m last year",
-        "summary": "HMRC figures show 11% rise in young million-pound earners, with influencers and tech pay cited as keyTheir generation is often derided for being work-shy, self-centred and overly sensitive. But when it comes to making money, people under 30 are proving they are something else entirely: successful.A ...",
-        "url": "https://www.theguardian.com/money/2026/feb/14/record-1000-uk-taxpayers-under-30-earned-more-than-1m-last-year",
-        "source": "Business | The Guardian",
-        "published": "2026-02-14T16:00:57+00:00"
       }
     ],
     "破(day)": [
@@ -611,12 +611,12 @@
         "published": "2026-01-30T19:26:48+00:00"
       },
       {
-        "id": "d3b00a3f761b",
-        "title": "Tom Johnson and a rational theory of harmony",
-        "summary": ".",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2591899?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2026-01-29T07:06:01+00:00"
+        "id": "3752ead9da29",
+        "title": "2025 in numbers",
+        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2347",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T16:19:39+00:00"
       }
     ]
   }
