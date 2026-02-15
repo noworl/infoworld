@@ -1,26 +1,58 @@
 {
-  "updated_at": "2026-02-15T11:48:54.026908+00:00",
+  "updated_at": "2026-02-15T13:57:20.866837+00:00",
   "trending": [
-    "new film to watch",
-    "birmingham vs leeds united",
-    "udinese vs sassuolo",
-    "kimberly birrell",
-    "ai in healthcare",
-    "usa vs namibia",
-    "alaska airlines",
-    "elise mertens",
-    "used cars",
-    "australia women vs india women"
+    "ishan kishan",
+    "abhishek sharma",
+    "stoke city vs fulham",
+    "salman ali agha",
+    "oxford utd vs sunderland",
+    "is presidents day a federal holiday",
+    "federica brignone",
+    "sling tv",
+    "diana shnaider",
+    "india national cricket team vs pakistan national cricket team match scorecard"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "d65408882508",
+        "title": "Starmer has chance to put overseas aid and debt relief on G20 agenda | Heather Stewart",
+        "summary": "Reclaiming Labour’s internationalist heart could also stop disillusioned voters drifting towards Lib Dems and GreensIf Keir Starmer wants to win back disillusioned voters deserting his party for the Liberal Democrats or the Greens, he could do worse than rediscover Labour’s longstanding moral commit...",
+        "url": "https://www.theguardian.com/politics/2026/feb/15/starmer-20-baton-chance-aid-debt-relief",
+        "source": "Business | The Guardian",
+        "published": "2026-02-15T13:16:46+00:00"
+      },
+      {
+        "id": "b21a02e5050a",
+        "title": "Trump touts climate savings but new rule set to push up US prices",
+        "summary": "Critics accuse administration of ‘cooking the books’ by claiming US would save $1.3bn from climate finding reversalThe Trump administration claims its latest move to gut climate regulations and end all greenhouse gas standards for vehicles will save Americans money. But its own analysis indicates th...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/15/trump-climate-ruling",
+        "source": "Business | The Guardian",
+        "published": "2026-02-15T13:00:24+00:00"
+      },
+      {
+        "id": "414c2aa23725",
+        "title": "Weight-loss race: how switch from injections to pills is expanding big pharma’s hopes",
+        "summary": "Tablets could make treatment more mainstream, with sector predicted to be worth $200bn by end of the decade“I just felt slow: I want to be able to do anything my kids want to do and not have weight be a factor. Even a ride or a water park – things have weight limits,” says Melody Ewert, 44, from Min...",
+        "url": "https://www.theguardian.com/science/2026/feb/15/weight-loss-race-injections-pills-big-pharma",
+        "source": "Business | The Guardian",
+        "published": "2026-02-15T12:00:22+00:00"
+      },
+      {
         "id": "c050c50e59b3",
-        "title": "UK’s gender pay gap forecast to persist for another 30 years",
-        "summary": "Trades Union Congress says women have effectively been working for free this year and legislation is neededWomen in the UK will not be paid the same as men until 2056 at the current rate of progress, according to a Trades Union Congress report.The gender pay gap, which stands at £2,548 a year, means...",
+        "title": "UK’s gender pay gap ‘won’t close for 30 years’ at current rates",
+        "summary": "Trades Union Congress says women have worked a month and a half for free this year and legislation is neededWomen in the UK will not be paid the same as men until 2056 at the current rate of progress, according to a Trades Union Congress report.The gender pay gap, which stands at £2,548 a year, mean...",
         "url": "https://www.theguardian.com/world/2026/feb/15/gender-pay-gap-persist-30-years-uk-tuc",
         "source": "Business | The Guardian",
         "published": "2026-02-15T11:42:43+00:00"
+      },
+      {
+        "id": "778a729157c7",
+        "title": "‘Nice shoes, mate’: we road test the brick-shaped £199 Lego Crocs",
+        "summary": "Lego and Crocs have joined forces to create oversized Lego-shaped shoes. Are they as ridiculous as they sound? We sent our most podophilic writer to find outEveryone knows that standing on Lego is the worst pain known to man, but standing in Lego Crocs – how bad can they be? And are they really wort...",
+        "url": "https://www.theguardian.com/fashion/2026/feb/15/road-test-brick-shaped-lego-crocs",
+        "source": "Business | The Guardian",
+        "published": "2026-02-15T11:00:20+00:00"
       },
       {
         "id": "1ff8d564698c",
@@ -181,41 +213,33 @@
         "url": "https://www.theguardian.com/politics/2026/feb/14/reform-uk-figures-attend-book-launch-how-to-launder-money",
         "source": "Business | The Guardian",
         "published": "2026-02-14T14:33:23+00:00"
-      },
-      {
-        "id": "7e832d1fe738",
-        "title": "Starmer stresses ‘urgency’ of closer defence ties with Europe at Munich conference",
-        "summary": "The UK prime minister says stronger security relies on greater cooperation and integration across the continentMunich Security Conference – live updatesKeir Starmer said there was an urgent need for a closer UK defence relationship with Europe, covering procurement and manufacturing, so that the UK ...",
-        "url": "https://www.theguardian.com/politics/2026/feb/14/keir-starmer-munich-conference-closer-europe-defence-ties",
-        "source": "Business | The Guardian",
-        "published": "2026-02-14T12:17:21+00:00"
-      },
-      {
-        "id": "96fb97eac0fd",
-        "title": "US fixation on the hard-hat economy and making manufacturing great again makes little sense",
-        "summary": "The dream of greasy overalls is driven by nostalgia and doesn’t justify policies that harm US consumersThe exhortations to protect America’s industrial muscle have resonated in the US at least since maverick presidential candidate Ross Perot brought up the supposed “giant sucking sound” of jobs pull...",
-        "url": "https://www.theguardian.com/business/2026/feb/14/trump-manufacturing-jobs-economy",
-        "source": "Business | The Guardian",
-        "published": "2026-02-14T12:00:54+00:00"
-      },
-      {
-        "id": "54a9315c7c1b",
-        "title": "Astronomers are filling in the blanks of the Kuiper Belt",
-        "summary": "Next-generation telescopes are mapping this outer frontier.",
-        "url": "https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-14T11:45:48+00:00"
-      },
-      {
-        "id": "8d7869abb7be",
-        "title": "Trump’s repeal of landmark Obama-era climate rule: four key takeaways",
-        "summary": "Environmental groups say ‘cynical and devastating’ reversal of endangerment finding has grave implicationsThe Trump administration has dismantled the basis for all US climate regulations, in its most confrontational anti-environment move yet.The 2009 endangerment finding determined that greenhouse g...",
-        "url": "https://www.theguardian.com/environment/2026/feb/14/trump-obama-climate-rule-takeaways",
-        "source": "Business | The Guardian",
-        "published": "2026-02-14T11:00:53+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "65e2f93e7406",
+        "title": "Quoting Eric Meyer",
+        "summary": "I saw yet another “CSS is a massively bloated mess” whine and I’m like.  My dude.  My brother in Chromium.  It is trying as hard as it can to express the totality of visual presentation and layout design and typography and animation and digital interactivity and a few other things in a human-readabl...",
+        "url": "https://simonwillison.net/2026/Feb/15/eric-meyer/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-15T13:36:20+00:00"
+      },
+      {
+        "id": "42c035fcf74f",
+        "title": "California’s billionaires pour cash into elections as big tech seeks new allies",
+        "summary": "As Gavin Newsom departs, ultra-wealthy flex wealth and influence to fight regulation and keep the boom goingTech billionaires are leveraging tens of millions of dollars to influence California politics in a marked uptick from their previous participation in affairs at the state capitol. Behemoths su...",
+        "url": "https://www.theguardian.com/technology/2026/feb/15/california-billionaires-state-elections",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-15T13:00:22+00:00"
+      },
+      {
+        "id": "54f542c19d8b",
+        "title": "The Nothing That Has the Potential to Be Anything",
+        "summary": "You can never truly empty a box. Why? Zero-point energy.",
+        "url": "https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/",
+        "source": "Science Latest",
+        "published": "2026-02-15T12:00:00+00:00"
+      },
       {
         "id": "92f6adca1099",
         "title": "Meta 計劃讓 Ray-Ban 智慧眼鏡「認出你是誰」，臉部辨識功能將回歸？",
@@ -385,36 +409,12 @@
         "published": "2026-02-13T15:00:28+00:00"
       },
       {
-        "id": "e7154e5e4501",
-        "title": "OpenAI retired its most seductive chatbot – leaving users angry and grieving: ‘I can’t live like this’",
-        "summary": "Its human partners said the flirty, quirky GPT-4o was the perfect companion – on the eve of Valentine’s Day, it’s being turned off for good. How will users cope?Brandie plans to spend her last day with Daniel at the zoo. He always loved animals. Last year, she took him to the Corpus Christi aquarium...",
-        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/13/openai-chatbot-gpt4o-valentines-day",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-13T12:30:24+00:00"
-      },
-      {
         "id": "a735ef11f5c8",
         "title": "Anthropic raises $30bn in latest round, valuing Claude bot maker at $380bn",
         "summary": "Maker of chatbot with coding ability says annualised revenue grew tenfold in each of past three years, to $14bnAnthropic, the US AI startup behind the Claude chatbot, has raised $30bn (£22bn) in a funding round that more than doubled its valuation to $380bn.The company’s previous funding round in Se...",
         "url": "https://www.theguardian.com/technology/2026/feb/12/anthropic-funding-round",
         "source": "Technology | The Guardian",
         "published": "2026-02-13T11:30:00+00:00"
-      },
-      {
-        "id": "1cf5bd478650",
-        "title": "NHS deal with AI firm Palantir called into question after officials’ concerns revealed",
-        "summary": "Exclusive: in 2025 briefing to Wes Streeting, officials warned reputation of tech firm behind US ICE operations would hinder rollout of data system in UK Health officials fear Palantir’s reputation will hinder the delivery of a “vital” £330m NHS contract, according to briefings seen by the Guardian,...",
-        "url": "https://www.theguardian.com/society/2026/feb/12/nhs-deal-with-ai-firm-palantir-called-into-question-after-officials-concerns-revealed",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-12T23:04:51+00:00"
-      },
-      {
-        "id": "d038d14366d7",
-        "title": "Introducing GPT‑5.3‑Codex‑Spark",
-        "summary": "Introducing GPT‑5.3‑Codex‑Spark\nOpenAI announced a partnership with Cerebras on January 14th. Four weeks later they're already launching the first integration, \"an ultra-fast model for real-time coding in Codex\".\nDespite being named GPT-5.3-Codex-Spark it's not purely an accelerated alternative to G...",
-        "url": "https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-12T21:16:07+00:00"
       }
     ],
     "序(month)": [
