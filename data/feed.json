@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-02-15T17:01:35.284555+00:00",
+  "updated_at": "2026-02-15T19:15:28.752037+00:00",
   "trending": [
-    "levante - valencia c. f.",
-    "levante vs valencia",
-    "netherlands",
-    "torino vs bologna",
-    "jake paul",
-    "who is jake paul",
-    "tpe country",
-    "shaheen afridi",
-    "utah basketball",
-    "atletico madrid"
+    "derek carr",
+    "jordan spieth",
+    "usa vs germany hockey",
+    "mike joy",
+    "utsa basketball",
+    "napoli vs roma",
+    "kevin harvick",
+    "jimmie johnson",
+    "akshay bhatia",
+    "all star game 2026 time"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "a1d106db9329",
+        "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+        "summary": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
+        "url": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+        "source": "TechCrunch",
+        "published": "2026-02-15T18:00:00+00:00"
+      },
+      {
+        "id": "ddf7d0d5afc3",
+        "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+        "summary": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
+        "url": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+        "source": "TechCrunch",
+        "published": "2026-02-15T17:30:00+00:00"
+      },
+      {
+        "id": "35cc8e93cdda",
+        "title": "The Guardian view on AI: safety staff departures raise worries about industry pursuing profit at all costs | Editorial",
+        "summary": "Cash-hungry Silicon Valley firms are scrambling for revenue. Regulate them now before the tech becomes too big to failHardly a month passes without an AI grandee cautioning that the technology poses an existential threat to humanity. Many of these warnings might be hazy or naive. Others may be self-...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/15/the-guardian-view-on-ai-safety-staff-departures-raise-worries-about-industry-pursuing-profit-at-all-costs",
+        "source": "Business | The Guardian",
+        "published": "2026-02-15T17:25:27+00:00"
+      },
+      {
+        "id": "e2b10c05615a",
+        "title": "\"It ain't no unicorn\": These researchers have interviewed 130 Bigfoot hunters",
+        "summary": "What prompts this community to spend time looking for a creature that likely doesn't exist?",
+        "url": "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-15T17:20:12+00:00"
+      },
+      {
+        "id": "1a451cc75e4b",
+        "title": "TechCrunch Mobility: Rivian’s savior",
+        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+        "url": "https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/",
+        "source": "TechCrunch",
+        "published": "2026-02-15T17:05:00+00:00"
+      },
       {
         "id": "a23a4cd8fe81",
         "title": "What the Epstein files reveal about EV startups and Silicon Valley",
@@ -65,7 +105,7 @@
       {
         "id": "b21a02e5050a",
         "title": "Trump touts climate savings but new rule set to push up US prices",
-        "summary": "Critics accuse administration of ‘cooking the books’ by claiming US would save $1.3bn from climate finding reversalThe Trump administration claims its latest move to gut climate regulations and end all greenhouse gas standards for vehicles will save Americans money. But its own analysis indicates th...",
+        "summary": "Critics accuse administration of ‘cooking the books’ by claiming US would save $1.3tn from climate finding reversalThe Trump administration claims its latest move to gut climate regulations and end all greenhouse gas standards for vehicles will save Americans money. But its own analysis indicates th...",
         "url": "https://www.theguardian.com/us-news/2026/feb/15/trump-climate-ruling",
         "source": "Business | The Guardian",
         "published": "2026-02-15T13:00:24+00:00"
@@ -81,7 +121,7 @@
       {
         "id": "c050c50e59b3",
         "title": "UK’s gender pay gap ‘won’t close for 30 years’ at current rates",
-        "summary": "Trades Union Congress says women have worked a month and a half for free this year and legislation is neededWomen in the UK will not be paid the same as men until 2056 at the current rate of progress, according to a Trades Union Congress report.The gender pay gap, which stands at £2,548 a year, mean...",
+        "summary": "Trades Union Congress says women have worked a month and a half for nothing this year and legislation is neededWomen in the UK will not be paid the same as men until 2056 at the current rate of progress, according to a Trades Union Congress report.The gender pay gap, which stands at £2,548 a year, m...",
         "url": "https://www.theguardian.com/world/2026/feb/15/gender-pay-gap-persist-30-years-uk-tuc",
         "source": "Business | The Guardian",
         "published": "2026-02-15T11:42:43+00:00"
@@ -173,49 +213,33 @@
         "url": "https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/",
         "source": "Ars Technica - All content",
         "published": "2026-02-14T21:02:47+00:00"
-      },
-      {
-        "id": "eb0cb6047a1f",
-        "title": "BrewDog could be broken up as craft beer business put up for sale",
-        "summary": "Brewer last month said it was closing its distilling brands, prompting concerns for jobs at its Scottish facilityThe beer-maker BrewDog could be broken up after consultants were called in to help find new investors.The Scotland-based brewer, which makes craft beer such as Punk IPA and Elvis Juice, h...",
-        "url": "https://www.theguardian.com/business/2026/feb/14/brewdog-could-be-broken-up-as-craft-beer-business-put-up-for-sale",
-        "source": "Business | The Guardian",
-        "published": "2026-02-14T20:58:18+00:00"
-      },
-      {
-        "id": "81c590bfdd02",
-        "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
-        "summary": "As much of Silicon Valley chases mega-rounds and buzzy AI deals, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital's earlier days",
-        "url": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
-        "source": "TechCrunch",
-        "published": "2026-02-14T20:37:42+00:00"
-      },
-      {
-        "id": "fb8299a97284",
-        "title": "‘Clueless’ -inspired app Alta partners with brand Public School to start integrating styling tools into websites",
-        "summary": "This week, Alta unveiled its first integration collaboration, teaming up with Public School, a storied New York City brand.",
-        "url": "https://techcrunch.com/2026/02/14/clueless-inspired-app-alta-partners-with-brand-public-school-to-start-integrating-styling-tools-into-websites/",
-        "source": "TechCrunch",
-        "published": "2026-02-14T19:00:00+00:00"
-      },
-      {
-        "id": "ba0690bb6dbd",
-        "title": "A Valentine's Day homage to Crouching Tiger, Hidden Dragon",
-        "summary": "Ang Lee's gorgeous 2000 masterpiece has awe-inspiring martial arts stunts and a tragic love story for the ages.",
-        "url": "https://arstechnica.com/culture/2026/02/a-valentines-day-homage-to-crouching-tiger-hidden-dragon/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-14T18:33:36+00:00"
-      },
-      {
-        "id": "d9bfee0130f1",
-        "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
-        "summary": "Designer Kate Barton teams up with Fiducia AI and IBM for a NYFW presentation.",
-        "url": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
-        "source": "TechCrunch",
-        "published": "2026-02-14T17:43:46+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "e645398f22cb",
+        "title": "Gwtar: a static efficient single-file HTML format",
+        "summary": "Gwtar: a static efficient single-file HTML format\nFascinating new project from Gwern Branwen and Said Achmiz that targets the challenge of combining large numbers of assets into a single archived HTML file without that file being inconvenient to view in a browser.\nThe key trick it uses is to fire wi...",
+        "url": "https://simonwillison.net/2026/Feb/15/gwtar/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-15T18:26:08+00:00"
+      },
+      {
+        "id": "93eb5892d3b7",
+        "title": "Three months of OpenClaw",
+        "summary": "It's wild that the first commit to OpenClaw was on November 25th 2025, and less than three months later it's hit 10,000 commits from 600 contributors, attracted 196,000 GitHub stars and sort-of been featured in an extremely vague Super Bowl commercial for AI.com.\nQuoting AI.com founder Kris Marszale...",
+        "url": "https://simonwillison.net/2026/Feb/15/openclaw/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-15T17:23:28+00:00"
+      },
+      {
+        "id": "4bb4882427d4",
+        "title": "Filter Delays, free Max for Live stereo effect from Robert Henke",
+        "summary": "Here's a surprise, an evidently spontaneous drop from Ableton co-founder Robert Henke in Max for Live. Filter Delays provides three filtered stereo delays with some very clever twists; it's a free download for Ableton Live Suite 12+ users.\nThe post Filter Delays, free Max for Live stereo effect from...",
+        "url": "https://cdm.link/filter-delays/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-15T17:06:28+00:00"
+      },
       {
         "id": "2a240bd52d61",
         "title": "心願未圓的團年飯──香港宏福苑大火災民，惦記回不了的家",
@@ -391,30 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-13T23:38:29+00:00"
-      },
-      {
-        "id": "0f245090a8b3",
-        "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
-        "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
-        "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
-        "source": "Business Latest",
-        "published": "2026-02-13T21:56:18+00:00"
-      },
-      {
-        "id": "7e9994f0cddf",
-        "title": "Senators Urge Top Regulator to Stay Out of Prediction Market Lawsuits",
-        "summary": "As prediction market platforms like Polymarket and Kalshi battle regulators in court, Senate Democrats are urging the CFTC to avoid weighing in, escalating a broader fight over the burgeoning industry.",
-        "url": "https://www.wired.com/story/senators-urge-top-regulators-to-stay-out-of-prediction-market-lawsuits/",
-        "source": "Business Latest",
-        "published": "2026-02-13T19:31:24+00:00"
-      },
-      {
-        "id": "21c8710d55ed",
-        "title": "Join Our Livestream: The Hype, Reality, and Future of EVs",
-        "summary": "Pose your questions to a panel of WIRED experts about the future of the electric vehicle industry.",
-        "url": "https://www.wired.com/story/livestream-the-hype-reality-and-future-of-electric-vehicles/",
-        "source": "Business Latest",
-        "published": "2026-02-13T19:21:47+00:00"
       }
     ],
     "序(month)": [
