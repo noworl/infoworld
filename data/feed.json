@@ -1,19 +1,83 @@
 {
-  "updated_at": "2026-02-16T11:28:41.829616+00:00",
+  "updated_at": "2026-02-16T14:33:05.784335+00:00",
   "trending": [
-    "belinda bencic",
-    "alaska airlines",
-    "daria kasatkina",
-    "sorana cirstea",
-    "new show to watch",
-    "victoria mboko",
-    "england vs italy",
-    "aliaksandra sasnovich",
-    "industry season 4 episode 6 dear henry",
-    "dense fog advisory"
+    "sarah michelle gellar",
+    "quentin tarantino",
+    "australia vs sri lanka",
+    "is twitter down",
+    "david archuleta",
+    "gma deals and steals",
+    "presidents day sales",
+    "connections hint today",
+    "fat tuesday 2026",
+    "jakub mensik"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "443656579a99",
+        "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
+        "summary": "\"We're exploring a different set of tradeoffs.\"",
+        "url": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
+        "source": "TechCrunch",
+        "published": "2026-02-16T14:00:00+00:00"
+      },
+      {
+        "id": "2fca50bd3b2a",
+        "title": "UK consumer sentiment takes a tumble; bad weather threaten fruit supplies but boosts Morocco’s wheat crop – business live",
+        "summary": "Rolling coverage of the latest economic and financial news, as UK households grow more worried about debtsUK consumer sentiment continued to sink this month, as households grow more worried about debt levels.A poll of consumer confidence from data firm S&amp;P Global has found that morale continued ...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T13:39:12+00:00"
+      },
+      {
+        "id": "83a713cd4e6e",
+        "title": "Volkswagen aims to cut costs by 20% by 2028 in restructuring plan, report says",
+        "summary": "Plant closures possible as part of German carmaker’s efforts to create resilience in face of competition from ChinaBusiness live – latest updatesVolkswagen plans to cut costs by 20% by 2028, with plant closures not ruled out, as part of an effort to reshape the company in the face of increasing comp...",
+        "url": "https://www.theguardian.com/business/2026/feb/16/volkswagen-vw-plan-cut-costs-restructuring-china-competition",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T13:38:12+00:00"
+      },
+      {
+        "id": "52600766b309",
+        "title": "After all the hype, some AI experts don’t think OpenClaw is all that exciting",
+        "summary": "\"From an AI research perspective, this is nothing novel,\" one expert told TechCrunch.",
+        "url": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
+        "source": "TechCrunch",
+        "published": "2026-02-16T13:15:00+00:00"
+      },
+      {
+        "id": "df460c3f32b5",
+        "title": "The US is merely the latest to join the global rush to hoard critical minerals",
+        "summary": "JD Vance is seeking to create a ‘trading bloc’ as shortages and climate crises mean a kaleidoscope of rare earths are increasingly jealously guardedThe announcement by the US vice-president, JD Vance, that the country is seeking to create a new critical minerals “trading bloc” is a final, exotic, na...",
+        "url": "https://www.theguardian.com/environment/2026/feb/16/critical-minerals-shortages-jd-vance-trading-bloc-analysis",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T13:00:26+00:00"
+      },
+      {
+        "id": "a90f6f8fbded",
+        "title": "Lloyds investigating after using staff’s bank account data in pay talks",
+        "summary": "CEO Charlie Nunn tells employees that issue ‘created some concern’ but insisted ‘we definitely have listened to it’Business live – latest updatesThe boss of Lloyds Banking Group has told staff that it is investigating a controversial decision to use employee bank account data during pay talks with u...",
+        "url": "https://www.theguardian.com/business/2026/feb/16/lloyds-staff-banking-data-pay-talks-charlie-nunn",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T12:24:55+00:00"
+      },
+      {
+        "id": "63c8a2823d67",
+        "title": "Sideways on the ice, in a supercar: Stability control is getting very good",
+        "summary": "To test stability control, it helps to have a wide-open space with very low grip.",
+        "url": "https://arstechnica.com/features/2026/02/learning-the-limits-of-stability-control-on-a-frozen-lake-in-a-mclaren/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-16T12:00:53+00:00"
+      },
+      {
+        "id": "9ce78c899c01",
+        "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
+        "summary": "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off in Indian software stocks.",
+        "url": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
+        "source": "TechCrunch",
+        "published": "2026-02-16T11:51:25+00:00"
+      },
       {
         "id": "e9152958c003",
         "title": "All the important news from the ongoing India AI Impact Summit",
@@ -21,14 +85,6 @@
         "url": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
         "source": "TechCrunch",
         "published": "2026-02-16T11:20:27+00:00"
-      },
-      {
-        "id": "2fca50bd3b2a",
-        "title": "UK consumer sentiment falls as households worry about debt; Japan and Switzerland avoid recession – business live",
-        "summary": "Rolling coverage of the latest economic and financial news, as Japan misses growth forecasts for the final three months of 2025UK consumer sentiment continued to sink this month, as households grow more worried about debt levels.A poll of consumer confidence from data firm S&amp;P Global has found t...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T10:53:12+00:00"
       },
       {
         "id": "a22a30f8eca3",
@@ -45,6 +101,14 @@
         "url": "https://www.theguardian.com/business/2026/feb/16/royal-mail-late-deliveries-parcels-letters",
         "source": "Business | The Guardian",
         "published": "2026-02-16T09:33:43+00:00"
+      },
+      {
+        "id": "662724cadf1a",
+        "title": "Amazon van gets stuck on Britain’s ‘most dangerous’ mudflat path",
+        "summary": "GPS led driver on to the Broomway in the Thames estuary, where dozens of people are known to have died An Amazon delivery van got stuck trying to drive along one of Britain’s most dangerous coastal paths as the driver followed GPS directions on to mudflats to try to get to an island in the Thames es...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/16/amazon-van-stuck-britain-mudflat-path-broomway-thames-estuary",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T09:20:09+00:00"
       },
       {
         "id": "c8ab2e0644bc",
@@ -119,10 +183,26 @@
         "published": "2026-02-16T00:30:00+00:00"
       },
       {
+        "id": "74fc3f18f533",
+        "title": "Can consciousness ever be understood — this side of death?",
+        "summary": "Nature, Published online: 16 February 2026; doi:10.1038/d41586-026-00448-5Philosophers, psychologists, neuroscientists, plant biologists and novelists have all grappled with the mysteries of conscious experience, to an uncertain end.",
+        "url": "https://www.nature.com/articles/d41586-026-00448-5",
+        "source": "Nature",
+        "published": "2026-02-16T00:00:00+00:00"
+      },
+      {
         "id": "9a0b617def46",
         "title": "Why we don’t really know what the public thinks about science",
         "summary": "Nature, Published online: 16 February 2026; doi:10.1038/d41586-026-00467-2Measuring trust isn’t enough. Furthering knowledge about the institutions and norms of science is the best way to build credibility.",
         "url": "https://www.nature.com/articles/d41586-026-00467-2",
+        "source": "Nature",
+        "published": "2026-02-16T00:00:00+00:00"
+      },
+      {
+        "id": "31101fb6b2b5",
+        "title": "How to wow a popular-science writer with your research expertise",
+        "summary": "Nature, Published online: 16 February 2026; doi:10.1038/d41586-026-00475-2Prepping for an interview with an author? Keep it simple, meet in person if possible, and stick to your subject, say five writers who regularly talk to scientists about their research.",
+        "url": "https://www.nature.com/articles/d41586-026-00475-2",
         "source": "Nature",
         "published": "2026-02-16T00:00:00+00:00"
       },
@@ -133,96 +213,24 @@
         "url": "https://www.nature.com/articles/d41586-026-00435-w",
         "source": "Nature",
         "published": "2026-02-16T00:00:00+00:00"
-      },
-      {
-        "id": "0aae42736e23",
-        "title": "OpenClaw creator Peter Steinberger joins OpenAI",
-        "summary": "OpenAI said OpenClaw will live on as an open source project.",
-        "url": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
-        "source": "TechCrunch",
-        "published": "2026-02-15T22:28:02+00:00"
-      },
-      {
-        "id": "a5e0747ba295",
-        "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
-        "summary": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice in the company’s NotebookLM tool is based on him.",
-        "url": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
-        "source": "TechCrunch",
-        "published": "2026-02-15T22:07:51+00:00"
-      },
-      {
-        "id": "82c9f76e54e5",
-        "title": "Space Station returns to a full crew complement after a month",
-        "summary": "\"It's only possible because of the incredibly talented workforce we have.\"",
-        "url": "https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-15T21:11:54+00:00"
-      },
-      {
-        "id": "a76fcbc8453b",
-        "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
-        "summary": "The apparent issue: whether Claude can be used for mass domestic surveillance and autonomous weapons.",
-        "url": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
-        "source": "TechCrunch",
-        "published": "2026-02-15T21:11:28+00:00"
-      },
-      {
-        "id": "b6cd6a09fb8d",
-        "title": "Ancient Mars was warm and wet, not cold and icy",
-        "summary": "Kaolinite pebbles show evidence of alteration under high rainfall conditions.",
-        "url": "https://arstechnica.com/science/2026/02/ancient-mars-was-warm-and-wet-not-cold-and-icy/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-15T20:14:16+00:00"
-      },
-      {
-        "id": "960db6a7184b",
-        "title": "Editor’s Note: Retraction of article containing fabricated quotations",
-        "summary": "We are reinforcing our editorial standards following this incident.",
-        "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-15T18:09:09+00:00"
-      },
-      {
-        "id": "a1d106db9329",
-        "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
-        "summary": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
-        "url": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
-        "source": "TechCrunch",
-        "published": "2026-02-15T18:00:00+00:00"
-      },
-      {
-        "id": "ddf7d0d5afc3",
-        "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
-        "summary": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI.",
-        "url": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
-        "source": "TechCrunch",
-        "published": "2026-02-15T17:30:00+00:00"
-      },
-      {
-        "id": "35cc8e93cdda",
-        "title": "The Guardian view on AI: safety staff departures raise worries about industry pursuing profit at all costs | Editorial",
-        "summary": "Cash-hungry Silicon Valley firms are scrambling for revenue. Regulate them now before the tech becomes too big to failHardly a month passes without an AI grandee cautioning that the technology poses an existential threat to humanity. Many of these warnings might be hazy or naive. Others may be self-...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/15/the-guardian-view-on-ai-safety-staff-departures-raise-worries-about-industry-pursuing-profit-at-all-costs",
-        "source": "Business | The Guardian",
-        "published": "2026-02-15T17:25:27+00:00"
-      },
-      {
-        "id": "e2b10c05615a",
-        "title": "\"It ain't no unicorn\": These researchers have interviewed 130 Bigfoot hunters",
-        "summary": "What prompts this community to spend time looking for a creature that likely doesn't exist?",
-        "url": "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-15T17:20:12+00:00"
       }
     ],
     "破(day)": [
       {
         "id": "871a625a5fce",
-        "title": "Starmer says government remains ‘open-minded’ about social media ban for under-16s – UK politics live",
+        "title": "New rules on social media could target ‘doomscrolling’ and ban for under-16s, Starmer says – UK politics live",
         "summary": "Prime minister says outcomes of consultation on social media ban should be implemented quickly as technology minister says Australia-style ban is not inevitableIn his Q&amp;A with journalists, Keir Starmer was also asked to respond to a report by the BBC’s James Landale saying he is looking at plans...",
         "url": "https://www.theguardian.com/politics/live/2026/feb/16/social-media-online-safety-act-keir-starmer-uk-politics-live-news-updates",
         "source": "Technology | The Guardian",
-        "published": "2026-02-16T11:15:11+00:00"
+        "published": "2026-02-16T13:57:11+00:00"
+      },
+      {
+        "id": "fdbbc7438936",
+        "title": "Here’s Laurie Spiegel introducing Music Mouse in the 1980s",
+        "summary": "Eventide has posted a fantastic archival video in advance of their remake of Music Mouse. In this 1987 episode of Midnight Muse, composer and programmer Laurie Spiegel explains the software and takes call-in questions. \"Even if we're very good at the keyboard, sometimes we want our habits broken up,...",
+        "url": "https://cdm.link/laurie-spiegel-1986-1987/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-16T12:04:38+00:00"
       },
       {
         "id": "93652d87bc01",
@@ -271,6 +279,14 @@
         "url": "https://www.theguardian.com/lifeandstyle/2026/feb/16/dr-rangan-chatterjee-interview-screen-time-mental-health-banning-social-media-18-podcaster",
         "source": "Technology | The Guardian",
         "published": "2026-02-16T05:00:41+00:00"
+      },
+      {
+        "id": "6ccbb338d776",
+        "title": "如果世界是电脑模拟的，人类能否像黑客一样“越狱”逃离?",
+        "summary": "在电影《黑客帝国》中，主角 Neo 面临着一个终极选择：吞下蓝色药丸，继续活在虚假但舒适的模拟世界里；或是吞下红色药丸，看清残酷但真实的世界。这是科幻电影史上最经典的场景之一，也留下了一个深刻的问题：如果现实就是计算机的一场超真实模拟，我们能否主动选择“逃离”？（来源：wikipedia）人类可能生活在模拟之中的想法由来已久。早在 17 世纪，法国哲学家笛卡尔就曾讨论过“我们是否活在梦中”的观点，但还仅停留在哲学思辨的层面。真正引起学界注意的，是牛津大学哲学家尼克·博斯特罗姆（Nick Bostrom）在 2003 年发表的一篇极具影响力的论文：《你是否生活在计算机模拟中？》（Are You ...",
+        "url": "https://www.mittrchina.com/news/detail/15928",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-16T02:04:58+00:00"
       },
       {
         "id": "8ba7700df19e",
@@ -399,25 +415,17 @@
         "url": "https://finance.technews.tw/2026/02/15/what-is-next-for-meta-amid-its-massive-ai-spending-projection/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-02-15T01:50:49+00:00"
-      },
-      {
-        "id": "2486bb53e6cb",
-        "title": "Quoting Boris Cherny",
-        "summary": "Someone has to prompt the Claudes, talk to customers, coordinate with other teams, decide what to build next. Engineering is changing and great engineers are more important than ever.\n&mdash; Boris Cherny, Claude Code creator, on why Anthropic are still hiring developers\n\n    Tags: careers, anthropi...",
-        "url": "https://simonwillison.net/2026/Feb/14/boris/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-14T23:59:09+00:00"
-      },
-      {
-        "id": "c3df50bda725",
-        "title": "Andy Griffiths: ‘Life is a joyously unhinged, absurd wonderland of possibility’",
-        "summary": "Named as Australia’s children’s laureate for 2026-27, the beloved author opens up about the best thing a fan has ever sent him – and his first tattooGet our weekend culture and lifestyle emailYou’ve just been announced as Australia’s children’s laureate – congratulations! What’s the first book that ...",
-        "url": "https://www.theguardian.com/books/2026/feb/14/andy-griffiths-life-is-a-joyously-unhinged-absurd-wonderland-of-possibility",
-        "source": "Children and teenagers | The Guardian",
-        "published": "2026-02-14T19:00:00+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "459d30ed54b7",
+        "title": "Free improvisation",
+        "summary": "Recently, I went to see a performance by my NYU colleague Ramin Amir Arjomand, whose counterpoint class meets on the opposite side of the wall from my pop theory class. Ramin’s concert was an hour and a half of extremely intense free improvisation on unaccompanied piano. It wasn’t jazz; Ramin is a c...",
+        "url": "https://www.ethanhein.com/wp/2026/free-improvisation/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-02-16T13:48:34+00:00"
+      },
       {
         "id": "adefb1ede4af",
         "title": "GIS專題中心誠徵碩士獎助生1名",
@@ -609,14 +617,6 @@
         "url": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
         "source": "Stephen Wolfram Writings",
         "published": "2026-01-30T19:26:48+00:00"
-      },
-      {
-        "id": "3752ead9da29",
-        "title": "2025 in numbers",
-        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2347",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T16:19:39+00:00"
       }
     ]
   }
