@@ -1,42 +1,74 @@
 {
-  "updated_at": "2026-02-16T08:05:31.950090+00:00",
+  "updated_at": "2026-02-16T11:28:41.829616+00:00",
   "trending": [
-    "munich airport flights",
-    "varvara gracheva",
-    "iva jovic",
-    "frankfurt airport flights",
-    "emma navarro",
-    "spectrum outage",
-    "industry",
-    "logan paul pokémon card",
-    "isabeau levito",
-    "san diego weather"
+    "belinda bencic",
+    "alaska airlines",
+    "daria kasatkina",
+    "sorana cirstea",
+    "new show to watch",
+    "victoria mboko",
+    "england vs italy",
+    "aliaksandra sasnovich",
+    "industry season 4 episode 6 dear henry",
+    "dense fog advisory"
   ],
   "categories": {
     "急(hr)": [
       {
-        "id": "0c790d0095d4",
+        "id": "e9152958c003",
+        "title": "All the important news from the ongoing India AI Impact Summit",
+        "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+        "url": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
+        "source": "TechCrunch",
+        "published": "2026-02-16T11:20:27+00:00"
+      },
+      {
+        "id": "2fca50bd3b2a",
+        "title": "UK consumer sentiment falls as households worry about debt; Japan and Switzerland avoid recession – business live",
+        "summary": "Rolling coverage of the latest economic and financial news, as Japan misses growth forecasts for the final three months of 2025UK consumer sentiment continued to sink this month, as households grow more worried about debt levels.A poll of consumer confidence from data firm S&amp;P Global has found t...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T10:53:12+00:00"
+      },
+      {
+        "id": "a22a30f8eca3",
+        "title": "Warner Bros Discovery weighs new sale talks after fresh Paramount offer",
+        "summary": "Board considering whether to re-engage in move that could prompt a second bidding war with NetflixBusiness live – latest updatesWarner Bros Discovery (WBD) is reportedly weighing reopening sales talks with Paramount Skydance, in a move that could spark a fresh bidding war with Netflix for the Hollyw...",
+        "url": "https://www.theguardian.com/film/2026/feb/16/warner-bros-discovery-sale-talks-paramount-offer-netflix",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T09:57:24+00:00"
+      },
+      {
+        "id": "ee314b143b4b",
+        "title": "Royal Mail blames bad weather and sickness for late deliveries",
+        "summary": "Strain on service means rounds are missed on a daily basis and parcels are prioritised over letters, says reportBusiness live – latest updatesRoyal Mail has blamed stormy weather and too many workers being off sick after complaints over missed delivery rounds and late letters.The strain on the posta...",
+        "url": "https://www.theguardian.com/business/2026/feb/16/royal-mail-late-deliveries-parcels-letters",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T09:33:43+00:00"
+      },
+      {
+        "id": "c8ab2e0644bc",
+        "title": "TikTok creator ByteDance vows to curb AI video tool after Disney threat",
+        "summary": "Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fightingBusiness live – latest updatesByteDance, the Chinese technology company behind TikTok, has said it will restrain its AI video-making tool, after threats of legal action from Disney and a backlash...",
+        "url": "https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T08:25:10+00:00"
+      },
+      {
+        "id": "c415155d21ca",
         "title": "African defensetech Terra Industries, founded by two Gen Zers, raises additional $22M in a month",
         "summary": "Terra Industries, the African defense company, announced Monday that it had secured an additional $22 million in funding to further expand the business.",
-        "url": "https://techcrunch.com/2026/02/16/3092801/",
+        "url": "https://techcrunch.com/2026/02/16/terra-industries-raises-22-million/",
         "source": "TechCrunch",
         "published": "2026-02-16T08:01:00+00:00"
       },
       {
-        "id": "2fca50bd3b2a",
-        "title": "Japan avoids recession with weak return to growth – business live",
-        "summary": "Rolling coverage of the latest economic and financial news, as Japan misses growth forecasts for the final three months of 2025Japan has slotted in at the bottom of the G7 growth table, along with the UK:With Canada and the US yet to report their GDP data for October-December, here’s what we know so...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/16/japan-growth-gdp-escapes-recession-takaichi-uk-stock-market-house-prices-interest-rates-news-updates",
+        "id": "57cf54ca155b",
+        "title": "BrewDog sale plan leaves some ‘equity punk’ investors steaming",
+        "summary": "About 220,000 people could be left empty-handed if a deal prioritises the company’s private equity backerBrewDog’s army of “punk” shareholders have voiced anger and frustration after the Scottish brewer confirmed plans for a possible sale that could render their investments worthless.So-called “equi...",
+        "url": "https://www.theguardian.com/business/2026/feb/16/brewdog-sale-equity-punk-investors-steaming",
         "source": "Business | The Guardian",
-        "published": "2026-02-16T07:53:48+00:00"
-      },
-      {
-        "id": "12833f48c558",
-        "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
-        "summary": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, th...",
-        "url": "https://www.theguardian.com/technology/2026/feb/16/google-puts-users-at-risk-downplaying-disclaimers-ai-overviews",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T07:30:13+00:00"
+        "published": "2026-02-16T08:00:47+00:00"
       },
       {
         "id": "0210a683bf26",
@@ -63,14 +95,6 @@
         "published": "2026-02-16T07:00:44+00:00"
       },
       {
-        "id": "d4313dcf07ad",
-        "title": "Bank of England should cut rates to boost consumer spending, says TUC",
-        "summary": "Union analysis finds consumers lag behind international peers as some rate-setters remain anxious about inflationThe Trades Union Congress is urging the Bank of England to cut interest rates and rekindle economic growth, pointing to analysis showing that cash-strapped consumers are lagging their int...",
-        "url": "https://www.theguardian.com/business/2026/feb/16/bank-of-england-should-cut-rates-to-boost-consumer-spending-says-tuc",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T06:00:44+00:00"
-      },
-      {
         "id": "541b08088ae0",
         "title": "What technology takes from us – and how to take it back – podcast",
         "summary": "Decisions outsourced, chatbots for friends, the natural world an afterthought: Silicon Valley is giving us life void of connection. There is a way out – but it’s going to take collective effortBy Rebecca Solnit. Read by Laurel Lefkow Continue reading...",
@@ -95,12 +119,20 @@
         "published": "2026-02-16T00:30:00+00:00"
       },
       {
-        "id": "ecae7f6495f4",
-        "title": "Makers of AI chatbots that put children at risk face big fines or UK ban",
-        "summary": "Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok toolMakers of AI chatbots that put children at risk will face massive fines or even see their services blocked in the UK under law changes to be announced by Keir Starmer on Monday.Embolden...",
-        "url": "https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban",
-        "source": "Business | The Guardian",
-        "published": "2026-02-15T22:30:34+00:00"
+        "id": "9a0b617def46",
+        "title": "Why we don’t really know what the public thinks about science",
+        "summary": "Nature, Published online: 16 February 2026; doi:10.1038/d41586-026-00467-2Measuring trust isn’t enough. Furthering knowledge about the institutions and norms of science is the best way to build credibility.",
+        "url": "https://www.nature.com/articles/d41586-026-00467-2",
+        "source": "Nature",
+        "published": "2026-02-16T00:00:00+00:00"
+      },
+      {
+        "id": "83b760ec522f",
+        "title": "Why Europe barred China from flagship Horizon research programmes",
+        "summary": "Nature, Published online: 16 February 2026; doi:10.1038/d41586-026-00435-wFresh restrictions could result in China being less open with foreign collaborators, say some researchers.",
+        "url": "https://www.nature.com/articles/d41586-026-00435-w",
+        "source": "Nature",
+        "published": "2026-02-16T00:00:00+00:00"
       },
       {
         "id": "0aae42736e23",
@@ -181,41 +213,41 @@
         "url": "https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/",
         "source": "Ars Technica - All content",
         "published": "2026-02-15T17:20:12+00:00"
-      },
-      {
-        "id": "1a451cc75e4b",
-        "title": "TechCrunch Mobility: Rivian’s savior",
-        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-        "url": "https://techcrunch.com/2026/02/15/techcrunch-mobility-rivians-savior/",
-        "source": "TechCrunch",
-        "published": "2026-02-15T17:05:00+00:00"
-      },
-      {
-        "id": "a23a4cd8fe81",
-        "title": "What the Epstein files reveal about EV startups and Silicon Valley",
-        "summary": "Will the Epstein revelations lead to broader fallout in Silicon Valley?",
-        "url": "https://techcrunch.com/2026/02/15/what-the-epstein-files-reveal-about-ev-startups-and-silicon-valley/",
-        "source": "TechCrunch",
-        "published": "2026-02-15T16:54:12+00:00"
-      },
-      {
-        "id": "161c20c0e278",
-        "title": "How to get into a16z’s super-competitive Speedrun startup accelerator program",
-        "summary": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.",
-        "url": "https://techcrunch.com/2026/02/15/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
-        "source": "TechCrunch",
-        "published": "2026-02-15T15:53:53+00:00"
-      },
-      {
-        "id": "34808182f28a",
-        "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-        "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
-        "url": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-        "source": "TechCrunch",
-        "published": "2026-02-15T15:41:16+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "871a625a5fce",
+        "title": "Starmer says government remains ‘open-minded’ about social media ban for under-16s – UK politics live",
+        "summary": "Prime minister says outcomes of consultation on social media ban should be implemented quickly as technology minister says Australia-style ban is not inevitableIn his Q&amp;A with journalists, Keir Starmer was also asked to respond to a report by the BBC’s James Landale saying he is looking at plans...",
+        "url": "https://www.theguardian.com/politics/live/2026/feb/16/social-media-online-safety-act-keir-starmer-uk-politics-live-news-updates",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-16T11:15:11+00:00"
+      },
+      {
+        "id": "93652d87bc01",
+        "title": "‘This shouldn’t be normal’: developers speak out about bigotry on Steam, the world’s biggest PC gaming storefront",
+        "summary": "Multiple game creators describe ineffective moderation on the platform, resulting in unchecked hatred in forums and targeted campaigns of negative ‘anti-woke’ reviewsFor years, the gaming storefront Steam has let abuse and bigotry pass through its moderation, according to players and developers who ...",
+        "url": "https://www.theguardian.com/games/2026/feb/16/bigotry-steam-pc-moderation-developers-speak-out",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-16T10:00:54+00:00"
+      },
+      {
+        "id": "c8ab2e0644bc",
+        "title": "TikTok creator ByteDance vows to curb AI video tool after Disney threat",
+        "summary": "Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fightingBusiness live – latest updatesByteDance, the Chinese technology company behind TikTok, has said it will restrain its AI video-making tool, after threats of legal action from Disney and a backlash...",
+        "url": "https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-16T08:25:10+00:00"
+      },
+      {
+        "id": "12833f48c558",
+        "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
+        "summary": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, th...",
+        "url": "https://www.theguardian.com/technology/2026/feb/16/google-puts-users-at-risk-downplaying-disclaimers-ai-overviews",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-16T07:30:13+00:00"
+      },
       {
         "id": "c89feecf90c3",
         "title": "Why did I get a £100 parking fine when charging my electric car?",
@@ -225,12 +257,36 @@
         "published": "2026-02-16T07:00:44+00:00"
       },
       {
+        "id": "541b08088ae0",
+        "title": "What technology takes from us – and how to take it back – podcast",
+        "summary": "Decisions outsourced, chatbots for friends, the natural world an afterthought: Silicon Valley is giving us life void of connection. There is a way out – but it’s going to take collective effortBy Rebecca Solnit. Read by Laurel Lefkow Continue reading...",
+        "url": "https://www.theguardian.com/news/audio/2026/feb/16/what-technology-takes-from-us-and-how-to-take-it-back-podcast",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-16T05:00:43+00:00"
+      },
+      {
+        "id": "8cfa4a7cdd19",
+        "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
+        "summary": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That...",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/16/dr-rangan-chatterjee-interview-screen-time-mental-health-banning-social-media-18-podcaster",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-16T05:00:41+00:00"
+      },
+      {
         "id": "8ba7700df19e",
         "title": "The AI Vampire",
         "summary": "The AI Vampire\nSteve Yegge's take on agent fatigue, and its relationship to burnout.\n\nLet's pretend you're the only person at your company using AI.\nIn Scenario A, you decide you're going to impress your employer, and work for 8 hours a day at 10x productivity. You knock it out of the park and make ...",
         "url": "https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-15T23:59:36+00:00"
+      },
+      {
+        "id": "ecae7f6495f4",
+        "title": "Starmer to extend online safety rules to AI chatbots after Grok scandal",
+        "summary": "Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok toolMakers of AI chatbots that put children at risk will face massive fines or even see their services blocked in the UK under law changes to be announced by Keir Starmer on Monday.Embolden...",
+        "url": "https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-15T22:30:34+00:00"
       },
       {
         "id": "f5d494fc0417",
@@ -289,14 +345,6 @@
         "published": "2026-02-15T13:36:20+00:00"
       },
       {
-        "id": "42c035fcf74f",
-        "title": "California’s billionaires pour cash into elections as big tech seeks new allies",
-        "summary": "As Gavin Newsom departs, ultra-wealthy flex wealth and influence to fight regulation and keep the boom goingTech billionaires are leveraging tens of millions of dollars to influence California politics in a marked uptick from their previous participation in affairs at the state capitol. Behemoths su...",
-        "url": "https://www.theguardian.com/technology/2026/feb/15/california-billionaires-state-elections",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-15T13:00:22+00:00"
-      },
-      {
         "id": "54f542c19d8b",
         "title": "The Nothing That Has the Potential to Be Anything",
         "summary": "You can never truly empty a box. Why? Zero-point energy.",
@@ -319,14 +367,6 @@
         "url": "https://infosecu.technews.tw/2026/02/15/meta-planning-to-add-facial-recognition-tech-to-smart-glasses/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-02-15T07:30:23+00:00"
-      },
-      {
-        "id": "640407a59d38",
-        "title": "Brushing fraud: Britons told to beware of mystery parcels as new scam soars",
-        "summary": "Fraudsters use stolen personal details to send out products, then post a fake verified and positive online reviewA package arrives but you can’t remember ordering anything.When you open it, you find some cheap, flimsy jewellery. Continue reading...",
-        "url": "https://www.theguardian.com/money/2026/feb/15/brushing-fraud-britons-mystery-parcels-scam-review",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-15T07:00:17+00:00"
       },
       {
         "id": "bf3eb0ce379d",
@@ -375,46 +415,6 @@
         "url": "https://www.theguardian.com/books/2026/feb/14/andy-griffiths-life-is-a-joyously-unhinged-absurd-wonderland-of-possibility",
         "source": "Children and teenagers | The Guardian",
         "published": "2026-02-14T19:00:00+00:00"
-      },
-      {
-        "id": "8f371eafbe60",
-        "title": "The problem with doorbell cams: Nancy Guthrie case and Ring Super Bowl ad reawaken surveillance fears",
-        "summary": "Many people bought the devices thinking they would do little more than protect their delivery packagesWhat happens to the data that smart home cameras collect? Can law enforcement access this information – even when users aren’t aware officers may be viewing their footage? Two recent events have put...",
-        "url": "https://www.theguardian.com/technology/2026/feb/14/doorbell-cameras-ring-nancy-guthrie-super-bowl",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-14T18:00:01+00:00"
-      },
-      {
-        "id": "e45027cf118f",
-        "title": "US military used Anthropic’s AI model Claude in Venezuela raid, report says",
-        "summary": "Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir TechnologiesClaude, the AI model developed by Anthropic, was used by the US military during its operation to kidnap Nicolás Maduro from Venezuela, the Wall Street Journal revealed on Saturday, a high-profile ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-14T16:15:02+00:00"
-      },
-      {
-        "id": "f8d1e89a6b44",
-        "title": "Meta新专利允许AI接管逝者账号，继续在社交平台“存活”",
-        "summary": "一个人去世后，AI 是否应该代替他继续在社交媒体上“活着”？几年前，这或许听起来还像是科幻美剧《黑镜》的设定，但如今，随着技术的发展，我们或许已经到了认真思考这个问题的时候。近日，据相关媒体报道：Meta，这家掌控着 Facebook、Instagram 和 WhatsApp 的社交网络巨头，在 2025 年 12 月获得了一项新的专利授权。关于这项专利的技术描述十分直接：利用大语言模型来“模拟”用户的社交媒体活动。其中，最引人注目的一项条款是: 这种模拟不仅适用于用户暂时离开平台的情况，甚至当用户“已故”时，AI 可以接管账号，继续以你的名义在数字世界中“活下去”。这份专利最初提交于 202...",
-        "url": "https://www.mittrchina.com/news/detail/15925",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-14T15:10:09+00:00"
-      },
-      {
-        "id": "0b97a6dd7b6a",
-        "title": "中科大攻克锂金属电池快充难题，15分钟满电，终结续航焦虑",
-        "summary": "从智能手机到电动汽车，绝大多数电子设备都依赖传统的锂离子电池（LIBs）供电 。经过数十年的技术迭代，锂离子电池的安全性、循环寿命已趋于成熟，成为当下主流的储能方案，但其能量密度已逐渐逼近物理极限，且在极端环境运行及超快充电场景下，锂离子电池仍面临充电速度慢、性能衰减快、安全隐患突出等诸多挑战。为了突破这一瓶颈，科学家将目光投向了锂金属电池（LMBs）。作为下一代高能量密度电池的核心候选技术，锂金属电池的理论能量密度可达 500 Wh/kg 以上，远超传统锂离子电池，一旦实现实用化，有望让电动汽车续航里程翻倍、便携式设备充电频率大幅降低。但长期以来，锂金属电池始终被快充难题牢牢困住，无法走向规...",
-        "url": "https://www.mittrchina.com/news/detail/15924",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-14T15:05:03+00:00"
-      },
-      {
-        "id": "169c162ceb49",
-        "title": "Quoting Thoughtworks",
-        "summary": "The retreat challenged the narrative that AI eliminates the need for junior developers. Juniors are more profitable than they have ever been. AI tools get them past the awkward initial net-negative phase faster. They serve as a call option on future productivity. And they are better at AI tools than...",
-        "url": "https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-14T04:54:41+00:00"
       }
     ],
     "序(month)": [
