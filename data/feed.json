@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-02-15T23:56:17.759279+00:00",
+  "updated_at": "2026-02-16T05:45:37.076554+00:00",
   "trending": [
-    "towson basketball",
-    "chesapeake bay bridge",
-    "nebraska softball",
-    "jalen brunson",
-    "brandon ingram",
-    "santos vs velo clube",
-    "is there school on presidents day",
-    "lebron james",
-    "jaylen brown",
-    "san francisco basketball"
+    "northern lights forecast tonight",
+    "afg vs uae",
+    "us vs china curling",
+    "costco returns",
+    "luka berulava",
+    "sofia goggia",
+    "industry season 4",
+    "dolomites",
+    "stake",
+    "curling rules"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "f7275eb23931",
+        "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+        "summary": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
+        "url": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+        "source": "TechCrunch",
+        "published": "2026-02-16T01:00:00+00:00"
+      },
+      {
+        "id": "2bd2cc215ebd",
+        "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+        "summary": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
+        "url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+        "source": "TechCrunch",
+        "published": "2026-02-16T00:30:00+00:00"
+      },
       {
         "id": "ecae7f6495f4",
         "title": "Makers of AI chatbots that put children at risk face big fines or UK ban",
@@ -144,7 +160,7 @@
       },
       {
         "id": "fd5b46b5e060",
-        "title": "Even amid rising economic uncertainty, now is not the time to hug your job",
+        "title": "Even amid rising economic uncertainty, now is not the time to hug your job | Gene Marks",
         "summary": "In a rapidly changing job market, it’s not necessarily good for workers to cling to their current employmentAfter all the employee protests over the past few years – the “great resignations”, the “quiet quittings”, the “bare-minimum Mondays” and “coffee badgings” – we have finally arrived at “job hu...",
         "url": "https://www.theguardian.com/business/2026/feb/15/economic-uncertainty-job-changes",
         "source": "Business | The Guardian",
@@ -197,25 +213,17 @@
         "url": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
         "source": "TechCrunch",
         "published": "2026-02-15T08:40:27+00:00"
-      },
-      {
-        "id": "dc50af2a4545",
-        "title": "‘The perfect place for people like me’: how one couple started UK’s first women’s sports bar",
-        "summary": "Lucy and Pippa Tallant have opened the Crossbar, in Brighton, to create a place for women to feel comfortable watching all sportYou can’t miss it, the giant “Crossbar” flanked by two stylised crosses in black on the whitewashed outside walls glares down the street, a stone’s throw from Brighton’s Ch...",
-        "url": "https://www.theguardian.com/football/2026/feb/15/the-perfect-place-for-people-like-me-how-one-couple-started-uks-first-womens-sports-bar",
-        "source": "Business | The Guardian",
-        "published": "2026-02-15T08:00:17+00:00"
-      },
-      {
-        "id": "81135556d3ea",
-        "title": "Firm that went bust owing £650k to HMRC offers staff Las Vegas trip after being bought by ex-owner",
-        "summary": "Acquisition by Premier Group Recruitment boss Andrew Woosnam appears to be example of ‘phoenixism’A recruitment business that went bust owing the tax authorities and other creditors almost £3m has promised to send its staff on an all-expenses paid trip to Las Vegas after being repurchased by its for...",
-        "url": "https://www.theguardian.com/business/2026/feb/15/bust-premier-group-recruitment-hmrc-las-vegas-staff-trip-andrew-woosnam",
-        "source": "Business | The Guardian",
-        "published": "2026-02-15T08:00:16+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "8ba7700df19e",
+        "title": "The AI Vampire",
+        "summary": "The AI Vampire\nSteve Yegge's take on agent fatigue, and its relationship to burnout.\n\nLet's pretend you're the only person at your company using AI.\nIn Scenario A, you decide you're going to impress your employer, and work for 8 hours a day at 10x productivity. You knock it out of the park and make ...",
+        "url": "https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-15T23:59:36+00:00"
+      },
       {
         "id": "f5d494fc0417",
         "title": "Em dash",
@@ -407,14 +415,6 @@
         "url": "https://www.mittrchina.com/news/detail/15923",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-02-14T04:29:48+00:00"
-      },
-      {
-        "id": "cef3b9b65a1d",
-        "title": "当AI开始“记得”你：与两位创业者拆解AI记忆技术",
-        "summary": "进入 2026 年，AI 记忆正在成为行业最热的竞争焦点之一。Google 为 Gemini 上线了“个人智能”（Personal Intelligence）功能，经用户授权后可调取 Gmail、Google Photos、搜索记录等个人数据，实现跨应用的语境理解，而非简单地检索单封邮件或一张照片，让 Gemini 开始对用户的数据进行“思考”，而非仅仅“获取”它。而在更早之前，OpenAI 的 ChatGPT 也已大幅升级了记忆系统，使其能够引用用户所有历史对话，奥特曼在发布时表示，“这指向了我们兴奋的方向：AI 系统在你的一生中了解你，并变得极其有用和个性化。”在基础设施层面，AI 记忆正...",
-        "url": "https://www.mittrchina.com/news/detail/15922",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-14T04:27:00+00:00"
       }
     ],
     "序(month)": [
