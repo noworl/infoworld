@@ -1,19 +1,115 @@
 {
-  "updated_at": "2026-02-17T11:28:51.661635+00:00",
+  "updated_at": "2026-02-17T14:37:28.193687+00:00",
   "trending": [
-    "sarah spain",
-    "coco gauff",
-    "dubai open",
-    "priyanka chopra",
-    "jesse jackson",
-    "ireland vs zimbabwe",
-    "politics",
-    "elise mertens",
-    "manchester airport flights",
-    "iva jovic"
+    "milo ventimiglia",
+    "billie jean king",
+    "gina carano",
+    "scotland vs nepal",
+    "simone biles",
+    "shinedown",
+    "elina svitolina",
+    "wynton marsalis",
+    "havana syndrome",
+    "washoe county school district"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "ad18bbfb16c2",
+        "title": "India bids to attract over $200B in AI infrastructure investment by 2028",
+        "summary": "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract global AI investment.",
+        "url": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T14:13:54+00:00"
+      },
+      {
+        "id": "dd660a73c81e",
+        "title": "Snapchat launches creator subscription in the U.S.",
+        "summary": "Snapchat will let creators set their monthly subscription price.",
+        "url": "https://techcrunch.com/2026/02/17/snapchat-launches-creator-subscription-in-the-u-s/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T14:07:49+00:00"
+      },
+      {
+        "id": "5cc2061eb87d",
+        "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
+        "summary": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
+        "url": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T14:00:00+00:00"
+      },
+      {
+        "id": "9f7f5c5dd19f",
+        "title": "Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M",
+        "summary": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesses and non-technical users.",
+        "url": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T14:00:00+00:00"
+      },
+      {
+        "id": "bbae2c66d15e",
+        "title": "UK interest rate cut likely in March as unemployment rate rises; Polanski calls for ’Covid-style mobilisation’ to tackle youth jobless crisis – business live",
+        "summary": "City traders expect cut to UK interest rates next month after jobless rate rises to 5.2%UK unemployment rate hits five-year high of 5.2% as wage growth coolsAnalysis: Gloom for UK workers as incomes flatline and jobs market faltersThe pound is weakening, as traders anticipate the Bank of England cou...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/17/uk-unemployment-rate-hits-five-year-high-wage-growth-slows-rachel-reeves-bonds-borrowing-costs-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T13:54:24+00:00"
+      },
+      {
+        "id": "dc9eb8aef914",
+        "title": "Warner Bros gives Paramount seven days to make ‘best and final’ offer",
+        "summary": "Waiver from Netflix allows film company to engage with rival bidder if it could lead to a ‘reasonably superior offer’Business live – latest updatesWarner Bros Discovery (WBD) has reopened talks with Paramount Skydance, giving the company seven days to table its best and final offer and top an existi...",
+        "url": "https://www.theguardian.com/film/2026/feb/17/warner-bros-paramount-final-offer-netflix",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T13:20:26+00:00"
+      },
+      {
+        "id": "340a8331a124",
+        "title": "Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race",
+        "summary": "Adani's plan targets up to 5 gigawatts of capacity, with data centers planned alongside partnerships with Google, Microsoft, and Flipkart.",
+        "url": "https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T13:08:46+00:00"
+      },
+      {
+        "id": "5ee0eb006e9d",
+        "title": "Airbnb expands its “Reserve Now, Pay Later” globally",
+        "summary": "The feature  allows users to cancel eligible bookings if there is a change of plans -- without losing money upfront.",
+        "url": "https://techcrunch.com/2026/02/17/airbnb-expands-its-reserve-now-pay-later-globally/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T13:00:00+00:00"
+      },
+      {
+        "id": "c0f18760306e",
+        "title": "As AI jitters rattle IT stocks, Infosys partners with Anthropic to build ‘enterprise-grade’ AI agents",
+        "summary": "Under the partnership, Infosys plans to integrate Anthropic's Claude models into its Topaz AI platform to build so-called \"agentic\" systems.",
+        "url": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T12:55:12+00:00"
+      },
+      {
+        "id": "728c2864b5e2",
+        "title": "Surging prediction markets face legal backlash in US: ‘Lines have been blurred’",
+        "summary": "At least 20 federal suits filed against companies like Kalshi and Polymarket as lawmakers call it ‘loophole’ for gamblingState lawmakers and gaming regulators across the US are escalating their fight against prediction markets, arguing that the fast-growing platforms are “basically gambling but with...",
+        "url": "https://www.theguardian.com/business/2026/feb/17/us-prediction-markets-lawsuits-kalshi-polymarket",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T12:00:36+00:00"
+      },
+      {
+        "id": "e5b904278837",
+        "title": "‘It’s betrayal’: Shetland’s scallop fishers brace for arrival of UK’s largest salmon farm",
+        "summary": "Huge project by Norwegian-owned Scottish Sea Farms gets go-ahead amid concerns over the environmental cost of fish farming and threat to traditional way of lifeAt Collafirth, north Shetland, Sydney Johnson is unloading bags of two-dozen scallops by throwing them over his head like medicine balls to ...",
+        "url": "https://www.theguardian.com/environment/2026/feb/17/scotland-shetland-fishing-salmon-fish-farms-environment-ssf",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T12:00:35+00:00"
+      },
+      {
+        "id": "85fcb1020dec",
+        "title": "Boohoo and Debenhams owner raises £35m, risking Mike Ashley clash",
+        "summary": "Company, which also owns Oasis, Warehouse and Karen Millen, to use cash to cut debts and fund turnaroundBusiness live – latest updatesThe owner of Boohoo and Debenhams is raising £35m from shareholders in a move that could open a fresh conflict with Sports Direct founder Mike Ashley.The company, whi...",
+        "url": "https://www.theguardian.com/business/2026/feb/17/boohoo-debenhams-mike-ashley-sports-direct",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T11:29:52+00:00"
+      },
       {
         "id": "06f08c418a01",
         "title": "UK shelves £110m frictionless post-Brexit trade border project",
@@ -21,14 +117,6 @@
         "url": "https://www.theguardian.com/business/2026/feb/17/uk-frictionless-post-brexit-trade-border-project",
         "source": "Business | The Guardian",
         "published": "2026-02-17T11:04:05+00:00"
-      },
-      {
-        "id": "bbae2c66d15e",
-        "title": "UK interest rate cut in March more likely after unemployment rate hits five-year high – business live",
-        "summary": "City traders expect cut to UK interest rates next month after jobless rate rises to 5.2%UK unemployment rate hits five-year high of 5.2% as wage growth coolsThe pound is weakening, as traders anticipate the Bank of England could cut interest rates next month.Sterling has fallen by two-thirds of a ce...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/17/uk-unemployment-rate-hits-five-year-high-wage-growth-slows-rachel-reeves-bonds-borrowing-costs-news-updates",
-        "source": "Business | The Guardian",
-        "published": "2026-02-17T11:03:23+00:00"
       },
       {
         "id": "21d5c628d6d1",
@@ -95,6 +183,14 @@
         "published": "2026-02-17T05:00:46+00:00"
       },
       {
+        "id": "3a2ba4e82567",
+        "title": "Publisher Correction: Psychedelics elicit their effects by 5-HT2A receptor-mediated G<sub>i</sub> signalling",
+        "summary": "Nature, Published online: 17 February 2026; doi:10.1038/s41586-026-10249-5Publisher Correction: Psychedelics elicit their effects by 5-HT2A receptor-mediated Gi signalling",
+        "url": "https://www.nature.com/articles/s41586-026-10249-5",
+        "source": "Nature",
+        "published": "2026-02-17T00:00:00+00:00"
+      },
+      {
         "id": "84434c4e1583",
         "title": "Smartphones are a double-edged tool in classrooms",
         "summary": "Nature, Published online: 17 February 2026; doi:10.1038/d41586-026-00497-wSmartphones are a double-edged tool in classrooms",
@@ -117,105 +213,33 @@
         "url": "https://www.nature.com/articles/d41586-026-00498-9",
         "source": "Nature",
         "published": "2026-02-17T00:00:00+00:00"
-      },
-      {
-        "id": "8c3cc78a5536",
-        "title": "What’s behind ‘teensplaining’? Scientists should study this adolescent behaviour",
-        "summary": "Nature, Published online: 17 February 2026; doi:10.1038/d41586-026-00496-xWhat’s behind ‘teensplaining’? Scientists should study this adolescent behaviour",
-        "url": "https://www.nature.com/articles/d41586-026-00496-x",
-        "source": "Nature",
-        "published": "2026-02-17T00:00:00+00:00"
-      },
-      {
-        "id": "0459bed56483",
-        "title": "Why sky-high pay for AI researchers is bad for the future of science",
-        "summary": "Nature, Published online: 17 February 2026; doi:10.1038/d41586-026-00474-3To ensure that AI advances benefit everyone, scientific institutions must prioritize collaborative, mission-driven structures instead of chasing top talent with astronomical compensation.",
-        "url": "https://www.nature.com/articles/d41586-026-00474-3",
-        "source": "Nature",
-        "published": "2026-02-17T00:00:00+00:00"
-      },
-      {
-        "id": "b062beaa7dd9",
-        "title": "Six Sarah Ferguson-linked companies to close after Epstein revelations",
-        "summary": "Messages from ex-wife of Andrew Mountbatten-Windsor to sex offender, sent after his conviction, came to light last monthSix companies linked to Andrew Mountbatten-Windsor’s ex-wife, Sarah Ferguson, are being wound down in the wake of revelations about her relationship with Jeffrey Epstein.According ...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/16/six-sarah-ferguson-linked-companies-to-close-after-epstein-revelations",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T23:53:18+00:00"
-      },
-      {
-        "id": "94f9cfd9a928",
-        "title": "Get ready for new Macs and iPads: Apple announces \"Special Experience\" on March 4",
-        "summary": "Apple has not confirmed whether you'll be able to watch live, but Ars will bring you the news.",
-        "url": "https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-16T20:30:15+00:00"
-      },
-      {
-        "id": "36ac9fa133a4",
-        "title": "Best Buy worker used manager’s code to get 99% off MacBooks, cops say",
-        "summary": "Employee allegedly exploited Best Buy's discount system for months.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/best-buy-worker-used-managers-code-to-get-99-off-macbooks-cops-say/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-16T20:10:54+00:00"
-      },
-      {
-        "id": "85ceccb7bf8b",
-        "title": "Trump lashes out at California governor’s green energy deal with UK",
-        "summary": "President says it is inappropriate for UK to be dealing with Gavin Newsom after Ed Miliband meets governor in LondonDonald Trump has vented his fury against a green energy deal between the British government and California’s governor, Gavin Newsom, a likely future Democratic presidential candidate.“...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/16/gavin-newsom-a-loser-says-trump-california-green-energy-deal-uk",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T19:23:52+00:00"
-      },
-      {
-        "id": "ef6c9de1cae0",
-        "title": "Have money, will travel: a16z’s hunt for the next European unicorn",
-        "summary": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might.",
-        "url": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
-        "source": "TechCrunch",
-        "published": "2026-02-16T18:53:56+00:00"
-      },
-      {
-        "id": "0ea3fd2ec163",
-        "title": "Car dealership tycoon ousted from his Kent company in ‘coup’, high court hears",
-        "summary": "Peter Waddell is alleged to have made racist and sexist remarks that led to removal as CEO of Big Motoring WorldA multimillionaire used-car salesman was ousted from his £300m company as part of an orchestrated “coup” involving business rivals and private equity investors, the high court has heard.Pe...",
-        "url": "https://www.theguardian.com/business/2026/feb/16/kent-car-dealership-tycoon-peter-waddell-ousted-high-court",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T18:45:58+00:00"
-      },
-      {
-        "id": "7e5f3de83ce1",
-        "title": "UK bank bosses plan to set up Visa and Mastercard alternative amid Trump fears",
-        "summary": "Exclusive: First meeting to be held over domestic payments system aimed at reducing reliance on US networksUK bank bosses will hold their first meeting to establish a national alternative to Visa and Mastercard, amid growing fears over Donald Trump’s ability to turn off US-owned payment systems.The ...",
-        "url": "https://www.theguardian.com/business/2026/feb/16/uk-bank-bosses-plan-visa-mastercard-alternative",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T18:16:17+00:00"
-      },
-      {
-        "id": "3bd08cc46028",
-        "title": "ByteDance backpedals after Seedance 2.0 turned Hollywood icons into AI “clip art”",
-        "summary": "Hollywood backlash puts spotlight on ByteDance's sketchy launch of Seedance 2.0.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/bytedance-backpedals-after-seedance-2-0-turned-hollywood-icons-into-ai-clip-art/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-16T17:42:37+00:00"
-      },
-      {
-        "id": "419fb789bfa0",
-        "title": "A fluid can store solar energy and then release it as heat months later",
-        "summary": "Sunlight can cause a molecule to change structure, and then release heat later.",
-        "url": "https://arstechnica.com/science/2026/02/dna-inspired-molecule-breaks-records-for-storing-solar-heat/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-16T17:30:38+00:00"
-      },
-      {
-        "id": "c505ae8f5ad1",
-        "title": "Starmer’s options in funding a further defence spending rise would be limited",
-        "summary": "Competing domestic priorities, Treasury borrowing limits and already nervous lenders are among the many obstaclesKeir Starmer has few options if he wants to increase annual defence spending by up to £14bn before the end of this parliament.In last summer’s spending review, the government set out plan...",
-        "url": "https://www.theguardian.com/politics/2026/feb/16/keir-starmer-limited-options-further-defence-spending-rise",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T17:21:48+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "849a8c9f731e",
+        "title": "First kākāpō chick in four years hatches on Valentine's Day",
+        "summary": "First kākāpō chick in four years hatches on Valentine&#x27;s Day\nFirst chick of the 2026 breeding season!\n\nKākāpō Yasmine hatched an egg fostered from kākāpō Tīwhiri on Valentine's Day, bringing the total number of kākāpō to 237 – though it won’t be officially added to the population until it fledge...",
+        "url": "https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-17T14:09:43+00:00"
+      },
+      {
+        "id": "2a224e60e2df",
+        "title": "Quoting Dimitris Papailiopoulos",
+        "summary": "But the intellectually interesting part for me is something else. I now have something close to a magic box where I throw in a question and a first answer comes back basically for free, in terms of human effort. Before this, the way I'd explore a new idea is to either clumsily put something together...",
+        "url": "https://simonwillison.net/2026/Feb/17/dimitris-papailiopoulos/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-17T14:04:44+00:00"
+      },
+      {
+        "id": "8baeb6dda86d",
+        "title": "12-hour days, no weekends: the anxiety driving AI’s brutal work culture is a warning for all of us",
+        "summary": "San Francisco’s AI startups are pushing workers to grind endlessly, hinting at pressures soon hitting other sectorsNot long after the terms “996” and “grindcore” entered the popular lexicon, people started telling me stories about what was happening at startups in San Francisco, ground zero for the ...",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/17/ai-startups-work-culture-san-francisco",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-17T13:00:01+00:00"
+      },
       {
         "id": "e10c36f68b51",
         "title": "AI Digital Twins Are Helping People Manage Diabetes and Obesity",
@@ -337,14 +361,6 @@
         "published": "2026-02-16T07:00:44+00:00"
       },
       {
-        "id": "541b08088ae0",
-        "title": "What technology takes from us – and how to take it back – podcast",
-        "summary": "Decisions outsourced, chatbots for friends, the natural world an afterthought: Silicon Valley is giving us life void of connection. There is a way out – but it’s going to take collective effortBy Rebecca Solnit. Read by Laurel Lefkow Continue reading...",
-        "url": "https://www.theguardian.com/news/audio/2026/feb/16/what-technology-takes-from-us-and-how-to-take-it-back-podcast",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-16T05:00:43+00:00"
-      },
-      {
         "id": "8cfa4a7cdd19",
         "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
         "summary": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That...",
@@ -399,22 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/15/gwtar/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-15T18:26:08+00:00"
-      },
-      {
-        "id": "93eb5892d3b7",
-        "title": "Three months of OpenClaw",
-        "summary": "It's wild that the first commit to OpenClaw was on November 25th 2025, and less than three months later it's hit 10,000 commits from 600 contributors, attracted 196,000 GitHub stars and sort-of been featured in an extremely vague Super Bowl commercial for AI.com.\nQuoting AI.com founder Kris Marszale...",
-        "url": "https://simonwillison.net/2026/Feb/15/openclaw/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-15T17:23:28+00:00"
-      },
-      {
-        "id": "4bb4882427d4",
-        "title": "Filter Delays, free Max for Live stereo effect from Robert Henke",
-        "summary": "Here's a surprise, an evidently spontaneous drop from Ableton co-founder Robert Henke in Max for Live. Filter Delays provides three filtered stereo delays with some very clever twists; it's a free download for Ableton Live Suite 12+ users.\nThe post Filter Delays, free Max for Live stereo effect from...",
-        "url": "https://cdm.link/filter-delays/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-15T17:06:28+00:00"
       }
     ],
     "序(month)": [
