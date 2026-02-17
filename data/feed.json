@@ -1,26 +1,66 @@
 {
-  "updated_at": "2026-02-17T08:04:42.544170+00:00",
+  "updated_at": "2026-02-17T11:28:51.661635+00:00",
   "trending": [
-    "magda linette",
-    "jessica pegula",
-    "clara tauson",
-    "ekaterina alexandrova",
-    "asteroid",
-    "dilpreet bajwa",
-    "yuvraj samra",
-    "spectrum outage",
-    "canada vs new zealand",
-    "农历新年"
+    "sarah spain",
+    "coco gauff",
+    "dubai open",
+    "priyanka chopra",
+    "jesse jackson",
+    "ireland vs zimbabwe",
+    "politics",
+    "elise mertens",
+    "manchester airport flights",
+    "iva jovic"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "06f08c418a01",
+        "title": "UK shelves £110m frictionless post-Brexit trade border project",
+        "summary": "Programme launched by last Tory government was worked on by Deloitte and IBM but was paused in 2024Business live – latest updatesThe UK government has shelved a project to simplify trade border processes post-Brexit after spending £110m on a contract with Deloitte and IBM for it, according to report...",
+        "url": "https://www.theguardian.com/business/2026/feb/17/uk-frictionless-post-brexit-trade-border-project",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T11:04:05+00:00"
+      },
+      {
         "id": "bbae2c66d15e",
-        "title": "UK unemployment rate hits five-year high of 5.2% as wage growth slows – business live",
-        "summary": "Rolling coverage of the latest economic and financial news, including the UK jobs report for October-December 2025The pound is weakening, as traders anticipate the Bank of England could cut interest rates next month.Sterling has fallen by two-thirds of a cent against the US dollar, to $1.355, its lo...",
+        "title": "UK interest rate cut in March more likely after unemployment rate hits five-year high – business live",
+        "summary": "City traders expect cut to UK interest rates next month after jobless rate rises to 5.2%UK unemployment rate hits five-year high of 5.2% as wage growth coolsThe pound is weakening, as traders anticipate the Bank of England could cut interest rates next month.Sterling has fallen by two-thirds of a ce...",
         "url": "https://www.theguardian.com/business/live/2026/feb/17/uk-unemployment-rate-hits-five-year-high-wage-growth-slows-rachel-reeves-bonds-borrowing-costs-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-17T07:58:01+00:00"
+        "published": "2026-02-17T11:03:23+00:00"
+      },
+      {
+        "id": "21d5c628d6d1",
+        "title": "Hyatt chair Thomas Pritzker steps down over Epstein links",
+        "summary": "Billionaire says he exercised ‘terrible judgment’ in maintaining contact with sex offender and Ghislaine MaxwellThe billionaire Thomas Pritzker has stepped down as executive chair of the hotel chain Hyatt, after revelations over his ties with the late child sex offender Jeffrey Epstein.Pritzker said...",
+        "url": "https://www.theguardian.com/business/2026/feb/17/hyatt-chair-thomas-pritzker-jeffrey-epstein-ghislane-maxwell",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T11:02:10+00:00"
+      },
+      {
+        "id": "9b8a6a77d812",
+        "title": "EU to investigate Shein over sale of childlike sex dolls and weapons",
+        "summary": "Bloc also examines ‘addictive design’ of shopping site, including rewards, and its recommender systemsBusiness live – latest updatesThe EU is to open a formal investigation into the Chinese retailer Shein over multiple suspected breaches of European laws including the sale of childlike sex dolls and...",
+        "url": "https://www.theguardian.com/business/2026/feb/17/eu-investigate-shein-sale-of-sex-dolls-recommender",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T11:00:51+00:00"
+      },
+      {
+        "id": "0b08b375e7ec",
+        "title": "Gloom for UK workers as incomes flatline and jobs market falters",
+        "summary": "Falls in inflation and interest rates could leave Britain better off this year, but at the cost of high unemploymentUK unemployment rate hits five-year highPrivate sector pay increased on average by just 3.4% in December, according to the latest official labour market data released on Tuesday, the s...",
+        "url": "https://www.theguardian.com/business/2026/feb/17/uk-workers-incomes-jobs-market-inflation-interest-rates-unemployment",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T09:06:25+00:00"
+      },
+      {
+        "id": "96d56748f5af",
+        "title": "Cohere launches a family of open multilingual models",
+        "summary": "Cohere's Tiny Aya models support over 70 langauges",
+        "url": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T09:00:00+00:00"
       },
       {
         "id": "5851a92098d4",
@@ -45,6 +85,54 @@
         "url": "https://www.theguardian.com/commentisfree/2026/feb/17/europeans-are-dangerously-reliant-on-us-tech-now-is-a-good-time-to-build-our-own",
         "source": "Business | The Guardian",
         "published": "2026-02-17T05:00:47+00:00"
+      },
+      {
+        "id": "3a3abe420321",
+        "title": "‘Economic fighters’: the volunteers helping direct sanctions against Russia",
+        "summary": "Civil society groups and individuals from around world are working to aid Ukraine by damaging Moscow’s war machineIn August 2022, Olena Yurchenko stumbled across a heated discussion on a Russian-language online forum – and made a discovery that would ultimately affect US and European sanctions polic...",
+        "url": "https://www.theguardian.com/world/2026/feb/17/volunteers-helping-direct-sanctions-against-russia",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T05:00:46+00:00"
+      },
+      {
+        "id": "84434c4e1583",
+        "title": "Smartphones are a double-edged tool in classrooms",
+        "summary": "Nature, Published online: 17 February 2026; doi:10.1038/d41586-026-00497-wSmartphones are a double-edged tool in classrooms",
+        "url": "https://www.nature.com/articles/d41586-026-00497-w",
+        "source": "Nature",
+        "published": "2026-02-17T00:00:00+00:00"
+      },
+      {
+        "id": "390a06070c70",
+        "title": "Statistical approximation is not general intelligence",
+        "summary": "Nature, Published online: 17 February 2026; doi:10.1038/d41586-026-00495-yStatistical approximation is not general intelligence",
+        "url": "https://www.nature.com/articles/d41586-026-00495-y",
+        "source": "Nature",
+        "published": "2026-02-17T00:00:00+00:00"
+      },
+      {
+        "id": "36ef2c6576ff",
+        "title": "The funding system needs fixing — but it’s not a ‘waste of time and money’",
+        "summary": "Nature, Published online: 17 February 2026; doi:10.1038/d41586-026-00498-9The funding system needs fixing — but it’s not a ‘waste of time and money’",
+        "url": "https://www.nature.com/articles/d41586-026-00498-9",
+        "source": "Nature",
+        "published": "2026-02-17T00:00:00+00:00"
+      },
+      {
+        "id": "8c3cc78a5536",
+        "title": "What’s behind ‘teensplaining’? Scientists should study this adolescent behaviour",
+        "summary": "Nature, Published online: 17 February 2026; doi:10.1038/d41586-026-00496-xWhat’s behind ‘teensplaining’? Scientists should study this adolescent behaviour",
+        "url": "https://www.nature.com/articles/d41586-026-00496-x",
+        "source": "Nature",
+        "published": "2026-02-17T00:00:00+00:00"
+      },
+      {
+        "id": "0459bed56483",
+        "title": "Why sky-high pay for AI researchers is bad for the future of science",
+        "summary": "Nature, Published online: 17 February 2026; doi:10.1038/d41586-026-00474-3To ensure that AI advances benefit everyone, scientific institutions must prioritize collaborative, mission-driven structures instead of chasing top talent with astronomical compensation.",
+        "url": "https://www.nature.com/articles/d41586-026-00474-3",
+        "source": "Nature",
+        "published": "2026-02-17T00:00:00+00:00"
       },
       {
         "id": "b062beaa7dd9",
@@ -125,97 +213,17 @@
         "url": "https://www.theguardian.com/politics/2026/feb/16/keir-starmer-limited-options-further-defence-spending-rise",
         "source": "Business | The Guardian",
         "published": "2026-02-16T17:21:48+00:00"
-      },
-      {
-        "id": "e16702401246",
-        "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
-        "summary": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
-        "url": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
-        "source": "TechCrunch",
-        "published": "2026-02-16T17:00:00+00:00"
-      },
-      {
-        "id": "bef442c987ec",
-        "title": "Michigan antitrust lawsuit says oil companies hobbled EVs and renewables",
-        "summary": "The energy industry is pressing for laws that would ban climate liability lawsuits.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/michigan-accuses-oil-companies-of-antitrust-violations-in-climate-change-lawsuit/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-16T14:47:38+00:00"
-      },
-      {
-        "id": "a644865dbbd2",
-        "title": "KPMG partner fined for using artificial intelligence to cheat in AI training test",
-        "summary": "Firm says person fined A$10,000 is one of over two dozen staff in Australia caught using AI in exams since JulyBusiness live – latest updatesA partner at the consultancy KPMG has been fined for using artificial intelligence to cheat during an internal training course on AI.The unnamed partner was fi...",
-        "url": "https://www.theguardian.com/business/2026/feb/16/kpmg-partner-fined-artificial-intelligence-ai-training-test",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T14:36:02+00:00"
-      },
-      {
-        "id": "12f3f9124421",
-        "title": "Former Carillion chief fined by FCA for role in misleading investors",
-        "summary": "Watchdog reduces Richard Howson’s fine to £237,700 after he withdraws challenge to punishmentThe former boss of the construction company Carillion has been fined by the UK’s financial watchdog for his role in misleading investors before its collapse eight years ago.The Financial Conduct Authority (F...",
-        "url": "https://www.theguardian.com/business/2026/feb/16/former-carillion-chief-fined-fca-richard-howson",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T14:34:06+00:00"
-      },
-      {
-        "id": "443656579a99",
-        "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
-        "summary": "\"We're exploring a different set of tradeoffs.\"",
-        "url": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
-        "source": "TechCrunch",
-        "published": "2026-02-16T14:00:00+00:00"
-      },
-      {
-        "id": "83a713cd4e6e",
-        "title": "Volkswagen aims to cut costs by 20% by 2028 in restructuring plan, report says",
-        "summary": "Plant closures possible as part of German carmaker’s efforts to create resilience in face of competition from ChinaBusiness live – latest updatesVolkswagen plans to cut costs by 20% by 2028, with plant closures not ruled out, as part of an effort to reshape the company in the face of increasing comp...",
-        "url": "https://www.theguardian.com/business/2026/feb/16/volkswagen-vw-plan-cut-costs-restructuring-china-competition",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T13:38:12+00:00"
-      },
-      {
-        "id": "52600766b309",
-        "title": "After all the hype, some AI experts don’t think OpenClaw is all that exciting",
-        "summary": "\"From an AI research perspective, this is nothing novel,\" one expert told TechCrunch.",
-        "url": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
-        "source": "TechCrunch",
-        "published": "2026-02-16T13:15:00+00:00"
-      },
-      {
-        "id": "df460c3f32b5",
-        "title": "The US is merely the latest to join the global rush to hoard critical minerals",
-        "summary": "JD Vance is seeking to create a ‘trading bloc’ as shortages and climate crises mean a kaleidoscope of rare earths are increasingly jealously guardedThe announcement by the US vice-president, JD Vance, that the country is seeking to create a new critical minerals “trading bloc” is a final, exotic, na...",
-        "url": "https://www.theguardian.com/environment/2026/feb/16/critical-minerals-shortages-jd-vance-trading-bloc-analysis",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T13:00:26+00:00"
-      },
-      {
-        "id": "a90f6f8fbded",
-        "title": "Lloyds investigating after using staff’s bank account data in pay talks",
-        "summary": "CEO Charlie Nunn tells employees that issue ‘created some concern’ but insisted ‘we definitely have listened to it’Business live – latest updatesThe boss of Lloyds Banking Group has told staff that it is investigating a controversial decision to use employee bank account data during pay talks with u...",
-        "url": "https://www.theguardian.com/business/2026/feb/16/lloyds-staff-banking-data-pay-talks-charlie-nunn",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T12:24:55+00:00"
-      },
-      {
-        "id": "63c8a2823d67",
-        "title": "Sideways on the ice, in a supercar: Stability control is getting very good",
-        "summary": "To test stability control, it helps to have a wide-open space with very low grip.",
-        "url": "https://arstechnica.com/features/2026/02/learning-the-limits-of-stability-control-on-a-frozen-lake-in-a-mclaren/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-16T12:00:53+00:00"
-      },
-      {
-        "id": "9ce78c899c01",
-        "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
-        "summary": "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off in Indian software stocks.",
-        "url": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
-        "source": "TechCrunch",
-        "published": "2026-02-16T11:51:25+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "e10c36f68b51",
+        "title": "AI Digital Twins Are Helping People Manage Diabetes and Obesity",
+        "summary": "As patients and employers look for alternatives to pricey GLP-1 drugs, Silicon Valley startup Twin Health is using AI and wearable sensors to help people make healthier choices.",
+        "url": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
+        "source": "Science Latest",
+        "published": "2026-02-17T11:00:00+00:00"
+      },
       {
         "id": "343539303cf0",
         "title": "The Small English Town Swept Up in the Global AI Arms Race",
@@ -223,6 +231,14 @@
         "url": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
         "source": "Business Latest",
         "published": "2026-02-17T07:00:00+00:00"
+      },
+      {
+        "id": "dd9d3778873a",
+        "title": "Claims that AI can help fix climate dismissed as greenwashing",
+        "summary": "Industry using ‘diversionary’ tactics, says analyst, as energy-hungry complex functions such as video generation and deep research proliferateTech companies are conflating traditional artificial intelligence with generative AI when claiming the energy-hungry technology could help avert climate break...",
+        "url": "https://www.theguardian.com/technology/2026/feb/17/tech-companies-traditional-ai-generative-climate-breakdown-report",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-17T05:00:47+00:00"
       },
       {
         "id": "6e1d9d6377d6",
@@ -263,6 +279,14 @@
         "url": "https://simonwillison.net/2026/Feb/16/rodney-claude-code/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-16T16:38:57+00:00"
+      },
+      {
+        "id": "834f7f15661a",
+        "title": "Starmer vows to fast-track social media law but says under-16s ban not definite",
+        "summary": "Prime minister says action will be taken on young people’s social media access in ‘months, not years’What social media restrictions has Keir Starmer announced?Keir Starmer has pledged action on young people’s access to social media in “months, not years”, while saying this did not necessarily mean a...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/16/starmer-vows-fast-track-social-media-law-under-16s-ban",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-16T14:42:21+00:00"
       },
       {
         "id": "513e07b5a4bd",
@@ -391,30 +415,6 @@
         "url": "https://cdm.link/filter-delays/",
         "source": "CDM Create Digital Music",
         "published": "2026-02-15T17:06:28+00:00"
-      },
-      {
-        "id": "2a240bd52d61",
-        "title": "心願未圓的團年飯──香港宏福苑大火災民，惦記回不了的家",
-        "summary": "短期安置突然有變、返家收拾機會渺渺，就連長期安置方案，港府在年關前也給不出來。災民的新年願望，都與「安居」有關：「不是現在一定要回答我們未來如何，而是告訴我們未來每一階段，stage 1、2、3預計會發生什麼？」",
-        "url": "https://www.twreporter.org/a/the-year-of-healing-hong-kong-tai-po-fire-resettlement",
-        "source": "報導者",
-        "published": "2026-02-15T16:00:00+00:00"
-      },
-      {
-        "id": "65e2f93e7406",
-        "title": "Quoting Eric Meyer",
-        "summary": "I saw yet another “CSS is a massively bloated mess” whine and I’m like.  My dude.  My brother in Chromium.  It is trying as hard as it can to express the totality of visual presentation and layout design and typography and animation and digital interactivity and a few other things in a human-readabl...",
-        "url": "https://simonwillison.net/2026/Feb/15/eric-meyer/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-15T13:36:20+00:00"
-      },
-      {
-        "id": "42c035fcf74f",
-        "title": "California’s billionaires pour cash into elections as big tech seeks new allies",
-        "summary": "As Gavin Newsom departs, ultra-wealthy flex wealth and influence to fight regulation and keep the boom goingTech billionaires are leveraging tens of millions of dollars to influence California politics in a marked uptick from their previous participation in affairs at the state capitol. Behemoths su...",
-        "url": "https://www.theguardian.com/technology/2026/feb/15/california-billionaires-state-elections",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-15T13:00:22+00:00"
       }
     ],
     "序(month)": [
