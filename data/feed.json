@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-17T21:01:40.756700+00:00",
+  "updated_at": "2026-02-17T23:02:25.049860+00:00",
   "trending": [
-    "sweden vs latvia",
-    "state of the union 2026",
-    "ami nakai",
-    "ousmane dembélé",
-    "champions league schedule",
-    "folarin balogun",
-    "winter olympics curling cheating",
-    "dortmund",
-    "doug moe",
-    "psg"
+    "robert woods",
+    "tommy lee jones",
+    "landon jackson",
+    "olympic figure skating",
+    "michigan vs purdue prediction",
+    "amber glenn",
+    "mike evans",
+    "figure skating",
+    "unc vs nc state",
+    "kaori sakamoto"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "f4b6ccf20e0e",
+        "title": "Boost to British Steel as Turkey places high-speed rail order",
+        "summary": "‘Eight-figure agreement’ made to supply new line between Ankara and İzmir – but questions over plant’s future remainBritish Steel has secured an order worth tens of millions of pounds to supply rail for a high-speed electric railway in Turkey, amid continuing uncertainty over the long-term future of...",
+        "url": "https://www.theguardian.com/business/2026/feb/17/british-steel-turkey-high-speed-rail-order",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T22:00:50+00:00"
+      },
       {
         "id": "7efaf7f1e363",
         "title": "Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use",
@@ -21,6 +29,14 @@
         "url": "https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/",
         "source": "TechCrunch",
         "published": "2026-02-17T20:45:33+00:00"
+      },
+      {
+        "id": "4514dbd840e9",
+        "title": "Password managers' promise that they can't see your vaults isn't always true",
+        "summary": "Contrary to what password managers say, a server compromise can mean game over.",
+        "url": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-17T20:43:01+00:00"
       },
       {
         "id": "bb23abe59cf5",
@@ -103,6 +119,30 @@
         "published": "2026-02-17T17:56:14+00:00"
       },
       {
+        "id": "195c7d5b2432",
+        "title": "Jim Ratcliffe’s repugnant words have sullied Manchester United’s reputation | Letters",
+        "summary": "Readers respond to the billionaire Manchester United co-owner’s remark that ‘the UK is being colonised by immigrants’In response to the billionaire industrialist and Manchester United co-owner Jim Ratcliffe’s historically, economically and culturally illiterate and deeply offensive remark that “the ...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/17/jim-ratcliffe-repugnant-words-have-sullied-manchester-united-reputation",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T17:39:50+00:00"
+      },
+      {
+        "id": "aa3c95d2bfd9",
+        "title": "Developers will only bring us more car-dependent sprawl | Letters",
+        "summary": "Jon Reeds on low-density developments, plus a letter from Richard EltringhamIt is disappointing to see the huge urban sprawl at Gilston, north of Harlow, described as rejecting “car‑centric models” (A new town for the 21st century?, 9 February).Big, ultra-low-density developments like this, far from...",
+        "url": "https://www.theguardian.com/society/2026/feb/17/developers-will-only-bring-us-more-car-dependent-sprawl",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T17:39:26+00:00"
+      },
+      {
+        "id": "e391724e43f0",
+        "title": "Health support needed to tackle joblessness | Letter",
+        "summary": "Health-centred approaches that help individuals stay in or return to work are needed, says Nick PahlThe alarming rise in economic inactivity highlighted in your report (UK sleepwalking into joblessness epidemic, Tesco boss warns, 10 February) underlines a public health issue as much as an economic o...",
+        "url": "https://www.theguardian.com/society/2026/feb/17/health-support-needed-to-tackle-joblessness",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T17:39:19+00:00"
+      },
+      {
         "id": "abbb0c744962",
         "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
         "summary": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
@@ -151,9 +191,17 @@
         "published": "2026-02-17T16:30:43+00:00"
       },
       {
+        "id": "8ae0a9481b4b",
+        "title": "‘Food porn’: are sexy meal pics ruining the restaurant industry?",
+        "summary": "Swanky eateries are attracting an influx of influencers - whereas those that produce less varied and photogenic fare are strugglingName: Food porn.Age: Entered common parlance around the 1980s – Rosalind Coward used the term in her 1984 book Female Desire (one of its earliest documented uses). Conti...",
+        "url": "https://www.theguardian.com/food/2026/feb/17/food-porn-are-sexy-meal-pics-ruining-the-restaurant-industry",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T16:19:21+00:00"
+      },
+      {
         "id": "3ed7b713687f",
         "title": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
-        "summary": "The WordPress AI assistant doesn't need precisely tailored prompts, either.",
+        "summary": "The feature is designed to work inside the website to understand its content and layout, allowing site owners to make changes with natural language commands. The WordPress AI assistant doesn't need precisely tailored prompts, either.",
         "url": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
         "source": "TechCrunch",
         "published": "2026-02-17T16:10:44+00:00"
@@ -165,60 +213,12 @@
         "url": "https://arstechnica.com/culture/2026/02/heres-the-fun-action-packed-trailer-for-mandolorian-and-grogu/",
         "source": "Ars Technica - All content",
         "published": "2026-02-17T16:10:43+00:00"
-      },
-      {
-        "id": "4cf3a460a3aa",
-        "title": "Ford is focusing on efficiency to make its 2027 $30,000 EV pickup affordable",
-        "summary": "A smaller battery means a cheaper truck, but customers still expect plenty of range.",
-        "url": "https://arstechnica.com/cars/2026/02/ford-is-focusing-on-efficiency-to-make-its-2027-30000-ev-pickup-affordable/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T16:00:05+00:00"
-      },
-      {
-        "id": "93383f5a5b4a",
-        "title": "These are the countries moving to ban social media for children",
-        "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-        "url": "https://techcrunch.com/2026/02/17/social-media-ban-children-countries-list/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T15:59:38+00:00"
-      },
-      {
-        "id": "fc03d3b096dd",
-        "title": "Amazon Fire TV’s new interface is now rolling out in the US",
-        "summary": "Fire TV's new interface simplifies its layout and navigation and adds Alexa+.",
-        "url": "https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T15:58:43+00:00"
-      },
-      {
-        "id": "661ab6a55e95",
-        "title": "EU launches probe into xAI over sexualized images",
-        "summary": "\"Large-scale\" investigation could result in massive fines.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/eu-launches-probe-into-xai-over-sexualized-images/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T15:47:38+00:00"
-      },
-      {
-        "id": "dc9eb8aef914",
-        "title": "Warner Bros gives Paramount seven days to make ‘best and final’ offer",
-        "summary": "Waiver from Netflix allows film company to engage with rival bidder if it could lead to a ‘reasonably superior offer’Business live – latest updatesWarner Bros Discovery (WBD) has reopened talks with Paramount Skydance, giving the company seven days to table its best and final offer and top an existi...",
-        "url": "https://www.theguardian.com/film/2026/feb/17/warner-bros-paramount-final-offer-netflix",
-        "source": "Business | The Guardian",
-        "published": "2026-02-17T15:42:19+00:00"
-      },
-      {
-        "id": "285c881ef30c",
-        "title": "Scientists hunting mammoth fossils found whales 400 km inland",
-        "summary": "Sometimes, new data raises more questions than it answers.",
-        "url": "https://arstechnica.com/science/2026/02/scientists-hunting-mammoth-fossils-found-whales-400-km-inland/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T15:14:27+00:00"
       }
     ],
     "破(day)": [
       {
         "id": "e12418e1e513",
-        "title": "Meta and Other Tech Companies Ban OpenClaw Over Cybersecurity Concerns",
+        "title": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
         "summary": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
         "url": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
         "source": "Business Latest",
