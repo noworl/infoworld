@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-02-17T05:14:31.596087+00:00",
+  "updated_at": "2026-02-17T08:04:42.544170+00:00",
   "trending": [
-    "jennifer garner",
-    "rose byrne",
-    "netanyahu",
-    "james talarico",
-    "tj otzelberger",
-    "georgia country",
-    "jevon evans",
-    "walker buehler",
-    "marco rubio",
-    "houston christian basketball"
+    "magda linette",
+    "jessica pegula",
+    "clara tauson",
+    "ekaterina alexandrova",
+    "asteroid",
+    "dilpreet bajwa",
+    "yuvraj samra",
+    "spectrum outage",
+    "canada vs new zealand",
+    "农历新年"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "bbae2c66d15e",
+        "title": "UK unemployment rate hits five-year high of 5.2% as wage growth slows – business live",
+        "summary": "Rolling coverage of the latest economic and financial news, including the UK jobs report for October-December 2025The pound is weakening, as traders anticipate the Bank of England could cut interest rates next month.Sterling has fallen by two-thirds of a cent against the US dollar, to $1.355, its lo...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/17/uk-unemployment-rate-hits-five-year-high-wage-growth-slows-rachel-reeves-bonds-borrowing-costs-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T07:58:01+00:00"
+      },
+      {
+        "id": "5851a92098d4",
+        "title": "Openreach said yes to full fibre broadband, then branded it ‘uneconomical’",
+        "summary": "Its ‘fibre checker’ tool confirmed I could have a connection, but a month later it changed its mindMy internet provider informed me by email that full fibre broadband had become available for my property, confirmed by Openreach’s “fibre checker” tool. After a month, Openreach declared the connection...",
+        "url": "https://www.theguardian.com/money/2026/feb/17/openreach-full-fibre-broadband-uneconomical",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T07:00:02+00:00"
+      },
+      {
+        "id": "dd9d3778873a",
+        "title": "Claims that AI can help fix climate dismissed as greenwashing",
+        "summary": "Industry using ‘diversionary’ tactics, says analyst, as energy-hungry complex functions such as video generation and deep research proliferateTech companies are conflating traditional artificial intelligence with generative AI when claiming the energy-hungry technology could help avert climate break...",
+        "url": "https://www.theguardian.com/technology/2026/feb/17/tech-companies-traditional-ai-generative-climate-breakdown-report",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T05:00:47+00:00"
+      },
+      {
+        "id": "123cbf753d18",
+        "title": "Europeans are dangerously reliant on US tech. Now is a good time to build our own | Johnny Ryan",
+        "summary": "By trusting the US, we handed Trump a kill switch. Yet Europe’s digital sovereignty is an achievable goalThe French judge Nicolas Guillou knows exactly how deep Europe’s dependence on US tech is. Guillou and his colleagues at the international criminal court are under US sanctions. They can no longe...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/17/europeans-are-dangerously-reliant-on-us-tech-now-is-a-good-time-to-build-our-own",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T05:00:47+00:00"
+      },
+      {
+        "id": "b062beaa7dd9",
+        "title": "Six Sarah Ferguson-linked companies to close after Epstein revelations",
+        "summary": "Messages from ex-wife of Andrew Mountbatten-Windsor to sex offender, sent after his conviction, came to light last monthSix companies linked to Andrew Mountbatten-Windsor’s ex-wife, Sarah Ferguson, are being wound down in the wake of revelations about her relationship with Jeffrey Epstein.According ...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/16/six-sarah-ferguson-linked-companies-to-close-after-epstein-revelations",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T23:53:18+00:00"
+      },
       {
         "id": "94f9cfd9a928",
         "title": "Get ready for new Macs and iPads: Apple announces \"Special Experience\" on March 4",
@@ -29,6 +69,14 @@
         "url": "https://arstechnica.com/tech-policy/2026/02/best-buy-worker-used-managers-code-to-get-99-off-macbooks-cops-say/",
         "source": "Ars Technica - All content",
         "published": "2026-02-16T20:10:54+00:00"
+      },
+      {
+        "id": "85ceccb7bf8b",
+        "title": "Trump lashes out at California governor’s green energy deal with UK",
+        "summary": "President says it is inappropriate for UK to be dealing with Gavin Newsom after Ed Miliband meets governor in LondonDonald Trump has vented his fury against a green energy deal between the British government and California’s governor, Gavin Newsom, a likely future Democratic presidential candidate.“...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/16/gavin-newsom-a-loser-says-trump-california-green-energy-deal-uk",
+        "source": "Business | The Guardian",
+        "published": "2026-02-16T19:23:52+00:00"
       },
       {
         "id": "ef6c9de1cae0",
@@ -143,14 +191,6 @@
         "published": "2026-02-16T13:00:26+00:00"
       },
       {
-        "id": "cdda2177cf24",
-        "title": "Britons feeling ‘dismal’ about finances amid mounting debts, survey finds",
-        "summary": "Consumer confidence at its lowest level in two years, as young people in particular face money pressuresBusiness live – latest updatesThe mood among UK households about their finances is “dismal”, according to research which suggested consumer spending remains sluggish and debts are mounting.Consume...",
-        "url": "https://www.theguardian.com/business/2026/feb/16/uk-finances-debts-survey-consumer-confidence",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T12:38:43+00:00"
-      },
-      {
         "id": "a90f6f8fbded",
         "title": "Lloyds investigating after using staff’s bank account data in pay talks",
         "summary": "CEO Charlie Nunn tells employees that issue ‘created some concern’ but insisted ‘we definitely have listened to it’Business live – latest updatesThe boss of Lloyds Banking Group has told staff that it is investigating a controversial decision to use employee bank account data during pay talks with u...",
@@ -173,49 +213,17 @@
         "url": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
         "source": "TechCrunch",
         "published": "2026-02-16T11:51:25+00:00"
-      },
-      {
-        "id": "e9152958c003",
-        "title": "All the important news from the ongoing India AI Impact Summit",
-        "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
-        "url": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
-        "source": "TechCrunch",
-        "published": "2026-02-16T11:20:27+00:00"
-      },
-      {
-        "id": "a22a30f8eca3",
-        "title": "Warner Bros Discovery weighs new sale talks after fresh Paramount offer",
-        "summary": "Board considering whether to re-engage in move that could prompt a second bidding war with NetflixBusiness live – latest updatesWarner Bros Discovery (WBD) is reportedly weighing reopening sales talks with Paramount Skydance, in a move that could spark a fresh bidding war with Netflix for the Hollyw...",
-        "url": "https://www.theguardian.com/film/2026/feb/16/warner-bros-discovery-sale-talks-paramount-offer-netflix",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T09:57:24+00:00"
-      },
-      {
-        "id": "ee314b143b4b",
-        "title": "Royal Mail blames bad weather and sickness for late deliveries",
-        "summary": "Strain on service means rounds are missed on a daily basis and parcels are prioritised over letters, says reportBusiness live – latest updatesRoyal Mail has blamed stormy weather and too many workers being off sick after complaints over missed delivery rounds and late letters.The strain on the posta...",
-        "url": "https://www.theguardian.com/business/2026/feb/16/royal-mail-late-deliveries-parcels-letters",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T09:33:43+00:00"
-      },
-      {
-        "id": "662724cadf1a",
-        "title": "Amazon van gets stuck on Britain’s ‘most dangerous’ mudflat path",
-        "summary": "GPS led driver on to the Broomway in the Thames estuary, where dozens of people are known to have died An Amazon delivery van got stuck trying to drive along one of Britain’s most dangerous coastal paths as the driver followed GPS directions on to mudflats to try to get to an island in the Thames es...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/16/amazon-van-stuck-britain-mudflat-path-broomway-thames-estuary",
-        "source": "Business | The Guardian",
-        "published": "2026-02-16T09:20:09+00:00"
-      },
-      {
-        "id": "4589200d2b71",
-        "title": "A plant ‘vaccine’ takes on corn rootworm, a fearsome pest",
-        "summary": "Inoculating soil with pink microbes could help reduce the use of toxic insecticides.",
-        "url": "https://www.science.org/content/article/plant-vaccine-takes-corn-rootworm-fearsome-pest",
-        "source": "Latest News from Science Magazine",
-        "published": "2026-02-16T09:00:00+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "343539303cf0",
+        "title": "The Small English Town Swept Up in the Global AI Arms Race",
+        "summary": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+        "url": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
+        "source": "Business Latest",
+        "published": "2026-02-17T07:00:00+00:00"
+      },
       {
         "id": "6e1d9d6377d6",
         "title": "Nano Banana Pro diff to webcomic",
@@ -407,14 +415,6 @@
         "url": "https://www.theguardian.com/technology/2026/feb/15/california-billionaires-state-elections",
         "source": "Technology | The Guardian",
         "published": "2026-02-15T13:00:22+00:00"
-      },
-      {
-        "id": "54f542c19d8b",
-        "title": "The Nothing That Has the Potential to Be Anything",
-        "summary": "You can never truly empty a box. Why? Zero-point energy.",
-        "url": "https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/",
-        "source": "Science Latest",
-        "published": "2026-02-15T12:00:00+00:00"
       }
     ],
     "序(month)": [
