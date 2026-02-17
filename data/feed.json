@@ -1,19 +1,83 @@
 {
-  "updated_at": "2026-02-17T18:08:05.323500+00:00",
+  "updated_at": "2026-02-17T21:01:40.756700+00:00",
   "trending": [
-    "bruce springsteen",
-    "juventus",
-    "scotland national cricket team vs nepal national cricket team standings",
-    "pablo lopez",
-    "ikea tulsa",
-    "today wordle answers",
-    "alexandra eala",
-    "galatasaray vs juventus",
-    "galatasaray - juventus",
-    "justin sun"
+    "sweden vs latvia",
+    "state of the union 2026",
+    "ami nakai",
+    "ousmane dembélé",
+    "champions league schedule",
+    "folarin balogun",
+    "winter olympics curling cheating",
+    "dortmund",
+    "doug moe",
+    "psg"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "7efaf7f1e363",
+        "title": "Meta’s own research found parental supervision doesn’t really help curb teens’ compulsive social media use",
+        "summary": "An internal research study at Meta found that parental supervision may not help teens regulate their social media, and teens with trauma are more inclined to overuse social media.",
+        "url": "https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T20:45:33+00:00"
+      },
+      {
+        "id": "bb23abe59cf5",
+        "title": "Apple is reportedly cooking up a trio of AI wearables",
+        "summary": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+        "url": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T20:14:00+00:00"
+      },
+      {
+        "id": "ff6ae1546716",
+        "title": "Thrive raises $10B for new fund, its largest yet",
+        "summary": "Thrive Capital just raised $10 billion for its new fund-- nearly double the size of its last fund.",
+        "url": "https://techcrunch.com/2026/02/17/thrive-raises-10b-for-new-fund-its-largest-yet/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T20:13:12+00:00"
+      },
+      {
+        "id": "88c4b57ea671",
+        "title": "‘It’s soul-crushing’: young people battle to find any work in bleak jobs market",
+        "summary": "Chair of UK government review says dramatic changes in labour market risks putting ‘a generation on the scrapheap’ On any given day, Poppy Blackman is engaged in the “soul-crushing” process of applying for a new job, and rarely ever hearing anything back.The 22-year-old has been unemployed since Jan...",
+        "url": "https://www.theguardian.com/society/2026/feb/17/its-soul-crushing-young-people-battle-bleak-jobs-market-as-youth-unemployment-rises",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T19:17:08+00:00"
+      },
+      {
+        "id": "41c4c7c20697",
+        "title": "Stephen Colbert says CBS forbid interview of Democrat because of FCC threat",
+        "summary": "Colbert: \"I want to assure you this decision is for purely financial reasons.\"",
+        "url": "https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-17T19:01:05+00:00"
+      },
+      {
+        "id": "b18783c8ffc5",
+        "title": "Climactic launches hybrid fund to get startups through the ‘valley of death’",
+        "summary": "The new project, called Material Scale, will initially focus on climate tech startups in the apparel industry.",
+        "url": "https://techcrunch.com/2026/02/17/climactic-launches-hybrid-fund-to-get-startups-through-the-valley-of-death/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T18:57:57+00:00"
+      },
+      {
+        "id": "071477d3e502",
+        "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
+        "summary": "Broadcom's \"strategy was never to keep every customer,\" CloudBolt report says.",
+        "url": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-17T18:38:10+00:00"
+      },
+      {
+        "id": "03b747592ad3",
+        "title": "What happens to a car when the company behind its software goes under?",
+        "summary": "Connected car servers won't be online indefinitely, and startups often go bust.",
+        "url": "https://arstechnica.com/cars/2026/02/what-happens-to-a-car-when-the-company-behind-its-software-goes-under/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-17T18:15:31+00:00"
+      },
       {
         "id": "fe1eb3068279",
         "title": "Anthropic releases Sonnet 4.6",
@@ -21,6 +85,22 @@
         "url": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
         "source": "TechCrunch",
         "published": "2026-02-17T18:00:00+00:00"
+      },
+      {
+        "id": "2625daba7b1d",
+        "title": "Goldman Sachs to drop race, gender and LGBTQ+ criteria from board evaluations",
+        "summary": "The move follows pressure from an activist shareholder group seeking end to DEI requirementsGoldman Sachs is removing race, gender and other diversity-related considerations when evaluating prospective candidates for its executive board after pressure from an activist shareholder group to remove the...",
+        "url": "https://www.theguardian.com/business/2026/feb/17/goldman-sachs-board-diversity-candidates-nlpc",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T17:59:34+00:00"
+      },
+      {
+        "id": "64893cf8b24f",
+        "title": "RAM shortage hits Valve's four-year-old Steam Deck, now available \"intermittently\"",
+        "summary": "Forget launching new stuff—Valve is even having problems with existing hardware.",
+        "url": "https://arstechnica.com/gadgets/2026/02/valves-steam-deck-intermittently-out-of-stock-as-ram-shortage-drags-on/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-17T17:56:14+00:00"
       },
       {
         "id": "abbb0c744962",
@@ -133,89 +213,33 @@
         "url": "https://arstechnica.com/science/2026/02/scientists-hunting-mammoth-fossils-found-whales-400-km-inland/",
         "source": "Ars Technica - All content",
         "published": "2026-02-17T15:14:27+00:00"
-      },
-      {
-        "id": "69ecb7723756",
-        "title": "Apple Podcasts is getting an enhanced video experience this spring",
-        "summary": "By bringing an enhanced video podcast viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their favorite shows.",
-        "url": "https://techcrunch.com/2026/02/17/apple-podcasts-is-getting-an-enhanced-video-experience-this-spring/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T15:06:48+00:00"
-      },
-      {
-        "id": "6bcaa6f3c1b9",
-        "title": "Looks a lot like an electric station wagon: the 2026 Toyota bZ Woodland",
-        "summary": "A little more ground clearance and a lot more cargo room make the bZ compelling.",
-        "url": "https://arstechnica.com/cars/2026/02/looks-a-lot-like-an-electric-station-wagon-the-2026-toyota-bz-woodland/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T15:00:00+00:00"
-      },
-      {
-        "id": "d149c58affbd",
-        "title": "Here are the 17 US-based AI companies that have raised $100M or more in 2026",
-        "summary": "Three U.S.-based AI companies raised rounds larger than $1 billion so far in 2026, with 14 others raising rounds of $100 million or more.",
-        "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T14:58:09+00:00"
-      },
-      {
-        "id": "d5b0e7337bfb",
-        "title": "99% of adults over 40 have shoulder \"abnormalities\" on an MRI, study finds",
-        "summary": "Some adults over 40 have shoulder pain, but nearly all have \"abnormal\" joints.",
-        "url": "https://arstechnica.com/health/2026/02/99-of-adults-over-40-have-shoulder-abnormalities-on-an-mri-study-finds/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T14:17:54+00:00"
-      },
-      {
-        "id": "ad18bbfb16c2",
-        "title": "India bids to attract over $200B in AI infrastructure investment by 2028",
-        "summary": "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract global AI investment.",
-        "url": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T14:13:54+00:00"
-      },
-      {
-        "id": "dd660a73c81e",
-        "title": "Snapchat launches creator subscriptions in the US",
-        "summary": "Snapchat will let creators set their monthly subscription price.",
-        "url": "https://techcrunch.com/2026/02/17/snapchat-launches-creator-subscription-in-the-u-s/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T14:07:49+00:00"
-      },
-      {
-        "id": "5cc2061eb87d",
-        "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
-        "summary": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
-        "url": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T14:00:00+00:00"
-      },
-      {
-        "id": "9f7f5c5dd19f",
-        "title": "Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M",
-        "summary": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesses and non-technical users.",
-        "url": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T14:00:00+00:00"
-      },
-      {
-        "id": "340a8331a124",
-        "title": "Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race",
-        "summary": "Adani's plan targets up to 5 gigawatts of capacity, with data centers planned alongside partnerships with Google, Microsoft, and Flipkart.",
-        "url": "https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T13:08:46+00:00"
-      },
-      {
-        "id": "5ee0eb006e9d",
-        "title": "Airbnb expands its “Reserve Now, Pay Later” globally",
-        "summary": "The feature  allows users to cancel eligible bookings if there is a change of plans -- without losing money upfront.",
-        "url": "https://techcrunch.com/2026/02/17/airbnb-expands-its-reserve-now-pay-later-globally/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T13:00:00+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "e12418e1e513",
+        "title": "Meta and Other Tech Companies Ban OpenClaw Over Cybersecurity Concerns",
+        "summary": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
+        "url": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
+        "source": "Business Latest",
+        "published": "2026-02-17T20:10:12+00:00"
+      },
+      {
+        "id": "04dad5c79967",
+        "title": "Laurie Spiegel’s Music Mouse is available now from Eventide",
+        "summary": "1986, meet 2026. Music Mouse from Laurie Spiegel is available now as a new Eventide application -- completely faithful to the original, ground-breaking compositional application, but fully modernized.\nThe post Laurie Spiegel&#8217;s Music Mouse is available now from Eventide appeared first on CDM Cr...",
+        "url": "https://cdm.link/musicmouse-arrives/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-17T19:23:00+00:00"
+      },
+      {
+        "id": "7bbb9741f99f",
+        "title": "Look Mum No Computer brings Boffin British entry to Eurovision",
+        "summary": "Revenge of the Nerd: Look Mum No Computer, aka Sam Battle, will represent his country in Eurovision this year. And just like that, 100% of us are tuning into Eurovision and rooting for the UK. (Sorry, 'schland.)\nThe post Look Mum No Computer brings Boffin British entry to Eurovision appeared first o...",
+        "url": "https://cdm.link/look-mum-no-computer-eurovision/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-17T19:18:17+00:00"
+      },
       {
         "id": "b9d179485100",
         "title": "Quoting ROUGH DRAFT 8/2/66",
@@ -257,6 +281,14 @@
         "published": "2026-02-17T11:00:00+00:00"
       },
       {
+        "id": "5851a92098d4",
+        "title": "Openreach said yes to full fibre broadband, then branded it ‘uneconomical’",
+        "summary": "Its ‘fibre checker’ tool confirmed I could have a connection, but a month later it changed its mindMy internet provider informed me by email that full fibre broadband had become available for my property, confirmed by Openreach’s “fibre checker” tool. After a month, Openreach declared the connection...",
+        "url": "https://www.theguardian.com/money/2026/feb/17/openreach-full-fibre-broadband-uneconomical",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-17T07:00:02+00:00"
+      },
+      {
         "id": "343539303cf0",
         "title": "The Small English Town Swept Up in the Global AI Arms Race",
         "summary": "The residents of Potters Bar are working to protect the “greenbelt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
@@ -295,6 +327,14 @@
         "url": "https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-17T00:43:45+00:00"
+      },
+      {
+        "id": "96600418c60e",
+        "title": "Increase web search accuracy and efficiency with dynamic filtering",
+        "summary": "Increase web search accuracy and efficiency with dynamic filtering",
+        "url": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
+        "source": "Claude Blog",
+        "published": "2026-02-17T00:00:00+00:00"
       },
       {
         "id": "69aa47ca1634",
@@ -345,6 +385,14 @@
         "published": "2026-02-16T10:00:54+00:00"
       },
       {
+        "id": "fab38fecdd28",
+        "title": "OpenClaw创始人宣布加入OpenAI，火爆的“小龙虾”项目将以基金会形式独立运营",
+        "summary": "刚刚，OpenClaw 创始人彼得·斯泰因贝格尔（Peter Steinberger）宣布将加入 OpenAI，致力于让所有人都能使用 Agent。而 OpenClaw 将转为基金会的形式，这意味着并非是一次简单的“收编”，而是未来以开放和独立项目继续存在。（来源：X）过去几周，OpenClaw（此前曾用名包括 Clawdbot 和 Moltbot）以“能干活的 AI”火爆出圈。它完全不同于传统大模型“问答”的对话模式，而是直接去行动，包括自动管理日程、预订机票，甚至是加入一个由其他 AI 助手组成的社交网络。（来源：https://openclaw.ai/）在 GitHub 平台上，Open...",
+        "url": "https://www.mittrchina.com/news/detail/15930",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-16T08:45:40+00:00"
+      },
+      {
         "id": "c8ab2e0644bc",
         "title": "TikTok creator ByteDance vows to curb AI video tool after Disney threat",
         "summary": "Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fightingBusiness live – latest updatesByteDance, the Chinese technology company behind TikTok, has said it will restrain its AI video-making tool, after threats of legal action from Disney and a backlash...",
@@ -367,54 +415,6 @@
         "url": "https://www.theguardian.com/money/2026/feb/16/parking-fine-charging-electric-car-mer",
         "source": "Technology | The Guardian",
         "published": "2026-02-16T07:00:44+00:00"
-      },
-      {
-        "id": "8cfa4a7cdd19",
-        "title": "‘It’s the most urgent public health issue’: Dr Rangan Chatterjee on screen time, mental health – and banning social media until 18",
-        "summary": "The hit podcaster, author and former GP says a failure to regulate big tech is ‘failing a generation of children’. He explains why he quit the NHS and why he wants a ban on screen-based homeworkA 16-year-old boy and his mum went to see their GP, Dr Rangan Chatterjee, on a busy Monday afternoon. That...",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/16/dr-rangan-chatterjee-interview-screen-time-mental-health-banning-social-media-18-podcaster",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-16T05:00:41+00:00"
-      },
-      {
-        "id": "6ccbb338d776",
-        "title": "如果世界是电脑模拟的，人类能否像黑客一样“越狱”逃离?",
-        "summary": "在电影《黑客帝国》中，主角 Neo 面临着一个终极选择：吞下蓝色药丸，继续活在虚假但舒适的模拟世界里；或是吞下红色药丸，看清残酷但真实的世界。这是科幻电影史上最经典的场景之一，也留下了一个深刻的问题：如果现实就是计算机的一场超真实模拟，我们能否主动选择“逃离”？（来源：wikipedia）人类可能生活在模拟之中的想法由来已久。早在 17 世纪，法国哲学家笛卡尔就曾讨论过“我们是否活在梦中”的观点，但还仅停留在哲学思辨的层面。真正引起学界注意的，是牛津大学哲学家尼克·博斯特罗姆（Nick Bostrom）在 2003 年发表的一篇极具影响力的论文：《你是否生活在计算机模拟中？》（Are You ...",
-        "url": "https://www.mittrchina.com/news/detail/15928",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-16T02:04:58+00:00"
-      },
-      {
-        "id": "8ba7700df19e",
-        "title": "The AI Vampire",
-        "summary": "The AI Vampire\nSteve Yegge's take on agent fatigue, and its relationship to burnout.\n\nLet's pretend you're the only person at your company using AI.\nIn Scenario A, you decide you're going to impress your employer, and work for 8 hours a day at 10x productivity. You knock it out of the park and make ...",
-        "url": "https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-15T23:59:36+00:00"
-      },
-      {
-        "id": "ecae7f6495f4",
-        "title": "Starmer to extend online safety rules to AI chatbots after Grok scandal",
-        "summary": "Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok toolMakers of AI chatbots that put children at risk will face massive fines or even see their services blocked in the UK under law changes to be announced by Keir Starmer on Monday.Embolden...",
-        "url": "https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-15T22:30:34+00:00"
-      },
-      {
-        "id": "f5d494fc0417",
-        "title": "Em dash",
-        "summary": "I'm occasionally accused of using LLMs to write the content on my blog. I don't do that, and I don't think my writing has much of an LLM smell to it... with one notable exception:\n    # Finally, do em dashes\n    s = s.replace(' - ', u'\\u2014')\n\nThat code to add em dashes to my posts dates back to at...",
-        "url": "https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-15T21:40:46+00:00"
-      },
-      {
-        "id": "76c4ecb89d9f",
-        "title": "Deep Blue",
-        "summary": "We coined a new term on the Oxide and Friends podcast last month (primary credit to Adam Leventhal) covering the sense of psychological ennui leading into existential dread that many software developers are feeling thanks to the encroachment of generative AI into their field of work.\nWe're calling i...",
-        "url": "https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-15T21:06:44+00:00"
       }
     ],
     "序(month)": [
