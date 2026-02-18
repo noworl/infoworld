@@ -1,19 +1,67 @@
 {
-  "updated_at": "2026-02-18T20:02:20.546077+00:00",
+  "updated_at": "2026-02-18T22:03:59.360144+00:00",
   "trending": [
-    "olympiacos vs leverkusen",
-    "club brujas - atlético madrid",
-    "club brugge vs atlético madrid",
-    "bodø/glimt vs inter",
-    "milan - como",
-    "milan vs como",
-    "diego garcia",
-    "kaila kuhn",
-    "alexandra eala",
-    "phish summer tour 2026"
+    "iftar time 2026",
+    "iowa alpha delta phi",
+    "auston matthews",
+    "sabonis",
+    "dash stock",
+    "jack hughes",
+    "usa",
+    "peter greene",
+    "cvna stock",
+    "figma stock"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "b6f182345732",
+        "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+        "summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choic...",
+        "url": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T21:07:00+00:00"
+      },
+      {
+        "id": "38d64fbdab29",
+        "title": "Verizon acknowledges \"pain\" of new unlock policy, suggests change is coming",
+        "summary": "Report: Verizon's goal is \"immediate unlock for all payment methods really soon.\"",
+        "url": "https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-18T20:58:34+00:00"
+      },
+      {
+        "id": "47c354a30609",
+        "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
+        "summary": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.",
+        "url": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T20:57:48+00:00"
+      },
+      {
+        "id": "b2395586bd62",
+        "title": "Billionaire Les Wexner testifies before Congress about ties to Epstein",
+        "summary": "Wexner, who has denied misconduct related to Epstein, is one of several subpoenaed by House oversight panelThe former boss of the Victoria’s Secret lingerie brand, Les Wexner, said he has “done nothing wrong” and has “nothing to hide”, as he testifies on Wednesday before a congressional committee in...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/18/les-wexner-jeffrey-epstein-congress",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T20:29:16+00:00"
+      },
+      {
+        "id": "903f270fa906",
+        "title": "Chevy Bolt, BMW i3, or something else? At $10K, you have lots of EV options",
+        "summary": "Two of Ars' favorite electric vehicles are now available for not very much money.",
+        "url": "https://arstechnica.com/cars/2026/02/chevy-bolt-bmw-i3-or-something-else-at-10k-you-have-lots-of-ev-options/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-18T20:22:03+00:00"
+      },
+      {
+        "id": "92dde2b6fca0",
+        "title": "Lawsuit: EPA revoking greenhouse gas finding risks “thousands of avoidable deaths”",
+        "summary": "EPA sued for abandoning its mission to protect public health.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/lawsuit-epa-revoking-greenhouse-gas-finding-risks-thousands-of-avoidable-deaths/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-18T19:48:06+00:00"
+      },
       {
         "id": "1d129303bfdf",
         "title": "Zuckerberg grilled in landmark social media trial over teen mental health",
@@ -41,7 +89,7 @@
       {
         "id": "14cc6a3cbd40",
         "title": "SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
-        "summary": "SeatGeek announced on Wednesday a new integration with Spotify, bringing a seamless ticket-buying experience for Spotify users.&#160; Now, when Spotify users browse an artist’s page or upcoming tour dates, they will see ticket links powered by SeatGeek for concerts at these participating venues, all...",
+        "summary": "This is a strategic win for SeatGeek. With direct placement in the Spotify app, SeatGeek is positioned to reach millions of active music fans as they discover upcoming events, increasing the chances of converting listeners into ticket buyers.",
         "url": "https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/",
         "source": "TechCrunch",
         "published": "2026-02-18T19:07:40+00:00"
@@ -63,12 +111,28 @@
         "published": "2026-02-18T18:41:26+00:00"
       },
       {
+        "id": "6eab6f9a506a",
+        "title": "The Guardian view on UK-EU defence: moving in the right direction, much too slowly",
+        "summary": "The threat of Russian aggression makes a compelling case for urgent continental cooperationFor Vladimir Putin, peace talks with Ukraine are war pursued by other means. That is why progress has been so slow in negotiations, which resumed in Geneva this week. The Russian president demands the surrende...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/18/the-guardian-view-on-uk-eu-defence-moving-in-the-right-direction-much-too-slowly",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T18:30:41+00:00"
+      },
+      {
         "id": "2323d5e08437",
-        "title": "Amazon halts Blue Jay robotics project after less than six months",
+        "title": "Amazon halts Blue Jay robotics project after less than 6 months",
         "summary": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
         "url": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
         "source": "TechCrunch",
         "published": "2026-02-18T18:27:10+00:00"
+      },
+      {
+        "id": "d811eac0e19a",
+        "title": "The Guardian view on Scotland’s housing crisis: supply has failed to keep pace with need",
+        "summary": "The country’s homelessness legislation is ambitious and humane. But too many people are still sleeping on the streets or in temporary accommodationRough sleeping in Scotland has risen by 106% over the past three years. Record numbers of children are now living in temporary accommodation, official fi...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/18/the-guardian-view-on-scotlands-housing-crisis-supply-has-failed-to-keep-pace-with-need",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T18:25:41+00:00"
       },
       {
         "id": "45e350ad85f1",
@@ -105,7 +169,7 @@
       {
         "id": "148c2768e0a2",
         "title": "Google debuts $499 Pixel 10a",
-        "summary": "The smartphone is available for preorder now with shipments starting March 5.  It comes in Lavender, Berry, Fog, and Obsidian.",
+        "summary": "The smartphone is available for preorder now with shipments starting March 5. It comes in Lavender, Berry, Fog, and Obsidian.",
         "url": "https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/",
         "source": "TechCrunch",
         "published": "2026-02-18T17:41:46+00:00"
@@ -119,16 +183,8 @@
         "published": "2026-02-18T17:08:18+00:00"
       },
       {
-        "id": "b2395586bd62",
-        "title": "Billionaire Les Wexner to testify before Congress about ties to Epstein",
-        "summary": "Wexner, who has denied misconduct related to Epstein, is one of several subpoenaed by House oversight panelThe former boss of the Victoria’s Secret lingerie brand, Les Wexner, has provided a statement to Congress saying “I have done nothing wrong and have nothing to hide,” as he testifies on Wednesd...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/18/les-wexner-jeffrey-epstein-congress",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T16:47:25+00:00"
-      },
-      {
         "id": "5a2a76efff68",
-        "title": "Audible’s new ‘Read & Listen’ feature syncs your Kindle ebooks with audiobooks",
+        "title": "Audible’s new ‘Read & Listen’ feature syncs your Kindle e-books with audiobooks",
         "summary": "The feature will require customers to buy both versions of the title, but at a discounted price.",
         "url": "https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/",
         "source": "TechCrunch",
@@ -157,62 +213,6 @@
         "url": "https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/",
         "source": "Ars Technica - All content",
         "published": "2026-02-18T16:00:11+00:00"
-      },
-      {
-        "id": "1087a3d6103c",
-        "title": "Snapchat+ tops 25M subscribers, driving company’s direct revenue ARR to $1B",
-        "summary": "The revenue milestone comes as Snap has added additional paid offerings outside of its core Snapchat+ subscription over the past year to diversify its revenue streams.",
-        "url": "https://techcrunch.com/2026/02/18/snapchat-tops-25m-subscribers-driving-companys-direct-revenue-arr-to-1b/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T16:00:00+00:00"
-      },
-      {
-        "id": "97443c3e2a88",
-        "title": "Google adds music-generation capabilities to the Gemini app",
-        "summary": "Users will be able to use text, images, and videos as a reference to generate music.",
-        "url": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T16:00:00+00:00"
-      },
-      {
-        "id": "e9bd7ee311b5",
-        "title": "Britons living in EU face repayment hikes amid Reeves student loans row",
-        "summary": "Exclusive: UK graduates in Germany, Belgium and possibly other countries informed of rises as salary threshold is cutBritons living in some European countries face a huge rise in their student loan repayments later this year, the Guardian can reveal, in a move that threatens to trigger a fresh backl...",
-        "url": "https://www.theguardian.com/money/2026/feb/18/britons-living-in-europe-face-repayment-hikes-amid-reeves-student-loans-row",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T15:43:48+00:00"
-      },
-      {
-        "id": "e296724ed8eb",
-        "title": "Jim Ratcliffe’s shameless comments signal soccer’s turn toward total Trumpism | Leander Schaerlaeckens",
-        "summary": "What made the Manchester United co-owner’s anti-immigrant screed so revolting was his brazen willingness to say it all out loud. Remind you of anyone?Did British petrochemicals billionaire and Manchester United’s controlling minority owner, Sir Jim Ratcliffe, really mean it when he proclaimed to Sky...",
-        "url": "https://www.theguardian.com/sport/2026/feb/18/jim-ratcliffe-immigrant-comments-manchester-united-trump",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T15:13:06+00:00"
-      },
-      {
-        "id": "a54b98cef3d4",
-        "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
-        "summary": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
-        "url": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T15:08:40+00:00"
-      },
-      {
-        "id": "0b325c63607d",
-        "title": "Trump has done more than harm the government’s ability to fight global heating | Jamil Smith",
-        "summary": "By repealing the EPA’s determination that greenhouse gases threaten public health, the president is denying reality itselfThe climate crisis is killing people. These deaths are measurable, documented and ongoing. Concluding otherwise is just playing pretend. Studies explain the mechanics, but lived ...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/18/trump-epa-climate-crisis-public-health",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T15:00:35+00:00"
-      },
-      {
-        "id": "17874883c6d2",
-        "title": "Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear",
-        "summary": "Google's new budget phone is here, but don't expect a big upgrade.",
-        "url": "https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-18T15:00:34+00:00"
       }
     ],
     "破(day)": [
