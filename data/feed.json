@@ -1,26 +1,114 @@
 {
-  "updated_at": "2026-02-18T05:17:14.596844+00:00",
+  "updated_at": "2026-02-18T08:03:38.754105+00:00",
   "trending": [
-    "kaitlan collins",
-    "mick cronin",
-    "baylor vs kansas state",
-    "deandre ayton",
-    "texas tech basketball",
-    "iphone 18",
-    "ut martin basketball",
-    "sdsu basketball",
-    "oregon basketball",
-    "nevada basketball"
+    "tell me lies season 3 series finale",
+    "magda linette",
+    "winter storm warnings issued midwest",
+    "gas",
+    "amanda anisimova",
+    "clara tauson",
+    "janice tjen",
+    "tiki ghosn",
+    "weather los angeles",
+    "spectrum outage"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "b55a315fbb93",
+        "title": "UK inflation falls to near one-year low of 3% thanks to cheaper petrol, air fares and food – business live",
+        "summary": "Rolling coverage of the latest economic and financial news, including the UK inflation report for JanuaryThe chances of an interest rate cut next month have risen this morning, following the news that UK inflation fell to 3% in January.The money markets are now indicating that a quarter-point rate c...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/18/uk-inflation-fall-cost-of-living-interest-rates-house-prices-rents-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T07:55:05+00:00"
+      },
+      {
+        "id": "3100daa6bc66",
+        "title": "TfL Facebook ad banned for negative stereotype about black men",
+        "summary": "Ad was part of campaign to encourage Londoners to intervene if they witness sexual harassment or hate crimeA Transport for London (TfL) ad featuring a black teenage boy verbally harassing a white girl has been banned for “perpetuating the negative racial stereotype about black men as perpetrators of...",
+        "url": "https://www.theguardian.com/media/2026/feb/18/tfl-facebook-ad-banned-negative-stereotype-black-men",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T07:00:02+00:00"
+      },
+      {
+        "id": "3e69db70d351",
+        "title": "U.S. court bars OpenAI from using ‘Cameo’",
+        "summary": "OpenAI has renamed its feature in Sora from \"Cameo\" to \"Characters.\"",
+        "url": "https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T06:40:59+00:00"
+      },
+      {
+        "id": "961cbe66d19a",
+        "title": "US and Japan unveil $36bn of oil, gas and critical minerals projects in challenge to China",
+        "summary": "Donald Trump says deals ‘end our foolish dependence on foreign sources’, while Japanese PM hails enhanced economic securityJapan has drawn up plans for investments in US oil, gas and critical mineral projects worth about $36bn under the first wave of a deal with Donald Trump.The US president and San...",
+        "url": "https://www.theguardian.com/business/2026/feb/18/us-japan-critical-minerals-agreement-oil-gas-projects-deal",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T06:02:23+00:00"
+      },
+      {
+        "id": "2998965bc1ea",
+        "title": "China’s dancing robots: how worried should we be?",
+        "summary": "Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can doDancing humanoid robots took centre stage on Monday during the annual China Media Group’s Spring Festival Gala, China’s most-watched official television broadcast. They lunged and backflip...",
+        "url": "https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T05:19:09+00:00"
+      },
+      {
+        "id": "238c335839ad",
+        "title": "Should we be impressed or worried by China's humanoid robot display? – video",
+        "summary": "China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared to do martial arts alongside young performers. However, as the videos spread, viewers expressed both admiration and unease over the accelerating development of the machines. Ex...",
+        "url": "https://www.theguardian.com/technology/video/2026/feb/18/should-we-be-impressed-or-worried-by-china-humanoid-robot-display-video",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T05:18:47+00:00"
+      },
+      {
+        "id": "8899590e39b0",
+        "title": "From the archive: ‘Who remembers proper binmen?’ The nostalgia memes that help explain Britain today – podcast",
+        "summary": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the authors.This week, from 2022: Idealising the past is nothing new, but there is something peculiarly revealing about the way a certain generation of Facebook users look bac...",
+        "url": "https://www.theguardian.com/news/audio/2026/feb/18/from-the-archive-who-remembers-proper-binmen-the-nostalgia-memes-that-help-explain-britain-today-podcast",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T05:00:01+00:00"
+      },
+      {
+        "id": "4b5c967361b1",
+        "title": "Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south",
+        "summary": "Google, Anthropic and OpenAI bosses to mingle with global south leaders wrestling for control over technologySilicon Valley tech billionaires will land in Delhi this week for an AI summit hosted by India’s prime minister, Narendra Modi, where leaders of the global south will wrestle for control over...",
+        "url": "https://www.theguardian.com/technology/2026/feb/18/delhi-ai-expo-modi-jostles-lead-south",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T05:00:00+00:00"
+      },
+      {
         "id": "d0fe709f10be",
-        "title": "Tesla dodges 30-day suspension in California after removing Autopilot",
+        "title": "Tesla dodges 30-day suspension in California after removing ‘Autopilot’",
         "summary": "The decision comes a month after Tesla discontinued Autopilot, its basic driver-assistance system.",
         "url": "https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/",
         "source": "TechCrunch",
         "published": "2026-02-18T04:07:15+00:00"
+      },
+      {
+        "id": "44613ca8bf7f",
+        "title": "One in nine new homes in England built in areas of flood risk, study shows",
+        "summary": "Figures from Aviva also show number of homes being built in risky areas is risingOne in nine new homes in England built between 2022 and 2024 were constructed in areas that could now be at risk of flooding, according to new data.The figures show the number of homes being built in risky areas is on t...",
+        "url": "https://www.theguardian.com/environment/2026/feb/18/one-in-nine-new-homes-in-england-built-in-areas-of-flood-risk-study-shows",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T00:01:53+00:00"
+      },
+      {
+        "id": "058ff5968e44",
+        "title": "UK shoppers warned over spread of harmful and illegal skin lightening kits",
+        "summary": "Many products contain substances banned because of serious and sometimes irreversible health risks, says CTSIIllegal skin lightening products are being sold in an increasingly wide range of UK outlets, including butchers, specialist food shops and small grocery stores, trading standards officers hav...",
+        "url": "https://www.theguardian.com/society/2026/feb/18/uk-shopper-warning-illegal-skin-lightening-products",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T00:01:53+00:00"
+      },
+      {
+        "id": "a7f79085f0ca",
+        "title": "Training more Britons may not cut net migration or plug skills shortages, study finds",
+        "summary": "Local workers can be difficult to attract because of poor pay and conditions, say researchersKeir Starmer’s plan to force employers to be less reliant on overseas staff and instead train UK-based workers may not lower net migration, researchers have found.Skill shortages are just one of the factors ...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/18/training-more-uk-workers-may-not-cut-net-migration-report--",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T00:01:52+00:00"
       },
       {
         "id": "a2c26c307dcb",
@@ -29,6 +117,14 @@
         "url": "https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/",
         "source": "TechCrunch",
         "published": "2026-02-18T00:01:00+00:00"
+      },
+      {
+        "id": "67730e379d51",
+        "title": "Police probing claims that Epstein trafficked women through UK airports",
+        "summary": "Moves come after Gordon Brown’s claim that files show that US sex offender used Stansted airport in Essex to ‘fly in girls’ British police have expanded their interest in the convicted sex offender Jeffrey Epstein’s links to Britain, by admitting for the first time they are looking at claims he used...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/17/police-private-flights-stansted-publication-epstein-files",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T23:55:21+00:00"
       },
       {
         "id": "ec9c8e0c03cd",
@@ -47,12 +143,28 @@
         "published": "2026-02-17T23:43:21+00:00"
       },
       {
+        "id": "ff658932c229",
+        "title": "Bayer agrees to pay $7.25bn to settle Roundup weedkiller cancer lawsuits",
+        "summary": "Thousands of lawsuits accuse the agrochemical maker of failing to warn people that its weedkiller could cause cancerThe agrochemical maker Bayer and attorneys for cancer patients announced a proposed $7.25bn settlement on Tuesday to resolve thousands of US lawsuits alleging the company failed to war...",
+        "url": "https://www.theguardian.com/business/2026/feb/17/bayer-proposed-settlement-roundup-cancer-lawsuits",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T22:51:40+00:00"
+      },
+      {
         "id": "f90f6c272906",
         "title": "GameHub will give Mac owners another imperfect way to play Windows games",
         "summary": "GameHub's existing Windows emulator on Android has its fair share of issues.",
         "url": "https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/",
         "source": "Ars Technica - All content",
         "published": "2026-02-17T22:45:07+00:00"
+      },
+      {
+        "id": "35ad20f9dae0",
+        "title": "Arsenal announce rise in season-ticket prices for fifth consecutive season",
+        "summary": "Arsenal Supporters’ Trust ‘disappointed’ by increaseClub also confirm safe standing at Clock End next yearArsenal have announced that season-ticket prices will rise for a fifth consecutive season, with the cost of a ticket for the most dedicated fans rising by an average of 3.9%.The Premier League l...",
+        "url": "https://www.theguardian.com/football/2026/feb/17/mikel-arteta-arsenal-warmup-routines-players-injury",
+        "source": "Business | The Guardian",
+        "published": "2026-02-17T22:30:14+00:00"
       },
       {
         "id": "f4b6ccf20e0e",
@@ -101,118 +213,6 @@
         "url": "https://www.theguardian.com/society/2026/feb/17/its-soul-crushing-young-people-battle-bleak-jobs-market-as-youth-unemployment-rises",
         "source": "Business | The Guardian",
         "published": "2026-02-17T19:17:08+00:00"
-      },
-      {
-        "id": "41c4c7c20697",
-        "title": "Stephen Colbert says CBS forbid interview of Democrat because of FCC threat",
-        "summary": "Colbert: \"I want to assure you this decision is for purely financial reasons.\"",
-        "url": "https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T19:01:05+00:00"
-      },
-      {
-        "id": "b18783c8ffc5",
-        "title": "Climactic launches hybrid fund to get startups through the ‘valley of death’",
-        "summary": "The new project, called Material Scale, will initially focus on climate tech startups in the apparel industry.",
-        "url": "https://techcrunch.com/2026/02/17/climactic-launches-hybrid-fund-to-get-startups-through-the-valley-of-death/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T18:57:57+00:00"
-      },
-      {
-        "id": "071477d3e502",
-        "title": "Most VMware users still \"actively reducing their VMware footprint,\" survey finds",
-        "summary": "Broadcom's \"strategy was never to keep every customer,\" CloudBolt report says.",
-        "url": "https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T18:38:10+00:00"
-      },
-      {
-        "id": "03b747592ad3",
-        "title": "What happens to a car when the company behind its software goes under?",
-        "summary": "Connected car servers won't be online indefinitely, and startups often go bust.",
-        "url": "https://arstechnica.com/cars/2026/02/what-happens-to-a-car-when-the-company-behind-its-software-goes-under/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T18:15:31+00:00"
-      },
-      {
-        "id": "fe1eb3068279",
-        "title": "Anthropic releases Sonnet 4.6",
-        "summary": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
-        "url": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T18:00:00+00:00"
-      },
-      {
-        "id": "2625daba7b1d",
-        "title": "Goldman Sachs to drop race, gender and LGBTQ+ criteria from board evaluations",
-        "summary": "The move follows pressure from an activist shareholder group seeking end to DEI requirementsGoldman Sachs is removing race, gender and other diversity-related considerations when evaluating prospective candidates for its executive board after pressure from an activist shareholder group to remove the...",
-        "url": "https://www.theguardian.com/business/2026/feb/17/goldman-sachs-board-diversity-candidates-nlpc",
-        "source": "Business | The Guardian",
-        "published": "2026-02-17T17:59:34+00:00"
-      },
-      {
-        "id": "64893cf8b24f",
-        "title": "RAM shortage hits Valve's four-year-old Steam Deck, now available \"intermittently\"",
-        "summary": "Forget launching new stuff—Valve is even having problems with existing hardware.",
-        "url": "https://arstechnica.com/gadgets/2026/02/valves-steam-deck-intermittently-out-of-stock-as-ram-shortage-drags-on/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T17:56:14+00:00"
-      },
-      {
-        "id": "195c7d5b2432",
-        "title": "Jim Ratcliffe’s repugnant words have sullied Manchester United’s reputation | Letters",
-        "summary": "Readers respond to the billionaire Manchester United co-owner’s remark that ‘the UK is being colonised by immigrants’In response to the billionaire industrialist and Manchester United co-owner Jim Ratcliffe’s historically, economically and culturally illiterate and deeply offensive remark that “the ...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/17/jim-ratcliffe-repugnant-words-have-sullied-manchester-united-reputation",
-        "source": "Business | The Guardian",
-        "published": "2026-02-17T17:39:50+00:00"
-      },
-      {
-        "id": "aa3c95d2bfd9",
-        "title": "Developers will only bring us more car-dependent sprawl | Letters",
-        "summary": "Jon Reeds on low-density developments, plus a letter from Richard EltringhamIt is disappointing to see the huge urban sprawl at Gilston, north of Harlow, described as rejecting “car‑centric models” (A new town for the 21st century?, 9 February).Big, ultra-low-density developments like this, far from...",
-        "url": "https://www.theguardian.com/society/2026/feb/17/developers-will-only-bring-us-more-car-dependent-sprawl",
-        "source": "Business | The Guardian",
-        "published": "2026-02-17T17:39:26+00:00"
-      },
-      {
-        "id": "e391724e43f0",
-        "title": "Health support needed to tackle joblessness | Letter",
-        "summary": "Health-centred approaches that help individuals stay in or return to work are needed, says Nick PahlThe alarming rise in economic inactivity highlighted in your report (UK sleepwalking into joblessness epidemic, Tesco boss warns, 10 February) underlines a public health issue as much as an economic o...",
-        "url": "https://www.theguardian.com/society/2026/feb/17/health-support-needed-to-tackle-joblessness",
-        "source": "Business | The Guardian",
-        "published": "2026-02-17T17:39:19+00:00"
-      },
-      {
-        "id": "abbb0c744962",
-        "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
-        "summary": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
-        "url": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T17:22:09+00:00"
-      },
-      {
-        "id": "bc3343a72b05",
-        "title": "Warner Bros. rejects Paramount again but asks for \"best and final offer\"",
-        "summary": "WB board officially recommends Netflix deal but asks Paramount to increase price.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/warner-bros-gives-paramount-one-more-week-to-beat-netflix-merger-offer/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T17:17:17+00:00"
-      },
-      {
-        "id": "5766acb5c5e4",
-        "title": "SpaceX vets raise $50M Series A for data center links",
-        "summary": "Mesh aims to mass-produce optical transceivers for AI data centers.",
-        "url": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T17:00:00+00:00"
-      },
-      {
-        "id": "ed0d10e9b2e2",
-        "title": "There's a lot of big talk about sovereign launch—who is doing something about it?",
-        "summary": "As alliances fray, these are the nations investing in sovereign access to space.",
-        "url": "https://arstechnica.com/space/2026/02/which-countries-are-actually-serious-about-developing-their-own-rockets/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T16:47:11+00:00"
       }
     ],
     "破(day)": [
