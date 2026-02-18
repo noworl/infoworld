@@ -1,19 +1,155 @@
 {
-  "updated_at": "2026-02-18T14:36:23.690358+00:00",
+  "updated_at": "2026-02-18T18:00:26.781586+00:00",
   "trending": [
-    "aryan dutt",
-    "deland mccullough",
-    "daniil medvedev",
-    "kate hudson",
-    "mikaela shiffrin",
-    "thomas hammock",
-    "delroy lindo",
-    "pakistan national cricket team vs namibia national cricket team standings",
-    "paula moltzan",
-    "t20 world cup schedule"
+    "pixel 10a",
+    "wolves vs arsenal",
+    "olympics hockey schedule",
+    "al-nassr vs arkadag",
+    "rashee rice",
+    "mark zuckerberg",
+    "25th amendment",
+    "qarabag fk vs newcastle",
+    "jannik sinner",
+    "olympic mens hockey"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "148c2768e0a2",
+        "title": "Google debuts $499 Pixel 10a",
+        "summary": "The smartphone is available for preorder now with shipments starting March 5.  It comes in Lavender, Berry, Fog, and Obsidian.",
+        "url": "https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T17:41:46+00:00"
+      },
+      {
+        "id": "834fa514d487",
+        "title": "FDA does U-turn, will review Moderna's mRNA flu shot after shocking rejection",
+        "summary": "Trump admin's vaccine chief overruled FDA scientists to initially reject the shot.",
+        "url": "https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-18T17:08:18+00:00"
+      },
+      {
+        "id": "b2395586bd62",
+        "title": "Billionaire Les Wexner to testify before Congress about ties to Epstein",
+        "summary": "Wexner, who has denied misconduct related to Epstein, is one of several subpoenaed by House oversight panelThe former boss of the Victoria’s Secret lingerie brand, Les Wexner, has provided a statement to Congress saying “I have done nothing wrong and have nothing to hide,” as he testifies on Wednesd...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/18/les-wexner-jeffrey-epstein-congress",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T16:47:25+00:00"
+      },
+      {
+        "id": "5a2a76efff68",
+        "title": "Audible’s new ‘Read & Listen’ feature syncs your Kindle ebooks with audiobooks",
+        "summary": "The feature will require customers to buy both versions of the title, but at a discounted price.",
+        "url": "https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T16:20:09+00:00"
+      },
+      {
+        "id": "f8ac199f9a3a",
+        "title": "X continues to bet on vertical video with its latest update",
+        "summary": "X's new immersive video player is designed to offer a more mobile-friendly experience, optimized especially for portrait-oriented videos.",
+        "url": "https://techcrunch.com/2026/02/18/x-continues-to-bet-on-vertical-video-with-its-latest-update/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T16:15:12+00:00"
+      },
+      {
+        "id": "ed51e7a9d8a2",
+        "title": "‘By the end of the day we’re just knackered’: business booms for UK’s south Asian jewellers as gold prices soar",
+        "summary": "Economic uncertainty drives customers to snap up 22-carat gold bars and coins or sell off unworn jewellery“With everything that’s going on in the economy and Donald Trump banging his chest against the world, we’re finding there’s no trust in the banks because we don’t know what’s going to happen,” S...",
+        "url": "https://www.theguardian.com/business/2026/feb/18/business-uk-south-asian-jewellers-gold-prices-soar",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T16:00:56+00:00"
+      },
+      {
+        "id": "ac08fea32812",
+        "title": "Stone, parchment or laser-written glass? Scientists find new way to preserve data",
+        "summary": "Hard disks and magnetic tape have a limited lifespan, but glass storage developed by Microsoft could last millenniaSome cultures used stone, others used parchment. Some even, for a time, used floppy disks. Now scientists have come up with a new way to keep archived data safe that, they say, could en...",
+        "url": "https://www.theguardian.com/technology/2026/feb/18/scientists-new-way-preserve-data-microsoft",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T16:00:56+00:00"
+      },
+      {
+        "id": "772f766b7dd6",
+        "title": "Record scratch—Google's Lyria 3 AI music model is coming to Gemini today",
+        "summary": "With a simple prompt, you can generate 30 seconds of something like music.",
+        "url": "https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-18T16:00:11+00:00"
+      },
+      {
+        "id": "1087a3d6103c",
+        "title": "Snapchat+ tops 25M subscribers, driving company’s direct revenue ARR to $1B",
+        "summary": "The revenue milestone comes as Snap has added additional paid offerings outside of its core Snapchat+ subscription over the past year to diversify its revenue streams.",
+        "url": "https://techcrunch.com/2026/02/18/snapchat-tops-25m-subscribers-driving-companys-direct-revenue-arr-to-1b/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T16:00:00+00:00"
+      },
+      {
+        "id": "97443c3e2a88",
+        "title": "Google adds music-generation capabilities to the Gemini app",
+        "summary": "Users will be able to use text, images, and videos as a reference to generate music.",
+        "url": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T16:00:00+00:00"
+      },
+      {
+        "id": "e9bd7ee311b5",
+        "title": "Britons living in EU face repayment hikes amid Reeves student loans row",
+        "summary": "Exclusive: UK graduates in Germany, Belgium and possibly other countries informed of rises as salary threshold is cutBritons living in some European countries face a huge rise in their student loan repayments later this year, the Guardian can reveal, in a move that threatens to trigger a fresh backl...",
+        "url": "https://www.theguardian.com/money/2026/feb/18/britons-living-in-europe-face-repayment-hikes-amid-reeves-student-loans-row",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T15:43:48+00:00"
+      },
+      {
+        "id": "e296724ed8eb",
+        "title": "Jim Ratcliffe’s shameless comments signal soccer’s turn toward total Trumpism | Leander Schaerlaeckens",
+        "summary": "What made the Manchester United co-owner’s anti-immigrant screed so revolting was his brazen willingness to say it all out loud. Remind you of anyone?Did British petrochemicals billionaire and Manchester United’s controlling minority owner, Sir Jim Ratcliffe, really mean it when he proclaimed to Sky...",
+        "url": "https://www.theguardian.com/sport/2026/feb/18/jim-ratcliffe-immigrant-comments-manchester-united-trump",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T15:13:06+00:00"
+      },
+      {
+        "id": "a54b98cef3d4",
+        "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
+        "summary": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
+        "url": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T15:08:40+00:00"
+      },
+      {
+        "id": "0b325c63607d",
+        "title": "Trump has done more than harm the government’s ability to fight global heating | Jamil Smith",
+        "summary": "By repealing the EPA’s determination that greenhouse gases threaten public health, the president is denying reality itselfThe climate crisis is killing people. These deaths are measurable, documented and ongoing. Concluding otherwise is just playing pretend. Studies explain the mechanics, but lived ...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/18/trump-epa-climate-crisis-public-health",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T15:00:35+00:00"
+      },
+      {
+        "id": "17874883c6d2",
+        "title": "Google's Pixel 10a arrives on March 5 for $499 with specs and design of yesteryear",
+        "summary": "Google's new budget phone is here, but don't expect a big upgrade.",
+        "url": "https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-18T15:00:34+00:00"
+      },
+      {
+        "id": "8c3fa42d7ee5",
+        "title": "This former Microsoft PM thinks she can unseat CyberArk in 18 months",
+        "summary": "Though crowded, the identity management market seems eager for new solutions, and Venice is finding traction.",
+        "url": "https://techcrunch.com/2026/02/18/the-former-microsoft-pm-who-thinks-she-can-unseat-cyberark-in-18-months/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T15:00:00+00:00"
+      },
+      {
+        "id": "6de4bc2b5c5a",
+        "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
+        "summary": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.",
+        "url": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T14:44:28+00:00"
+      },
       {
         "id": "45d872718dce",
         "title": "OpenAI pushes into higher education as India seeks to scale AI skills",
@@ -23,12 +159,20 @@
         "published": "2026-02-18T14:32:42+00:00"
       },
       {
-        "id": "b55a315fbb93",
-        "title": "March cut to UK interest rates more likely after inflation drops to 10-month low; London house prices fall – business live",
-        "summary": "FTSE 100 hits record high  after UK inflation falls to 3% in January, thanks to cheaper petrol and air fares, and a slowdown in food inflation The chances of an interest rate cut next month have risen this morning, following the news that UK inflation fell to 3% in January.The money markets are now ...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/18/uk-inflation-fall-cost-of-living-interest-rates-house-prices-rents-news-updates",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T14:16:53+00:00"
+        "id": "d54f52be1a6e",
+        "title": "X-rays reveal kingfisher feather structure in unprecedented detail",
+        "summary": "Synchrotron radiation imaging revealed a porous, almost sponge-like nanostructure to create bright hues",
+        "url": "https://arstechnica.com/science/2026/02/what-the-chinese-art-of-tian-tsui-has-to-do-with-kingfishers/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-18T14:24:36+00:00"
+      },
+      {
+        "id": "e8ed7154572d",
+        "title": "Inside the DHS forum where ICE agents trash talk one another",
+        "summary": "Forum members have discussed their discomfort with mass deportation efforts.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-18T14:14:06+00:00"
       },
       {
         "id": "c76bb32d1319",
@@ -37,6 +181,14 @@
         "url": "https://www.theguardian.com/money/2026/feb/18/household-energy-bills-in-great-britain-forecast-to-fall",
         "source": "Business | The Guardian",
         "published": "2026-02-18T14:13:26+00:00"
+      },
+      {
+        "id": "df2ae80a10a9",
+        "title": "Romania in safety drive to improve EU’s deadliest roads",
+        "summary": "Government takes its first serious steps to crack down on dangerous driving but progress is slowEurope live – latest updatesThe first time Lucian Mîndruță crashed his car, he swerved to avoid a village dog and hit another vehicle. The second time, he missed a right-of-way sign and was struck by a ca...",
+        "url": "https://www.theguardian.com/world/2026/feb/18/romania-improve-safety-roads-crack-down-dangerous-driving",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T14:00:34+00:00"
       },
       {
         "id": "bf577b04e7f7",
@@ -61,161 +213,49 @@
         "url": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
         "source": "TechCrunch",
         "published": "2026-02-18T13:01:04+00:00"
-      },
-      {
-        "id": "ed21c91a733f",
-        "title": "The bogus four-day workweek that AI supposedly ‘frees up’",
-        "summary": "Business leaders tout AI as a path to shorter weeks and better balance. But without power, workers are unlikely to share the gainsThe front-page headline in a recent Washington Post was breathless: “These companies say AI is key to their four-day workweeks.” The subhead was euphoric: “Some companies...",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T13:00:34+00:00"
-      },
-      {
-        "id": "43db66b684a4",
-        "title": "US sanctions, power cuts, climate crisis: why Cuba is betting on renewables",
-        "summary": "With Trump blocking Venezuelan oil imports and old power plants breaking down, the island – with Chinese help – is turning to solar and wind to bolster its fragile energy systemIntense heat hangs over the sugarcane fields near Cuba’s eastern coast. In the village of Herradura, a blond-maned horse re...",
-        "url": "https://www.theguardian.com/global-development/2026/feb/18/us-sanctions-power-cuts-climate-crisis-why-cuba-is-betting-on-renewables",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T13:00:32+00:00"
-      },
-      {
-        "id": "6df0c05746b8",
-        "title": "Heron Power raises $140M to ramp production of grid-altering tech",
-        "summary": "Tesla alumni Drew Baglino raises a large round to build a giga-scale factory, this time at his own startup.",
-        "url": "https://techcrunch.com/2026/02/18/heron-power-raises-140m-to-ramp-production-of-grid-altering-tech/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T13:00:00+00:00"
-      },
-      {
-        "id": "2e342018df14",
-        "title": "Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI",
-        "summary": "The new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
-        "url": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T12:55:20+00:00"
-      },
-      {
-        "id": "639ad2988c69",
-        "title": "DG Matrix raises $60M to make data center power smarter",
-        "summary": "The startup is making solid-state transformers capable of intelligently aggregating power from a number of different sources before sending it to data center racks.",
-        "url": "https://techcrunch.com/2026/02/18/dg-matrix-raises-60m-to-make-data-center-power-smarter/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T12:30:00+00:00"
-      },
-      {
-        "id": "a59b3bc00c79",
-        "title": "Ministers may slow youth minimum wage rise amid UK unemployment fears",
-        "summary": "Government considering delay to equalising national minimum wage after jump in youth unemploymentUK politics live – latest updatesMinisters are considering a slower rise in the minimum wage for younger workers, amid fears over rising youth unemployment.Labour had promised in its manifesto to equalis...",
-        "url": "https://www.theguardian.com/society/2026/feb/18/ministers-may-slow-youth-minimum-wage-rise-uk-unemployment-fears",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T12:14:24+00:00"
-      },
-      {
-        "id": "2cb166247aa0",
-        "title": "Hallucinogen DMT an effective antidepressant in small clinical trial",
-        "summary": "Effectiveness appears to correlate with self-described mystical experience.",
-        "url": "https://arstechnica.com/health/2026/02/hallucinogen-dmt-an-effective-antidepressant-in-small-clinical-trial/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-18T12:00:37+00:00"
-      },
-      {
-        "id": "a1bb8749ad36",
-        "title": "‘Like an electrical gong bath!’ The Sheffield supermarket going viral for the symphonic sound of its freezers",
-        "summary": "Redditors are thrilled by the Co-op on Ecclesall Road, where a magnificent drone is reminiscent of Brian Eno’s ambient music. We take a visit to the back aislesThere’s a new sound gripping Sheffield. You won’t find it at one of the city’s eclectic jazz nights; nor in any of its clubs or live music v...",
-        "url": "https://www.theguardian.com/music/2026/feb/18/the-sheffield-supermarket-going-viral-for-the-symphonic-sound-of-its-freezers",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T11:48:31+00:00"
-      },
-      {
-        "id": "a1ea1fd11cff",
-        "title": "Boss of BAE Systems urges ministers to publish delayed military spending plan",
-        "summary": "CEO of UK’s biggest defence company says delay is holding back industry investment as BAE posts record salesThe boss of Britain’s biggest defence company has urged ministers to publish a long-delayed blueprint for military spending as soon as possible, as it posted record sales driven by a global in...",
-        "url": "https://www.theguardian.com/politics/2026/feb/18/bae-systems-urges-ministers-to-publish-delayed-military-spending-defence-investment-plan",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T10:36:46+00:00"
-      },
-      {
-        "id": "9d243ead9310",
-        "title": "Ryanair may let dual nationals board UK flights with an expired British passport",
-        "summary": "Airline statement will reassure Britons abroad anxious about new immigration rules coming into effect next weekBritish dual nationals may be able to board Ryanair flights in Europe to the UK even if they do not have a current British passport when new immigration rules come into force next week, the...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/18/ryanair-may-let-dual-nationals-board-uk-flights-without-a-british-passport",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T10:33:35+00:00"
-      },
-      {
-        "id": "c365f0941f9a",
-        "title": "The brutal hunt for low-paid work: ‘It’s like The Hunger Games – but for a job folding clothes’",
-        "summary": "It used to be fairly easy to get work that paid at or around the minimum wage. But with a shrinking number of positions come ever more hoops to jump through, from personality tests, to trial shifts, to towers constructed of marshmallowsIt is 10.30am, and Zahra is sitting in a business centre in Pres...",
-        "url": "https://www.theguardian.com/money/2026/feb/18/entry-level-recruitment-low-paid-jobs-wage",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T10:00:04+00:00"
-      },
-      {
-        "id": "9cac7dea954a",
-        "title": "Miner Glencore to give $2bn to shareholders despite profit slump",
-        "summary": "FTSE 100 company reports 6% fall in annual profits weeks after collapse of $260bn merger with Rio TintoGlencore is to give $2bn (£1.47bn) to shareholders after a turbulent year in which profits slumped and talks collapsed over a blockbuster $260bn merger with the fellow mining company Rio Tinto.The ...",
-        "url": "https://www.theguardian.com/business/2026/feb/18/miner-glencore-shareholders-profit-slump",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T09:15:43+00:00"
-      },
-      {
-        "id": "3100daa6bc66",
-        "title": "TfL Facebook ad banned for negative stereotype about black men",
-        "summary": "Ad was part of campaign to encourage Londoners to intervene if they witness sexual harassment or hate crimeA Transport for London (TfL) ad featuring a black teenage boy verbally harassing a white girl has been banned for “perpetuating the negative racial stereotype about black men as perpetrators of...",
-        "url": "https://www.theguardian.com/media/2026/feb/18/tfl-facebook-ad-banned-negative-stereotype-black-men",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T07:00:02+00:00"
-      },
-      {
-        "id": "8abc26f1c331",
-        "title": "Hazardous substances found in all headphones tested by ToxFREE project",
-        "summary": "Substances include chemicals that can cause cancer, neurodevelopmental problems and the feminisation of malesYou wear them at work, you wear them at play, you wear them to relax. You may even get sweaty in them at the gym.But an investigation into headphones has found every single pair tested contai...",
-        "url": "https://www.theguardian.com/technology/2026/feb/18/hazardous-substances-headphones",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T07:00:02+00:00"
-      },
-      {
-        "id": "3e69db70d351",
-        "title": "U.S. court bars OpenAI from using ‘Cameo’",
-        "summary": "OpenAI has renamed its feature in Sora from \"Cameo\" to \"Characters.\"",
-        "url": "https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T06:40:59+00:00"
-      },
-      {
-        "id": "961cbe66d19a",
-        "title": "US and Japan unveil $36bn of oil, gas and critical minerals projects in challenge to China",
-        "summary": "Donald Trump says deals ‘end our foolish dependence on foreign sources’, while Japanese PM hails enhanced economic securityJapan has drawn up plans for investments in US oil, gas and critical mineral projects worth about $36bn under the first wave of a deal with Donald Trump.The US president and San...",
-        "url": "https://www.theguardian.com/business/2026/feb/18/us-japan-critical-minerals-agreement-oil-gas-projects-deal",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T06:02:23+00:00"
-      },
-      {
-        "id": "2998965bc1ea",
-        "title": "China’s dancing robots: how worried should we be?",
-        "summary": "Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can doDancing humanoid robots took centre stage on Monday during the annual China Media Group’s Spring Festival Gala, China’s most-watched official television broadcast. They lunged and backflip...",
-        "url": "https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T05:19:09+00:00"
-      },
-      {
-        "id": "238c335839ad",
-        "title": "Should we be impressed or worried by China's humanoid robot display? – video",
-        "summary": "China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared to do martial arts alongside young performers. However, as the videos spread, viewers expressed both admiration and unease over the accelerating development of the machines. Ex...",
-        "url": "https://www.theguardian.com/technology/video/2026/feb/18/should-we-be-impressed-or-worried-by-china-humanoid-robot-display-video",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T05:18:47+00:00"
-      },
-      {
-        "id": "8899590e39b0",
-        "title": "From the archive: ‘Who remembers proper binmen?’ The nostalgia memes that help explain Britain today – podcast",
-        "summary": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the authors.This week, from 2022: Idealising the past is nothing new, but there is something peculiarly revealing about the way a certain generation of Facebook users look bac...",
-        "url": "https://www.theguardian.com/news/audio/2026/feb/18/from-the-archive-who-remembers-proper-binmen-the-nostalgia-memes-that-help-explain-britain-today-podcast",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T05:00:01+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "46e999cc60e4",
+        "title": "The A.I. Disruption We’ve Been Waiting for Has Arrived",
+        "summary": "The A.I. Disruption We’ve Been Waiting for Has Arrived\nNew opinion piece from Paul Ford in the New York Times. Unsurprisingly for a piece by Paul it's packed with quoteworthy snippets, but a few stood out for me in particular.\nPaul describes the November moment that so many other programmers have ob...",
+        "url": "https://simonwillison.net/2026/Feb/18/the-ai-disruption/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-18T17:07:31+00:00"
+      },
+      {
+        "id": "3d0fc4ff98e7",
+        "title": "Quoting Martin Fowler",
+        "summary": "LLMs are eating specialty skills. There will be less use of specialist front-end and back-end developers as the LLM-driving skills become more important than the details of platform usage. Will this lead to a greater recognition of the role of Expert Generalists? Or will the ability of LLMs to write...",
+        "url": "https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-18T16:50:07+00:00"
+      },
+      {
+        "id": "c083395c7245",
+        "title": "Finger princesses: are these the biggest villains of the chat group?",
+        "summary": "We all know one – and there’s a good chance you fall into the category yourself. Here’s how to recognise if you’re a ‘walking, talking red flag’ …Name: Finger princess.Age: The term circulated this month, but the behaviour has been escalating across digital communication for some time. Continue read...",
+        "url": "https://www.theguardian.com/technology/2026/feb/18/finger-princesses-whatsapp-annoying-group-chat",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-18T15:50:04+00:00"
+      },
+      {
+        "id": "591033a6b6c3",
+        "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn’t Offer Much Proof",
+        "summary": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
+        "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
+        "source": "Science Latest",
+        "published": "2026-02-18T15:17:31+00:00"
+      },
+      {
+        "id": "1dc548b5b7b4",
+        "title": "The best kettles in the UK to save energy and speed up your cuppa, tested",
+        "summary": "We boiled litres of water to find the best electric kettles, from hard-water heroes to vintage-style, repairable and wifi-connected models• The best air fryers, tried and tested for crisp and crunchDespite the march of progress, the humble kettle remains a kitchen staple. It’s what we turn to in tim...",
+        "url": "https://www.theguardian.com/thefilter/2025/jul/22/best-electric-kettles-uk",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-18T15:00:16+00:00"
+      },
       {
         "id": "1fafd7a54df2",
         "title": "Is it smarter to have a dumb home? ‘We’ve seen clients unable to flush toilets’",
@@ -313,14 +353,6 @@
         "published": "2026-02-17T23:02:33+00:00"
       },
       {
-        "id": "a5ab52a31953",
-        "title": "Palantir moves headquarters to Miami amid tech’s growing retreat to Florida",
-        "summary": "Data analytics firm moves from Denver after about six years and joins host of businesses relocating to south Florida Palantir announced on Tuesday that it has moved its headquarters to Miami from Denver. The data analytics company, criticized for its role in the Trump administration’s immigration cr...",
-        "url": "https://www.theguardian.com/technology/2026/feb/17/palantir-moves-headquarters-miami",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-17T20:20:29+00:00"
-      },
-      {
         "id": "e12418e1e513",
         "title": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
         "summary": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
@@ -353,14 +385,6 @@
         "published": "2026-02-17T18:06:02+00:00"
       },
       {
-        "id": "499ff5ab4a5e",
-        "title": "Race for AI is making Hindenburg-style disaster ‘a real risk’, says leading expert",
-        "summary": "Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interestThe race to get artificial intelligence to market has raised the risk of a Hindenburg-style disaster that shatters global confidence in the technology, a leading researcher has warned...",
-        "url": "https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-17T18:01:13+00:00"
-      },
-      {
         "id": "b9d179485100",
         "title": "Quoting ROUGH DRAFT 8/2/66",
         "summary": "This is the story of the United Space Ship Enterprise. Assigned a five year patrol of our galaxy, the giant starship visits Earth colonies, regulates commerce, and explores strange new worlds and civilizations. These are its voyages... and its adventures.\n&mdash; ROUGH DRAFT 8/2/66, before the Star ...",
@@ -391,33 +415,17 @@
         "url": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
         "source": "Science Latest",
         "published": "2026-02-17T11:00:00+00:00"
-      },
-      {
-        "id": "5851a92098d4",
-        "title": "Openreach said yes to full fibre broadband, then branded it ‘uneconomical’",
-        "summary": "Its ‘fibre checker’ tool confirmed I could have a connection, but a month later it changed its mindMy internet provider informed me by email that full fibre broadband had become available for my property, confirmed by Openreach’s “fibre checker” tool. After a month, Openreach declared the connection...",
-        "url": "https://www.theguardian.com/money/2026/feb/17/openreach-full-fibre-broadband-uneconomical",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-17T07:00:02+00:00"
-      },
-      {
-        "id": "343539303cf0",
-        "title": "The Small English Town Swept Up in the Global AI Arms Race",
-        "summary": "The residents of Potters Bar are working to protect the “greenbelt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
-        "url": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
-        "source": "Business Latest",
-        "published": "2026-02-17T07:00:00+00:00"
-      },
-      {
-        "id": "6e1d9d6377d6",
-        "title": "Nano Banana Pro diff to webcomic",
-        "summary": "Given the threat of cognitive debt brought on by AI-accelerated software development leading to more projects and less deep understanding of how they work and what they actually do, it's interesting to consider artifacts that might be able to help.\nNathan Baschez on Twitter:\n\nmy current favorite tri...",
-        "url": "https://simonwillison.net/2026/Feb/17/release-notes-webcomic/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-17T04:51:58+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "dfe94e9bc23e",
+        "title": "Happy In A Silent Way Day to all who celebrate",
+        "summary": "Today is the anniversary of the recording session for the best Miles Davis album, and in its honor, I did a podcast two-parter. In A Silent Way, side A: &#8220;Shhh/Peaceful&#8221; by Dr. Ethan Hein The conceptually weirdest Miles Davis album is also the best one Read on Substack In A Silent Way, si...",
+        "url": "https://www.ethanhein.com/wp/2026/happy-in-a-silent-way-day-to-all-who-celebrate/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-02-18T14:17:42+00:00"
+      },
       {
         "id": "f861c195e653",
         "title": "Wayback Machine Director Pushes Back on AI Scraping Fears Driving Archive Blocks",
@@ -609,14 +617,6 @@
         "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260202/",
         "source": "中央研究院人社中心地理資訊科學研究專題中心",
         "published": "2026-02-01T19:58:15+00:00"
-      },
-      {
-        "id": "41c82052ee40",
-        "title": "本專題中心同仁發表國際期刊論文一篇",
-        "summary": "本專題中心詹大千研究員、兼任研究助理政治大學地政所林佳瑢同學、研究助理范志中先生及唐嘉宏博士（目前任教於淡江大 [&#8230;]",
-        "url": "https://gis.rchss.sinica.edu.tw/paper_20260131/",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心",
-        "published": "2026-02-01T19:49:26+00:00"
       }
     ]
   }
