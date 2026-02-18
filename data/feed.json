@@ -1,19 +1,107 @@
 {
-  "updated_at": "2026-02-18T18:00:26.781586+00:00",
+  "updated_at": "2026-02-18T20:02:20.546077+00:00",
   "trending": [
-    "pixel 10a",
-    "wolves vs arsenal",
-    "olympics hockey schedule",
-    "al-nassr vs arkadag",
-    "rashee rice",
-    "mark zuckerberg",
-    "25th amendment",
-    "qarabag fk vs newcastle",
-    "jannik sinner",
-    "olympic mens hockey"
+    "olympiacos vs leverkusen",
+    "club brujas - atlético madrid",
+    "club brugge vs atlético madrid",
+    "bodø/glimt vs inter",
+    "milan - como",
+    "milan vs como",
+    "diego garcia",
+    "kaila kuhn",
+    "alexandra eala",
+    "phish summer tour 2026"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "1d129303bfdf",
+        "title": "Zuckerberg grilled in landmark social media trial over teen mental health",
+        "summary": "Meta chief says it has improved identifying underage users but adds ‘I always wish we could have gotten there sooner’The Meta CEO, Mark Zuckerberg, testified at a landmark trial of social media companies on Wednesday. Plaintiffs’ lawyers grilled Zuckerberg about internal complaints that not enough w...",
+        "url": "https://www.theguardian.com/technology/2026/feb/18/mark-zuckerberg-meta-trial-testimony",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T19:37:17+00:00"
+      },
+      {
+        "id": "cd4d29f281ca",
+        "title": "5 changes to know about in Apple's latest iOS, macOS, and iPadOS betas",
+        "summary": "The 26.3 updates were mostly invisible; these changes are more significant.",
+        "url": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-18T19:28:26+00:00"
+      },
+      {
+        "id": "9d243ead9310",
+        "title": "‘Grace period’ needed for dual nationals returning to UK on second passport, say Lib Dems",
+        "summary": "Will Forster MP says ‘lack of planning and haphazard communication’ on new border rules has caused chaosA “grace period” should be introduced for British dual nationals living, working or holidaying abroad who face being blocked from returning to the UK if they do not have an up-to-date British pass...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/18/ryanair-may-let-dual-nationals-board-uk-flights-without-a-british-passport",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T19:18:26+00:00"
+      },
+      {
+        "id": "14cc6a3cbd40",
+        "title": "SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
+        "summary": "SeatGeek announced on Wednesday a new integration with Spotify, bringing a seamless ticket-buying experience for Spotify users.&#160; Now, when Spotify users browse an artist’s page or upcoming tour dates, they will see ticket links powered by SeatGeek for concerts at these participating venues, all...",
+        "url": "https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T19:07:40+00:00"
+      },
+      {
+        "id": "5c1a3aec0170",
+        "title": "Microsoft's new 10,000-year data storage medium: glass",
+        "summary": "Femtosecond lasers etch data into a very stable medium.",
+        "url": "https://arstechnica.com/science/2026/02/microsofts-new-10000-year-data-storage-medium-glass/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-18T19:01:55+00:00"
+      },
+      {
+        "id": "1c14b5e609a5",
+        "title": "Plug-in hybrids use three times more fuel than manufacturers claim, analysis finds",
+        "summary": "While most hybrids are said to use one to two litres of fuel per 100km, a study claims they need six litres on averagePlug-in hybrid electric cars (PHEVs) use much more fuel on the road than officially stated by their manufacturers, a large-scale analysis of about a million vehicles of this type has...",
+        "url": "https://www.theguardian.com/environment/2026/feb/18/plug-in-hybrids-use-three-times-more-fuel-than-manufacturers-claim-analysis-finds",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T18:41:26+00:00"
+      },
+      {
+        "id": "2323d5e08437",
+        "title": "Amazon halts Blue Jay robotics project after less than six months",
+        "summary": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
+        "url": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T18:27:10+00:00"
+      },
+      {
+        "id": "45e350ad85f1",
+        "title": "Mastodon, a decentralized alternative to X, plans to target creators with new features",
+        "summary": "Mastodon is looking to grow its open source, decentralized social network with new features aimed at creators.",
+        "url": "https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T18:19:14+00:00"
+      },
+      {
+        "id": "709984f861c5",
+        "title": "Data breach at fintech giant Figure affects close to a million customers",
+        "summary": "The Figure data breach allowed hackers to steal customer names, dates of birth, physical addresses, phone numbers, and email addresses.",
+        "url": "https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T18:14:07+00:00"
+      },
+      {
+        "id": "a5ddf64a05a9",
+        "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+        "summary": "The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases.",
+        "url": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T18:07:16+00:00"
+      },
+      {
+        "id": "3f26e6bec3c5",
+        "title": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
+        "summary": "Without AI you will be a ‘weaker and poorer nation’, says former UK chancellor two months into job at US firmThe former chancellor George Osborne has said countries that do not embrace the kind of powerful AI systems made by his new employer, OpenAI, risk “Fomo” and could be left weaker and poorer.O...",
+        "url": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T17:57:22+00:00"
+      },
       {
         "id": "148c2768e0a2",
         "title": "Google debuts $499 Pixel 10a",
@@ -24,7 +112,7 @@
       },
       {
         "id": "834fa514d487",
-        "title": "FDA does U-turn, will review Moderna's mRNA flu shot after shocking rejection",
+        "title": "FDA reverses surprise rejection of Moderna's mRNA flu vaccine",
         "summary": "Trump admin's vaccine chief overruled FDA scientists to initially reject the shot.",
         "url": "https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/",
         "source": "Ars Technica - All content",
@@ -59,14 +147,6 @@
         "title": "‘By the end of the day we’re just knackered’: business booms for UK’s south Asian jewellers as gold prices soar",
         "summary": "Economic uncertainty drives customers to snap up 22-carat gold bars and coins or sell off unworn jewellery“With everything that’s going on in the economy and Donald Trump banging his chest against the world, we’re finding there’s no trust in the banks because we don’t know what’s going to happen,” S...",
         "url": "https://www.theguardian.com/business/2026/feb/18/business-uk-south-asian-jewellers-gold-prices-soar",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T16:00:56+00:00"
-      },
-      {
-        "id": "ac08fea32812",
-        "title": "Stone, parchment or laser-written glass? Scientists find new way to preserve data",
-        "summary": "Hard disks and magnetic tape have a limited lifespan, but glass storage developed by Microsoft could last millenniaSome cultures used stone, others used parchment. Some even, for a time, used floppy disks. Now scientists have come up with a new way to keep archived data safe that, they say, could en...",
-        "url": "https://www.theguardian.com/technology/2026/feb/18/scientists-new-way-preserve-data-microsoft",
         "source": "Business | The Guardian",
         "published": "2026-02-18T16:00:56+00:00"
       },
@@ -133,89 +213,33 @@
         "url": "https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/",
         "source": "Ars Technica - All content",
         "published": "2026-02-18T15:00:34+00:00"
-      },
-      {
-        "id": "8c3fa42d7ee5",
-        "title": "This former Microsoft PM thinks she can unseat CyberArk in 18 months",
-        "summary": "Though crowded, the identity management market seems eager for new solutions, and Venice is finding traction.",
-        "url": "https://techcrunch.com/2026/02/18/the-former-microsoft-pm-who-thinks-she-can-unseat-cyberark-in-18-months/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T15:00:00+00:00"
-      },
-      {
-        "id": "6de4bc2b5c5a",
-        "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
-        "summary": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.",
-        "url": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T14:44:28+00:00"
-      },
-      {
-        "id": "45d872718dce",
-        "title": "OpenAI pushes into higher education as India seeks to scale AI skills",
-        "summary": "OpenAI says its India education partnerships aim to reach more than 100,000 students, faculty and staff over the next year.",
-        "url": "https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T14:32:42+00:00"
-      },
-      {
-        "id": "d54f52be1a6e",
-        "title": "X-rays reveal kingfisher feather structure in unprecedented detail",
-        "summary": "Synchrotron radiation imaging revealed a porous, almost sponge-like nanostructure to create bright hues",
-        "url": "https://arstechnica.com/science/2026/02/what-the-chinese-art-of-tian-tsui-has-to-do-with-kingfishers/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-18T14:24:36+00:00"
-      },
-      {
-        "id": "e8ed7154572d",
-        "title": "Inside the DHS forum where ICE agents trash talk one another",
-        "summary": "Forum members have discussed their discomfort with mass deportation efforts.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-18T14:14:06+00:00"
-      },
-      {
-        "id": "c76bb32d1319",
-        "title": "Household energy bills in Great Britain forecast to fall by £117 a year",
-        "summary": "Consultancy’s prediction comes after Rachel Reeves said green subsidy costs would be removed from domestic billsHousehold energy costs in Great Britain are expected to tumble by an average of £117 a year from April after Rachel Reeves announced in November’s budget that the cost of green subsidies w...",
-        "url": "https://www.theguardian.com/money/2026/feb/18/household-energy-bills-in-great-britain-forecast-to-fall",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T14:13:26+00:00"
-      },
-      {
-        "id": "df2ae80a10a9",
-        "title": "Romania in safety drive to improve EU’s deadliest roads",
-        "summary": "Government takes its first serious steps to crack down on dangerous driving but progress is slowEurope live – latest updatesThe first time Lucian Mîndruță crashed his car, he swerved to avoid a village dog and hit another vehicle. The second time, he missed a right-of-way sign and was struck by a ca...",
-        "url": "https://www.theguardian.com/world/2026/feb/18/romania-improve-safety-roads-crack-down-dangerous-driving",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T14:00:34+00:00"
-      },
-      {
-        "id": "bf577b04e7f7",
-        "title": "Canva gets to $4B in revenue as LLM referral traffic rises",
-        "summary": "The creative company's monthly active users increased 20%, growth that was partially propelled by adoption of its AI tools.",
-        "url": "https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T14:00:00+00:00"
-      },
-      {
-        "id": "a5ddf64a05a9",
-        "title": "World Labs lands $200M from Autodesk to bring world models into 3D workflows",
-        "summary": "The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases.",
-        "url": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T14:00:00+00:00"
-      },
-      {
-        "id": "4f9034dfbb20",
-        "title": "India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
-        "summary": "The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
-        "url": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T13:01:04+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "8f774dfaa622",
+        "title": "This Defense Company Made AI Agents That Blow Things Up",
+        "summary": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
+        "url": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
+        "source": "Business Latest",
+        "published": "2026-02-18T19:47:15+00:00"
+      },
+      {
+        "id": "7900daaad7be",
+        "title": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
+        "summary": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
+        "url": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
+        "source": "Business Latest",
+        "published": "2026-02-18T19:24:55+00:00"
+      },
+      {
+        "id": "3ca2d756816b",
+        "title": "Typing without having to type",
+        "summary": "25+ years into my career as a programmer I think I may finally be coming around to preferring type hints or even strong typing. I resisted those in the past because they slowed down the rate at which I could iterate on code, especially in the REPL environments that were key to my productivity. But i...",
+        "url": "https://simonwillison.net/2026/Feb/18/typing/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-18T18:56:56+00:00"
+      },
       {
         "id": "46e999cc60e4",
         "title": "The A.I. Disruption We’ve Been Waiting for Has Arrived",
@@ -391,30 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/17/rough-draft-8266/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-17T14:49:04+00:00"
-      },
-      {
-        "id": "849a8c9f731e",
-        "title": "First kākāpō chick in four years hatches on Valentine's Day",
-        "summary": "First kākāpō chick in four years hatches on Valentine&#x27;s Day\nFirst chick of the 2026 breeding season!\n\nKākāpō Yasmine hatched an egg fostered from kākāpō Tīwhiri on Valentine's Day, bringing the total number of kākāpō to 237 – though it won’t be officially added to the population until it fledge...",
-        "url": "https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-17T14:09:43+00:00"
-      },
-      {
-        "id": "2a224e60e2df",
-        "title": "Quoting Dimitris Papailiopoulos",
-        "summary": "But the intellectually interesting part for me is something else. I now have something close to a magic box where I throw in a question and a first answer comes back basically for free, in terms of human effort. Before this, the way I'd explore a new idea is to either clumsily put something together...",
-        "url": "https://simonwillison.net/2026/Feb/17/dimitris-papailiopoulos/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-17T14:04:44+00:00"
-      },
-      {
-        "id": "e10c36f68b51",
-        "title": "AI Digital Twins Are Helping People Manage Diabetes and Obesity",
-        "summary": "As patients and employers look for alternatives to pricey GLP-1 drugs, Silicon Valley startup Twin Health is using AI and wearable sensors to help people make healthier choices.",
-        "url": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
-        "source": "Science Latest",
-        "published": "2026-02-17T11:00:00+00:00"
       }
     ],
     "序(month)": [
