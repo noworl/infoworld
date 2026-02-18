@@ -1,32 +1,72 @@
 {
-  "updated_at": "2026-02-18T08:03:38.754105+00:00",
+  "updated_at": "2026-02-18T11:29:20.519039+00:00",
   "trending": [
-    "tell me lies season 3 series finale",
-    "magda linette",
-    "winter storm warnings issued midwest",
-    "gas",
-    "amanda anisimova",
-    "clara tauson",
-    "janice tjen",
-    "tiki ghosn",
-    "weather los angeles",
-    "spectrum outage"
+    "karen khachanov",
+    "ben simmons",
+    "ind vs ned",
+    "irs.gov",
+    "quran",
+    "shadab khan",
+    "antonia ruzic",
+    "sherrone moore",
+    "elena rybakina",
+    "suhoor"
   ],
   "categories": {
     "急(hr)": [
       {
         "id": "b55a315fbb93",
-        "title": "UK inflation falls to near one-year low of 3% thanks to cheaper petrol, air fares and food – business live",
-        "summary": "Rolling coverage of the latest economic and financial news, including the UK inflation report for JanuaryThe chances of an interest rate cut next month have risen this morning, following the news that UK inflation fell to 3% in January.The money markets are now indicating that a quarter-point rate c...",
+        "title": "March cut to UK interest rates more likely after inflation drops to 10-month low; FTSE 100 hits new record high – business live",
+        "summary": "UK inflation fell to 3% in January thanks to cheaper petrol and air fares, and a slowdown in food inflationThe chances of an interest rate cut next month have risen this morning, following the news that UK inflation fell to 3% in January.The money markets are now indicating that a quarter-point rate...",
         "url": "https://www.theguardian.com/business/live/2026/feb/18/uk-inflation-fall-cost-of-living-interest-rates-house-prices-rents-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-18T07:55:05+00:00"
+        "published": "2026-02-18T11:00:11+00:00"
+      },
+      {
+        "id": "a1ea1fd11cff",
+        "title": "Boss of BAE Systems urges ministers to publish delayed military spending plan",
+        "summary": "CEO of UK’s biggest defence company says delay is holding back investment as BAE posts record salesThe boss of Britain’s biggest defence company has urged ministers to publish a long-delayed blueprint for military spending as soon as possible, as it posted record sales driven by a global increase in...",
+        "url": "https://www.theguardian.com/politics/2026/feb/18/bae-systems-urges-ministers-to-publish-delayed-military-spending-defence-investment-plan",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T10:36:46+00:00"
+      },
+      {
+        "id": "9d243ead9310",
+        "title": "Ryanair may let dual nationals board UK flights without a British passport",
+        "summary": "Airline statement will reassure Britons abroad anxious about new immigration rules coming into effect next weekBritish dual nationals may be able to board Ryanair flights in Europe to the UK even if they do not have a current British passport when new immigration rules come into force next week, the...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/18/ryanair-may-let-dual-nationals-board-uk-flights-without-a-british-passport",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T10:33:35+00:00"
+      },
+      {
+        "id": "c365f0941f9a",
+        "title": "The brutal hunt for low-paid work: ‘It’s like The Hunger Games – but for a job folding clothes’",
+        "summary": "It used to be fairly easy to get work that paid at or around the minimum wage. But with a shrinking number of positions come ever more hoops to jump through, from personality tests, to trial shifts, to towers constructed of marshmallowsIt is 10.30am, and Zahra is sitting in a business centre in Pres...",
+        "url": "https://www.theguardian.com/money/2026/feb/18/entry-level-recruitment-low-paid-jobs-wage",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T10:00:04+00:00"
+      },
+      {
+        "id": "9cac7dea954a",
+        "title": "Miner Glencore to give $2bn to shareholders despite profit slump",
+        "summary": "FTSE 100 company reports 6% fall in annual profits weeks after collapse of $260bn merger with Rio TintoGlencore is to give $2bn (£1.47bn) to shareholders after a turbulent year in which profits slumped and talks collapsed over a blockbuster $260bn merger with the fellow mining company Rio Tinto.The ...",
+        "url": "https://www.theguardian.com/business/2026/feb/18/miner-glencore-shareholders-profit-slump",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T09:15:43+00:00"
       },
       {
         "id": "3100daa6bc66",
         "title": "TfL Facebook ad banned for negative stereotype about black men",
         "summary": "Ad was part of campaign to encourage Londoners to intervene if they witness sexual harassment or hate crimeA Transport for London (TfL) ad featuring a black teenage boy verbally harassing a white girl has been banned for “perpetuating the negative racial stereotype about black men as perpetrators of...",
         "url": "https://www.theguardian.com/media/2026/feb/18/tfl-facebook-ad-banned-negative-stereotype-black-men",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T07:00:02+00:00"
+      },
+      {
+        "id": "8abc26f1c331",
+        "title": "Hazardous substances found in all headphones tested by ToxFREE project",
+        "summary": "Substances include chemicals that can cause cancer, neurodevelopmental problems and the feminisation of malesYou wear them at work, you wear them at play, you wear them to relax. You may even get sweaty in them at the gym.But an investigation into headphones has found every single pair tested contai...",
+        "url": "https://www.theguardian.com/technology/2026/feb/18/hazardous-substances-headphones",
         "source": "Business | The Guardian",
         "published": "2026-02-18T07:00:02+00:00"
       },
@@ -95,22 +135,6 @@
         "published": "2026-02-18T00:01:53+00:00"
       },
       {
-        "id": "058ff5968e44",
-        "title": "UK shoppers warned over spread of harmful and illegal skin lightening kits",
-        "summary": "Many products contain substances banned because of serious and sometimes irreversible health risks, says CTSIIllegal skin lightening products are being sold in an increasingly wide range of UK outlets, including butchers, specialist food shops and small grocery stores, trading standards officers hav...",
-        "url": "https://www.theguardian.com/society/2026/feb/18/uk-shopper-warning-illegal-skin-lightening-products",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T00:01:53+00:00"
-      },
-      {
-        "id": "a7f79085f0ca",
-        "title": "Training more Britons may not cut net migration or plug skills shortages, study finds",
-        "summary": "Local workers can be difficult to attract because of poor pay and conditions, say researchersKeir Starmer’s plan to force employers to be less reliant on overseas staff and instead train UK-based workers may not lower net migration, researchers have found.Skill shortages are just one of the factors ...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/18/training-more-uk-workers-may-not-cut-net-migration-report--",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T00:01:52+00:00"
-      },
-      {
         "id": "a2c26c307dcb",
         "title": "Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says",
         "summary": "Amnesty International says it found evidence that a government customer of Intellexa, a sanctioned surveillance vendor, used its Predator spyware against a prominent journalist in Angola.",
@@ -119,8 +143,16 @@
         "published": "2026-02-18T00:01:00+00:00"
       },
       {
+        "id": "458e2527e3fa",
+        "title": "How do autistic people age — and what does it mean for their health?",
+        "summary": "Nature, Published online: 18 February 2026; doi:10.1038/d41586-026-00471-6Most research on autism focuses on younger people, but some studies suggest older adults face increased risks — and perhaps benefits.",
+        "url": "https://www.nature.com/articles/d41586-026-00471-6",
+        "source": "Nature",
+        "published": "2026-02-18T00:00:00+00:00"
+      },
+      {
         "id": "67730e379d51",
-        "title": "Police probing claims that Epstein trafficked women through UK airports",
+        "title": "Police investigating claims that Epstein trafficked women through UK airports",
         "summary": "Moves come after Gordon Brown’s claim that files show that US sex offender used Stansted airport in Essex to ‘fly in girls’ British police have expanded their interest in the convicted sex offender Jeffrey Epstein’s links to Britain, by admitting for the first time they are looking at claims he used...",
         "url": "https://www.theguardian.com/us-news/2026/feb/17/police-private-flights-stansted-publication-epstein-files",
         "source": "Business | The Guardian",
@@ -181,41 +213,41 @@
         "url": "https://techcrunch.com/2026/02/17/metas-own-research-found-parental-supervision-doesnt-really-help-curb-teens-compulsive-social-media-use/",
         "source": "TechCrunch",
         "published": "2026-02-17T20:45:33+00:00"
-      },
-      {
-        "id": "4514dbd840e9",
-        "title": "Password managers' promise that they can't see your vaults isn't always true",
-        "summary": "Contrary to what password managers say, a server compromise can mean game over.",
-        "url": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T20:43:01+00:00"
-      },
-      {
-        "id": "bb23abe59cf5",
-        "title": "Apple is reportedly cooking up a trio of AI wearables",
-        "summary": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
-        "url": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T20:14:00+00:00"
-      },
-      {
-        "id": "ff6ae1546716",
-        "title": "Thrive raises $10B for new fund, its largest yet",
-        "summary": "Thrive Capital just raised $10 billion for its new fund -- nearly double the size of its last fund.",
-        "url": "https://techcrunch.com/2026/02/17/thrive-raises-10b-for-new-fund-its-largest-yet/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T20:13:12+00:00"
-      },
-      {
-        "id": "88c4b57ea671",
-        "title": "‘It’s soul-crushing’: young people battle to find any work in bleak jobs market",
-        "summary": "Chair of UK government review says dramatic changes in labour market risks putting ‘a generation on the scrapheap’ On any given day, Poppy Blackman is engaged in the “soul-crushing” process of applying for a new job, and rarely ever hearing anything back.The 22-year-old has been unemployed since Jan...",
-        "url": "https://www.theguardian.com/society/2026/feb/17/its-soul-crushing-young-people-battle-bleak-jobs-market-as-youth-unemployment-rises",
-        "source": "Business | The Guardian",
-        "published": "2026-02-17T19:17:08+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "9f621cc162e9",
+        "title": "How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans",
+        "summary": "“We would [all] love to have an AI boss who wouldn't yell at you or gaslight you. Claude as a boss is the nicest guy ever.”",
+        "url": "https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
+        "source": "Business Latest",
+        "published": "2026-02-18T11:00:00+00:00"
+      },
+      {
+        "id": "8abc26f1c331",
+        "title": "Hazardous substances found in all headphones tested by ToxFREE project",
+        "summary": "Substances include chemicals that can cause cancer, neurodevelopmental problems and the feminisation of malesYou wear them at work, you wear them at play, you wear them to relax. You may even get sweaty in them at the gym.But an investigation into headphones has found every single pair tested contai...",
+        "url": "https://www.theguardian.com/technology/2026/feb/18/hazardous-substances-headphones",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-18T07:00:02+00:00"
+      },
+      {
+        "id": "2998965bc1ea",
+        "title": "China’s dancing robots: how worried should we be?",
+        "summary": "Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can doDancing humanoid robots took centre stage on Monday during the annual China Media Group’s Spring Festival Gala, China’s most-watched official television broadcast. They lunged and backflip...",
+        "url": "https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-18T05:19:09+00:00"
+      },
+      {
+        "id": "4b5c967361b1",
+        "title": "Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south",
+        "summary": "Google, Anthropic and OpenAI bosses to mingle with global south leaders wrestling for control over technologySilicon Valley tech billionaires will land in Delhi this week for an AI summit hosted by India’s prime minister, Narendra Modi, where leaders of the global south will wrestle for control over...",
+        "url": "https://www.theguardian.com/technology/2026/feb/18/delhi-ai-expo-modi-jostles-lead-south",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-18T05:00:00+00:00"
+      },
       {
         "id": "66fc0e5d1467",
         "title": "TikTok 等社媒疑散布 AI 生成兒童性虐內容，遭西班牙調查",
@@ -249,6 +281,14 @@
         "published": "2026-02-17T23:02:33+00:00"
       },
       {
+        "id": "a5ab52a31953",
+        "title": "Palantir moves headquarters to Miami amid tech’s growing retreat to Florida",
+        "summary": "Data analytics firm moves from Denver after about six years and joins host of businesses relocating to south Florida Palantir announced on Tuesday that it has moved its headquarters to Miami from Denver. The data analytics company, criticized for its role in the Trump administration’s immigration cr...",
+        "url": "https://www.theguardian.com/technology/2026/feb/17/palantir-moves-headquarters-miami",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-17T20:20:29+00:00"
+      },
+      {
         "id": "e12418e1e513",
         "title": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
         "summary": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
@@ -273,6 +313,22 @@
         "published": "2026-02-17T19:18:17+00:00"
       },
       {
+        "id": "be409f985c5b",
+        "title": "ICE reliance on Microsoft technology surged amid immigration crackdown, documents show",
+        "summary": "Exclusive: ICE more than tripled the amount of data stored in Microsoft’s cloud at the same time that its arsenal of surveillance technology balloonedImmigration and Customs Enforcement (ICE) deepened its reliance on Microsoft’s cloud technology last year as the agency ramped up arrest and deportati...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/17/ice-microsoft-technology-immigration-crackdown",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-17T18:06:02+00:00"
+      },
+      {
+        "id": "499ff5ab4a5e",
+        "title": "Race for AI is making Hindenburg-style disaster ‘a real risk’, says leading expert",
+        "summary": "Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interestThe race to get artificial intelligence to market has raised the risk of a Hindenburg-style disaster that shatters global confidence in the technology, a leading researcher has warned...",
+        "url": "https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-17T18:01:13+00:00"
+      },
+      {
         "id": "b9d179485100",
         "title": "Quoting ROUGH DRAFT 8/2/66",
         "summary": "This is the story of the United Space Ship Enterprise. Assigned a five year patrol of our galaxy, the giant starship visits Earth colonies, regulates commerce, and explores strange new worlds and civilizations. These are its voyages... and its adventures.\n&mdash; ROUGH DRAFT 8/2/66, before the Star ...",
@@ -295,14 +351,6 @@
         "url": "https://simonwillison.net/2026/Feb/17/dimitris-papailiopoulos/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-17T14:04:44+00:00"
-      },
-      {
-        "id": "8baeb6dda86d",
-        "title": "12-hour days, no weekends: the anxiety driving AI’s brutal work culture is a warning for all of us",
-        "summary": "San Francisco’s AI startups are pushing workers to grind endlessly, hinting at pressures soon hitting other sectorsNot long after the terms “996” and “grindcore” entered the popular lexicon, people started telling me stories about what was happening at startups in San Francisco, ground zero for the ...",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/17/ai-startups-work-culture-san-francisco",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-17T13:00:01+00:00"
       },
       {
         "id": "e10c36f68b51",
@@ -367,54 +415,6 @@
         "url": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
         "source": "Claude Blog",
         "published": "2026-02-17T00:00:00+00:00"
-      },
-      {
-        "id": "69aa47ca1634",
-        "title": "Breaking: cave-like reflections in Robert Henke’s free Lanzarote Verb",
-        "summary": "Surprise! We get a second free Robert Henke device for Ableton Live Suite, built in Max for Live. And this one is inspired by 60s techniques of Andy Moorer and Manfred Schroeder, and eminently hackable if you're ready to dig into the patch. It's \"not exactly a realistic room simulation.\"\nThe post Br...",
-        "url": "https://cdm.link/free-lanzarote-verb/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-16T21:58:17+00:00"
-      },
-      {
-        "id": "48aba168692c",
-        "title": "Rodney and Claude Code for Desktop",
-        "summary": "I'm a very heavy user of Claude Code on the web, Anthropic's excellent but poorly named cloud version of Claude Code where everything runs in a container environment managed by them, greatly reducing the risk of anything bad happening to a computer I care about.\nI don't use the web interface at all ...",
-        "url": "https://simonwillison.net/2026/Feb/16/rodney-claude-code/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-16T16:38:57+00:00"
-      },
-      {
-        "id": "834f7f15661a",
-        "title": "Starmer vows to fast-track social media law but says under-16s ban not definite",
-        "summary": "Prime minister says action will be taken on young people’s social media access in ‘months, not years’What social media restrictions has Keir Starmer announced?Keir Starmer has pledged action on young people’s access to social media in “months, not years”, while saying this did not necessarily mean a...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/16/starmer-vows-fast-track-social-media-law-under-16s-ban",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-16T14:42:21+00:00"
-      },
-      {
-        "id": "513e07b5a4bd",
-        "title": "除夕重磅！千问开源Qwen3.5，3970亿参数性能超万亿模型，最大吞吐量提升至19倍",
-        "summary": "除夕夜，阿里官宣发布并开源新一代千问大模型千问 3.5（Qwen3.5-Plus）。这是继 2025 年除夕发布 Qwen2.5-Max 后，阿里又一次在除夕带来新一代模型。现在，千问 APP 与 PC 端（qianwen.com）已经同步上线，用户可在页面顶部选择模型新一代模型，来体验千问 3.5 的能力。去年除夕更新的 Qwen2.5-Max 重点在规模和性能，而这次，千问 3.5 更像是一场从纯文本模型到原生多模态模型的底层架构层面重构。图丨现在打开千问，已经可调用新模型 Qwen3.5-Plus（来源：千问）与前几代的千问大语言模型相比，千问 3.5 这次带来哪些模型性能的提升呢？从预...",
-        "url": "https://www.mittrchina.com/news/detail/15932",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-16T13:31:10+00:00"
-      },
-      {
-        "id": "fdbbc7438936",
-        "title": "Here’s Laurie Spiegel introducing Music Mouse in the 1980s",
-        "summary": "Eventide has posted a fantastic archival video in advance of their remake of Music Mouse. In this 1987 episode of Midnight Muse, composer and programmer Laurie Spiegel explains the software and takes call-in questions. \"Even if we're very good at the keyboard, sometimes we want our habits broken up,...",
-        "url": "https://cdm.link/laurie-spiegel-1986-1987/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-16T12:04:38+00:00"
-      },
-      {
-        "id": "ad3cee6a0ac1",
-        "title": "失声两年之后，渐冻症音乐人利用AI重返舞台",
-        "summary": "（来源：麻省理工科技评论）当帕特里克・达林（Patrick Darling）的歌声响起，台下观众潸然泪下。这是一首饱含深情的歌，写给他从未谋面的曾祖父。而这场演出之所以格外动人，还有另一个原因：这是达林在两年前失去歌唱能力后，首次与乐队成员重返舞台。这位 32 岁的音乐人在 29 岁时被确诊为肌萎缩侧索硬化症（ALS）。这种疾病与其他运动神经元病一样，会损伤控制人体肌肉的神经。肌萎缩侧索硬化症患者最终会失去对肌肉的控制能力，其中包括支配肢体活动、说话和呼吸的相关肌肉。达林上一次登台演出已经是两年多以前。那时他已经无法站立，也不能演奏乐器，唱歌和说话都变得十分困难。但在近期，他借助一款基于旧音频...",
-        "url": "https://www.mittrchina.com/news/detail/15931",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-16T10:26:43+00:00"
       }
     ],
     "序(month)": [
