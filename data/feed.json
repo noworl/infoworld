@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-02-17T23:02:25.049860+00:00",
+  "updated_at": "2026-02-18T05:17:14.596844+00:00",
   "trending": [
-    "robert woods",
-    "tommy lee jones",
-    "landon jackson",
-    "olympic figure skating",
-    "michigan vs purdue prediction",
-    "amber glenn",
-    "mike evans",
-    "figure skating",
-    "unc vs nc state",
-    "kaori sakamoto"
+    "kaitlan collins",
+    "mick cronin",
+    "baylor vs kansas state",
+    "deandre ayton",
+    "texas tech basketball",
+    "iphone 18",
+    "ut martin basketball",
+    "sdsu basketball",
+    "oregon basketball",
+    "nevada basketball"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "d0fe709f10be",
+        "title": "Tesla dodges 30-day suspension in California after removing Autopilot",
+        "summary": "The decision comes a month after Tesla discontinued Autopilot, its basic driver-assistance system.",
+        "url": "https://techcrunch.com/2026/02/17/tesla-dodges-30-day-suspension-in-california-after-removing-autopilot/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T04:07:15+00:00"
+      },
+      {
+        "id": "a2c26c307dcb",
+        "title": "Intellexa’s Predator spyware used to hack iPhone of journalist in Angola, research says",
+        "summary": "Amnesty International says it found evidence that a government customer of Intellexa, a sanctioned surveillance vendor, used its Predator spyware against a prominent journalist in Angola.",
+        "url": "https://techcrunch.com/2026/02/17/intellexas-predator-spyware-used-to-hack-iphone-of-journalist-in-angola-research-says/",
+        "source": "TechCrunch",
+        "published": "2026-02-18T00:01:00+00:00"
+      },
+      {
+        "id": "ec9c8e0c03cd",
+        "title": "Jack Altman joins Benchmark as GP",
+        "summary": "Jack Altman and Benchmark announced today that he would be joining the firm as a general partner.",
+        "url": "https://techcrunch.com/2026/02/17/jack-altman-joins-benchmark-as-gp/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T23:54:55+00:00"
+      },
+      {
+        "id": "8fcb5bf575d8",
+        "title": "Ford turns to F1 and bounties to build a $30,000 electric truck",
+        "summary": "A combination of 3D-printed Lego-like parts, Formula 1 thinking, and a bounty program will help the company hit that target. The team, led by Tesla veteran Alan Clarke, is obsessed with efficiency.",
+        "url": "https://techcrunch.com/2026/02/17/ford-turns-to-f1-and-bounties-to-build-a-30000-electric-truck/",
+        "source": "TechCrunch",
+        "published": "2026-02-17T23:43:21+00:00"
+      },
+      {
+        "id": "f90f6c272906",
+        "title": "GameHub will give Mac owners another imperfect way to play Windows games",
+        "summary": "GameHub's existing Windows emulator on Android has its fair share of issues.",
+        "url": "https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-17T22:45:07+00:00"
+      },
       {
         "id": "f4b6ccf20e0e",
         "title": "Boost to British Steel as Turkey places high-speed rail order",
@@ -49,7 +89,7 @@
       {
         "id": "ff6ae1546716",
         "title": "Thrive raises $10B for new fund, its largest yet",
-        "summary": "Thrive Capital just raised $10 billion for its new fund-- nearly double the size of its last fund.",
+        "summary": "Thrive Capital just raised $10 billion for its new fund -- nearly double the size of its last fund.",
         "url": "https://techcrunch.com/2026/02/17/thrive-raises-10b-for-new-fund-its-largest-yet/",
         "source": "TechCrunch",
         "published": "2026-02-17T20:13:12+00:00"
@@ -97,7 +137,7 @@
       {
         "id": "fe1eb3068279",
         "title": "Anthropic releases Sonnet 4.6",
-        "summary": "Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle.",
+        "summary": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
         "url": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
         "source": "TechCrunch",
         "published": "2026-02-17T18:00:00+00:00"
@@ -173,49 +213,41 @@
         "url": "https://arstechnica.com/space/2026/02/which-countries-are-actually-serious-about-developing-their-own-rockets/",
         "source": "Ars Technica - All content",
         "published": "2026-02-17T16:47:11+00:00"
-      },
-      {
-        "id": "8e8009b9bd31",
-        "title": "Running AI models is turning into a memory game",
-        "summary": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
-        "url": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T16:44:14+00:00"
-      },
-      {
-        "id": "b1397df70270",
-        "title": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
-        "summary": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
-        "url": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T16:30:43+00:00"
-      },
-      {
-        "id": "8ae0a9481b4b",
-        "title": "‘Food porn’: are sexy meal pics ruining the restaurant industry?",
-        "summary": "Swanky eateries are attracting an influx of influencers - whereas those that produce less varied and photogenic fare are strugglingName: Food porn.Age: Entered common parlance around the 1980s – Rosalind Coward used the term in her 1984 book Female Desire (one of its earliest documented uses). Conti...",
-        "url": "https://www.theguardian.com/food/2026/feb/17/food-porn-are-sexy-meal-pics-ruining-the-restaurant-industry",
-        "source": "Business | The Guardian",
-        "published": "2026-02-17T16:19:21+00:00"
-      },
-      {
-        "id": "3ed7b713687f",
-        "title": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
-        "summary": "The feature is designed to work inside the website to understand its content and layout, allowing site owners to make changes with natural language commands. The WordPress AI assistant doesn't need precisely tailored prompts, either.",
-        "url": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
-        "source": "TechCrunch",
-        "published": "2026-02-17T16:10:44+00:00"
-      },
-      {
-        "id": "73ad39162fee",
-        "title": "Here's the fun, action-packed trailer for Mandolorian and Grogu",
-        "summary": "\"Gangsters. War criminals. We'll take out every bad guy in your deck of cards.\"",
-        "url": "https://arstechnica.com/culture/2026/02/heres-the-fun-action-packed-trailer-for-mandolorian-and-grogu/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-17T16:10:43+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "66fc0e5d1467",
+        "title": "TikTok 等社媒疑散布 AI 生成兒童性虐內容，遭西班牙調查",
+        "summary": "西班牙總理桑傑士 17 日表示，熱門社群媒體平台 X、TikTok 及 Meta 的 Facebook 和 I [&#8230;]",
+        "url": "https://technews.tw/2026/02/18/tiktok-and-other-social-media-platforms-suspected-of-disseminating-ai-generated-child-sexual-abuse-content/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-18T03:30:03+00:00"
+      },
+      {
+        "id": "f9214fb61d9f",
+        "title": "輝達與 Meta 簽訂多年合作協議！追加數百萬顆 AI 晶片部署基建",
+        "summary": "輝達（NVIDIA）與 Meta 簽訂一項多年合作協議，共同建構超大型的全球 AI 基礎設施，根據協議，Met [&#8230;]",
+        "url": "https://finance.technews.tw/2026/02/18/meta-will-buy-millions-of-nvidia-chips/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-18T01:29:03+00:00"
+      },
+      {
+        "id": "997445db903d",
+        "title": "Introducing Claude Sonnet 4.6",
+        "summary": "Introducing Claude Sonnet 4.6\nSonnet 4.6 is out today, and Anthropic claim it offers similar performance to November's Opus 4.5 while maintaining the Sonnet pricing of $3/million input and $15/million output tokens (the Opus models are $5/$25). Here's the system card PDF.\nSonnet 4.6 has a \"reliable ...",
+        "url": "https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-17T23:58:58+00:00"
+      },
+      {
+        "id": "f65673d6dfda",
+        "title": "Rodney v0.4.0",
+        "summary": "Rodney v0.4.0\nMy Rodney CLI tool for browser automation attracted quite the flurry of PRs since I announced it last week. Here are the release notes for the just-released v0.4.0:\n\n\nErrors now use exit code 2, which means exit code 1 is just for for check failures. #15\nNew rodney assert command for r...",
+        "url": "https://simonwillison.net/2026/Feb/17/rodney/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-17T23:02:33+00:00"
+      },
       {
         "id": "e12418e1e513",
         "title": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
@@ -377,47 +409,23 @@
         "published": "2026-02-16T12:04:38+00:00"
       },
       {
-        "id": "93652d87bc01",
-        "title": "‘This shouldn’t be normal’: developers speak out about bigotry on Steam, the world’s biggest PC gaming storefront",
-        "summary": "Multiple game creators describe ineffective moderation on the platform, resulting in unchecked hatred in forums and targeted campaigns of negative ‘anti-woke’ reviewsFor years, the gaming storefront Steam has let abuse and bigotry pass through its moderation, according to players and developers who ...",
-        "url": "https://www.theguardian.com/games/2026/feb/16/bigotry-steam-pc-moderation-developers-speak-out",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-16T10:00:54+00:00"
-      },
-      {
-        "id": "fab38fecdd28",
-        "title": "OpenClaw创始人宣布加入OpenAI，火爆的“小龙虾”项目将以基金会形式独立运营",
-        "summary": "刚刚，OpenClaw 创始人彼得·斯泰因贝格尔（Peter Steinberger）宣布将加入 OpenAI，致力于让所有人都能使用 Agent。而 OpenClaw 将转为基金会的形式，这意味着并非是一次简单的“收编”，而是未来以开放和独立项目继续存在。（来源：X）过去几周，OpenClaw（此前曾用名包括 Clawdbot 和 Moltbot）以“能干活的 AI”火爆出圈。它完全不同于传统大模型“问答”的对话模式，而是直接去行动，包括自动管理日程、预订机票，甚至是加入一个由其他 AI 助手组成的社交网络。（来源：https://openclaw.ai/）在 GitHub 平台上，Open...",
-        "url": "https://www.mittrchina.com/news/detail/15930",
+        "id": "ad3cee6a0ac1",
+        "title": "失声两年之后，渐冻症音乐人利用AI重返舞台",
+        "summary": "（来源：麻省理工科技评论）当帕特里克・达林（Patrick Darling）的歌声响起，台下观众潸然泪下。这是一首饱含深情的歌，写给他从未谋面的曾祖父。而这场演出之所以格外动人，还有另一个原因：这是达林在两年前失去歌唱能力后，首次与乐队成员重返舞台。这位 32 岁的音乐人在 29 岁时被确诊为肌萎缩侧索硬化症（ALS）。这种疾病与其他运动神经元病一样，会损伤控制人体肌肉的神经。肌萎缩侧索硬化症患者最终会失去对肌肉的控制能力，其中包括支配肢体活动、说话和呼吸的相关肌肉。达林上一次登台演出已经是两年多以前。那时他已经无法站立，也不能演奏乐器，唱歌和说话都变得十分困难。但在近期，他借助一款基于旧音频...",
+        "url": "https://www.mittrchina.com/news/detail/15931",
         "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-16T08:45:40+00:00"
-      },
-      {
-        "id": "c8ab2e0644bc",
-        "title": "TikTok creator ByteDance vows to curb AI video tool after Disney threat",
-        "summary": "Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fightingBusiness live – latest updatesByteDance, the Chinese technology company behind TikTok, has said it will restrain its AI video-making tool, after threats of legal action from Disney and a backlash...",
-        "url": "https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-16T08:25:10+00:00"
-      },
-      {
-        "id": "12833f48c558",
-        "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews",
-        "summary": "Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical adviceGoogle is putting people at risk of harm by downplaying safety warnings that its AI-generated medical advice may be wrong.When answering queries about sensitive topics such as health, th...",
-        "url": "https://www.theguardian.com/technology/2026/feb/16/google-puts-users-at-risk-downplaying-disclaimers-ai-overviews",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-16T07:30:13+00:00"
-      },
-      {
-        "id": "c89feecf90c3",
-        "title": "Why did I get a £100 parking fine when charging my electric car?",
-        "summary": "The charger firm claimed the site operated 24 hours a day, but the parking operator had different ideasI charged my electric car at the 24-hour Mer EV charging station in my local B&amp;Q car park.I then received a £100 parking charge notice (PCN) from the car park operator, Ocean Parking. It said n...",
-        "url": "https://www.theguardian.com/money/2026/feb/16/parking-fine-charging-electric-car-mer",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-16T07:00:44+00:00"
+        "published": "2026-02-16T10:26:43+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "f861c195e653",
+        "title": "Wayback Machine Director Pushes Back on AI Scraping Fears Driving Archive Blocks",
+        "summary": "As reported by Nieman Lab last month, some major media organizations—including The New York Times, The Guardian, and Reddit—have started blocking the Wayback Machine from archiving their sites over unfounded [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/18/wayback-machine-director-pushes-back/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-18T00:57:47+00:00"
+      },
       {
         "id": "459d30ed54b7",
         "title": "Free improvisation",
@@ -609,14 +617,6 @@
         "url": "https://gis.rchss.sinica.edu.tw/paper_20260131/",
         "source": "中央研究院人社中心地理資訊科學研究專題中心",
         "published": "2026-02-01T19:49:26+00:00"
-      },
-      {
-        "id": "eed4ee2be99a",
-        "title": "P vs. NP and the Difficulty of Computation: A Ruliological Approach",
-        "summary": "Empirical Theoretical Computer Science “Could there be a faster program for that?” It’s a fundamental type of question in theoretical computer science. But except in special cases, such a question has proved fiendishly difficult to answer. And, for example, in half a century, almost no progress has ...",
-        "url": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
-        "source": "Stephen Wolfram Writings",
-        "published": "2026-01-30T19:26:48+00:00"
       }
     ]
   }
