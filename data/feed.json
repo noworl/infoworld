@@ -1,19 +1,83 @@
 {
-  "updated_at": "2026-02-19T05:15:34.786902+00:00",
+  "updated_at": "2026-02-19T08:02:55.197759+00:00",
   "trending": [
+    "yoon suk yeol",
+    "new zealand breakers",
+    "millie bobby brown",
+    "west indies vs italy",
+    "barcelona flights",
+    "2026 winter olympics women single skating free skating",
+    "sugar bowl academy",
     "jon ossoff",
-    "gonzaga basketball",
     "pepperdine basketball",
-    "portland basketball",
-    "cancun flights",
-    "unlv basketball",
-    "us women's curling team",
-    "love is blind season 10",
-    "alijah arenas",
-    "utah state basketball"
+    "cancun flights"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "1eda3dd54602",
+        "title": "If Keir Starmer is ousted, Labour could still win the next election. Here’s how that would work | Larry Elliott",
+        "summary": "Once a PM is seen as hapless, there is no way back. But Labour has good plans – and with the political landscape fragmented, it could yet prevail Continue reading...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/19/keir-starmer-labour-win-next-election-pm",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T07:00:59+00:00"
+      },
+      {
+        "id": "6a1c3de5bbdf",
+        "title": "Bernie Sanders rails against billionaire ‘greed’ amid California tax battle",
+        "summary": "In a fiery speech in Los Angeles, the Vermont senator criticizes ‘grotesque’ levels of economic inequalityBillionaires are “treading on very, very thin ice,” Bernie Sanders warned on Wednesday during a fiery speech in Los Angeles, imploring California voters to fight “grotesque” levels of economic i...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/19/bernie-sanders-rails-against-billionaire-greed-amid-california-tax-battle",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T06:17:30+00:00"
+      },
+      {
+        "id": "d740ea0942bc",
+        "title": "I’m putting tech firms on notice: deal with the appalling abuse of women online – or we will deal with you | Keir Starmer",
+        "summary": "I see violence against women as a national emergency. The posting of non-consensual intimate images is part of that crisis, and it must stopTackling violence against women and girls is not just a priority for my government. It is central to who I am.Before entering politics, when I led the Crown Pro...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/19/keir-starmer-tech-firms-abuse-women-online-violence",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T06:00:57+00:00"
+      },
+      {
+        "id": "74bf7ecc3cd3",
+        "title": "TV set is most popular way to watch YouTube in UK, study finds",
+        "summary": "Television outranks laptops, tablets and smartphones across all age groups, according to audience reviewThe television has replaced laptops, tablets and smartphones as the most common device for UK viewers to watch YouTube at home, according to data confirming the platform’s place as a living room m...",
+        "url": "https://www.theguardian.com/technology/2026/feb/19/youtube-uk-tv-set-most-popular",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T06:00:55+00:00"
+      },
+      {
+        "id": "f440fde9418f",
+        "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
+        "summary": "OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year.",
+        "url": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T05:34:25+00:00"
+      },
+      {
+        "id": "698c969d2540",
+        "title": "Bill Gates cancels keynote speech in India amid questions over Epstein ties",
+        "summary": "Billionaire Microsoft co-founder pulls out of India’s AI Impact Summit to ‘ensure the focus’ remains on event’s ‘key priorities’Bill Gates has pulled out of a keynote address at the AI Impact Summit in India as he continues to face questions over his relationship with the deceased child sex offender...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/19/bill-gates-cancels-india-ai-impact-summit-keynote-speech-epstein-files",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T05:27:59+00:00"
+      },
+      {
+        "id": "c2960c2c927a",
+        "title": "Retailers in UK plan to cut staff hours and jobs amid rising employment costs",
+        "summary": "BRC survey finds finance bosses expect technology to improve productivity, with 69% pessimistic about the economyUK retailers are planning to cut staff hours and jobs amid rising employment costs and pessimism about the economy.Almost two-thirds (61%) of finance bosses at retail companies said they ...",
+        "url": "https://www.theguardian.com/business/2026/feb/19/retailers-in-uk-plan-to-cut-staff-hours-and-jobs-amid-rising-employment-costs",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T05:00:57+00:00"
+      },
+      {
+        "id": "350307f031d7",
+        "title": "Beef and lamb get 580 times more in EU subsidies than legumes, study finds",
+        "summary": "Report says common agricultural policy provides ‘unfair’ levels of support to unhealthy, meat-heavy dietsBeef and lamb receive 580 times more in EU subsidies than legumes, a report has found, despite scientists urging people to get more of their protein from less harmful sources.Analysis by the char...",
+        "url": "https://www.theguardian.com/environment/2026/feb/19/beef-lamb-legumes-eu-subsidies-study",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T05:00:56+00:00"
+      },
       {
         "id": "bf058bbbcc75",
         "title": "OpenAI deepens India push with Pine Labs fintech partnership",
@@ -23,12 +87,36 @@
         "published": "2026-02-19T03:30:00+00:00"
       },
       {
+        "id": "cf6bad12393b",
+        "title": "Ebay buys Depop for $1.2bn in bid to capture younger shoppers",
+        "summary": "Depop, which is owned by Etsy, has 7 million active buyers on its marketplace, nearly 90% of whom are under the age of 34The online seller eBay has agreed to purchase the secondhand fashion marketplace Depop from Etsy for about $1.2bn in cash, the companies announced on Wednesday, with eBay hoping t...",
+        "url": "https://www.theguardian.com/technology/2026/feb/19/ebay-buys-depop-from-etsy",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T02:43:24+00:00"
+      },
+      {
+        "id": "7002c3d440e5",
+        "title": "US civil rights agency sues Coca-Cola bottler over event that excluded men",
+        "summary": "Lawsuit is first by Equal Employment Opportunity Commission over workplace DEI in Trump’s second termA US civil rights agency has sued a bottler and distributor of Coca-Cola products it accuses of sex discrimination over an employee networking event that excluded men, its first lawsuit over workplac...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/18/coca-cola-equal-employment-sued",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T00:46:49+00:00"
+      },
+      {
         "id": "6fda178e7a41",
         "title": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
         "summary": "The deal comes nearly five years after Etsy purchased Depop for $1.62 billion, at a time when secondhand clothing apps were gaining traction during the pandemic.",
         "url": "https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/",
         "source": "TechCrunch",
         "published": "2026-02-18T22:55:41+00:00"
+      },
+      {
+        "id": "d10369779fd2",
+        "title": "Tech firms must remove ‘revenge porn’ in 48 hours or risk being blocked, says Starmer",
+        "summary": "PM says measure, also applied to deepfake nudes, is needed owing to a ‘national emergency’ of online misogynyDeepfake nudes and “revenge porn” must be removed from the internet within 48 hours or technology firms risk being blocked in the UK, Keir Starmer has said, calling it a “national emergency” ...",
+        "url": "https://www.theguardian.com/society/2026/feb/18/tech-firms-must-remove-revenge-porn-in-48-hours-or-risk-being-blocked-says-starmer",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T22:30:46+00:00"
       },
       {
         "id": "d54fc97eb797",
@@ -63,20 +151,20 @@
         "published": "2026-02-18T20:57:48+00:00"
       },
       {
-        "id": "b2395586bd62",
-        "title": "Billionaire Les Wexner testifies before Congress about ties to Epstein",
-        "summary": "Wexner, who has denied misconduct related to Epstein, is one of several subpoenaed by House oversight panelThe former boss of the Victoria’s Secret lingerie brand, Les Wexner, said he has “done nothing wrong” and has “nothing to hide”, as he testifies on Wednesday before a congressional committee in...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/18/les-wexner-jeffrey-epstein-congress",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T20:29:16+00:00"
-      },
-      {
         "id": "903f270fa906",
         "title": "Chevy Bolt, BMW i3, or something else? At $10K, you have lots of EV options",
         "summary": "Two of Ars' favorite electric vehicles are now available for not very much money.",
         "url": "https://arstechnica.com/cars/2026/02/chevy-bolt-bmw-i3-or-something-else-at-10k-you-have-lots-of-ev-options/",
         "source": "Ars Technica - All content",
         "published": "2026-02-18T20:22:03+00:00"
+      },
+      {
+        "id": "a628abc4fd2a",
+        "title": "Tesla avoids California sales ban by removing ‘autopilot’ from marketing",
+        "summary": "State regulators walk back suspension threat and say Tesla has stopped misleading drivers about the safety of its carsTesla will avoid a 30-day suspension of its dealer and manufacturer licenses in California, its biggest market, after the US electric vehicle maker stopped using the term “autopilot”...",
+        "url": "https://www.theguardian.com/technology/2026/feb/18/tesla-california-autopilot-marketing",
+        "source": "Business | The Guardian",
+        "published": "2026-02-18T20:05:59+00:00"
       },
       {
         "id": "92dde2b6fca0",
@@ -103,14 +191,6 @@
         "published": "2026-02-18T19:28:26+00:00"
       },
       {
-        "id": "9d243ead9310",
-        "title": "‘Grace period’ needed for dual nationals returning to UK on second passport, say Lib Dems",
-        "summary": "Will Forster MP says ‘lack of planning and haphazard communication’ on new border rules has caused chaosA “grace period” should be introduced for British dual nationals living, working or holidaying abroad who face being blocked from returning to the UK if they do not have an up-to-date British pass...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/18/ryanair-may-let-dual-nationals-board-uk-flights-without-a-british-passport",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T19:18:26+00:00"
-      },
-      {
         "id": "14cc6a3cbd40",
         "title": "SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
         "summary": "This is a strategic win for SeatGeek. With direct placement in the Spotify app, SeatGeek is positioned to reach millions of active music fans as they discover upcoming events, increasing the chances of converting listeners into ticket buyers.",
@@ -127,99 +207,27 @@
         "published": "2026-02-18T19:01:55+00:00"
       },
       {
-        "id": "1c14b5e609a5",
-        "title": "Plug-in hybrids use three times more fuel than manufacturers claim, analysis finds",
-        "summary": "While most hybrids are said to use one to two litres of fuel per 100km, a study claims they need six litres on averagePlug-in hybrid electric cars (PHEVs) use much more fuel on the road than officially stated by their manufacturers, a large-scale analysis of about a million vehicles of this type has...",
-        "url": "https://www.theguardian.com/environment/2026/feb/18/plug-in-hybrids-use-three-times-more-fuel-than-manufacturers-claim-analysis-finds",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T18:41:26+00:00"
-      },
-      {
         "id": "6eab6f9a506a",
         "title": "The Guardian view on UK-EU defence: moving in the right direction, much too slowly",
         "summary": "The threat of Russian aggression makes a compelling case for urgent continental cooperationFor Vladimir Putin, peace talks with Ukraine are war pursued by other means. That is why progress has been so slow in negotiations, which resumed in Geneva this week. The Russian president demands the surrende...",
         "url": "https://www.theguardian.com/commentisfree/2026/feb/18/the-guardian-view-on-uk-eu-defence-moving-in-the-right-direction-much-too-slowly",
         "source": "Business | The Guardian",
         "published": "2026-02-18T18:30:41+00:00"
-      },
-      {
-        "id": "2323d5e08437",
-        "title": "Amazon halts Blue Jay robotics project after less than 6 months",
-        "summary": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
-        "url": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T18:27:10+00:00"
-      },
-      {
-        "id": "d811eac0e19a",
-        "title": "The Guardian view on Scotland’s housing crisis: supply has failed to keep pace with need",
-        "summary": "The country’s homelessness legislation is ambitious and humane. But too many people are still sleeping on the streets or in temporary accommodationRough sleeping in Scotland has risen by 106% over the past three years. Record numbers of children are now living in temporary accommodation, official fi...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/18/the-guardian-view-on-scotlands-housing-crisis-supply-has-failed-to-keep-pace-with-need",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T18:25:41+00:00"
-      },
-      {
-        "id": "45e350ad85f1",
-        "title": "Mastodon, a decentralized alternative to X, plans to target creators with new features",
-        "summary": "Mastodon is looking to grow its open source, decentralized social network with new features aimed at creators.",
-        "url": "https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T18:19:14+00:00"
-      },
-      {
-        "id": "709984f861c5",
-        "title": "Data breach at fintech giant Figure affects close to a million customers",
-        "summary": "The Figure data breach allowed hackers to steal customer names, dates of birth, physical addresses, phone numbers, and email addresses.",
-        "url": "https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T18:14:07+00:00"
-      },
-      {
-        "id": "a5ddf64a05a9",
-        "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
-        "summary": "The partnership will see the two companies exploring how World Labs’ models can work alongside Autodesk’s tools, and vice versa, starting with a focus on entertainment use cases.",
-        "url": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T18:07:16+00:00"
-      },
-      {
-        "id": "3f26e6bec3c5",
-        "title": "Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne",
-        "summary": "Without AI you will be a ‘weaker and poorer nation’, says former UK chancellor two months into job at US firmThe former chancellor George Osborne has said countries that do not embrace the kind of powerful AI systems made by his new employer, OpenAI, risk “Fomo” and could be left weaker and poorer.O...",
-        "url": "https://www.theguardian.com/politics/2026/feb/18/countries-do-not-embrace-ai-left-behind-george-osborne",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T17:57:22+00:00"
-      },
-      {
-        "id": "148c2768e0a2",
-        "title": "Google debuts $499 Pixel 10a",
-        "summary": "The smartphone is available for preorder now with shipments starting March 5. It comes in Lavender, Berry, Fog, and Obsidian.",
-        "url": "https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T17:41:46+00:00"
-      },
-      {
-        "id": "834fa514d487",
-        "title": "FDA reverses surprise rejection of Moderna's mRNA flu vaccine",
-        "summary": "Trump admin's vaccine chief overruled FDA scientists to initially reject the shot.",
-        "url": "https://arstechnica.com/health/2026/02/fda-does-u-turn-will-review-modernas-mrna-flu-shot-after-shocking-rejection/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-18T17:08:18+00:00"
-      },
-      {
-        "id": "5a2a76efff68",
-        "title": "Audible’s new ‘Read & Listen’ feature syncs your Kindle e-books with audiobooks",
-        "summary": "The feature will require customers to buy both versions of the title, but at a discounted price.",
-        "url": "https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T16:20:09+00:00"
       }
     ],
     "破(day)": [
       {
+        "id": "be0c66c8d18c",
+        "title": "Experimenting with sponsorship for my blog and newsletter",
+        "summary": "I've long been resistant to the idea of accepting sponsorship for my blog. I value my credibility as an independent voice, and I don't want to risk compromising that reputation.\nThen I learned about Troy Hunt's approach to sponsorship, which he first wrote about in 2016. Troy runs with a simple text...",
+        "url": "https://simonwillison.net/2026/Feb/19/sponsorship/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-19T05:44:29+00:00"
+      },
+      {
         "id": "2b34bdd53715",
-        "title": "SWE-bench February 2025 leaderboard update",
-        "summary": "SWE-bench February 2025 leaderboard update\nSWE-bench is one of the benchmarks that the labs love to list in their model releases. The official leaderboard is infrequently updated but they just did a full run of it against the current generation of models, which is notable because it's always good to...",
+        "title": "SWE-bench February 2026 leaderboard update",
+        "summary": "SWE-bench February 2026 leaderboard update\nSWE-bench is one of the benchmarks that the labs love to list in their model releases. The official leaderboard is infrequently updated but they just did a full run of it against the current generation of models, which is notable because it's always good to...",
         "url": "https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-19T04:48:47+00:00"
@@ -407,14 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/17/rodney/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-17T23:02:33+00:00"
-      },
-      {
-        "id": "e12418e1e513",
-        "title": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
-        "summary": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
-        "url": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
-        "source": "Business Latest",
-        "published": "2026-02-17T20:10:12+00:00"
       }
     ],
     "序(month)": [
