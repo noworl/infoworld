@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-18T23:57:59.096505+00:00",
+  "updated_at": "2026-02-19T05:15:34.786902+00:00",
   "trending": [
-    "when is the state of the union address 2026",
-    "gordon ramsay",
-    "newark airport",
-    "sebastian korda",
-    "penn state basketball",
-    "womens hockey gold medal game",
-    "uconn vs villanova",
-    "arkansas vs alabama",
-    "us women's hockey",
-    "crimson desert"
+    "jon ossoff",
+    "gonzaga basketball",
+    "pepperdine basketball",
+    "portland basketball",
+    "cancun flights",
+    "unlv basketball",
+    "us women's curling team",
+    "love is blind season 10",
+    "alijah arenas",
+    "utah state basketball"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "bf058bbbcc75",
+        "title": "OpenAI deepens India push with Pine Labs fintech partnership",
+        "summary": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
+        "url": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T03:30:00+00:00"
+      },
       {
         "id": "6fda178e7a41",
         "title": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
@@ -205,17 +213,41 @@
         "url": "https://techcrunch.com/2026/02/18/audibles-new-read-listen-feature-syncs-your-kindle-ebooks-with-audiobooks/",
         "source": "TechCrunch",
         "published": "2026-02-18T16:20:09+00:00"
-      },
-      {
-        "id": "f8ac199f9a3a",
-        "title": "X continues to bet on vertical video with its latest update",
-        "summary": "X's new immersive video player is designed to offer a more mobile-friendly experience, optimized especially for portrait-oriented videos.",
-        "url": "https://techcrunch.com/2026/02/18/x-continues-to-bet-on-vertical-video-with-its-latest-update/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T16:15:12+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "2b34bdd53715",
+        "title": "SWE-bench February 2025 leaderboard update",
+        "summary": "SWE-bench February 2025 leaderboard update\nSWE-bench is one of the benchmarks that the labs love to list in their model releases. The official leaderboard is infrequently updated but they just did a full run of it against the current generation of models, which is notable because it's always good to...",
+        "url": "https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-19T04:48:47+00:00"
+      },
+      {
+        "id": "f0942e596e52",
+        "title": "Meta 被控讓未成年沉迷，祖克柏出庭認年齡驗證進展慢",
+        "summary": "Meta 執行長祖克柏（Mark Zuckerberg）18 日於具里程碑意義的社群媒體審判表示，他對公司辨識 [&#8230;]",
+        "url": "https://technews.tw/2026/02/19/mark-zuckerberg-testifies-in-social-media-addiction-trial-that-meta-just-wants-instagram-to-be-useful/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-19T02:30:16+00:00"
+      },
+      {
+        "id": "82e14289fa9e",
+        "title": "Mark Zuckerberg Tries to Play It Safe in Social Media Addiction Trial Testimony",
+        "summary": "The Meta CEO stuck to a playbook of repetitive answers and buzzwords in a landmark trial in Los Angeles on Wednesday.",
+        "url": "https://www.wired.com/story/mark-zuckerberg-testifies-social-media-addiction-trial-meta/",
+        "source": "Business Latest",
+        "published": "2026-02-19T02:04:13+00:00"
+      },
+      {
+        "id": "1a9ef28c839b",
+        "title": "LadybirdBrowser/ladybird: Abandon Swift adoption",
+        "summary": "LadybirdBrowser/ladybird: Abandon Swift adoption\nBack in August 2024 the Ladybird browser project announced an intention to adopt Swift as their memory-safe language of choice.\nAs of this commit it looks like they've changed their mind:\n\nEverywhere: Abandon Swift adoption\nAfter making no progress on...",
+        "url": "https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-19T01:25:33+00:00"
+      },
       {
         "id": "8f774dfaa622",
         "title": "This Defense Company Made AI Agents That Blow Things Up",
@@ -383,38 +415,6 @@
         "url": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
         "source": "Business Latest",
         "published": "2026-02-17T20:10:12+00:00"
-      },
-      {
-        "id": "04dad5c79967",
-        "title": "Laurie Spiegel’s Music Mouse is available now from Eventide",
-        "summary": "1986, meet 2026. Music Mouse from Laurie Spiegel is available now as a new Eventide application -- completely faithful to the original, ground-breaking compositional application, but fully modernized.\nThe post Laurie Spiegel&#8217;s Music Mouse is available now from Eventide appeared first on CDM Cr...",
-        "url": "https://cdm.link/musicmouse-arrives/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-17T19:23:00+00:00"
-      },
-      {
-        "id": "7bbb9741f99f",
-        "title": "Look Mum No Computer brings Boffin British entry to Eurovision",
-        "summary": "Revenge of the Nerd: Look Mum No Computer, aka Sam Battle, will represent his country in Eurovision this year. And just like that, 100% of us are tuning into Eurovision and rooting for the UK. (Sorry, 'schland.)\nThe post Look Mum No Computer brings Boffin British entry to Eurovision appeared first o...",
-        "url": "https://cdm.link/look-mum-no-computer-eurovision/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-17T19:18:17+00:00"
-      },
-      {
-        "id": "be409f985c5b",
-        "title": "ICE reliance on Microsoft technology surged amid immigration crackdown, documents show",
-        "summary": "Exclusive: ICE more than tripled the amount of data stored in Microsoft’s cloud at the same time that its arsenal of surveillance technology balloonedImmigration and Customs Enforcement (ICE) deepened its reliance on Microsoft’s cloud technology last year as the agency ramped up arrest and deportati...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/17/ice-microsoft-technology-immigration-crackdown",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-17T18:06:02+00:00"
-      },
-      {
-        "id": "b9d179485100",
-        "title": "Quoting ROUGH DRAFT 8/2/66",
-        "summary": "This is the story of the United Space Ship Enterprise. Assigned a five year patrol of our galaxy, the giant starship visits Earth colonies, regulates commerce, and explores strange new worlds and civilizations. These are its voyages... and its adventures.\n&mdash; ROUGH DRAFT 8/2/66, before the Star ...",
-        "url": "https://simonwillison.net/2026/Feb/17/rough-draft-8266/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-17T14:49:04+00:00"
       }
     ],
     "序(month)": [
