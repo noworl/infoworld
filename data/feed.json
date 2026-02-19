@@ -1,26 +1,74 @@
 {
-  "updated_at": "2026-02-19T22:01:34.414868+00:00",
+  "updated_at": "2026-02-19T23:57:50.061960+00:00",
   "trending": [
-    "medal count",
-    "alysa liu teeth",
-    "jakub menšík",
-    "alysa liu",
-    "olympic mascot 2026",
-    "open stock",
-    "us women's hockey coach",
-    "ain country",
-    "ain",
-    "freeze watch"
+    "fear factor house of fear",
+    "joao fonseca",
+    "pistons vs knicks",
+    "tommy paul",
+    "tornado warning",
+    "kelly sildaru",
+    "nets vs cavaliers",
+    "rockets vs hornets",
+    "hawks vs 76ers",
+    "pacers vs wizards"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "286a905fbf84",
+        "title": "Lawsuit: ChatGPT told student he was \"meant for greatness\"—then came psychosis",
+        "summary": "\"AI Injury Attorneys\" target the chatbot design itself.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/before-psychosis-chatgpt-told-man-he-was-an-oracle-new-lawsuit-alleges/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-19T22:44:25+00:00"
+      },
+      {
+        "id": "bca8657e1c67",
+        "title": "FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash",
+        "summary": "The FBI says hacks that trick ATMs into spitting out cash on demand are rising, with hundreds of attacks in the past year alone netting hackers millions in stolen bills.",
+        "url": "https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T22:31:34+00:00"
+      },
+      {
+        "id": "2073b4074bea",
+        "title": "At a critical moment, Snap loses a top Specs exec",
+        "summary": "As Snap readies the public release of its long-awaited VR glasses, one of the key executives on the project has left the company.",
+        "url": "https://techcrunch.com/2026/02/19/at-a-critical-moment-snap-loses-a-top-specs-exec/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T22:30:36+00:00"
+      },
       {
         "id": "b518aa965360",
         "title": "Second and last chance for innovators to win scaling perks: Belden extends nomination window",
         "summary": "Last day to nominate for the 2026 Joseph C. Belden Innovation Award has been extended through February 27. Don't miss your chance to win scaling perks.",
         "url": "https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/",
         "source": "TechCrunch",
-        "published": "2026-02-19T21:45:00+00:00"
+        "published": "2026-02-19T22:23:15+00:00"
+      },
+      {
+        "id": "04ed599a4494",
+        "title": "Cellebrite cut off Serbia citing abuse of its phone unlocking tools. Why not others?",
+        "summary": "Cellebrite, which makes phone unlocking and hacking tools, stopped sales to countries that allegedly abused its tools. But after new allegations in Jordan and Kenya, the company has changed its approach.",
+        "url": "https://techcrunch.com/2026/02/19/cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlocking-tools-why-not-others/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T22:04:52+00:00"
+      },
+      {
+        "id": "99f33e3f8275",
+        "title": "NASA chief classifies Starliner flight as \"Type A\" mishap, says agency made mistakes",
+        "summary": "\"The most troubling failure revealed by this investigation is not hardware.\"",
+        "url": "https://arstechnica.com/space/2026/02/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-19T21:59:10+00:00"
+      },
+      {
+        "id": "269228a68427",
+        "title": "Rubik’s WOWCube adds complexity, possibility by reinventing the puzzle cube",
+        "summary": "Technology is a double-edged sword in the $399 Rubik's Cube-inspired toy.",
+        "url": "https://arstechnica.com/gadgets/2026/02/rubiks-wowcube-adds-complexity-possibility-by-reinventing-the-puzzle-cube/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-19T21:30:02+00:00"
       },
       {
         "id": "3d5f8f7c31e0",
@@ -56,7 +104,7 @@
       },
       {
         "id": "9a5d0985be8d",
-        "title": "Toyota hires seven Agility humanoid robots for Canadian factory",
+        "title": "Toyota contracts seven Agility humanoid robots for Canadian factory",
         "summary": "The robots will be unloading totes full of auto parts from an automated warehouse tugger.",
         "url": "https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/",
         "source": "TechCrunch",
@@ -95,9 +143,17 @@
         "published": "2026-02-19T19:38:08+00:00"
       },
       {
+        "id": "1a52fa5ef857",
+        "title": "The Guardian view on Merz and Meloni: an emerging Berlin-Rome axis is threatening the EU’s green deal",
+        "summary": "The deregulation agenda being pushed by Germany’s chancellor and Italy’s prime minister is economically and ethically flawedWhen the European Union launched its green deal in 2019, putting into law the goal of climate neutrality by the middle of the century, it showed strategic foresight as well as ...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/19/the-guardian-view-on-merz-and-meloni-an-emerging-berlin-rome-axis-is-threatening-the-eus-green-deal",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T19:05:08+00:00"
+      },
+      {
         "id": "0b69f227f8b6",
         "title": "As browser wars heat up, Chrome adds new productivity features",
-        "summary": "Split View, PDF annotations and 'Save to Chrome' features come to the Chrome browser.",
+        "summary": "Split View, PDF annotations, and 'Save to Chrome' features come to the Chrome browser.",
         "url": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features/",
         "source": "TechCrunch",
         "published": "2026-02-19T18:30:51+00:00"
@@ -157,65 +213,17 @@
         "url": "https://techcrunch.com/2026/02/19/zuckerberg-grilled-in-court-over-social-media-harms-on-teens/",
         "source": "TechCrunch",
         "published": "2026-02-19T16:41:59+00:00"
-      },
-      {
-        "id": "e632c27cf94c",
-        "title": "SoftBank to spend an eye-popping $33B to build huge US gas power plant",
-        "summary": "If completed, the project would be among the largest and most expensive natural gas power plants.",
-        "url": "https://techcrunch.com/2026/02/19/softbank-to-spend-an-eye-popping-33b-to-build-huge-u-s-gas-power-plant/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T16:27:58+00:00"
-      },
-      {
-        "id": "9146b9568c47",
-        "title": "Zero grip, maximum fun: A practical guide to getting into amateur ice racing",
-        "summary": "Where we're racing, we don't need roads.",
-        "url": "https://arstechnica.com/cars/2026/02/zero-grip-maximum-fun-a-practical-guide-to-getting-into-amateur-ice-racing/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-19T16:26:34+00:00"
-      },
-      {
-        "id": "5d3b98532cb4",
-        "title": "Global Counsel calls in administrators, blaming Peter Mandelson ‘maelstrom’",
-        "summary": "Advisory firm has lost string of clients despite efforts to cut ties with co-founder after Epstein revelationsGlobal Counsel, the advisory firm co-founded by Peter Mandelson, is to collapse into administration, blaming the “maelstrom” caused by revelations about the former peer’s relationship with t...",
-        "url": "https://www.theguardian.com/politics/2026/feb/19/global-counsel-calls-in-administrators-peter-mandelson-epstein",
-        "source": "Business | The Guardian",
-        "published": "2026-02-19T15:55:26+00:00"
-      },
-      {
-        "id": "c6f24519cc1f",
-        "title": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
-        "summary": "OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.",
-        "url": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T15:35:58+00:00"
-      },
-      {
-        "id": "b79fa62d62be",
-        "title": "Current is a new RSS reader that’s more like a river than an inbox",
-        "summary": "Current introduces a stress-free, totally reimagined RSS news reading app as a one-time paid download.",
-        "url": "https://techcrunch.com/2026/02/19/current-is-a-new-rss-reader-thats-more-like-a-river-than-an-inbox/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T15:33:29+00:00"
-      },
-      {
-        "id": "1b403c6b779f",
-        "title": "Sex toys maker Tenga says hacker stole customer information",
-        "summary": "The Japanese sex toy maker said a hacker broke into an employee's inbox and stole customer names, email addresses, and correspondence, including order details and customer service inquiries.",
-        "url": "https://techcrunch.com/2026/02/19/sex-toys-maker-tenga-says-hacker-stole-customer-information/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T15:25:00+00:00"
-      },
-      {
-        "id": "e811730c3d90",
-        "title": "UK manufacturing still beset by low orders and price pressure, says CBI",
-        "summary": "Industrial trends survey shows firms are expecting to raise prices, with order books well below averageBritish manufacturing orders remain well below average and price pressure continues to persist, according to a closely watched survey.The CBI industrial trends survey found that manufacturers’ orde...",
-        "url": "https://www.theguardian.com/business/2026/feb/19/british-manufacturing-continues-to-face-low-orders-and-upward-price-pressure-says-cbi",
-        "source": "Business | The Guardian",
-        "published": "2026-02-19T15:07:59+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "49d418c8b739",
+        "title": "An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
+        "summary": "A staffer of the Incognito dark web market was secretly controlled by the FBI—and still allegedly approved the sale of fentanyl-tainted pills, including those from a dealer linked to a confirmed death.",
+        "url": "https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/",
+        "source": "Business Latest",
+        "published": "2026-02-19T23:18:09+00:00"
+      },
       {
         "id": "b5843bdaaed2",
         "title": "Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past",
@@ -407,14 +415,6 @@
         "url": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
         "source": "Business Latest",
         "published": "2026-02-18T19:24:55+00:00"
-      },
-      {
-        "id": "3ca2d756816b",
-        "title": "Typing without having to type",
-        "summary": "25+ years into my career as a programmer I think I may finally be coming around to preferring type hints or even strong typing. I resisted those in the past because they slowed down the rate at which I could iterate on code, especially in the REPL environments that were key to my productivity. But i...",
-        "url": "https://simonwillison.net/2026/Feb/18/typing/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-18T18:56:56+00:00"
       }
     ],
     "序(month)": [
