@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-02-19T11:27:03.655127+00:00",
+  "updated_at": "2026-02-19T14:42:48.276345+00:00",
   "trending": [
-    "sarah ferguson",
-    "fox 8 cleveland",
-    "st jude dream home 2026",
-    "dense fog advisory",
-    "banchero",
-    "fox 8 news",
-    "women free skating 2026",
-    "cars",
-    "fortnite servers",
-    "bbc news"
+    "jennifer garner",
+    "chicago bears",
+    "genesis invitational",
+    "afghanistan vs canada",
+    "chicago weather",
+    "sri lanka national cricket team vs zimbabwe national cricket team standings",
+    "conduent",
+    "fantasia barrino",
+    "summerfest 2026",
+    "mirra andreeva"
   ],
   "categories": {
     "急(hr)": [
@@ -20,7 +20,119 @@
         "summary": "Both the US and Iran embark on military posturing amid a stand-off over Tehran’s nuclear programmePrice pressures are continuing to weigh on Britain’s manufacturing sector, with new data showing another heavy fall in industrial orders.The CBI said the monthly order book balance stood at -28% in Febr...",
         "url": "https://www.theguardian.com/business/live/2026/feb/19/british-gas-centrica-profit-gen-z-trades-ai-ftse-sterling-pound-stocks-business-live-news",
         "source": "Business | The Guardian",
-        "published": "2026-02-19T11:21:18+00:00"
+        "published": "2026-02-19T14:36:29+00:00"
+      },
+      {
+        "id": "c53cdb0cf68c",
+        "title": "This former Big Tech engineers are using AI to navigate Trump’s trade chaos",
+        "summary": "Amari AI is making custom AI-powered software that helps customs brokers modernize and minimize constantly shifting trade policies.",
+        "url": "https://techcrunch.com/2026/02/19/this-former-big-tech-engineers-are-using-ai-to-navigate-trumps-trade-chaos/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T14:00:00+00:00"
+      },
+      {
+        "id": "48d0bb685c55",
+        "title": "For open-source programs, AI coding tools are a mixed blessing",
+        "summary": "AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building new features is easier but maintaining them is just as hard.",
+        "url": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T14:00:00+00:00"
+      },
+      {
+        "id": "83da0943245a",
+        "title": "‘Made in Europe’ EU industrial strategy could hit supply chains, UK minister warns",
+        "summary": "Nick Thomas-Symonds says move could also create unnecessary UK-EU trade barriers and increase costsBusiness live – latest updatesA British minister has warned that the EU’s “Made in Europe” industrial strategy could hit supply chains, increase costs and create unnecessary trade barriers between the ...",
+        "url": "https://www.theguardian.com/world/2026/feb/19/made-in-europe-eu-industrial-strategy-supply-chains-uk-nick-thomas-symonds",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T13:56:52+00:00"
+      },
+      {
+        "id": "d0776eaa63f2",
+        "title": "Altman and Amodei share a moment of awkwardness at India’s big AI summit",
+        "summary": "When Prime Minister Narendra Modi prompted speakers at the event to join hands and raise them in a show of unity, all executives on stage obliged, except OpenAI's Sam Altman and Anthropic's Dario Amodei, who held their hands conspicuously apart.",
+        "url": "https://techcrunch.com/2026/02/19/altman-and-amodei-share-a-moment-of-awkwardness-at-indias-big-ai-summit/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T13:49:06+00:00"
+      },
+      {
+        "id": "447dcb1e2d00",
+        "title": "The rise of AI is making the future of work look bleak – but it could be an opportunity",
+        "summary": "New technology has workers spooked, but experts say it’s creating an opening for a resurgence in worker powerIn 2026, it’s a scary time to work for a living.Gone are the days of quiet quitting, the Great Resignation, and the highly visible union-organizing battles that began the decade and signaled ...",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-work-future",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T13:00:12+00:00"
+      },
+      {
+        "id": "ff91d91cd035",
+        "title": "Freeform raises $67M Series B to scale up laser AI manufacturing",
+        "summary": "“I think we're the only quote-unquote manufacturing company out there that has H200 clusters in a data center on site.\"",
+        "url": "https://techcrunch.com/2026/02/19/freeform-raises-67m-series-b-to-scale-up-laser-ai-manufacturing/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T13:00:00+00:00"
+      },
+      {
+        "id": "8f99349eb78d",
+        "title": "‘We’re not hippies’: why these Iowa farmers swapped pigs for mushrooms",
+        "summary": "Faaborgs rail against oppressive industrial agricultural system with unexpected evolution into indie artisan food firmAs a sixth-generation Iowa farmer, Tanner Faaborg is all too aware that agricultural traditions are hard to shake. So when he set in motion plans to change his family’s farm from a l...",
+        "url": "https://www.theguardian.com/environment/2026/feb/19/why-iowa-farmers-swapped-pigs-mushrooms",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T12:45:17+00:00"
+      },
+      {
+        "id": "00a64b9fdfe3",
+        "title": "Airbus suggests split solution for Europe’s faltering fighter jet programme",
+        "summary": "Aerospace firm proposes two separate warplanes amid dispute over who leads €100bn projectAirbus has suggested splitting Europe’s faltering future fighter jet programme into two separate warplanes, amid a dispute between manufacturers over who leads the €100bn (£87bn) project.The company’s defence ar...",
+        "url": "https://www.theguardian.com/business/2026/feb/19/airbus-suggests-split-solution-for-europe-faltering-fighter-jet-programme",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T12:37:07+00:00"
+      },
+      {
+        "id": "ea232b7d7d9b",
+        "title": "This VC’s best advice for building a founding team",
+        "summary": "One of the most consequential decisions early-stage founders have to make is who they will bring on as their founding team. The first five to 10 employees will have a massive impact on the company culture, and the precedents set with them are difficult to change down the road. That’s why this season...",
+        "url": "https://techcrunch.com/2026/02/19/this-vcs-best-advice-for-building-a-founding-team/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T12:30:00+00:00"
+      },
+      {
+        "id": "8be64819ccb6",
+        "title": "Local reporter ‘shocked’ over picture of his face on punchbag at UK town hall",
+        "summary": "Joe McCann of the Melksham News was tipped off by a contact about the image and raised issue at council meetingA local newspaper journalist has said he was “shocked” after a picture of his face was printed out and attached to a punchbag at a town hall.Joe McCann, who has worked for the Melksham News...",
+        "url": "https://www.theguardian.com/society/2026/feb/19/local-reporter-picture-of-face-on-punchbag-uk-town-hall",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T12:19:48+00:00"
+      },
+      {
+        "id": "944824a79241",
+        "title": "‘We’re no longer attracting top talent’: the brain drain killing American science",
+        "summary": "As Trump slashes science funding, young researchers flee abroad. Without solid innovation, the US could cease to have the largest biomedical ecosystem in the worldIn April 2025, less than three months after Donald Trump returned to the White House, the federal Centers for Disease Control and Prevent...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T12:00:10+00:00"
+      },
+      {
+        "id": "3551d1367336",
+        "title": "‘DEI is dead, equality isn’t’: experts chart path forward amid Trump’s culture war",
+        "summary": "Two law professors outline strategies for equality’s survival in a Trumpian post-DEI era in new book How Equality WinsThe Trump administration’s “war on woke” seems to have claimed its biggest victim in DEI. Not so long ago, diversity, equity and inclusion was the favorite term of Fortune 500 CEOs a...",
+        "url": "https://www.theguardian.com/world/2026/feb/19/how-equality-wins-book-dei-trump-culture-war",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T12:00:10+00:00"
+      },
+      {
+        "id": "ab54e45f9f7c",
+        "title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+        "summary": "Reliance has begun building multi-gigawatt AI data centers in Jamnagar, with more than 120 MW of capacity expected to come online in 2026.",
+        "url": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T11:39:17+00:00"
+      },
+      {
+        "id": "2525344b487e",
+        "title": "Leicester and Premier League appeal over club’s six-point deduction",
+        "summary": "Club unhappy sanction applied in ChampionshipPremier League seeking additional punishmentLeicester City’s legal battle with the Premier League continues to rumble on as both parties formally lodged appeals related to this month’s decision by an independent commission to deduct the club six points.It...",
+        "url": "https://www.theguardian.com/football/2026/feb/19/leicester-premier-league-appeal-six-point-deduction",
+        "source": "Business | The Guardian",
+        "published": "2026-02-19T11:35:51+00:00"
       },
       {
         "id": "39eefe8e0edd",
@@ -95,127 +207,31 @@
         "published": "2026-02-19T07:00:59+00:00"
       },
       {
-        "id": "6a1c3de5bbdf",
-        "title": "Bernie Sanders rails against billionaire ‘greed’ amid California tax battle",
-        "summary": "In a fiery speech in Los Angeles, the Vermont senator criticizes ‘grotesque’ levels of economic inequalityBillionaires are “treading on very, very thin ice,” Bernie Sanders warned on Wednesday during a fiery speech in Los Angeles, imploring California voters to fight “grotesque” levels of economic i...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/19/bernie-sanders-rails-against-billionaire-greed-amid-california-tax-battle",
-        "source": "Business | The Guardian",
-        "published": "2026-02-19T06:17:30+00:00"
-      },
-      {
         "id": "d740ea0942bc",
         "title": "I’m putting tech firms on notice: deal with the appalling abuse of women online – or we will deal with you | Keir Starmer",
         "summary": "I see violence against women as a national emergency. The posting of non-consensual intimate images is part of that crisis, and it must stopTackling violence against women and girls is not just a priority for my government. It is central to who I am.Before entering politics, when I led the Crown Pro...",
         "url": "https://www.theguardian.com/commentisfree/2026/feb/19/keir-starmer-tech-firms-abuse-women-online-violence",
         "source": "Business | The Guardian",
         "published": "2026-02-19T06:00:57+00:00"
-      },
-      {
-        "id": "74bf7ecc3cd3",
-        "title": "TV set is most popular way to watch YouTube in UK, study finds",
-        "summary": "Television outranks laptops, tablets and smartphones across all age groups, according to audience reviewThe television has replaced laptops, tablets and smartphones as the most common device for UK viewers to watch YouTube at home, according to data confirming the platform’s place as a living room m...",
-        "url": "https://www.theguardian.com/technology/2026/feb/19/youtube-uk-tv-set-most-popular",
-        "source": "Business | The Guardian",
-        "published": "2026-02-19T06:00:55+00:00"
-      },
-      {
-        "id": "f440fde9418f",
-        "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
-        "summary": "OpenAI also plans to expand its presence in India with new offices in Mumbai and Bengaluru later this year.",
-        "url": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T05:34:25+00:00"
-      },
-      {
-        "id": "698c969d2540",
-        "title": "Bill Gates cancels keynote speech in India amid questions over Epstein ties",
-        "summary": "Billionaire Microsoft co-founder pulls out of India’s AI Impact Summit to ‘ensure the focus’ remains on event’s ‘key priorities’Bill Gates has pulled out of a keynote address at the AI Impact Summit in India as he continues to face questions over his relationship with the deceased child sex offender...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/19/bill-gates-cancels-india-ai-impact-summit-keynote-speech-epstein-files",
-        "source": "Business | The Guardian",
-        "published": "2026-02-19T05:27:59+00:00"
-      },
-      {
-        "id": "c2960c2c927a",
-        "title": "Retailers in UK plan to cut staff hours and jobs amid rising employment costs",
-        "summary": "BRC survey finds finance bosses expect technology to improve productivity, with 69% pessimistic about the economyUK retailers are planning to cut staff hours and jobs amid rising employment costs and pessimism about the economy.Almost two-thirds (61%) of finance bosses at retail companies said they ...",
-        "url": "https://www.theguardian.com/business/2026/feb/19/retailers-in-uk-plan-to-cut-staff-hours-and-jobs-amid-rising-employment-costs",
-        "source": "Business | The Guardian",
-        "published": "2026-02-19T05:00:57+00:00"
-      },
-      {
-        "id": "350307f031d7",
-        "title": "Beef and lamb get 580 times more in EU subsidies than legumes, study finds",
-        "summary": "Report says common agricultural policy provides ‘unfair’ levels of support to unhealthy, meat-heavy dietsBeef and lamb receive 580 times more in EU subsidies than legumes, a report has found, despite scientists urging people to get more of their protein from less harmful sources.Analysis by the char...",
-        "url": "https://www.theguardian.com/environment/2026/feb/19/beef-lamb-legumes-eu-subsidies-study",
-        "source": "Business | The Guardian",
-        "published": "2026-02-19T05:00:56+00:00"
-      },
-      {
-        "id": "bf058bbbcc75",
-        "title": "OpenAI deepens India push with Pine Labs fintech partnership",
-        "summary": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
-        "url": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T03:30:00+00:00"
-      },
-      {
-        "id": "7002c3d440e5",
-        "title": "US civil rights agency sues Coca-Cola bottler over event that excluded men",
-        "summary": "Lawsuit is first by Equal Employment Opportunity Commission over workplace DEI in Trump’s second termA US civil rights agency has sued a bottler and distributor of Coca-Cola products it accuses of sex discrimination over an employee networking event that excluded men, its first lawsuit over workplac...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/18/coca-cola-equal-employment-sued",
-        "source": "Business | The Guardian",
-        "published": "2026-02-19T00:46:49+00:00"
-      },
-      {
-        "id": "6fda178e7a41",
-        "title": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
-        "summary": "The deal comes nearly five years after Etsy purchased Depop for $1.62 billion, at a time when secondhand clothing apps were gaining traction during the pandemic.",
-        "url": "https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T22:55:41+00:00"
-      },
-      {
-        "id": "d10369779fd2",
-        "title": "Tech firms must remove ‘revenge porn’ in 48 hours or risk being blocked, says Starmer",
-        "summary": "PM says measure, also applied to deepfake nudes, is needed owing to a ‘national emergency’ of online misogynyDeepfake nudes and “revenge porn” must be removed from the internet within 48 hours or technology firms risk being blocked in the UK, Keir Starmer has said, calling it a “national emergency” ...",
-        "url": "https://www.theguardian.com/society/2026/feb/18/tech-firms-must-remove-revenge-porn-in-48-hours-or-risk-being-blocked-says-starmer",
-        "source": "Business | The Guardian",
-        "published": "2026-02-18T22:30:46+00:00"
-      },
-      {
-        "id": "d54fc97eb797",
-        "title": "Hacking conference Def Con bans three people linked to Epstein",
-        "summary": "The Def Con hacking conference banned hackers Pablos Holman and Vincenzo Iozzo, as well as former MIT Media Lab director Joichi Ito, from attending the annual conference after their reported connections with Jeffrey Epstein.",
-        "url": "https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T22:04:13+00:00"
-      },
-      {
-        "id": "b6f182345732",
-        "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
-        "summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choic...",
-        "url": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T21:07:00+00:00"
-      },
-      {
-        "id": "38d64fbdab29",
-        "title": "Verizon acknowledges \"pain\" of new unlock policy, suggests change is coming",
-        "summary": "Report: Verizon's goal is \"immediate unlock for all payment methods really soon.\"",
-        "url": "https://arstechnica.com/tech-policy/2026/02/verizon-might-drop-its-annoying-35-day-wait-for-unlocking-paid-off-phones/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-18T20:58:34+00:00"
-      },
-      {
-        "id": "47c354a30609",
-        "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
-        "summary": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.",
-        "url": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/",
-        "source": "TechCrunch",
-        "published": "2026-02-18T20:57:48+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "447dcb1e2d00",
+        "title": "The rise of AI is making the future of work look bleak – but it could be an opportunity",
+        "summary": "New technology has workers spooked, but experts say it’s creating an opening for a resurgence in worker powerIn 2026, it’s a scary time to work for a living.Gone are the days of quiet quitting, the Great Resignation, and the highly visible union-organizing battles that began the decade and signaled ...",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-work-future",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-19T13:00:12+00:00"
+      },
+      {
+        "id": "e32f664979a2",
+        "title": "Move Everything hacks Ableton Move for custom devices — and accessibility",
+        "summary": "Move Everything is a hack for Move that lets you run custom synths, effects, and controllers alongside stock Move functions. But the truly momentous development is that its creator has added screen reader support, which makes Move the first truly standalone groovebox open to blind and visually impai...",
+        "url": "https://cdm.link/move-everything-accessibility/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-19T11:54:09+00:00"
+      },
       {
         "id": "f92f265183bf",
         "title": "Inside the Gay Tech Mafia",
@@ -313,14 +329,6 @@
         "published": "2026-02-18T20:16:39+00:00"
       },
       {
-        "id": "a628abc4fd2a",
-        "title": "Tesla avoids California sales ban by removing ‘autopilot’ from marketing",
-        "summary": "State regulators walk back suspension threat and say Tesla has stopped misleading drivers about the safety of its carsTesla will avoid a 30-day suspension of its dealer and manufacturer licenses in California, its biggest market, after the US electric vehicle maker stopped using the term “autopilot”...",
-        "url": "https://www.theguardian.com/technology/2026/feb/18/tesla-california-autopilot-marketing",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-18T20:05:59+00:00"
-      },
-      {
         "id": "8f774dfaa622",
         "title": "This Defense Company Made AI Agents That Blow Things Up",
         "summary": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
@@ -407,14 +415,6 @@
         "url": "https://cdm.link/poly-flanger-guide/",
         "source": "CDM Create Digital Music",
         "published": "2026-02-18T12:10:53+00:00"
-      },
-      {
-        "id": "9f621cc162e9",
-        "title": "The Rise of RentAHuman, the Marketplace Where Bots Put People to Work",
-        "summary": "WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: \"People would love to have a clanker as their boss.\"",
-        "url": "https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
-        "source": "Business Latest",
-        "published": "2026-02-18T11:00:00+00:00"
       }
     ],
     "序(month)": [
