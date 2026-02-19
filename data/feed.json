@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-02-19T18:04:23.127111+00:00",
+  "updated_at": "2026-02-19T20:03:44.751344+00:00",
   "trending": [
-    "alcaraz",
-    "carlos alcaraz",
-    "wrongful death lawyer",
-    "elina svitolina",
-    "national margarita day",
-    "fenerbahçe - nottingham forest",
-    "paok vs celta vigo",
-    "winter storm warning",
-    "womens hockey usa",
-    "flood watch"
+    "jannik sinner",
+    "shin ji-a",
+    "celtic vs vfb stuttgart",
+    "iida karhunen",
+    "haley winn",
+    "rou country",
+    "olga mikutina",
+    "olympics figure skating",
+    "lara naki gutmann",
+    "crystal palace"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "fc44cfd3b5ea",
+        "title": "The boys’ club no one was supposed to write about",
+        "summary": "Reporter Zoë Bernard spent months talking to 51 people (31 of them gay men) to map out a subculture that's been an open secret in Silicon Valley for years: gay men, at the upper echelons of tech, quietly raising up their own networks the way powerful people have always done.",
+        "url": "https://techcrunch.com/2026/02/19/the-boys-club-no-one-was-supposed-to-write-about/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T19:58:09+00:00"
+      },
+      {
+        "id": "94fd188209de",
+        "title": "SpaceX’s Starbase city is getting its own court",
+        "summary": "Elon Musk's company town already has a volunteer fire department, and is forming a Starbase Police Department. Now it wants its own court, too.",
+        "url": "https://techcrunch.com/2026/02/19/spacexs-starbase-city-is-getting-its-own-court/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T19:55:06+00:00"
+      },
+      {
+        "id": "0b69f227f8b6",
+        "title": "As browser wars heat up, Chrome adds new productivity features",
+        "summary": "Split View, PDF annotations and 'Save to Chrome' features come to the Chrome browser.",
+        "url": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T18:30:51+00:00"
+      },
+      {
+        "id": "bf8427ae81e4",
+        "title": "Reddit is testing a new AI search feature for shopping",
+        "summary": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
+        "url": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
+        "source": "TechCrunch",
+        "published": "2026-02-19T18:22:51+00:00"
+      },
+      {
+        "id": "9ab1c015da14",
+        "title": "F1: Preseason tests shows how different 2026 will be",
+        "summary": "Everyone's trying to get mileage as F1 undergoes huge technical changes.",
+        "url": "https://arstechnica.com/cars/2026/02/f1-preseason-tests-shows-how-different-2026-will-be/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-19T18:22:29+00:00"
+      },
       {
         "id": "907caf9c6983",
         "title": "Google announces Gemini 3.1 Pro, says it's better at complex problem-solving",
@@ -56,7 +96,7 @@
       },
       {
         "id": "e632c27cf94c",
-        "title": "SoftBank to spend an eye-popping $33B to build huge U.S. gas power plant",
+        "title": "SoftBank to spend an eye-popping $33B to build huge US gas power plant",
         "summary": "If completed, the project would be among the largest and most expensive natural gas power plants.",
         "url": "https://techcrunch.com/2026/02/19/softbank-to-spend-an-eye-popping-33b-to-build-huge-u-s-gas-power-plant/",
         "source": "TechCrunch",
@@ -173,56 +213,40 @@
         "url": "https://www.theguardian.com/world/2026/feb/19/horse-meat-set-banned-italy-draft-equine-bill",
         "source": "Business | The Guardian",
         "published": "2026-02-19T14:08:33+00:00"
-      },
-      {
-        "id": "c53cdb0cf68c",
-        "title": "These former Big Tech engineers are using AI to navigate Trump’s trade chaos",
-        "summary": "Amari AI is making custom AI-powered software that helps customs brokers modernize and minimize constantly shifting trade policies.",
-        "url": "https://techcrunch.com/2026/02/19/this-former-big-tech-engineers-are-using-ai-to-navigate-trumps-trade-chaos/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T14:00:00+00:00"
-      },
-      {
-        "id": "48d0bb685c55",
-        "title": "For open-source programs, AI coding tools are a mixed blessing",
-        "summary": "AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building new features is easier but maintaining them is just as hard.",
-        "url": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T14:00:00+00:00"
-      },
-      {
-        "id": "d0776eaa63f2",
-        "title": "Altman and Amodei share a moment of awkwardness at India’s big AI summit",
-        "summary": "When Prime Minister Narendra Modi prompted speakers at the event to join hands and raise them in a show of unity, all executives on stage obliged, except OpenAI's Sam Altman and Anthropic's Dario Amodei, who held their hands conspicuously apart.",
-        "url": "https://techcrunch.com/2026/02/19/altman-and-amodei-share-a-moment-of-awkwardness-at-indias-big-ai-summit/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T13:49:06+00:00"
-      },
-      {
-        "id": "e9cc5cd95924",
-        "title": "Rare gifted word-learner dogs like to share their toys",
-        "summary": "\"It raises the possibility that social motivation plays a role in why some dogs end up learning object names.\"",
-        "url": "https://arstechnica.com/science/2026/02/rare-gifted-word-learner-dogs-like-to-share-their-toys/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-19T13:32:52+00:00"
-      },
-      {
-        "id": "447dcb1e2d00",
-        "title": "How the anxiety over AI could fuel a new workers’ movement",
-        "summary": "New technology has workers spooked, but experts say it’s creating an opening for a resurgence in worker powerIn 2026, it’s a scary time to work for a living.Gone are the days of quiet quitting, the Great Resignation, and the highly visible union-organizing battles that began the decade and signaled ...",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-work-future",
-        "source": "Business | The Guardian",
-        "published": "2026-02-19T13:00:12+00:00"
       }
     ],
     "破(day)": [
       {
+        "id": "88129f793120",
+        "title": "Inside the Rolling Layoffs at Jack Dorsey’s Block",
+        "summary": "Workers describe a deteriorating culture at Block, the company behind Square and Cash App, where layoffs continue and employees are expected to use AI tools daily.",
+        "url": "https://www.wired.com/story/inside-rolling-layoffs-jack-dorsey-block/",
+        "source": "Business Latest",
+        "published": "2026-02-19T19:53:11+00:00"
+      },
+      {
+        "id": "292b5d53960c",
+        "title": "Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
+        "summary": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
+        "url": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
+        "source": "Business Latest",
+        "published": "2026-02-19T19:30:00+00:00"
+      },
+      {
+        "id": "48c62d3b7bd8",
+        "title": "Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift",
+        "summary": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
+        "url": "https://www.wired.com/story/perplexity-ads-shift-search-google/",
+        "source": "Business Latest",
+        "published": "2026-02-19T19:12:38+00:00"
+      },
+      {
         "id": "cf5e72c273e7",
         "title": "Gemini 3.1 Pro",
-        "summary": "Gemini 3.1 Pro\nThe first in the Gemini 3.1 series, priced the same as Gemini 3 Pro ($2/million input, $12/million output under 200,000 tokens, $4/$18 for 200,000 to 1,000,000).\nThey boast about its improved SVG animation performance compared to Gemini 3 Pro in the announcement!\nI tried \"Generate an ...",
+        "summary": "Gemini 3.1 Pro\nThe first in the Gemini 3.1 series, priced the same as Gemini 3 Pro ($2/million input, $12/million output under 200,000 tokens, $4/$18 for 200,000 to 1,000,000). That's less than half the price of Claude Opus 4.6 with very similar benchmark scores to that model.\nThey boast about its i...",
         "url": "https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything",
         "source": "Simon Willison's Weblog",
-        "published": "2026-02-19T17:49:17+00:00"
+        "published": "2026-02-19T17:58:37+00:00"
       },
       {
         "id": "6f1779ac5afb",
@@ -391,33 +415,17 @@
         "url": "https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-18T16:50:07+00:00"
-      },
-      {
-        "id": "591033a6b6c3",
-        "title": "Big Tech Says Generative AI Will Save the Planet. It Doesn’t Offer Much Proof",
-        "summary": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
-        "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
-        "source": "Science Latest",
-        "published": "2026-02-18T15:17:31+00:00"
-      },
-      {
-        "id": "1dc548b5b7b4",
-        "title": "The best kettles in the UK to save energy and speed up your cuppa, tested",
-        "summary": "We boiled litres of water to find the best electric kettles, from hard-water heroes to vintage-style, repairable and wifi-connected models• The best air fryers, tried and tested for crisp and crunchDespite the march of progress, the humble kettle remains a kitchen staple. It’s what we turn to in tim...",
-        "url": "https://www.theguardian.com/thefilter/2025/jul/22/best-electric-kettles-uk",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-18T15:00:16+00:00"
-      },
-      {
-        "id": "1fafd7a54df2",
-        "title": "Is it smarter to have a dumb home? ‘We’ve seen clients unable to flush toilets’",
-        "summary": "Australia experienced a boom in smart-home technology at the start of the 2020s. Years on, some early adopters are experiencing buyer’s remorseGet our weekend culture and lifestyle emailWhen the smart home devices Elly Bailey was expecting in the post never showed up at her Gold Coast home, she was ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/18/smart-home-v-dumb-home-technology-system",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-18T14:00:36+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "6f5e14766d64",
+        "title": "The Seers: Mystic Cats, Feminist Histories, and the Art of the Archive",
+        "summary": "Internet Archive&#8217;s latest Artist in Residence, Cindy Rehm, has created The Seers, a project comprised of one hundred college drawings using images largely sourced from historic books at the Internet [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/19/the-seers-mystic-cats-feminist-histories-and-the-art-of-the-archive/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-19T19:48:19+00:00"
+      },
       {
         "id": "dfe94e9bc23e",
         "title": "Happy In A Silent Way Day to all who celebrate",
@@ -609,14 +617,6 @@
         "url": "https://www.min-on.org/zh-hant/14681/%e6%b0%91%e9%9f%b3%e6%8e%a2%e6%88%88%e7%b3%bb%e5%88%97%e7%ac%ac55%e8%bc%af%ef%bc%9a%e5%b7%b4%e5%8b%83%e7%be%85%c2%b7%e7%93%a6%e8%90%8a%e5%85%ad%e9%87%8d%e5%a5%8f%e5%95%9f%e5%8b%95%e6%97%a5%e6%9c%ac/",
         "source": "Chinese Traditional – Min-On Website",
         "published": "2026-02-02T08:30:14+00:00"
-      },
-      {
-        "id": "37f7dbbf8455",
-        "title": "高雄果嶺自然公園的歷史地景變遷",
-        "summary": "撰文/廖德宗（居住於高雄市，從事資訊業，業餘進行人文地理研究） 摘要 本文以高雄市政府2025年10月開放之高 [&#8230;]",
-        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260202/",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心",
-        "published": "2026-02-01T19:58:15+00:00"
       }
     ]
   }
