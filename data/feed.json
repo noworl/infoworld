@@ -1,19 +1,107 @@
 {
-  "updated_at": "2026-02-20T17:09:50.918621+00:00",
+  "updated_at": "2026-02-20T19:49:48.824363+00:00",
   "trending": [
-    "coco gauff",
-    "finland hockey roster",
-    "mlb",
-    "mikko rantanen",
-    "oman national cricket team vs australia national cricket team standings",
-    "savannah chrisley",
-    "vti",
-    "new york times",
-    "canada finland",
-    "russian fighter jets"
+    "cubs",
+    "jakub mensik",
+    "arthur fils",
+    "lsu baseball schedule",
+    "athletic - elche c. f.",
+    "fetty wap",
+    "gus kenworthy",
+    "alex ferreira",
+    "john irving",
+    "brest vs marseille"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "f87307620edb",
+        "title": "Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more",
+        "summary": "iOS 26.4 introduces several updates, including an AI-powered playlist generation feature in Apple Music, support for video content in the Podcasts app, end-to-end encryption (E2EE) for RCS messages, and more.",
+        "url": "https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/",
+        "source": "TechCrunch",
+        "published": "2026-02-20T19:44:22+00:00"
+      },
+      {
+        "id": "e6bf346d6445",
+        "title": "InScope nabs $14.5M to solve the pain of financial reporting",
+        "summary": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
+        "url": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
+        "source": "TechCrunch",
+        "published": "2026-02-20T19:24:57+00:00"
+      },
+      {
+        "id": "83c0091350ba",
+        "title": "Wikipedia blacklists Archive.today, starts removing 695,000 archive links",
+        "summary": "If DDoSing a blog wasn't bad enough, archive site also tampered with web snapshots.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T18:35:43+00:00"
+      },
+      {
+        "id": "6f7d3bcc7e9b",
+        "title": "UK ‘working with US’ to analyse impact of supreme court’s ruling against tariffs",
+        "summary": "Government ‘expects privileged trading position’ to go on as EU ‘seeks clarity’ over Trump administration’s next stepsBritain and the EU said they were assessing the implications of the US supreme court ruling against Donald Trump’s global tariffs, while business groups reacted to the court’s announ...",
+        "url": "https://www.theguardian.com/politics/2026/feb/20/uk-eu-reaction-us-supreme-court-ruling-trump-tariffs",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T18:34:47+00:00"
+      },
+      {
+        "id": "572bfa0d4aac",
+        "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
+        "summary": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game \"Baldur's Gate.\"",
+        "url": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
+        "source": "TechCrunch",
+        "published": "2026-02-20T18:26:54+00:00"
+      },
+      {
+        "id": "aa4998331d17",
+        "title": "Ukrainian man jailed for identity theft that helped North Koreans get jobs at US companies",
+        "summary": "A Ukrainian man has been sentenced for helping North Koreans gain fraudulent employment at dozens of U.S. companies and funnel that money back to the regime to fund its nuclear weapons program.",
+        "url": "https://techcrunch.com/2026/02/20/ukrainian-man-jailed-for-identity-theft-that-helped-north-koreans-get-jobs-at-us-companies/",
+        "source": "TechCrunch",
+        "published": "2026-02-20T17:38:59+00:00"
+      },
+      {
+        "id": "3fcbac20bec6",
+        "title": "Tesla loses bid to overturn $243M Autopilot verdict",
+        "summary": "\"The grounds for relief that Tesla relies upon are virtually the same as those Tesla put forth previously during the course of trial.\"",
+        "url": "https://techcrunch.com/2026/02/20/tesla-loses-bid-to-overturn-243m-autopilot-verdict/",
+        "source": "TechCrunch",
+        "published": "2026-02-20T17:37:24+00:00"
+      },
+      {
+        "id": "fc90becf1637",
+        "title": "Why Final Fantasy is now targeting PC as its \"lead platform\"",
+        "summary": "Director says PC is the \"foundation\" when targeting \"high-end environments first.\"",
+        "url": "https://arstechnica.com/gaming/2026/02/why-final-fantasy-is-now-targeting-pc-as-its-lead-platform/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T17:26:59+00:00"
+      },
+      {
+        "id": "a0e9f6ec0830",
+        "title": "Amazon’s cloud ‘hit by two outages caused by AI tools last year’",
+        "summary": "Reported issues at Amazon Web Services raise questions about firm’s use of artificial intelligence as it cuts staffAmazon’s huge cloud computing arm reportedly experienced at least two outages caused by its own artificial intelligence tools, raising questions about the company’s embrace of AI as it ...",
+        "url": "https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T17:24:16+00:00"
+      },
+      {
+        "id": "4352ea936eb9",
+        "title": "Brighter UK economy gives Reeves a springboard for March statement",
+        "summary": "Record public finances accompany stronger retail sales and business activity but some analysts express cautionThe economic backdrop to Rachel Reeves’s upcoming spring statement appeared to brighten on Friday after a trio of reports painted a better-than-expected picture of the UK economy.Record mont...",
+        "url": "https://www.theguardian.com/business/2026/feb/20/brighter-uk-economy-rachel-reeves-march-spring-statement",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T17:24:02+00:00"
+      },
+      {
+        "id": "c7f689524d5f",
+        "title": "\"Million-year-old\" fossil skulls from China are far older—and not Denisovans",
+        "summary": "The revised age may help make sense of 2-million-year-old stone tools elsewhere in China.",
+        "url": "https://arstechnica.com/science/2026/02/new-dates-on-chinese-fossils-raise-question-of-how-many-times-we-left-africa/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T17:03:06+00:00"
+      },
       {
         "id": "ee87d540be3d",
         "title": "Threads posts can now be shared directly to your Instagram Story without leaving the app",
@@ -23,24 +111,32 @@
         "published": "2026-02-20T16:55:12+00:00"
       },
       {
-        "id": "73784a9b4124",
-        "title": "Stock markets rally and US dollar dips after supreme court rules against Trump’s sweeping tariffs; Hat-trick of good UK economic news – business live",
-        "summary": "Investors respond after US supreme court rules that Donald Trump exceeded his authority in imposing sweeping tariffs under emergency powersUS Politics live: US supreme court rules against Donald Trump’s sweeping global tariffsUK reports record-breaking budget surplus of £30.4bn in surprise boost for...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/20/retail-sales-and-public-finances-data-to-show-state-of-british-economy-business-live",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T16:44:35+00:00"
+        "id": "67e876f2301a",
+        "title": "It's outright war for the Iron Throne in House of the Dragon S3 teaser",
+        "summary": "\"The king has abdicated his throne. A new line is coming. A new line of unsullied kings.\"",
+        "url": "https://arstechnica.com/culture/2026/02/its-outright-war-for-the-iron-throne-in-house-of-the-dragon-s3-teaser/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T16:40:31+00:00"
       },
       {
         "id": "355d3107a0ae",
         "title": "Politico owner Axel Springer joins rival Telegraph bid led by Dovid Efune",
-        "summary": "Sale to Lord Rothermere, Daily Mail owner, referred to regulators on media plurality and competition groundsMedia company Axel Springer, the owner of Politico and Business Insider, has joined a rival bid for the Telegraph, as a proposed £500m sale to the owner of the Daily Mail enters months of scru...",
+        "summary": "Sale to Lord Rothermere, Daily Mail owner, referred to regulators on media plurality and competition groundsThe media company Axel Springer, the owner of Politico and Business Insider, has joined a rival bid for the Telegraph as a proposed £500m sale to the owner of the Daily Mail faces months of sc...",
         "url": "https://www.theguardian.com/media/2026/feb/20/politico-owner-axel-springer-joins-rival-telegraph-bid-led-by-dovid-efune",
         "source": "Business | The Guardian",
         "published": "2026-02-20T16:35:20+00:00"
       },
       {
+        "id": "038915f4d914",
+        "title": "Nintendo brings GBA-era Pokémon to the Switch, but not Switch Online subscribers",
+        "summary": "Games appear to be mostly unmodified ports of the well-regarded remakes.",
+        "url": "https://arstechnica.com/gaming/2026/02/pokemon-red-and-greens-gba-remakes-are-getting-re-released-on-switch-for-20-a-pop/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T16:30:21+00:00"
+      },
+      {
         "id": "4f7561e29093",
-        "title": "Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’",
+        "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
         "summary": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
         "url": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
         "source": "TechCrunch",
@@ -87,14 +183,6 @@
         "published": "2026-02-20T15:37:15+00:00"
       },
       {
-        "id": "a0e9f6ec0830",
-        "title": "Amazon’s cloud ‘hit by two outages caused by AI tools last year’",
-        "summary": "Reported issues at Amazon Web Services raise questions about firm’s use of artificial intelligence as it cuts staffBusiness live – latest updatesAmazon’s huge cloud computing arm reportedly experienced at least two outages caused by its own artificial intelligence tools, raising questions about the ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T15:34:05+00:00"
-      },
-      {
         "id": "cd967cf4287b",
         "title": "Asos co-founder dies in fall from 18-storey building in Thailand",
         "summary": "Police say UK entrepreneur Quentin Griffiths fell from 17th floor of an 18-floor condominium on 9 FebruaryQuentin Griffiths, the co-founder of the online fashion retailer Asos, has died after falling from an apartment building in the Thai seaside resort city of Pattaya.Police told Reuters that the 5...",
@@ -121,101 +209,45 @@
       {
         "id": "480f658d7e18",
         "title": "Statistics chief complains to BBC over impersonation of staff in hit drama Industry",
-        "summary": "ONS tells broadcaster that depiction risks undermining interviewers’ ‘delicate relationship’ with the publicBusiness live – latest updates\n Best known for its depiction of City traders as drug-addled, sex-crazed adrenaline junkies, the BBC hit series Industry has unexpectedly attracted criticism for...",
+        "summary": "ONS tells broadcaster that depiction risks undermining interviewers’ ‘delicate relationship’ with the public\n Best known for its depiction of City traders as drug-addled, sex-crazed adrenaline junkies, the BBC hit series Industry has unexpectedly attracted criticism for its portrayal of doorstep dat...",
         "url": "https://www.theguardian.com/media/2026/feb/20/ons-office-national-statistics-tv-industry-bbc",
         "source": "Business | The Guardian",
         "published": "2026-02-20T15:18:33+00:00"
-      },
-      {
-        "id": "26691bc7094e",
-        "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
-        "summary": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
-        "url": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T15:10:40+00:00"
-      },
-      {
-        "id": "150a6d9b894a",
-        "title": "TechCrunch Disrupt 2026 Super Early Bird rates end in 1 week",
-        "summary": "The lowest ticket rates of the year for TechCrunch Disrupt 2026 ends next Friday, February 27. Save up to $680 on your pass. Register now before prices increase.",
-        "url": "https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T15:00:00+00:00"
-      },
-      {
-        "id": "27ff1c511b4e",
-        "title": "Tesla slashes Cybertruck prices as it tries to move (unpainted) metal",
-        "summary": "The stainless steel pickup truck is Tesla's first real flop.",
-        "url": "https://arstechnica.com/cars/2026/02/tesla-slashes-cybertruck-prices-as-it-tries-to-move-unpainted-metal/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-20T14:31:05+00:00"
-      },
-      {
-        "id": "f26c42be63f2",
-        "title": "Why investors are going gaga over solid-state transformers",
-        "summary": "The technology promises to replace several parts of the grid with one device that’s both controllable and updatable.",
-        "url": "https://techcrunch.com/2026/02/20/why-investors-are-going-gaga-over-solid-state-transformers/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T14:30:00+00:00"
-      },
-      {
-        "id": "eda9e92978e1",
-        "title": "Consultancy co-founded by Peter Mandelson falls into administration",
-        "summary": "Global Counsel stops trading after clients cut ties over former ambassador’s relationship with Jeffrey EpsteinBusiness live – latest updatesThe consultancy co-founded by Peter Mandelson has collapsed into administration, after a number of clients cut ties with the company over the former ambassador’...",
-        "url": "https://www.theguardian.com/politics/2026/feb/20/global-counsel-peter-mandelson-advisory-consultancy-administration",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T14:26:04+00:00"
-      },
-      {
-        "id": "f4ce340c96e4",
-        "title": "An AI coding bot took down Amazon Web Services",
-        "summary": "Blames \"user error, not AI error\" for incident in December involving its Kiro tool.",
-        "url": "https://arstechnica.com/ai/2026/02/an-ai-coding-bot-took-down-amazon-web-services/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-20T14:13:32+00:00"
-      },
-      {
-        "id": "83af0f55ae01",
-        "title": "Is the share market headed toward a ‘SaaS-pocalypse’ – and what would that mean?",
-        "summary": "Software companies are facing major disruption from AI and investors are pulling back, wiping off billions in value – but does it spell the end for software-as-a-service?Get our breaking news email, free app or daily news podcastAfter years of questioning whether artificial intelligence was creating...",
-        "url": "https://www.theguardian.com/australia-news/2026/feb/21/what-would-share-stock-market-saaspocalypse-mean-saas-apocalypse-meaning",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T14:00:18+00:00"
-      },
-      {
-        "id": "36ab50cb8bd0",
-        "title": "Nascent tech, real fear: how AI anxiety is upending career ambitions",
-        "summary": "AI has convinced computer science students to shift majors and white-collar workers to change careers, while some are embracing itMatthew Ramirez started at Western Governors University as a computer science major in 2025, drawn by the promise of a high-paying, flexible career as a programmer. But a...",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/20/ai-future-work-technology-white-collar",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T14:00:17+00:00"
-      },
-      {
-        "id": "901a6f84fefa",
-        "title": "OpenAI says 18 to 24-year-olds account for nearly 50% of ChatGPT usage in India",
-        "summary": "The company said on Friday that users between 18 and 24 years of age account for nearly 50% of all messages sent by Indians to ChatGPT, and users under 30 accounted for 80% of usage in the country.",
-        "url": "https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T13:57:03+00:00"
-      },
-      {
-        "id": "46d0ef7c9040",
-        "title": "Why are so many academics in the Epstein files? It’s not just about money | Christopher Marquis",
-        "summary": "In a university ecosystem that breeds hunger for status, Epstein made scholars feel like celebritiesThe Jeffrey Epstein story is often told as the intersection of two obsessions: sexual abuse and money. The recently released emails certainly contain significant evidence of both. But after more than ...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/20/epstein-files-professors-academics",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T13:00:12+00:00"
-      },
-      {
-        "id": "1a496ea92e4f",
-        "title": "The OpenAI mafia: 18 startups founded by alumni",
-        "summary": "The OpenAI mafia: 15 of the most notable startups founded by alumni",
-        "url": "https://techcrunch.com/2026/02/20/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T12:45:55+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "91ccd10bdfa6",
+        "title": "Here’s half an hour of string-reed Werner Durand and John Krausbauer drones",
+        "summary": "Do you love drones? I mean, like you're craving nothing more than aggressive drones coming right into your ears from violin and self-made reed instruments for 27 minutes, 28 seconds straight? The legendary Werner Durand and John Krausbauer have you covered on label-for-the-heads Moving Furniture Rec...",
+        "url": "https://cdm.link/werner-durand-and-john-krausbauer-drones-and-more/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-20T17:39:54+00:00"
+      },
+      {
+        "id": "aa1b0253f18e",
+        "title": "AI hit: India hungry to harness US tech giants’ technology at Delhi summit",
+        "summary": "Narendra Modi’s thirst to supercharge economic growth is matched by US desire to inject AI into world’s biggest democracyIndia celebrates 80 years of independence from the UK in August 2027. At about that same moment, “early versions of true super intelligence” could emerge, Sam Altman, the co-found...",
+        "url": "https://www.theguardian.com/world/2026/feb/20/india-delhi-summit-ai-technology-us-economic-growth",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-20T17:25:08+00:00"
+      },
+      {
+        "id": "a0e9f6ec0830",
+        "title": "Amazon’s cloud ‘hit by two outages caused by AI tools last year’",
+        "summary": "Reported issues at Amazon Web Services raise questions about firm’s use of artificial intelligence as it cuts staffAmazon’s huge cloud computing arm reportedly experienced at least two outages caused by its own artificial intelligence tools, raising questions about the company’s embrace of AI as it ...",
+        "url": "https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-20T17:24:16+00:00"
+      },
+      {
+        "id": "ef02aedaaa15",
+        "title": "ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+        "summary": "ggml.ai joins Hugging Face to ensure the long-term progress of Local AI\nI don't normally cover acquisition news like this, but I have some thoughts.\nIt's hard to overstate the impact Georgi Gerganov has had on the local model space. Back in March 2023 his release of llama.cpp made it possible to run...",
+        "url": "https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-20T17:12:55+00:00"
+      },
       {
         "id": "115a07e0afdc",
         "title": "AI Safety Meets the War Machine",
@@ -241,12 +273,12 @@
         "published": "2026-02-20T16:00:14+00:00"
       },
       {
-        "id": "a0e9f6ec0830",
-        "title": "Amazon’s cloud ‘hit by two outages caused by AI tools last year’",
-        "summary": "Reported issues at Amazon Web Services raise questions about firm’s use of artificial intelligence as it cuts staffBusiness live – latest updatesAmazon’s huge cloud computing arm reportedly experienced at least two outages caused by its own artificial intelligence tools, raising questions about the ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-20T15:34:05+00:00"
+        "id": "cabb5fd14b90",
+        "title": "林孟皇／從「物」的枷鎖中解放生命：《夢想成為律師的律師們》與《公益律師》中寵物的法理正義",
+        "summary": "愈來愈多人將寵物視為家人，但牠們在法律上的地位是什麼？無論螢幕裡外，法庭上關於寵物探視權的爭論，是一場推動法律演化的前哨戰。人的溫度能填補制度的冷酷缺口嗎？",
+        "url": "https://www.twreporter.org/a/saturday-features-legal-profession-beyond-the-bar-and-pro-bono",
+        "source": "報導者",
+        "published": "2026-02-20T16:00:00+00:00"
       },
       {
         "id": "f1cbe0262eb9",
@@ -329,6 +361,14 @@
         "published": "2026-02-20T00:31:20+00:00"
       },
       {
+        "id": "46d9be782357",
+        "title": "Recovering lost code",
+        "summary": "Reached the stage of parallel agent psychosis where I've lost a whole feature - I know I had it yesterday, but I can't seem to find the branch or worktree or cloud instance or checkout with it in.\n... found it! Turns out I'd been hacking on a random prototype in /tmp and then my computer crashed and...",
+        "url": "https://simonwillison.net/2026/Feb/19/recovering-lost-code/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-19T23:48:35+00:00"
+      },
+      {
         "id": "49d418c8b739",
         "title": "An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
         "summary": "A staffer of the Incognito dark web market was secretly controlled by the FBI—and still allegedly approved the sale of fentanyl-tainted pills, including those from a dealer linked to a confirmed death.",
@@ -375,46 +415,6 @@
         "url": "https://www.theguardian.com/technology/2026/feb/19/us-builds-website-that-will-allow-europeans-to-view-blocked-content",
         "source": "Technology | The Guardian",
         "published": "2026-02-19T19:15:27+00:00"
-      },
-      {
-        "id": "48c62d3b7bd8",
-        "title": "Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift",
-        "summary": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
-        "url": "https://www.wired.com/story/perplexity-ads-shift-search-google/",
-        "source": "Business Latest",
-        "published": "2026-02-19T19:12:38+00:00"
-      },
-      {
-        "id": "cf5e72c273e7",
-        "title": "Gemini 3.1 Pro",
-        "summary": "Gemini 3.1 Pro\nThe first in the Gemini 3.1 series, priced the same as Gemini 3 Pro ($2/million input, $12/million output under 200,000 tokens, $4/$18 for 200,000 to 1,000,000). That's less than half the price of Claude Opus 4.6 with very similar benchmark scores to that model.\nThey boast about its i...",
-        "url": "https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-19T17:58:37+00:00"
-      },
-      {
-        "id": "6f1779ac5afb",
-        "title": "洪廣冀／不只是大屯火山群：歷史層疊，品嚐《草山千層派》",
-        "summary": "清人視作一條從中國延伸而來的龍脈、日人眼中鬼島上的淨土、國民黨人的軍事中心⋯⋯除卻這些詮釋，大屯火山群究竟是一道怎樣風景？台大地理系副教授洪廣冀認為，我們不能只是看，還要走進山裡，品嚐草山歷史的豐富滋味。",
-        "url": "https://www.twreporter.org/a/bookreview-tsao-shan-architectures",
-        "source": "報導者",
-        "published": "2026-02-19T16:00:00+00:00"
-      },
-      {
-        "id": "3e2ea55c85e2",
-        "title": "Digital blackface flourishes under Trump and AI: ‘The state is bending reality’",
-        "summary": "From TikTok deepfakes to smears put out by the White House, fake videos modeled on Black archetypes are running rampant - putting Black users at riskLate last year, as a US government shutdown cut off the Snap benefits that low-income families rely on for groceries, videos on social media cast the f...",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-digital-blackface",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-19T15:35:09+00:00"
-      },
-      {
-        "id": "e32f664979a2",
-        "title": "Move Everything hacks Ableton Move for custom devices — and accessibility",
-        "summary": "Move Everything is a hack for Move that lets you run custom synths, effects, and controllers alongside stock Move functions. But the truly momentous development is that its creator has added screen reader support, which makes Move the first truly standalone groovebox open to blind and visually impai...",
-        "url": "https://cdm.link/move-everything-accessibility/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-19T11:54:09+00:00"
       }
     ],
     "序(month)": [
