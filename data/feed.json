@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-20T21:53:17.947614+00:00",
+  "updated_at": "2026-02-20T23:03:40.612248+00:00",
   "trending": [
-    "luke hughes",
-    "alexandra daddario",
-    "auston matthews",
-    "wayne gretzky",
-    "kamila sellier",
-    "jack eichel",
-    "charlie mcavoy",
-    "lindsay clancy",
-    "sam antonacci",
-    "logan wilson"
+    "boca juniors - racing",
+    "league of legends",
+    "david hasselhoff",
+    "iftar time",
+    "mls",
+    "susan rice",
+    "cernak",
+    "bianca dias",
+    "closing ceremony olympics",
+    "lsu baseball score"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "6775bdbf2e8c",
+        "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
+        "summary": "The&#160;creator&#160;economy is evolving fast, and ad revenue alone&#160;isn&#8217;t&#160;cutting it anymore.&#160;YouTubers are launching product lines,&#160;acquiring&#160;startups, and building actual business empires.&#160;In fact,&#160;MrBeast&#8217;s company&#160;bought fintech startup Step, ...",
+        "url": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+        "source": "TechCrunch",
+        "published": "2026-02-20T23:00:00+00:00"
+      },
+      {
+        "id": "cd6481ed7485",
+        "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
+        "summary": "Brendan Carr wants \"patriotic\" shows for Trump's yearlong America 250 celebration.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T22:00:59+00:00"
+      },
+      {
+        "id": "e12d1d922d18",
+        "title": "Meta's flagship metaverse service leaves VR behind",
+        "summary": "The company asserts it will continue to make VR headsets, though.",
+        "url": "https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T21:49:22+00:00"
+      },
       {
         "id": "d63f774a9055",
         "title": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show",
@@ -189,33 +213,17 @@
         "url": "https://arstechnica.com/gaming/2026/02/pokemon-red-and-greens-gba-remakes-are-getting-re-released-on-switch-for-20-a-pop/",
         "source": "Ars Technica - All content",
         "published": "2026-02-20T16:30:21+00:00"
-      },
-      {
-        "id": "4f7561e29093",
-        "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
-        "summary": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
-        "url": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T16:25:54+00:00"
-      },
-      {
-        "id": "f762c4c09961",
-        "title": "Meta’s metaverse leaves virtual reality",
-        "summary": "Meta said it's shifting focus for Horizon Worlds to be \"almost exclusively mobile\" and that it will separate its Quest VR platform from the virtual world.",
-        "url": "https://techcrunch.com/2026/02/20/meta-metaverse-leaves-vr-horizon-worlds-mobile/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T16:00:53+00:00"
-      },
-      {
-        "id": "9e8f24703972",
-        "title": "‘It’s survival of the fittest’: the UK kebab chain seeking an edge with robot slicers",
-        "summary": "German Doner Kebab aims to open at 25 new sites this year with self-service screens and healthy options aimed at gen Z They are already packing our groceries and delivering shopping. Now robots are coming to the kebab shop, alongside self-service screens and loyalty apps, as takeaways look for ways ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/20/german-doner-kebab-uk-takeaway-fast-food-business-robotic-slicers",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T16:00:14+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "e874a90c4123",
+        "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+        "summary": "Taalas serves Llama 3.1 8B at 17,000 tokens/second\nThis new Canadian hardware startup just announced their first product - a custom hardware implementation of the Llama 3.1 8B model (from July 2024) that can run at a staggering 17,000 tokens/second.\nI was going to include a video of their demo but i...",
+        "url": "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-20T22:10:04+00:00"
+      },
       {
         "id": "47a809e48fb8",
         "title": "They Bet Against Trump’s Tariffs. Now They Stand to Make Millions",
@@ -407,14 +415,6 @@
         "url": "https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/",
         "source": "Business Latest",
         "published": "2026-02-19T20:45:40+00:00"
-      },
-      {
-        "id": "5bd117156c07",
-        "title": "‘Pew Pew’: The Chinese Companies Marketing Anti-Drone Weapons on TikTok",
-        "summary": "On TikTok, Chinese manufacturers are advertising signal-blocking weapons with the breezy cadence of consumer lifestyle advertising.",
-        "url": "https://www.wired.com/story/pew-pew-the-chinese-sellers-marketing-military-drones-on-tiktok/",
-        "source": "Business Latest",
-        "published": "2026-02-19T19:59:38+00:00"
       }
     ],
     "序(month)": [
