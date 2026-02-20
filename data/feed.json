@@ -1,23 +1,47 @@
 {
-  "updated_at": "2026-02-20T19:49:48.824363+00:00",
+  "updated_at": "2026-02-20T20:58:23.770520+00:00",
   "trending": [
-    "cubs",
-    "jakub mensik",
-    "arthur fils",
-    "lsu baseball schedule",
-    "athletic - elche c. f.",
-    "fetty wap",
-    "gus kenworthy",
-    "alex ferreira",
-    "john irving",
-    "brest vs marseille"
+    "brady tkachuk",
+    "hellebuyck",
+    "white sox",
+    "texas rangers",
+    "asha sharma",
+    "juraj slafkovsky",
+    "mariners",
+    "connor hellebuyck",
+    "del taco restaurant closures",
+    "samuel hlavaj"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "2f94cc5072ba",
+        "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+        "summary": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse.",
+        "url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+        "source": "TechCrunch",
+        "published": "2026-02-20T20:52:48+00:00"
+      },
+      {
+        "id": "6376c9195c84",
+        "title": "What will happen to Trump’s tariffs after supreme court verdict?",
+        "summary": "6-3 ruling against unilateral imposition of tariffs without congressional approval labelled a ‘disgrace’ by TrumpTrump illegally used executive power to impose global tariffs, supreme court rulesUS politics live – latest updatesThe US supreme court has struck down Donald Trump’s flagship policy of i...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/20/what-will-happen-to-trump-tariffs-after-supreme-court-verdict",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T20:05:17+00:00"
+      },
+      {
+        "id": "e5713c9e29c2",
+        "title": "With NIH in chaos, its controversial director is taking over CDC, too",
+        "summary": "The unusual dual role has renewed criticism of Bhattacharya's lack of leadership.",
+        "url": "https://arstechnica.com/health/2026/02/with-nih-in-chaos-its-controversial-director-is-taking-over-cdc-too/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T19:44:39+00:00"
+      },
+      {
         "id": "f87307620edb",
         "title": "Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more",
-        "summary": "iOS 26.4 introduces several updates, including an AI-powered playlist generation feature in Apple Music, support for video content in the Podcasts app, end-to-end encryption (E2EE) for RCS messages, and more.",
+        "summary": "Several updates are introduced in iOS 26.4, including an AI-powered playlist-generation feature in Apple Music, support for video content in the Podcasts app, end-to-end encryption (E2EE) for RCS messages, and more.",
         "url": "https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/",
         "source": "TechCrunch",
         "published": "2026-02-20T19:44:22+00:00"
@@ -49,7 +73,7 @@
       {
         "id": "572bfa0d4aac",
         "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
-        "summary": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game \"Baldur's Gate.\"",
+        "summary": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game Baldur's Gate.",
         "url": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
         "source": "TechCrunch",
         "published": "2026-02-20T18:26:54+00:00"
@@ -189,33 +213,17 @@
         "url": "https://www.theguardian.com/world/2026/feb/20/asos-cofounder-quentin-griffiths-killed-fall-apartment-thailand",
         "source": "Business | The Guardian",
         "published": "2026-02-20T15:31:23+00:00"
-      },
-      {
-        "id": "535a0d06dc71",
-        "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
-        "summary": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated content.",
-        "url": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T15:30:00+00:00"
-      },
-      {
-        "id": "3aeb30bd05a6",
-        "title": "Prepare for pitch battle: Startup Battlefield 200 nominations are open",
-        "summary": "Nominations for TechCrunch Startup Battlefield 200 are open. Pitch at Disrupt 2026 in October in front of top VCs and the full TechCrunch audience. Nominate your startup or for one that's deserving.",
-        "url": "https://techcrunch.com/2026/02/20/prepare-for-pitch-battle-startup-battlefield-200-nominations-are-open/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T15:30:00+00:00"
-      },
-      {
-        "id": "480f658d7e18",
-        "title": "Statistics chief complains to BBC over impersonation of staff in hit drama Industry",
-        "summary": "ONS tells broadcaster that depiction risks undermining interviewers’ ‘delicate relationship’ with the public\n Best known for its depiction of City traders as drug-addled, sex-crazed adrenaline junkies, the BBC hit series Industry has unexpectedly attracted criticism for its portrayal of doorstep dat...",
-        "url": "https://www.theguardian.com/media/2026/feb/20/ons-office-national-statistics-tv-industry-bbc",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T15:18:33+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "9fa77e74820f",
+        "title": "The CDC Has a Leadership Crisis",
+        "summary": "A 2023 law championed by Republicans requires the CDC have a director confirmed by the Senate. For months, though, it's had only acting directors—and the White House won't say when that will change.",
+        "url": "https://www.wired.com/story/the-cdc-has-a-leadership-crisis/",
+        "source": "Science Latest",
+        "published": "2026-02-20T19:48:26+00:00"
+      },
       {
         "id": "91ccd10bdfa6",
         "title": "Here’s half an hour of string-reed Werner Durand and John Krausbauer drones",
@@ -361,6 +369,14 @@
         "published": "2026-02-20T00:31:20+00:00"
       },
       {
+        "id": "ebacab927cbd",
+        "title": "Bringing automated preview, review, and merge to Claude Code on desktop",
+        "summary": "Bringing automated preview, review, and merge to Claude Code on desktop",
+        "url": "https://claude.com/blog/preview-review-and-merge-with-claude-code",
+        "source": "Claude Blog",
+        "published": "2026-02-20T00:00:00+00:00"
+      },
+      {
         "id": "46d9be782357",
         "title": "Recovering lost code",
         "summary": "Reached the stage of parallel agent psychosis where I've lost a whole feature - I know I had it yesterday, but I can't seem to find the branch or worktree or cloud instance or checkout with it in.\n... found it! Turns out I'd been hacking on a random prototype in /tmp and then my computer crashed and...",
@@ -399,25 +415,17 @@
         "url": "https://www.wired.com/story/inside-rolling-layoffs-jack-dorsey-block/",
         "source": "Business Latest",
         "published": "2026-02-19T19:53:11+00:00"
-      },
-      {
-        "id": "292b5d53960c",
-        "title": "Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
-        "summary": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
-        "url": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
-        "source": "Business Latest",
-        "published": "2026-02-19T19:30:00+00:00"
-      },
-      {
-        "id": "b24fcb1b6cae",
-        "title": "US builds website that will allow Europeans to view blocked content",
-        "summary": "Freedom.gov appears to be administered by a branch of the Department of Homeland SecurityThe US has built a portal that will allow Europeans to view blocked content including alleged hate speech and terrorism, according to Reuters.The portal, “freedom.gov”, will allow worldwide users to circumvent g...",
-        "url": "https://www.theguardian.com/technology/2026/feb/19/us-builds-website-that-will-allow-europeans-to-view-blocked-content",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-19T19:15:27+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "fa14d8cc6274",
+        "title": "Twelve remixes of “Dreams” by Fleetwood Mac",
+        "summary": "I’m working on a podcast episode about “Dreams” by Fleetwood Mac, a perennial object of debate in the music theory world because no one can agree what key it’s in. This is because the melody doesn’t align with the chords particularly, and neither the melody nor the chords belong unambiguously to any...",
+        "url": "https://www.ethanhein.com/wp/2026/twelve-remixes-of-dreams-by-fleetwood-mac/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-02-20T19:58:34+00:00"
+      },
       {
         "id": "2271ab213414",
         "title": "Thank You for Joining the MIR Community-Building Workshop",
@@ -609,14 +617,6 @@
         "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260203/",
         "source": "中央研究院人社中心地理資訊科學研究專題中心",
         "published": "2026-02-03T15:18:02+00:00"
-      },
-      {
-        "id": "1eb94e9b195a",
-        "title": "I’m in this Adam Neely video about AI",
-        "summary": "I make a couple of brief appearances in Adam Neely&#8217;s latest video about generative AI music. Neither of us think it’s a good idea.",
-        "url": "https://www.ethanhein.com/wp/2026/im-in-this-adam-neely-video-about-ai/",
-        "source": "The Ethan Hein Blog",
-        "published": "2026-02-02T21:52:16+00:00"
       }
     ]
   }
