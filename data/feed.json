@@ -1,19 +1,115 @@
 {
-  "updated_at": "2026-02-20T05:09:00.046790+00:00",
+  "updated_at": "2026-02-20T08:00:49.868627+00:00",
   "trending": [
-    "nasa spacex rocket launch",
-    "jokic",
-    "gable steveson",
-    "rafael olarra",
-    "obama aliens",
-    "bennedict mathurin",
-    "tulane basketball",
-    "warriors",
-    "baby keem",
-    "payton pritchard"
+    "pokemon day",
+    "gta 6 release date",
+    "kindergarten",
+    "pokemon fire red",
+    "victoria justice",
+    "dhs",
+    "derrick jones jr.",
+    "target",
+    "delta airlines",
+    "olivia rodrigo"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "73784a9b4124",
+        "title": "UK on track to undershoot borrowing forecasts after recording biggest ever budget surplus in January – business live",
+        "summary": "Rolling coverage of the latest economic and financial newsThe big reduction in public borrowing and surge in retail sales in January support other evidence that the economy started the year looking a lot healthier, says Paul Dales, chief UK economist at Capital Economics.It will give the chancellor ...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/20/retail-sales-and-public-finances-data-to-show-state-of-british-economy-business-live",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T07:47:45+00:00"
+      },
+      {
+        "id": "ab1a15dc98da",
+        "title": "Homes for sale with luscious lawns in England and Scotland – in pictures",
+        "summary": "From a former Georgian hospital in a Scottish Borders town to a converted greenhouse in the Kent countryside Continue reading...",
+        "url": "https://www.theguardian.com/money/gallery/2026/feb/20/homes-for-sale-impressive-lawns-england-scotland-in-pictures",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T07:00:27+00:00"
+      },
+      {
+        "id": "29229f19df54",
+        "title": "General Catalyst commits $5B to India over five years",
+        "summary": "The pledge marks a sharp jump from General Catalyst's earlier $500 million–$1 billion India earmark.",
+        "url": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
+        "source": "TechCrunch",
+        "published": "2026-02-20T06:41:44+00:00"
+      },
+      {
+        "id": "541cb63a9def",
+        "title": "Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms",
+        "summary": "Neo's new Residency program invests $750,000 in an uncapped SAFE for startups and provides a $40,000 no-strings-attached grant for college students.",
+        "url": "https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/",
+        "source": "TechCrunch",
+        "published": "2026-02-20T06:13:55+00:00"
+      },
+      {
+        "id": "9c92d51e4aad",
+        "title": "Do you remember your first crappy job? Today’s young people would wish for half your luck | Gaby Hinsliff",
+        "summary": "The youth minimum wage is set to rise over this parliament, but it’s putting off employers from hiring people into their first rolesWhen Keir Starmer was 14 years old, he got a part-time job clearing stones from a local farmer’s field. At 16, Kemi Badenoch was flipping burgers and cleaning toilets i...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/20/first-crappy-job-youth-minimum-wage",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T06:00:27+00:00"
+      },
+      {
+        "id": "f315f5687021",
+        "title": "France and Germany agreed to build the fighter jet of the future. Now they can’t agree who is in charge",
+        "summary": "FCAS, which also involves Spain, is imploding at a high-stakes moment for Europe, as threat rises from RussiaFrance and Germany’s plan to build a fighter jet of the future, planned to come with a swarm of drones and a “combat communications cloud”, is collapsing.Friedrich Merz, the German chancellor...",
+        "url": "https://www.theguardian.com/business/2026/feb/20/france-germany-fighter-jet-of-the-future-fcas",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T06:00:26+00:00"
+      },
+      {
+        "id": "81236978820b",
+        "title": "Mind launches inquiry into AI and mental health after Guardian investigation",
+        "summary": "Exclusive: England and Wales charity to examine safeguards after Guardian exposed ‘very dangerous’ advice on Google AI Overviews‘Very dangerous’: a Mind mental health expert on Google’s AI summariesMind is launching a significant inquiry into artificial intelligence and mental health after a Guardia...",
+        "url": "https://www.theguardian.com/technology/2026/feb/20/mind-inquiry-google-ai-overviews-mental-health-guardian-investigation",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T06:00:25+00:00"
+      },
+      {
+        "id": "01186441c342",
+        "title": "How ‘smog capital of Poland’ saved 6,000 lives by cutting soot levels",
+        "summary": "Kraków’s ban on burning solid fuels plus subsidies for cleaner heating has led to clearer air and better healthAs a child, Marcel Mazur had to hold his breath in parts of Kraków thick with “so much smoke you could see and smell it”. Now, as an allergy specialist at Jagiellonian University Medical Co...",
+        "url": "https://www.theguardian.com/environment/2026/feb/20/krakow-smog-poland-saved-lives-black-carbon-green-iniatives",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T06:00:24+00:00"
+      },
+      {
+        "id": "b2a62fc4e165",
+        "title": "Can Europe survive without US defence? Surprisingly, the Baltic sea nations are showing the way | Elisabeth Braw",
+        "summary": "Joint patrols are being mounted to protect undersea cables from Russian sabotage: localised cooperation is our best hope for nowElisabeth Braw is a senior fellow at the Atlantic Council thinktankWhen European countries in the Baltic Sea region joined Nato for protection against Russia, they were not...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/20/europe-us-defence-baltic-sea-nations-russian-sabotage",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T05:00:25+00:00"
+      },
+      {
+        "id": "4d0afbf996b9",
+        "title": "New drone unit to investigate illegal waste dumping across England",
+        "summary": "Government announces tougher measures to tackle unlicensed sites as ‘prolific waste criminal’ is ordered to pay £1.4mA new 33-strong drone unit is being deployed to investigate the scourge of illegal waste dumping across England, the government has announced.The improvements to the investigation of ...",
+        "url": "https://www.theguardian.com/environment/2026/feb/20/drone-unit-to-investigate-illegal-waste-dumping-england-crime-gang",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T05:00:24+00:00"
+      },
+      {
+        "id": "4e9d51fbd8cd",
+        "title": "Experience: I’m the last traditional clog maker in England",
+        "summary": "I cut small trees around Offa’s Dyke, then shape the wood by hand I never wanted to be part of an&nbsp;unsustainable society. I’ve&nbsp;always tried to live as peaceful a life as I can, outside the big cities. Now I am the last person left in England making clogs by hand. I spend most days in my stu...",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/20/experience-last-traditional-clog-maker-england",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T05:00:23+00:00"
+      },
+      {
+        "id": "67805e3442b4",
+        "title": "Trump defends tariffs in pre-midterms appearance in battleground Georgia",
+        "summary": "Visit was ostensibly to promote economy, but US president focused on repeated, unverified claims of voter fraudDonald Trump forcefully defended his tariffs on Thursday, claiming “tariffs are my favorite word in the dictionary” and promoting their use to empower American manufacturing at an event in ...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-tariffs-georgia",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T01:54:22+00:00"
+      },
       {
         "id": "6c0721ccf933",
         "title": "Google’s new Gemini Pro model has record benchmark scores — again",
@@ -21,6 +117,14 @@
         "url": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
         "source": "TechCrunch",
         "published": "2026-02-20T00:55:22+00:00"
+      },
+      {
+        "id": "45cd22e4f3eb",
+        "title": "Roblox sued by Los Angeles over claims platform ‘makes children easy prey for pedophiles’",
+        "summary": "LA County says the gaming company does not carry out adequate moderation and its age-verification systems are not fit for purpose, which Roblox deniesOfficials in Los Angeles have said they are suing Roblox, alleging the popular online platform exposes children to sexual content, exploitation and on...",
+        "url": "https://www.theguardian.com/games/2026/feb/20/los-angeles-sues-roblox-la-county",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T00:31:20+00:00"
       },
       {
         "id": "455bac5f0d64",
@@ -103,119 +207,23 @@
         "published": "2026-02-19T21:27:39+00:00"
       },
       {
-        "id": "da492c440480",
-        "title": "An AI data center boom is fueling Redwood’s energy storage business",
-        "summary": "Redwood Materials says its new energy storage business is the fastest growing unit within the company.",
-        "url": "https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T21:10:13+00:00"
-      },
-      {
-        "id": "7db4e899b6bf",
-        "title": "Why these startup CEOs don’t think AI will replace human roles",
-        "summary": "The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.",
-        "url": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T20:47:22+00:00"
-      },
-      {
-        "id": "5f426b2cd3d3",
-        "title": "YouTube’s latest experiment brings its conversational AI tool to TVs",
-        "summary": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
-        "url": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T20:30:19+00:00"
-      },
-      {
-        "id": "9a5d0985be8d",
-        "title": "Toyota contracts seven Agility humanoid robots for Canadian factory",
-        "summary": "The robots will be unloading totes full of auto parts from an automated warehouse tugger.",
-        "url": "https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T20:29:02+00:00"
-      },
-      {
-        "id": "e16e5e3dbd4e",
-        "title": "Diablo II’s new Warlock is a great excuse to revisit a classic game",
-        "summary": "New skill tree paths offer a fun twist on some generally familiar mechanics.",
-        "url": "https://arstechnica.com/gaming/2026/02/diablo-iis-new-warlock-is-a-great-excuse-to-revisit-a-classic-game/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-19T20:04:09+00:00"
-      },
-      {
-        "id": "fc44cfd3b5ea",
-        "title": "The boys’ club no one was supposed to write about",
-        "summary": "Reporter Zoë Bernard spent months talking to 51 people (31 of them gay men) to map out a subculture that's been an open secret in Silicon Valley for years: gay men, at the upper echelons of tech, quietly raising up their own networks the way powerful people have always done.",
-        "url": "https://techcrunch.com/2026/02/19/the-boys-club-no-one-was-supposed-to-write-about/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T19:58:09+00:00"
-      },
-      {
-        "id": "94fd188209de",
-        "title": "SpaceX’s Starbase city is getting its own court",
-        "summary": "Elon Musk's company town already has a volunteer fire department, and is forming a Starbase Police Department. Now it wants its own court, too.",
-        "url": "https://techcrunch.com/2026/02/19/spacexs-starbase-city-is-getting-its-own-court/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T19:55:06+00:00"
-      },
-      {
-        "id": "a9cae9cc4784",
-        "title": "From chickens to humans, animals think \"bouba\" sounds round",
-        "summary": "There seems to be a deep-seated association between sounds and shapes.",
-        "url": "https://arstechnica.com/science/2026/02/newly-hatched-chickens-form-the-same-sound-association-we-do/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-19T19:38:08+00:00"
-      },
-      {
-        "id": "1a52fa5ef857",
-        "title": "The Guardian view on Merz and Meloni: an emerging Berlin-Rome axis is threatening the EU’s green deal",
-        "summary": "The deregulation agenda being pushed by Germany’s chancellor and Italy’s prime minister is economically and ethically flawedWhen the European Union launched its green deal in 2019, putting into law the goal of climate neutrality by the middle of the century, it showed strategic foresight as well as ...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/19/the-guardian-view-on-merz-and-meloni-an-emerging-berlin-rome-axis-is-threatening-the-eus-green-deal",
+        "id": "ef53d4c84e23",
+        "title": "New York governor pulls robotaxi expansion proposal for cities outside Big Apple",
+        "summary": "Kathy Hochul backed away from allowing robotaxi services in smaller cities, though Waymo still plans to move ahead in New York CityNew York’s governor, Kathy Hochul, has pulled her proposal to allow commercial robotaxi services in smaller cities outside New York City, a spokesperson for the governor...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/19/new-york-hochul-robotaxi-proposal",
         "source": "Business | The Guardian",
-        "published": "2026-02-19T19:05:08+00:00"
-      },
-      {
-        "id": "0b69f227f8b6",
-        "title": "As browser wars heat up, Chrome adds new productivity features",
-        "summary": "Split View, PDF annotations, and 'Save to Chrome' features come to the Chrome browser.",
-        "url": "https://techcrunch.com/2026/02/19/as-browser-wars-heat-up-chrome-adds-new-productivity-features/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T18:30:51+00:00"
-      },
-      {
-        "id": "bf8427ae81e4",
-        "title": "Reddit is testing a new AI search feature for shopping",
-        "summary": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
-        "url": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
-        "source": "TechCrunch",
-        "published": "2026-02-19T18:22:51+00:00"
-      },
-      {
-        "id": "9ab1c015da14",
-        "title": "F1: Preseason tests show how different 2026 will be",
-        "summary": "Everyone's trying to get mileage as F1 undergoes huge technical changes.",
-        "url": "https://arstechnica.com/cars/2026/02/f1-preseason-tests-shows-how-different-2026-will-be/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-19T18:22:29+00:00"
-      },
-      {
-        "id": "907caf9c6983",
-        "title": "Google announces Gemini 3.1 Pro, says it's better at complex problem-solving",
-        "summary": "Google says 3.1 Pro is ready for \"your hardest challenges.\"",
-        "url": "https://arstechnica.com/google/2026/02/google-announces-gemini-3-1-pro-says-its-better-at-complex-problem-solving/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-19T17:42:14+00:00"
-      },
-      {
-        "id": "73b182bdcd66",
-        "title": "Accenture ‘links staff promotions to use of AI tools’",
-        "summary": "Consulting firm keen to increase uptake of technology and is reportedly monitoring adoption by workforceAccenture has reportedly started tracking staff use of its AI tools and will take this into consideration when deciding on top promotions, as the consulting company tries to increase uptake of the...",
-        "url": "https://www.theguardian.com/accenture/2026/feb/19/accenture-links-staff-promotions-to-use-of-ai-tools",
-        "source": "Business | The Guardian",
-        "published": "2026-02-19T17:21:01+00:00"
+        "published": "2026-02-19T21:24:22+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "011013b122bc",
+        "title": "Quoting Thariq Shihipar",
+        "summary": "Long running agentic products like Claude Code are made feasible by prompt caching which allows us to reuse computation from previous roundtrips and significantly decrease latency and cost. [...]\nAt Claude Code, we build our entire harness around prompt caching. A high prompt cache hit rate decrease...",
+        "url": "https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-20T07:13:19+00:00"
+      },
       {
         "id": "49d418c8b739",
         "title": "An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
@@ -407,14 +415,6 @@
         "url": "https://www.theguardian.com/technology/2026/feb/18/mark-zuckerberg-meta-trial-testimony",
         "source": "Technology | The Guardian",
         "published": "2026-02-18T19:37:17+00:00"
-      },
-      {
-        "id": "7900daaad7be",
-        "title": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
-        "summary": "The days of tech giants buying up discrete chips are over. AI companies now need GPUs, CPUs, and everything in between.",
-        "url": "https://www.wired.com/story/nvidias-deal-with-meta-signals-a-new-era-in-computing-power/",
-        "source": "Business Latest",
-        "published": "2026-02-18T19:24:55+00:00"
       }
     ],
     "序(month)": [
