@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-21T20:52:47.793939+00:00",
+  "updated_at": "2026-02-21T21:48:55.841725+00:00",
   "trending": [
-    "bobsled",
-    "coastal flood warning",
-    "brewers",
-    "uh basketball",
-    "dodgers vs angels",
-    "koa peat",
-    "kansas state vs texas tech",
-    "lafc vs inter miami",
-    "miami fl vs virginia",
-    "marco penge"
+    "amber alert",
+    "javonte williams",
+    "juliana miller",
+    "jackie chan",
+    "dazn",
+    "atlanta united vs cincinnati",
+    "russell westbrook",
+    "bucaramanga - deportivo cali",
+    "mariners",
+    "missouri vs arkansas"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "28753fea2247",
+        "title": "Sam Altman would like remind you that humans use a lot of energy, too",
+        "summary": "\"It also takes a lot of energy to train a human.\"",
+        "url": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+        "source": "TechCrunch",
+        "published": "2026-02-21T21:38:01+00:00"
+      },
       {
         "id": "00101f376724",
         "title": "Wikipedia blacklists Archive.today after alleged DDoS attack",
@@ -205,14 +213,6 @@
         "url": "https://www.theguardian.com/uk-news/2026/feb/21/mps-considering-investigation-into-former-prince-andrew-trade-envoy",
         "source": "Business | The Guardian",
         "published": "2026-02-21T06:00:01+00:00"
-      },
-      {
-        "id": "ab20577bc998",
-        "title": "‘Doubling down on meat’: is the UK’s love affair with vegetarian food over?",
-        "summary": "McDonald’s, Wagamama and others scale back plant-based choices in the UK in favour of ‘high-margin’ meat-led dishesIn 2021, vegetarianism and veganism were booming and menus reflected it. Restaurants and fast-food chains rapidly expanded their meat-free offerings, racing to meet growing demand from ...",
-        "url": "https://www.theguardian.com/business/2026/feb/21/uk-restaurants-meat-vegetarian-vegan-food",
-        "source": "Business | The Guardian",
-        "published": "2026-02-21T06:00:00+00:00"
       }
     ],
     "破(day)": [
