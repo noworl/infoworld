@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-02-20T23:03:40.612248+00:00",
+  "updated_at": "2026-02-21T04:54:05.774298+00:00",
   "trending": [
-    "boca juniors - racing",
-    "league of legends",
-    "david hasselhoff",
-    "iftar time",
-    "mls",
-    "susan rice",
-    "cernak",
-    "bianca dias",
-    "closing ceremony olympics",
-    "lsu baseball score"
+    "us women's curling",
+    "switzerland",
+    "john collins",
+    "lebron james",
+    "kerwin silfies",
+    "raphael veiga",
+    "kawhi leonard",
+    "wwe smackdown live",
+    "wnba mercury",
+    "lauren boebert"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "93ece4d595ca",
+        "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+        "summary": "Sarvam's Indus chat app is currently available in beta.",
+        "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+        "source": "TechCrunch",
+        "published": "2026-02-21T01:00:00+00:00"
+      },
+      {
+        "id": "783c9626b449",
+        "title": "Furious Trump signs global 10% duty after supreme court issues tariff blow",
+        "summary": "President calls six justices a ‘disgrace to the nation’ while praising three justices who dissentedUS politics live – latest updatesDonald Trump on Friday railed against the supreme court justices who blocked his use of tariffs, calling them a “disgrace to the nation”, and later signing documents im...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/20/trump-tariff-scotus-response",
+        "source": "Business | The Guardian",
+        "published": "2026-02-21T00:04:01+00:00"
+      },
+      {
+        "id": "5c00bb6990b2",
+        "title": "After fueling test, optimism grows for March launch of Artemis II to the Moon",
+        "summary": "“We’re now targeting March 6 as our earliest launch attempt ... there is still pending work.\"",
+        "url": "https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T23:55:43+00:00"
+      },
+      {
+        "id": "ee63c966d52b",
+        "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company",
+        "summary": "Microsoft CoreAI exec Asha Sharma will take over in surprise executive shake-up.",
+        "url": "https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T23:28:21+00:00"
+      },
+      {
+        "id": "0b10672e60db",
+        "title": "MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide",
+        "summary": "MAHA members call movement a \"sham\" after Kennedy supports glyphosate order.",
+        "url": "https://arstechnica.com/health/2026/02/maha-moms-threaten-to-turn-this-car-around-as-rfk-jr-flips-on-pesticide/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T23:14:09+00:00"
+      },
       {
         "id": "6775bdbf2e8c",
         "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
@@ -23,12 +63,28 @@
         "published": "2026-02-20T23:00:00+00:00"
       },
       {
+        "id": "e9d1f2a88d01",
+        "title": "Fury over Discord’s age checks explodes after shady Persona test in UK",
+        "summary": "Persona confirmed all age-check data from Discord's UK test was deleted.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-20T22:41:02+00:00"
+      },
+      {
         "id": "cd6481ed7485",
         "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
         "summary": "Brendan Carr wants \"patriotic\" shows for Trump's yearlong America 250 celebration.",
         "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
         "source": "Ars Technica - All content",
         "published": "2026-02-20T22:00:59+00:00"
+      },
+      {
+        "id": "afde8aa7d5e0",
+        "title": "Why the supreme court’s tariffs ruling is a win for world trade – but also tricky",
+        "summary": "The decision adds to economic uncertainty, as deals Donald Trump struck with other countries are upendedIt is refreshing to witness the US supreme court recover its spine and stand up to Donald Trump’s most extreme caprices. The 6-3 decision on Friday to strike down his barrage of tariffs on imports...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/20/supreme-court-tariffs-ruling-world-trade-trump",
+        "source": "Business | The Guardian",
+        "published": "2026-02-20T21:52:38+00:00"
       },
       {
         "id": "e12d1d922d18",
@@ -95,14 +151,6 @@
         "published": "2026-02-20T19:24:57+00:00"
       },
       {
-        "id": "783c9626b449",
-        "title": "Trump threatens 10% global tariffs and rails against supreme court justices",
-        "summary": "President called justices who blocked his tariffs a ‘disgrace to the nation’ while praising three justices who dissentedUS politics live – latest updatesDonald Trump on Friday railed against the supreme court justices who blocked his use of tariffs, calling the decision a “disgrace to the nation” an...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/20/trump-tariff-scotus-response",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T19:23:42+00:00"
-      },
-      {
         "id": "83c0091350ba",
         "title": "Wikipedia blacklists Archive.today, starts removing 695,000 archive links",
         "summary": "If DDoSing a blog wasn't bad enough, archive site also tampered with web snapshots.",
@@ -165,57 +213,49 @@
         "url": "https://www.theguardian.com/business/2026/feb/20/brighter-uk-economy-rachel-reeves-march-spring-statement",
         "source": "Business | The Guardian",
         "published": "2026-02-20T17:24:02+00:00"
-      },
-      {
-        "id": "c7f689524d5f",
-        "title": "\"Million-year-old\" fossil skulls from China are far older—and not Denisovans",
-        "summary": "The revised age may help make sense of 2-million-year-old stone tools elsewhere in China.",
-        "url": "https://arstechnica.com/science/2026/02/new-dates-on-chinese-fossils-raise-question-of-how-many-times-we-left-africa/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-20T17:03:06+00:00"
-      },
-      {
-        "id": "e62bcb331055",
-        "title": "Trump’s EPA to roll back rule limiting hazardous mercury from coal plants",
-        "summary": "Environmental groups warn that weakening air toxics and mercury standards will lead to higher health-related costsThe Trump administration announced on Friday it would roll back air regulations for power plants limiting mercury and hazardous air toxics at an event in Kentucky, a move it says will bo...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/20/trump-epa-weaken-rule-mercury-air-toxics-coal",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T17:01:03+00:00"
-      },
-      {
-        "id": "ee87d540be3d",
-        "title": "Threads posts can now be shared directly to your Instagram Story without leaving the app",
-        "summary": "The new Threads feature lets you share your posts — or anyone else's — to your Instagram Story without leaving the Threads app.",
-        "url": "https://techcrunch.com/2026/02/20/threads-posts-can-now-be-shared-directly-to-your-instagram-story-without-leaving-the-app/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T16:55:12+00:00"
-      },
-      {
-        "id": "67e876f2301a",
-        "title": "It's outright war for the Iron Throne in House of the Dragon S3 teaser",
-        "summary": "\"The king has abdicated his throne. A new line is coming. A new line of unsullied kings.\"",
-        "url": "https://arstechnica.com/culture/2026/02/its-outright-war-for-the-iron-throne-in-house-of-the-dragon-s3-teaser/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-20T16:40:31+00:00"
-      },
-      {
-        "id": "355d3107a0ae",
-        "title": "Politico owner Axel Springer joins rival Telegraph bid led by Dovid Efune",
-        "summary": "Sale to Lord Rothermere, Daily Mail owner, referred to regulators on media plurality and competition groundsThe media company Axel Springer, the owner of Politico and Business Insider, has joined a rival bid for the Telegraph as a proposed £500m sale to the owner of the Daily Mail faces months of sc...",
-        "url": "https://www.theguardian.com/media/2026/feb/20/politico-owner-axel-springer-joins-rival-telegraph-bid-led-by-dovid-efune",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T16:35:20+00:00"
-      },
-      {
-        "id": "038915f4d914",
-        "title": "Nintendo brings GBA-era Pokémon to the Switch, but not Switch Online subscribers",
-        "summary": "Games appear to be mostly unmodified ports of the well-regarded remakes.",
-        "url": "https://arstechnica.com/gaming/2026/02/pokemon-red-and-greens-gba-remakes-are-getting-re-released-on-switch-for-20-a-pop/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-20T16:30:21+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "35e9dad39bfe",
+        "title": "Trump Imposes New Tariffs to Sidestep Supreme Court Ruling",
+        "summary": "The president signed an executive order implementing 10 percent global tariffs after calling the justices who struck down his signature trade policy a “disgrace.”",
+        "url": "https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/",
+        "source": "Business Latest",
+        "published": "2026-02-21T02:55:58+00:00"
+      },
+      {
+        "id": "3fbb1c0944dc",
+        "title": "Quoting Thibault Sottiaux",
+        "summary": "We’ve made GPT-5.3-Codex-Spark about 30% faster. It is now serving at over 1200 tokens per second.\n&mdash; Thibault Sottiaux, OpenAI\n\n    Tags: openai, llms, ai, generative-ai, llm-performance",
+        "url": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-21T01:30:21+00:00"
+      },
+      {
+        "id": "ae38530b7263",
+        "title": "Andrej Karpathy talks about \"Claws\"",
+        "summary": "Andrej Karpathy talks about &quot;Claws&quot;\nAndrej Karpathy tweeted a mini-essay about buying a Mac Mini (\"The apple store person told me they are selling like hotcakes and everyone is confused\") to tinker with Claws:\n\nI'm definitely a bit sus'd to run OpenClaw specifically [...] But I do love the...",
+        "url": "https://simonwillison.net/2026/Feb/21/claws/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-21T00:37:45+00:00"
+      },
+      {
+        "id": "9938047bc2a8",
+        "title": "A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed",
+        "summary": "What scientists thought were four separate star clusters are actually part of one nearly invisible system.",
+        "url": "https://www.wired.com/story/a-galaxy-composed-almost-entirely-of-dark-matter-has-been-confirmed/",
+        "source": "Science Latest",
+        "published": "2026-02-20T23:58:37+00:00"
+      },
+      {
+        "id": "30e03f6e6f26",
+        "title": "Adding TILs, releases, museums, tools and research to my blog",
+        "summary": "I've been wanting to add indications of my various other online activities to my blog for a while now. I just turned on a new feature I'm calling \"beats\" (after story beats, naming this was hard!) which adds five new types of content to my site, all corresponding to activity elsewhere.\nHere's what b...",
+        "url": "https://simonwillison.net/2026/Feb/20/beats/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-20T23:47:10+00:00"
+      },
       {
         "id": "e874a90c4123",
         "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
@@ -375,46 +415,6 @@
         "url": "https://www.theguardian.com/technology/2026/feb/20/mind-inquiry-google-ai-overviews-mental-health-guardian-investigation",
         "source": "Technology | The Guardian",
         "published": "2026-02-20T06:00:25+00:00"
-      },
-      {
-        "id": "45cd22e4f3eb",
-        "title": "Roblox sued by Los Angeles over claims platform ‘makes children easy prey for pedophiles’",
-        "summary": "LA County says the gaming company does not carry out adequate moderation and its age-verification systems are not fit for purpose, which Roblox deniesOfficials in Los Angeles have said they are suing Roblox, alleging the popular online platform exposes children to sexual content, exploitation and on...",
-        "url": "https://www.theguardian.com/games/2026/feb/20/los-angeles-sues-roblox-la-county",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-20T00:31:20+00:00"
-      },
-      {
-        "id": "ebacab927cbd",
-        "title": "Bringing automated preview, review, and merge to Claude Code on desktop",
-        "summary": "Bringing automated preview, review, and merge to Claude Code on desktop",
-        "url": "https://claude.com/blog/preview-review-and-merge-with-claude-code",
-        "source": "Claude Blog",
-        "published": "2026-02-20T00:00:00+00:00"
-      },
-      {
-        "id": "46d9be782357",
-        "title": "Recovering lost code",
-        "summary": "Reached the stage of parallel agent psychosis where I've lost a whole feature - I know I had it yesterday, but I can't seem to find the branch or worktree or cloud instance or checkout with it in.\n... found it! Turns out I'd been hacking on a random prototype in /tmp and then my computer crashed and...",
-        "url": "https://simonwillison.net/2026/Feb/19/recovering-lost-code/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-19T23:48:35+00:00"
-      },
-      {
-        "id": "49d418c8b739",
-        "title": "An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
-        "summary": "A staffer of the Incognito dark web market was secretly controlled by the FBI—and still allegedly approved the sale of fentanyl-tainted pills, including those from a dealer linked to a confirmed death.",
-        "url": "https://www.wired.com/story/an-fbi-asset-helped-run-a-dark-web-site-that-sold-fentanyl-laced-drugs-for-years/",
-        "source": "Business Latest",
-        "published": "2026-02-19T23:18:09+00:00"
-      },
-      {
-        "id": "b5843bdaaed2",
-        "title": "Donald Trump Jr.’s Private DC Club Has Mysterious Ties to an Ex-Cop With a Controversial Past",
-        "summary": "The Executive Branch has a reported membership list that includes Trumpworld elites like David Sacks. A WIRED review of corporate filings reveals an under-the-radar player: a notorious former DC police officer.",
-        "url": "https://www.wired.com/story/magas-secretive-members-only-club-is-partly-owned-by-an-ex-cop/",
-        "source": "Business Latest",
-        "published": "2026-02-19T20:45:40+00:00"
       }
     ],
     "序(month)": [
