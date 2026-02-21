@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-02-21T13:55:08.816299+00:00",
+  "updated_at": "2026-02-21T14:56:08.548343+00:00",
   "trending": [
-    "shockoe bottom shooting",
-    "real sociedad",
-    "dorothea wierer",
-    "nasa artemis rocket launch",
-    "juventus vs como",
-    "juventus - como",
-    "washington post reporter",
-    "jet blue",
-    "olympics today",
-    "ski mountaineering"
+    "rachel homan",
+    "real betis - rayo vallecano",
+    "real betis vs rayo vallecano",
+    "men's mass start speed skating",
+    "england vs ireland",
+    "phillies",
+    "trump account for kids",
+    "chelsea vs burnley",
+    "aston villa vs leeds united",
+    "brentford vs brighton"
   ],
   "categories": {
     "急(hr)": [
@@ -29,6 +29,14 @@
         "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/cemented-locks-and-deflated-diggers-the-war-over-privately-run-allotments",
         "source": "Business | The Guardian",
         "published": "2026-02-21T13:00:08+00:00"
+      },
+      {
+        "id": "d967f725f7db",
+        "title": "Dinosaur eggshells can reveal the age of other fossils",
+        "summary": "Like rocks, egg shells can trap isotopes, allowing us to use them to date samples.",
+        "url": "https://arstechnica.com/science/2026/02/dinosaur-eggshells-can-reveal-the-age-of-other-fossils/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-21T13:00:01+00:00"
       },
       {
         "id": "657737583993",
@@ -205,17 +213,17 @@
         "url": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/",
         "source": "Ars Technica - All content",
         "published": "2026-02-20T22:41:02+00:00"
-      },
-      {
-        "id": "cd6481ed7485",
-        "title": "FCC asks stations for \"pro-America\" programming, like daily Pledge of Allegiance",
-        "summary": "Brendan Carr wants \"patriotic\" shows for Trump's yearlong America 250 celebration.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-20T22:00:59+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "67afb2548464",
+        "title": "US farmers are rejecting multimillion-dollar datacenter bids for their land: ‘I’m not for sale’",
+        "summary": "Families are navigating the tough choice between unimaginable riches and the identity that comes with landWhen two men knocked on Ida Huddleston’s door last May, they carried a contract worth more than $33m in exchange for the Kentucky farm that had fed her family for centuries.According to Huddlest...",
+        "url": "https://www.theguardian.com/technology/2026/feb/21/us-farmers-datacenters",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-21T14:00:09+00:00"
+      },
       {
         "id": "7f67c86ab7e7",
         "title": "Relooted: the South African video game where players take back artefacts from western museums",
@@ -407,14 +415,6 @@
         "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
         "source": "Science Latest",
         "published": "2026-02-20T12:00:00+00:00"
-      },
-      {
-        "id": "a056470ab45d",
-        "title": "The QuickShot II joystick review – 80s clicks and waggles lovingly recreated",
-        "summary": "The updated QuickShot II brings retro gameplay into the modern era while preserving the no-frills button smashing and endearing flaws that fans lovedNostalgia is big in the modern games industry. It’s ironic that the most technologically obsessed art form on the planet is just as watery-eyed about t...",
-        "url": "https://www.theguardian.com/games/2026/feb/20/the-quickshot-ii-joystick-review-80s-clicks-and-waggles-lovingly-recreated",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-20T11:30:36+00:00"
       }
     ],
     "序(month)": [
