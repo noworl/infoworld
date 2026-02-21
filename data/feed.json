@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-02-21T15:51:51.965873+00:00",
+  "updated_at": "2026-02-21T17:00:04.409898+00:00",
   "trending": [
-    "dubai open",
-    "lens vs monaco",
-    "michigan vs duke",
-    "osasuna vs real madrid",
-    "greta myers",
-    "six nations",
-    "punch monkey japan",
-    "rachel homan",
-    "real betis - rayo vallecano",
-    "real betis vs rayo vallecano"
+    "osasuna - real madrid",
+    "west ham vs bournemouth",
+    "ole miss basketball",
+    "bruce springsteen tour",
+    "austrian bobsled crash",
+    "lecce vs inter",
+    "lecce - inter",
+    "mia manganello",
+    "serie a",
+    "jessica pegula"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "4e8179663cf3",
+        "title": "Don’t be fooled by recent good news, the UK economy is still in a precarious state",
+        "summary": "Labour MPs may clamour for bolder spending, but – like their Tory and Reform counterparts – they ask for the unaffordableToo many Labour MPs want it all, and no amount of pleading from the top of government about the depleted public finances seems to make a difference.The mainly leftist MPs want all...",
+        "url": "https://www.theguardian.com/business/2026/feb/21/dont-be-fooled-by-recent-good-news-the-uk-economy-is-still-in-a-precarious-state",
+        "source": "Business | The Guardian",
+        "published": "2026-02-21T16:00:12+00:00"
+      },
+      {
+        "id": "2fe7e9d25cca",
+        "title": "Google VP warns that two types of AI startups may not survive",
+        "summary": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+        "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+        "source": "TechCrunch",
+        "published": "2026-02-21T16:00:00+00:00"
+      },
       {
         "id": "5d8f39d5ab04",
         "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
@@ -197,22 +213,6 @@
         "url": "https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/",
         "source": "Ars Technica - All content",
         "published": "2026-02-20T23:55:43+00:00"
-      },
-      {
-        "id": "ee63c966d52b",
-        "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company",
-        "summary": "Microsoft CoreAI exec Asha Sharma will take over in surprise executive shake-up.",
-        "url": "https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-20T23:28:21+00:00"
-      },
-      {
-        "id": "0b10672e60db",
-        "title": "MAHA moms threaten to turn this car around as RFK Jr. flips on pesticide",
-        "summary": "MAHA members call movement a \"sham\" after Kennedy supports glyphosate order.",
-        "url": "https://arstechnica.com/health/2026/02/maha-moms-threaten-to-turn-this-car-around-as-rfk-jr-flips-on-pesticide/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-20T23:14:09+00:00"
       }
     ],
     "破(day)": [
