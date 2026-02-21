@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-02-21T19:05:41.830657+00:00",
+  "updated_at": "2026-02-21T20:52:47.793939+00:00",
   "trending": [
-    "clemson basketball",
-    "astros",
-    "galatasaray",
-    "spencer jones",
-    "mlb scores",
-    "connor storrie",
-    "f1 san francisco",
-    "carlos alcaraz",
-    "atlanta braves",
-    "granada cf - barcelona"
+    "bobsled",
+    "coastal flood warning",
+    "brewers",
+    "uh basketball",
+    "dodgers vs angels",
+    "koa peat",
+    "kansas state vs texas tech",
+    "lafc vs inter miami",
+    "miami fl vs virginia",
+    "marco penge"
   ],
   "categories": {
     "急(hr)": [
       {
-        "id": "7c5eb116a15e",
-        "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
-        "summary": "Is Microsoft's gaming division doubling down on AI?",
-        "url": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+        "id": "00101f376724",
+        "title": "Wikipedia blacklists Archive.today after alleged DDoS attack",
+        "summary": "Wikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000 times across the online encyclopedia.",
+        "url": "https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/",
         "source": "TechCrunch",
-        "published": "2026-02-21T17:41:27+00:00"
+        "published": "2026-02-21T20:20:15+00:00"
       },
       {
         "id": "b73919e232ad",
@@ -28,7 +28,15 @@
         "summary": "President announced increase from 10% using different authority from mechanism that supreme court struck down on FridayDonald Trump announced on Saturday that he would raise a temporary tariff rate on US imports from all countries from 10% to 15%, less than 24 hours after the US supreme court ruled ...",
         "url": "https://www.theguardian.com/us-news/2026/feb/21/trump-tariffs-15-percent",
         "source": "Business | The Guardian",
-        "published": "2026-02-21T17:01:09+00:00"
+        "published": "2026-02-21T19:43:17+00:00"
+      },
+      {
+        "id": "7c5eb116a15e",
+        "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+        "summary": "Is Microsoft's gaming division doubling down on AI?",
+        "url": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+        "source": "TechCrunch",
+        "published": "2026-02-21T17:41:27+00:00"
       },
       {
         "id": "4e8179663cf3",
@@ -205,14 +213,6 @@
         "url": "https://www.theguardian.com/business/2026/feb/21/uk-restaurants-meat-vegetarian-vegan-food",
         "source": "Business | The Guardian",
         "published": "2026-02-21T06:00:00+00:00"
-      },
-      {
-        "id": "77e0890c1abb",
-        "title": "‘Slow this thing down’: Sanders warns US has no clue about speed and scale of coming AI revolution",
-        "summary": "After meeting with unspecified tech leaders, senator calls for urgent policy action as companies race to build ever more powerful systemsBernie Sanders has warned that Congress and the American public have “not a clue” about the scale and speed of the coming AI revolution, pressing for urgent policy...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/21/ai-revolution-bernie-sanders-warning",
-        "source": "Business | The Guardian",
-        "published": "2026-02-21T04:26:34+00:00"
       }
     ],
     "破(day)": [
