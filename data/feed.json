@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-02-21T17:00:04.409898+00:00",
+  "updated_at": "2026-02-21T17:54:16.661890+00:00",
   "trending": [
-    "osasuna - real madrid",
-    "west ham vs bournemouth",
-    "ole miss basketball",
-    "bruce springsteen tour",
-    "austrian bobsled crash",
-    "lecce vs inter",
-    "lecce - inter",
-    "mia manganello",
-    "serie a",
-    "jessica pegula"
+    "national margarita day",
+    "florida state vs clemson",
+    "st john's basketball",
+    "rutgers vs minnesota",
+    "mets",
+    "benfica - avs",
+    "benfica vs avs",
+    "florida vs ole miss",
+    "cincinnati vs kansas",
+    "willie colon"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "7c5eb116a15e",
+        "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+        "summary": "Is Microsoft's gaming division doubling down on AI?",
+        "url": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+        "source": "TechCrunch",
+        "published": "2026-02-21T17:41:27+00:00"
+      },
+      {
+        "id": "b73919e232ad",
+        "title": "Trump raises tariffs to 15% on imports from all countries",
+        "summary": "President announced increase from 10% using different authority from mechanism that supreme court struck down on FridayDonald Trump announced on Saturday that he would raise a temporary tariff rate on US imports from all countries from 10% to 15%, less than 24 hours after the US supreme court ruled ...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/21/trump-tariffs-15-percent",
+        "source": "Business | The Guardian",
+        "published": "2026-02-21T17:01:09+00:00"
+      },
       {
         "id": "4e8179663cf3",
         "title": "Don’t be fooled by recent good news, the UK economy is still in a precarious state",
@@ -45,6 +61,14 @@
         "url": "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/",
         "source": "TechCrunch",
         "published": "2026-02-21T15:00:00+00:00"
+      },
+      {
+        "id": "67afb2548464",
+        "title": "US farmers are rejecting multimillion-dollar datacenter bids for their land: ‘I’m not for sale’",
+        "summary": "Families are navigating the tough choice between unimaginable riches and the identity that comes with landWhen two men knocked on Ida Huddleston’s door last May, they carried a contract worth more than $33m in exchange for the Kentucky farm that had fed her family for centuries.According to Huddlest...",
+        "url": "https://www.theguardian.com/technology/2026/feb/21/us-farmers-datacenters",
+        "source": "Business | The Guardian",
+        "published": "2026-02-21T14:00:09+00:00"
       },
       {
         "id": "8d70360c7bec",
@@ -81,7 +105,7 @@
       {
         "id": "c3fc0636b40e",
         "title": "‘Reimagining matter’: Nobel laureate invents machine that harvests water from dry air",
-        "summary": "Omar Yaghi’s invention uses ambient thermal energy and can generate up to 1,000 litres of clean water every dayA Nobel laureate’s environmentally friendly invention that provides clean water if central supplies are knocked out by a hurricane or drought, could be a life saver for vulnerable islands, ...",
+        "summary": "Omar Yaghi’s invention uses ambient thermal energy and can generate up to 1,000 litres of clean water every dayA Nobel laureate’s environmentally friendly invention that provides clean water if central supplies are knocked out by a hurricane or drought could be a life saver for vulnerable islands, i...",
         "url": "https://www.theguardian.com/environment/2026/feb/21/nobel-laureate-omar-yaghi-invents-machine-that-harvests-water-from-dry-air",
         "source": "Business | The Guardian",
         "published": "2026-02-21T12:00:11+00:00"
@@ -189,33 +213,17 @@
         "url": "https://www.theguardian.com/us-news/2026/feb/21/ai-revolution-bernie-sanders-warning",
         "source": "Business | The Guardian",
         "published": "2026-02-21T04:26:34+00:00"
-      },
-      {
-        "id": "93ece4d595ca",
-        "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
-        "summary": "Sarvam's Indus chat app is currently available in beta.",
-        "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
-        "source": "TechCrunch",
-        "published": "2026-02-21T01:00:00+00:00"
-      },
-      {
-        "id": "783c9626b449",
-        "title": "Furious Trump signs global 10% duty after supreme court issues tariff blow",
-        "summary": "President calls six justices a ‘disgrace to the nation’ while praising three justices who dissentedUS politics live – latest updatesDonald Trump on Friday railed against the supreme court justices who blocked his use of tariffs, calling them a “disgrace to the nation”, and later signing documents im...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/20/trump-tariff-scotus-response",
-        "source": "Business | The Guardian",
-        "published": "2026-02-21T00:04:01+00:00"
-      },
-      {
-        "id": "5c00bb6990b2",
-        "title": "After fueling test, optimism grows for March launch of Artemis II to the Moon",
-        "summary": "“We’re now targeting March 6 as our earliest launch attempt ... there is still pending work.\"",
-        "url": "https://arstechnica.com/space/2026/02/nasa-reports-no-significant-leaks-in-artemis-ii-fueling-test-eyes-march-6-launch/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-20T23:55:43+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "50bf1b067b9c",
+        "title": "詹育杰／當「英雄」倒下：藝術家如何拆解公共紀念碑的永恆神話",
+        "summary": "面對價值觀已過時的紀念雕像，應保留還是移除？作者以前東德攝影師記錄紀念碑「解／建構」過程的作品、德國藝術家重複傾倒的馬背英雄雕像動態雕塑、哥倫比亞藝術家翻轉與移除紀念碑的錄像，嘗試提出思考方向。",
+        "url": "https://www.twreporter.org/a/photo-falling-heroes-monuments-art-deconstruction",
+        "source": "報導者",
+        "published": "2026-02-21T16:00:00+00:00"
+      },
       {
         "id": "67afb2548464",
         "title": "US farmers are rejecting multimillion-dollar datacenter bids for their land: ‘I’m not for sale’",
@@ -407,14 +415,6 @@
         "url": "https://www.theguardian.com/commentisfree/2026/feb/20/labour-no-10-influencers-content-creators-social-media",
         "source": "Technology | The Guardian",
         "published": "2026-02-20T12:15:07+00:00"
-      },
-      {
-        "id": "0086f295ba84",
-        "title": "Could AI Data Centers Be Moved to Outer Space?",
-        "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
-        "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
-        "source": "Science Latest",
-        "published": "2026-02-20T12:00:00+00:00"
       }
     ],
     "序(month)": [
