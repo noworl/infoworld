@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-02-21T11:45:43.183732+00:00",
+  "updated_at": "2026-02-21T13:55:08.816299+00:00",
   "trending": [
-    "weather boston",
-    "liza minnelli",
-    "weather philadelphia",
-    "noaa weather",
-    "injury lawyer",
-    "hannah natanson",
-    "suhoor time",
-    "sehri time today",
-    "suhoor",
-    "mega millions lottery"
+    "shockoe bottom shooting",
+    "real sociedad",
+    "dorothea wierer",
+    "nasa artemis rocket launch",
+    "juventus vs como",
+    "juventus - como",
+    "washington post reporter",
+    "jet blue",
+    "olympics today",
+    "ski mountaineering"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "8d70360c7bec",
+        "title": "Trump’s global tariffs have finally been overturned. What next? | Steven Greenhouse",
+        "summary": "The US supreme court ruled against the president. Let’s hope the court removes its pro-Trump glasses on other issues and stands up for the rule of lawThere’s no denying that the US supreme court’s long-awaited ruling that overturned Donald Trump’s global tariffs is important, and if the ruling turns...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/21/trumps-global-tariffs-supreme-court",
+        "source": "Business | The Guardian",
+        "published": "2026-02-21T13:00:10+00:00"
+      },
+      {
+        "id": "d95d554b8e65",
+        "title": "Cemented locks and deflated diggers: the war over privately run allotments",
+        "summary": "With waits for council plots in England decades-long, Roots is renting out green space – but some communities are digging inWhen police arrived at the field outside Bristol in October 2023, two old cars, wheels removed, were blockading the gates. Protesters had hauled them across the entrance to sto...",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/cemented-locks-and-deflated-diggers-the-war-over-privately-run-allotments",
+        "source": "Business | The Guardian",
+        "published": "2026-02-21T13:00:08+00:00"
+      },
+      {
+        "id": "657737583993",
+        "title": "Have we leapt into commercial genetic testing without understanding it?",
+        "summary": "A new book argues that tests might reshape human diversity even if they don't work.",
+        "url": "https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-21T12:00:56+00:00"
+      },
+      {
+        "id": "c3fc0636b40e",
+        "title": "‘Reimagining matter’: Nobel laureate invents machine that harvests water from dry air",
+        "summary": "Omar Yaghi’s invention uses ambient thermal energy and can generate up to 1,000 litres of clean water every dayA Nobel laureate’s environmentally friendly invention that provides clean water if central supplies are knocked out by a hurricane or drought, could be a life saver for vulnerable islands, ...",
+        "url": "https://www.theguardian.com/environment/2026/feb/21/nobel-laureate-omar-yaghi-invents-machine-that-harvests-water-from-dry-air",
+        "source": "Business | The Guardian",
+        "published": "2026-02-21T12:00:11+00:00"
+      },
+      {
+        "id": "fac686f69a18",
+        "title": "Major government research lab appears to be squeezing out foreign scientists",
+        "summary": "\"Noncitizens\" lost after-hours access to a NIST lab last month.",
+        "url": "https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-21T11:31:35+00:00"
+      },
       {
         "id": "84857e1009bd",
         "title": "Decline in remote jobs risks shutting disabled people out of work, study finds",
@@ -173,46 +213,6 @@
         "url": "https://arstechnica.com/tech-policy/2026/02/fcc-asks-stations-for-pro-america-programming-like-daily-pledge-of-allegiance/",
         "source": "Ars Technica - All content",
         "published": "2026-02-20T22:00:59+00:00"
-      },
-      {
-        "id": "afde8aa7d5e0",
-        "title": "Why the supreme court’s tariffs ruling is a win for world trade – but also tricky",
-        "summary": "The decision adds to economic uncertainty, as deals Donald Trump struck with other countries are upendedIt is refreshing to witness the US supreme court recover its spine and stand up to Donald Trump’s most extreme caprices. The 6-3 decision on Friday to strike down his barrage of tariffs on imports...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/20/supreme-court-tariffs-ruling-world-trade-trump",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T21:52:38+00:00"
-      },
-      {
-        "id": "e12d1d922d18",
-        "title": "Meta's flagship metaverse service leaves VR behind",
-        "summary": "The company asserts it will continue to make VR headsets, though.",
-        "url": "https://arstechnica.com/gadgets/2026/02/metas-flagship-metaverse-service-leaves-vr-behind/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-20T21:49:22+00:00"
-      },
-      {
-        "id": "d63f774a9055",
-        "title": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show",
-        "summary": "The former HQ host Scott Rogowsky is back with TextSavvy, a live mobile game show that he's building on his own terms.",
-        "url": "https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T21:00:00+00:00"
-      },
-      {
-        "id": "2f94cc5072ba",
-        "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
-        "summary": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse.",
-        "url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
-        "source": "TechCrunch",
-        "published": "2026-02-20T20:52:48+00:00"
-      },
-      {
-        "id": "6376c9195c84",
-        "title": "What will happen to Trump’s tariffs after supreme court verdict?",
-        "summary": "6-3 ruling against unilateral imposition of tariffs without congressional approval labelled a ‘disgrace’ by TrumpTrump illegally used executive power to impose global tariffs, supreme court rulesThe US supreme court has struck down Donald Trump’s flagship policy of imposing tariffs on foreign import...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/20/what-will-happen-to-trump-tariffs-after-supreme-court-verdict",
-        "source": "Business | The Guardian",
-        "published": "2026-02-20T20:05:17+00:00"
       }
     ],
     "破(day)": [
