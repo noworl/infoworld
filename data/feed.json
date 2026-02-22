@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-22T15:53:58.292355+00:00",
+  "updated_at": "2026-02-22T17:01:25.498040+00:00",
   "trending": [
-    "tottenham vs arsenal",
-    "czechia",
-    "priyanka chopra",
-    "barcelona schedule",
-    "puerto vallarta",
-    "sundar pichai",
-    "rhys hoskins",
-    "tate mcrae",
-    "norah o'donnell",
-    "ray j"
+    "jamaican bobsled team",
+    "bobsled crash",
+    "4 man bobsleigh olympics 2026",
+    "uab basketball",
+    "4 man bobsled",
+    "trump truth social",
+    "ole miss vs south carolina",
+    "columbus blue jackets",
+    "brock nelson hockey",
+    "el mencho"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "736ccde5886a",
+        "title": "China’s brain-computer interface industry is racing ahead",
+        "summary": "China’s brain-computer interface industry is rapidly scaling from research to commercialization, driven by strong policy support, expanding clinical trials, and growing investor interest.",
+        "url": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
+        "source": "TechCrunch",
+        "published": "2026-02-22T16:00:00+00:00"
+      },
       {
         "id": "14bdd4643c02",
         "title": "Lamborghini pulls plug on plans to launch all-electric supercar",
@@ -205,17 +213,17 @@
         "url": "https://www.theguardian.com/business/2026/feb/21/dont-be-fooled-by-recent-good-news-the-uk-economy-is-still-in-a-precarious-state",
         "source": "Business | The Guardian",
         "published": "2026-02-21T16:00:12+00:00"
-      },
-      {
-        "id": "2fe7e9d25cca",
-        "title": "Google VP warns that two types of AI startups may not survive",
-        "summary": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
-        "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
-        "source": "TechCrunch",
-        "published": "2026-02-21T16:00:00+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "23de592cd101",
+        "title": "How I think about Codex",
+        "summary": "How I think about Codex\nGabriel Chua (Developer Experience Engineer for APAC at OpenAI) provides his take on the confusing terminology behind the term \"Codex\", which can refer to a bunch of of different things within the OpenAI ecosystem:\n\nIn plain terms, Codex is OpenAI’s software engineering agent...",
+        "url": "https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-22T15:53:43+00:00"
+      },
       {
         "id": "0df55dc5663f",
         "title": "What would happen to the world if computer said yes?",
@@ -407,14 +415,6 @@
         "url": "https://www.wired.com/story/supreme-court-trump-tariffs-ruling/",
         "source": "Business Latest",
         "published": "2026-02-20T16:32:58+00:00"
-      },
-      {
-        "id": "9e8f24703972",
-        "title": "‘It’s survival of the fittest’: the UK kebab chain seeking an edge with robot slicers",
-        "summary": "German Doner Kebab aims to open at 25 new sites this year with self-service screens and healthy options aimed at gen Z They are already packing our groceries and delivering shopping. Now robots are coming to the kebab shop, alongside self-service screens and loyalty apps, as takeaways look for ways ...",
-        "url": "https://www.theguardian.com/technology/2026/feb/20/german-doner-kebab-uk-takeaway-fast-food-business-robotic-slicers",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-20T16:00:14+00:00"
       }
     ],
     "序(month)": [
