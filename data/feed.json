@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-02-22T11:45:15.148357+00:00",
+  "updated_at": "2026-02-22T13:55:53.758487+00:00",
   "trending": [
-    "criminal defense lawyer",
-    "noaa weather",
-    "alerta por tormenta de nieve",
-    "jessie diggins",
-    "daria snigur",
-    "baltimore weather",
-    "injury lawyer",
-    "south africa women vs pakistan women",
-    "nj lottery",
-    "genoa vs torino"
+    "milano cortina",
+    "mark stone",
+    "ovechkin",
+    "atalanta - napoli",
+    "nick suzuki",
+    "brock nelson",
+    "vincent trocheck",
+    "medal count olympics 2026",
+    "nascar race today",
+    "lake placid olympics"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "99a9f13cdb7d",
+        "title": "Trump warns Netflix of ‘consequences’ unless it pulls top Democrat from board",
+        "summary": "US president calls for removal of Susan Rice as streaming platform pursues takeover of Warner Bros DiscoveryDonald Trump has told Netflix to remove the Democratic foreign policy expert Susan Rice from its board or “face the consequences”, while the streaming platform is locked in an extraordinary co...",
+        "url": "https://www.theguardian.com/media/2026/feb/22/trump-warns-netflix-of-consequences-unless-it-pulls-top-democrat-susan-rice-from-board",
+        "source": "Business | The Guardian",
+        "published": "2026-02-22T13:30:07+00:00"
+      },
+      {
+        "id": "426cfa0982cf",
+        "title": "Tories would scrap ‘debt trap’ of high interest student loans, says Kemi Badenoch",
+        "summary": "Education secretary Bridget Phillipson suggests priority is grants for poorer students rather than cutting interestKemi Badenoch has said the Conservatives would scrap the “unfair debt trap” of high interest rates on student loans, piling pressure on Labour ministers to tackle the growing outrage ov...",
+        "url": "https://www.theguardian.com/politics/2026/feb/22/tories-scrap-high-interest-student-loans-says-kemi-badenoch",
+        "source": "Business | The Guardian",
+        "published": "2026-02-22T13:19:00+00:00"
+      },
+      {
+        "id": "9136181ec048",
+        "title": "Met police using AI tools supplied by Palantir to flag officer misconduct",
+        "summary": "Exclusive: Police Federation condemns deployment of US firm’s tech to analyse behaviour as ‘automated suspicion’Scotland Yard is using AI tools supplied by the US tech company Palantir to monitor staff behaviour in an attempt to root out failing officers, the Guardian has learned.The Metropolitan po...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/22/met-police-ai-tools-officer-misconduct-palantir",
+        "source": "Business | The Guardian",
+        "published": "2026-02-22T12:34:51+00:00"
+      },
+      {
+        "id": "bcfd4c8addf5",
+        "title": "Trump’s trade war risks undermining his hopes of hefty US interest rate cuts | Graeme Wearden",
+        "summary": "Upping tariffs may have lifted the president’s mood but it is a headache for the Federal Reserve and its next chairDonald Trump and Denis Healey don’t have much in common. One of the greatest prime ministers Britain never had shares little of his famous hinterland with what some historians see as on...",
+        "url": "https://www.theguardian.com/business/2026/feb/22/trump-trade-war-risks-undermining-his-hopes-of-hefty-us-interest-rate-cuts-tariffs",
+        "source": "Business | The Guardian",
+        "published": "2026-02-22T11:58:07+00:00"
+      },
+      {
+        "id": "8b32657ddd46",
+        "title": "Study shows how rocket launches pollute the atmosphere",
+        "summary": "Is the global atmospheric commons destined to be an industrial waste dumping ground?",
+        "url": "https://arstechnica.com/space/2026/02/study-shows-how-rocket-launches-pollute-the-atmosphere/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-22T11:20:03+00:00"
+      },
       {
         "id": "f68a66b60309",
         "title": "The 9,000-pound monster I don’t want to give back",
@@ -25,7 +65,7 @@
       {
         "id": "1d52845ca2e9",
         "title": "China overtakes US as Germany’s top trading partner",
-        "summary": "Friedrich Merz to meet Xi Jinping in Beijing as China overtakes US as country’s leading export destinationChina has overtaken the US as Germany’s top trading partner, figures have shown, as the chancellor, Friedrich Merz, prepares for his first visit to Beijing since taking office.Merz will head to ...",
+        "summary": "Friedrich Merz to meet Xi Jinping in Beijing, with goods worth €251bn traded between two countries in 2025China has overtaken the US as Germany’s top trading partner, figures have shown, as the chancellor, Friedrich Merz, prepares for his first visit to Beijing since taking office.Merz will head to ...",
         "url": "https://www.theguardian.com/business/2026/feb/22/china-overtakes-us-as-germany-top-trading-partner",
         "source": "Business | The Guardian",
         "published": "2026-02-22T10:51:40+00:00"
@@ -93,14 +133,6 @@
         "url": "https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/",
         "source": "TechCrunch",
         "published": "2026-02-21T20:20:15+00:00"
-      },
-      {
-        "id": "b73919e232ad",
-        "title": "Trump raises tariffs to 15% on imports from all countries",
-        "summary": "President announced increase from 10% using different authority from mechanism that supreme court struck down on FridayDonald Trump announced on Saturday that he would raise a temporary tariff rate on US imports from all countries from 10% to 15%, less than 24 hours after the US supreme court ruled ...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/21/trump-tariffs-15-percent",
-        "source": "Business | The Guardian",
-        "published": "2026-02-21T19:43:17+00:00"
       },
       {
         "id": "7c5eb116a15e",
@@ -181,38 +213,6 @@
         "url": "https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/",
         "source": "Ars Technica - All content",
         "published": "2026-02-21T12:00:56+00:00"
-      },
-      {
-        "id": "c3fc0636b40e",
-        "title": "‘Reimagining matter’: Nobel laureate invents machine that harvests water from dry air",
-        "summary": "Omar Yaghi’s invention uses ambient thermal energy and can generate up to 1,000 litres of clean water every dayA Nobel laureate’s environmentally friendly invention that provides clean water if central supplies are knocked out by a hurricane or drought could be a life saver for vulnerable islands, i...",
-        "url": "https://www.theguardian.com/environment/2026/feb/21/nobel-laureate-omar-yaghi-invents-machine-that-harvests-water-from-dry-air",
-        "source": "Business | The Guardian",
-        "published": "2026-02-21T12:00:11+00:00"
-      },
-      {
-        "id": "fac686f69a18",
-        "title": "Major government research lab appears to be squeezing out foreign scientists",
-        "summary": "\"Noncitizens\" lost after-hours access to a NIST lab last month.",
-        "url": "https://arstechnica.com/science/2026/02/major-government-research-lab-appears-to-be-squeezing-out-foreign-scientists/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-21T11:31:35+00:00"
-      },
-      {
-        "id": "84857e1009bd",
-        "title": "Decline in remote jobs risks shutting disabled people out of work, study finds",
-        "summary": "Research project warns fall in homeworking roles could undermine efforts to reduce unemploymentA decline in the number of jobs for people who need to work remotely, including those with disabilities, could undermine the government’s efforts to reverse rising unemployment, according to a two-year stu...",
-        "url": "https://www.theguardian.com/world/2026/feb/21/decline-in-remote-jobs-risks-shutting-disabled-people-out-of-work-study-finds",
-        "source": "Business | The Guardian",
-        "published": "2026-02-21T11:00:07+00:00"
-      },
-      {
-        "id": "4d2db1a1fc39",
-        "title": "The supreme court’s tariffs ruling puts Trump on notice with a bloody nose",
-        "summary": "The conservative-heavy court had largely given Trump everything he desired – until now, when two of his three nominees turned their back on himAfter an agonising year in which the US supreme court has stood aside and watched while Donald Trump has run roughshod over the constitutional separation of ...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/21/trump-tariffs-ruling-supreme-court",
-        "source": "Business | The Guardian",
-        "published": "2026-02-21T10:00:05+00:00"
       }
     ],
     "破(day)": [
