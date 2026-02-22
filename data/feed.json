@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-02-22T19:06:08.753285+00:00",
+  "updated_at": "2026-02-22T20:55:54.943746+00:00",
   "trending": [
-    "ioc president",
-    "racing de estrasburgo - lyon",
-    "chet holmgren",
-    "jarrett allen",
-    "kirsty coventry",
-    "isaiah joe",
-    "ava heiden",
-    "massachusetts state of emergency",
-    "dean wade",
-    "braves"
+    "cavs score",
+    "cabo san lucas",
+    "cason wallace",
+    "lsu baseball game today",
+    "fcps",
+    "mlb scores",
+    "isaiah hartenstein",
+    "noah jupe",
+    "benedetta porcaroli",
+    "mcps"
   ],
   "categories": {
     "急(hr)": [
@@ -217,6 +217,14 @@
     ],
     "破(day)": [
       {
+        "id": "ca5764cde003",
+        "title": "Basil stereo delay completes Bastl’s PIZZA trio on VCV Rack — all for free",
+        "summary": "The free and open source VCV Rack ports of Bastl's delicious PIZZA family now include the original Pizza oscillator, Crust drum/percussive voice, and Basil stereo delay. Endless patching pleasures await with these (and don't forget the free KOMPAS \"probability navigator,\" too).\nThe post Basil stereo...",
+        "url": "https://cdm.link/basil-stereo-delay-completes-bastls-pizza-trio-on-vcv-rack-all-for-free/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-22T19:13:21+00:00"
+      },
+      {
         "id": "7d3dc2a3b168",
         "title": "These are the nine best US laptop backpacks for hauling tech gear on the go – tested",
         "summary": "Your $1,000 laptop deserves a protective home on the road. A tech journalist and frequent traveler recommends his nine favoritesThe four best personal-item backpacks that fit under US airline seatsSign up for the Filter US newsletter, your weekly guide to buying fewer, better thingsWhether you’re fl...",
@@ -407,14 +415,6 @@
         "url": "https://www.wired.com/story/a-galaxy-composed-almost-entirely-of-dark-matter-has-been-confirmed/",
         "source": "Science Latest",
         "published": "2026-02-20T23:58:37+00:00"
-      },
-      {
-        "id": "30e03f6e6f26",
-        "title": "Adding TILs, releases, museums, tools and research to my blog",
-        "summary": "I've been wanting to add indications of my various other online activities to my blog for a while now. I just turned on a new feature I'm calling \"beats\" (after story beats, naming this was hard!) which adds five new types of content to my site, all corresponding to activity elsewhere.\nHere's what b...",
-        "url": "https://simonwillison.net/2026/Feb/20/beats/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-20T23:47:10+00:00"
       }
     ],
     "序(month)": [
