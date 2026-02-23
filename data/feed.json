@@ -1,19 +1,179 @@
 {
-  "updated_at": "2026-02-23T14:38:16.946941+00:00",
+  "updated_at": "2026-02-23T18:14:58.387786+00:00",
   "trending": [
-    "nbc olympics figure skating",
-    "west indies vs zimbabwe",
-    "tim tebow",
-    "chicago weather",
-    "stan wawrinka",
-    "norah o'donnell",
-    "conduent",
-    "school district of philadelphia",
-    "nfl combine 2026",
-    "nick reiner"
+    "kyle pitts",
+    "fenerbahçe",
+    "everton vs man united",
+    "alycia parks",
+    "pat mcafee show",
+    "product recall",
+    "michele hundley smith",
+    "ssi",
+    "peter mandelson",
+    "jack draper"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "e6cfdfaf7713",
+        "title": "OpenAI calls in the consultants for its enterprise push",
+        "summary": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
+        "url": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T18:11:08+00:00"
+      },
+      {
+        "id": "dbf4e2b67ece",
+        "title": "Millions under road travel bans as blizzard conditions slam US north-east",
+        "summary": "Blizzard warnings issued as some areas receive two feet of snow, creating whiteout conditionsMillions of people in New York City and a large swath of the north-eastern US were stuck at home under road travel bans and blizzard warnings on Monday as heavy snow and strong winds intensified, creating wh...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T17:57:00+00:00"
+      },
+      {
+        "id": "c6f5f8475c6e",
+        "title": "Guide Labs debuts a new kind of interpretable LLM",
+        "summary": "The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+        "url": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T17:53:28+00:00"
+      },
+      {
+        "id": "994c9466eade",
+        "title": "Labour’s Send revolution is a bold, high-stakes experiment – but is it Reform-proof? | John Harris",
+        "summary": "Bridget Phillipson’s 10-year plan is generous in places, but her party might not be in power long enough to see it throughWhether the change is down to the shifting of the Overton window or the demise of basic decency, one awful feature of the current national conversation is becoming clearer by the...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/23/labours-send-revolution-reform-bridget-phillipson",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T17:47:49+00:00"
+      },
+      {
+        "id": "6ee438beae4d",
+        "title": "Ex-DJ jailed in London for selling fake parts to airlines",
+        "summary": "Jose Alejandro Zamora Yrala set up AOG Technics, which sold more than 60,000 components in a £40m global fraudA one-time techno DJ who orchestrated a £40m global fraud selling fake aircraft parts from his garage outside London has been jailed.Engine parts from AOG Technics found their way into plane...",
+        "url": "https://www.theguardian.com/business/2026/feb/23/ex-dj-jailed-london-fake-parts-airlines",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T17:28:34+00:00"
+      },
+      {
+        "id": "32b05bcf13cf",
+        "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
+        "summary": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+        "url": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T16:55:40+00:00"
+      },
+      {
+        "id": "595a49ccb84d",
+        "title": "No business like snow business: blizzard shuts down the north-east US – in pictures",
+        "summary": "As another major storm brings to the area up to 2ft of snow, people brave the weather to commute and shovel Continue reading...",
+        "url": "https://www.theguardian.com/us-news/gallery/2026/feb/23/blizzard-snow-storm-photos",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T16:52:40+00:00"
+      },
+      {
+        "id": "7f5769f44556",
+        "title": "Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets",
+        "summary": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+        "url": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T16:50:36+00:00"
+      },
+      {
+        "id": "10922a9c0b02",
+        "title": "Finnish quantum unicorn IQM set to go public",
+        "summary": "Finnish unicorn IQM plans to go public via a special purpose acquisition company (SPAC) valuing the company at approximately $1.8 billion — joining the growing cohort of quantum computing companies listed on U.S. stock markets.",
+        "url": "https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T16:41:22+00:00"
+      },
+      {
+        "id": "e9c8a564f5e8",
+        "title": "Telegraph suitor considers legal action against UK government over rival bid",
+        "summary": "Exclusive: Figures led by New York Sun owner may seek judicial review after restrictions lifted on DMGT offerFigures involved in a rival bid for the Telegraph are drawing up legal action against the government, after ministers gave the owner of the Daily Mail permission to take a significant step to...",
+        "url": "https://www.theguardian.com/media/2026/feb/23/rival-telegraph-bidders-consider-legal-action-against-government",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T16:14:10+00:00"
+      },
+      {
+        "id": "86913596c3d8",
+        "title": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report",
+        "summary": "Chinese hackers allegedly broke into the network of an Ivanti subsidiary in 2021. The hackers exploited a backdoor in its VPN product, which allowed the hackers to gain access to 119 other unnamed organizations.",
+        "url": "https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T16:06:54+00:00"
+      },
+      {
+        "id": "f855a46a419e",
+        "title": "US supreme court takes up fossil fuel firms’ climate accountability case",
+        "summary": "Judgment in city of Boulder’s lawsuit against Suncor Energy USA and ExxonMobil could affect wave of climate litigationThe US supreme court has decided to hear arguments in a climate accountability lawsuit, marking the first time the high court has weighed in on such a case. The decision could potent...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/23/supreme-court-suncor-exxonmobil-case",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T16:04:25+00:00"
+      },
+      {
+        "id": "1c1fe5939c8f",
+        "title": "Yorkshire Water fined over £700,000 for repeated sewage releases",
+        "summary": "Company admits three pollution events that killed fish and insects in Pools Brook country park near ChesterfieldA water company has been fined more than £700,000 for repeatedly releasing sewage into a stream.Yorkshire Water was issued with the penalty after pleading guilty to three offences of sewag...",
+        "url": "https://www.theguardian.com/environment/2026/feb/23/yorkshire-water-fined-repeated-sewage-releases-chesterfield",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T16:03:08+00:00"
+      },
+      {
+        "id": "4035f29663b4",
+        "title": "New British datacentres risk exceeding national peak electricity use, regulator says",
+        "summary": "Ofgem says about 140 proposed projects, driven by AI use, could require 50 gigawatts of electricityThe amount of power being sought by new datacentre projects in Great Britain would exceed the national current peak electricity consumption, according to an industry watchdog.Ofgem said about 140 propo...",
+        "url": "https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T15:58:18+00:00"
+      },
+      {
+        "id": "928493299d5b",
+        "title": "Unlicensed gambling firms could be barred from sponsoring Premier League clubs",
+        "summary": "Top clubs agree not to have gambling sponsors on front of shirts, but government is consulting on total banUnlicensed gambling firms could be barred from sponsoring Premier League football clubs, after a string of controversies involving pornographic videos, failures in anti-money laundering rules a...",
+        "url": "https://www.theguardian.com/society/2026/feb/23/unlicensed-gambling-firms-could-be-barred-from-sponsoring-premier-league-clubs",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T15:53:19+00:00"
+      },
+      {
+        "id": "04818ba846fb",
+        "title": "AIs can generate near-verbatim copies of novels from training data",
+        "summary": "LLMs memorize more training data than previously thought.",
+        "url": "https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-23T15:38:00+00:00"
+      },
+      {
+        "id": "e808e86a9554",
+        "title": "Trump threatens ‘obnoxious’ tariffs as UK and EU seek clarity on trade deals",
+        "summary": "US president suggests trade war could escalate as administration says it will stop collecting levies ruled illegal by supreme courtBusiness live – latest updatesDonald Trump has declared that he can use tariffs in a “much more powerful and obnoxious way”, as the UK and the EU said they were seeking ...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/23/us-stop-collecting-trump-tariffs-supreme-court-dollar-gold-ieepa-refunds",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T15:24:06+00:00"
+      },
+      {
+        "id": "76da7b940b1b",
+        "title": "5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates",
+        "summary": "Five days to save up to $680 on your TechCrunch Disrupt 2026 ticket. These lowest rates of the year disappear on February 27 at 11:59 p.m. PT.",
+        "url": "https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T15:00:00+00:00"
+      },
+      {
+        "id": "74fd8b16c50f",
+        "title": "How AI agents could destroy the economy",
+        "summary": "Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.",
+        "url": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T14:44:03+00:00"
+      },
+      {
+        "id": "f554ae2ca926",
+        "title": "Wegovy and Ozempic owner dealt blow as next-gen weight-loss drug is labelled ‘obsolete’",
+        "summary": "Novo Nordisk’s shares fall sharply after testing of CagriSema falls short of investors’ expectationsBusiness live – latest updatesThe owner of Wegovy and Ozempic has suffered a significant setback, as its highly anticipated new weight-loss treatment was labelled “obsolete” after disappointing clinic...",
+        "url": "https://www.theguardian.com/business/2026/feb/23/wegovy-ozempic-weight-loss-drug-novo-nordisk-cagrisema",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T14:26:30+00:00"
+      },
       {
         "id": "da8bf163ae59",
         "title": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
@@ -21,14 +181,6 @@
         "url": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
         "source": "TechCrunch",
         "published": "2026-02-23T14:19:10+00:00"
-      },
-      {
-        "id": "bf523ed8abda",
-        "title": "Trump threatens ‘more powerful and obnoxious’ tariffs, amid confusion in UK and EU – business live",
-        "summary": "Rolling coverage of the latest economic and financial newsThe London stock market has dipped slightly in early trading.The FTSE 100 index is down 19 points, or 0.18%, at 10,668 points. Continue reading...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/23/us-dollar-stock-markets-losses-trump-global-tariff-supreme-court-news-updates",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T14:08:18+00:00"
       },
       {
         "id": "53aa93aeef5a",
@@ -61,161 +213,65 @@
         "url": "https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/",
         "source": "Ars Technica - All content",
         "published": "2026-02-23T12:00:45+00:00"
-      },
-      {
-        "id": "c75e65a89614",
-        "title": "Netflix boss says $83bn Warner Bros takeover will benefit industry",
-        "summary": "Comments by Ted Sarandos follow Donald Trump’s demand for company to remove Democrat from boardTrump warns Netflix of ‘consequences’ unless it pulls top Democrat from boardBusiness live – latest updatesThe boss of Netflix has launched a fresh defence of its $82.7bn (£61bn) takeover of Warner Bros Di...",
-        "url": "https://www.theguardian.com/media/2026/feb/23/netflix-warner-bros-takeover-ted-sarandos-donald-trump-susan-rice",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T11:08:16+00:00"
-      },
-      {
-        "id": "6992b21cad52",
-        "title": "Wispr Flow launches an Android app for AI-powered dictation",
-        "summary": "AI-powered dictation startup Wispr Flow has launched its Android app today. The company released its app for Mac and Windows first, then launched on iOS in June 2025. On iOS, users could use Wispr Flow through a dedicated keyboard. On Android, the interface is a bit different, as you can access the ...",
-        "url": "https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/",
-        "source": "TechCrunch",
-        "published": "2026-02-23T08:01:00+00:00"
-      },
-      {
-        "id": "2f9365cb0897",
-        "title": "Wickes kitchen fitting was a recipe for disaster",
-        "summary": "I’ve been without a hob in my new kitchen for three months after an emergency engineer was forced to disconnect itWhen Wickes installed my new kitchen, I noticed an odd, worsening smell that I put down to the ongoing works.It was nearly two months later that I realised it was gas. My supplier dispat...",
-        "url": "https://www.theguardian.com/money/2026/feb/22/wickes-kitchen-fitting-complaint",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T07:00:05+00:00"
-      },
-      {
-        "id": "2998c8f53039",
-        "title": "Meet the Australian farmer planning to get the US hooked on camel milk – video",
-        "summary": "After a decade of supplying the domestic camel milk market from a 130-hectare (320 acre) farm in south-east Queensland’s Scenic Rim, owner Paul Martin wants to start supplying the product to the United States. He hopes to export 60,000 litres this year – the first shipment in what he believes could ...",
-        "url": "https://www.theguardian.com/australia-news/video/2026/feb/23/meet-the-australian-farmer-planning-to-get-the-us-hooked-on-camel-milk-video",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T06:16:00+00:00"
-      },
-      {
-        "id": "3cee41fffc24",
-        "title": "Why are homegrown apples in the UK more expensive than imported bananas?",
-        "summary": "From flooding in Peru to the fight for fair wages, a lot more goes into the price of fruit than what supermarkets charge consumers forWhy have apples increased so much in price in the UK? They seem much more expensive than bananas, even though many are homegrown, and so don’t have to travel halfway ...",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/23/why-have-apples-increased-so-much-in-price-in-the-uk",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T05:00:58+00:00"
-      },
-      {
-        "id": "7cb9982ed7c0",
-        "title": "UK job vacancies ‘fall to lowest level since pandemic’",
-        "summary": "Advertised roles dropped 3% last month to 695,000 – first dip below 700,000 since January 2021, job site Adzuna saysThe number of job vacancies in the UK has tumbled to the lowest level in five years, research suggests, falling to levels not seen since the pandemic.The number of jobs being advertise...",
-        "url": "https://www.theguardian.com/business/2026/feb/23/uk-job-vacancies-fall-to-lowest-level-since-pandemic",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T00:01:51+00:00"
-      },
-      {
-        "id": "3a549970a78b",
-        "title": "From Victorian voyages to vanishing maps: Books in brief",
-        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00567-zAndrew Robinson reviews five of the best science picks.",
-        "url": "https://www.nature.com/articles/d41586-026-00567-z",
-        "source": "Nature",
-        "published": "2026-02-23T00:00:00+00:00"
-      },
-      {
-        "id": "2876ead2d3c2",
-        "title": "Why every scientist needs a librarian",
-        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00568-yLibrarians can be key research partners who help to scour the literature, manage data and make science open.",
-        "url": "https://www.nature.com/articles/d41586-026-00568-y",
-        "source": "Nature",
-        "published": "2026-02-23T00:00:00+00:00"
-      },
-      {
-        "id": "9d34fee13a29",
-        "title": "AI tools can design genomes. Will they upend how life evolves?",
-        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00566-0Breakthroughs in computing are supercharging a field of science dedicated to building synthetic organisms from scratch.",
-        "url": "https://www.nature.com/articles/d41586-026-00566-0",
-        "source": "Nature",
-        "published": "2026-02-23T00:00:00+00:00"
-      },
-      {
-        "id": "96b8f5fea96e",
-        "title": "Historically Black US universities chase top research ranking",
-        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00366-6Howard University is reaping the rewards of becoming the first such institution to reach ‘R1’ status.",
-        "url": "https://www.nature.com/articles/d41586-026-00366-6",
-        "source": "Nature",
-        "published": "2026-02-23T00:00:00+00:00"
-      },
-      {
-        "id": "440b7d5ed2f4",
-        "title": "This AI can improve your peer review — and make it more polite",
-        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00536-6A system of five models helps peer reviewers to write more constructive comments, but it is not yet known whether this strengthens the papers that are being reviewed.",
-        "url": "https://www.nature.com/articles/d41586-026-00536-6",
-        "source": "Nature",
-        "published": "2026-02-23T00:00:00+00:00"
-      },
-      {
-        "id": "04a4fa04bb06",
-        "title": "How big is the ‘motherhood penalty’? In Denmark, it adds up to $120,000",
-        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00463-6An analysis documents the cumulative income hit mothers incur — as well as the extent to which state aid can offset the loss.",
-        "url": "https://www.nature.com/articles/d41586-026-00463-6",
-        "source": "Nature",
-        "published": "2026-02-23T00:00:00+00:00"
-      },
-      {
-        "id": "b523fffbe5cd",
-        "title": "Music is not a universal language — but it can bring us together when words fail",
-        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00565-1Societies, animals and even machines have music in common. Our varied experiences of it might tell us about the origins of language.",
-        "url": "https://www.nature.com/articles/d41586-026-00565-1",
-        "source": "Nature",
-        "published": "2026-02-23T00:00:00+00:00"
-      },
-      {
-        "id": "262129101ee3",
-        "title": "Apple might take a new approach to announcing its next products",
-        "summary": "Apple has invited the tech press to a “special Apple experience” on March 4, but it might unfold a bit differently than the company's standard press event.",
-        "url": "https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/",
-        "source": "TechCrunch",
-        "published": "2026-02-22T23:08:08+00:00"
-      },
-      {
-        "id": "6b0291762c0c",
-        "title": "Can the creator economy stay afloat in a flood of AI slop?",
-        "summary": "On the latest episode of Equity, we debated what’s next for the creator economy, and whether there will be any room for the next generation of creators to stand out.",
-        "url": "https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/",
-        "source": "TechCrunch",
-        "published": "2026-02-22T22:15:58+00:00"
-      },
-      {
-        "id": "4658eba902c6",
-        "title": "Bill Gurley says that right now, the worst thing you can do for your career is play it safe",
-        "summary": "\"The number one thing is to get out of your head this ideal that gets passed around in the self-help world: 'go get a mentor,' and everyone runs out and cold calls someone that's ridiculously too high and unachievable, and it doesn't work.\"",
-        "url": "https://techcrunch.com/2026/02/22/bill-gurley-says-that-right-now-the-worst-thing-you-can-do-for-your-career-is-play-it-safe/",
-        "source": "TechCrunch",
-        "published": "2026-02-22T21:08:50+00:00"
-      },
-      {
-        "id": "a45cefd1697e",
-        "title": "Quantonation’s double-sized second fund shows quantum still has believers",
-        "summary": "Quantonation Ventures, a venture firm investing in quantum and physics-based startups, has closed its oversubscribed second fund at €220 million, or approximately $260 million. That’s more than twice the size of its inaugural fund, and comes in addition to other signals that the quantum winter isn’t...",
-        "url": "https://techcrunch.com/2026/02/22/quantonations-double-sized-second-fund-shows-quantum-still-has-believers/",
-        "source": "TechCrunch",
-        "published": "2026-02-22T18:00:00+00:00"
-      },
-      {
-        "id": "48f100e85321",
-        "title": "Employers should contribute to universities | Letters",
-        "summary": "Johnny Rich proposes a sustainable funding model for higher education. Plus letters from Henry Malt and David GleaveOn the subject of student debts (Student debt is a generational injustice. Why are we squeezing graduates harder than the super-rich?, 16 February), Gaby Hinsliff writes: “If&nbsp;the ...",
-        "url": "https://www.theguardian.com/education/2026/feb/22/employers-should-contribute-to-universities",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T17:55:12+00:00"
-      },
-      {
-        "id": "426cfa0982cf",
-        "title": "Tories would scrap ‘debt trap’ of high interest student loans, says Kemi Badenoch",
-        "summary": "Education secretary Bridget Phillipson suggests priority is grants for poorer students rather than cutting interestKemi Badenoch has said the Conservatives would scrap the “unfair debt trap” of high interest rates on student loans, piling pressure on Labour ministers to tackle the growing outrage ov...",
-        "url": "https://www.theguardian.com/politics/2026/feb/22/tories-scrap-high-interest-student-loans-says-kemi-badenoch",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T17:46:41+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "2b262b7595e0",
+        "title": "Writing about Agentic Engineering Patterns",
+        "summary": "I've started a new project to collect and document Agentic Engineering Patterns - coding practices and patterns to help get the best results out of this new era of coding agent development we find ourselves entering.\nI'm using Agentic Engineering to refer to building software using coding agents - t...",
+        "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-23T17:43:02+00:00"
+      },
+      {
+        "id": "90ac7ad1d2ab",
+        "title": "John Oliver on Elon Musk’s X: ‘Now worse than useless’",
+        "summary": "Last Week Tonight host delved into the arrest of Andrew Mountbatten-Windsor in relation to the Epstein files and Musk’s poisonous ownership of XOn his new episode of Last Week Tonight, John Oliver wasted no time digging into the files related to late pedophile financier Jeffrey Epstein, which have o...",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/feb/23/john-oliver-elon-musk-twitter-x",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-23T16:53:50+00:00"
+      },
+      {
+        "id": "0eed6b9544a3",
+        "title": "The US Had a Big Battery Boom Last Year",
+        "summary": "Despite Donald Trump’s unrelenting attacks on renewable energy, there’s a quiet revolution happening on US grids.",
+        "url": "https://www.wired.com/story/the-us-had-a-big-battery-boom-last-year/",
+        "source": "Science Latest",
+        "published": "2026-02-23T16:35:22+00:00"
+      },
+      {
+        "id": "2cc36850fcad",
+        "title": "Writing code is cheap now",
+        "summary": "Agentic Engineering Patterns &gt;\n    The biggest challenge in adopting agentic engineering practices is getting comfortable with the consequences of the fact that writing code is cheap now.\nCode has always been expensive. Producing a few hundred lines of clean, tested code takes most software devel...",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-23T16:20:42+00:00"
+      },
+      {
+        "id": "26c78ce3be39",
+        "title": "Quoting Paul Ford",
+        "summary": "The paper asked me to explain vibe coding, and I did so, because I think something big is coming there, and I'm deep in, and I worry that normal people are not able to see it and I want them to be prepared. But people can't just read something and hate you quietly; they can't see that you have provi...",
+        "url": "https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-23T16:00:32+00:00"
+      },
+      {
+        "id": "7818bfe11748",
+        "title": "《家的蜃樓》：是歸所還是廢墟？家暴兒虐受害者夢境揭露的事",
+        "summary": "3歲的大榮為了倖存而被迫裂解，與自己斷開，把承載著恐怖感官印象碎片的自己，藏在連自己都找不到的地方。40歲的大榮，在意識防衛稍微鬆懈的夜裡，夢悄悄以隱喻和換喻做著工，開始以較為具象的畫面，指向家之所以恐怖的原因⋯⋯",
+        "url": "https://www.twreporter.org/a/bookreview-the-mirage-of-family-a-psychoanalytic-ethnography-of-incest-trauma",
+        "source": "報導者",
+        "published": "2026-02-23T16:00:00+00:00"
+      },
+      {
+        "id": "4035f29663b4",
+        "title": "New British datacentres risk exceeding national peak electricity use, regulator says",
+        "summary": "Ofgem says about 140 proposed projects, driven by AI use, could require 50 gigawatts of electricityThe amount of power being sought by new datacentre projects in Great Britain would exceed the national current peak electricity consumption, according to an industry watchdog.Ofgem said about 140 propo...",
+        "url": "https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-23T15:58:18+00:00"
+      },
       {
         "id": "388ecf4f997e",
         "title": "Reply guy",
@@ -359,62 +415,6 @@
         "url": "https://www.wired.com/story/how-to-view-the-blood-moon-total-lunar-eclipse-on-march-3/",
         "source": "Science Latest",
         "published": "2026-02-22T10:00:00+00:00"
-      },
-      {
-        "id": "ed45de2e4482",
-        "title": "Meta 智慧眼鏡傳加入臉部辨識功能，隱私風險急升高",
-        "summary": "Meta 智慧眼鏡將有引人注目的新升級，包括臉部辨識。《紐約時報》的報導，與 Ray-Ban 合作智慧眼鏡外觀 [&#8230;]",
-        "url": "https://technews.tw/2026/02/22/meta-is-a-planning-a-terrifying-new-upgrade-for-its-smart-glasses/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-02-22T07:45:46+00:00"
-      },
-      {
-        "id": "a1a34b0af456",
-        "title": "Can a hair dryer really save your scalp from heat damage? I put Dyson’s Supersonic Nural to the test",
-        "summary": "With sensors that cool the air as it nears your head, this high-end tool promises gentler styling for sensitive scalps• The best hair dryers for smooth, speedy styling at homeTell most hair-care enthusiasts you want to upgrade your hair dryer, and I’d bet good money you’ll be asked, “Will you buy a ...",
-        "url": "https://www.theguardian.com/thefilter/2026/feb/22/dyson-supersonic-nural-hair-dryer-review",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-22T07:00:30+00:00"
-      },
-      {
-        "id": "aa61f215772e",
-        "title": "I’m worried my boyfriend’s use of AI is affecting his ability to think for himself | Annalisa Barbieri",
-        "summary": "Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxietyMy boyfriend of eight years, who is 44, has ADHD and runs his own business. He’s always struggled with admin and mundane tasks, but AI has revolutionised how he ...",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/worried-boyfriend-ai-affecting-ability-think-for-himself-annalisa-barbieri",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-22T06:00:29+00:00"
-      },
-      {
-        "id": "50bf1b067b9c",
-        "title": "詹育杰／當「英雄」倒下：藝術家如何拆解公共紀念碑的永恆神話",
-        "summary": "面對價值觀已過時的紀念雕像，應保留還是移除？作者以前東德攝影師記錄紀念碑「解／建構」過程的作品、德國藝術家重複傾倒的馬背英雄雕像動態雕塑、哥倫比亞藝術家翻轉與移除紀念碑的錄像，嘗試提出思考方向。",
-        "url": "https://www.twreporter.org/a/photo-falling-heroes-monuments-art-deconstruction",
-        "source": "報導者",
-        "published": "2026-02-21T16:00:00+00:00"
-      },
-      {
-        "id": "fe9b36f5ea9e",
-        "title": "Claude再次引爆美软件股恐慌！网络安全股遭抛售，新代码工具让传统安全手段失灵？",
-        "summary": "当地时间 2 月 20 日，美股网络安全板块集体跳水。CrowdStrike 收跌约 8％，Cloudflare 跌逾 8％，Okta 下挫 9.2％，SailPoint 跌去 9.4％，Zscaler 丢了 5.5％。追踪全球网络安全公司的 Global X Cybersecurity ETF（代码 BUG）当日收跌 4.9％，报收于 2023 年 11 月以来的最低位。触发抛售的，是 Anthropic 当天发布的一款名为 Claude Code Security 的代码安全工具。图丨网络安全 ETF 近期连续下跌（来源：Bloomberg）某种意义上说，在过去数周软件板块持续溃退的背景下...",
-        "url": "https://www.mittrchina.com/news/detail/15954",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-21T14:01:17+00:00"
-      },
-      {
-        "id": "67afb2548464",
-        "title": "US farmers are rejecting multimillion-dollar datacenter bids for their land: ‘I’m not for sale’",
-        "summary": "Families are navigating the tough choice between unimaginable riches and the identity that comes with landWhen two men knocked on Ida Huddleston’s door last May, they carried a contract worth more than $33m in exchange for the Kentucky farm that had fed her family for centuries.According to Huddlest...",
-        "url": "https://www.theguardian.com/technology/2026/feb/21/us-farmers-datacenters",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-21T14:00:09+00:00"
-      },
-      {
-        "id": "fad0466de69b",
-        "title": "尿越浓，电越多？科学家找到尿液发电的最佳配方",
-        "summary": "我们每天从下水道冲走的尿液，其实是个宝贝。近日，加拿大麦吉尔大学的研究人员使用一种名为微生物燃料电池的装置，把尿液变成了电能，并且发现尿越浓，发的电越多。它的原理是这样的：在这套装置里有一群吃有机物的细菌，当把尿液倒进去，细菌就开始“狂炫”。它们在分解尿液里的有机物的时候，会把电子释放出来。这些电子沿着导线跑到另一个区间，就会和空气中的氧气结合，从而形成电流。整个过程既处理了污水，又发了电。研究人员造了四个双室微生物燃料电池，每个有500毫升的容量。他们往里面加了不同浓度的尿液，有的只占20%，有的占50%，有的高达75%。然后，他们连续监测了14天，看看哪个浓度的发电效果最好。结果很明显：尿...",
-        "url": "https://www.mittrchina.com/news/detail/15953",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-21T10:30:14+00:00"
       }
     ],
     "序(month)": [
