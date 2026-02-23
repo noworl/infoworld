@@ -1,19 +1,67 @@
 {
-  "updated_at": "2026-02-23T21:30:22.776712+00:00",
+  "updated_at": "2026-02-23T23:48:31.373208+00:00",
   "trending": [
-    "hims stock",
-    "manny pacquiao",
-    "anthropic",
-    "when is the state of the union",
-    "new jersey travel restrictions",
-    "mike danna",
-    "francisco comesana",
-    "arc raiders update shrouded sky",
-    "danielle deadwyler",
-    "bologna fc"
+    "barry manilow",
+    "lamar basketball",
+    "phillies",
+    "citrini research",
+    "louisville vs north carolina prediction",
+    "charles kushner",
+    "2027 chevy silverado",
+    "the voice 2026",
+    "indigo",
+    "tgl golf"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "e808e86a9554",
+        "title": "Trump threatens ‘obnoxious’ tariffs as UK and EU seek clarity on trade deals",
+        "summary": "US president suggests trade war could escalate as administration says it will stop collecting levies ruled illegal by supreme courtStock markets stumble as global trade faces more Trump tariff uncertaintyDonald Trump has declared that he can use tariffs in a “much more powerful and obnoxious way”, a...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/23/us-stop-collecting-trump-tariffs-supreme-court-dollar-gold-ieepa-refunds",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T22:40:53+00:00"
+      },
+      {
+        "id": "dbf4e2b67ece",
+        "title": "Millions under road travel bans as blizzard conditions slam US north-east",
+        "summary": "Blizzard warnings issued as some areas receive two feet of snow, creating whiteout conditionsBlizzard shuts down the north-east US – in picturesMillions of people in the north-eastern US were stuck at home on Monday as heavy snow and strong winds created white-out conditions, grounding flights in th...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T22:31:55+00:00"
+      },
+      {
+        "id": "f2d8e9f34c8d",
+        "title": "Pentagon buyer: We're happy with our launch industry, but payloads are lagging",
+        "summary": "\"The point is to get missions out the door as fast as possible. Two to three years is too slow.\"",
+        "url": "https://arstechnica.com/space/2026/02/pentagon-buyer-were-happy-with-our-launch-industry-but-payloads-are-lagging/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-23T22:14:28+00:00"
+      },
+      {
+        "id": "0ef90f3dc9b7",
+        "title": "Data center builders thought farmers would willingly sell land, learn otherwise",
+        "summary": "Even in a fragile farm economy, million-dollar offers can't sway dedicated farmers.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/im-not-for-sale-farmers-refuse-to-take-millions-in-data-center-deals/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-23T21:48:44+00:00"
+      },
+      {
+        "id": "f0cea96f7258",
+        "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+        "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+        "url": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T21:46:41+00:00"
+      },
+      {
+        "id": "793569c724db",
+        "title": "Panasonic, the former plasma king, will no longer make its own TVs",
+        "summary": "Panasonic was one of the last Japanese companies still manufacturing TVs.",
+        "url": "https://arstechnica.com/gadgets/2026/02/panasonic-the-former-plasma-king-will-no-longer-make-its-own-tvs/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-23T21:16:20+00:00"
+      },
       {
         "id": "89e0040e6963",
         "title": "Channel 4’s Dirty Business is a clarion call to nationalise the water industry",
@@ -39,10 +87,10 @@
         "published": "2026-02-23T19:57:27+00:00"
       },
       {
-        "id": "4d5d3f20689b",
-        "title": "Uber’s new autonomous vehicle division is about survival and opportunity",
-        "summary": "Uber Autonomous Solutions will see the company taking on all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business.",
-        "url": "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi/",
+        "id": "26790ada588b",
+        "title": "Uber wants to be a Swiss Army Knife for robotaxis",
+        "summary": "Uber Autonomous Solutions will see the company selling both software and services for all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business.",
+        "url": "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi-delivery-robots/",
         "source": "TechCrunch",
         "published": "2026-02-23T19:54:22+00:00"
       },
@@ -64,7 +112,7 @@
       },
       {
         "id": "7f5ced932e48",
-        "title": "Google’s Cloud AI lead on the three frontiers of model capability",
+        "title": "Google’s Cloud AI leads on the three frontiers of model capability",
         "summary": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
         "url": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
         "source": "TechCrunch",
@@ -77,14 +125,6 @@
         "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
         "source": "TechCrunch",
         "published": "2026-02-23T18:49:49+00:00"
-      },
-      {
-        "id": "dbf4e2b67ece",
-        "title": "Millions under road travel bans as blizzard conditions slam US north-east",
-        "summary": "Blizzard warnings issued as some areas receive two feet of snow, creating whiteout conditionsBlizzard shuts down the north-east US – in picturesMillions of people in New York City and a large swath of the north-eastern US were stuck at home under road travel bans and blizzard warnings on Monday as h...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T18:27:55+00:00"
       },
       {
         "id": "4035f29663b4",
@@ -173,49 +213,17 @@
         "url": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
         "source": "TechCrunch",
         "published": "2026-02-23T16:50:36+00:00"
-      },
-      {
-        "id": "10922a9c0b02",
-        "title": "Finnish quantum unicorn IQM set to go public",
-        "summary": "Finnish unicorn IQM plans to go public via a special purpose acquisition company (SPAC) valuing the company at approximately $1.8 billion — joining the growing cohort of quantum computing companies listed on U.S. stock markets.",
-        "url": "https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public/",
-        "source": "TechCrunch",
-        "published": "2026-02-23T16:41:22+00:00"
-      },
-      {
-        "id": "e9c8a564f5e8",
-        "title": "Telegraph suitor considers legal action against UK government over rival bid",
-        "summary": "Exclusive: Figures led by New York Sun owner may seek judicial review after restrictions lifted on DMGT offerFigures involved in a rival bid for the Telegraph are drawing up legal action against the government, after ministers gave the owner of the Daily Mail permission to take a significant step to...",
-        "url": "https://www.theguardian.com/media/2026/feb/23/rival-telegraph-bidders-consider-legal-action-against-government",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T16:14:10+00:00"
-      },
-      {
-        "id": "86913596c3d8",
-        "title": "VPN flaws allowed Chinese hackers to compromise dozens of Ivanti customers, says report",
-        "summary": "Chinese hackers allegedly broke into the network of an Ivanti subsidiary in 2021. The hackers exploited a backdoor in its VPN product, which allowed the hackers to gain access to 119 other unnamed organizations.",
-        "url": "https://techcrunch.com/2026/02/23/vpn-flaws-allowed-chinese-hackers-to-compromise-dozens-of-ivanti-customers-says-report/",
-        "source": "TechCrunch",
-        "published": "2026-02-23T16:06:54+00:00"
-      },
-      {
-        "id": "f855a46a419e",
-        "title": "US supreme court takes up fossil fuel firms’ climate accountability case",
-        "summary": "Judgment in city of Boulder’s lawsuit against Suncor Energy USA and ExxonMobil could affect wave of climate litigationThe US supreme court has decided to hear arguments in a climate accountability lawsuit, marking the first time the high court has weighed in on such a case. The decision could potent...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/23/supreme-court-suncor-exxonmobil-case",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T16:04:25+00:00"
-      },
-      {
-        "id": "1c1fe5939c8f",
-        "title": "Yorkshire Water fined over £700,000 for repeated sewage releases",
-        "summary": "Company admits three pollution events that killed fish and insects in Pools Brook country park near ChesterfieldA water company has been fined more than £700,000 for repeatedly releasing sewage into a stream.Yorkshire Water was issued with the penalty after pleading guilty to three offences of sewag...",
-        "url": "https://www.theguardian.com/environment/2026/feb/23/yorkshire-water-fined-repeated-sewage-releases-chesterfield",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T16:03:08+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "277ca4b74516",
+        "title": "Where Is the Green Sheep? The 190-word picture book that sold millions – and inspired a whole live show",
+        "summary": "Written by Mem Fox with illustrations by Judy Horacek, Green Sheep was recently voted third-best Australian picture book of all time by Guardian readersGet our weekend culture and lifestyle emailWhen Judy Horacek drew a little green sheep and posted it to her website, she never could have imagined w...",
+        "url": "https://www.theguardian.com/stage/2026/feb/24/where-is-the-green-sheep-picture-book-mem-fox-judy-horacek-live-show",
+        "source": "Children and teenagers | The Guardian",
+        "published": "2026-02-23T23:44:41+00:00"
+      },
       {
         "id": "960a2076ef62",
         "title": "Ardour 9.2, free and open DAW, grants user wishes — Region FX, anyone?",
@@ -407,17 +415,17 @@
         "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/what-would-happen-to-the-world-if-computer-said-yes",
         "source": "Technology | The Guardian",
         "published": "2026-02-22T14:00:38+00:00"
-      },
-      {
-        "id": "d9fa48141993",
-        "title": "科学家发现喝一瓶啤酒等于吞下130个塑料颗粒，源头不是瓶子是瓶盖",
-        "summary": "春节假期估计不少人都喝过玻璃瓶装的饮料，多数时候人们也会天然地认为玻璃瓶应该比塑料瓶对人体更有益。然而，法国滨海大学的研究人员发现了一个让人不太舒服的事实：玻璃瓶饮料会比塑料瓶饮料产生更多微塑料。研究人员买来了饮用水、可乐、冰茶、柠檬汽水、啤酒和葡萄酒，显微镜结果显示每一瓶里都有塑料。这些塑料不是掉进瓶子里的大块碎片，是肉眼根本看不到的微塑料。它们的直径比头发丝还细，只有几十微米大小，就飘在饮料液体里面。研究人员一共测试了七款饮用水的品牌，结果发现平均每一升水里有 2.9 个微塑料。可乐类汽水里每升有 31.4 个。冰茶，28.5 个。柠檬汽水，45.2 个。啤酒，82.9 个。最高的是一种啤...",
-        "url": "https://www.mittrchina.com/news/detail/15958",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-22T13:57:56+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "f9de4cde9617",
+        "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+        "summary": "Foundation Models Need a Foundation Tool LLMs don’t—and can’t—do everything. What they do is very impressive—and useful. It’s broad. And in many ways it’s human-like. But it’s not precise. And in the end it’s not about deep computation. So how can we supplement LLM foundation models? We need a found...",
+        "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2026-02-23T21:52:54+00:00"
+      },
       {
         "id": "4c6f905abd72",
         "title": "使用等積投影（equal-area projection）的設定方式",
@@ -609,14 +617,6 @@
         "url": "https://www.ethanhein.com/wp/2026/low-end-theory/",
         "source": "The Ethan Hein Blog",
         "published": "2026-02-04T13:44:23+00:00"
-      },
-      {
-        "id": "025e79956521",
-        "title": "Preserving the Open Web: Inside the New Wayback Machine Plugin for WordPress",
-        "summary": "Link rot. There’s nothing quite as frustrating as clicking on a link that leads to nowhere. WordPress, which powers more than 40% of websites online, recently partnered with the Internet [&#8230;]",
-        "url": "https://blog.archive.org/2026/02/04/inside-the-new-wayback-machine-plugin-for-wordpress/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-02-04T12:00:00+00:00"
       }
     ]
   }
