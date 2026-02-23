@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-22T23:55:15.013549+00:00",
+  "updated_at": "2026-02-23T05:43:14.277621+00:00",
   "trending": [
-    "bubba wallace",
-    "iowa vs oklahoma state wrestling",
-    "hocevar",
-    "ross chastain",
-    "nba youngboy",
-    "carson hocevar",
-    "new york city vs la galaxy",
-    "tiger woods",
-    "missouri vs lsu",
-    "jayson tatum"
+    "earthquake now",
+    "allyson friedman",
+    "millionaire for life",
+    "roman reigns",
+    "brock lesnar",
+    "dexter sol ansell",
+    "cancun travel advisory",
+    "brook lopez",
+    "knight of the seven kingdoms season 2",
+    "house of the dragon"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "7cb9982ed7c0",
+        "title": "UK job vacancies ‘fall to lowest level since pandemic’",
+        "summary": "Advertised roles dropped 3% last month to 695,000 – first dip below 700,000 since January 2021, job site Adzuna saysThe number of job vacancies in the UK has tumbled to the lowest level in five years, research suggests, falling to levels not seen since the pandemic.The number of jobs being advertise...",
+        "url": "https://www.theguardian.com/business/2026/feb/23/uk-job-vacancies-fall-to-lowest-level-since-pandemic",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T00:01:51+00:00"
+      },
       {
         "id": "262129101ee3",
         "title": "Apple might take a new approach to announcing its next products",
@@ -93,6 +101,14 @@
         "url": "https://techcrunch.com/2026/02/22/techcrunch-mobility-waymo-makes-its-defense/",
         "source": "TechCrunch",
         "published": "2026-02-22T17:05:00+00:00"
+      },
+      {
+        "id": "cbabfce3f352",
+        "title": "All the important news from the ongoing India AI Impact Summit",
+        "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+        "url": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+        "source": "TechCrunch",
+        "published": "2026-02-22T17:00:00+00:00"
       },
       {
         "id": "736ccde5886a",
@@ -197,25 +213,33 @@
         "url": "https://techcrunch.com/2026/02/22/the-9000-pound-monster-i-dont-want-to-give-back/",
         "source": "TechCrunch",
         "published": "2026-02-22T10:59:08+00:00"
-      },
-      {
-        "id": "1d52845ca2e9",
-        "title": "China overtakes US as Germany’s top trading partner",
-        "summary": "Friedrich Merz to meet Xi Jinping in Beijing, with goods worth €251bn traded between two countries in 2025China has overtaken the US as Germany’s top trading partner, figures have shown, as the chancellor, Friedrich Merz, prepares for his first visit to Beijing since taking office.Merz will head to ...",
-        "url": "https://www.theguardian.com/business/2026/feb/22/china-overtakes-us-as-germany-top-trading-partner",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T10:51:40+00:00"
-      },
-      {
-        "id": "fe41ad47aafc",
-        "title": "‘It’s a ticking timebomb’: food producers sound alarm on rise in energy charges",
-        "summary": "Indoor growers warn April price jump will hinder sector’s competitiveness and drive up costs for consumersHigh energy prices threaten UK’s status as manufacturing power, business groups sayOutside, it’s an overcast and blustery February day in Kent – hardly the ideal conditions for growing tomatoes,...",
-        "url": "https://www.theguardian.com/business/2026/feb/22/food-production-hike-in-energy-standing-charges-inflation",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T10:25:54+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "ed2db8366d48",
+        "title": "NASA Delays Launch of Artemis II Lunar Mission Once Again",
+        "summary": "A failure in the helium flow of the SLS rocket has prompted NASA to delay the Artemis II moon mission. Rather than March 6, the launch is now targeted for April.",
+        "url": "https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/",
+        "source": "Science Latest",
+        "published": "2026-02-23T00:42:06+00:00"
+      },
+      {
+        "id": "aa4766009a85",
+        "title": "The Claude C Compiler: What It Reveals About the Future of Software",
+        "summary": "The Claude C Compiler: What It Reveals About the Future of Software\nOn February 5th Anthropic's Nicholas Carlini wrote about a project to use parallel Claudes to build a C compiler on top of the brand new Opus 4.6\nChris Lattner (Swift, LLVM, Clang, Mojo) knows more about C compilers than most. He ju...",
+        "url": "https://simonwillison.net/2026/Feb/22/ccc/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-22T23:58:43+00:00"
+      },
+      {
+        "id": "73dca3d1d7a8",
+        "title": "London Stock Exchange: Raspberry Pi Holdings plc",
+        "summary": "London Stock Exchange: Raspberry Pi Holdings plc\nStriking graph illustrating stock in the UK Raspberry Pi holding company spiking on Tuesday:\n\nThe Telegraph credited excitement around OpenClaw: \n\nRaspberry Pi's stock price has surged 30pc in two days, amid chatter on social media that the company's ...",
+        "url": "https://simonwillison.net/2026/Feb/22/raspberry-pi-openclaw/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-22T23:54:39+00:00"
+      },
       {
         "id": "ca5764cde003",
         "title": "Basil stereo delay completes Bastl’s PIZZA trio on VCV Rack — all for free",
@@ -391,30 +415,6 @@
         "url": "https://www.wired.com/story/trump-imposes-new-tariffs-following-supreme-court-ruling/",
         "source": "Business Latest",
         "published": "2026-02-21T02:55:58+00:00"
-      },
-      {
-        "id": "3fbb1c0944dc",
-        "title": "Quoting Thibault Sottiaux",
-        "summary": "We’ve made GPT-5.3-Codex-Spark about 30% faster. It is now serving at over 1200 tokens per second.\n&mdash; Thibault Sottiaux, OpenAI\n\n    Tags: openai, llms, ai, generative-ai, llm-performance",
-        "url": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-21T01:30:21+00:00"
-      },
-      {
-        "id": "ae38530b7263",
-        "title": "Andrej Karpathy talks about \"Claws\"",
-        "summary": "Andrej Karpathy talks about &quot;Claws&quot;\nAndrej Karpathy tweeted a mini-essay about buying a Mac Mini (\"The apple store person told me they are selling like hotcakes and everyone is confused\") to tinker with Claws:\n\nI'm definitely a bit sus'd to run OpenClaw specifically [...] But I do love the...",
-        "url": "https://simonwillison.net/2026/Feb/21/claws/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-21T00:37:45+00:00"
-      },
-      {
-        "id": "9938047bc2a8",
-        "title": "A Galaxy Composed Almost Entirely of Dark Matter Has Been Confirmed",
-        "summary": "What scientists thought were four separate star clusters are actually part of one nearly invisible system.",
-        "url": "https://www.wired.com/story/a-galaxy-composed-almost-entirely-of-dark-matter-has-been-confirmed/",
-        "source": "Science Latest",
-        "published": "2026-02-20T23:58:37+00:00"
       }
     ],
     "序(month)": [
