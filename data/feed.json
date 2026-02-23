@@ -1,19 +1,107 @@
 {
-  "updated_at": "2026-02-23T18:14:58.387786+00:00",
+  "updated_at": "2026-02-23T21:30:22.776712+00:00",
   "trending": [
-    "kyle pitts",
-    "fenerbahçe",
-    "everton vs man united",
-    "alycia parks",
-    "pat mcafee show",
-    "product recall",
-    "michele hundley smith",
-    "ssi",
-    "peter mandelson",
-    "jack draper"
+    "hims stock",
+    "manny pacquiao",
+    "anthropic",
+    "when is the state of the union",
+    "new jersey travel restrictions",
+    "mike danna",
+    "francisco comesana",
+    "arc raiders update shrouded sky",
+    "danielle deadwyler",
+    "bologna fc"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "89e0040e6963",
+        "title": "Channel 4’s Dirty Business is a clarion call to nationalise the water industry",
+        "summary": "As the drama shows, private firms no longer able to pollute the coast of England of Wales just switched to rivers instead There is a moment in Channel 4’s drama Dirty Business when Julie Maughan holds the body of her dead child and lets out an anguished cry. It is as brutal as it is compelling.Her e...",
+        "url": "https://www.theguardian.com/environment/2026/feb/23/channel-4-dirty-business-clarion-call-nationalise-water-industry",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T21:00:51+00:00"
+      },
+      {
+        "id": "e01aeb9c984f",
+        "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting",
+        "summary": "The team that sold their last app Dark Sky to Apple are back with Acme Weather, which offers alternative forecasts, rainbow and sunset alerts, and more.",
+        "url": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T20:35:06+00:00"
+      },
+      {
+        "id": "25d70b7c88b9",
+        "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+        "summary": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+        "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T19:57:27+00:00"
+      },
+      {
+        "id": "4d5d3f20689b",
+        "title": "Uber’s new autonomous vehicle division is about survival and opportunity",
+        "summary": "Uber Autonomous Solutions will see the company taking on all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business.",
+        "url": "https://techcrunch.com/2026/02/23/uber-autonomous-solutions-av-robotaxi/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T19:54:22+00:00"
+      },
+      {
+        "id": "db32f0590149",
+        "title": "New York's Times Square blanketed in snow as US hit by major storm – video",
+        "summary": "Millions of people in New York City and a large swath of the north-eastern US were stuck at home on Monday as heavy snow and strong winds intensified, creating whiteout conditions in the densely populated region. More than 5,000 flights in and out of the US were cancelled, according to the flight tr...",
+        "url": "https://www.theguardian.com/global/video/2026/feb/23/new-yorks-times-square-blanketed-in-snow-as-city-faces-major-winter-storm-video",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T19:49:57+00:00"
+      },
+      {
+        "id": "11d393c44509",
+        "title": "What are the Send changes in England likely to cost and what are the hurdles?",
+        "summary": "Parents and teachers will be wondering what resources ministers can secure for Labour’s revamp of system• Fewer children in England to get EHCPs by 2035 under Send overhaul• Parents of children with Send give changes in England a mixed response• The impact of Send changes in England: four likely sce...",
+        "url": "https://www.theguardian.com/education/2026/feb/23/send-overhaul-england-likely-cost-and-hurdles",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T19:21:12+00:00"
+      },
+      {
+        "id": "7f5ced932e48",
+        "title": "Google’s Cloud AI lead on the three frontiers of model capability",
+        "summary": "AI models are pushing against three frontiers at once: raw intelligence, response time, and a third quality you might call \"extensibility.\"",
+        "url": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T19:18:42+00:00"
+      },
+      {
+        "id": "a63868c9573d",
+        "title": "Americans are destroying Flock surveillance cameras",
+        "summary": "While some cities are moving to end their contracts with Flock over its links to ICE, others are taking matters into their own hands.",
+        "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T18:49:49+00:00"
+      },
+      {
+        "id": "dbf4e2b67ece",
+        "title": "Millions under road travel bans as blizzard conditions slam US north-east",
+        "summary": "Blizzard warnings issued as some areas receive two feet of snow, creating whiteout conditionsBlizzard shuts down the north-east US – in picturesMillions of people in New York City and a large swath of the north-eastern US were stuck at home under road travel bans and blizzard warnings on Monday as h...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T18:27:55+00:00"
+      },
+      {
+        "id": "4035f29663b4",
+        "title": "New datacentres risk doubling Great Britain’s electricity use, regulator says",
+        "summary": "Ofgem says about 140 proposed projects, driven by AI use, could require more power than current peak demandThe amount of power being sought by new datacentre projects in Great Britain would exceed the national current peak electricity consumption, according to an industry watchdog.Ofgem said about 1...",
+        "url": "https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T18:17:28+00:00"
+      },
+      {
+        "id": "39d94a655b03",
+        "title": "Palantir deals are a threat to our data rights as UK citizens | Letters",
+        "summary": "This US tech giant should not have been given NHS or Ministry of Defence contracts, writes Stephen Saunders. Plus a letter from Jan SavageFor 100 years, the UK government has led us through existential threats, including two world wars. But instead of resisting the latest threat to democratic accoun...",
+        "url": "https://www.theguardian.com/technology/2026/feb/23/palantir-deals-are-a-threat-to-our-data-rights-as-uk-citizens",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T18:15:24+00:00"
+      },
       {
         "id": "e6cfdfaf7713",
         "title": "OpenAI calls in the consultants for its enterprise push",
@@ -23,28 +111,28 @@
         "published": "2026-02-23T18:11:08+00:00"
       },
       {
-        "id": "dbf4e2b67ece",
-        "title": "Millions under road travel bans as blizzard conditions slam US north-east",
-        "summary": "Blizzard warnings issued as some areas receive two feet of snow, creating whiteout conditionsMillions of people in New York City and a large swath of the north-eastern US were stuck at home under road travel bans and blizzard warnings on Monday as heavy snow and strong winds intensified, creating wh...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/23/snow-blizzard-new-york-boston",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T17:57:00+00:00"
-      },
-      {
         "id": "c6f5f8475c6e",
         "title": "Guide Labs debuts a new kind of interpretable LLM",
-        "summary": "The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+        "summary": "The company open sourced an 8-billion-parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
         "url": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
         "source": "TechCrunch",
         "published": "2026-02-23T17:53:28+00:00"
       },
       {
         "id": "994c9466eade",
-        "title": "Labour’s Send revolution is a bold, high-stakes experiment – but is it Reform-proof? | John Harris",
-        "summary": "Bridget Phillipson’s 10-year plan is generous in places, but her party might not be in power long enough to see it throughWhether the change is down to the shifting of the Overton window or the demise of basic decency, one awful feature of the current national conversation is becoming clearer by the...",
+        "title": "Labour’s Send revolution is a high-stakes experiment. It also threatens precious parental rights | John Harris",
+        "summary": "Bridget Phillipson’s 10-year plan is generous in places, but it has its problems. Not least that it could be trashed by a Reform governmentWhether the change is down to the shifting of the Overton window or the demise of basic decency, one awful feature of the current national conversation is becomi...",
         "url": "https://www.theguardian.com/commentisfree/2026/feb/23/labours-send-revolution-reform-bridget-phillipson",
         "source": "Business | The Guardian",
         "published": "2026-02-23T17:47:49+00:00"
+      },
+      {
+        "id": "573a8ae81adf",
+        "title": "New Microsoft gaming chief has \"no tolerance for bad AI\"",
+        "summary": "But Asha Sharma faces scrutiny for lack of gaming experience.",
+        "url": "https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-23T17:45:29+00:00"
       },
       {
         "id": "6ee438beae4d",
@@ -53,6 +141,14 @@
         "url": "https://www.theguardian.com/business/2026/feb/23/ex-dj-jailed-london-fake-parts-airlines",
         "source": "Business | The Guardian",
         "published": "2026-02-23T17:28:34+00:00"
+      },
+      {
+        "id": "d8da07f32c1d",
+        "title": "The 2026 Mazda CX-5, driven: It got bigger; plus, radical tech upgrade",
+        "summary": "Starting at $29,990, there's a lot to like about the all-new Mazda, but it's not perfect.",
+        "url": "https://arstechnica.com/cars/2026/02/the-2026-mazda-cx-5-driven-it-got-bigger-plus-radical-tech-upgrade/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-23T17:00:02+00:00"
       },
       {
         "id": "32b05bcf13cf",
@@ -72,8 +168,8 @@
       },
       {
         "id": "7f5769f44556",
-        "title": "Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets",
-        "summary": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+        "title": "Spotify rolls out AI-powered  Prompted Playlists to the UK and other markets",
+        "summary": "Spotify continues to test its AI-powered “Prompted Playlist” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
         "url": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
         "source": "TechCrunch",
         "published": "2026-02-23T16:50:36+00:00"
@@ -117,105 +213,41 @@
         "url": "https://www.theguardian.com/environment/2026/feb/23/yorkshire-water-fined-repeated-sewage-releases-chesterfield",
         "source": "Business | The Guardian",
         "published": "2026-02-23T16:03:08+00:00"
-      },
-      {
-        "id": "4035f29663b4",
-        "title": "New British datacentres risk exceeding national peak electricity use, regulator says",
-        "summary": "Ofgem says about 140 proposed projects, driven by AI use, could require 50 gigawatts of electricityThe amount of power being sought by new datacentre projects in Great Britain would exceed the national current peak electricity consumption, according to an industry watchdog.Ofgem said about 140 propo...",
-        "url": "https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T15:58:18+00:00"
-      },
-      {
-        "id": "928493299d5b",
-        "title": "Unlicensed gambling firms could be barred from sponsoring Premier League clubs",
-        "summary": "Top clubs agree not to have gambling sponsors on front of shirts, but government is consulting on total banUnlicensed gambling firms could be barred from sponsoring Premier League football clubs, after a string of controversies involving pornographic videos, failures in anti-money laundering rules a...",
-        "url": "https://www.theguardian.com/society/2026/feb/23/unlicensed-gambling-firms-could-be-barred-from-sponsoring-premier-league-clubs",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T15:53:19+00:00"
-      },
-      {
-        "id": "04818ba846fb",
-        "title": "AIs can generate near-verbatim copies of novels from training data",
-        "summary": "LLMs memorize more training data than previously thought.",
-        "url": "https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-23T15:38:00+00:00"
-      },
-      {
-        "id": "e808e86a9554",
-        "title": "Trump threatens ‘obnoxious’ tariffs as UK and EU seek clarity on trade deals",
-        "summary": "US president suggests trade war could escalate as administration says it will stop collecting levies ruled illegal by supreme courtBusiness live – latest updatesDonald Trump has declared that he can use tariffs in a “much more powerful and obnoxious way”, as the UK and the EU said they were seeking ...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/23/us-stop-collecting-trump-tariffs-supreme-court-dollar-gold-ieepa-refunds",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T15:24:06+00:00"
-      },
-      {
-        "id": "76da7b940b1b",
-        "title": "5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates",
-        "summary": "Five days to save up to $680 on your TechCrunch Disrupt 2026 ticket. These lowest rates of the year disappear on February 27 at 11:59 p.m. PT.",
-        "url": "https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/",
-        "source": "TechCrunch",
-        "published": "2026-02-23T15:00:00+00:00"
-      },
-      {
-        "id": "74fd8b16c50f",
-        "title": "How AI agents could destroy the economy",
-        "summary": "Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.",
-        "url": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/",
-        "source": "TechCrunch",
-        "published": "2026-02-23T14:44:03+00:00"
-      },
-      {
-        "id": "f554ae2ca926",
-        "title": "Wegovy and Ozempic owner dealt blow as next-gen weight-loss drug is labelled ‘obsolete’",
-        "summary": "Novo Nordisk’s shares fall sharply after testing of CagriSema falls short of investors’ expectationsBusiness live – latest updatesThe owner of Wegovy and Ozempic has suffered a significant setback, as its highly anticipated new weight-loss treatment was labelled “obsolete” after disappointing clinic...",
-        "url": "https://www.theguardian.com/business/2026/feb/23/wegovy-ozempic-weight-loss-drug-novo-nordisk-cagrisema",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T14:26:30+00:00"
-      },
-      {
-        "id": "da8bf163ae59",
-        "title": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
-        "summary": "Defense Secretary Pete Hegseth has summoned Anthropic CEO Dario Amodei to the Pentagon for a tense discussion over the military's use of Claude. Hegseth has threatened to designate Anthropic a \"supply chain risk.\"",
-        "url": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
-        "source": "TechCrunch",
-        "published": "2026-02-23T14:19:10+00:00"
-      },
-      {
-        "id": "53aa93aeef5a",
-        "title": "Review: Knight of the Seven Kingdoms brings back that Westeros magic",
-        "summary": "Prequel series is just great storytelling, reminding GoT fans why they loved the original so much.",
-        "url": "https://arstechnica.com/culture/2026/02/review-knight-of-the-seven-kingdoms-brings-back-that-westeros-magic/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-23T13:51:36+00:00"
-      },
-      {
-        "id": "53f444ba66bb",
-        "title": "‘Progressive membership’: Ukraine’s economic resilience shows future for EU business tie-ups",
-        "summary": "Joint ventures on defence, green energy and telecoms suggest how country could join bloc in stages rather than wait for full statusWhen the first Ukrainian-designed drone to be made in a German factory rolled off the production line last month, Volodymyr Zelenskyy knew it marked a turning point for ...",
-        "url": "https://www.theguardian.com/world/2026/feb/23/ukraine-economic-resilience-eu-business-tie-ups",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T13:47:21+00:00"
-      },
-      {
-        "id": "d491905085d7",
-        "title": "‘Tinderbox’ UK may be one shock away from food riots, experts say",
-        "summary": "Weakened food security could tip into unrest after a cyber-attack, extreme weather or conflict, analysis findsOne shock could spark social unrest and even food riots in the UK, according to dozens of the country’s top food experts, because chronic issues have left the food system a “tinderbox”.The g...",
-        "url": "https://www.theguardian.com/food/2026/feb/23/uk-food-security-cyber-attack-riots-tinderbox-analysis",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T13:29:15+00:00"
-      },
-      {
-        "id": "2e43eb8cd5f9",
-        "title": "The first cars bold enough to drive themselves",
-        "summary": "Quevedo's telekino of 1904 was the first step on the road to autonomous Waymos.",
-        "url": "https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-23T12:00:45+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "960a2076ef62",
+        "title": "Ardour 9.2, free and open DAW, grants user wishes — Region FX, anyone?",
+        "summary": "If you haven't tried Ardour in a while -- or if you're new to the idea that a DAW could be free and open source -- you might be surprised. Major updates and a lot of listening to users means you don't have to sacrifice features like clip recording and editing (including looping), piano roll windows,...",
+        "url": "https://cdm.link/ardour-9-2-free-and-open-daw/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-23T20:31:38+00:00"
+      },
+      {
+        "id": "2b896ad41d30",
+        "title": "Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
+        "summary": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
+        "source": "Business Latest",
+        "published": "2026-02-23T19:28:13+00:00"
+      },
+      {
+        "id": "b70ab0e5f683",
+        "title": "Ladybird adopts Rust, with help from AI",
+        "summary": "Ladybird adopts Rust, with help from AI\nReally interesting case-study from Andreas Kling on advanced, sophisticated use of coding agents for ambitious coding projects with critical code. After a few years hoping Swift's platform support outside of the Apple ecosystem would mature they switched track...",
+        "url": "https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-23T18:52:53+00:00"
+      },
+      {
+        "id": "4035f29663b4",
+        "title": "New datacentres risk doubling Great Britain’s electricity use, regulator says",
+        "summary": "Ofgem says about 140 proposed projects, driven by AI use, could require more power than current peak demandThe amount of power being sought by new datacentre projects in Great Britain would exceed the national current peak electricity consumption, according to an industry watchdog.Ofgem said about 1...",
+        "url": "https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-23T18:17:28+00:00"
+      },
       {
         "id": "2b262b7595e0",
         "title": "Writing about Agentic Engineering Patterns",
@@ -265,14 +297,6 @@
         "published": "2026-02-23T16:00:00+00:00"
       },
       {
-        "id": "4035f29663b4",
-        "title": "New British datacentres risk exceeding national peak electricity use, regulator says",
-        "summary": "Ofgem says about 140 proposed projects, driven by AI use, could require 50 gigawatts of electricityThe amount of power being sought by new datacentre projects in Great Britain would exceed the national current peak electricity consumption, according to an industry watchdog.Ofgem said about 140 propo...",
-        "url": "https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-23T15:58:18+00:00"
-      },
-      {
         "id": "388ecf4f997e",
         "title": "Reply guy",
         "summary": "The latest scourge of Twitter is AI bots that reply to your tweets with generic, banal commentary slop, often accompanied by a question to \"drive engagement\" and waste as much of your time as possible.\nI just found out that the category name for this genre of software is reply guy tools. Amazing.\n\n ...",
@@ -319,6 +343,14 @@
         "url": "https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/",
         "source": "Science Latest",
         "published": "2026-02-23T00:42:06+00:00"
+      },
+      {
+        "id": "f7bbc255b764",
+        "title": "How AI helps break the cost barrier to COBOL modernization",
+        "summary": "How AI helps break the cost barrier to COBOL modernization",
+        "url": "https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization",
+        "source": "Claude Blog",
+        "published": "2026-02-23T00:00:00+00:00"
       },
       {
         "id": "aa4766009a85",
@@ -383,38 +415,6 @@
         "url": "https://www.mittrchina.com/news/detail/15958",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-02-22T13:57:56+00:00"
-      },
-      {
-        "id": "c1fff4b3c780",
-        "title": "ADHD患者或有隐藏优势？注意力越涣散，灵感越丰富",
-        "summary": "最近，一项发表在《人格与个体差异》（Personality and Individual Differences）上的心理学研究在社交媒体上引起了不少关注。美国德雷塞尔大学大学博士生 Hannah Maisano 与 Feinstein 生物医学研究所的 Christine Chesebrough 作为共同第一作者，联合 John Kounios 教授等人报告了一个有些反常识的发现：在一项标准化的创造性问题解决测试中，ADHD（Attention-Deficit/Hyperactivity Disorder，注意缺陷多动障碍）症状最严重的那群人，解题表现比大多数中间水平的人要好。而且他们依赖的...",
-        "url": "https://www.mittrchina.com/news/detail/15957",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-22T13:42:45+00:00"
-      },
-      {
-        "id": "82e82ff575e9",
-        "title": "SpaceX火箭催生首次太空垃圾空气污染，100公里高处锂浓度暴涨10倍",
-        "summary": "人类首次直接测量到太空垃圾重返大气层造成的污染，这一污染正是由大家熟悉的 SpaceX 公司导致。整个地球大气层每天接收的天然锂只有大约 80 克，而一枚 SpaceX 公司的猎鹰 9 号火箭光锂就有 30 公斤。这 30 公斤锂在 100 公里高处被释放处理，一部分立马和氧气反应变成氧化锂，沉入更低的大气层。但还有一小部分以原子形态漂浮在中间层随风飘荡。2026 年 2 月 19 日，关于这一研究的论文正式发布在地球环境期刊 Communications Earth &amp; Environment，论文作者是德国莱布尼茨大气物理研究所的研究人员。研究中，他们使用激光在 96 公里高空抓到...",
-        "url": "https://www.mittrchina.com/news/detail/15956",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-22T13:38:42+00:00"
-      },
-      {
-        "id": "5d7a90ae1045",
-        "title": "AlphaFold之后，谷歌悄悄造了一个更厉害的AI模型，但这次不公开了",
-        "summary": "最近，谷歌悄悄推出了被 Nature 评论文章称为“AlphaFold 4”的新 AI，然而这一次却选择了不公开代码。AlphaFold 能够预测蛋白质结构，帮助人类解决了几十年的生物难题，也拿了诺贝尔奖，全世界有几百万人使用它做研究。大家都知道 AlphaFold 由被谷歌收购的 DeepMind 研发而来，事实上谷歌在英国伦敦还养着一家名为 Isomorphic Labs 的公司，专门研究如何用 AI 设计新药。此次打造的“AlphaFold 4”是一个名为 IsoDDE 的新 AI，不同的是 AlphaFold 的代码是公开的谁都能下载，而 IsoDDE 是保密的只能谷歌自己享用。（来源...",
-        "url": "https://www.mittrchina.com/news/detail/15955",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-22T13:33:08+00:00"
-      },
-      {
-        "id": "e73bd1b011d2",
-        "title": "How to View the ‘Blood Moon’ Total Lunar Eclipse on March 3",
-        "summary": "Next month, the Earth will come between the sun and the moon, causing the moon to take on an eerie reddish hue.",
-        "url": "https://www.wired.com/story/how-to-view-the-blood-moon-total-lunar-eclipse-on-march-3/",
-        "source": "Science Latest",
-        "published": "2026-02-22T10:00:00+00:00"
       }
     ],
     "序(month)": [
