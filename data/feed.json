@@ -1,19 +1,43 @@
 {
-  "updated_at": "2026-02-23T08:06:51.616803+00:00",
+  "updated_at": "2026-02-23T11:28:08.332981+00:00",
   "trending": [
-    "shakira",
-    "earthquake today",
-    "usgs earthquake",
-    "governor ned lamont",
-    "earthquake california",
-    "earthquake now",
-    "allyson friedman",
-    "millionaire for life",
-    "roman reigns",
-    "brock lesnar"
+    "nvo stock",
+    "zim vs wi",
+    "power outage near me",
+    "local news",
+    "who won the fight last night",
+    "red flag (fire weather) warning",
+    "moez echargui",
+    "delmarva power outage",
+    "school closures",
+    "delays and closings"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "bf523ed8abda",
+        "title": "Confusion in UK and EU as Trump’s 15% global tariff creates ‘an unholy mess’ – business live",
+        "summary": "Rolling coverage of the latest economic and financial newsThe London stock market has dipped slightly in early trading.The FTSE 100 index is down 19 points, or 0.18%, at 10,668 points. Continue reading...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/23/us-dollar-stock-markets-losses-trump-global-tariff-supreme-court-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T11:19:08+00:00"
+      },
+      {
+        "id": "c75e65a89614",
+        "title": "Netflix boss says $83bn Warner Bros takeover will benefit industry",
+        "summary": "Comments by Ted Sarandos follow Donald Trump’s demand for company to remove Democrat from boardTrump warns Netflix of ‘consequences’ unless it pulls top Democrat from boardBusiness live – latest updatesThe boss of Netflix has launched a fresh defence of its $82.7bn (£61bn) takeover of Warner Bros Di...",
+        "url": "https://www.theguardian.com/media/2026/feb/23/netflix-warner-bros-takeover-ted-sarandos-donald-trump-susan-rice",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T11:08:16+00:00"
+      },
+      {
+        "id": "53f444ba66bb",
+        "title": "‘Progressive membership’: Ukraine’s economic resilience shows future for EU business tie-ups",
+        "summary": "Joint ventures on defence, green energy and telecoms suggest how country could join bloc in stages rather than wait for full statusWhen the first Ukrainian-designed drone to be made in a German factory rolled off the production line last month, Volodymyr Zelenskyy knew it marked a turning point for ...",
+        "url": "https://www.theguardian.com/world/2026/feb/23/ukraine-economic-resilience-eu-business-tie-ups",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T10:36:43+00:00"
+      },
       {
         "id": "6992b21cad52",
         "title": "Wispr Flow launches an Android app for AI-powered dictation",
@@ -21,14 +45,6 @@
         "url": "https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/",
         "source": "TechCrunch",
         "published": "2026-02-23T08:01:00+00:00"
-      },
-      {
-        "id": "bf523ed8abda",
-        "title": "US dollar drops and stock markets face losses after Trump announces 15% global tariff – business live",
-        "summary": "Rolling coverage of the latest economic and financial newsGold has jumped to a three-week high, as the uncertainty over US trade policy drives investors into safe-haven assets.Gold is up by 0.6% to $5,135 an ounce, its highest level since the end of January.Even after President Trump’s swift respons...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/23/us-dollar-stock-markets-losses-trump-global-tariff-supreme-court-news-updates",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T07:59:17+00:00"
       },
       {
         "id": "2f9365cb0897",
@@ -61,6 +77,38 @@
         "url": "https://www.theguardian.com/business/2026/feb/23/uk-job-vacancies-fall-to-lowest-level-since-pandemic",
         "source": "Business | The Guardian",
         "published": "2026-02-23T00:01:51+00:00"
+      },
+      {
+        "id": "3a549970a78b",
+        "title": "From Victorian voyages to vanishing maps: Books in brief",
+        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00567-zAndrew Robinson reviews five of the best science picks.",
+        "url": "https://www.nature.com/articles/d41586-026-00567-z",
+        "source": "Nature",
+        "published": "2026-02-23T00:00:00+00:00"
+      },
+      {
+        "id": "9d34fee13a29",
+        "title": "AI tools can design genomes. Will they upend how life evolves?",
+        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00566-0Breakthroughs in computing are supercharging a field of science dedicated to building synthetic organisms from scratch.",
+        "url": "https://www.nature.com/articles/d41586-026-00566-0",
+        "source": "Nature",
+        "published": "2026-02-23T00:00:00+00:00"
+      },
+      {
+        "id": "96b8f5fea96e",
+        "title": "Historically Black US universities chase top research ranking",
+        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00366-6Howard University is reaping the rewards of becoming the first such institution to reach ‘R1’ status.",
+        "url": "https://www.nature.com/articles/d41586-026-00366-6",
+        "source": "Nature",
+        "published": "2026-02-23T00:00:00+00:00"
+      },
+      {
+        "id": "440b7d5ed2f4",
+        "title": "This AI can improve your peer review — and make it more polite",
+        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00536-6A system of five models helps peer reviewers to write more constructive comments, but it is not yet known whether this strengthens the papers that are being reviewed.",
+        "url": "https://www.nature.com/articles/d41586-026-00536-6",
+        "source": "Nature",
+        "published": "2026-02-23T00:00:00+00:00"
       },
       {
         "id": "262129101ee3",
@@ -165,57 +213,17 @@
         "url": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
         "source": "TechCrunch",
         "published": "2026-02-22T15:00:00+00:00"
-      },
-      {
-        "id": "3abee8fba945",
-        "title": "The world order we’re leaving behind may be replaced by no order at all | Eduardo Porter",
-        "summary": "In the world being ushered in by Trump, power will prevail over cooperation. We will come to rue having taken this pathThe Canadian prime minister, Mark Carney, inspired a wave of enthusiastic nodding among the cosmopolitan crowd gathered in Davos last month when he took to the podium and proclaimed...",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/feb/22/world-order-trump",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T14:00:40+00:00"
-      },
-      {
-        "id": "99a9f13cdb7d",
-        "title": "Trump warns Netflix of ‘consequences’ unless it pulls top Democrat from board",
-        "summary": "US president calls for removal of Susan Rice as streaming platform pursues takeover of Warner Bros DiscoveryDonald Trump has told Netflix to remove the Democratic foreign policy expert Susan Rice from its board or “face the consequences”, while the streaming platform is locked in an extraordinary co...",
-        "url": "https://www.theguardian.com/media/2026/feb/22/trump-warns-netflix-of-consequences-unless-it-pulls-top-democrat-susan-rice-from-board",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T13:30:07+00:00"
-      },
-      {
-        "id": "d2d57f3350bd",
-        "title": "‘We want to rebuild trust’: fired CDC workers form group to combat Trump’s war on science",
-        "summary": "Former employees stepped up to create the National Public Health Coalition to advocate for public health after Trump’s cuts to the agencyAbby Tighe thought she had landed her forever job. She joined the Centers for Disease Control and Prevention (CDC) in December 2023, managing a national youth subs...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/22/fired-cdc-workers-trump-war-on-science",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T13:00:38+00:00"
-      },
-      {
-        "id": "9136181ec048",
-        "title": "Met police using AI tools supplied by Palantir to flag officer misconduct",
-        "summary": "Exclusive: Police Federation condemns deployment of US firm’s tech to analyse behaviour as ‘automated suspicion’Scotland Yard is using AI tools supplied by the US tech company Palantir to monitor staff behaviour in an attempt to root out failing officers, the Guardian has learned.The Metropolitan po...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/22/met-police-ai-tools-officer-misconduct-palantir",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T12:34:51+00:00"
-      },
-      {
-        "id": "7564fbc1db6b",
-        "title": "Blackwater founder Erik Prince has joined the drone-warfare fray in Ukraine, SEC filings reveal",
-        "summary": "Battle-tested Ukrainian startup that advertises a ‘Killbox’ drone recruited Prince as non-executive chairAfter multiple sources previously told the Guardian that Erik Prince – Maga ally and founder of the now defunct mercenary company Blackwater – was looking to work with Ukraine’s invaluable drone ...",
-        "url": "https://www.theguardian.com/world/2026/feb/22/erik-prince-drone-company-ukraine",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T12:00:37+00:00"
-      },
-      {
-        "id": "bcfd4c8addf5",
-        "title": "Trump’s trade war risks undermining his hopes of hefty US interest rate cuts | Graeme Wearden",
-        "summary": "Upping tariffs may have lifted the president’s mood but it is a headache for the Federal Reserve and its next chairDonald Trump and Denis Healey don’t have much in common. One of the greatest prime ministers Britain never had shares little of his famous hinterland with what some historians see as on...",
-        "url": "https://www.theguardian.com/business/2026/feb/22/trump-trade-war-risks-undermining-his-hopes-of-hefty-us-interest-rate-cuts-tariffs",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T11:58:07+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "5a19817784ce",
+        "title": "Say Goodbye to the Undersea Cable That Made the Global Internet Possible",
+        "summary": "History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks.",
+        "url": "https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/",
+        "source": "Business Latest",
+        "published": "2026-02-23T11:00:00+00:00"
+      },
       {
         "id": "123d07a181e2",
         "title": "Red/green TDD",
@@ -369,6 +377,14 @@
         "published": "2026-02-21T14:01:17+00:00"
       },
       {
+        "id": "67afb2548464",
+        "title": "US farmers are rejecting multimillion-dollar datacenter bids for their land: ‘I’m not for sale’",
+        "summary": "Families are navigating the tough choice between unimaginable riches and the identity that comes with landWhen two men knocked on Ida Huddleston’s door last May, they carried a contract worth more than $33m in exchange for the Kentucky farm that had fed her family for centuries.According to Huddlest...",
+        "url": "https://www.theguardian.com/technology/2026/feb/21/us-farmers-datacenters",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-21T14:00:09+00:00"
+      },
+      {
         "id": "fad0466de69b",
         "title": "尿越浓，电越多？科学家找到尿液发电的最佳配方",
         "summary": "我们每天从下水道冲走的尿液，其实是个宝贝。近日，加拿大麦吉尔大学的研究人员使用一种名为微生物燃料电池的装置，把尿液变成了电能，并且发现尿越浓，发的电越多。它的原理是这样的：在这套装置里有一群吃有机物的细菌，当把尿液倒进去，细菌就开始“狂炫”。它们在分解尿液里的有机物的时候，会把电子释放出来。这些电子沿着导线跑到另一个区间，就会和空气中的氧气结合，从而形成电流。整个过程既处理了污水，又发了电。研究人员造了四个双室微生物燃料电池，每个有500毫升的容量。他们往里面加了不同浓度的尿液，有的只占20%，有的占50%，有的高达75%。然后，他们连续监测了14天，看看哪个浓度的发电效果最好。结果很明显：尿...",
@@ -399,22 +415,6 @@
         "url": "https://www.theguardian.com/world/2026/feb/21/splinternet-online-shutdowns-are-getting-cheaper-and-easier-to-impose-iran-blackout",
         "source": "Technology | The Guardian",
         "published": "2026-02-21T05:00:02+00:00"
-      },
-      {
-        "id": "77e0890c1abb",
-        "title": "‘Slow this thing down’: Sanders warns US has no clue about speed and scale of coming AI revolution",
-        "summary": "After meeting with unspecified tech leaders, senator calls for urgent policy action as companies race to build ever more powerful systemsBernie Sanders has warned that Congress and the American public have “not a clue” about the scale and speed of the coming AI revolution, pressing for urgent policy...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/21/ai-revolution-bernie-sanders-warning",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-21T04:26:34+00:00"
-      },
-      {
-        "id": "a89f57bcc538",
-        "title": "OpenAI considered alerting Canadian police about school shooting suspect months ago",
-        "summary": "Company behind ChatGPT last year flagged Jesse Van Rootselaar’s account for ‘furtherance of violent activities’ChatGPT-maker OpenAI has said it considered alerting Canadian police last year about the activities of a person who months later committed one of the worst school shootings in the country’s...",
-        "url": "https://www.theguardian.com/world/2026/feb/21/tumbler-ridge-shooter-chatgpt-openai",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-21T03:18:09+00:00"
       }
     ],
     "序(month)": [
