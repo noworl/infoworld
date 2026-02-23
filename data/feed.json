@@ -1,26 +1,66 @@
 {
-  "updated_at": "2026-02-23T11:28:08.332981+00:00",
+  "updated_at": "2026-02-23T14:38:16.946941+00:00",
   "trending": [
-    "nvo stock",
-    "zim vs wi",
-    "power outage near me",
-    "local news",
-    "who won the fight last night",
-    "red flag (fire weather) warning",
-    "moez echargui",
-    "delmarva power outage",
-    "school closures",
-    "delays and closings"
+    "nbc olympics figure skating",
+    "west indies vs zimbabwe",
+    "tim tebow",
+    "chicago weather",
+    "stan wawrinka",
+    "norah o'donnell",
+    "conduent",
+    "school district of philadelphia",
+    "nfl combine 2026",
+    "nick reiner"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "da8bf163ae59",
+        "title": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
+        "summary": "Defense Secretary Pete Hegseth has summoned Anthropic CEO Dario Amodei to the Pentagon for a tense discussion over the military's use of Claude. Hegseth has threatened to designate Anthropic a \"supply chain risk.\"",
+        "url": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
+        "source": "TechCrunch",
+        "published": "2026-02-23T14:19:10+00:00"
+      },
+      {
         "id": "bf523ed8abda",
-        "title": "Confusion in UK and EU as Trump’s 15% global tariff creates ‘an unholy mess’ – business live",
+        "title": "Trump threatens ‘more powerful and obnoxious’ tariffs, amid confusion in UK and EU – business live",
         "summary": "Rolling coverage of the latest economic and financial newsThe London stock market has dipped slightly in early trading.The FTSE 100 index is down 19 points, or 0.18%, at 10,668 points. Continue reading...",
         "url": "https://www.theguardian.com/business/live/2026/feb/23/us-dollar-stock-markets-losses-trump-global-tariff-supreme-court-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-23T11:19:08+00:00"
+        "published": "2026-02-23T14:08:18+00:00"
+      },
+      {
+        "id": "53aa93aeef5a",
+        "title": "Review: Knight of the Seven Kingdoms brings back that Westeros magic",
+        "summary": "Prequel series is just great storytelling, reminding GoT fans why they loved the original so much.",
+        "url": "https://arstechnica.com/culture/2026/02/review-knight-of-the-seven-kingdoms-brings-back-that-westeros-magic/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-23T13:51:36+00:00"
+      },
+      {
+        "id": "53f444ba66bb",
+        "title": "‘Progressive membership’: Ukraine’s economic resilience shows future for EU business tie-ups",
+        "summary": "Joint ventures on defence, green energy and telecoms suggest how country could join bloc in stages rather than wait for full statusWhen the first Ukrainian-designed drone to be made in a German factory rolled off the production line last month, Volodymyr Zelenskyy knew it marked a turning point for ...",
+        "url": "https://www.theguardian.com/world/2026/feb/23/ukraine-economic-resilience-eu-business-tie-ups",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T13:47:21+00:00"
+      },
+      {
+        "id": "d491905085d7",
+        "title": "‘Tinderbox’ UK may be one shock away from food riots, experts say",
+        "summary": "Weakened food security could tip into unrest after a cyber-attack, extreme weather or conflict, analysis findsOne shock could spark social unrest and even food riots in the UK, according to dozens of the country’s top food experts, because chronic issues have left the food system a “tinderbox”.The g...",
+        "url": "https://www.theguardian.com/food/2026/feb/23/uk-food-security-cyber-attack-riots-tinderbox-analysis",
+        "source": "Business | The Guardian",
+        "published": "2026-02-23T13:29:15+00:00"
+      },
+      {
+        "id": "2e43eb8cd5f9",
+        "title": "The first cars bold enough to drive themselves",
+        "summary": "Quevedo's telekino of 1904 was the first step on the road to autonomous Waymos.",
+        "url": "https://arstechnica.com/features/2026/02/the-first-cars-bold-enough-to-drive-themselves/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-23T12:00:45+00:00"
       },
       {
         "id": "c75e65a89614",
@@ -29,14 +69,6 @@
         "url": "https://www.theguardian.com/media/2026/feb/23/netflix-warner-bros-takeover-ted-sarandos-donald-trump-susan-rice",
         "source": "Business | The Guardian",
         "published": "2026-02-23T11:08:16+00:00"
-      },
-      {
-        "id": "53f444ba66bb",
-        "title": "‘Progressive membership’: Ukraine’s economic resilience shows future for EU business tie-ups",
-        "summary": "Joint ventures on defence, green energy and telecoms suggest how country could join bloc in stages rather than wait for full statusWhen the first Ukrainian-designed drone to be made in a German factory rolled off the production line last month, Volodymyr Zelenskyy knew it marked a turning point for ...",
-        "url": "https://www.theguardian.com/world/2026/feb/23/ukraine-economic-resilience-eu-business-tie-ups",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T10:36:43+00:00"
       },
       {
         "id": "6992b21cad52",
@@ -87,6 +119,14 @@
         "published": "2026-02-23T00:00:00+00:00"
       },
       {
+        "id": "2876ead2d3c2",
+        "title": "Why every scientist needs a librarian",
+        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00568-yLibrarians can be key research partners who help to scour the literature, manage data and make science open.",
+        "url": "https://www.nature.com/articles/d41586-026-00568-y",
+        "source": "Nature",
+        "published": "2026-02-23T00:00:00+00:00"
+      },
+      {
         "id": "9d34fee13a29",
         "title": "AI tools can design genomes. Will they upend how life evolves?",
         "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00566-0Breakthroughs in computing are supercharging a field of science dedicated to building synthetic organisms from scratch.",
@@ -107,6 +147,22 @@
         "title": "This AI can improve your peer review — and make it more polite",
         "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00536-6A system of five models helps peer reviewers to write more constructive comments, but it is not yet known whether this strengthens the papers that are being reviewed.",
         "url": "https://www.nature.com/articles/d41586-026-00536-6",
+        "source": "Nature",
+        "published": "2026-02-23T00:00:00+00:00"
+      },
+      {
+        "id": "04a4fa04bb06",
+        "title": "How big is the ‘motherhood penalty’? In Denmark, it adds up to $120,000",
+        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00463-6An analysis documents the cumulative income hit mothers incur — as well as the extent to which state aid can offset the loss.",
+        "url": "https://www.nature.com/articles/d41586-026-00463-6",
+        "source": "Nature",
+        "published": "2026-02-23T00:00:00+00:00"
+      },
+      {
+        "id": "b523fffbe5cd",
+        "title": "Music is not a universal language — but it can bring us together when words fail",
+        "summary": "Nature, Published online: 23 February 2026; doi:10.1038/d41586-026-00565-1Societies, animals and even machines have music in common. Our varied experiences of it might tell us about the origins of language.",
+        "url": "https://www.nature.com/articles/d41586-026-00565-1",
         "source": "Nature",
         "published": "2026-02-23T00:00:00+00:00"
       },
@@ -157,65 +213,33 @@
         "url": "https://www.theguardian.com/politics/2026/feb/22/tories-scrap-high-interest-student-loans-says-kemi-badenoch",
         "source": "Business | The Guardian",
         "published": "2026-02-22T17:46:41+00:00"
-      },
-      {
-        "id": "2ea6cc90161f",
-        "title": "Trump says Netflix will face ‘consequences’ if it doesn’t fire board member Susan Rice",
-        "summary": "Netflix board member Susan Rice had predicted that corporations that “take a knee” to Trump will be “held accountable” when Democrats return to power.",
-        "url": "https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/",
-        "source": "TechCrunch",
-        "published": "2026-02-22T17:39:55+00:00"
-      },
-      {
-        "id": "2b4fd52dff69",
-        "title": "The Guardian view on the funding crisis at the National Gallery: the public should not pay the price | Editorial",
-        "summary": "Financial difficulties at one of the UK’s most prestigious institutions are a sign of the times. But maintaining free access to great art must be a priority“The National Gallery is doing a great job isn’t it?” David Hockney reflected in 2024. “Everything in the collection is good, every single pictu...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/22/the-guardian-view-on-the-funding-crisis-at-the-national-gallery-the-public-should-not-pay-the-price",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T17:25:43+00:00"
-      },
-      {
-        "id": "eb3e3713628f",
-        "title": "TechCrunch Mobility: Waymo makes its defense",
-        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-        "url": "https://techcrunch.com/2026/02/22/techcrunch-mobility-waymo-makes-its-defense/",
-        "source": "TechCrunch",
-        "published": "2026-02-22T17:05:00+00:00"
-      },
-      {
-        "id": "cbabfce3f352",
-        "title": "All the important news from the ongoing India AI Impact Summit",
-        "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
-        "url": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
-        "source": "TechCrunch",
-        "published": "2026-02-22T17:00:00+00:00"
-      },
-      {
-        "id": "736ccde5886a",
-        "title": "China’s brain-computer interface industry is racing ahead",
-        "summary": "China’s brain-computer interface industry is rapidly scaling from research to commercialization, driven by strong policy support, expanding clinical trials, and growing investor interest.",
-        "url": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
-        "source": "TechCrunch",
-        "published": "2026-02-22T16:00:00+00:00"
-      },
-      {
-        "id": "14bdd4643c02",
-        "title": "Lamborghini pulls plug on plans to launch all-electric supercar",
-        "summary": "Company will shift focus to hybrids, citing drop-off in EV demand among sports car lovers who ‘miss the noise’The Italian supercar manufacturer Lamborghini has abandoned plans to make all-electric vehicles, and will instead focus on making plug-in hybrid cars, after a drop-off in demand for EVs amon...",
-        "url": "https://www.theguardian.com/business/2026/feb/22/lamborghini-pulls-plug-on-all-electric-supercar",
-        "source": "Business | The Guardian",
-        "published": "2026-02-22T15:03:06+00:00"
-      },
-      {
-        "id": "7cdfd2ee6b3e",
-        "title": "6 days left to lock in the lowest TechCrunch Disrupt 2026 rates",
-        "summary": "Super Early Bird pricing for TechCrunch Disrupt 2026 ends February 27 at 11:59 p.m. PT. That means you have just 6 days left to secure up to $680 of ticket savings.",
-        "url": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
-        "source": "TechCrunch",
-        "published": "2026-02-22T15:00:00+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "388ecf4f997e",
+        "title": "Reply guy",
+        "summary": "The latest scourge of Twitter is AI bots that reply to your tweets with generic, banal commentary slop, often accompanied by a question to \"drive engagement\" and waste as much of your time as possible.\nI just found out that the category name for this genre of software is reply guy tools. Amazing.\n\n ...",
+        "url": "https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-23T13:11:57+00:00"
+      },
+      {
+        "id": "b1fe70baf784",
+        "title": "Quoting Summer Yue",
+        "summary": "Nothing humbles you like telling your OpenClaw “confirm before acting” and watching it speedrun deleting your inbox. I couldn’t stop it from my phone. I had to RUN to my Mac mini like I was defusing a bomb.\nI said “Check this inbox too and suggest what you would archive or delete, don’t action until...",
+        "url": "https://simonwillison.net/2026/Feb/23/summer-yue/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-23T13:01:13+00:00"
+      },
+      {
+        "id": "eb1cce061c92",
+        "title": "If AI makes human labor obsolete, who decides who gets to eat?",
+        "summary": "Amid talk of artificial intelligence taking our jobs, the big unasked question is: how will we be fed?How will we be fed? That’s the biggest question not seriously being addressed amid all this talk about whether or not artificial intelligence will end up taking over all of our jobs.Formidable thoug...",
+        "url": "https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-23T11:00:38+00:00"
+      },
       {
         "id": "5a19817784ce",
         "title": "Say Goodbye to the Undersea Cable That Made the Global Internet Possible",
@@ -259,7 +283,7 @@
       {
         "id": "ca5764cde003",
         "title": "Basil stereo delay completes Bastl’s PIZZA trio on VCV Rack — all for free",
-        "summary": "The free and open source VCV Rack ports of Bastl's delicious PIZZA family now include the original Pizza oscillator, Crust drum/percussive voice, and Basil stereo delay. Endless patching pleasures await with these (and don't forget the free KOMPAS \"probability navigator,\" too).\nThe post Basil stereo...",
+        "summary": "The freeware VCV Rack ports of Bastl's delicious PIZZA family now include the original Pizza oscillator, Crust drum/percussive voice, and Basil stereo delay. Endless patching pleasures await with these (and don't forget the free and open source KOMPAS \"probability navigator,\" too).\nThe post Basil st...",
         "url": "https://cdm.link/basil-stereo-delay-completes-bastls-pizza-trio-on-vcv-rack-all-for-free/",
         "source": "CDM Create Digital Music",
         "published": "2026-02-22T19:13:21+00:00"
@@ -391,33 +415,25 @@
         "url": "https://www.mittrchina.com/news/detail/15953",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-02-21T10:30:14+00:00"
-      },
-      {
-        "id": "d87a9d8e07d3",
-        "title": "初创用3000万美元造一颗不可编程的AI芯片，推理速度却是Nvidia最强GPU的50倍",
-        "summary": "2026 年 2 月 21 日，一家名为 Taalas 的芯片初创公司正式揭开面纱，发布了它的第一款产品：一颗将 Meta 的 Llama 3.1 8B 大语言模型几乎完整“刻进”硅片的推理芯片 HC1。按照该公司公布的数据，这颗芯片在单用户场景下可以跑到 17,000 tokens/s 的输出速度，大约是目前市面上最快竞品 Cerebras 的近 9 倍，是 Nvidia Blackwell 架构 GPU 的近 50 倍。构建成本据称只有同等 GPU 方案的二十分之一，功耗低一个数量级。图丨TaalasHC1（来源：Taalas）不过这颗芯片的局限也非常明显，那就是它只能跑 Llama 3....",
-        "url": "https://www.mittrchina.com/news/detail/15952",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-21T10:26:15+00:00"
-      },
-      {
-        "id": "7f67c86ab7e7",
-        "title": "Relooted: the South African video game where players take back artefacts from western museums",
-        "summary": "Creators say they’re offering Africans a ‘hopeful, utopian feeling’ of retrieving objects looted by colonial armiesA new South African video game lets players take back African artefacts held in western museums in a series of heists, amid a growing campaign to repatriate treasures looted by colonial...",
-        "url": "https://www.theguardian.com/games/2026/feb/21/south-african-video-game-artefacts-western-museums",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-21T06:00:02+00:00"
-      },
-      {
-        "id": "af1ae77a3190",
-        "title": "The splinternet: how online shutdowns are getting cheaper and easier to impose",
-        "summary": "Iran has shown how plausible blackouts now are, with far-reaching consequences for the internet as we know itDuring the height of Iran’s blackout in January, people could still access a platform that, in some senses, was like the internet.Iranians could message family members on a government-monitor...",
-        "url": "https://www.theguardian.com/world/2026/feb/21/splinternet-online-shutdowns-are-getting-cheaper-and-easier-to-impose-iran-blackout",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-21T05:00:02+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "4c6f905abd72",
+        "title": "使用等積投影（equal-area projection）的設定方式",
+        "summary": "之前談到「Google 地圖背後的 Web Mercator 投影迷思」時，曾詳細討論使用「麥卡托投影（Mer [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260223/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-23T13:42:47+00:00"
+      },
+      {
+        "id": "230a3e84cdf6",
+        "title": "為什麼格陵蘭看起來那麼大？談 Google 地圖背後的 Web Mercator 投影迷思",
+        "summary": "早期使用的 Google 地圖 2D 模式時，其底圖不論是電子地圖或衛星影像都採用 Web Mercator（ [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260205/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-23T13:10:53+00:00"
+      },
       {
         "id": "22b54887c666",
         "title": "蔡宗翰研究員歸建中央大學",
@@ -601,22 +617,6 @@
         "url": "https://blog.archive.org/2026/02/04/inside-the-new-wayback-machine-plugin-for-wordpress/",
         "source": "Internet Archive Blogs",
         "published": "2026-02-04T12:00:00+00:00"
-      },
-      {
-        "id": "c80c07854607",
-        "title": "奧匈歷史特種地圖製作之簡介",
-        "summary": "撰文/許哲明 (軍備局生製中心第401廠測繪榮譽顧問、中華民國地圖學會常務監事) 一、前言 奧匈帝國(Aust [&#8230;]",
-        "url": "https://gis.rchss.sinica.edu.tw/mapclub_20260204/",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心",
-        "published": "2026-02-04T09:38:44+00:00"
-      },
-      {
-        "id": "a97844aed9b7",
-        "title": "Recording Now Available from “Protect Our Future Memory” Webinar",
-        "summary": "Last week, Internet Archive welcomed more than 150 attendees to the webinar, “Protect Our Future Memory: Join the Call for Library Digital Rights.” Held on January 27, the event brought [&#8230;]",
-        "url": "https://blog.archive.org/2026/02/04/recording-now-available-from-protect-our-future-memory-webinar/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-02-04T05:09:18+00:00"
       }
     ]
   }
