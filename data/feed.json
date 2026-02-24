@@ -1,19 +1,147 @@
 {
-  "updated_at": "2026-02-24T11:29:18.307159+00:00",
+  "updated_at": "2026-02-24T15:11:42.841067+00:00",
   "trending": [
-    "wordle hint",
-    "winter olympics ice hockey gold medal",
-    "jenson brooksby",
-    "eng vs pak",
-    "travel ban ri",
-    "daniil medvedev",
-    "denis shapovalov",
-    "online lottery",
-    "injury attorney",
-    "wv school closings"
+    "sofia vergara",
+    "jeff probst",
+    "march 2026 calendar",
+    "leann rimes",
+    "pakistan vs england",
+    "chris sale",
+    "braves vision",
+    "detroit lions",
+    "bill gurley",
+    "stripe"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "48d02408a625",
+        "title": "Oura launches a proprietary AI model focused on women’s health",
+        "summary": "The model supports questions spanning the full reproductive health spectrum, from early menstrual cycles through menopause.",
+        "url": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T15:08:01+00:00"
+      },
+      {
+        "id": "e0fe87c894eb",
+        "title": "Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass",
+        "summary": "Just 4 days left before savings of up to $680 on your TechCrunch Disrupt 2026 pass end on February 27 at 11:59 p.m. PT. Register to save at one of the most anticipated tech events of the year.",
+        "url": "https://techcrunch.com/2026/02/24/final-4-days-to-save-up-to-680-on-your-techcrunch-disrupt-2026-pass/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T15:00:00+00:00"
+      },
+      {
+        "id": "c1b04af77764",
+        "title": "Trump’s new global tariffs kick in at 10%; Meta strikes $60bn chip deal with AMD - business live",
+        "summary": "Rolling coverage of the latest economic and financial newsWhile many exporters around the world cheered when the supreme court ruled against Trump’s “reciprocal” tariffs last week, the unintended consequence could be that the trade war escalates further, says Neil Wilson at the broker Saxo Markets.T...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/24/trump-new-global-tariffs-trade-latest-business-news",
+        "source": "Business | The Guardian",
+        "published": "2026-02-24T14:59:06+00:00"
+      },
+      {
+        "id": "7564a7aef9ac",
+        "title": "Anthropic launches new push for enterprise agents with plugins for finance, engineering, and design",
+        "summary": "It's a major opportunity to grow Anthropic’s enterprise client base — and a significant threat to SaaS products currently performing those functions.",
+        "url": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T14:45:55+00:00"
+      },
+      {
+        "id": "d3fbfca363d8",
+        "title": "UK’s biggest student housing provider hit by fall in international enrolment",
+        "summary": "Unite Group cuts rents at some universities and raises cash by selling London site to joint venture for £186mBusiness live – latest updatesA drop in the number of international students coming to the UK has hit the student housing provider Unite Group, which lowered its profit outlook for the third ...",
+        "url": "https://www.theguardian.com/education/2026/feb/24/uk-student-housing-provider-unite-group-cuts-rents",
+        "source": "Business | The Guardian",
+        "published": "2026-02-24T14:40:40+00:00"
+      },
+      {
+        "id": "5c72ad3cc796",
+        "title": "Meta could end up owning 10% of AMD in new chip deal",
+        "summary": "AMD will supply 6 gigawatts' worth of chips to buttress Meta's AI efforts.",
+        "url": "https://arstechnica.com/ai/2026/02/meta-could-end-up-owning-of-10-amd-in-new-chip-deal/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-24T14:10:13+00:00"
+      },
+      {
+        "id": "2282b8e62024",
+        "title": "Conduent data breach grows, affecting at least 25M people",
+        "summary": "The number of people affected by a data breach at government contractor giant Conduent is growing, as millions of people continue to receive notices warning them that hackers stole their personal data.",
+        "url": "https://techcrunch.com/2026/02/24/conduent-data-breach-grows-affecting-at-least-25m-people/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T14:09:11+00:00"
+      },
+      {
+        "id": "0b9deebd5fd8",
+        "title": "AstraZeneca boss Pascal Soriot’s pay rises to £17.7m",
+        "summary": "Increase of 6.4% comes as drugmaker reports strong profit growth, despite cancelling UK investment projectsBusiness live – latest updatesPascal Soriot, the chief executive of Britain’s largest pharmaceutical company, received a 6.4% pay rise last year, taking his total remuneration to £17.7m.The Ast...",
+        "url": "https://www.theguardian.com/business/2026/feb/24/astrazeneca-boss-pascal-soriot-pay-rise",
+        "source": "Business | The Guardian",
+        "published": "2026-02-24T14:01:54+00:00"
+      },
+      {
+        "id": "0a3276ac16bc",
+        "title": "Scientists crack the case of \"screeching\" Scotch tape",
+        "summary": "Micro-cracks travel along the peeling tape at supersonic speeds, producing shock waves and sound pulses.",
+        "url": "https://arstechnica.com/science/2026/02/heres-why-scotch-tape-screeches-when-its-peeled/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-24T14:00:17+00:00"
+      },
+      {
+        "id": "18c31b9b5007",
+        "title": "Mogul says it has tracked $1.5B in music royalties, raised $5M in funding",
+        "summary": "Mogul, which helps artists track royalties and value their catalogs, raised $5 million in a round led by the Yamaha Music Innovations Fund.",
+        "url": "https://techcrunch.com/2026/02/24/mogul-tracked-1-5-billion-music-royalties-raised-5m-funding/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T14:00:00+00:00"
+      },
+      {
+        "id": "e2efb6f80195",
+        "title": "It’s time to pull the plug on plug-in hybrids",
+        "summary": "Plug-in hybrid vehicles are rarely charged, according to a new study. Why are automakers still producing them?",
+        "url": "https://techcrunch.com/2026/02/24/its-time-to-pull-the-plug-on-plug-in-hybrids/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T14:00:00+00:00"
+      },
+      {
+        "id": "3dc2e7b3f8f1",
+        "title": "New Relic launches new AI agent platform and OpenTelemetry tools",
+        "summary": "New Relic is giving enterprises more observability tools, letting them create and manage AI agents, and better integrate OTel data streams.",
+        "url": "https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T14:00:00+00:00"
+      },
+      {
+        "id": "d0f5821781c3",
+        "title": "Waymo robotaxis are now operating in 10 US cities",
+        "summary": "Waymo launched services today in Dallas, Houston, San Antonio, and Orlando.",
+        "url": "https://techcrunch.com/2026/02/24/waymo-robotaxis-are-now-operating-in-10-us-cities/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T14:00:00+00:00"
+      },
+      {
+        "id": "b2087e38e093",
+        "title": "Netflix, Disney+ and Prime Video to come under stricter regulation in UK",
+        "summary": "Streaming giants will be subject to same Ofcom scrutiny as traditional broadcasters such as the BBCNetflix, Amazon’s Prime Video and Disney+ are to come under “enhanced regulation” by the UK media regulator, Ofcom, making the streaming giants subject to the same scrutiny as traditional broadcasters ...",
+        "url": "https://www.theguardian.com/media/2026/feb/24/netflix-disney-prime-video-uk-regulator-ofcom",
+        "source": "Business | The Guardian",
+        "published": "2026-02-24T13:40:25+00:00"
+      },
+      {
+        "id": "0f37913405b8",
+        "title": "Meta agrees $60bn deal with chipmaker AMD despite AI bubble fears",
+        "summary": "Facebook owner’s investment described by semiconductor company as ‘big bet’ on artificial intelligenceBusiness live – latest updatesThe owner of Facebook has agreed to buy $60bn (£44.5bn) of artificial intelligence chips from the US semiconductor company Advanced Micro Devices despite fears over the...",
+        "url": "https://www.theguardian.com/technology/2026/feb/24/meta-amd-deal-chipmaker-ai-bubble-facebook",
+        "source": "Business | The Guardian",
+        "published": "2026-02-24T13:18:32+00:00"
+      },
+      {
+        "id": "a80bff764663",
+        "title": "Nimble raises $47M to give AI agents access to real-time web data",
+        "summary": "Nimble uses AI agents to search the web, verify and validate the results, and then clean and structure the information into neat tables that can then be queried like a database.",
+        "url": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T13:00:00+00:00"
+      },
       {
         "id": "47003bf56da7",
         "title": "Why the student loans row is escalating and what it means for graduates",
@@ -21,14 +149,6 @@
         "url": "https://www.theguardian.com/money/2026/feb/24/why-the-student-loans-row-is-escalating-and-what-it-means-for-graduates",
         "source": "Business | The Guardian",
         "published": "2026-02-24T11:00:01+00:00"
-      },
-      {
-        "id": "c1b04af77764",
-        "title": "Trump’s new global tariffs kick in at 10% – business live",
-        "summary": "Rolling coverage of the latest economic and financial newsWhile many exporters around the world cheered when the Supreme Court ruled against Trump’s “reciprocal” tariffs last week, the unintended consequence could be that the trade war escalates further, says Neil Wilson at the broker Saxo Markets.T...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/24/trump-new-global-tariffs-trade-latest-business-news",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T10:58:16+00:00"
       },
       {
         "id": "405927e9f9d0",
@@ -63,18 +183,18 @@
         "published": "2026-02-24T07:00:04+00:00"
       },
       {
+        "id": "ee05e926e4dc",
+        "title": "Could dewdrops explain why plants are flowering earlier?",
+        "summary": "Water droplets set off a chemical cascade that tells a plant it’s time to blossom, new study finds",
+        "url": "https://www.science.org/content/article/could-dewdrops-explain-why-plants-are-flowering-earlier",
+        "source": "Latest News from Science Magazine",
+        "published": "2026-02-24T07:00:00+00:00"
+      },
+      {
         "id": "20ad291025dd",
         "title": "Criminals ‘systematically’ targeting UK shops, costing £400m last year, say retailers",
         "summary": "British Retail Consortium warns over ‘endemic’ violence towards shop workers and says theft is causing anxietyCriminal gangs are “systematically” targeting shops, retailers have warned, with 5.5m incidents of shoplifting detected last year, costing the industry an estimated £400m.The British Retail ...",
         "url": "https://www.theguardian.com/business/2026/feb/24/criminals-uk-shops-british-retail-consortium-violence-theft",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T06:00:03+00:00"
-      },
-      {
-        "id": "3824acc5b6cd",
-        "title": "Reform mayor courted US oil and gas executive about fracking in UK",
-        "summary": "Exclusive: Documents show Andrea Jenkyns asked how she could help firm after major gas find in LincolnshireLincolnshire’s Reform party mayor, Dame Andrea Jenkyns, has courted the head of an American oil and gas dynasty in the hope of bringing fracking to the county, the Guardian can reveal.Egdon Res...",
-        "url": "https://www.theguardian.com/environment/2026/feb/24/reform-uk-mayor-andrea-jenkyns-us-oil-gas-executive-fracking-lincolnshire",
         "source": "Business | The Guardian",
         "published": "2026-02-24T06:00:03+00:00"
       },
@@ -93,129 +213,57 @@
         "url": "https://www.theguardian.com/us-news/2026/feb/24/trump-crumbling-tariff-strategy-global-chaos-confusion",
         "source": "Business | The Guardian",
         "published": "2026-02-24T02:37:57+00:00"
-      },
-      {
-        "id": "479da3d55bc0",
-        "title": "Why does the RBA only have one blunt tool? We ask the deputy governor - podcast",
-        "summary": "Reserve Bank of Australia deputy governor Andrew Hauser speaks to economics editor Patrick Commins and business and economics reporter Luca Ittimani about the 2025 surprises that led to the first interest rate rise in two years.Hauser also responds to last week’s criticisms by Tim Wilson, the newly ...",
-        "url": "https://www.theguardian.com/australia-news/audio/2026/feb/24/why-does-the-rba-only-have-one-blunt-tool-we-ask-the-deputy-governor-australian-politics-podcast",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T01:47:18+00:00"
-      },
-      {
-        "id": "0870fde8f444",
-        "title": "Crypto exchange Binance may have funded Iranian entities, reports say",
-        "summary": "Internal investigators said at least two accounts allegedly saw $1.7bn move to Iranian-backed groupsShortly after Donald Trump pardoned Changpeng Zhao, the Binance founder, last fall, company employees revealed the cryptocurrency exchange may have funded Iranian entities with billions of dollars, ac...",
-        "url": "https://www.theguardian.com/business/2026/feb/23/binance-iran-fund-billions",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T01:10:54+00:00"
-      },
-      {
-        "id": "ad8d0d4fdf82",
-        "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
-        "summary": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
-        "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T00:57:14+00:00"
-      },
-      {
-        "id": "909fc4f45261",
-        "title": "Paramount Skydance reportedly increases bid for Warner Bros Discovery",
-        "summary": "Details of offer not immediately available as Paramount looks to beat rival Netflix for control of Warner BrosParamount Skydance has increased its bid for Warner Bros Discovery, Reuters reported on Monday, raising the stakes in the bidding war for the historic studio and its broadcast and cable TV a...",
-        "url": "https://www.theguardian.com/media/2026/feb/23/paramount-skydance-bid-warner-bros-discovery",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T00:38:33+00:00"
-      },
-      {
-        "id": "ae96f39f18b7",
-        "title": "Tesla’s battle with the California Department of Motor Vehicles isn’t over after all",
-        "summary": "Tesla has filed a lawsuit against the California DMV in the ongoing battle around Autopilot.",
-        "url": "https://techcrunch.com/2026/02/23/teslas-battle-with-the-california-department-of-motor-vehicles-isnt-over-after-all/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T00:36:12+00:00"
-      },
-      {
-        "id": "8c97eb96beab",
-        "title": "Progress on gender equality at top of UK’s biggest firms ‘achingly slow’",
-        "summary": "Average number of female FTSE 100 CEOs stalled at nine last year, the same number as 2024, review saysCampaigners have bemoaned the “achingly slow” progress made on gender equality at the top of Britain’s biggest businesses, as research showed blue-chip firms had missed key targets and there were on...",
-        "url": "https://www.theguardian.com/business/2026/feb/24/progress-gender-equality-uk-biggest-firms-achingly-slow-ftse-100",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T00:01:54+00:00"
-      },
-      {
-        "id": "7e11e2fb2d64",
-        "title": "The Contributor Role Taxonomy tool must serve to record extent of authorship",
-        "summary": "Nature, Published online: 24 February 2026; doi:10.1038/d41586-026-00591-zThe Contributor Role Taxonomy tool must serve to record extent of authorship",
-        "url": "https://www.nature.com/articles/d41586-026-00591-z",
-        "source": "Nature",
-        "published": "2026-02-24T00:00:00+00:00"
-      },
-      {
-        "id": "b2e93246dbe9",
-        "title": "Defunding Chile’s climate research will undermine science and the region",
-        "summary": "Nature, Published online: 24 February 2026; doi:10.1038/d41586-026-00592-yDefunding Chile’s climate research will undermine science and the region",
-        "url": "https://www.nature.com/articles/d41586-026-00592-y",
-        "source": "Nature",
-        "published": "2026-02-24T00:00:00+00:00"
-      },
-      {
-        "id": "5c4896066c53",
-        "title": "Account for AI in the environmental footprint of scientific publishing",
-        "summary": "Nature, Published online: 24 February 2026; doi:10.1038/d41586-026-00590-0Account for AI in the environmental footprint of scientific publishing",
-        "url": "https://www.nature.com/articles/d41586-026-00590-0",
-        "source": "Nature",
-        "published": "2026-02-24T00:00:00+00:00"
-      },
-      {
-        "id": "aea53338263e",
-        "title": "Evidence alone won’t save biodiversity: the golden apple snail reveals an implementation gap",
-        "summary": "Nature, Published online: 24 February 2026; doi:10.1038/d41586-026-00593-xEvidence alone won’t save biodiversity: the golden apple snail reveals an implementation gap",
-        "url": "https://www.nature.com/articles/d41586-026-00593-x",
-        "source": "Nature",
-        "published": "2026-02-24T00:00:00+00:00"
-      },
-      {
-        "id": "a1dc3f4fe0ac",
-        "title": "China is waging war on Alzheimer’s. What can its approach teach the rest of the world?",
-        "summary": "Nature, Published online: 24 February 2026; doi:10.1038/d41586-026-00564-2The country is facing a coming wave of dementia for its ageing population, and is investing in research into drugs, diagnostics and even surgery to prepare itself.",
-        "url": "https://www.nature.com/articles/d41586-026-00564-2",
-        "source": "Nature",
-        "published": "2026-02-24T00:00:00+00:00"
-      },
-      {
-        "id": "365c0593daaa",
-        "title": "US AI giant accuses Chinese rivals of mass data theft",
-        "summary": "Anthropic says three Chinese firms used ‘distillation’ technique to extract information from its Claude chatbotUS artificial intelligence company Anthropic said on Monday it had uncovered campaigns by three Chinese AI firms to illicitly extract capabilities from its Claude chatbot, in what it descri...",
-        "url": "https://www.theguardian.com/technology/2026/feb/23/us-ai-anthropic-china",
-        "source": "Business | The Guardian",
-        "published": "2026-02-23T23:15:50+00:00"
-      },
-      {
-        "id": "f2d8e9f34c8d",
-        "title": "Pentagon buyer: We're happy with our launch industry, but payloads are lagging",
-        "summary": "\"The point is to get missions out the door as fast as possible. Two to three years is too slow.\"",
-        "url": "https://arstechnica.com/space/2026/02/pentagon-buyer-were-happy-with-our-launch-industry-but-payloads-are-lagging/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-23T22:14:28+00:00"
-      },
-      {
-        "id": "0ef90f3dc9b7",
-        "title": "Data center builders thought farmers would willingly sell land, learn otherwise",
-        "summary": "Even in a fragile farm economy, million-dollar offers can't sway dedicated farmers.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/im-not-for-sale-farmers-refuse-to-take-millions-in-data-center-deals/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-23T21:48:44+00:00"
-      },
-      {
-        "id": "f0cea96f7258",
-        "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
-        "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
-        "url": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
-        "source": "TechCrunch",
-        "published": "2026-02-23T21:46:41+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "9f697c540451",
+        "title": "plugdata, cyclone get major updates — free stuff for patchers and end users",
+        "summary": "Recent updates for the visual programming environment plugdata (a wrapped for Pure Data) and the powerful object library cyclone are keeping the goodness going. Whether you're looking to do patching and development in a graphical tool or just enjoy the free stuff people are making with Pd, that's gr...",
+        "url": "https://cdm.link/plugdata-cyclone-get-major-updates-free-stuff-for-patchers-and-end-users/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-24T14:26:00+00:00"
+      },
+      {
+        "id": "39f62cf4863e",
+        "title": "Reddit fined £14.5m in UK over use of under-13s’ data",
+        "summary": "Information Commissioner’s Office imposes largest fine yet for a breach of children’s privacy The UK information regulator has fined the social news service Reddit £14.5m for using the data of children under the age of 13 unlawfully and potentially exposing them to inappropriate and harmful content....",
+        "url": "https://www.theguardian.com/technology/2026/feb/24/reddit-fined-uk-children-under-13-data",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-24T13:30:29+00:00"
+      },
+      {
+        "id": "0f37913405b8",
+        "title": "Meta agrees $60bn deal with chipmaker AMD despite AI bubble fears",
+        "summary": "Facebook owner’s investment described by semiconductor company as ‘big bet’ on artificial intelligenceBusiness live – latest updatesThe owner of Facebook has agreed to buy $60bn (£44.5bn) of artificial intelligence chips from the US semiconductor company Advanced Micro Devices despite fears over the...",
+        "url": "https://www.theguardian.com/technology/2026/feb/24/meta-amd-deal-chipmaker-ai-bubble-facebook",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-24T13:18:32+00:00"
+      },
+      {
+        "id": "7994157c2df3",
+        "title": "AMD、Meta 達成千億美元 AI 協議！將部署高達 6 吉瓦 AMD GPU",
+        "summary": "Meta 已同意向 AMD 購買 6 吉瓦（Gigawatts，簡稱 GW）的人工智慧運算能力，交易總價值超過 [&#8230;]",
+        "url": "https://technews.tw/2026/02/24/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-24T12:32:39+00:00"
+      },
+      {
+        "id": "f3f95f247672",
+        "title": "First run the tests",
+        "summary": "Agentic Engineering Patterns &gt;\n    Automated tests are no longer optional when working with coding agents.\nThe old excuses for not writing them - that they're time consuming and expensive to constantly rewrite while a codebase is rapidly evolving - no longer hold when an agent can knock them into...",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-24T12:30:05+00:00"
+      },
+      {
+        "id": "1806ad81cf03",
+        "title": "Taco Tuesday: reason to be cautiously optimistic about tariff relief",
+        "summary": "Trump's unprecedented tariffs are starting to hit reality following a Supreme Court defeat over the weekend. Music gear consumers shouldn't expect any immediate cost relief. But while the picture is complicated and the major problems remains the chaos Trump is causing, there are some hopeful indicat...",
+        "url": "https://cdm.link/taco-tuesday-reason-to-be-cautiously-optimistic-about-tariff-relief/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-24T12:19:19+00:00"
+      },
       {
         "id": "7cf523b7061f",
         "title": "AI Will Never Be Conscious",
@@ -233,20 +281,20 @@
         "published": "2026-02-24T10:44:02+00:00"
       },
       {
-        "id": "9f697c540451",
-        "title": "plugdata, cyclone get major updates — free stuff for patchers and end users",
-        "summary": "Recent updates for the visual programming environment plugdata (a wrapped for Pure Data) and the powerful object library cyclone are keeping the goodness going. Whether you're looking to do patching and development in a graphical tool or just enjoy the free stuff people are making with Pd, that's gr...",
-        "url": "https://cdm.link/plugdata-cyclone-get-major-updates-free-stuff-for-patchers-and-end-users/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-24T10:26:52+00:00"
-      },
-      {
         "id": "91d7309f817a",
         "title": "Anlife: what does an unusual evolution simulator have to say about AI?",
         "summary": "We explore the strange food-obsessed world of a new game whose tech was once called ‘an insult to life itself’ by Hayao Miyazaki, the film-maker behind Spirited AwayA strange piece of software has recently landed on the PC gaming store Steam. And “software” feels like the cleanest way to describe it...",
         "url": "https://www.theguardian.com/games/2026/feb/24/anlife-what-does-an-unusual-evolution-simulator-have-to-say-about-ai",
         "source": "Technology | The Guardian",
         "published": "2026-02-24T10:00:11+00:00"
+      },
+      {
+        "id": "24075be11aef",
+        "title": "‘It’s not Robocop’: UK police embrace AI ‘efficiency’ in complex investigations",
+        "summary": "Detectives say tools supplied by Palantir were integral to convictions of a criminal gang that stole £800,000It was fraud on a grand scale. The “Fuck the Police” criminal gang based in Luton and Romania stole £800,000 in more than 3,000 withdrawals from cash machines in dozens of locations throughou...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/24/its-not-robocop-uk-police-embrace-ai-efficiency-in-complex-investigations",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-24T07:00:04+00:00"
       },
       {
         "id": "273dab4d321b",
@@ -367,54 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-23T13:11:57+00:00"
-      },
-      {
-        "id": "b1fe70baf784",
-        "title": "Quoting Summer Yue",
-        "summary": "Nothing humbles you like telling your OpenClaw “confirm before acting” and watching it speedrun deleting your inbox. I couldn’t stop it from my phone. I had to RUN to my Mac mini like I was defusing a bomb.\n\nI said “Check this inbox too and suggest what you would archive or delete, don’t action unti...",
-        "url": "https://simonwillison.net/2026/Feb/23/summer-yue/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-23T13:01:13+00:00"
-      },
-      {
-        "id": "eb1cce061c92",
-        "title": "If AI makes human labor obsolete, who decides who gets to eat?",
-        "summary": "Amid talk of artificial intelligence taking our jobs, the big unasked question is: how will we be fed?How will we be fed? That’s the biggest question not seriously being addressed amid all this talk about whether or not artificial intelligence will end up taking over all of our jobs.Formidable thoug...",
-        "url": "https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-23T11:00:38+00:00"
-      },
-      {
-        "id": "5a19817784ce",
-        "title": "Say Goodbye to the Undersea Cable That Made the Global Internet Possible",
-        "summary": "History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks.",
-        "url": "https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/",
-        "source": "Business Latest",
-        "published": "2026-02-23T11:00:00+00:00"
-      },
-      {
-        "id": "123d07a181e2",
-        "title": "Red/green TDD",
-        "summary": "Agentic Engineering Patterns &gt;\n    \"Use red/green TDD\" is a pleasingly succinct way to get better results out of a coding agent.\nTDD stands for Test Driven Development. It's a programming style where you ensure every piece of code you write is accompanied by automated tests that demonstrate the c...",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-23T07:12:28+00:00"
-      },
-      {
-        "id": "ed2db8366d48",
-        "title": "NASA Delays Launch of Artemis II Lunar Mission Once Again",
-        "summary": "A failure in the helium flow of the SLS rocket has prompted NASA to delay the Artemis II moon mission. Rather than March 6, the launch is now targeted for April.",
-        "url": "https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/",
-        "source": "Science Latest",
-        "published": "2026-02-23T00:42:06+00:00"
-      },
-      {
-        "id": "f7bbc255b764",
-        "title": "How AI helps break the cost barrier to COBOL modernization",
-        "summary": "How AI helps break the cost barrier to COBOL modernization",
-        "url": "https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization",
-        "source": "Claude Blog",
-        "published": "2026-02-23T00:00:00+00:00"
       }
     ],
     "序(month)": [
