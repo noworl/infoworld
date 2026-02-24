@@ -1,19 +1,91 @@
 {
-  "updated_at": "2026-02-24T19:33:42.389519+00:00",
+  "updated_at": "2026-02-24T21:53:41.632045+00:00",
   "trending": [
-    "newcastle vs qarabag fk",
-    "leverkusen vs olympiacos",
-    "marie antoinette",
-    "middlesbrough vs leicester city",
-    "ford explorer recalls",
-    "alavés vs girona",
-    "mike tauchman",
-    "venus williams",
-    "alavés - girona",
-    "al-taawoun vs al-hilal"
+    "duke vs notre dame",
+    "76ers vs pacers",
+    "kentucky vs south carolina",
+    "laura ann tull greys anatomy",
+    "zeta stock",
+    "axon stock",
+    "cava stock",
+    "jackson lacombe",
+    "nfl draft",
+    "meli stock"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "aab485be0067",
+        "title": "Former L3Harris Trenchant boss jailed for selling hacking tools to Russian broker",
+        "summary": "Peter Williams, the former head of U.S. hacking tools maker L3Harris Trenchant, was sentenced to seven years in prison for stealing and selling his former company’s hacking and surveillance tools to a Russian firm.",
+        "url": "https://techcrunch.com/2026/02/24/former-l3harris-trenchant-boss-jailed-for-selling-hacking-tools-to-russian-broker/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T21:50:23+00:00"
+      },
+      {
+        "id": "b6d5e4f8ff22",
+        "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
+        "summary": "Form Energy's iron-air batteries will store wind and solar power to keep the data center running 24/7.",
+        "url": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T21:32:22+00:00"
+      },
+      {
+        "id": "0173bd3ee2b1",
+        "title": "CarGurus data breach affects 12.5 million accounts",
+        "summary": "Automotive marketplace CarGurus was the target of a data breach in which the names, email addresses, phone numbers, and physical addresses of millions of customers were stolen.",
+        "url": "https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T21:27:42+00:00"
+      },
+      {
+        "id": "5088e7be4a31",
+        "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
+        "summary": "The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises questions about government leverage, vendor dependence, and investor confidence in defense tech.",
+        "url": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T21:18:45+00:00"
+      },
+      {
+        "id": "1deef5e88500",
+        "title": "DJI sues the FCC for “carelessly” restricting its drones",
+        "summary": "DJI lawsuit says company has been \"severely harmed by the FCC’s ruling.\"",
+        "url": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-24T21:15:26+00:00"
+      },
+      {
+        "id": "c8bb3872d44d",
+        "title": "Discord delays global rollout of age verification after backlash",
+        "summary": "The company added that 90% of users won’t need to verify their age and will be able to keep using Discord as usual.",
+        "url": "https://techcrunch.com/2026/02/24/discord-delays-global-rollout-of-age-verification-after-backlash/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T20:48:06+00:00"
+      },
+      {
+        "id": "1634a7d4153b",
+        "title": "Instagram head pressed on lengthy delay to launch teen safety features, like a nudity filter, court filing reveals",
+        "summary": "An email chain with Instagram head Adam Mosseri indicated the company was aware of teen safety issues in DMs in 2018, but didn't launch its unwanted nudity filter until 2024.",
+        "url": "https://techcrunch.com/2026/02/24/instagram-head-pressed-on-lengthy-delay-to-launch-teen-safety-features-like-a-nudity-filter-court-filing-reveals/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T20:35:47+00:00"
+      },
+      {
+        "id": "7e3fa3cbe4ad",
+        "title": "UK fines Reddit for not checking user ages aggressively enough",
+        "summary": "UK agency alleges \"Reddit failed to apply any robust age assurance mechanism.\"",
+        "url": "https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-24T19:53:15+00:00"
+      },
+      {
+        "id": "43c8cdb361dc",
+        "title": "More startups are hitting $10M ARR in 3 months than ever before",
+        "summary": "AI has brought the startup world the rise of startups that instantly hit multimillion ARR. Stripe revealed some data that shows how common this has become.",
+        "url": "https://techcrunch.com/2026/02/24/more-startups-are-hitting-10m-arr-in-3-months-than-ever-before/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T19:39:36+00:00"
+      },
       {
         "id": "a6a75994d3a0",
         "title": "Instagram’s TV app is launching on Google TV devices",
@@ -40,7 +112,7 @@
       },
       {
         "id": "d587a311f685",
-        "title": "Treasury sanctions Russian zero-day broker accused of buying exploits stolen from U.S. defense contractor",
+        "title": "Treasury sanctions Russian zero-day broker accused of buying exploits stolen from US defense contractor",
         "summary": "The U.S. Treasury announced it was imposing sanctions against a Russian broker of zero-day exploits, its founder and two affiliates, citing a threat to U.S. national security. Another affiliated zero-day broker in the United Arab Emirates was also sanctioned.",
         "url": "https://techcrunch.com/2026/02/24/treasury-sanctions-russian-zero-day-broker-accused-of-buying-exploits-stolen-from-u-s-defense-contractor/",
         "source": "TechCrunch",
@@ -49,14 +121,14 @@
       {
         "id": "88b84f3b0e13",
         "title": "Google adds a way to create automated workflows to Opal",
-        "summary": "Google is adding a new feature to Opal to create automated workflows",
+        "summary": "The company said that a new agent being introduced in Opal will allow users to create mini-apps that can let them plan and execute tasks using text prompts.",
         "url": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
         "source": "TechCrunch",
         "published": "2026-02-24T19:00:00+00:00"
       },
       {
         "id": "d843e1b86972",
-        "title": "Spotify and Liquid Death release a limited-edition speaker shaped like… an urn?",
+        "title": "Spotify and Liquid Death release a limited-edition speaker shaped like … an urn?",
         "summary": "Spotify and Liquid Death launched what might be the wildest product of the year: a speaker shaped like a urn.",
         "url": "https://techcrunch.com/2026/02/24/spotify-and-liquid-death-release-a-limited-edition-speaker-shaped-like-an-urn/",
         "source": "TechCrunch",
@@ -72,7 +144,7 @@
       },
       {
         "id": "a567617248eb",
-        "title": "Some UK farmers face losses under new cap on sustainable farming payments",
+        "title": "Farmers in England face losses under new cap on sustainable farming payments",
         "summary": "Environment secretary says payments will be limited to £100,000 per farm so ‘more farmers can benefit’Some farmers will lose money by opting into environment schemes under new plans to cap payments available for sustainable farming.Emma Reynolds, the environment secretary, said the new system is “fa...",
         "url": "https://www.theguardian.com/environment/2026/feb/24/british-farmers-lose-money-environmental-schemes-under-new-plans",
         "source": "Business | The Guardian",
@@ -97,7 +169,7 @@
       {
         "id": "a67e37390ef5",
         "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
-        "summary": "Earlier this month, OpenAI launched a new platform called OpenAI Frontier for enterprises to build and manage agents, but OpenAI COO Brad Lightcap said that businesses haven&#8217;t yet seen AI adoption at scale. &#8220;One of the interesting things and some of the inspiration for the work we&#8217;...",
+        "summary": "There is a lot of talk around AI agents taking over business processes and claiming that \"SaaS is dead.\" While these predictions have moved SaaS stocks at times, they haven't really come true.",
         "url": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
         "source": "TechCrunch",
         "published": "2026-02-24T17:44:34+00:00"
@@ -105,7 +177,7 @@
       {
         "id": "cec7b6de56c0",
         "title": "Donald Trump’s new 10% global tariff comes into effect",
-        "summary": "US president had said he would raise levy to 15% after last week’s supreme court rulingBusiness live – latest updatesDonald Trump’s new global tariffs have taken effect at 10%, even though last weekend he had threatened a higher rate, of 15%, providing “some relief” for British businesses, according...",
+        "summary": "US president had said he would raise levy to 15% after last week’s supreme court rulingDonald Trump’s new global tariffs have taken effect at 10%, even though last weekend he had threatened a higher rate, of 15%, providing “some relief” for British businesses, according to a lobby group.After the US...",
         "url": "https://www.theguardian.com/us-news/2026/feb/24/donald-trump-global-tariff-us-levy",
         "source": "Business | The Guardian",
         "published": "2026-02-24T17:35:53+00:00"
@@ -113,7 +185,7 @@
       {
         "id": "87da75a69a59",
         "title": "Stripe’s valuation soars 74% to $159 billion",
-        "summary": "Stripe has conducted another tender offer, where employees sell shares. Investors include Thrive Capital, Coatue, a16z, and Stripe itself",
+        "summary": "Stripe has conducted another tender offer, where employees sell shares. Investors include Thrive Capital, Coatue, a16z, and Stripe itself.",
         "url": "https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/",
         "source": "TechCrunch",
         "published": "2026-02-24T17:28:23+00:00"
@@ -141,78 +213,6 @@
         "url": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
         "source": "TechCrunch",
         "published": "2026-02-24T16:57:21+00:00"
-      },
-      {
-        "id": "aa2e4db011a5",
-        "title": "50 mpg in a Nissan crossover? Testing the new E-Power hybrid system.",
-        "summary": "Nissan imported some Qashqais from Europe so we could sample the hybrid system.",
-        "url": "https://arstechnica.com/cars/2026/02/on-the-road-with-nissans-new-e-power-hybrid-coming-to-the-2027-rogue/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-24T16:43:27+00:00"
-      },
-      {
-        "id": "530461321251",
-        "title": "Marquis sues firewall provider SonicWall, alleges security failings with its firewall backup led to ransomware attack",
-        "summary": "Fintech giant Marquis is suing its firewall provider SonicWall, claiming that an earlier breach with SonicWall allowed hackers to deploy ransomware on Marquis' network.",
-        "url": "https://techcrunch.com/2026/02/24/marquis-sonicwall-lawsuit-ransomware-firewall-breach/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T16:37:41+00:00"
-      },
-      {
-        "id": "e55e833d76ee",
-        "title": "Ukraine’s startups keep building",
-        "summary": "In the four years since Russia’s full-scale invasion of their country, Ukrainian startups have done more than survive: they are still building and growing.",
-        "url": "https://techcrunch.com/2026/02/24/ukraines-startups-keep-building/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T15:48:45+00:00"
-      },
-      {
-        "id": "170551b515b3",
-        "title": "Lamborghini cancels electric Lanzador as supercar buyers reject EVs",
-        "summary": "Investing heavily in battery EVs would be \"financially irresponsible,\" CEO said.",
-        "url": "https://arstechnica.com/cars/2026/02/lamborghini-drops-ev-plan-in-favor-of-future-plug-in-hybrids/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-24T15:24:02+00:00"
-      },
-      {
-        "id": "83d2adf52e91",
-        "title": "‘A feedback loop with no brake’: how an AI doomsday report shook US markets",
-        "summary": "Shares in Uber, Mastercard and American Express fall on back of apocalypse scenario posted on Substack  US stock markets have been hit by a further wave of AI jitters, this time from yet another viral – and completely speculative – warning about the impact of the technology on the world’s largest ec...",
-        "url": "https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T15:17:15+00:00"
-      },
-      {
-        "id": "36bc85071b17",
-        "title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
-        "summary": "Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.",
-        "url": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T15:15:16+00:00"
-      },
-      {
-        "id": "48d02408a625",
-        "title": "Oura launches a proprietary AI model focused on women’s health",
-        "summary": "The model supports questions spanning the full reproductive health spectrum, from early menstrual cycles through menopause.",
-        "url": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T15:08:01+00:00"
-      },
-      {
-        "id": "e0fe87c894eb",
-        "title": "Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass",
-        "summary": "Just 4 days left before savings of up to $680 on your TechCrunch Disrupt 2026 pass end on February 27 at 11:59 p.m. PT. Register to save at one of the most anticipated tech events of the year.",
-        "url": "https://techcrunch.com/2026/02/24/final-4-days-to-save-up-to-680-on-your-techcrunch-disrupt-2026-pass/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T15:00:00+00:00"
-      },
-      {
-        "id": "7564a7aef9ac",
-        "title": "Anthropic launches new push for enterprise agents with plug-ins for finance, engineering, and design",
-        "summary": "It's a major opportunity to grow Anthropic’s enterprise client base — and a significant threat to SaaS products currently performing those functions.",
-        "url": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T14:45:55+00:00"
       }
     ],
     "破(day)": [
