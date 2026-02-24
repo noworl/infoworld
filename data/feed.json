@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-24T21:53:41.632045+00:00",
+  "updated_at": "2026-02-24T23:05:37.956063+00:00",
   "trending": [
-    "duke vs notre dame",
-    "76ers vs pacers",
-    "kentucky vs south carolina",
-    "laura ann tull greys anatomy",
-    "zeta stock",
-    "axon stock",
-    "cava stock",
-    "jackson lacombe",
-    "nfl draft",
-    "meli stock"
+    "heat vs bucks",
+    "tgl golf",
+    "hornets vs bulls",
+    "warriors vs pelicans",
+    "davis webb",
+    "zachery ty bryan",
+    "mavericks vs nets",
+    "taylor decker",
+    "knicks vs cavaliers",
+    "northwestern vs indiana"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "94fda2a1ebb3",
+        "title": "Stripe is reportedly eyeing deal to buy some or all of PayPal",
+        "summary": "Stripe might be looking to buy PayPal, or parts of it, per early reports.",
+        "url": "https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T22:35:30+00:00"
+      },
       {
         "id": "aab485be0067",
         "title": "Former L3Harris Trenchant boss jailed for selling hacking tools to Russian broker",
@@ -65,7 +73,7 @@
       {
         "id": "1634a7d4153b",
         "title": "Instagram head pressed on lengthy delay to launch teen safety features, like a nudity filter, court filing reveals",
-        "summary": "An email chain with Instagram head Adam Mosseri indicated the company was aware of teen safety issues in DMs in 2018, but didn't launch its unwanted nudity filter until 2024.",
+        "summary": "An email chain with Instagram head Adam Mosseri indicated the company was aware of teen safety issues in DMs in 2018, but didn't launch its unwanted-nudity filter until 2024.",
         "url": "https://techcrunch.com/2026/02/24/instagram-head-pressed-on-lengthy-delay-to-launch-teen-safety-features-like-a-nudity-filter-court-filing-reveals/",
         "source": "TechCrunch",
         "published": "2026-02-24T20:35:47+00:00"
@@ -81,7 +89,7 @@
       {
         "id": "43c8cdb361dc",
         "title": "More startups are hitting $10M ARR in 3 months than ever before",
-        "summary": "AI has brought the startup world the rise of startups that instantly hit multimillion ARR. Stripe revealed some data that shows how common this has become.",
+        "summary": "AI has brought the startup world the rise of companies that instantly hit multimillion-dollar ARR. Stripe revealed some data that shows how common this has become.",
         "url": "https://techcrunch.com/2026/02/24/more-startups-are-hitting-10m-arr-in-3-months-than-ever-before/",
         "source": "TechCrunch",
         "published": "2026-02-24T19:39:36+00:00"
@@ -89,7 +97,7 @@
       {
         "id": "a6a75994d3a0",
         "title": "Instagram’s TV app is launching on Google TV devices",
-        "summary": "By bringing Reels to TVs, Instagram looking to better compete with YouTube, which largely dominates the TV space.",
+        "summary": "By bringing Reels to TV, Instagram is looking to better compete with YouTube, which largely dominates the TV space.",
         "url": "https://techcrunch.com/2026/02/24/instagrams-tv-app-is-launching-on-google-tv-devices/",
         "source": "TechCrunch",
         "published": "2026-02-24T19:13:06+00:00"
@@ -109,6 +117,14 @@
         "url": "https://www.theguardian.com/society/2026/feb/24/youth-unemployment-uk-tax-wage-increase-bank-of-england",
         "source": "Business | The Guardian",
         "published": "2026-02-24T19:07:38+00:00"
+      },
+      {
+        "id": "742418f09032",
+        "title": "The Guardian view on temporary accommodation bills: short-term fixes must be backed up by housebuilding | Editorial",
+        "summary": "Liverpool council’s success in negotiating with landlords is a model of how to save to invest in housingLocal authorities are experiencing some of the highest temporary accommodation bills on record. Councils in England spent £2.8bn last year on homeless accommodation – a 25% increase on the year be...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/24/the-guardian-view-on-temporary-accommodation-bills-short-term-fixes-must-be-backed-up-by-housebuilding",
+        "source": "Business | The Guardian",
+        "published": "2026-02-24T19:06:28+00:00"
       },
       {
         "id": "d587a311f685",
@@ -159,6 +175,14 @@
         "published": "2026-02-24T18:00:00+00:00"
       },
       {
+        "id": "a4af9eac24c5",
+        "title": "Flawed council shake-up plans will not deliver savings | Letters",
+        "summary": "Readers respond to Polly Toynbee’s article on the government’s plans to overhaul local governmentPolly Toynbee is correct to point out the foolishness of a massive local government reorganisation, given other priorities (Is No 10 seeking its own destruction? Why else would it botch its council plans...",
+        "url": "https://www.theguardian.com/society/2026/feb/24/flawed-council-shake-up-plans-will-not-deliver-savings",
+        "source": "Business | The Guardian",
+        "published": "2026-02-24T17:49:29+00:00"
+      },
+      {
         "id": "04cf7dccb26a",
         "title": "Overcoming the angst of auto-renewal | Letters",
         "summary": "Readers respond to Adrian Chiles’s column about needing to keep an eye on the cost of services regularly paid forRe: Adrian Chiles’s column (My breakdown cover was extortionate – and that taught me an important lesson, 18 February). My dad was a member of the AA for 60 years and called them out abou...",
@@ -189,30 +213,6 @@
         "url": "https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/",
         "source": "TechCrunch",
         "published": "2026-02-24T17:28:23+00:00"
-      },
-      {
-        "id": "0c7d2950f9b5",
-        "title": "Inside the quixotic team trying to build an entire world in a 20-year-old game",
-        "summary": "Stories and lesson learned from an impossibly large community modding project.",
-        "url": "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-24T17:13:14+00:00"
-      },
-      {
-        "id": "352e0a1c2bfd",
-        "title": "YouTube beefs up its $7.99/month Lite subscription with offline downloads and background play",
-        "summary": "Now the only reason to get the full Premium subscription is ad-free music and music videos.",
-        "url": "https://techcrunch.com/2026/02/24/youtube-beefs-up-its-7-99-month-lite-subscription-with-downloads-and-background-play/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T17:00:00+00:00"
-      },
-      {
-        "id": "e3ad9556db03",
-        "title": "Music generator ProducerAI joins Google Labs",
-        "summary": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
-        "url": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T16:57:21+00:00"
       }
     ],
     "破(day)": [
@@ -275,7 +275,7 @@
       {
         "id": "0f37913405b8",
         "title": "Meta agrees $60bn deal with chipmaker AMD despite AI bubble fears",
-        "summary": "Facebook owner’s investment described by semiconductor company as ‘big bet’ on artificial intelligenceThe owner of Facebook has agreed to buy $60bn (£44.5bn) of artificial intelligence chips from the US semiconductor company Advanced Micro Devices despite fears over the vast sums being spent on the ...",
+        "summary": "Facebook owner’s investment described by semiconductor company as ‘big bet’ on artificial intelligenceThe owner of Facebook has agreed to buy $60bn (£44.5bn) of artificial intelligence chips from the US semiconductor company Advanced Micro Devices – despite fears about the vast sums  committed to AI...",
         "url": "https://www.theguardian.com/technology/2026/feb/24/meta-amd-deal-chipmaker-ai-bubble-facebook",
         "source": "Technology | The Guardian",
         "published": "2026-02-24T13:18:32+00:00"
