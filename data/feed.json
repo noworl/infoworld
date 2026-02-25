@@ -1,19 +1,67 @@
 {
-  "updated_at": "2026-02-25T19:34:43.166929+00:00",
+  "updated_at": "2026-02-25T21:49:54.263218+00:00",
   "trending": [
-    "d4vd",
-    "thornton fire",
-    "psg - mónaco",
-    "juventus - galatasaray",
-    "mary cosby",
-    "jobe bellingham",
-    "marvel maximum collection",
-    "nyc snow storm weather forecast",
-    "wu tang clan",
-    "squatty potty"
+    "john fetterman",
+    "thunder vs pistons",
+    "raul asencio",
+    "mexico vs islandia",
+    "st john's vs uconn",
+    "lloyd kelly",
+    "ionq stock",
+    "fifa world cup",
+    "crm stock",
+    "jackson hewitt tax service"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "d56dc9a62841",
+        "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
+        "summary": "Many of hyperscalers have already made public commitments in to cover electricity cost increases.",
+        "url": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T20:42:14+00:00"
+      },
+      {
+        "id": "c77b02c4cd9b",
+        "title": "US cybersecurity agency CISA reportedly in dire shape amid Trump cuts and layoffs",
+        "summary": "Under the first year of the Trump administration, the U.S. cyber agency CISA has faced cuts, layoffs, and furloughs, as bipartisan lawmakers and cybersecurity industry sources say the agency is unprepared to handle a crisis.",
+        "url": "https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T20:26:57+00:00"
+      },
+      {
+        "id": "c9b9caa4fdae",
+        "title": "Welcome to the post-hype crypto market",
+        "summary": "Crypto is creeping back into the startup conversation, but at ETHDenver last week, the buzz was as much about Washington as it was about tokens. Policy shifts are rippling through the market as Tether and stablecoins face scrutiny, players like Stripe re-enter the conversation, and startups either f...",
+        "url": "https://techcrunch.com/video/welcome-to-the-post-hype-crypto-market/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T20:22:11+00:00"
+      },
+      {
+        "id": "65836b90ba27",
+        "title": "Alphabet-owned robotics software company Intrinsic joins Google",
+        "summary": "Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.",
+        "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T20:00:00+00:00"
+      },
+      {
+        "id": "b37a19f948f5",
+        "title": "Snapchat announces ‘The Snappys,’ its first-ever creator awards show",
+        "summary": "Snapchat is the latest social media platform to launch awards for creators, joining TikTok and Instagram.",
+        "url": "https://techcrunch.com/2026/02/25/snapchat-announces-the-snappys-its-first-ever-creator-awards-show/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T19:54:18+00:00"
+      },
+      {
+        "id": "0e29868b6c4d",
+        "title": "An accountant won a big jackpot on Kalshi by betting against DOGE",
+        "summary": "A tax accountant saw Elon Musk fans bidding up a Kalshi prediction market and saw a sure bet to make easy money.",
+        "url": "https://techcrunch.com/2026/02/25/an-accountant-won-a-big-jackpot-on-kalshi-by-betting-against-doge/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T19:36:03+00:00"
+      },
       {
         "id": "018a48d3fbc6",
         "title": "Inside the story of the US defense contractor who leaked hacking tools to Russia",
@@ -21,6 +69,14 @@
         "url": "https://techcrunch.com/2026/02/25/inside-the-story-of-the-us-defense-contractor-who-leaked-hacking-tools-to-russia/",
         "source": "TechCrunch",
         "published": "2026-02-25T19:30:47+00:00"
+      },
+      {
+        "id": "d9196975d234",
+        "title": "Could a vaccine prevent dementia? Shingles shot data only getting stronger.",
+        "summary": "Latest data hints that benefits seen so far could be underestimates.",
+        "url": "https://arstechnica.com/health/2026/02/could-a-vaccine-prevent-dementia-shingles-shot-data-only-getting-stronger/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-25T19:29:50+00:00"
       },
       {
         "id": "b89f9ccdd191",
@@ -49,7 +105,7 @@
       {
         "id": "10d44b41bce1",
         "title": "The public opposition to AI infrastructure is heating up",
-        "summary": "Public backlash over the data center boom is leading to a variety of draconian policies—including bans on new construction.",
+        "summary": "Public backlash over the data center boom is leading to a variety of draconian policies — including bans on new construction.",
         "url": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
         "source": "TechCrunch",
         "published": "2026-02-25T19:03:34+00:00"
@@ -157,65 +213,25 @@
         "url": "https://www.theguardian.com/technology/2026/feb/25/trtreasury-blair-thinktank-advise-on-ai-use-public-services",
         "source": "Business | The Guardian",
         "published": "2026-02-25T16:51:32+00:00"
-      },
-      {
-        "id": "ed2d84a0cc6d",
-        "title": "Labour ministers exploring ways of easing burden of plan 2 student loans",
-        "summary": "Government looking at options such as increasing loan repayment thresholds amid growing pressureMinisters are examining ways to ease the burden of student loans after weeks of pressure over a policy pulling more people into repayments, the Guardian understands.The Treasury and the Department for Edu...",
-        "url": "https://www.theguardian.com/money/2026/feb/25/ministers-explore-easing-burden-student-loans-university-graduates",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T16:48:47+00:00"
-      },
-      {
-        "id": "b0da171e70f9",
-        "title": "Table for one: is eating lunch at work on your own a bad thing?",
-        "summary": "In France, they think it is, alarmed by more and more young people choosing to do so. They should see how many eat alone in the UK …Name: The lonely lunch.Age: Recent, but growing. Continue reading...",
-        "url": "https://www.theguardian.com/food/2026/feb/25/table-for-one-is-eating-lunch-at-work-on-your-own-a-bad-thing",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T16:08:26+00:00"
-      },
-      {
-        "id": "960b47ca2587",
-        "title": "Why the energy price cap in Great Britain is falling from April",
-        "summary": "Cap on average dual-fuel bill is to be reduced by 7% to £1,641 a year, but the saving is less than the chancellor promised• Energy bills will fall by £117 for millions of households in Great Britain from AprilThe average energy bill for millions of households will fall by £10 a month in the spring, ...",
-        "url": "https://www.theguardian.com/money/2026/feb/25/why-the-energy-price-cap-great-britain-is-falling-april",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T16:05:42+00:00"
-      },
-      {
-        "id": "abd62e12e7ad",
-        "title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026",
-        "summary": "Apply to speak at TechCrunch Founder Summit 2026 by April 17 for a chance to lead a roundtable or breakout session for 1,000 founders and investors. If you’ve built, backed, or operated inside high-growth startups, your experience could shape how the next wave of founders scales.",
-        "url": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T16:00:00+00:00"
-      },
-      {
-        "id": "d88c49899d3d",
-        "title": "Student loan crisis in England and Wales is a scam against graduates, MPs say",
-        "summary": "Labour backbenchers turn on Rachel Reeves as MP claims former students are stuck in a loans ‘Hotel California’Angry backbench Labour MPs have attacked ministers over the student loans crisis, saying graduates are being “outrageously scammed”.During a Commons Westminster Hall debate on Wednesday, sev...",
-        "url": "https://www.theguardian.com/money/2026/feb/25/student-loan-crisis-scam-on-graduates-angry-labour",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T15:57:49+00:00"
-      },
-      {
-        "id": "03622db6607d",
-        "title": "About 12% of US teens turn to AI for emotional support or advice",
-        "summary": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
-        "url": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T15:52:03+00:00"
-      },
-      {
-        "id": "4075b0c308c4",
-        "title": "Trump's MAHA influencer pick for surgeon general goes before Senate",
-        "summary": "Casey Means holds no active medical license and promotes alternative medicine.",
-        "url": "https://arstechnica.com/health/2026/02/rfk-jr-ally-casey-means-faces-senate-for-surgeon-general-confirmation-hearing/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-25T15:46:08+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "3956db3e63ed",
+        "title": "tldraw issue: Move tests to closed source repo",
+        "summary": "tldraw issue: Move tests to closed source repo\nIt's become very apparent over the past few months that a comprehensive test suite is enough to build a completely fresh implementation of any open source library from scratch, potentially in a different language.\nThis has worrying implications for open...",
+        "url": "https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-25T21:06:53+00:00"
+      },
+      {
+        "id": "94b177009ed5",
+        "title": "Riley Walz, the Jester of Silicon Valley, Is Joining OpenAI",
+        "summary": "The software engineer is famous for his online stunts. Now he’s joining the company behind ChatGPT to work on new ways for humans to use AI systems.",
+        "url": "https://www.wired.com/story/openai-hires-riley-walz/",
+        "source": "Business Latest",
+        "published": "2026-02-25T19:59:26+00:00"
+      },
       {
         "id": "b1686ba331e3",
         "title": "OpenClaw Users Are Allegedly Bypassing Anti-Bot Systems",
@@ -399,22 +415,6 @@
         "url": "https://www.twreporter.org/a/podcast-2026-02-25",
         "source": "報導者",
         "published": "2026-02-24T16:00:00+00:00"
-      },
-      {
-        "id": "35fdf267d0aa",
-        "title": "以戲書寫台灣與自身：「當代戲曲最佳詮釋者」施如芳，把故事過得比生活大",
-        "summary": "被譽為「當代台灣戲曲的最佳詮釋者」的施如芳，近年創作重心從古典走向台灣歷史；去年書寫楊麗花的《如有神在》更獲得台北國際書展獎項肯定。面對自我與台灣的未竟之問，施如芳在欲語還休間、真誠地在迷霧中審視自己，愈是誠懇，愈不肯就範。",
-        "url": "https://www.twreporter.org/a/interview-playwright-shih-ju-fang",
-        "source": "報導者",
-        "published": "2026-02-24T16:00:00+00:00"
-      },
-      {
-        "id": "39f62cf4863e",
-        "title": "Reddit fined £14.5m in UK over use of under-13s’ data",
-        "summary": "Information Commissioner’s Office imposes largest fine yet for a breach of children’s privacy The UK information regulator has fined the social news service Reddit £14.5m for using the data of children under the age of 13 unlawfully and potentially exposing them to inappropriate and harmful content....",
-        "url": "https://www.theguardian.com/technology/2026/feb/24/reddit-fined-uk-children-under-13-data",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-24T15:57:23+00:00"
       }
     ],
     "序(month)": [
