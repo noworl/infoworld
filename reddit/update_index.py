@@ -3,7 +3,7 @@
 import os
 import re
 
-reddit_dir = "/Users/lyd/Dropbox/infoworld/reddit"
+reddit_dir = os.path.join(os.path.dirname(__file__))
 index_file = os.path.join(reddit_dir, "index.html")
 
 # 掃描所有 HTML 檔案
