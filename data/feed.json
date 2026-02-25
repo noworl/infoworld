@@ -1,23 +1,63 @@
 {
-  "updated_at": "2026-02-25T21:49:54.263218+00:00",
+  "updated_at": "2026-02-25T23:18:01.824006+00:00",
   "trending": [
-    "john fetterman",
-    "thunder vs pistons",
-    "raul asencio",
-    "mexico vs islandia",
-    "st john's vs uconn",
-    "lloyd kelly",
-    "ionq stock",
-    "fifa world cup",
-    "crm stock",
-    "jackson hewitt tax service"
+    "tim gunn",
+    "wake forest basketball",
+    "lloyd cushenberry",
+    "gta 6",
+    "ella langley",
+    "kings vs rockets",
+    "cruzeiro x corinthians",
+    "bridgerton season 4 part 2",
+    "blueberry recall 2026",
+    "osimhen"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "285fab613bf2",
+        "title": "Nvidia has another record quarter amid record capex spends",
+        "summary": "\"The demand for tokens in the world has gone completely exponential,\" Nvidia CEO Jensen Huang said about the company's earnings.",
+        "url": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T23:04:42+00:00"
+      },
+      {
+        "id": "077e8e85b310",
+        "title": "Judge: xAI can’t claim OpenAI stole trade secrets just by hiring ex-staffers",
+        "summary": "Even twisting an ex-employee's text to favor xAI's reading fails to sway judge.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-25T22:09:21+00:00"
+      },
+      {
+        "id": "edf978504535",
+        "title": "France’s Engie strikes deal to buy UK Power Networks for £10.5bn",
+        "summary": "French utility to acquire owner of electricity cables and power lines across London, south-east and east of EnglandA French utility has agreed to buy the owner of the electricity cables and power lines across London, the south-east and the east of England in a deal worth £10.5bn.Paris-headquartered ...",
+        "url": "https://www.theguardian.com/business/2026/feb/25/frances-engie-strikes-deal-to-buy-uk-power-networks-for-105bn",
+        "source": "Business | The Guardian",
+        "published": "2026-02-25T21:43:28+00:00"
+      },
+      {
+        "id": "c3ff7ba28168",
+        "title": "The Galaxy S26 is faster, more expensive, and even more chock-full of AI",
+        "summary": "Samsung's Galaxy S26 series is available for preorder today and ships on March 11.",
+        "url": "https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-25T21:41:27+00:00"
+      },
+      {
+        "id": "b7d02f37cc38",
+        "title": "Judge doesn't trust DOJ with search of devices seized from Wash. Post reporter",
+        "summary": "Court to search devices itself instead of letting government have full access.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/judge-doesnt-trust-doj-with-search-of-devices-seized-from-wash-post-reporter/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-25T20:53:54+00:00"
+      },
+      {
         "id": "d56dc9a62841",
         "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-        "summary": "Many of hyperscalers have already made public commitments in to cover electricity cost increases.",
+        "summary": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
         "url": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
         "source": "TechCrunch",
         "published": "2026-02-25T20:42:14+00:00"
@@ -173,46 +213,6 @@
         "url": "https://www.theguardian.com/business/2026/feb/25/john-lewis-scraps-deal-build-1000-rental-homes",
         "source": "Business | The Guardian",
         "published": "2026-02-25T18:04:32+00:00"
-      },
-      {
-        "id": "56cd01fafc2d",
-        "title": "Gemini can now automate some multi-step tasks on Android",
-        "summary": "Gemini on Android will be able to automate tasks involving rideshare requests, or grocery or food delivery, says Google.",
-        "url": "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T18:00:00+00:00"
-      },
-      {
-        "id": "4b4cb88db62b",
-        "title": "OpenAI COO says ads will be ‘an iterative process’",
-        "summary": "COO Brad Lightcap noted that ads can add to the product experience of users if they are done right. He urged to give OpenAI a few months to see how the company fares in rolling out the product.",
-        "url": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T17:37:37+00:00"
-      },
-      {
-        "id": "35045b96028e",
-        "title": "Diageo slashes dividend and vows to address Guinness shortage in London",
-        "summary": "Drinks maker reduces sales and profit forecast for second time in four months amid weak demand in US and China  Diageo has slashed its dividend and cut its annual sales and profit forecast for the second time in four months, as the maker of Guinness warned of capacity constraints affecting drinkers ...",
-        "url": "https://www.theguardian.com/business/2026/feb/25/diageo-slashes-dividend-and-vows-to-address-guinness-capacity-constraints-in-london",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T17:16:24+00:00"
-      },
-      {
-        "id": "6308ebc817ab",
-        "title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
-        "summary": "Peter Steinberger talks about the creation of his viral AI agent OpenClaw and how being more \"playful\" makes for a better way to learn AI coding.",
-        "url": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T16:54:46+00:00"
-      },
-      {
-        "id": "ecd641c0e14d",
-        "title": "Treasury calls in Blair thinktank to advise on using AI across public services",
-        "summary": "Unimpressed tech equity campaigners compare move to ‘inviting in foxes to consult on the future of the henhouse’Ministers have called in Tony Blair’s thinktank and private tech companies to guide them on deploying AI across the UK government in a move campaigners compared to “inviting in foxes to co...",
-        "url": "https://www.theguardian.com/technology/2026/feb/25/trtreasury-blair-thinktank-advise-on-ai-use-public-services",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T16:51:32+00:00"
       }
     ],
     "破(day)": [
