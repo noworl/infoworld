@@ -1,19 +1,107 @@
 {
-  "updated_at": "2026-02-24T23:05:37.956063+00:00",
+  "updated_at": "2026-02-25T05:17:12.819953+00:00",
   "trending": [
-    "heat vs bucks",
-    "tgl golf",
-    "hornets vs bulls",
-    "warriors vs pelicans",
-    "davis webb",
-    "zachery ty bryan",
-    "mavericks vs nets",
-    "taylor decker",
-    "knicks vs cavaliers",
-    "northwestern vs indiana"
+    "padma lakshmi",
+    "orlando magic vs lakers match player stats",
+    "millionaire for life",
+    "mikie sherrill",
+    "deandre ayton",
+    "sean duffy",
+    "jaden mcdaniels",
+    "julius randle",
+    "lakers",
+    "byu basketball"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "5b672cab9046",
+        "title": "‘Strong rebound’ for UK housing market with 6% more homes for sale than a year ago",
+        "summary": "Zoopla says it is on target for highest number of new listings on its site in any February in a decade Spring has come early to the UK housing market, with a surge in people listing their homes for sale as confidence returns to the sector, a report by the property website Zoopla found.The site said ...",
+        "url": "https://www.theguardian.com/money/2026/feb/25/uk-housing-market-more-homes-for-sale-zoopla",
+        "source": "Business | The Guardian",
+        "published": "2026-02-25T05:00:01+00:00"
+      },
+      {
+        "id": "7b7bcb88d572",
+        "title": "India’s AI boom pushes firms to trade near-term revenue for users",
+        "summary": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
+        "url": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T02:00:00+00:00"
+      },
+      {
+        "id": "bf3239f9a9f2",
+        "title": "Nvidia challenger AI chip startup MatX raised $500M",
+        "summary": "The startup was founded by former Google TPU engineers in 2023.",
+        "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T00:45:47+00:00"
+      },
+      {
+        "id": "aec888891ef4",
+        "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+        "summary": "Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve.",
+        "url": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T00:37:59+00:00"
+      },
+      {
+        "id": "5c9f6890cf45",
+        "title": "Boozy chimps fail urine test, confirm hotly debated theory",
+        "summary": "Spare a thought for the intrepid graduate students who spent last summer in Africa collecting chimp urine.",
+        "url": "https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-25T00:05:05+00:00"
+      },
+      {
+        "id": "7180e10e57d9",
+        "title": "Pop-up journals for policy research: can temporary titles deliver answers?",
+        "summary": "Nature, Published online: 25 February 2026; doi:10.1038/d41586-026-00446-7Journals that focus on specific research questions could help to bridge the science–policy gap, if they can attract researchers.",
+        "url": "https://www.nature.com/articles/d41586-026-00446-7",
+        "source": "Nature",
+        "published": "2026-02-25T00:00:00+00:00"
+      },
+      {
+        "id": "35607b5bca55",
+        "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+        "summary": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model.",
+        "url": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T23:32:00+00:00"
+      },
+      {
+        "id": "2c6b2257e020",
+        "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws",
+        "summary": "Apple complies with new age-assurance laws in the U.S. and abroad, including those that block users from downloading apps aimed at adults.",
+        "url": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T23:21:54+00:00"
+      },
+      {
+        "id": "c8fc01aab394",
+        "title": "Uber engineers built an AI version of their boss",
+        "summary": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
+        "url": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+        "source": "TechCrunch",
+        "published": "2026-02-24T23:09:28+00:00"
+      },
+      {
+        "id": "43263ff12e67",
+        "title": "WBD says Paramount’s new, higher offer could be “superior” to Netflix's",
+        "summary": "WBD's board is still reviewing the offer.",
+        "url": "https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-24T22:52:52+00:00"
+      },
+      {
+        "id": "2da7ba924aa7",
+        "title": "Following 35% growth, solar has passed hydro on US grid",
+        "summary": "Coal makes a bit of a comeback, if only by accident.",
+        "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-24T22:40:08+00:00"
+      },
       {
         "id": "94fda2a1ebb3",
         "title": "Stripe is reportedly eyeing deal to buy some or all of PayPal",
@@ -125,97 +213,33 @@
         "url": "https://www.theguardian.com/commentisfree/2026/feb/24/the-guardian-view-on-temporary-accommodation-bills-short-term-fixes-must-be-backed-up-by-housebuilding",
         "source": "Business | The Guardian",
         "published": "2026-02-24T19:06:28+00:00"
-      },
-      {
-        "id": "d587a311f685",
-        "title": "Treasury sanctions Russian zero-day broker accused of buying exploits stolen from US defense contractor",
-        "summary": "The U.S. Treasury announced it was imposing sanctions against a Russian broker of zero-day exploits, its founder and two affiliates, citing a threat to U.S. national security. Another affiliated zero-day broker in the United Arab Emirates was also sanctioned.",
-        "url": "https://techcrunch.com/2026/02/24/treasury-sanctions-russian-zero-day-broker-accused-of-buying-exploits-stolen-from-u-s-defense-contractor/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T19:01:00+00:00"
-      },
-      {
-        "id": "88b84f3b0e13",
-        "title": "Google adds a way to create automated workflows to Opal",
-        "summary": "The company said that a new agent being introduced in Opal will allow users to create mini-apps that can let them plan and execute tasks using text prompts.",
-        "url": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T19:00:00+00:00"
-      },
-      {
-        "id": "d843e1b86972",
-        "title": "Spotify and Liquid Death release a limited-edition speaker shaped like … an urn?",
-        "summary": "Spotify and Liquid Death launched what might be the wildest product of the year: a speaker shaped like a urn.",
-        "url": "https://techcrunch.com/2026/02/24/spotify-and-liquid-death-release-a-limited-edition-speaker-shaped-like-an-urn/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T18:48:13+00:00"
-      },
-      {
-        "id": "f465ec97f4b9",
-        "title": "In a replay of 2019, Apple says a single desktop Mac will be manufactured in the US",
-        "summary": "Apple is still working to get favorable tariff treatment from the Trump administration.",
-        "url": "https://arstechnica.com/apple/2026/02/in-a-replay-of-2019-apple-says-a-single-desktop-mac-will-be-manufactured-in-the-us/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-24T18:46:03+00:00"
-      },
-      {
-        "id": "a567617248eb",
-        "title": "Farmers in England face losses under new cap on sustainable farming payments",
-        "summary": "Environment secretary says payments will be limited to £100,000 per farm so ‘more farmers can benefit’Some farmers will lose money by opting into environment schemes under new plans to cap payments available for sustainable farming.Emma Reynolds, the environment secretary, said the new system is “fa...",
-        "url": "https://www.theguardian.com/environment/2026/feb/24/british-farmers-lose-money-environmental-schemes-under-new-plans",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T18:27:22+00:00"
-      },
-      {
-        "id": "459417eeecfe",
-        "title": "Twitch is overhauling its suspensions policy",
-        "summary": "The company is implementing two suspension types: streaming suspensions and chatting suspensions.",
-        "url": "https://techcrunch.com/2026/02/24/twitch-is-overhauling-its-suspensions-policy/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T18:00:00+00:00"
-      },
-      {
-        "id": "a4af9eac24c5",
-        "title": "Flawed council shake-up plans will not deliver savings | Letters",
-        "summary": "Readers respond to Polly Toynbee’s article on the government’s plans to overhaul local governmentPolly Toynbee is correct to point out the foolishness of a massive local government reorganisation, given other priorities (Is No 10 seeking its own destruction? Why else would it botch its council plans...",
-        "url": "https://www.theguardian.com/society/2026/feb/24/flawed-council-shake-up-plans-will-not-deliver-savings",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T17:49:29+00:00"
-      },
-      {
-        "id": "04cf7dccb26a",
-        "title": "Overcoming the angst of auto-renewal | Letters",
-        "summary": "Readers respond to Adrian Chiles’s column about needing to keep an eye on the cost of services regularly paid forRe: Adrian Chiles’s column (My breakdown cover was extortionate – and that taught me an important lesson, 18 February). My dad was a member of the AA for 60 years and called them out abou...",
-        "url": "https://www.theguardian.com/money/2026/feb/24/overcoming-the-angst-of-auto-renewal",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T17:49:24+00:00"
-      },
-      {
-        "id": "a67e37390ef5",
-        "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
-        "summary": "There is a lot of talk around AI agents taking over business processes and claiming that \"SaaS is dead.\" While these predictions have moved SaaS stocks at times, they haven't really come true.",
-        "url": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T17:44:34+00:00"
-      },
-      {
-        "id": "cec7b6de56c0",
-        "title": "Donald Trump’s new 10% global tariff comes into effect",
-        "summary": "US president had said he would raise levy to 15% after last week’s supreme court rulingDonald Trump’s new global tariffs have taken effect at 10%, even though last weekend he had threatened a higher rate, of 15%, providing “some relief” for British businesses, according to a lobby group.After the US...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/24/donald-trump-global-tariff-us-levy",
-        "source": "Business | The Guardian",
-        "published": "2026-02-24T17:35:53+00:00"
-      },
-      {
-        "id": "87da75a69a59",
-        "title": "Stripe’s valuation soars 74% to $159 billion",
-        "summary": "Stripe has conducted another tender offer, where employees sell shares. Investors include Thrive Capital, Coatue, a16z, and Stripe itself.",
-        "url": "https://techcrunch.com/2026/02/24/stripes-valuation-soars-74-to-159-billion/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T17:28:23+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "d550b18b96bf",
+        "title": "Quoting Kellan Elliott-McCrea",
+        "summary": "It’s also reasonable for people who entered technology in the last couple of decades because it was good job, or because they enjoyed coding to look at this moment with a real feeling of loss. That feeling of loss though can be hard to understand emotionally for people my age who entered tech becaus...",
+        "url": "https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-25T03:30:32+00:00"
+      },
+      {
+        "id": "bffef749c14f",
+        "title": "Linear walkthroughs",
+        "summary": "Agentic Engineering Patterns &gt;\n    Sometimes it's useful to have a coding agent give you a structured walkthrough of a codebase. \nMaybe it's existing code you need to get up to speed on, maybe it's your own code that you've forgotten the details of, or maybe you vibe coded the whole thing and nee...",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-25T01:07:10+00:00"
+      },
+      {
+        "id": "5438c19d3535",
+        "title": "「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史",
+        "summary": "政大文學院院長陳秀芬從學生時期就對中醫充滿興趣，儘管沒走向懸壺濟世之路，卻成為中國古代醫療史的重要學者。 拍攝 [&#8230;]\nThe post 「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/hsiu-fen-chen_a/",
+        "source": "人文．島嶼",
+        "published": "2026-02-25T00:00:36+00:00"
+      },
       {
         "id": "a2f131f15b28",
         "title": "Éliane Radigue has died at 94; portraits – “the sound before sound”",
@@ -391,33 +415,25 @@
         "url": "https://cdm.link/ardour-9-2-free-and-open-daw/",
         "source": "CDM Create Digital Music",
         "published": "2026-02-23T20:31:38+00:00"
-      },
-      {
-        "id": "2b896ad41d30",
-        "title": "‘Uncanny Valley’: AI Researcher Resignations, Bots Hiring Humans, and Evie Magazine’s Party",
-        "summary": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
-        "source": "Business Latest",
-        "published": "2026-02-23T19:28:13+00:00"
-      },
-      {
-        "id": "b70ab0e5f683",
-        "title": "Ladybird adopts Rust, with help from AI",
-        "summary": "Ladybird adopts Rust, with help from AI\nReally interesting case-study from Andreas Kling on advanced, sophisticated use of coding agents for ambitious coding projects with critical code. After a few years hoping Swift's platform support outside of the Apple ecosystem would mature they switched track...",
-        "url": "https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-23T18:52:53+00:00"
-      },
-      {
-        "id": "4035f29663b4",
-        "title": "New datacentres risk doubling Great Britain’s electricity use, regulator says",
-        "summary": "Ofgem says about 140 proposed projects, driven by AI use, could require more power than current peak demandThe amount of power being sought by new datacentre projects in Great Britain would exceed the national current peak electricity consumption, according to an industry watchdog.Ofgem said about 1...",
-        "url": "https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-23T18:17:28+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "4d644364826f",
+        "title": "2026年GIS專題中心大專生暑期專題研習計畫：研究主題清單",
+        "summary": "詹大千老師研究室 預計招募名額：最多 2位暑期實習專題題目：1. TPASS對於通勤圈改變的時空分析2. 舒適 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/2026summer_intern_topics/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-25T01:23:50+00:00"
+      },
+      {
+        "id": "aa677e76aeea",
+        "title": "2026年中研院人社中心GIS專題中心大專生暑期專題研習計畫",
+        "summary": "目的 培育地理資訊科學研究人才，鼓勵並補助優秀學生利用暑假時間至本專題中心研習，認識專題中心內各研究人員研究領 [&#8230;]",
+        "url": "https://gis.rchss.sinica.edu.tw/2026summer_intern/",
+        "source": "中央研究院人社中心地理資訊科學研究專題中心",
+        "published": "2026-02-25T01:15:49+00:00"
+      },
       {
         "id": "d8a490e534ac",
         "title": "Mickey Tunes In: 1930 Comics and Cultural Production",
@@ -601,22 +617,6 @@
         "url": "https://blog.archive.org/2026/02/05/depths-of-wikipedia-creator-annie-rauwerda-on-fragile-internet-citations/",
         "source": "Internet Archive Blogs",
         "published": "2026-02-05T12:00:00+00:00"
-      },
-      {
-        "id": "d304818cc48b",
-        "title": "Mathematical spheres, an interview with Tom Johnson",
-        "summary": ".",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2539359?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2026-02-05T10:37:10+00:00"
-      },
-      {
-        "id": "b74af14f3341",
-        "title": "What Ultimately Is There?<br> Metaphysics and the Ruliad",
-        "summary": "The Wolfram Institute recently received a grant from the Templeton World Charity Foundation for “Computational Metaphysics”. I wrote this piece in part as a launching point for discussions with experts in traditional philosophy. Moving Metaphysics from Philosophy to Science “What ultimately is there...",
-        "url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
-        "source": "Stephen Wolfram Writings",
-        "published": "2026-02-04T20:24:57+00:00"
       }
     ]
   }
