@@ -1,26 +1,98 @@
 {
-  "updated_at": "2026-02-26T08:03:58.931240+00:00",
+  "updated_at": "2026-02-26T11:28:21.161288+00:00",
   "trending": [
-    "sam altman",
-    "wi vs sa",
-    "sony wf‑1000xm6",
-    "cubans",
-    "jake shane",
-    "leann rimes",
-    "max scherzer",
-    "valentin vacherot",
-    "jackson white",
-    "washington state basketball"
+    "snow storm",
+    "ind vs zim",
+    "daniil medvedev",
+    "monkey",
+    "tesla",
+    "ai-powered",
+    "geneva",
+    "west indies vs south africa",
+    "kalshi",
+    "sam altman"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "db417fb6c98b",
+        "title": "Workers decry Whirlpool’s job cuts amid offshoring, praise of Trump’s tariffs",
+        "summary": "The US has lost factory jobs amid promises of a tariff-led renaissanceWorkers at Whirlpool, the US’s largest appliance manufacturer and a champion of Donald Trump’s tariff policies, are criticizing the company for cutting jobs at an Iowa plant while bolstering production in Mexico.The job cuts at Wh...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/26/whirlpools-job-cuts-trumps-tariffs",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T11:00:39+00:00"
+      },
+      {
+        "id": "ee1a5d6c5dc3",
+        "title": "David Davis takes 'unusual step' of thanking Guardian for coverage of dual nationals – video",
+        "summary": "A Home Office minister, Mike Tapp, has rejected claims that the government failed to adequately communicate new border rules that could see British dual nationals barred from boarding flights to the UK. The former Conservative cabinet minister David Davis said three of his constituents only became a...",
+        "url": "https://www.theguardian.com/politics/video/2026/feb/26/home-office-denies-failing-to-communicate-new-border-rules-for-british-dual-nationals-video",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T10:52:46+00:00"
+      },
+      {
+        "id": "b1b85042a3ae",
+        "title": "WPP to sell assets and cut jobs in radical shake-up to counter AI threat",
+        "summary": "Group aims to be ‘simpler, lower-cost, AI-enabled business’ and achieve £500m of annual savings by 2028The beleaguered UK advertising group WPP has announced a radical restructure to counter the threat posed by the growth of artificial intelligence, including plans to sell assets and job cuts.Aiming...",
+        "url": "https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T10:24:58+00:00"
+      },
+      {
         "id": "24399ee0dd2a",
-        "title": "Nvidia fails to impress investors with blockbuster results, as AI adoption ‘skyrockets’ – business live",
-        "summary": "Rolling coverage of the latest economic and financial news“Uncertainty continues, both on the trade front and the geopolitical front,” the chief economist of the European Bank of Reconstruction and Development (EBRD) Beata Javorcik warned with some understatement, as she launched the London-based le...",
+        "title": "Nvidia fails to impress investors with blockbuster results; FTSE 100 pushed to record high by Rolls-Royce – business live",
+        "summary": "Rolling coverage of the latest economic and financial newsArtificial intelligence is boosting productivity in the euro zone but it is not yet causing a wave of layoffs due to greater automation of labour, European Central Bank President Christine Lagarde has claimed.Testifying to the European Parlia...",
         "url": "https://www.theguardian.com/business/live/2026/feb/26/nvidia-blockbuster-results-ai-stock-markets-wall-street-ftse-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-02-26T07:47:01+00:00"
+        "published": "2026-02-26T10:17:00+00:00"
+      },
+      {
+        "id": "e02a27b7465f",
+        "title": "Netflix or Paramount: who would be the best new owner of Warner Bros?",
+        "summary": "The ongoing battle over who will own the iconic film studio is set to have a major impact on what we, the viewers, get to watch in the futureIt’s not unusual for a corporate merger to take months and months to actually finalize, but even by those standards, the bidding for ownership of Warner Bros D...",
+        "url": "https://www.theguardian.com/film/2026/feb/26/netflix-paramount-best-new-owner-warner-bros",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T10:04:24+00:00"
+      },
+      {
+        "id": "ae3a3d0ce3db",
+        "title": "Leave big tech behind! How to replace Amazon, Google, X, Meta, Apple – and more",
+        "summary": "A handful of companies monopolise the web, with unprecedented access to our data. But there are many more ethical – and often distinctively European – alternativesThere’s not much to love about big tech these days. So many ills can be laid at its door: social media harms, misinformation, polarisatio...",
+        "url": "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T10:00:25+00:00"
+      },
+      {
+        "id": "a05c4c621363",
+        "title": "Keen bosses, strange mistakes and a looming threat: workers on training AI to do their jobs",
+        "summary": "Some say the technology is devaluing their work, while others reckon it is not yet – and might never be – good enough to replace them entirelyWorkers grappling with the rapid growth of artificial intelligence have said they feel “devalued” by the technology and warned of a downward trajectory in the...",
+        "url": "https://www.theguardian.com/technology/2026/feb/26/workers-training-ai-to-do-their-jobs",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T10:00:24+00:00"
+      },
+      {
+        "id": "9196a4660018",
+        "title": "Rolls-Royce profits soar 40% amid booming demand for AI datacentre power",
+        "summary": "Engine maker promises to give up to £9bn to shareholders over next three years as turnaround gathers paceRolls-Royce’s profits soared by 40% last year as the engineering company’s turnaround gathered pace, helped by booming demand for power from datacentres.The company reported underlying profits of...",
+        "url": "https://www.theguardian.com/business/2026/feb/26/rolls-royce-profits-soar-amid-booming-demand-for-ai-datacentre-power",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T09:43:51+00:00"
+      },
+      {
+        "id": "527c6307a46a",
+        "title": "Ocado to cut 1,000 jobs in £150m cost-saving drive",
+        "summary": "Retail technology business to reduce about 5% of global workforce, with two-thirds of job losses affecting UKBusiness live – latest updatesOcado is to cut 1,000 jobs as the retail technology business attempts to £150m in costs though a substantial restructuring programme.The company confirmed that a...",
+        "url": "https://www.theguardian.com/business/2026/feb/26/ocado-to-cut-1000-jobs-in-150m-cost-cutting-drive",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T08:29:30+00:00"
+      },
+      {
+        "id": "3c7406311115",
+        "title": "Home Office denies ‘absurd’ criticism over rule change that may leave dual nationals stranded",
+        "summary": "MPs raise cases of honeymooners and other Britons caught out by new passport requirements as minister rejects calls for grace period• Dual nationals: have you been prevented from travelling to the UK?The Home Office has dismissed as “absurd” claims that it failed to properly communicate new border r...",
+        "url": "https://www.theguardian.com/politics/2026/feb/26/home-office-criticism-dual-national-border-rules-stranded",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T08:23:38+00:00"
       },
       {
         "id": "1514b0d3eece",
@@ -45,6 +117,14 @@
         "url": "https://www.theguardian.com/science/audio/2026/feb/26/can-degrowth-save-the-climate-podcast",
         "source": "Business | The Guardian",
         "published": "2026-02-26T05:00:20+00:00"
+      },
+      {
+        "id": "d6c91a31aba8",
+        "title": "In a first, researchers film treetops glowing during thunderstorms",
+        "summary": "Glimmer sparked by electrical fields detected in nature for the first time",
+        "url": "https://www.science.org/content/article/first-researchers-film-treetops-glowing-during-thunderstorms",
+        "source": "Latest News from Science Magazine",
+        "published": "2026-02-26T05:00:00+00:00"
       },
       {
         "id": "7dbba4bbac0f",
@@ -75,6 +155,14 @@
         "title": "This compound enhances long-term memory of mice — but only in females",
         "summary": "Nature, Published online: 26 February 2026; doi:10.1038/d41586-026-00603-yAcetate helps the female rodents form memories but is less effective in males.",
         "url": "https://www.nature.com/articles/d41586-026-00603-y",
+        "source": "Nature",
+        "published": "2026-02-26T00:00:00+00:00"
+      },
+      {
+        "id": "b987b3df6685",
+        "title": "Health effects linger 20 generations after rats are exposed to fungicide",
+        "summary": "Nature, Published online: 26 February 2026; doi:10.1038/d41586-026-00555-3Scientists say the findings are a warning about the kinds of chemical that people are exposed to in the environment.",
+        "url": "https://www.nature.com/articles/d41586-026-00555-3",
         "source": "Nature",
         "published": "2026-02-26T00:00:00+00:00"
       },
@@ -125,97 +213,41 @@
         "url": "https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/",
         "source": "Ars Technica - All content",
         "published": "2026-02-25T21:41:27+00:00"
-      },
-      {
-        "id": "b7d02f37cc38",
-        "title": "Judge doesn't trust DOJ with search of devices seized from Wash. Post reporter",
-        "summary": "Court to search devices itself instead of letting government have full access.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/judge-doesnt-trust-doj-with-search-of-devices-seized-from-wash-post-reporter/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-25T20:53:54+00:00"
-      },
-      {
-        "id": "d56dc9a62841",
-        "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-        "summary": "Many hyperscalers have already made public commitments to cover electricity cost increases.",
-        "url": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T20:42:14+00:00"
-      },
-      {
-        "id": "c77b02c4cd9b",
-        "title": "US cybersecurity agency CISA reportedly in dire shape amid Trump cuts and layoffs",
-        "summary": "Under the first year of the Trump administration, the U.S. cyber agency CISA has faced cuts, layoffs, and furloughs, as bipartisan lawmakers and cybersecurity industry sources say the agency is unprepared to handle a crisis.",
-        "url": "https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T20:26:57+00:00"
-      },
-      {
-        "id": "c9b9caa4fdae",
-        "title": "Welcome to the post-hype crypto market",
-        "summary": "Crypto is creeping back into the startup conversation, but at ETHDenver last week, the buzz was as much about Washington as it was about tokens. Policy shifts are rippling through the market as Tether and stablecoins face scrutiny, players like Stripe re-enter the conversation, and startups either f...",
-        "url": "https://techcrunch.com/video/welcome-to-the-post-hype-crypto-market/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T20:22:11+00:00"
-      },
-      {
-        "id": "65836b90ba27",
-        "title": "Alphabet-owned robotics software company Intrinsic joins Google",
-        "summary": "Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.",
-        "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T20:00:00+00:00"
-      },
-      {
-        "id": "b37a19f948f5",
-        "title": "Snapchat announces ‘The Snappys,’ its first-ever creator awards show",
-        "summary": "Snapchat is the latest social media platform to launch awards for creators, joining TikTok and Instagram.",
-        "url": "https://techcrunch.com/2026/02/25/snapchat-announces-the-snappys-its-first-ever-creator-awards-show/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T19:54:18+00:00"
-      },
-      {
-        "id": "0e29868b6c4d",
-        "title": "An accountant won a big jackpot on Kalshi by betting against DOGE",
-        "summary": "A tax accountant saw Elon Musk fans bidding up a Kalshi prediction market and saw a sure bet to make easy money.",
-        "url": "https://techcrunch.com/2026/02/25/an-accountant-won-a-big-jackpot-on-kalshi-by-betting-against-doge/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T19:36:03+00:00"
-      },
-      {
-        "id": "018a48d3fbc6",
-        "title": "Inside the story of the US defense contractor who leaked hacking tools to Russia",
-        "summary": "The former boss of a U.S. hacking tools maker was jailed for selling highly sensitive software exploits to a Russian broker. This is how we first learned of his arrest, reported the story, and some of the unanswered questions we still have.",
-        "url": "https://techcrunch.com/2026/02/25/inside-the-story-of-the-us-defense-contractor-who-leaked-hacking-tools-to-russia/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T19:30:47+00:00"
-      },
-      {
-        "id": "d9196975d234",
-        "title": "Could a vaccine prevent dementia? Shingles shot data only getting stronger.",
-        "summary": "Latest data hints that benefits seen so far could be underestimates.",
-        "url": "https://arstechnica.com/health/2026/02/could-a-vaccine-prevent-dementia-shingles-shot-data-only-getting-stronger/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-25T19:29:50+00:00"
-      },
-      {
-        "id": "b89f9ccdd191",
-        "title": "Samsung shows off new display tech that adds a privacy screen to apps and notifications",
-        "summary": "The new privacy tech uses different types of pixels to let you block certain apps and notifications from being viewed by others.",
-        "url": "https://techcrunch.com/2026/02/25/samsung-shows-off-new-display-tech-that-adds-a-privacy-screen-to-apps-and-notifications/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T19:23:58+00:00"
-      },
-      {
-        "id": "1de55ca1d488",
-        "title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
-        "summary": "The wearable incentivizes healthy behavior with points that can be redeemed for health products.",
-        "url": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T19:10:04+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "edb597c3c373",
+        "title": "Why Sierra the Supercomputer Had to Die",
+        "summary": "For seven years, she ran high-security nuclear simulations for the US government. Now, this famous supercomputer is being put to death.",
+        "url": "https://www.wired.com/story/why-sierra-the-supercomputer-had-to-die/",
+        "source": "Business Latest",
+        "published": "2026-02-26T11:00:00+00:00"
+      },
+      {
+        "id": "ae3a3d0ce3db",
+        "title": "Leave big tech behind! How to replace Amazon, Google, X, Meta, Apple – and more",
+        "summary": "A handful of companies monopolise the web, with unprecedented access to our data. But there are many more ethical – and often distinctively European – alternativesThere’s not much to love about big tech these days. So many ills can be laid at its door: social media harms, misinformation, polarisatio...",
+        "url": "https://www.theguardian.com/technology/2026/feb/26/how-to-replace-amazon-google-x-meta-apple-alternatives",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-26T10:00:25+00:00"
+      },
+      {
+        "id": "a05c4c621363",
+        "title": "Keen bosses, strange mistakes and a looming threat: workers on training AI to do their jobs",
+        "summary": "Some say the technology is devaluing their work, while others reckon it is not yet – and might never be – good enough to replace them entirelyWorkers grappling with the rapid growth of artificial intelligence have said they feel “devalued” by the technology and warned of a downward trajectory in the...",
+        "url": "https://www.theguardian.com/technology/2026/feb/26/workers-training-ai-to-do-their-jobs",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-26T10:00:24+00:00"
+      },
+      {
+        "id": "4a8e9cf79e13",
+        "title": "Mumsnet calls for under-16s social media ban with cigarette-style health warnings",
+        "summary": "Resembling cigarette packet warnings, the ads highlight dangers and urge people to email MPs Mumsnet has launched a campaign to introduce a ban on social media for under-16s featuring health warnings in the style of those on cigarette packets.The deliberately provocative national advertising campaig...",
+        "url": "https://www.theguardian.com/society/2026/feb/26/mumsnet-campaign-demands-ban-social-media-under-16s",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-26T07:28:12+00:00"
+      },
       {
         "id": "1d9836cf627c",
         "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
@@ -231,6 +263,14 @@
         "url": "https://simonwillison.net/2026/Feb/26/benedict-evans/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-26T03:44:56+00:00"
+      },
+      {
+        "id": "e5249e47cb1d",
+        "title": "Nvidia quarterly earnings show immunity to AI bubble fears as it cashes in on data center boom",
+        "summary": "Chipmaker’s quarterly earnings surpassed Wall Street’s expectations every quarter for multiple years nowNvidia released its quarterly earnings on Wednesday, with the chipmaker revealing higher than expected revenues and extending its yearslong streak of surpassing Wall Street’s sky-high expectations...",
+        "url": "https://www.theguardian.com/technology/2026/feb/25/nvidia-quarterly-earnings-report-ai",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-25T22:09:56+00:00"
       },
       {
         "id": "3956db3e63ed",
@@ -257,14 +297,6 @@
         "published": "2026-02-25T19:00:00+00:00"
       },
       {
-        "id": "7bccd754707e",
-        "title": "Meta’s AI sending ‘junk’ tips to DoJ, US child abuse investigators say",
-        "summary": "Officers say flood of low-quality reports is draining resources and slowing cases amid New Mexico lawsuitMeta’s use of artificial intelligence software to moderate its social media platforms is generating large volumes of useless reports about cases of child sexual abuse, which are draining resource...",
-        "url": "https://www.theguardian.com/technology/2026/feb/25/meta-ai-junk-child-abuse-tips-doj",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-25T17:39:26+00:00"
-      },
-      {
         "id": "57e0c363cdbd",
         "title": "Claude Code Remote Control",
         "summary": "Claude Code Remote Control\nNew Claude Code feature dropped yesterday: you can now run a \"remote control\" session on your computer and then use the Claude Code for web interfaces (on web, iOS and native desktop app) to send prompts to that session.\nIt's a little bit janky right now. Initially when I ...",
@@ -279,6 +311,14 @@
         "url": "https://blog.google/company-news/inside-google/googlers/ask-a-techspert/what-is-a-world-model-project-genie/",
         "source": "Google DeepMind",
         "published": "2026-02-25T17:00:00+00:00"
+      },
+      {
+        "id": "ecd641c0e14d",
+        "title": "Treasury calls in Blair thinktank to advise on using AI across public services",
+        "summary": "Unimpressed tech equity campaigners compare move to ‘inviting in foxes to consult on the future of the henhouse’Ministers have called in Tony Blair’s thinktank and private tech companies to guide them on deploying AI across the UK government in a move campaigners compared to “inviting in foxes to co...",
+        "url": "https://www.theguardian.com/technology/2026/feb/25/trtreasury-blair-thinktank-advise-on-ai-use-public-services",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-25T16:51:32+00:00"
       },
       {
         "id": "3fa9e79548cd",
@@ -375,46 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-25T03:30:32+00:00"
-      },
-      {
-        "id": "bffef749c14f",
-        "title": "Linear walkthroughs",
-        "summary": "Agentic Engineering Patterns &gt;\n    Sometimes it's useful to have a coding agent give you a structured walkthrough of a codebase. \nMaybe it's existing code you need to get up to speed on, maybe it's your own code that you've forgotten the details of, or maybe you vibe coded the whole thing and nee...",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-25T01:07:10+00:00"
-      },
-      {
-        "id": "5438c19d3535",
-        "title": "「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史",
-        "summary": "政大文學院院長陳秀芬從學生時期就對中醫充滿興趣，儘管沒走向懸壺濟世之路，卻成為中國古代醫療史的重要學者。 拍攝 [&#8230;]\nThe post 「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史 appeared first on 人文．島嶼.",
-        "url": "https://humanityisland.nccu.edu.tw/hsiu-fen-chen_a/",
-        "source": "人文．島嶼",
-        "published": "2026-02-25T00:00:36+00:00"
-      },
-      {
-        "id": "a2f131f15b28",
-        "title": "Éliane Radigue has died at 94; portraits – “the sound before sound”",
-        "summary": "Who but Éliane Radigue could work with sound as a medium seemingly in the air and environment itself; whose presence spanned every epoch of electronic music and contemporary acoustic composition quite like her? Radigue has died at 94, as reported today by her label and publisher.\nThe post Éliane Rad...",
-        "url": "https://cdm.link/eliane-radigue-portraits/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-24T17:43:38+00:00"
-      },
-      {
-        "id": "b1915e696b47",
-        "title": "Meredith Hooper obituary",
-        "summary": "Author and historian whose studies of Antarctica provided an account of the human endeavour behind climate scienceThe writer and historian Meredith Hooper, who has died aged 86, had a particular affinity for Antarctica, the continent across the Southern Ocean from her native South Australia. It was ...",
-        "url": "https://www.theguardian.com/world/2026/feb/24/meredith-hooper-obituary",
-        "source": "Children and teenagers | The Guardian",
-        "published": "2026-02-24T16:54:09+00:00"
-      },
-      {
-        "id": "671ca4e925a6",
-        "title": "The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved",
-        "summary": "New research sheds light on what drives reddish water to emerge from underground to pour onto the Taylor Glacier.",
-        "url": "https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/",
-        "source": "Science Latest",
-        "published": "2026-02-24T16:31:42+00:00"
       }
     ],
     "序(month)": [
