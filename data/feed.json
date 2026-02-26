@@ -1,19 +1,67 @@
 {
-  "updated_at": "2026-02-25T23:18:01.824006+00:00",
+  "updated_at": "2026-02-26T05:14:49.826957+00:00",
   "trending": [
-    "tim gunn",
-    "wake forest basketball",
-    "lloyd cushenberry",
-    "gta 6",
-    "ella langley",
-    "kings vs rockets",
-    "cruzeiro x corinthians",
-    "bridgerton season 4 part 2",
-    "blueberry recall 2026",
-    "osimhen"
+    "jason bateman",
+    "kansas state vs colorado",
+    "blood moon total lunar eclipse",
+    "ole miss basketball",
+    "la galaxy",
+    "randal grichuk",
+    "utah state basketball",
+    "will clapp",
+    "paul heyman",
+    "joe rogan"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "f610f485f8d3",
+        "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
+        "summary": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
+        "url": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T01:59:12+00:00"
+      },
+      {
+        "id": "77155ae1cbe7",
+        "title": "Qantas unveils major changes to frequent flyer program and a bumper $1.46bn profit",
+        "summary": "Airline to allow members to roll over status credits, which unlock lounge access, priority boarding and baggage allowancesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastQantas is overhauling its frequent flyer program to entice member...",
+        "url": "https://www.theguardian.com/business/2026/feb/26/qantas-half-year-profit",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T01:13:35+00:00"
+      },
+      {
+        "id": "25839858c0f4",
+        "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
+        "summary": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
+        "url": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T00:00:00+00:00"
+      },
+      {
+        "id": "3cf286d5a996",
+        "title": "This compound enhances long-term memory of mice — but only in females",
+        "summary": "Nature, Published online: 26 February 2026; doi:10.1038/d41586-026-00603-yAcetate helps the female rodents form memories but is less effective in males.",
+        "url": "https://www.nature.com/articles/d41586-026-00603-y",
+        "source": "Nature",
+        "published": "2026-02-26T00:00:00+00:00"
+      },
+      {
+        "id": "23b6a3acafbb",
+        "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+        "summary": "Seattle-based Vercept developed complex agentic tools, including a computer-use agent that could complete tasks inside applications like a person with a laptop would.",
+        "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+        "source": "TechCrunch",
+        "published": "2026-02-25T23:49:19+00:00"
+      },
+      {
+        "id": "9bcaf60b2dfb",
+        "title": "Lawyers for US cancer sufferers challenge Bayer’s $7.25bn Roundup settlement deal",
+        "summary": "Proposed settlement would pay users of glyphosate-based weedkiller who have non-Hodgkin lymphoma $10,000 to $165,000A group of 14 law firms representing nearly 20,000 plaintiffs is seeking to intervene in Bayer’s proposed class action settlement of Roundup litigation, citing concerns that the deal w...",
+        "url": "https://www.theguardian.com/business/2026/feb/25/roundup-bayer-cancer-settlement-deal",
+        "source": "Business | The Guardian",
+        "published": "2026-02-25T23:23:57+00:00"
+      },
       {
         "id": "285fab613bf2",
         "title": "Nvidia has another record quarter amid record capex spends",
@@ -24,7 +72,7 @@
       },
       {
         "id": "077e8e85b310",
-        "title": "Judge: xAI can’t claim OpenAI stole trade secrets just by hiring ex-staffers",
+        "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit",
         "summary": "Even twisting an ex-employee's text to favor xAI's reading fails to sway judge.",
         "url": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/",
         "source": "Ars Technica - All content",
@@ -137,7 +185,7 @@
       {
         "id": "396e3149fc5b",
         "title": "Kalshi fined a MrBeast editor for insider trading on markets related to the YouTube star",
-        "summary": "Kalshi fined the MrBeast editor, Artem Kaptur, for over $20,000.",
+        "summary": "Kalshi fined the MrBeast editor, Artem Kaptur, over $20,000.",
         "url": "https://techcrunch.com/2026/02/25/kalshi-fined-a-mrbeast-editor-for-insider-trading-on-markets-related-to-the-youtube-star/",
         "source": "TechCrunch",
         "published": "2026-02-25T19:08:04+00:00"
@@ -165,57 +213,25 @@
         "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/25/drastic-dave-lewis-goes-vague-at-diageo",
         "source": "Business | The Guardian",
         "published": "2026-02-25T18:51:45+00:00"
-      },
-      {
-        "id": "8f7268171f0f",
-        "title": "Waymo to begin testing in Chicago and Charlotte",
-        "summary": "Waymo this week will begin mapping and collecting data in Chicago and Charlotte. The move comes as Waymo announces it is currently operating its robotaxis fully autonomously in 10 US cities.",
-        "url": "https://techcrunch.com/2026/02/25/waymo-to-begin-testing-in-chicago-and-charlotte/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T18:33:52+00:00"
-      },
-      {
-        "id": "2b4dcf16e2f6",
-        "title": "Doom Bar maker Sharp’s Brewery in Cornwall to be closed by US owner",
-        "summary": "Molson Coors says site, as well as national call centre in Wales, ‘no longer financially sustainable’The Cornish brewery that makes Doom Bar ale is to be closed by its US owner, throwing the popular beer brand’s future into doubt and putting about 200 jobs at risk.The drinks company Molson Coors sai...",
-        "url": "https://www.theguardian.com/food/2026/feb/25/doom-bar-sharps-brewery-cornwall-closed-us-owner-molson-coors",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T18:31:37+00:00"
-      },
-      {
-        "id": "f7633be5439b",
-        "title": "2026 Lexus RZ 550e review: Likable, but it needs improvement",
-        "summary": "It's not very efficient, and the synthetic gearshifts aren't great, but I liked it?",
-        "url": "https://arstechnica.com/cars/2026/02/2026-lexus-rz-550e-review-likable-but-it-needs-improvement/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-25T18:27:27+00:00"
-      },
-      {
-        "id": "1a0c5481f491",
-        "title": "RAM now represents 35 percent of bill of materials for HP PCs",
-        "summary": "RAM represented about 15 to 18 percent of PC costs last quarter, HP said.",
-        "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-25T18:21:38+00:00"
-      },
-      {
-        "id": "34c2210bbc39",
-        "title": "British public want deeper economic ties with EU, business secretary says",
-        "summary": "Peter Kyle signs cooperation deal on competition and says it is not a case of being nostalgic for pre-Brexit pastThe British public are “not nostalgic” for the pre-Brexit past but are pragmatic and want to move forward and “deepen” ties with the EU on trade and the economy, the business secretary, P...",
-        "url": "https://www.theguardian.com/politics/2026/feb/25/british-public-want-deeper-economic-ties-eu-business-secretary-says",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T18:11:16+00:00"
-      },
-      {
-        "id": "02e4b47673c9",
-        "title": "John Lewis scraps £500m deal to build 1,000 rental homes",
-        "summary": "Retailer said ‘fundamental shift in economic conditions’ made it hard for financial partner Aberdeen to raise fundsThe John Lewis Partnership is pulling out of a £500m deal to build almost 1,000 residential rental homes for rent in Bromley, Reading and West Ealing amid a “cautious property market”.T...",
-        "url": "https://www.theguardian.com/business/2026/feb/25/john-lewis-scraps-deal-build-1000-rental-homes",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T18:04:32+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "1d9836cf627c",
+        "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
+        "summary": "Google API Keys Weren&#x27;t Secrets. But then Gemini Changed the Rules.\nYikes! It turns out Gemini and Google Maps (and other services) share the same API keys... but Google Maps API keys are designed to be public, since they are embedded directly in web pages. Gemini API keys can be used to access...",
+        "url": "https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-26T04:28:55+00:00"
+      },
+      {
+        "id": "5cdb2f43dab1",
+        "title": "Quoting Benedict Evans",
+        "summary": "If people are only using this a couple of times a week at most, and can’t think of anything to do with it on the average day, it hasn’t changed their life. OpenAI itself admits the problem, talking about a ‘capability gap’ between what the models can do and what people do with them, which seems to m...",
+        "url": "https://simonwillison.net/2026/Feb/26/benedict-evans/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-26T03:44:56+00:00"
+      },
       {
         "id": "3956db3e63ed",
         "title": "tldraw issue: Move tests to closed source repo",
@@ -399,22 +415,6 @@
         "url": "https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/",
         "source": "Science Latest",
         "published": "2026-02-24T16:31:42+00:00"
-      },
-      {
-        "id": "ec6f529060e8",
-        "title": "go-size-analyzer",
-        "summary": "go-size-analyzer\nThe Go ecosystem is really good at tooling. I just learned about this tool for analyzing the size of Go binaries using a pleasing treemap view of their bundled dependencies.\nYou can install and run the tool locally, but it's also compiled to WebAssembly and hosted at gsa.zxilly.dev ...",
-        "url": "https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-24T16:10:06+00:00"
-      },
-      {
-        "id": "5ebada8a7719",
-        "title": "每年新生兒裡的700個秘密：借精卵生育子女後，家長該告知「基因」身世嗎？捐贈者怎麼想？",
-        "summary": "這集，跟著記者馥年與在此領域研究10年的黃于玲教授，從各方利益關係人聲音展開新的理解視角：家長是否告知身世，對透過捐贈精卵出生子女的心理與家庭關係有哪些影響？現行研究中，捐精卵者是怎麼想？借鏡國際，家長該如何開啟身世告知對話？",
-        "url": "https://www.twreporter.org/a/podcast-2026-02-25",
-        "source": "報導者",
-        "published": "2026-02-24T16:00:00+00:00"
       }
     ],
     "序(month)": [
@@ -437,7 +437,7 @@
       {
         "id": "4d644364826f",
         "title": "2026年GIS專題中心大專生暑期專題研習計畫：研究主題清單",
-        "summary": "詹大千老師研究室 預計招募名額：最多 2位暑期實習專題題目：1. TPASS對於通勤圈改變的時空分析2. 舒適 [&#8230;]",
+        "summary": "詹大千老師研究室 預計招募名額： 2位暑期實習專題題目：1. 交通數據的時空分析2. 環境因子對健康的影響研究 [&#8230;]",
         "url": "https://gis.rchss.sinica.edu.tw/2026summer_intern_topics/",
         "source": "中央研究院人社中心地理資訊科學研究專題中心",
         "published": "2026-02-25T01:23:50+00:00"
