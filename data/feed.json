@@ -1,19 +1,75 @@
 {
-  "updated_at": "2026-02-26T18:05:01.692186+00:00",
+  "updated_at": "2026-02-26T21:00:35.278528+00:00",
   "trending": [
-    "plover wi",
-    "stardew valley",
-    "anthony richardson",
-    "will zalatoris",
-    "ellie aghayeva",
-    "crvena zvezda vs losc",
-    "fiorentina vs jagiellonia białystok",
-    "earthquake today",
-    "europa league",
-    "mortgage rates"
+    "pink",
+    "rueben bain jr",
+    "bridgerton season 5",
+    "fiorentina",
+    "devonta lee",
+    "bologna vs brann",
+    "crossfit open 26.1",
+    "crystal palace - zrinjski",
+    "nicholas braimbridge",
+    "burger king whopper changes"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "de2552c893e5",
+        "title": "So, we’re getting Prada Meta AI glasses, right?",
+        "summary": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
+        "url": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T20:11:55+00:00"
+      },
+      {
+        "id": "549019685245",
+        "title": "Sophia Space raises $10M seed to demo novel space computers",
+        "summary": "The company's modular computer tiles offer a new vision for space data centers.",
+        "url": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T19:55:20+00:00"
+      },
+      {
+        "id": "24155107bb7c",
+        "title": "Memory shortage could cause the biggest dip in smartphone shipments in over a decade",
+        "summary": "IDC says phone makers will ship only 1.12 billion smartphones as compared to 1.26 billion last year.",
+        "url": "https://techcrunch.com/2026/02/26/memory-shortage-could-cause-the-biggest-smartphone-shipments-dip-in-over-a-decade/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T19:43:51+00:00"
+      },
+      {
+        "id": "8323d17c4f3a",
+        "title": "Mistral AI inks a deal with global consulting giant Accenture",
+        "summary": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
+        "url": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T19:17:27+00:00"
+      },
+      {
+        "id": "489b8b1dc1a9",
+        "title": "Ocado failing to deliver on its potential as one of UK’s great technology hopes",
+        "summary": "Firm’s automated warehouses are struggling to compete against swift deliveries from stores by bike ridersOcado to cut 1,000 jobs in £150m cost-saving driveOnly six years ago, the boss of Ocado Group was writing the obituary for supermarkets as he predicted that a surge in online grocery shopping dur...",
+        "url": "https://www.theguardian.com/business/2026/feb/26/ocado-failing-deliver-potential-uk-technology-hopes",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T18:44:52+00:00"
+      },
+      {
+        "id": "a4b58064124c",
+        "title": "UK social media ban for under-16s edges closer with Starmer expected to back it",
+        "summary": "Liz Kendall to launch consultation next week that will also explore alternatives such as curbs on infinite scrollingMinisters will take another step towards banning social media for under-16s next week as they launch a consultation on the policy, with government insiders increasingly certain Keir St...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/26/uk-social-media-ban-under-16s-consultation-keir-starmer-backing",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T18:11:45+00:00"
+      },
+      {
+        "id": "591fd7b1e6f3",
+        "title": "Democrats urge dropping plan to double gas exports as US energy prices soar",
+        "summary": "Families are ‘struggling with cost of heating their homes’, letter says as Trump repeatedly pledges to slash utility billsAs energy prices for US households soar nationwide, Democratic and progressive lawmakers are calling on the energy department to end its plan to double exports of liquefied natur...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/26/democrats-gas-exports-energy-prices",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T18:10:23+00:00"
+      },
       {
         "id": "063cfde9801e",
         "title": "Threads is testing a shortcut to quickly start DM conversations",
@@ -23,10 +79,34 @@
         "published": "2026-02-26T17:58:53+00:00"
       },
       {
-        "id": "c7f9799b2f16",
-        "title": "Read AI launches a email based ‘digital twin’ to help you with schedules and answers",
+        "id": "f5051b8062e7",
+        "title": "Subsidies for Rolls-Royce might seem a bit rich, but they are inevitable | Nils Pratley",
+        "summary": "Every country supports its aerospace business, while keeping the production at home is vital. At least with Rolls the UK is backing a winnerRolls-Royce, the engine-maker and defence firm that is spitting out so much cash it can shove £7bn to £9bn towards buying back shares over the next three years,...",
+        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/26/subsidies-for-rolls-royce-might-seem-a-bit-rich-but-they-are-inevitable",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T17:55:50+00:00"
+      },
+      {
+        "id": "8a3c80316030",
+        "title": "Drax to stop burning controversial Canadian wood within next year",
+        "summary": "Yorkshire plant has been criticised for taking material from some of British Columbia’s most environmentally important forestsThe owner of Drax power plant has started reducing the amount of Canadian wood pellets it burns, and will stop burning trees from British Columbia entirely within the next ye...",
+        "url": "https://www.theguardian.com/environment/2026/feb/26/drax-power-plant-to-stop-burning-controversial-canadian-wood-within-next-year",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T17:27:56+00:00"
+      },
+      {
+        "id": "c9ecd5a57ebd",
+        "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
+        "summary": "Google's new image model replaces the previous versions immediately.",
+        "url": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-26T17:12:10+00:00"
+      },
+      {
+        "id": "c5177c57b52e",
+        "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
         "summary": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.",
-        "url": "https://techcrunch.com/2026/02/26/read-ai-launches-a-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
+        "url": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
         "source": "TechCrunch",
         "published": "2026-02-26T17:00:00+00:00"
       },
@@ -57,7 +137,7 @@
       {
         "id": "b1def8464247",
         "title": "Walmart agrees to $100M settlement over deceptive pay practices in Spark Driver program",
-        "summary": "The suit said Walmart mislead drivers about their possible tips and would reduce their base pay, among other things.",
+        "summary": "The suit said Walmart would mislead drivers about their possible tips and would reduce their base pay, among other things.",
         "url": "https://techcrunch.com/2026/02/26/walmart-agrees-to-100m-settlement-over-deceptive-pay-practices-in-spark-driver-program/",
         "source": "TechCrunch",
         "published": "2026-02-26T16:37:13+00:00"
@@ -133,89 +213,49 @@
         "url": "https://techcrunch.com/2026/02/26/ebay-to-lay-off-800-staff/",
         "source": "TechCrunch",
         "published": "2026-02-26T15:10:45+00:00"
-      },
-      {
-        "id": "4bf52412a2ad",
-        "title": "Italian woman awarded compensation after breaking ankle while working from home",
-        "summary": "University of Padua employee fractured ankle when getting up to fetch documents during video meetingAn Italian woman who fell and broke her ankle while working from home has obtained compensation in an unprecedented court ruling hailed a victory for workers’ rights.In April 2022, the woman, an emplo...",
-        "url": "https://www.theguardian.com/world/2026/feb/26/italian-woman-awarded-compensation-breaking-ankle-working-from-home",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T15:04:19+00:00"
-      },
-      {
-        "id": "92e9096e6c76",
-        "title": "Tell us: how are your finances looking ahead of the spring forecast?",
-        "summary": "We want to hear how people across the UK are managing their money as Rachel Reeves prepares to set out the latest economic outlookNext Tuesday the chancellor, Rachel Reeves, will update the country on the state of the economy when the spring forecast is delivered to parliament.The government is not ...",
-        "url": "https://www.theguardian.com/business/2026/feb/26/tell-us-how-are-your-finances-looking-ahead-of-the-spring-forecast",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T15:03:50+00:00"
-      },
-      {
-        "id": "5c72897297e2",
-        "title": "Plan to pedestrianise London’s Oxford Street given official go-ahead",
-        "summary": "Sadiq Khan promises to create ‘world-leading urban space’, with remaining traffic removed this summerPlans to pedestrianise London’s Oxford Street have been given the official go-ahead, with the mayor, Sadiq Khan, promising to create a “world-leading urban space”.The remaining traffic – buses and ta...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/26/plan-to-pedestrianise-london-oxford-street-given-official-go-ahead",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T15:03:24+00:00"
-      },
-      {
-        "id": "5af007b2cf72",
-        "title": "Homeland security awarded $250,000 contract to Trump-aligned consulting firm",
-        "summary": "Exclusive: DHS chose firm with ties to Corey Lewandowski after demanding partisan loyalty, in departure from federal procurement guidelinesThe US Department of Homeland Security has awarded a $250,000 public relations contract to a Republican political consulting firm led by former Trump campaign of...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/26/homeland-security-contract-trump",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T15:00:09+00:00"
-      },
-      {
-        "id": "058a10ce5b00",
-        "title": "2 days left: Lock in the best discounts for TechCrunch Disrupt 2026",
-        "summary": "Register now to secure discounts of up to $680 on your TechCrunch Disrupt 2026 pass. Offer ends tomorrow, February 27, at 11:59 p.m. PT.",
-        "url": "https://techcrunch.com/2026/02/26/2-days-left-lock-in-the-best-discounts-for-techcrunch-disrupt-2026/",
-        "source": "TechCrunch",
-        "published": "2026-02-26T15:00:00+00:00"
-      },
-      {
-        "id": "2b1a01349410",
-        "title": "New York sues Valve for enabling \"illegal gambling\" with loot boxes",
-        "summary": "The ability to resell Steam items for real value is key to the state's case.",
-        "url": "https://arstechnica.com/gaming/2026/02/new-york-sues-valve-for-enabling-illegal-gambling-with-loot-boxes/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-26T14:57:36+00:00"
-      },
-      {
-        "id": "e7d03515953a",
-        "title": "British-Danish couple say new UK passport rules may separate them from children",
-        "summary": "Family learned of change while abroad, and fear dual-national children will have to stay with relatives while they return to apply for passportsA British man and a Danish woman fear they will be separated from their young children in Copenhagen airport because of new border control rules on British ...",
-        "url": "https://www.theguardian.com/politics/2026/feb/26/british-danish-couple-uk-passport-rules-dual-national-children",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T14:52:26+00:00"
-      },
-      {
-        "id": "cd622287ab3a",
-        "title": "US ‘bullying’ could scupper carbon levy on shipping, warn experts",
-        "summary": "Panama joins smaller nations in dropping support for policy aimed at cutting maritime emissionsUS “bullying” over a proposed carbon levy on shipping appears to be paying off, experts have said, after Panama reversed its support for the measure.In a leaked document seen by the Guardian, the key marit...",
-        "url": "https://www.theguardian.com/environment/2026/feb/26/us-bullying-could-scupper-carbon-levy-shipping",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T14:46:25+00:00"
-      },
-      {
-        "id": "df5f46d6ec61",
-        "title": "A non-public document reveals that science may not be prioritized on next Mars mission",
-        "summary": "For some reason, NASA chose not to publicly release its Mars orbiter objectives.",
-        "url": "https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-26T14:44:25+00:00"
-      },
-      {
-        "id": "a528ae527e83",
-        "title": "15 state attorneys general sue RFK Jr. over \"anti-science\" vaccine policy",
-        "summary": "Trump administration’s reduced vaccine schedule “throws science out the window.”",
-        "url": "https://arstechnica.com/health/2026/02/15-state-attorneys-general-sue-rfk-jr-over-anti-science-vaccine-policy/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-26T14:14:55+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "ea7a90f88f99",
+        "title": "This AI Agent Is Designed to Not Go Rogue",
+        "summary": "The new open source project IronCurtain uses a unique method to secure and constrain AI assistant agents before they flip your digital life upside down.",
+        "url": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
+        "source": "Business Latest",
+        "published": "2026-02-26T20:54:51+00:00"
+      },
+      {
+        "id": "ab14ae8433c1",
+        "title": "Hoard things you know how to do",
+        "summary": "Agentic Engineering Patterns &gt;\n    Many of my tips for working productively with coding agents are extensions of advice I've found useful in my career without them. Here's a great example of that: hoard things you know how to do.\nA big part of the skill in building software is understanding what'...",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-26T20:33:27+00:00"
+      },
+      {
+        "id": "a4b89731017a",
+        "title": "How Chinese AI Chatbots Censor Themselves",
+        "summary": "Researchers from Stanford and Princeton found that Chinese AI models are more likely than their Western counterparts to dodge political questions or deliver inaccurate answers.",
+        "url": "https://www.wired.com/story/made-in-china-how-chinese-ai-chatbots-censor-themselves/",
+        "source": "Business Latest",
+        "published": "2026-02-26T20:08:08+00:00"
+      },
+      {
+        "id": "b995822f47a6",
+        "title": "Quoting Andrej Karpathy",
+        "summary": "It is hard to communicate how much programming has changed due to AI in the last 2 months: not gradually and over time in the \"progress as usual\" way, but specifically this last December. There are a number of asterisks but imo coding agents basically didn’t work before December and basically work s...",
+        "url": "https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything",
+        "source": "Simon Willison's Weblog",
+        "published": "2026-02-26T19:03:27+00:00"
+      },
+      {
+        "id": "20db17d59d75",
+        "title": "Are You ‘Agentic’ Enough for the AI Era?",
+        "summary": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
+        "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
+        "source": "Business Latest",
+        "published": "2026-02-26T19:00:00+00:00"
+      },
       {
         "id": "30f5ccb7e3f4",
         "title": "木箱中的身軀、三顆鈕扣與「刣人埔」傳說──台北植物園遺址出土人骨之謎",
@@ -375,46 +415,6 @@
         "url": "https://simonwillison.net/2026/Feb/25/present/#atom-everything",
         "source": "Simon Willison's Weblog",
         "published": "2026-02-25T16:46:19+00:00"
-      },
-      {
-        "id": "e40097c6de8e",
-        "title": "【投書】別再把阿公阿媽送回育兒前線，優質安心普及的托育服務才是首選",
-        "summary": "民眾黨近日提出政策主張培力祖父母考取托育證照，滿足家庭照顧需求，也補足托育人力缺口。彷彿一舉數得的政策，其實14年前就曾上路卻黯然退場，不只親屬轉保母人數有限、排擠托育人力受訓名額，訪視管理耗費成本又無效⋯⋯",
-        "url": "https://www.twreporter.org/a/opinion-grandparents-are-not-solutions-for-childcare-services",
-        "source": "報導者",
-        "published": "2026-02-25T16:00:00+00:00"
-      },
-      {
-        "id": "0e892c75f0f4",
-        "title": "Kalshi Suspended a California Politician and a YouTuber for Insider Trading",
-        "summary": "Leading prediction market Kalshi has revealed details of two recent insider trading cases it flagged to authorities, giving a rare look at how the platform enforces its policies.",
-        "url": "https://www.wired.com/story/kalshi-insider-trading-california-politician-and-youtuber/",
-        "source": "Business Latest",
-        "published": "2026-02-25T16:00:00+00:00"
-      },
-      {
-        "id": "f520b40fcefc",
-        "title": "Inside the new modules in the free AAS Multiphonics CV-3 v3.1 update",
-        "summary": "Applied Acoustics Systems' flagship modular, Multiphonics CV-3, gets four powerful modules in \"the FM+ update\" out this month. Here's a dive into what those modules can do -- and if you're pondering picking up CV-3 for the first time, it's discounted now, too.\nThe post Inside the new modules in the ...",
-        "url": "https://cdm.link/aas-multiphonics-v3-1-update/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-25T15:58:27+00:00"
-      },
-      {
-        "id": "44a012a4bb16",
-        "title": "Why Xbox’s corporate shake-up matters for everyone who plays games",
-        "summary": "With ​i​ts longtime figureheads stepping aside, Microsoft’s gaming division faces a pivotal moment​, raising questions about whether ​i​t can still balance creative ambition with corporate strategy​ in the age of AI• Don’t get Pushing Buttons delivered to your inbox? Sign up hereAnd so it’s all chan...",
-        "url": "https://www.theguardian.com/games/2026/feb/25/all-change-at-the-head-of-xbox-what-will-this-mean-for-the-future-of-its-games",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-25T12:30:36+00:00"
-      },
-      {
-        "id": "9024270b7ae4",
-        "title": "Pieced Together review – poignant narrative game gathers bittersweet fragments of a friendship",
-        "summary": "Glowfrog Games; PC                                    Short but very sweet tale asks the player to compile a scrapbook of mementoes telling the story of a heartfelt bond that frays over timeThere are few things sadder than the end of a close friendship. Whether it happens in a sudden moment of betra...",
-        "url": "https://www.theguardian.com/games/2026/feb/25/pieced-together-review-narrative-game-glowfrog-games-pc",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-25T11:00:09+00:00"
       }
     ],
     "序(month)": [
