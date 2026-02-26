@@ -1,19 +1,163 @@
 {
-  "updated_at": "2026-02-26T11:28:21.161288+00:00",
+  "updated_at": "2026-02-26T14:43:50.243371+00:00",
   "trending": [
-    "snow storm",
-    "ind vs zim",
-    "daniil medvedev",
-    "monkey",
-    "tesla",
-    "ai-powered",
-    "geneva",
-    "west indies vs south africa",
-    "kalshi",
-    "sam altman"
+    "zachary levi",
+    "rashmika mandanna",
+    "stanley tucci",
+    "jon hamm",
+    "dolly parton",
+    "nfl combine schedule",
+    "ionq stock",
+    "t20 world cup points table",
+    "felix auger aliassime",
+    "strawberry festival"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "a528ae527e83",
+        "title": "15 state attorneys general sue RFK Jr. over \"anti-science\" vaccine policy",
+        "summary": "Trump administration’s reduced vaccine schedule “throws science out the window.”",
+        "url": "https://arstechnica.com/health/2026/02/15-state-attorneys-general-sue-rfk-jr-over-anti-science-vaccine-policy/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-26T14:14:55+00:00"
+      },
+      {
+        "id": "c9f7576038d8",
+        "title": "Badge engineering could be worse than this: The 2026 Subaru Uncharted",
+        "summary": "Subaru has a new EV using the platform it shares with Toyota, starting at $34,995.",
+        "url": "https://arstechnica.com/cars/2026/02/2026-subaru-uncharted-first-drive-fwd-might-be-the-biggest-selling-point/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-26T14:00:59+00:00"
+      },
+      {
+        "id": "de7d447ac9ff",
+        "title": "Jest, a marketplace for messaging games, is challenging the app store status quo",
+        "summary": "Jest, a marketplace for messaging games, emerged from stealth with $7 million in seed funding.",
+        "url": "https://techcrunch.com/2026/02/26/jest-a-marketplace-for-messaging-games-is-challenging-the-app-store-status-quo/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T14:00:00+00:00"
+      },
+      {
+        "id": "c70da20cc441",
+        "title": "Exhibit in Boston’s startup ecosystem at TechCrunch Founder Summit 2026",
+        "summary": "On June 9, 1,000+ founders, investors, and decision-makers will gather for TechCrunch Founder Summit 2026. This isn’t just foot traffic. It’s a full day of concentrated deal flow. An exhibit table turns that energy into measurable growth. You don’t need more awareness. You need customers, capital, a...",
+        "url": "https://techcrunch.com/2026/02/26/exhibit-in-bostons-startup-ecosystem-at-techcrunch-founder-summit-2026/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T14:00:00+00:00"
+      },
+      {
+        "id": "264dde7b096b",
+        "title": "Figma partners with OpenAI to bake in support for Codex",
+        "summary": "Figma is integrating OpenAI's coding assistant Codex a week after it announced a similar integration with Anthropic's Claude Code.",
+        "url": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T14:00:00+00:00"
+      },
+      {
+        "id": "5c258a1096ee",
+        "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
+        "summary": "Trace is launching with $3 million in seed funding, including investment from Y Combinator, Zeno Ventures, Transpose Platform Management, Goodwater Capital, Formosa Capital, and WeFunder.",
+        "url": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T14:00:00+00:00"
+      },
+      {
+        "id": "24399ee0dd2a",
+        "title": "World Economic Forum CEO quits after Epstein links examined – business live",
+        "summary": "Rolling coverage of the latest economic and financial newsArtificial intelligence is boosting productivity in the euro zone but it is not yet causing a wave of layoffs due to greater automation of labour, European Central Bank President Christine Lagarde has claimed.Testifying to the European Parlia...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/26/nvidia-blockbuster-results-ai-stock-markets-wall-street-ftse-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T13:35:12+00:00"
+      },
+      {
+        "id": "0f73748c7e01",
+        "title": "ULA isn't making the Space Force's GPS interference problem any easier",
+        "summary": "Officials expect the investigation into a booster anomaly on ULA's Vulcan rocket to last multiple months.",
+        "url": "https://arstechnica.com/space/2026/02/ula-isnt-making-the-space-forces-gps-interference-problem-any-easier/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-26T13:31:18+00:00"
+      },
+      {
+        "id": "bbd055269dd5",
+        "title": "Waitrose suspends sale of mackerel because of overfishing",
+        "summary": "Supermarket chain says it will point customers to herring and other species to protect threatened Atlantic stocksWaitrose has become the first UK supermarket to suspend the sale of mackerel because of overfishing and will start pointing customers toward herring and other species.The Marine Conservat...",
+        "url": "https://www.theguardian.com/environment/2026/feb/26/waitrose-suspends-sale-mackerel-overfishing",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T13:06:05+00:00"
+      },
+      {
+        "id": "5e2d2c3aebd0",
+        "title": "Number of young people in UK not in work or education rises closer to 1m",
+        "summary": "Number of Neets climbs to 957,000, up 11,000 on previous quarter, ONS says, driven by rise among young womenThe number of young people in the UK not working or in education has risen closer to a million, figures show, as a government adviser warned that society’s expectation of each generation doing...",
+        "url": "https://www.theguardian.com/business/2026/feb/26/rise-in-neets-young-people-not-in-work-education-uk-ons",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T13:02:04+00:00"
+      },
+      {
+        "id": "573ffd1e3f80",
+        "title": "How to avoid bad hires in early-stage startups",
+        "summary": "Lucena got the idea for Mappa after trying to build a marketing team but continually feeling like she had made the wrong hires.",
+        "url": "https://techcrunch.com/2026/02/26/how-to-avoid-bad-hires-in-early-stage-startups/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T13:02:00+00:00"
+      },
+      {
+        "id": "2ad90df6fe0b",
+        "title": "Everything Samsung revealed at its Galaxy Unpacked event",
+        "summary": "Samsung's new privacy screen feature on Galaxy S26 Ultra was the most notable feature of the event.",
+        "url": "https://techcrunch.com/2026/02/26/everything-samsung-revealed-at-its-galaxy-unpacked-event/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T13:01:38+00:00"
+      },
+      {
+        "id": "a4272037867b",
+        "title": "The tech worker cleaning condoms and old socks off the Brooklyn Bridge: ‘People have no shame’",
+        "summary": "It took Ellen Baum about 16 hours to finish clearing one section of hair ties, condoms and tissues woven into the fencingOn a blisteringly cold day earlier this month, Ellen Baum was not in the best mood as she walked across the Brooklyn Bridge to meet some friends in Manhattan.“I had read particula...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/26/brooklyn-bridge-nyc-cleanup",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T13:00:34+00:00"
+      },
+      {
+        "id": "9196a4660018",
+        "title": "Rolls-Royce boss pushes for UK taxpayer support for new jet engine",
+        "summary": "Firm, which has announced record profits and £9bn share buyback, has £3bn project for smaller commercial planesThe chief executive of Rolls-Royce has pressed ministers for taxpayer support for a new jet engine, on a day the company also announced record profits and promised to give up to £9bn back t...",
+        "url": "https://www.theguardian.com/business/2026/feb/26/rolls-royce-profits-soar-amid-booming-demand-for-ai-datacentre-power",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T12:53:40+00:00"
+      },
+      {
+        "id": "938161a48b8a",
+        "title": "Cristiano Ronaldo buys 25% stake in Spanish second division club Almería",
+        "summary": "No financial details of deal with Saudi-owned clubPortuguese player already owns share in Al-NassrCristiano Ronaldo announced on Thursday that he had acquired a 25% stake in Saudi-owned Spanish second division club Almería.“This strategic investment in UD Almería reflects Ronaldo’s long-term commitm...",
+        "url": "https://www.theguardian.com/football/2026/feb/26/cristiano-ronaldo-buys-25-per-cent-stake-in-spanish-second-division-club-almeria",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T12:32:25+00:00"
+      },
+      {
+        "id": "12abe89628d2",
+        "title": "Riding the wave: can surf tourism save Peru’s ancient reed-boat fishing culture?",
+        "summary": "As fish stocks dwindle, surf tourism may offer a lifeline to traditional caballitos de totora fishers, whose vessels are thought to be among the first ever used to ride wavesJust before dawn, in a scene that has repeated itself over thousands of years on the north coast of Peru, fishers drag boats m...",
+        "url": "https://www.theguardian.com/environment/2026/feb/26/wave-riders-surf-tourism-save-peru-ancient-reed-boat-fishing-culture",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T12:00:32+00:00"
+      },
+      {
+        "id": "d86330b27dc5",
+        "title": "Instagram now alerts parents if their teen searches for suicide or self-harm content",
+        "summary": "Parents will be informed if their teen searches for suicide or self-harm content and offered resources.",
+        "url": "https://techcrunch.com/2026/02/26/instagram-now-alerts-parents-if-their-teen-searches-for-suicide-or-self-harm-content/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T12:00:00+00:00"
+      },
+      {
+        "id": "549a676d13d2",
+        "title": "New GLP-1 pill helps patients lose up to 8% of body weight, trial shows",
+        "summary": "Orforglipron led to greater weight loss than semaglutide tablets and could offer more effective oral alternative to jabsA new daily pill could be a more effective GLP-1 tablet for weight loss, according to a clinical trial that may pave the way for an improved non-injection alternative to Wegovy and...",
+        "url": "https://www.theguardian.com/science/2026/feb/26/new-glp1-pill-patients-lose-weight-trial",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T11:39:31+00:00"
+      },
       {
         "id": "db417fb6c98b",
         "title": "Workers decry Whirlpool’s job cuts amid offshoring, praise of Trump’s tariffs",
@@ -37,14 +181,6 @@
         "url": "https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising",
         "source": "Business | The Guardian",
         "published": "2026-02-26T10:24:58+00:00"
-      },
-      {
-        "id": "24399ee0dd2a",
-        "title": "Nvidia fails to impress investors with blockbuster results; FTSE 100 pushed to record high by Rolls-Royce – business live",
-        "summary": "Rolling coverage of the latest economic and financial newsArtificial intelligence is boosting productivity in the euro zone but it is not yet causing a wave of layoffs due to greater automation of labour, European Central Bank President Christine Lagarde has claimed.Testifying to the European Parlia...",
-        "url": "https://www.theguardian.com/business/live/2026/feb/26/nvidia-blockbuster-results-ai-stock-markets-wall-street-ftse-news-updates",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T10:17:00+00:00"
       },
       {
         "id": "e02a27b7465f",
@@ -71,151 +207,31 @@
         "published": "2026-02-26T10:00:24+00:00"
       },
       {
-        "id": "9196a4660018",
-        "title": "Rolls-Royce profits soar 40% amid booming demand for AI datacentre power",
-        "summary": "Engine maker promises to give up to £9bn to shareholders over next three years as turnaround gathers paceRolls-Royce’s profits soared by 40% last year as the engineering company’s turnaround gathered pace, helped by booming demand for power from datacentres.The company reported underlying profits of...",
-        "url": "https://www.theguardian.com/business/2026/feb/26/rolls-royce-profits-soar-amid-booming-demand-for-ai-datacentre-power",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T09:43:51+00:00"
-      },
-      {
         "id": "527c6307a46a",
         "title": "Ocado to cut 1,000 jobs in £150m cost-saving drive",
-        "summary": "Retail technology business to reduce about 5% of global workforce, with two-thirds of job losses affecting UKBusiness live – latest updatesOcado is to cut 1,000 jobs as the retail technology business attempts to £150m in costs though a substantial restructuring programme.The company confirmed that a...",
+        "summary": "Retail technology business to reduce about 5% of global workforce, with two-thirds of job losses affecting UKBusiness live – latest updatesOcado is to cut 1,000 jobs as the retail technology business attempts to slash £150m in costs though a substantial restructuring programme.The company confirmed ...",
         "url": "https://www.theguardian.com/business/2026/feb/26/ocado-to-cut-1000-jobs-in-150m-cost-cutting-drive",
         "source": "Business | The Guardian",
         "published": "2026-02-26T08:29:30+00:00"
-      },
-      {
-        "id": "3c7406311115",
-        "title": "Home Office denies ‘absurd’ criticism over rule change that may leave dual nationals stranded",
-        "summary": "MPs raise cases of honeymooners and other Britons caught out by new passport requirements as minister rejects calls for grace period• Dual nationals: have you been prevented from travelling to the UK?The Home Office has dismissed as “absurd” claims that it failed to properly communicate new border r...",
-        "url": "https://www.theguardian.com/politics/2026/feb/26/home-office-criticism-dual-national-border-rules-stranded",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T08:23:38+00:00"
-      },
-      {
-        "id": "1514b0d3eece",
-        "title": "‘Magic beneath the surface’: pioneering geothermal plant launched in Cornwall",
-        "summary": "A new mini power station and lithium extraction facility near Redruth are set to bolster green energy and create jobsJust outside the perimeter fence stand the hulking remains of grand stone engine houses, a testament to Cornwall’s proud tin and copper mining history.But inside is a shiny new mini p...",
-        "url": "https://www.theguardian.com/environment/2026/feb/26/cornwall-new-geothermal-project-launches",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T06:00:19+00:00"
-      },
-      {
-        "id": "9a3af800f3b3",
-        "title": "The secret life of a waitress: my nine nightmare diners – from flirts to complainers",
-        "summary": "Are influencers really the biggest problem facing waiting staff? Not compared with the customer who demanded I pick up her dog’s poo ...Influencers have had a bad time of it at restaurants recently. There they are, just trying to record a quick video and take a few pictures of their lunch, and resta...",
-        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T05:00:21+00:00"
-      },
-      {
-        "id": "088b5d69474b",
-        "title": "Can degrowth save the climate? – podcast",
-        "summary": "Since the 1960s, global GDP has been rapidly rising and living standards have reached record highs. But something else has been rocketing up too – carbon emissions. For years, scientists and economists have been asking: is it possible to grow without heating and polluting the Earth? And as the clima...",
-        "url": "https://www.theguardian.com/science/audio/2026/feb/26/can-degrowth-save-the-climate-podcast",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T05:00:20+00:00"
-      },
-      {
-        "id": "d6c91a31aba8",
-        "title": "In a first, researchers film treetops glowing during thunderstorms",
-        "summary": "Glimmer sparked by electrical fields detected in nature for the first time",
-        "url": "https://www.science.org/content/article/first-researchers-film-treetops-glowing-during-thunderstorms",
-        "source": "Latest News from Science Magazine",
-        "published": "2026-02-26T05:00:00+00:00"
-      },
-      {
-        "id": "7dbba4bbac0f",
-        "title": "Jimmy Lai’s fraud conviction overturned by Hong Kong court in rare legal win for activist",
-        "summary": "Appellate court quashes convictions linked to lease violations but Lai may still spend rest of his life in prisonA Hong Kong appellate court on Thursday overturned fraud convictions against the media mogul Jimmy Lai, a rare victory in the prominent pro-democracy activist’s legal battles.Lai, 78, an ...",
-        "url": "https://www.theguardian.com/world/2026/feb/26/jimmy-lai-conviction-wins-appeal-hong-kong-court",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T03:54:01+00:00"
-      },
-      {
-        "id": "f610f485f8d3",
-        "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-        "summary": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
-        "url": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
-        "source": "TechCrunch",
-        "published": "2026-02-26T01:59:12+00:00"
-      },
-      {
-        "id": "25839858c0f4",
-        "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
-        "summary": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
-        "url": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
-        "source": "TechCrunch",
-        "published": "2026-02-26T00:00:00+00:00"
-      },
-      {
-        "id": "3cf286d5a996",
-        "title": "This compound enhances long-term memory of mice — but only in females",
-        "summary": "Nature, Published online: 26 February 2026; doi:10.1038/d41586-026-00603-yAcetate helps the female rodents form memories but is less effective in males.",
-        "url": "https://www.nature.com/articles/d41586-026-00603-y",
-        "source": "Nature",
-        "published": "2026-02-26T00:00:00+00:00"
-      },
-      {
-        "id": "b987b3df6685",
-        "title": "Health effects linger 20 generations after rats are exposed to fungicide",
-        "summary": "Nature, Published online: 26 February 2026; doi:10.1038/d41586-026-00555-3Scientists say the findings are a warning about the kinds of chemical that people are exposed to in the environment.",
-        "url": "https://www.nature.com/articles/d41586-026-00555-3",
-        "source": "Nature",
-        "published": "2026-02-26T00:00:00+00:00"
-      },
-      {
-        "id": "23b6a3acafbb",
-        "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
-        "summary": "Seattle-based Vercept developed complex agentic tools, including a computer-use agent that could complete tasks inside applications like a person with a laptop would.",
-        "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T23:49:19+00:00"
-      },
-      {
-        "id": "9bcaf60b2dfb",
-        "title": "Lawyers for US cancer sufferers challenge Bayer’s $7.25bn Roundup settlement deal",
-        "summary": "Proposed settlement would pay users of glyphosate-based weedkiller who have non-Hodgkin lymphoma $10,000 to $165,000A group of 14 law firms representing nearly 20,000 plaintiffs is seeking to intervene in Bayer’s proposed class action settlement of Roundup litigation, citing concerns that the deal w...",
-        "url": "https://www.theguardian.com/business/2026/feb/25/roundup-bayer-cancer-settlement-deal",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T23:23:57+00:00"
-      },
-      {
-        "id": "285fab613bf2",
-        "title": "Nvidia has another record quarter amid record capex spends",
-        "summary": "\"The demand for tokens in the world has gone completely exponential,\" Nvidia CEO Jensen Huang said about the company's earnings.",
-        "url": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T23:04:42+00:00"
-      },
-      {
-        "id": "077e8e85b310",
-        "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit",
-        "summary": "Even twisting an ex-employee's text to favor xAI's reading fails to sway judge.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-25T22:09:21+00:00"
-      },
-      {
-        "id": "edf978504535",
-        "title": "France’s Engie strikes deal to buy UK Power Networks for £10.5bn",
-        "summary": "French utility to acquire owner of electricity cables and power lines across London, south-east and east of EnglandA French utility has agreed to buy the owner of the electricity cables and power lines across London, the south-east and the east of England in a deal worth £10.5bn.Paris-headquartered ...",
-        "url": "https://www.theguardian.com/business/2026/feb/25/frances-engie-strikes-deal-to-buy-uk-power-networks-for-105bn",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T21:43:28+00:00"
-      },
-      {
-        "id": "c3ff7ba28168",
-        "title": "The Galaxy S26 is faster, more expensive, and even more chock-full of AI",
-        "summary": "Samsung's Galaxy S26 series is available for preorder today and ships on March 11.",
-        "url": "https://arstechnica.com/gadgets/2026/02/samsung-reveals-galaxy-s26-lineup-with-privacy-display-and-exclusive-gemini-smarts/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-25T21:41:27+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "a7877ddec029",
+        "title": "‘Unbelievably dangerous’: experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+        "summary": "Study finds ChatGPT Health did not recommend a hospital visit when medically necessary in more than half of casesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastChatGPT Health regularly misses the need for medical urgent care and frequ...",
+        "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-26T14:00:09+00:00"
+      },
+      {
+        "id": "4f861024b560",
+        "title": "Resident Evil Requiem review - there’s plenty of life in the undead yet",
+        "summary": "Fear, fights and feverish fanservice collide in this celebration of Resident Evil’s recent and retro legacyPC, PlayStation 5, Xbox, Nintendo Switch 2; CapcomThere’s often an undercurrent of existential fatigue in games that look back at their legacy. Dark Souls III’s dying kingdom, Metal Gear Solid ...",
+        "url": "https://www.theguardian.com/games/2026/feb/26/resident-evil-requiem-review-theres-plenty-of-life-in-the-undead-yet",
+        "source": "Technology | The Guardian",
+        "published": "2026-02-26T13:46:22+00:00"
+      },
       {
         "id": "edb597c3c373",
         "title": "Why Sierra the Supercomputer Had to Die",
@@ -369,14 +385,6 @@
         "published": "2026-02-25T12:30:36+00:00"
       },
       {
-        "id": "db29adcaf10c",
-        "title": "Tech legend Stewart Brand on Musk, Bezos and his extraordinary life: ‘We don’t need to passively accept our fate’",
-        "summary": "He was at the heart of 1960s counterculture, then paved the way for the libertarian mindset of Silicon Valley. At 87, Brand is still keen to ensure the world is maintained properly – not just today, but for the next 10,000 yearsStewart Brand thinks big and long. He thinks on a planetary scale – as s...",
-        "url": "https://www.theguardian.com/technology/2026/feb/25/tech-legend-stewart-brand-on-musk-bezos-and-his-extraordinary-life-we-dont-need-to-passively-accept-our-fate",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-25T12:00:35+00:00"
-      },
-      {
         "id": "9024270b7ae4",
         "title": "Pieced Together review – poignant narrative game gathers bittersweet fragments of a friendship",
         "summary": "Glowfrog Games; PC                                    Short but very sweet tale asks the player to compile a scrapbook of mementoes telling the story of a heartfelt bond that frays over timeThere are few things sadder than the end of a close friendship. Whether it happens in a sudden moment of betra...",
@@ -407,14 +415,6 @@
         "url": "https://technews.tw/2026/02/25/meta-eyes-stablecoin-integration-by-second-half-2026/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-02-25T08:25:08+00:00"
-      },
-      {
-        "id": "d550b18b96bf",
-        "title": "Quoting Kellan Elliott-McCrea",
-        "summary": "It’s also reasonable for people who entered technology in the last couple of decades because it was good job, or because they enjoyed coding to look at this moment with a real feeling of loss. That feeling of loss though can be hard to understand emotionally for people my age who entered tech becaus...",
-        "url": "https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-25T03:30:32+00:00"
       }
     ],
     "序(month)": [
@@ -437,7 +437,7 @@
       {
         "id": "4d644364826f",
         "title": "2026年GIS專題中心大專生暑期專題研習計畫：研究主題清單",
-        "summary": "詹大千老師研究室 預計招募名額： 2位暑期實習專題題目：1. 交通數據的時空分析2. 環境因子對健康的影響研究 [&#8230;]",
+        "summary": "詹大千老師研究室 暑期實習專題題目：1. 交通數據的時空分析2. 環境因子對健康的影響研究3. 警政數據分析其 [&#8230;]",
         "url": "https://gis.rchss.sinica.edu.tw/2026summer_intern_topics/",
         "source": "中央研究院人社中心地理資訊科學研究專題中心",
         "published": "2026-02-25T01:23:50+00:00"
