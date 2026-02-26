@@ -1,19 +1,59 @@
 {
-  "updated_at": "2026-02-26T05:14:49.826957+00:00",
+  "updated_at": "2026-02-26T08:03:58.931240+00:00",
   "trending": [
-    "jason bateman",
-    "kansas state vs colorado",
-    "blood moon total lunar eclipse",
-    "ole miss basketball",
-    "la galaxy",
-    "randal grichuk",
-    "utah state basketball",
-    "will clapp",
-    "paul heyman",
-    "joe rogan"
+    "sam altman",
+    "wi vs sa",
+    "sony wf‑1000xm6",
+    "cubans",
+    "jake shane",
+    "leann rimes",
+    "max scherzer",
+    "valentin vacherot",
+    "jackson white",
+    "washington state basketball"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "24399ee0dd2a",
+        "title": "Nvidia fails to impress investors with blockbuster results, as AI adoption ‘skyrockets’ – business live",
+        "summary": "Rolling coverage of the latest economic and financial news“Uncertainty continues, both on the trade front and the geopolitical front,” the chief economist of the European Bank of Reconstruction and Development (EBRD) Beata Javorcik warned with some understatement, as she launched the London-based le...",
+        "url": "https://www.theguardian.com/business/live/2026/feb/26/nvidia-blockbuster-results-ai-stock-markets-wall-street-ftse-news-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T07:47:01+00:00"
+      },
+      {
+        "id": "1514b0d3eece",
+        "title": "‘Magic beneath the surface’: pioneering geothermal plant launched in Cornwall",
+        "summary": "A new mini power station and lithium extraction facility near Redruth are set to bolster green energy and create jobsJust outside the perimeter fence stand the hulking remains of grand stone engine houses, a testament to Cornwall’s proud tin and copper mining history.But inside is a shiny new mini p...",
+        "url": "https://www.theguardian.com/environment/2026/feb/26/cornwall-new-geothermal-project-launches",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T06:00:19+00:00"
+      },
+      {
+        "id": "9a3af800f3b3",
+        "title": "The secret life of a waitress: my nine nightmare diners – from flirts to complainers",
+        "summary": "Are influencers really the biggest problem facing waiting staff? Not compared with the customer who demanded I pick up her dog’s poo ...Influencers have had a bad time of it at restaurants recently. There they are, just trying to record a quick video and take a few pictures of their lunch, and resta...",
+        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/26/the-secret-life-of-a-waitress-my-nine-nightmare-diners-from-flirts-to-complainers",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T05:00:21+00:00"
+      },
+      {
+        "id": "088b5d69474b",
+        "title": "Can degrowth save the climate? – podcast",
+        "summary": "Since the 1960s, global GDP has been rapidly rising and living standards have reached record highs. But something else has been rocketing up too – carbon emissions. For years, scientists and economists have been asking: is it possible to grow without heating and polluting the Earth? And as the clima...",
+        "url": "https://www.theguardian.com/science/audio/2026/feb/26/can-degrowth-save-the-climate-podcast",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T05:00:20+00:00"
+      },
+      {
+        "id": "7dbba4bbac0f",
+        "title": "Jimmy Lai’s fraud conviction overturned by Hong Kong court in rare legal win for activist",
+        "summary": "Appellate court quashes convictions linked to lease violations but Lai may still spend rest of his life in prisonA Hong Kong appellate court on Thursday overturned fraud convictions against the media mogul Jimmy Lai, a rare victory in the prominent pro-democracy activist’s legal battles.Lai, 78, an ...",
+        "url": "https://www.theguardian.com/world/2026/feb/26/jimmy-lai-conviction-wins-appeal-hong-kong-court",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T03:54:01+00:00"
+      },
       {
         "id": "f610f485f8d3",
         "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
@@ -21,14 +61,6 @@
         "url": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
         "source": "TechCrunch",
         "published": "2026-02-26T01:59:12+00:00"
-      },
-      {
-        "id": "77155ae1cbe7",
-        "title": "Qantas unveils major changes to frequent flyer program and a bumper $1.46bn profit",
-        "summary": "Airline to allow members to roll over status credits, which unlock lounge access, priority boarding and baggage allowancesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastQantas is overhauling its frequent flyer program to entice member...",
-        "url": "https://www.theguardian.com/business/2026/feb/26/qantas-half-year-profit",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T01:13:35+00:00"
       },
       {
         "id": "25839858c0f4",
@@ -181,38 +213,6 @@
         "url": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
         "source": "TechCrunch",
         "published": "2026-02-25T19:10:04+00:00"
-      },
-      {
-        "id": "396e3149fc5b",
-        "title": "Kalshi fined a MrBeast editor for insider trading on markets related to the YouTube star",
-        "summary": "Kalshi fined the MrBeast editor, Artem Kaptur, over $20,000.",
-        "url": "https://techcrunch.com/2026/02/25/kalshi-fined-a-mrbeast-editor-for-insider-trading-on-markets-related-to-the-youtube-star/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T19:08:04+00:00"
-      },
-      {
-        "id": "10d44b41bce1",
-        "title": "The public opposition to AI infrastructure is heating up",
-        "summary": "Public backlash over the data center boom is leading to a variety of draconian policies — including bans on new construction.",
-        "url": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T19:03:34+00:00"
-      },
-      {
-        "id": "84e253f644bf",
-        "title": "Reeves must back defence investment plan or be sacked, says Unite union boss",
-        "summary": "Sharon Graham tells chancellor she should ‘back British industry’ by increasing military spendingThe head of Britain’s largest trade union has demanded that Rachel Reeves be sacked as chancellor if the Treasury continues to hold up a multibillion-pound defence investment plan.Sharon Graham, the gene...",
-        "url": "https://www.theguardian.com/politics/2026/feb/25/rachel-reeves-treasury-defence-investment-plan-unite-union-sharon-graham",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T18:58:10+00:00"
-      },
-      {
-        "id": "948afb6a69b2",
-        "title": "Drastic Dave goes vague at Diageo | Nils Pratley",
-        "summary": "There is no point in offering hostages to fortune, but the lack of detail suggests turning around drinks group could be a long jobDiageo’s once high-flying share price was already back at 2012 levels. Now the dividend is there too. Sir Dave Lewis has cut it in half, chopping as drastically as the ma...",
-        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/25/drastic-dave-lewis-goes-vague-at-diageo",
-        "source": "Business | The Guardian",
-        "published": "2026-02-25T18:51:45+00:00"
       }
     ],
     "破(day)": [
