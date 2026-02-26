@@ -1,19 +1,51 @@
 {
-  "updated_at": "2026-02-26T21:00:35.278528+00:00",
+  "updated_at": "2026-02-26T23:04:55.290090+00:00",
   "trending": [
-    "pink",
-    "rueben bain jr",
-    "bridgerton season 5",
-    "fiorentina",
-    "devonta lee",
-    "bologna vs brann",
-    "crossfit open 26.1",
-    "crystal palace - zrinjski",
-    "nicholas braimbridge",
-    "burger king whopper changes"
+    "netflix stock",
+    "funny videos",
+    "epstein barr virus",
+    "iftar time today",
+    "gretchen whitmer",
+    "river plate - banfield",
+    "bruins",
+    "hornets vs pacers",
+    "david bailey",
+    "rockets vs magic"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "b07dc78047f8",
+        "title": "PayPal might not be looking to sell itself: Report",
+        "summary": "PayPal may not be in talks to be acquired, sources have told Semafor, after a previous news report that Stripe was sniffing around.",
+        "url": "https://techcrunch.com/2026/02/26/paypal-might-not-be-looking-to-sell-itself-report/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T22:23:42+00:00"
+      },
+      {
+        "id": "f9e96d870330",
+        "title": "xAI spent $7M building wall that barely muffles annoying power plant noise",
+        "summary": "“Temu sound wall” not enough to quell fury over xAI’s power plant.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-26T22:19:39+00:00"
+      },
+      {
+        "id": "8a68adb9d8d0",
+        "title": "The physics of squeaking sneakers",
+        "summary": "Geometry of tread patterns determines frequency, so blocks were designed to play Star Wars music.",
+        "url": "https://arstechnica.com/science/2026/02/the-physics-of-squeaking-sneakers/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-26T21:48:37+00:00"
+      },
+      {
+        "id": "382b4621e0fa",
+        "title": "Google paid startup Form Energy $1B for its massive 100-hour battery",
+        "summary": "The deal paves the way for Form Energy to raise a new funding round before potentially going public next year.",
+        "url": "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/",
+        "source": "TechCrunch",
+        "published": "2026-02-26T21:04:23+00:00"
+      },
       {
         "id": "de2552c893e5",
         "title": "So, we’re getting Prada Meta AI glasses, right?",
@@ -55,6 +87,14 @@
         "published": "2026-02-26T18:44:52+00:00"
       },
       {
+        "id": "6c6fe6d848e9",
+        "title": "Yes, Britain needs more babies – but Reform's nasty plans for women won't help | Polly Toynbee",
+        "summary": "The UK, like many other countries, has a falling birthrate. But Danny Kruger’s perverse 1970s-style policies offer nothing to mothers-to-beBabies are beautiful. I always want to smile at them in the street, perhaps because they are a rarer and more precious sight in this ageing country or because th...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/26/britain-babies-reform-women-birthrate-policies",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T18:20:19+00:00"
+      },
+      {
         "id": "a4b58064124c",
         "title": "UK social media ban for under-16s edges closer with Starmer expected to back it",
         "summary": "Liz Kendall to launch consultation next week that will also explore alternatives such as curbs on infinite scrollingMinisters will take another step towards banning social media for under-16s next week as they launch a consultation on the policy, with government insiders increasingly certain Keir St...",
@@ -85,6 +125,22 @@
         "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/26/subsidies-for-rolls-royce-might-seem-a-bit-rich-but-they-are-inevitable",
         "source": "Business | The Guardian",
         "published": "2026-02-26T17:55:50+00:00"
+      },
+      {
+        "id": "e23ab43045a8",
+        "title": "A mountain to climb in today’s job market | Letters",
+        "summary": "Readers respond to articles by Gaby Hinsliff and Sumaiya Motara on the availability of first jobs, and the hoops applicants are made to jump throughGaby Hinsliff may be right to link the current lack of starter jobs to recent increases in minimum wage and national insurance costs for employers (Do y...",
+        "url": "https://www.theguardian.com/money/2026/feb/26/a-mountain-to-climb-in-todays-job-market",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T17:38:58+00:00"
+      },
+      {
+        "id": "b3d04fbe9d83",
+        "title": "Fighting a losing battle to tackle growth in plastic production | Letters",
+        "summary": "Readers respond to an interview with Beth Gardiner on how the oil industry is pumping billions more into plasticsBeth Gardiner is right to argue that plastic is not merely a recycling failure (‘They pushed so many lies about recycling’: the fight to stop big oil pumping billions more into plastics, ...",
+        "url": "https://www.theguardian.com/environment/2026/feb/26/fghting-a-losing-battle-to-tackle-growth-in-plastic-production",
+        "source": "Business | The Guardian",
+        "published": "2026-02-26T17:38:51+00:00"
       },
       {
         "id": "8a3c80316030",
@@ -157,65 +213,17 @@
         "url": "https://techcrunch.com/2026/02/26/cisco-says-hackers-have-been-exploiting-a-critical-bug-to-break-into-big-customer-networks-since-2023/",
         "source": "TechCrunch",
         "published": "2026-02-26T16:03:36+00:00"
-      },
-      {
-        "id": "88cf26b1f6af",
-        "title": "A VC and some big-name programmers are trying to solve open source’s funding problem, permanently",
-        "summary": "A group of well-known open source programmers and a VC have launched the Open Source Endowment. They hope this new method will provide funding for good.",
-        "url": "https://techcrunch.com/2026/02/26/a-vc-and-some-big-name-programmers-are-trying-to-solve-open-sources-funding-problem-permanently/",
-        "source": "TechCrunch",
-        "published": "2026-02-26T16:00:00+00:00"
-      },
-      {
-        "id": "45574a43dc3f",
-        "title": "Google launches Nano Banana 2 model with faster image generation",
-        "summary": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode.",
-        "url": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
-        "source": "TechCrunch",
-        "published": "2026-02-26T16:00:00+00:00"
-      },
-      {
-        "id": "8084462055cb",
-        "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
-        "summary": "That guest network you set up for your neighbors may not be as secure as you think.",
-        "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-26T15:45:18+00:00"
-      },
-      {
-        "id": "47d46339cb11",
-        "title": "Spyware makers sentenced to prison in Greece for wiretapping politicians and journalists",
-        "summary": "Tal Dilian and three other Intellexa executives were tried for their role in a scandal dubbed \"Greek Watergate,\" which dates back to 2022.",
-        "url": "https://techcrunch.com/2026/02/26/spyware-maker-sentenced-to-prison-in-greece-for-wiretapping-politicians-and-journalists/",
-        "source": "TechCrunch",
-        "published": "2026-02-26T15:45:15+00:00"
-      },
-      {
-        "id": "ff99881d8e00",
-        "title": "X tries wooing advertisers by letting them reuse creatives made for other platforms",
-        "summary": "X has launched an expanded set of aspect ratio support for both image and video ads, so advertisers can now reuse assets they've created for other platforms.",
-        "url": "https://techcrunch.com/2026/02/26/x-tries-wooing-advertisers-by-letting-them-reuse-creative-assets-from-other-platforms/",
-        "source": "TechCrunch",
-        "published": "2026-02-26T15:41:55+00:00"
-      },
-      {
-        "id": "5e2d2c3aebd0",
-        "title": "UK parents fear young will be worse off for first time in a century, ex-minister warns",
-        "summary": "Alan Milburn says people feel ‘social contract is being broken’ as number of Neets climbs to 957,000The number of young people in the UK not working or in education has risen closer to a million, figures show, as a government adviser warned that for the first time in a century parents do not think t...",
-        "url": "https://www.theguardian.com/business/2026/feb/26/rise-in-neets-young-people-not-in-work-education-uk-ons",
-        "source": "Business | The Guardian",
-        "published": "2026-02-26T15:35:27+00:00"
-      },
-      {
-        "id": "60f2b7c1f09f",
-        "title": "eBay to lay off 800 staff",
-        "summary": "The latest round of layoffs marks eBay’s third workforce reduction in the past three years.",
-        "url": "https://techcrunch.com/2026/02/26/ebay-to-lay-off-800-staff/",
-        "source": "TechCrunch",
-        "published": "2026-02-26T15:10:45+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "14a679381644",
+        "title": "Curve time with Tomavatars’ MGenBend for Ableton Live Suite: hands-on",
+        "summary": "Escaping the rigid, repetitive grid helps to make gestures the way we would on instruments. I've been talking to Tomavatars as he developed this one, and the MGenBend Max for Live Device lets you create elegant, multi-point curves for notes, strumming, and arpeggios.\nThe post Curve time with Tomavat...",
+        "url": "https://cdm.link/mgenbend-curve-sequencer/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-26T22:41:04+00:00"
+      },
       {
         "id": "ea7a90f88f99",
         "title": "This AI Agent Is Designed to Not Go Rogue",
@@ -407,14 +415,6 @@
         "url": "https://www.theguardian.com/technology/2026/feb/25/trtreasury-blair-thinktank-advise-on-ai-use-public-services",
         "source": "Technology | The Guardian",
         "published": "2026-02-25T16:51:32+00:00"
-      },
-      {
-        "id": "3fa9e79548cd",
-        "title": "I vibe coded my dream macOS presentation app",
-        "summary": "I gave a talk this weekend at Social Science FOO Camp in Mountain View. The event was a classic unconference format where anyone could present a talk without needing to propose it in advance. I grabbed a slot for a talk I titled \"The State of LLMs, February 2026 edition\", subtitle \"It's all changed ...",
-        "url": "https://simonwillison.net/2026/Feb/25/present/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-25T16:46:19+00:00"
       }
     ],
     "序(month)": [
