@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Fetch Bandcamp Album of the Day and update the embed iframe in index.html."""
+import json
 import re
 import urllib.request
 from pathlib import Path
@@ -33,12 +34,15 @@ def get_album_url(review_url):
 
 def get_album_id_and_title(album_url):
     html = fetch(album_url)
-    id_m = re.search(r"EmbeddedPlayer/album=(\d+)", html)
-    if not id_m:
-        raise RuntimeError(f"Could not find album ID on album page: {album_url}")
+    # Album ID is in data-tralbum JSON attribute (most reliable source)
+    dt = re.search(r'data-tralbum="([^"]+)"', html)
+    if not dt:
+        raise RuntimeError(f"Could not find data-tralbum on album page: {album_url}")
+    tralbum = json.loads(dt.group(1).replace("&quot;", '"'))
+    album_id = str(tralbum["id"])
     title_m = re.search(r"<title>([^<]+)</title>", html)
     title = title_m.group(1).strip() if title_m else "Album of the Day"
-    return id_m.group(1), title
+    return album_id, title
 
 
 def update_index(album_id, title, album_url):
@@ -55,7 +59,7 @@ def update_index(album_id, title, album_url):
         flags=re.DOTALL,
     )
     if updated == content:
-        print("⚠️  No iframe found to replace in index.html")
+        print("ℹ️  index.html already up to date, no changes needed")
         return
     INDEX.write_text(updated, encoding="utf-8")
     print(f"✅ Updated embed: {title} (album={album_id})")
