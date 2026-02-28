@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-02-28T20:50:53.896772+00:00",
+  "updated_at": "2026-02-28T21:40:54.157429+00:00",
   "trending": [
-    "fortnite event",
-    "fortnite live event today",
-    "the ayatollah",
-    "maryland vs michigan",
-    "new mexico state basketball",
-    "boulder fire",
-    "taylen green",
-    "layne riggs",
-    "bruins vs flyers",
-    "oregon vs northwestern"
+    "wisconsin vs washington",
+    "texas vs texas a&m",
+    "kim jong un",
+    "texas tech vs iowa state",
+    "nebraska vs usc",
+    "u of a basketball",
+    "carson beck",
+    "mississippi state baseball",
+    "south carolina vs georgia",
+    "putin"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "f19329d340ca",
+        "title": "Trump moves to ban Anthropic from the US government",
+        "summary": "The Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+        "url": "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-28T20:00:26+00:00"
+      },
       {
         "id": "e90ed1569d6d",
         "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
@@ -165,14 +173,6 @@
         "url": "https://www.theguardian.com/us-news/2026/feb/27/new-york-businesswoman-finance-scheme-sentence",
         "source": "Business | The Guardian",
         "published": "2026-02-27T23:17:13+00:00"
-      },
-      {
-        "id": "740bcfbc3660",
-        "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
-        "summary": "Can two declining companies form a profitable one?",
-        "url": "https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-27T22:39:00+00:00"
       }
     ],
     "破(day)": [
