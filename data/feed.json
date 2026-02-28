@@ -1,308 +1,228 @@
 {
-  "updated_at": "2026-02-25T05:17:12.819953+00:00",
+  "updated_at": "2026-02-28T15:26:01.952055+00:00",
   "trending": [
-    "padma lakshmi",
-    "orlando magic vs lakers match player stats",
-    "millionaire for life",
-    "mikie sherrill",
-    "deandre ayton",
-    "sean duffy",
-    "jaden mcdaniels",
-    "julius randle",
-    "lakers",
-    "byu basketball"
+    "barca vs",
+    "zoo",
+    "did trump declare war on iran",
+    "jd",
+    "shah of iran",
+    "kelly osbourne",
+    "diego garcia",
+    "barcelona schedule",
+    "nfl combine schedule",
+    "barcelona - villarreal"
   ],
   "categories": {
     "急(hr)": [
       {
-        "id": "5b672cab9046",
-        "title": "‘Strong rebound’ for UK housing market with 6% more homes for sale than a year ago",
-        "summary": "Zoopla says it is on target for highest number of new listings on its site in any February in a decade Spring has come early to the UK housing market, with a surge in people listing their homes for sale as confidence returns to the sector, a report by the property website Zoopla found.The site said ...",
-        "url": "https://www.theguardian.com/money/2026/feb/25/uk-housing-market-more-homes-for-sale-zoopla",
+        "id": "432a68c6d577",
+        "title": "It’s been decreed: something must be done about student loans in England",
+        "summary": "The education secretary wants a fairer system and the Tories have leapt in with their own plan – but why now?For anyone who attended university in England in the last 15 or so years, the idea of student loans feeling like some sort of debt trap is hardly news. But three weeks ago, when the journalis...",
+        "url": "https://www.theguardian.com/money/2026/feb/28/its-been-decreed-something-must-be-done-about-student-loans-in-england",
         "source": "Business | The Guardian",
-        "published": "2026-02-25T05:00:01+00:00"
+        "published": "2026-02-28T15:00:14+00:00"
       },
       {
-        "id": "7b7bcb88d572",
-        "title": "India’s AI boom pushes firms to trade near-term revenue for users",
-        "summary": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
-        "url": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T02:00:00+00:00"
-      },
-      {
-        "id": "bf3239f9a9f2",
-        "title": "Nvidia challenger AI chip startup MatX raised $500M",
-        "summary": "The startup was founded by former Google TPU engineers in 2023.",
-        "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T00:45:47+00:00"
-      },
-      {
-        "id": "aec888891ef4",
-        "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
-        "summary": "Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve.",
-        "url": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
-        "source": "TechCrunch",
-        "published": "2026-02-25T00:37:59+00:00"
-      },
-      {
-        "id": "5c9f6890cf45",
-        "title": "Boozy chimps fail urine test, confirm hotly debated theory",
-        "summary": "Spare a thought for the intrepid graduate students who spent last summer in Africa collecting chimp urine.",
-        "url": "https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-25T00:05:05+00:00"
-      },
-      {
-        "id": "7180e10e57d9",
-        "title": "Pop-up journals for policy research: can temporary titles deliver answers?",
-        "summary": "Nature, Published online: 25 February 2026; doi:10.1038/d41586-026-00446-7Journals that focus on specific research questions could help to bridge the science–policy gap, if they can attract researchers.",
-        "url": "https://www.nature.com/articles/d41586-026-00446-7",
-        "source": "Nature",
-        "published": "2026-02-25T00:00:00+00:00"
-      },
-      {
-        "id": "35607b5bca55",
-        "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
-        "summary": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model.",
-        "url": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T23:32:00+00:00"
-      },
-      {
-        "id": "2c6b2257e020",
-        "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws",
-        "summary": "Apple complies with new age-assurance laws in the U.S. and abroad, including those that block users from downloading apps aimed at adults.",
-        "url": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T23:21:54+00:00"
-      },
-      {
-        "id": "c8fc01aab394",
-        "title": "Uber engineers built an AI version of their boss",
-        "summary": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
-        "url": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T23:09:28+00:00"
-      },
-      {
-        "id": "43263ff12e67",
-        "title": "WBD says Paramount’s new, higher offer could be “superior” to Netflix's",
-        "summary": "WBD's board is still reviewing the offer.",
-        "url": "https://arstechnica.com/gadgets/2026/02/paramount-increases-its-warner-bros-discovery-bid-by-1-per-share/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-24T22:52:52+00:00"
-      },
-      {
-        "id": "2da7ba924aa7",
-        "title": "Following 35% growth, solar has passed hydro on US grid",
-        "summary": "Coal makes a bit of a comeback, if only by accident.",
-        "url": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-24T22:40:08+00:00"
-      },
-      {
-        "id": "94fda2a1ebb3",
-        "title": "Stripe is reportedly eyeing deal to buy some or all of PayPal",
-        "summary": "Stripe might be looking to buy PayPal, or parts of it, per early reports.",
-        "url": "https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T22:35:30+00:00"
-      },
-      {
-        "id": "aab485be0067",
-        "title": "Former L3Harris Trenchant boss jailed for selling hacking tools to Russian broker",
-        "summary": "Peter Williams, the former head of U.S. hacking tools maker L3Harris Trenchant, was sentenced to seven years in prison for stealing and selling his former company’s hacking and surveillance tools to a Russian firm.",
-        "url": "https://techcrunch.com/2026/02/24/former-l3harris-trenchant-boss-jailed-for-selling-hacking-tools-to-russian-broker/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T21:50:23+00:00"
-      },
-      {
-        "id": "b6d5e4f8ff22",
-        "title": "Google’s new 1.9GW clean energy deal includes massive 100-hour battery",
-        "summary": "Form Energy's iron-air batteries will store wind and solar power to keep the data center running 24/7.",
-        "url": "https://techcrunch.com/2026/02/24/googles-new-1-9gw-clean-energy-deal-includes-massive-100-hour-battery/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T21:32:22+00:00"
-      },
-      {
-        "id": "0173bd3ee2b1",
-        "title": "CarGurus data breach affects 12.5 million accounts",
-        "summary": "Automotive marketplace CarGurus was the target of a data breach in which the names, email addresses, phone numbers, and physical addresses of millions of customers were stolen.",
-        "url": "https://techcrunch.com/2026/02/24/cargurus-data-breach-affects-12-5-million-accounts/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T21:27:42+00:00"
-      },
-      {
-        "id": "5088e7be4a31",
-        "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
-        "summary": "The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises questions about government leverage, vendor dependence, and investor confidence in defense tech.",
-        "url": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T21:18:45+00:00"
-      },
-      {
-        "id": "1deef5e88500",
-        "title": "DJI sues the FCC for “carelessly” restricting its drones",
-        "summary": "DJI lawsuit says company has been \"severely harmed by the FCC’s ruling.\"",
-        "url": "https://arstechnica.com/gadgets/2026/02/dji-sues-the-fcc-for-carelessly-restricting-its-drones/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-24T21:15:26+00:00"
-      },
-      {
-        "id": "c8bb3872d44d",
-        "title": "Discord delays global rollout of age verification after backlash",
-        "summary": "The company added that 90% of users won’t need to verify their age and will be able to keep using Discord as usual.",
-        "url": "https://techcrunch.com/2026/02/24/discord-delays-global-rollout-of-age-verification-after-backlash/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T20:48:06+00:00"
-      },
-      {
-        "id": "1634a7d4153b",
-        "title": "Instagram head pressed on lengthy delay to launch teen safety features, like a nudity filter, court filing reveals",
-        "summary": "An email chain with Instagram head Adam Mosseri indicated the company was aware of teen safety issues in DMs in 2018, but didn't launch its unwanted-nudity filter until 2024.",
-        "url": "https://techcrunch.com/2026/02/24/instagram-head-pressed-on-lengthy-delay-to-launch-teen-safety-features-like-a-nudity-filter-court-filing-reveals/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T20:35:47+00:00"
-      },
-      {
-        "id": "7e3fa3cbe4ad",
-        "title": "UK fines Reddit for not checking user ages aggressively enough",
-        "summary": "UK agency alleges \"Reddit failed to apply any robust age assurance mechanism.\"",
-        "url": "https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-24T19:53:15+00:00"
-      },
-      {
-        "id": "43c8cdb361dc",
-        "title": "More startups are hitting $10M ARR in 3 months than ever before",
-        "summary": "AI has brought the startup world the rise of companies that instantly hit multimillion-dollar ARR. Stripe revealed some data that shows how common this has become.",
-        "url": "https://techcrunch.com/2026/02/24/more-startups-are-hitting-10m-arr-in-3-months-than-ever-before/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T19:39:36+00:00"
-      },
-      {
-        "id": "a6a75994d3a0",
-        "title": "Instagram’s TV app is launching on Google TV devices",
-        "summary": "By bringing Reels to TV, Instagram is looking to better compete with YouTube, which largely dominates the TV space.",
-        "url": "https://techcrunch.com/2026/02/24/instagrams-tv-app-is-launching-on-google-tv-devices/",
-        "source": "TechCrunch",
-        "published": "2026-02-24T19:13:06+00:00"
-      },
-      {
-        "id": "69f1ba33d51c",
-        "title": "The Guardian view on Donald Trump’s tariffs: a nostalgia that misreads a changed world | Editorial",
-        "summary": "The US president fights 1970s battles in a financialised age. America faces not a payments crisis but a slow erosion of industrial and technological powerWhen the US supreme court voted 6-3 last Friday to strike down Donald Trump’s tariffs, he was incandescent. Two judges he had elevated – Neil Gors...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/24/the-guardian-view-on-donald-trumps-tariffs-a-nostalgia-that-misreads-a-changed-world",
+        "id": "b7d35b2c80ec",
+        "title": "‘A temple of food’: London’s grande dame Simpson’s in the Strand rises again",
+        "summary": "As the storied London dining room reopens on its bicentenary, restaurateur Jeremy King honours its heritage while restoring a faded iconSimpson’s in the Strand was the sort of London institution where nothing changed without very good reason. Founded in 1828 as a coffee and chess club, the restauran...",
+        "url": "https://www.theguardian.com/uk-news/2026/feb/28/a-temple-of-food-london-grand-dame-simpsons-in-the-strand-rises-again",
         "source": "Business | The Guardian",
-        "published": "2026-02-24T19:07:40+00:00"
+        "published": "2026-02-28T14:00:14+00:00"
       },
       {
-        "id": "4270c0754485",
-        "title": "Young bearing the brunt of UK tax and wage changes, says BoE economist",
-        "summary": "Huw Pill warns combined effect of national insurance and minimum wage rises have ‘acute’ effect on youth employment The negative effect of a combined increase in employers’ taxes and minimum wages has been “particularly acute” for young people, the Bank of England’s chief economist has warned.Huw Pi...",
-        "url": "https://www.theguardian.com/society/2026/feb/24/youth-unemployment-uk-tax-wage-increase-bank-of-england",
+        "id": "af48554e2283",
+        "title": "Square Mile strikes back: how the City of London is fighting disinformation about crime",
+        "summary": "Panic about antisocial behaviour and theft has broken through from social media to boardrooms and diplomatic circles“Just visit London and you’ll see that it’s filled with crime,” the tech billionaire Elon Musk said as he was beamed into Tommy Robinson’s far-right rally in the UK capital last Septem...",
+        "url": "https://www.theguardian.com/business/2026/feb/28/city-of-london-fighting-disinformation-crime",
         "source": "Business | The Guardian",
-        "published": "2026-02-24T19:07:38+00:00"
+        "published": "2026-02-28T14:00:13+00:00"
       },
       {
-        "id": "742418f09032",
-        "title": "The Guardian view on temporary accommodation bills: short-term fixes must be backed up by housebuilding | Editorial",
-        "summary": "Liverpool council’s success in negotiating with landlords is a model of how to save to invest in housingLocal authorities are experiencing some of the highest temporary accommodation bills on record. Councils in England spent £2.8bn last year on homeless accommodation – a 25% increase on the year be...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/24/the-guardian-view-on-temporary-accommodation-bills-short-term-fixes-must-be-backed-up-by-housebuilding",
+        "id": "6f3fbdf62f22",
+        "title": "Decision to allow UK exports to Armenian firm under review over Russian links",
+        "summary": "Cygnet Texkimp was approved to export machines to Rydena, but ministers examining deal after Guardian highlighted founders’ links to Kremlin military supply chainMinisters are reviewing a decision to allow a British company to export hi-tech equipment to Armenia after the Guardian uncovered links to...",
+        "url": "https://www.theguardian.com/politics/2026/feb/28/decision-allow-uk-exports-cygnet-texkimp-armenian-firm-review-russian-links",
         "source": "Business | The Guardian",
-        "published": "2026-02-24T19:06:28+00:00"
+        "published": "2026-02-28T13:00:12+00:00"
+      },
+      {
+        "id": "9438700488a5",
+        "title": "The real winners of Trump’s global tariff war: law firms, hedge funds and AI",
+        "summary": "Businesses are vying for a refund, with nearly $175bn on the line, but customers are unlikely to benefit from reversalAt 8am, two hours before the US supreme court officially slapped down Donald Trump’s “liberation day” tariffs on 20 February, Joseph Spraragen’s phone was already ringing off the hoo...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/28/trump-tariffs-refunds-law-firms",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T12:00:12+00:00"
+      },
+      {
+        "id": "c3552d521e81",
+        "title": "Trump just got much closer to bringing CNN to heel | Margaret Sullivan",
+        "summary": "With David Ellison’s Paramount Skydance poised to buy Warner Bros Discovery, the president is tightening his grip on the US mediaGet Margaret Sullivan’s latest columns delivered straight to your inbox by signing up hereFor many years, Donald Trump has trashed CNN and has taught his loyal followers t...",
+        "url": "https://www.theguardian.com/commentisfree/2026/feb/28/trump-paramount-skydance-warner-bros-cnn-netflix",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T12:00:11+00:00"
+      },
+      {
+        "id": "38f6643747f8",
+        "title": "Dirty water, death and decline: the inside story of a privatisation scandal",
+        "summary": "There is no end in sight to the pollution caused by a ‘broken’ system. Experts say it could even be getting worseSarah Lambert took her usual morning swim for 40 minutes off Exmouth town beach before her volunteer shift helping disabled people get access to the water.A wheelchair user herself, Lambe...",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/28/dirty-water-death-and-decline-the-inside-story-of-a-privatisation-scandal",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T10:51:46+00:00"
+      },
+      {
+        "id": "610fa9ecda3c",
+        "title": "Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life.",
+        "summary": "Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbotOn 7 August, Kate Fox received a phone call that upended her life. A medical examiner said that her husband, Joe Ceccanti – who had been missing for several hours – had jumped from a rail...",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T10:00:08+00:00"
+      },
+      {
+        "id": "c1d29ca428ab",
+        "title": "Poisoned chalice? The BBC’s struggles to find a successor to Tim Davie",
+        "summary": "As the director general prepares to stand down, potential candidates have fallen away amid a series of crisesThere is an impressive shortlist circulating in Britain’s media circles, comprising some of the most talented executives in the business. Unfortunately for the BBC, it contains the names of f...",
+        "url": "https://www.theguardian.com/media/2026/feb/28/bbc-struggles-to-find-a-successor-to-tim-davie-director-general",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T08:00:05+00:00"
+      },
+      {
+        "id": "a28a95ff57ab",
+        "title": "Premium bonds: odds of a win to get worse from April",
+        "summary": "Likelihood of winning to decrease after NS&amp;I cut the proportion of the total invested amount paid out in prizesThere was some bad news this week for Britain’s 22 million-strong army of premium bond holders: the odds of winning a prize are to get worse.National Savings and Investments (NS&amp;I) ...",
+        "url": "https://www.theguardian.com/money/2026/feb/28/premium-bonds-odds-win-worse-nsi-prizes",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T07:00:10+00:00"
+      },
+      {
+        "id": "16c09ca05901",
+        "title": "Harrods faces legal action over £1-a-head dining charge not going to staff",
+        "summary": "Case brought by 29 workers and backed by UVW union seen as test case that could lead to changes at other restaurantsHarrods is facing legal action over its addition of a £1-a-head cover charge to diners’ bills that does not go to workers, in a test case that could lead to changes at a string of upma...",
+        "url": "https://www.theguardian.com/business/2026/feb/28/harrods-dining-charge-workers-union-legal-action",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T07:00:08+00:00"
+      },
+      {
+        "id": "23dcef615ab7",
+        "title": "‘I charge my adult kids £300 a month to live with me’: how families share costs",
+        "summary": "As high rents push more adult children back to the family nest, it is vital to have a conversation about who pays whatWhen her 27-year-&nbsp;old son and 24-year-old daughter moved back home, Tricia Carter decided to ask them to pay rent. The 63-year-old, who lives in south London, charges them £300 ...",
+        "url": "https://www.theguardian.com/money/2026/feb/28/charge-adult-kids-families-share-costs",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T07:00:06+00:00"
+      },
+      {
+        "id": "e615c032da77",
+        "title": "‘I live in constant fear’: surge in giant sinkholes threatens Turkey’s farmers",
+        "summary": "Falling groundwater, extreme heat and water-intensive farming are accelerating land collapse, forcing a rethink in agricultural practicesFatih Sik was drinking tea with friends at home when he heard a rumbling sound outside that grew to a loud boom, like a volcano had erupted nearby. From the window...",
+        "url": "https://www.theguardian.com/world/2026/feb/28/i-live-in-constant-fear-surge-in-giant-sinkholes-threatens-turkeys-farmers",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T07:00:05+00:00"
+      },
+      {
+        "id": "f10689820a79",
+        "title": "Trump administration warns tariff refund process ‘will take time’",
+        "summary": "DoJ says it will not ask US supreme court to rehear tariffs case despite president’s complaint on Truth SocialSign up for the Breaking News US email to get newsletter alerts in your inboxThe Trump administration said refunds of tariffs struck down by the US supreme court “will take time”, according ...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/27/trump-tariff-refunds",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T05:56:32+00:00"
+      },
+      {
+        "id": "b81a5cff9015",
+        "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+        "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
+        "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-28T01:26:41+00:00"
+      },
+      {
+        "id": "9d06fa514af3",
+        "title": "The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it",
+        "summary": "\"There were assumptions that were made in the strategy that obviously didn’t come to fruition.\"",
+        "url": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-28T00:32:24+00:00"
+      },
+      {
+        "id": "a1b12163dd88",
+        "title": "New York businesswoman sentenced to nine years for $30m political finance scheme",
+        "summary": "Sherry Xue Li ripped off millions from foreign investors and funnelled some stolen money into US political campaignsSign up for the Breaking News US email to get newsletter alerts in your inboxA New York businesswoman was sentenced Friday to nine years in federal prison over a financial scheme that ...",
+        "url": "https://www.theguardian.com/us-news/2026/feb/27/new-york-businesswoman-finance-scheme-sentence",
+        "source": "Business | The Guardian",
+        "published": "2026-02-27T23:17:13+00:00"
+      },
+      {
+        "id": "740bcfbc3660",
+        "title": "Under a Paramount-WBD merger, two struggling media giants would unite",
+        "summary": "Can two declining companies form a profitable one?",
+        "url": "https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-27T22:39:00+00:00"
+      },
+      {
+        "id": "a917d120d381",
+        "title": "Paramount Skydance wins Warner Bros Discovery bid after Netflix walks away from deal",
+        "summary": "Streamer said ‘deal no longer financially attractive’ at price required to match offer by David Ellison’s firmParamount Skydance has beaten Netflix to take over Warner Bros Discovery’s storied Hollywood studios and streaming business after the streaming giant refused to increase its bid.The $110bn d...",
+        "url": "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros",
+        "source": "Business | The Guardian",
+        "published": "2026-02-27T22:17:29+00:00"
+      },
+      {
+        "id": "32ced7e38bae",
+        "title": "Photons that aren't actually there influence superconductivity",
+        "summary": "Interactions between neighboring materials is mediated by virtual photons.",
+        "url": "https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-27T21:27:33+00:00"
       }
     ],
     "破(day)": [
       {
-        "id": "d550b18b96bf",
-        "title": "Quoting Kellan Elliott-McCrea",
-        "summary": "It’s also reasonable for people who entered technology in the last couple of decades because it was good job, or because they enjoyed coding to look at this moment with a real feeling of loss. That feeling of loss though can be hard to understand emotionally for people my age who entered tech becaus...",
-        "url": "https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-25T03:30:32+00:00"
-      },
-      {
-        "id": "bffef749c14f",
-        "title": "Linear walkthroughs",
-        "summary": "Agentic Engineering Patterns &gt;\n    Sometimes it's useful to have a coding agent give you a structured walkthrough of a codebase. \nMaybe it's existing code you need to get up to speed on, maybe it's your own code that you've forgotten the details of, or maybe you vibe coded the whole thing and nee...",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-25T01:07:10+00:00"
-      },
-      {
-        "id": "a925b71712cc",
-        "title": "Anthropic says it ‘cannot in good conscience’ allow Pentagon to remove AI checks",
-        "summary": "Pete Hegseth has threatened to cancel $200m contract unless it is given unfettered access to Claude modelAnthropic said Thursday it “cannot in good conscience” comply with a demand from the Pentagon to remove safety precautions from its artificial intelligence model and grant the US military unfette...",
-        "url": "https://www.theguardian.com/us-news/2026/feb/26/anthropic-pentagon-claude",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-26T23:28:14+00:00"
-      },
-      {
-        "id": "b8f6a61f695c",
-        "title": "‘Uncanny Valley’: Pentagon vs. ‘Woke’ Anthropic, Agentic vs. Mimetic, and Trump vs. State of the Union",
-        "summary": "Our hosts unpack the news of the week, starting with the ongoing feud between Anthropic and the Pentagon. Plus: All you need to know about TAT-8 and undersea cables.",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
-        "source": "Business Latest",
-        "published": "2026-02-26T23:20:36+00:00"
-      },
-      {
-        "id": "b1915e696b47",
-        "title": "Meredith Hooper obituary",
-        "summary": "Author and historian whose studies of Antarctica provided an account of the human endeavour behind climate scienceThe writer and historian Meredith Hooper, who has died aged 86, had a particular affinity for Antarctica, the continent across the Southern Ocean from her native South Australia. It was ...",
-        "url": "https://www.theguardian.com/world/2026/feb/24/meredith-hooper-obituary",
-        "source": "Children and teenagers | The Guardian",
-        "published": "2026-02-24T16:54:09+00:00"
-      },
-      {
-        "id": "671ca4e925a6",
-        "title": "The Last Mystery of Antarctica’s ‘Blood Falls’ Has Finally Been Solved",
-        "summary": "New research sheds light on what drives reddish water to emerge from underground to pour onto the Taylor Glacier.",
-        "url": "https://www.wired.com/story/the-last-mystery-of-antarcticas-blood-falls-has-finally-been-solved/",
-        "source": "Science Latest",
-        "published": "2026-02-24T16:31:42+00:00"
-      },
-      {
-        "id": "ec6f529060e8",
-        "title": "go-size-analyzer",
-        "summary": "go-size-analyzer\nThe Go ecosystem is really good at tooling. I just learned about this tool for analyzing the size of Go binaries using a pleasing treemap view of their bundled dependencies.\nYou can install and run the tool locally, but it's also compiled to WebAssembly and hosted at gsa.zxilly.dev ...",
-        "url": "https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-24T16:10:06+00:00"
-      },
-      {
-        "id": "39f62cf4863e",
-        "title": "Reddit fined £14.5m in UK over use of under-13s’ data",
-        "summary": "Information Commissioner’s Office imposes largest fine yet for a breach of children’s privacy The UK information regulator has fined the social news service Reddit £14.5m for using the data of children under the age of 13 unlawfully and potentially exposing them to inappropriate and harmful content....",
-        "url": "https://www.theguardian.com/technology/2026/feb/24/reddit-fined-uk-children-under-13-data",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-24T15:57:23+00:00"
-      },
-      {
-        "id": "83d2adf52e91",
-        "title": "‘A feedback loop with no brake’: how an AI doomsday report shook US markets",
-        "summary": "Shares in Uber, Mastercard and American Express fall on back of apocalypse scenario posted on Substack  US stock markets have been hit by a further wave of AI jitters, this time from yet another viral – and completely speculative – warning about the impact of the technology on the world’s largest ec...",
-        "url": "https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-24T15:17:15+00:00"
-      },
-      {
-        "id": "9f697c540451",
-        "title": "plugdata, cyclone get major updates — free stuff for patchers and end users",
-        "summary": "Recent updates for the visual programming environment plugdata (a wrapped for Pure Data) and the powerful object library cyclone are keeping the goodness going. Whether you're looking to do patching and development in a graphical tool or just enjoy the free stuff people are making with Pd, that's gr...",
-        "url": "https://cdm.link/plugdata-cyclone-get-major-updates-free-stuff-for-patchers-and-end-users/",
+        "id": "2ca230e5b9c9",
+        "title": "Now meshes, video, and more can go 3D inside Ableton Live: SenSei update",
+        "summary": "EboSuite and SenSei, live visual add-ons for Ableton Live, got some nice updates this week. SenSei, the tool that puts the power of Unreal Engine inside Ableton Live, gets a particularly major expansion, with some 27 new plug-ins, including mesh loaders, 3D video effects, visualizers, dynamic surfac...",
+        "url": "https://cdm.link/sensei-3d-update/",
         "source": "CDM Create Digital Music",
-        "published": "2026-02-24T14:26:00+00:00"
+        "published": "2026-02-27T19:03:23+00:00"
       },
       {
-        "id": "0f37913405b8",
-        "title": "Meta agrees $60bn deal with chipmaker AMD despite AI bubble fears",
-        "summary": "Facebook owner’s investment described by semiconductor company as ‘big bet’ on artificial intelligenceThe owner of Facebook has agreed to buy $60bn (£44.5bn) of artificial intelligence chips from the US semiconductor company Advanced Micro Devices – despite fears about the vast sums  committed to AI...",
-        "url": "https://www.theguardian.com/technology/2026/feb/24/meta-amd-deal-chipmaker-ai-bubble-facebook",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-24T13:18:32+00:00"
+        "id": "897d15053e88",
+        "title": "Essential mix: let an hour of tilde’s music energize you (then nerd out!)",
+        "summary": "Glitchy but driving broken beats are what's for dinner. Hannover's tilde (~) is a font of knowledge on topics from Pd/plugdata to Bitwig Studio Grid FX to mixing and mastering. And those skills translate to some genius grooves. Listen up to this full-power montage of all original music.\nThe post Ess...",
+        "url": "https://cdm.link/essential-mix-tilde-music/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-27T17:15:50+00:00"
+      },
+      {
+        "id": "fa7910dac88d",
+        "title": "從修復到本土再現：《原鄉人》與《小城故事》的客語新聲",
+        "summary": "李行導演兩部代表客家族群的經典作品《原鄉人》與《小城故事》，近年完成數位修復，並為影片錄製客語配音，彌補導演當年因「時代背景因素」而未竟的希望，也為「沉默」的客語電影史時期賦予了新的聲音。",
+        "url": "https://www.twreporter.org/a/saturday-features-film-digital-restoration-of-hakka-films",
+        "source": "報導者",
+        "published": "2026-02-27T16:00:00+00:00"
+      },
+      {
+        "id": "002e6efe3533",
+        "title": "In her own words: watch a free documentary on Éliane Radigue",
+        "summary": "Éliane Radigue in full, uninterrupted motion, is breathtaking in her thoughts. So it&#8217;s wonderful that the filmmakers behind the documentary short Échos have put that film up for free to honor her memory this week. Get ready for sprawling shots of the ARP modular synthesizer and deep reflection...",
+        "url": "https://cdm.link/watch-echos-documentary-eliane-radigue-free/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-27T13:23:15+00:00"
+      },
+      {
+        "id": "14a679381644",
+        "title": "Curve time with Tomavatars’ MGenBend for Ableton Live Suite: hands-on",
+        "summary": "Escaping the rigid, repetitive grid helps to make gestures the way we would on instruments. I've been talking to Tomavatars as he developed this one, and the MGenBend Max for Live Device lets you create elegant, multi-point curves for notes, strumming, and arpeggios.\nThe post Curve time with Tomavat...",
+        "url": "https://cdm.link/mgenbend-curve-sequencer/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-26T22:41:04+00:00"
+      },
+      {
+        "id": "268beb94467e",
+        "title": "十週年OPEN講｜在受害者照顧、加害者處遇失靈的社會，彭仁郁×張子午：將創傷經驗公共化之必要",
+        "summary": "這集，《報導者》副總編輯張子午邀請中研院民族所副研究員彭仁郁對談。子午投入精神疾患汙名與兒少性剝削等議題，他如何看見陽光背後的陰影？彭仁郁長年投注白色恐怖等政治暴力創傷受害者研究，她為何提醒，台灣威權體制遺緒未被正視，社會就無法被真正修復？",
+        "url": "https://www.twreporter.org/a/podcast-2026-02-27",
+        "source": "報導者",
+        "published": "2026-02-26T16:00:00+00:00"
       },
       {
         "id": "30f5ccb7e3f4",
@@ -313,14 +233,6 @@
         "published": "2026-02-26T16:00:00+00:00"
       },
       {
-        "id": "f3f95f247672",
-        "title": "First run the tests",
-        "summary": "Agentic Engineering Patterns &gt;\n    Automated tests are no longer optional when working with coding agents.\nThe old excuses for not writing them - that they're time consuming and expensive to constantly rewrite while a codebase is rapidly evolving - no longer hold when an agent can knock them into...",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-24T12:30:05+00:00"
-      },
-      {
         "id": "5d1a724542a7",
         "title": "Polyfold from Manifest Audio lets you paint with polymetric patterns",
         "summary": "A 1024-step, multilane polyphonic sequencer sounds overwhelming. But the latest Manifest Audio polymetric sequencer, Polyfold, offers a palette of various patterns and shapes that you can deploy across that vast canvas, easily and quickly. It opens up sequencing in Live 12+ Suite, free from the usua...",
@@ -329,92 +241,100 @@
         "published": "2026-02-26T15:51:35+00:00"
       },
       {
-        "id": "7cf523b7061f",
-        "title": "AI Will Never Be Conscious",
-        "summary": "In his new book, A World Appears, Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.",
-        "url": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
-        "source": "Business Latest",
-        "published": "2026-02-24T11:00:00+00:00"
+        "id": "35157cad5e45",
+        "title": "Ask a Techspert: What’s a world model?",
+        "summary": "Animation showing various bubbles with characters navigating different environments, like a trekker walking up a snowy mountain and a bird flying through a jungle.",
+        "url": "https://blog.google/company-news/inside-google/googlers/ask-a-techspert/what-is-a-world-model-project-genie/",
+        "source": "Google DeepMind",
+        "published": "2026-02-25T17:00:00+00:00"
       },
       {
-        "id": "1e2494168269",
-        "title": "The best massage guns in the UK to relieve sore, tired muscles",
-        "summary": "Add percussive therapy to your post-workout routine with our expert picks, including mini and deep-tissue models. Plus, a brand new frontrunner now in top spot• The best running shoes, testedMassage guns are often pitched at the highly active. They can help you warm up for workouts, accelerate recov...",
-        "url": "https://www.theguardian.com/thefilter/2025/jan/24/best-massage-guns",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-24T10:44:02+00:00"
+        "id": "e40097c6de8e",
+        "title": "【投書】別再把阿公阿媽送回育兒前線，優質安心普及的托育服務才是首選",
+        "summary": "民眾黨近日提出政策主張培力祖父母考取托育證照，滿足家庭照顧需求，也補足托育人力缺口。彷彿一舉數得的政策，其實14年前就曾上路卻黯然退場，不只親屬轉保母人數有限、排擠托育人力受訓名額，訪視管理耗費成本又無效⋯⋯",
+        "url": "https://www.twreporter.org/a/opinion-grandparents-are-not-solutions-for-childcare-services",
+        "source": "報導者",
+        "published": "2026-02-25T16:00:00+00:00"
       },
       {
-        "id": "91d7309f817a",
-        "title": "Anlife: what does an unusual evolution simulator have to say about AI?",
-        "summary": "We explore the strange food-obsessed world of a new game whose tech was once called ‘an insult to life itself’ by Hayao Miyazaki, the film-maker behind Spirited AwayA strange piece of software has recently landed on the PC gaming store Steam. And “software” feels like the cleanest way to describe it...",
-        "url": "https://www.theguardian.com/games/2026/feb/24/anlife-what-does-an-unusual-evolution-simulator-have-to-say-about-ai",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-24T10:00:11+00:00"
-      },
-      {
-        "id": "24075be11aef",
-        "title": "‘It’s not Robocop’: UK police embrace AI ‘efficiency’ in complex investigations",
-        "summary": "Detectives say tools supplied by Palantir were integral to convictions of a criminal gang that stole £800,000It was fraud on a grand scale. The “Fuck the Police” criminal gang based in Luton and Romania stole £800,000 in more than 3,000 withdrawals from cash machines in dozens of locations throughou...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/24/its-not-robocop-uk-police-embrace-ai-efficiency-in-complex-investigations",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-24T07:00:04+00:00"
-      },
-      {
-        "id": "273dab4d321b",
-        "title": "Police AI chief admits crime-fighting tech will have bias but vows to tackle it",
-        "summary": "Exclusive: NCA’s Alex Murray says he hopes new £115m police AI centre can limit unfairness found in tools‘It’s not Robocop’: UK police embrace AI ‘efficiency’ in complex investigationsA police chief has admitted artificial intelligence used to boost crime fighting will contain bias but pledged to co...",
-        "url": "https://www.theguardian.com/technology/2026/feb/24/police-ai-chief-admits-crime-fighting-tech-will-have-bias-but-vows-to-tackle-it",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-24T07:00:03+00:00"
-      },
-      {
-        "id": "4a8e9cf79e13",
-        "title": "Mumsnet calls for under-16s social media ban with cigarette-style health warnings",
-        "summary": "Resembling cigarette packet warnings, the ads highlight dangers and urge people to email MPs Mumsnet has launched a campaign to introduce a ban on social media for under-16s featuring health warnings in the style of those on cigarette packets.The deliberately provocative national advertising campaig...",
-        "url": "https://www.theguardian.com/society/2026/feb/26/mumsnet-campaign-demands-ban-social-media-under-16s",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-26T07:28:12+00:00"
-      },
-      {
-        "id": "1d9836cf627c",
-        "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
-        "summary": "Google API Keys Weren&#x27;t Secrets. But then Gemini Changed the Rules.\nYikes! It turns out Gemini and Google Maps (and other services) share the same API keys... but Google Maps API keys are designed to be public, since they are embedded directly in web pages. Gemini API keys can be used to access...",
-        "url": "https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything",
-        "source": "Simon Willison's Weblog",
-        "published": "2026-02-26T04:28:55+00:00"
-      },
-      {
-        "id": "277ca4b74516",
-        "title": "Where Is the Green Sheep? The 190-word picture book that sold millions – and inspired a whole live show",
-        "summary": "Written by Mem Fox with illustrations by Judy Horacek, Green Sheep was recently voted third-best Australian picture book of all time by Guardian readersGet our weekend culture and lifestyle emailWhen Judy Horacek drew a little green sheep and posted it to her website, she never could have imagined w...",
-        "url": "https://www.theguardian.com/stage/2026/feb/24/where-is-the-green-sheep-picture-book-mem-fox-judy-horacek-live-show",
-        "source": "Children and teenagers | The Guardian",
-        "published": "2026-02-23T23:44:41+00:00"
-      },
-      {
-        "id": "f132745bcbf4",
-        "title": "As we enter the age of the AI-rranged marriage, here’s why I hate Fate | Van Badham",
-        "summary": "When the most profound human emotion becomes an automated transaction in an online shop, the techlords have wonThe Guardian reported on the arrival of “Fate” and, friends, I laughed. Or maybe I cried.It’s apparently the first “agentic AI dating app”. An AI personality named “Fate” interviews users, ...",
-        "url": "https://www.theguardian.com/commentisfree/2026/feb/24/fate-ai-dating-sites-apps-marriage-dystopia",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-23T23:16:34+00:00"
-      },
-      {
-        "id": "365c0593daaa",
-        "title": "US AI giant accuses Chinese rivals of mass data theft",
-        "summary": "Anthropic says three Chinese firms used ‘distillation’ technique to extract information from its Claude chatbotUS artificial intelligence company Anthropic said on Monday it had uncovered campaigns by three Chinese AI firms to illicitly extract capabilities from its Claude chatbot, in what it descri...",
-        "url": "https://www.theguardian.com/technology/2026/feb/23/us-ai-anthropic-china",
-        "source": "Technology | The Guardian",
-        "published": "2026-02-23T23:15:50+00:00"
-      },
-      {
-        "id": "960a2076ef62",
-        "title": "Ardour 9.2, free and open DAW, grants user wishes — Region FX, anyone?",
-        "summary": "If you haven't tried Ardour in a while -- or if you're new to the idea that a DAW could be free and open source -- you might be surprised. Major updates and a lot of listening to users means you don't have to sacrifice features like clip recording and editing (including looping), piano roll windows,...",
-        "url": "https://cdm.link/ardour-9-2-free-and-open-daw/",
+        "id": "f520b40fcefc",
+        "title": "Inside the new modules in the free AAS Multiphonics CV-3 v3.1 update",
+        "summary": "Applied Acoustics Systems' flagship modular, Multiphonics CV-3, gets four powerful modules in \"the FM+ update\" out this month. Here's a dive into what those modules can do -- and if you're pondering picking up CV-3 for the first time, it's discounted now, too.\nThe post Inside the new modules in the ...",
+        "url": "https://cdm.link/aas-multiphonics-v3-1-update/",
         "source": "CDM Create Digital Music",
-        "published": "2026-02-23T20:31:38+00:00"
+        "published": "2026-02-25T15:58:27+00:00"
+      },
+      {
+        "id": "e668584fcd4e",
+        "title": "MIT新方法让两颗芯片共享唯一“指纹”，见面即认证，重写硬件安全规则",
+        "summary": "CMOS（互补金属氧化物半导体） 技术是当今电子世界中最普遍、最基础的芯片制造工艺，几乎渗透到所有现代电子设备中。从智能手机、电视、电脑，到卫星、汽车、医疗仪器，甚至物联网设备和可穿戴装置，CMOS 芯片都扮演着核心角色。如同人类指纹一样，每一颗 CMOS 芯片都存在无法避免的微观制造差异，会产生一个几乎没法复制的“指纹”，这种随机且不可复制的物理特征被称为物理不可克隆函数（PUF）。理论上，PUF 可作为芯片的硬件身份证，用于身份认证与数据加密，比软件密钥更难伪造。但现有 PUF 方案存在明显瓶颈：为完成认证，必须将芯片指纹信息提取并存储在第三方服务器。这种模式存在天然短板：云端数据库一旦被...",
+        "url": "https://www.mittrchina.com/news/detail/15977",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-25T09:29:56+00:00"
+      },
+      {
+        "id": "2206e368a318",
+        "title": "Meta 再次踏足穩定幣市場！傳下半年推掛鉤美元的數位代幣",
+        "summary": "Meta Platforms 預定下半年重新進入穩定幣市場，這是四年前 Libra / Diem 專案終止後的 [&#8230;]",
+        "url": "https://technews.tw/2026/02/25/meta-eyes-stablecoin-integration-by-second-half-2026/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-25T08:25:08+00:00"
+      },
+      {
+        "id": "bcca9443da86",
+        "title": "MIT重磅研究：AI对人类区别对待，英语水平和学历影响AI的回答质量",
+        "summary": "（来源：麻省理工科技评论）大语言模型（LLM）一直被誉为可推动全球信息获取民主化的工具，能够以用户友好的界面向任何背景和地域的人提供知识。然而，MIT 建设性传播中心（CCC）的最新研究表明，这些 AI 系统实际上可能对那些最能从中受益的用户表现更差。CCC 基于 MIT 媒体实验室，其研究人员开展的这项研究发现，包括 OpenAI 的 GPT-4、Anthropic 的 Claude 3 Opus 和 Meta 的 Llama 3 在内的顶尖 AI 聊天机器人，有时会对英语水平较低、受教育程度较低或非美国背景的用户提供准确性和真实性更低的回答。这些模型对上述用户拒绝回答问题的比例也更高，在某...",
+        "url": "https://www.mittrchina.com/news/detail/15974",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-25T05:22:52+00:00"
+      },
+      {
+        "id": "5438c19d3535",
+        "title": "「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史",
+        "summary": "政大文學院院長陳秀芬從學生時期就對中醫充滿興趣，儘管沒走向懸壺濟世之路，卻成為中國古代醫療史的重要學者。 拍攝 [&#8230;]\nThe post 「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/hsiu-fen-chen_a/",
+        "source": "人文．島嶼",
+        "published": "2026-02-25T00:00:36+00:00"
+      },
+      {
+        "id": "a2f131f15b28",
+        "title": "Éliane Radigue has died at 94; portraits – “the sound before sound”",
+        "summary": "Who but Éliane Radigue could work with sound as a medium seemingly in the air and environment itself; whose presence spanned every epoch of electronic music and contemporary acoustic composition quite like her? Radigue has died at 94, as reported today by her label and publisher.\nThe post Éliane Rad...",
+        "url": "https://cdm.link/eliane-radigue-portraits/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-24T17:43:38+00:00"
+      },
+      {
+        "id": "5ebada8a7719",
+        "title": "每年新生兒裡的700個秘密：借精卵生育子女後，家長該告知「基因」身世嗎？捐贈者怎麼想？",
+        "summary": "這集，跟著記者馥年與在此領域研究10年的黃于玲教授，從各方利益關係人聲音展開新的理解視角：家長是否告知身世，對透過捐贈精卵出生子女的心理與家庭關係有哪些影響？現行研究中，捐精卵者是怎麼想？借鏡國際，家長該如何開啟身世告知對話？",
+        "url": "https://www.twreporter.org/a/podcast-2026-02-25",
+        "source": "報導者",
+        "published": "2026-02-24T16:00:00+00:00"
+      },
+      {
+        "id": "35fdf267d0aa",
+        "title": "以戲書寫台灣與自身：「當代戲曲最佳詮釋者」施如芳，把故事過得比生活大",
+        "summary": "被譽為「當代台灣戲曲的最佳詮釋者」的施如芳，近年創作重心從古典走向台灣歷史；去年書寫楊麗花的《如有神在》更獲得台北國際書展獎項肯定。面對自我與台灣的未竟之問，施如芳在欲語還休間、真誠地在迷霧中審視自己，愈是誠懇，愈不肯就範。",
+        "url": "https://www.twreporter.org/a/interview-playwright-shih-ju-fang",
+        "source": "報導者",
+        "published": "2026-02-24T16:00:00+00:00"
+      },
+      {
+        "id": "9f697c540451",
+        "title": "plugdata, cyclone get major updates — free stuff for patchers and end users",
+        "summary": "Recent updates for the visual programming environment plugdata (a wrapped for Pure Data) and the powerful object library cyclone are keeping the goodness going. Whether you're looking to do patching and development in a graphical tool or just enjoy the free stuff people are making with Pd, that's gr...",
+        "url": "https://cdm.link/plugdata-cyclone-get-major-updates-free-stuff-for-patchers-and-end-users/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-02-24T14:26:00+00:00"
+      },
+      {
+        "id": "bb14f4af5f85",
+        "title": "外國人如何在泰國投資？",
+        "summary": "外國人如何在泰國投資？ 作者：TWL Law Group 2026-02-24 規範泰國外國直接投資（Fore [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/02/24/foreigners-investment-in-thailand/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-02-24T14:21:25+00:00"
       }
     ],
     "序(month)": [
@@ -443,36 +363,12 @@
         "published": "2026-02-27T00:07:08+00:00"
       },
       {
-        "id": "383155ebb27e",
-        "title": "GIScience專題演講",
-        "summary": "講者：林寰鐸 博士候選人（Ph.D. Candidate, Computer Science, Univers [&#8230;]",
-        "url": "https://gis.rchss.sinica.edu.tw/speech_20260226/",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心",
-        "published": "2026-02-26T14:45:48+00:00"
-      },
-      {
         "id": "237a28502271",
         "title": "What I learned from remixing “Dreams” over and over",
         "summary": "I was planning to talk about “Dreams” by Fleetwood Mac in class when we discuss modal harmony. Music theory teachers like to bring this tune up as an example of Lydian mode, but I don’t hear it as being in F Lydian. It’s also not clearly in C major, or A minor, or really any &#8230; Continue reading...",
         "url": "https://www.ethanhein.com/wp/2026/what-i-learned-from-remixing-dreams-over-and-over/",
         "source": "The Ethan Hein Blog",
         "published": "2026-02-25T14:24:17+00:00"
-      },
-      {
-        "id": "45fb918a7654",
-        "title": "經理人月刊 AIA 專欄 (3)：砸錢買裝備不叫數位轉型， 耐心的啟蒙和起步，AI才能落地",
-        "summary": "台灣人工智慧學校執行長 陳伶志 上周末和幾位老朋友餐敘，阿強摸著自己的啤酒肚苦笑說：「我最...\nThe post 經理人月刊 AIA 專欄 (3)：砸錢買裝備不叫數位轉型， 耐心的啟蒙和起步，AI才能落地 appeared first on 台灣人工智慧學校.",
-        "url": "https://aiacademy.tw/news-aia-managertoday-digital-transformation-implementation/",
-        "source": "台灣人工智慧學校",
-        "published": "2026-02-25T02:58:12+00:00"
-      },
-      {
-        "id": "4d644364826f",
-        "title": "2026年GIS專題中心大專生暑期專題研習計畫：研究主題清單",
-        "summary": "詹大千老師研究室 預計招募名額：最多 2位暑期實習專題題目：1. TPASS對於通勤圈改變的時空分析2. 舒適 [&#8230;]",
-        "url": "https://gis.rchss.sinica.edu.tw/2026summer_intern_topics/",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心",
-        "published": "2026-02-25T01:23:50+00:00"
       },
       {
         "id": "45fb918a7654",
@@ -587,28 +483,12 @@
         "published": "2026-02-12T18:34:10+00:00"
       },
       {
-        "id": "869766a67df1",
-        "title": "CityGML轉KMZ格式",
-        "summary": "不論是從日本「PLATEAU」計畫下載免費的 3D 城市模型，或是透過內政部國土測繪中心「多維度國家空間資訊 [&#8230;]",
-        "url": "https://gis.rchss.sinica.edu.tw/citygml2kmz/",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心",
-        "published": "2026-02-12T02:40:02+00:00"
-      },
-      {
-        "id": "be43eb690411",
-        "title": "智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex",
-        "summary": "一、引言 刚才我看到，智谱新一代的旗舰模型 GLM-5 已经正式发布了。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/02/glm-5.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-02-12T01:26:13+00:00"
-      },
-      {
-        "id": "2aefc80c4a1a",
-        "title": "QGIS 繁體中文翻譯檔下載",
-        "summary": "QGIS 在臺灣 GIS 社群中已具有相當高的滲透率，憑藉其開源免費、硬體需求低以及豐富的外掛程式資源，長期深 [&#8230;]",
-        "url": "https://gis.rchss.sinica.edu.tw/qgis_zh-hant/",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心",
-        "published": "2026-02-10T14:19:43+00:00"
+        "id": "7d1d9b580aee",
+        "title": "離散與重構：從媒體再現看移台港人的情感結構與身分認同",
+        "summary": "口述：陳嘉銘 (前國立政治大學臺灣史研究所客座學者)、撰稿：楊家瑜圖片來源：https://www.pexels.com/zh-tw/photo/3062541/https://medium.com/media/9dec2c3f15d2753ac1e548f3780367e4/href在2019年後的幾年間，香港與台灣之間的人口流動出現了歷史性的轉折。隨著社會政治環境的變遷，許多香港人選擇離開熟悉的家園，踏上移居台灣的旅程，這不僅僅是一次地理上的遷徙，更是一場關於身分、文化與情感的深層重構。本研究的起點，正源於自身的生命經驗，作為一名在2021年底移居台灣的香港學者，不僅是觀察者，更是親歷者。...",
+        "url": "https://medium.com/@ccs.popcom/%E9%9B%A2%E6%95%A3%E8%88%87%E9%87%8D%E6%A7%8B-%E5%BE%9E%E5%AA%92%E9%AB%94%E5%86%8D%E7%8F%BE%E7%9C%8B%E7%A7%BB%E5%8F%B0%E6%B8%AF%E4%BA%BA%E7%9A%84%E6%83%85%E6%84%9F%E7%B5%90%E6%A7%8B%E8%88%87%E8%BA%AB%E5%88%86%E8%AA%8D%E5%90%8C-faeb51ef1e4a?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2026-02-07T01:15:33+00:00"
       },
       {
         "id": "a162e40e81c3",
@@ -617,30 +497,6 @@
         "url": "https://blog.archive.org/2026/02/06/internet-archive-and-partners-select-local-newsrooms-from-across-the-us-to-participate-in-the-todays-news-for-tomorrow-program/",
         "source": "Internet Archive Blogs",
         "published": "2026-02-06T14:48:51+00:00"
-      },
-      {
-        "id": "d00aec536ee5",
-        "title": "Performance in Dialogue: Exploring Emirati and Polynesian Traditions through Al Harbiya and Haka",
-        "summary": "Last month, Andrew Eisenberg moderated Performance in Dialogue: Harbiya and Haka, an intercultural encounter connecting Emirati and Polynesian performance traditions. Bringing Al Harbiya together with Haka, the session combined performance [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/06/performance-in-dialogue-exploring-emirati-and-polynesian-traditions-through-al-harbiya-and-haka/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-02-06T12:45:23+00:00"
-      },
-      {
-        "id": "bb60007bce9c",
-        "title": "與中央警察大學簽訂學術合作備忘錄",
-        "summary": "中央研究院人文社會科學研究中心(地理資訊科學研究專題中心)與中央警察大學警政管理學院暨警察科技學院簽訂學術合作 [&#8230;]",
-        "url": "https://gis.rchss.sinica.edu.tw/mou_cpu_2026/",
-        "source": "中央研究院人社中心地理資訊科學研究專題中心",
-        "published": "2026-02-05T14:52:10+00:00"
-      },
-      {
-        "id": "7928aa6b3a9b",
-        "title": "‘Depths of Wikipedia’ Creator Annie Rauwerda on ‘Fragile’ Internet Citations",
-        "summary": "Annie Rauwerda can’t remember a world without Wikipedia. Born in 1999, just two years before the platform launched, she says it has been omnipresent in her life and a source [&#8230;]",
-        "url": "https://blog.archive.org/2026/02/05/depths-of-wikipedia-creator-annie-rauwerda-on-fragile-internet-citations/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-02-05T12:00:00+00:00"
       }
     ]
   }
