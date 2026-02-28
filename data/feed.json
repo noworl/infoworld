@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-02-28T17:44:04.727753+00:00",
+  "updated_at": "2026-02-28T19:00:02.751451+00:00",
   "trending": [
-    "jason crow",
-    "bayern munich",
-    "bundesliga",
-    "nc state vs notre dame",
-    "david martinez",
-    "trail blazers vs hornets",
-    "penguins vs rangers",
-    "monaco vs angers",
-    "mónaco - angers",
-    "colorado vs houston"
+    "six flags",
+    "uconn basketball",
+    "nfl combine results",
+    "koe wetzel",
+    "fbi",
+    "nomma zarubina",
+    "al-fayha vs al-nassr",
+    "mario andretti",
+    "jack nicklaus",
+    "mike washington jr"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "e90ed1569d6d",
+        "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
+        "summary": "An AI chatbot convinced health investigators they had the right answer.",
+        "url": "https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/",
+        "source": "Ars Technica - All content",
+        "published": "2026-02-28T18:17:12+00:00"
+      },
+      {
+        "id": "0e134776c5c8",
+        "title": "OpenAI to work with Pentagon after Anthropic dropped by Trump over company’s ethics concerns",
+        "summary": "CEO Sam Altman claims military will not use AI product for autonomous killing systems or mass surveillanceOpenAI said it had struck a deal with the Pentagon to supply AI to classified US military networks, hours after Donald Trump ordered the government to stop using the services of one of the compa...",
+        "url": "https://www.theguardian.com/technology/2026/feb/28/openai-us-military-anthropic",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T17:06:56+00:00"
+      },
       {
         "id": "432a68c6d577",
         "title": "It’s been decreed: something must be done about student loans in England",
@@ -128,7 +144,7 @@
       },
       {
         "id": "b81a5cff9015",
-        "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space",
+        "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
         "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
         "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
         "source": "Ars Technica - All content",
@@ -157,22 +173,6 @@
         "url": "https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/",
         "source": "Ars Technica - All content",
         "published": "2026-02-27T22:39:00+00:00"
-      },
-      {
-        "id": "a917d120d381",
-        "title": "Paramount Skydance wins Warner Bros Discovery bid after Netflix walks away from deal",
-        "summary": "Streamer said ‘deal no longer financially attractive’ at price required to match offer by David Ellison’s firmParamount Skydance has beaten Netflix to take over Warner Bros Discovery’s storied Hollywood studios and streaming business after the streaming giant refused to increase its bid.The $110bn d...",
-        "url": "https://www.theguardian.com/media/2026/feb/26/netflix-paramount-warner-bros",
-        "source": "Business | The Guardian",
-        "published": "2026-02-27T22:17:29+00:00"
-      },
-      {
-        "id": "32ced7e38bae",
-        "title": "Photons that aren't actually there influence superconductivity",
-        "summary": "Interactions between neighboring materials is mediated by virtual photons.",
-        "url": "https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-27T21:27:33+00:00"
       }
     ],
     "破(day)": [
