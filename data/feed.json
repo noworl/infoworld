@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-03-01T16:55:51.925968+00:00",
+  "updated_at": "2026-03-01T17:49:21.284234+00:00",
   "trending": [
-    "real betis - sevilla",
-    "real betis vs sevilla",
-    "torino vs lazio",
-    "cognizant classic leaderboard",
-    "tilak varma",
-    "antalyaspor vs fenerbahçe",
-    "davidson basketball",
-    "aaron jones",
-    "gudakesh motie",
-    "premier league standings"
+    "jim hiller",
+    "st petersburg florida",
+    "rutgers vs maryland",
+    "shivam dube",
+    "piero hincapié",
+    "ruben gallego",
+    "big arch burger",
+    "eric swalwell",
+    "jameis winston",
+    "hincapie"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "ddc4df57168d",
+        "title": "Datacentre developers face calls to disclose effect on UK’s net emissions",
+        "summary": "Campaign groups write to technology secretary amid concerns that sites could double overall electricity demandDatacentre developers are facing pressure to reveal whether their projects will increase the UK’s net greenhouse gas emissions, amid concerns the sites could double national electricity dema...",
+        "url": "https://www.theguardian.com/technology/2026/mar/01/datacentre-developers-energy-greenhouse-gas-emissions",
+        "source": "Business | The Guardian",
+        "published": "2026-03-01T16:00:44+00:00"
+      },
       {
         "id": "0744b6eca110",
         "title": "Waiting on a tariff refund after Trump’s duties were struck down? Don’t bother | Gene Marks",
@@ -111,14 +119,6 @@
         "published": "2026-02-28T18:17:12+00:00"
       },
       {
-        "id": "0e134776c5c8",
-        "title": "OpenAI to work with Pentagon after Anthropic dropped by Trump over company’s ethics concerns",
-        "summary": "CEO Sam Altman claims military will not use AI product for autonomous killing systems or mass surveillanceOpenAI said it had struck a deal with the Pentagon to supply AI to classified US military networks, hours after Donald Trump ordered the government to stop using the services of one of the compa...",
-        "url": "https://www.theguardian.com/technology/2026/feb/28/openai-us-military-anthropic",
-        "source": "Business | The Guardian",
-        "published": "2026-02-28T17:06:56+00:00"
-      },
-      {
         "id": "432a68c6d577",
         "title": "It’s been decreed: something must be done about student loans in England",
         "summary": "The education secretary wants a fairer system and the Tories have leapt in with their own plan – but why now?For anyone who attended university in England in the last 15 or so years, the idea of student loans feeling like some sort of debt trap is hardly news. But three weeks ago, when the journalis...",
@@ -176,6 +176,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "a6f0994bac67",
+        "title": "通報制度漸完備，人力仍吃緊──大專性平會承辦人如「終日磨耗的隱形齒輪」",
+        "summary": "「沒有辦法好好自我照顧，要怎麼建議很受傷的人們學習自我修復？」大專性平會承辦人在龐大工作量壓頂之下，還得承擔難為外人道的創傷、騷擾等精神壓力，結果往往不是自我消耗就是黯然出走⋯⋯",
+        "url": "https://www.twreporter.org/a/processing-clerks-of-gender-equality-committees",
+        "source": "報導者",
+        "published": "2026-03-01T16:00:00+00:00"
+      },
       {
         "id": "5a551239fef6",
         "title": "所有AI全军覆没！近千名学者出2500道题，GPT-5得分25.3%，GPT-4o只有2.7%",
@@ -313,14 +321,6 @@
         "published": "2026-02-26T22:41:04+00:00"
       },
       {
-        "id": "268beb94467e",
-        "title": "十週年OPEN講｜在受害者照顧、加害者處遇失靈的社會，彭仁郁×張子午：將創傷經驗公共化之必要",
-        "summary": "這集，《報導者》副總編輯張子午邀請中研院民族所副研究員彭仁郁對談。子午投入精神疾患汙名與兒少性剝削等議題，他如何看見陽光背後的陰影？彭仁郁長年投注白色恐怖等政治暴力創傷受害者研究，她為何提醒，台灣威權體制遺緒未被正視，社會就無法被真正修復？",
-        "url": "https://www.twreporter.org/a/podcast-2026-02-27",
-        "source": "報導者",
-        "published": "2026-02-26T16:00:00+00:00"
-      },
-      {
         "id": "30f5ccb7e3f4",
         "title": "木箱中的身軀、三顆鈕扣與「刣人埔」傳說──台北植物園遺址出土人骨之謎",
         "summary": "「衷心希望我的判斷是錯的⋯⋯我一直在過濾各種條件，希望能排除跟二二八事件的關聯性，雖然因為沒有直接證據，不能說絕對就是，但最終無可迴避，導向最有可能的還是『它』。」",
@@ -329,12 +329,12 @@
         "published": "2026-02-26T16:00:00+00:00"
       },
       {
-        "id": "5d1a724542a7",
-        "title": "Polyfold from Manifest Audio lets you paint with polymetric patterns",
-        "summary": "A 1024-step, multilane polyphonic sequencer sounds overwhelming. But the latest Manifest Audio polymetric sequencer, Polyfold, offers a palette of various patterns and shapes that you can deploy across that vast canvas, easily and quickly. It opens up sequencing in Live 12+ Suite, free from the usua...",
-        "url": "https://cdm.link/polyfold-manifest-audio/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-26T15:51:35+00:00"
+        "id": "268beb94467e",
+        "title": "十週年OPEN講｜在受害者照顧、加害者處遇失靈的社會，彭仁郁×張子午：將創傷經驗公共化之必要",
+        "summary": "這集，《報導者》副總編輯張子午邀請中研院民族所副研究員彭仁郁對談。子午投入精神疾患汙名與兒少性剝削等議題，他如何看見陽光背後的陰影？彭仁郁長年投注白色恐怖等政治暴力創傷受害者研究，她為何提醒，台灣威權體制遺緒未被正視，社會就無法被真正修復？",
+        "url": "https://www.twreporter.org/a/podcast-2026-02-27",
+        "source": "報導者",
+        "published": "2026-02-26T16:00:00+00:00"
       }
     ],
     "序(month)": [
