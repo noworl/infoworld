@@ -1,19 +1,27 @@
 {
-  "updated_at": "2026-03-01T13:51:48.050770+00:00",
+  "updated_at": "2026-03-01T14:52:52.700157+00:00",
   "trending": [
-    "nick jonas",
-    "t20 world cup schedule",
-    "sassuolo vs atalanta",
-    "t20 world cup points table",
-    "brighton - nottingham forest",
-    "fundraiser",
-    "olivia dean",
-    "man united vs crystal palace",
-    "fulham vs tottenham",
-    "cottage cheese recall"
+    "caroline kennedy",
+    "david montgomery",
+    "valencia c. f. - osasuna",
+    "valencia vs osasuna",
+    "shimron hetmyer",
+    "desert storm",
+    "paris fc vs nice",
+    "uss abraham lincoln",
+    "indycar",
+    "kxan news"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "a5e93d5c35d3",
+        "title": "What the US–Israeli strikes on Iran mean for the price of oil",
+        "summary": "Effective closure of the strait of Hormuz could spell trouble for many developed economiesUS-Israel war on Iran – latest updatesThe US-Israeli war on Iran has ignited fears that escalating military aggression in the Middle East could send oil prices soaring, push up prices at the pump and drive a gl...",
+        "url": "https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price",
+        "source": "Business | The Guardian",
+        "published": "2026-03-01T14:21:14+00:00"
+      },
       {
         "id": "3bd09f1c173a",
         "title": "The strange animals that control their body heat",
@@ -21,14 +29,6 @@
         "url": "https://arstechnica.com/science/2026/03/the-strange-animals-that-control-their-body-heat/",
         "source": "Ars Technica - All content",
         "published": "2026-03-01T12:07:22+00:00"
-      },
-      {
-        "id": "4ab7874d96d4",
-        "title": "£12m for a Pokémon card? If you’re not in the game you’re missing a trick",
-        "summary": "The record sum paid at auction for a rare example is part of a boom in trading cards – and the prices can be staggeringFor £12m, you could buy a seven-bedroom mansion in Hampstead, north London, or a Bugatti La Voiture Noire, one of the world’s most coveted sports cars, with a few hundred thousand q...",
-        "url": "https://www.theguardian.com/games/2026/mar/01/12m-pokemon-card-sold-auction-trading",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T12:00:41+00:00"
       },
       {
         "id": "c630be80747f",
@@ -40,8 +40,8 @@
       },
       {
         "id": "67017fa7fcfa",
-        "title": "Oil price expected to surge as result of US-Israel strikes on Iran",
-        "summary": "Markets around the world could tumble on Monday and motorists are likely to pay more at the pumpWhat the strikes on Iran mean for oil pricesUS–Israeli war on Iran – latest updatesThe price of oil is expected to soar on Monday while stock markets could tumble as the US-Israel war on Iran rattles inve...",
+        "title": "Oil price expected to surge following Iran strikes and strait of Hormuz closure",
+        "summary": "Stock markets around the world could tumble on Monday and motorists are likely to pay more at the pump What the strikes on Iran mean for oil pricesUS–Israeli war on Iran – latest updatesThe price of oil is expected to soar on Monday despite a pledge by major oil-producing nations to increase product...",
         "url": "https://www.theguardian.com/business/2026/mar/01/oil-price-surge-iran-us-israel-strikes-markets",
         "source": "Business | The Guardian",
         "published": "2026-03-01T11:48:27+00:00"
@@ -63,20 +63,20 @@
         "published": "2026-03-01T10:00:37+00:00"
       },
       {
-        "id": "a5e93d5c35d3",
-        "title": "What the US–Israeli strikes on Iran mean for the price of oil",
-        "summary": "Effective closure of the strait of Hormuz could spell trouble for many developed economiesUS-Israel war on Iran – latest updatesThe US-Israeli war on Iran has ignited fears that escalating military aggression in the Middle East could send oil prices soaring, push up prices at the pump and drive a gl...",
-        "url": "https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T09:50:06+00:00"
-      },
-      {
         "id": "41038bd19e4c",
         "title": "AI-resistant ‘halo’ stocks drive UK and EU markets to record highs",
         "summary": "Investors shifting to ‘heavy-asset, low-obsolescence’ companies insulated from disruption, says Goldman SachsInvestors have a new mantra as they prepare for AI to shake up the global economy – the Halo trade.Interest in Halo – short for “heavy assets, low obsolescence” - has risen as investors seek ...",
         "url": "https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs",
         "source": "Business | The Guardian",
         "published": "2026-03-01T07:00:36+00:00"
+      },
+      {
+        "id": "c533c933ff62",
+        "title": "Thousands of pollution incidents in England downgraded without site visit, data suggests",
+        "summary": "Exclusive: Whistleblower figures show large rise in ‘serious’ to ‘minor’ downgrades based on water company evidenceEnvironment Agency (EA) staff have downgraded thousands of serious pollution incidents by water companies in England without visiting to investigate, data unearthed by freedom of inform...",
+        "url": "https://www.theguardian.com/environment/2026/mar/01/thousands-pollution-incidents-england-downgraded-without-site-visit-data-suggests",
+        "source": "Business | The Guardian",
+        "published": "2026-03-01T07:00:34+00:00"
       },
       {
         "id": "503e36e5d623",
@@ -135,6 +135,14 @@
         "published": "2026-02-28T14:00:13+00:00"
       },
       {
+        "id": "6f3fbdf62f22",
+        "title": "Decision to allow UK exports to Armenian firm under review over Russian links",
+        "summary": "Cygnet Texkimp was approved to export machines to Rydena, but ministers examining deal after Guardian highlighted founders’ links to Kremlin military supply chainMinisters are reviewing a decision to allow a British company to export hi-tech equipment to Armenia after the Guardian uncovered links to...",
+        "url": "https://www.theguardian.com/politics/2026/feb/28/decision-allow-uk-exports-cygnet-texkimp-armenian-firm-review-russian-links",
+        "source": "Business | The Guardian",
+        "published": "2026-02-28T13:00:12+00:00"
+      },
+      {
         "id": "c3552d521e81",
         "title": "Trump just got much closer to bringing CNN to heel | Margaret Sullivan",
         "summary": "With David Ellison’s Paramount Skydance poised to buy Warner Bros Discovery, the president is tightening his grip on the US mediaGet Margaret Sullivan’s latest columns delivered straight to your inbox by signing up hereFor many years, Donald Trump has trashed CNN and has taught his loyal followers t...",
@@ -165,14 +173,6 @@
         "url": "https://www.theguardian.com/money/2026/feb/28/premium-bonds-odds-win-worse-nsi-prizes",
         "source": "Business | The Guardian",
         "published": "2026-02-28T07:00:10+00:00"
-      },
-      {
-        "id": "16c09ca05901",
-        "title": "Harrods faces legal action over £1-a-head dining charge not going to staff",
-        "summary": "Case brought by 29 workers and backed by UVW union seen as test case that could lead to changes at other restaurantsHarrods is facing legal action over its addition of a £1-a-head cover charge to diners’ bills that does not go to workers, in a test case that could lead to changes at a string of upma...",
-        "url": "https://www.theguardian.com/business/2026/feb/28/harrods-dining-charge-workers-union-legal-action",
-        "source": "Business | The Guardian",
-        "published": "2026-02-28T07:00:08+00:00"
       }
     ],
     "破(day)": [
