@@ -1,19 +1,35 @@
 {
-  "updated_at": "2026-03-01T09:55:07.399661+00:00",
+  "updated_at": "2026-03-01T10:54:13.420529+00:00",
   "trending": [
+    "anhelina kalinina",
+    "xsmn",
+    "cyprus",
+    "ind vs eng",
+    "mia ristic",
     "greyhound",
     "dennys",
     "zimbabwe vs south africa",
     "australia vs philippines",
-    "disney",
-    "austin shooting",
-    "armie hammer",
-    "ind vs wi",
-    "crypto atm",
-    "motogp"
+    "disney"
   ],
   "categories": {
     "急(hr)": [
+      {
+        "id": "7791afdf2004",
+        "title": "Young fashion fans help UK charity shops thrive on struggling UK high streets",
+        "summary": "Sales beat wider retail sector last year thanks to customers inspired by websites such as Vinted, industry body saysYoung people inspired by secondhand fashion websites such as Vinted and Depop are helping charity shops thrive despite rising energy and employment costs.Save the Children’s retail sal...",
+        "url": "https://www.theguardian.com/business/2026/mar/01/young-fashion-fans-help-uk-charity-shops-thrive-struggling-uk-high-streets",
+        "source": "Business | The Guardian",
+        "published": "2026-03-01T10:00:37+00:00"
+      },
+      {
+        "id": "a5e93d5c35d3",
+        "title": "What the US–Israeli strikes on Iran mean for the price of oil",
+        "summary": "A halt on trade flows through the strait of Hormuz could spell trouble for many developed economiesUS-Israel war on Iran – latest updatesThe US-Israeli war on Iran has ignited fears that escalating military aggression in the Middle East could send oil prices soaring, push up prices at the pump and d...",
+        "url": "https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price",
+        "source": "Business | The Guardian",
+        "published": "2026-03-01T09:50:06+00:00"
+      },
       {
         "id": "41038bd19e4c",
         "title": "Investment in AI-resistant ‘Halo’ companies helps push UK and EU markets to record highs",
@@ -119,14 +135,6 @@
         "published": "2026-02-28T10:51:46+00:00"
       },
       {
-        "id": "610fa9ecda3c",
-        "title": "Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life.",
-        "summary": "Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbotOn 7 August, Kate Fox received a phone call that upended her life. A medical examiner said that her husband, Joe Ceccanti – who had been missing for several hours – had jumped from a rail...",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health",
-        "source": "Business | The Guardian",
-        "published": "2026-02-28T10:00:08+00:00"
-      },
-      {
         "id": "c1d29ca428ab",
         "title": "Poisoned chalice? The BBC’s struggles to find a successor to Tim Davie",
         "summary": "As the director general prepares to stand down, potential candidates have fallen away amid a series of crisesThere is an impressive shortlist circulating in Britain’s media circles, comprising some of the most talented executives in the business. Unfortunately for the BBC, it contains the names of f...",
@@ -165,14 +173,6 @@
         "url": "https://www.theguardian.com/world/2026/feb/28/i-live-in-constant-fear-surge-in-giant-sinkholes-threatens-turkeys-farmers",
         "source": "Business | The Guardian",
         "published": "2026-02-28T07:00:05+00:00"
-      },
-      {
-        "id": "b81a5cff9015",
-        "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-        "summary": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
-        "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-28T01:26:41+00:00"
       }
     ],
     "破(day)": [
