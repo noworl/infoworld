@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-03-01T15:46:51.200143+00:00",
+  "updated_at": "2026-03-01T16:55:51.925968+00:00",
   "trending": [
-    "bruno fernandes",
-    "benjamin šeško",
-    "epl table",
-    "riley green",
-    "maxence lacroix",
-    "sag awards 2026",
-    "vfb stuttgart vs wolfsburg",
-    "us service members killed",
-    "johnson and johnson",
-    "dana white"
+    "real betis - sevilla",
+    "real betis vs sevilla",
+    "torino vs lazio",
+    "cognizant classic leaderboard",
+    "tilak varma",
+    "antalyaspor vs fenerbahçe",
+    "davidson basketball",
+    "aaron jones",
+    "gudakesh motie",
+    "premier league standings"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "0744b6eca110",
+        "title": "Waiting on a tariff refund after Trump’s duties were struck down? Don’t bother | Gene Marks",
+        "summary": "Though the supreme court ruled against the levies, businesses hit hard by the tariffs shouldn’t hold their breath for any rebatesSign up for the Breaking News US email to get newsletter alerts in your inboxNow that the supreme court has found that the Donald Trump exceeded his authority to levy tari...",
+        "url": "https://www.theguardian.com/business/2026/mar/01/trump-tariffs-business-refund-supreme-court",
+        "source": "Business | The Guardian",
+        "published": "2026-03-01T15:00:44+00:00"
+      },
+      {
         "id": "a5e93d5c35d3",
-        "title": "What the US–Israeli strikes on Iran mean for the price of oil",
-        "summary": "Effective closure of the strait of Hormuz could spell trouble for many developed economiesUS-Israel war on Iran – latest updatesThe US-Israeli war on Iran has ignited fears that escalating military aggression in the Middle East could send oil prices soaring, push up prices at the pump and drive a gl...",
+        "title": "What is the strait of Hormuz and why is it crucial for oil supplies?",
+        "summary": "Effective closure of the narrow waterway could spell trouble for many developed economies US-Israel war on Iran – latest updatesThe US-Israeli war on Iran has ignited fears that escalating military aggression in the Middle East could send oil prices soaring, push up prices at the pump and drive a gl...",
         "url": "https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price",
         "source": "Business | The Guardian",
         "published": "2026-03-01T14:21:14+00:00"
@@ -40,8 +48,8 @@
       },
       {
         "id": "67017fa7fcfa",
-        "title": "Oil price expected to surge following Iran strikes and strait of Hormuz closure",
-        "summary": "Stock markets around the world could tumble on Monday and motorists are likely to pay more at the pump What the strikes on Iran mean for oil pricesUS–Israeli war on Iran – latest updatesThe price of oil is expected to soar on Monday despite a pledge by major oil-producing nations to increase product...",
+        "title": "Oil price expected to surge after Iran strikes and strait of Hormuz closure",
+        "summary": "Stock markets around the world could tumble on Monday and motorists are likely to pay more at the pump What the strikes on Iran mean for oil pricesUS–Israeli war on Iran – latest updatesThe price of oil is expected to soar on Monday as the US-Israel war on Iran and the effective closure of the cruci...",
         "url": "https://www.theguardian.com/business/2026/mar/01/oil-price-surge-iran-us-israel-strikes-markets",
         "source": "Business | The Guardian",
         "published": "2026-03-01T11:48:27+00:00"
@@ -165,17 +173,25 @@
         "url": "https://www.theguardian.com/media/2026/feb/28/bbc-struggles-to-find-a-successor-to-tim-davie-director-general",
         "source": "Business | The Guardian",
         "published": "2026-02-28T08:00:05+00:00"
-      },
-      {
-        "id": "a28a95ff57ab",
-        "title": "Premium bonds: odds of a win to get worse from April",
-        "summary": "Likelihood of winning to decrease after NS&amp;I cut the proportion of the total invested amount paid out in prizesThere was some bad news this week for Britain’s 22 million-strong army of premium bond holders: the odds of winning a prize are to get worse.National Savings and Investments (NS&amp;I) ...",
-        "url": "https://www.theguardian.com/money/2026/feb/28/premium-bonds-odds-win-worse-nsi-prizes",
-        "source": "Business | The Guardian",
-        "published": "2026-02-28T07:00:10+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "5a551239fef6",
+        "title": "所有AI全军覆没！近千名学者出2500道题，GPT-5得分25.3%，GPT-4o只有2.7%",
+        "summary": "2 月 28 日，由全球近 1,000 名顶尖学者打造的 AI 新基准“人类最后一次考试”（HLE，Humanity's Last Exam）的相关论文发在 Nature。这套新试卷覆盖数学、物理、化学、历史、语言、医学，每一道题都来自专家自己的研究领域，每一道题都有唯一正确的答案，每一道题也都经过 AI 的经验，如果哪个 AI 能够答对，这道题就会作废。图 | 相关论文（来源：Nature）结果呢？GPT-4o 只拿了 2.7%，Claude 3.5 Sonnet 4.1%，OpenAI 最先进的 o1 模型，8%。发布之后，更强的 Gemini 2.5 Pro 和 GPT-5 也来挑战，一...",
+        "url": "https://www.mittrchina.com/news/detail/16001",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-01T09:22:28+00:00"
+      },
+      {
+        "id": "a9ca6350dec1",
+        "title": "从\"看得见\"到\"能干活\"，机器人的下一步是拥有触觉 | 对话戴盟机器人段江哗",
+        "summary": "在强光环境下拿起一个玻璃杯，这个动作对人类来说几近本能，但对机器人而言，“看到玻璃杯”和“拿起玻璃杯”的过程却充满挑战。因为玻璃过于干净透明，即便是人类或者动物，不仔细辨认有时也会一头撞上去。对依赖视觉感知的机器人来说，这类物体更是难以辨别。透明材质带来的透射与折射、强光环境下的反射与局部过曝，都会干扰视觉系统对物体边界、位置和姿态的识别与定位。更大的考验还在触碰的瞬间。抓取过程中，机器人必须实现精确的力控：既要施加足够的握持力防止滑落，又要避免用力过大而压碎脆弱的玻璃。也就是说，强光下抓起玻璃杯的简单动作，不仅是视觉问题，更是感知与物理交互能力的综合挑战。这暴露了当下具身智能技术落地的一大瓶...",
+        "url": "https://www.mittrchina.com/news/detail/16000",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-01T09:18:22+00:00"
+      },
       {
         "id": "41fd99be8d4e",
         "title": "[東南亞週報314] 越印加入川普加薩「和平理事會」、星2025年生育率再創新低、柬總理誓剷除網路詐騙集團",
@@ -183,6 +199,70 @@
         "url": "https://aseanplusjournal.com/2026/03/01/aseanweekly314/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-02-28T16:37:07+00:00"
+      },
+      {
+        "id": "cd3bc7967d2d",
+        "title": "节水67%、灭火效率提升3倍！他把跨界造的消防喷头，变成了火场前线的数据采集器",
+        "summary": "在硅谷的创业故事中，大多数硬科技的突破往往诞生于实验室。但对于 Sunny Sethi 而言，他的创业动机源于一场真实的生存危机，以及妻子的一句气话。作为一名拥有阿克伦大学高分子物理学博士学位的材料科学家，Sethi 的早年履历与消防毫无交集。他曾创办纳米技术公司，也曾在太阳能巨头 SunPower 和全球顶尖的工业技术和制造巨头 TE Connectivity 担任研发要职。然而，2019 年加州的一场毁灭性山火，彻底改变了他的职业轨迹。当时，Sethi 正在出差，家里收到了疏散警告，他的妻子独自带着三岁的女儿在家，身边没有其他亲人。“她生我的气了，”Sethi 回忆道，“她说，‘老兄，你得...",
+        "url": "https://www.mittrchina.com/news/detail/15998",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-28T13:48:13+00:00"
+      },
+      {
+        "id": "e2a4e590f520",
+        "title": "AI越成功，经济死得越快？一份2028年的“预言报告”吓崩美股",
+        "summary": "AI 越成功，经济越危险？近日，投资研究机构 Citrini Research 发布了一份关于 AI 潜在经济风险的“思想实验”报告《2028 年全球智能危机》（The 2028 Global Intelligence Crisis），引发了全球金融市场的高度震动并引起网络上的广泛讨论。这是一份以 2028 年为时间坐标、复盘全球智能危机演变过程的假想备忘录。根据报告核心结论，如果未来 AI 主导市场，很可能会引起全球经济危机。据推演，最先受到 AI 冲击的行业可能会是 SaaS，然后是包括支付、保险、房产经纪等在内的中介层，最终引起经济通缩螺旋与金融体系连环反应：白领大量失业削弱消费根基，抵...",
+        "url": "https://www.mittrchina.com/news/detail/15997",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-28T13:44:44+00:00"
+      },
+      {
+        "id": "2f38c3520bb1",
+        "title": "工作学习时总想摸鱼，或许不是你的错！科学家发现大脑自带“走神节律”",
+        "summary": "现代生活中，哪怕只是轻微的手机震动或电脑屏幕边缘弹出的通知，都能轻易打断正试图聚精会神的你。不少人尝试过番茄钟等各种生产力工具，却依旧会因无法保持专注而感到懊恼。近日，美国罗切斯特大学医学中心（University of Rochester Medical Center）的神经科学家发现，无法长时间保持绝对专注，或许不是你的错，也不单纯是意志力问题，而是大脑内在的“节奏”在作祟。这项 2 月 23 日发表在 PLOS Biology 上的研究，首次通过注意力实验和脑电图（EEG）记录直接证明：当高对比度分心物与低对比度目标同时出现时，大脑中的 Theta 波（4~8 Hz）和 Alpha 波（...",
+        "url": "https://www.mittrchina.com/news/detail/15996",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-28T08:42:00+00:00"
+      },
+      {
+        "id": "171cba47f530",
+        "title": "白宫突然宣布封杀Anthropic，OpenAI前脚声援后脚火速接盘",
+        "summary": "过去一周，硅谷与五角大楼之间的博弈达到了前所未有的紧张程度。这场风暴的中心，是 Anthropic 与美国国防部围绕 AI 使用限制的激烈交锋。国防部要求 Anthropic 允许军方将 Claude 模型用于“任何合法用途”，并删除合同中关于禁止大规模国内监控和全自主武器系统的限制条款；而 Anthropic 坚持认为，若无明确限制，AI 可能“削弱而非捍卫民主”。2 月 24 日，国防部长皮特·赫格塞斯（Pete Hegseth）对 Anthropic 公司下达最后通牒：若 2 月 27 日下午 5 点 01 分前未达成一致，将终止合同并将公司列入“供应链风险”名单。这一标签通常用于与中国...",
+        "url": "https://www.mittrchina.com/news/detail/15995",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-28T08:30:08+00:00"
+      },
+      {
+        "id": "17beabcf667e",
+        "title": "AlphaGo胜局十年后：AI正在重塑职业棋手的思维方式",
+        "summary": "（来源：麻省理工科技评论）在首尔东部宁静的弘益洞小巷深处，有一栋贴着褪色石砖的建筑，门牌上写着“韩国棋院\"——这是韩国职业围棋的管理机构。围棋是一项古老的运动，在韩国有着神圣的地位。然而走进这栋楼，昔日棋手将手伸入木碗取子时发出的细微声响，如今已被鼠标点击声所取代：棋手们弓身坐在显示器前，在 AI 程序中复盘对局；另一些人围坐在棋盘旁，争论下一步最优落点，而教练则告知他们的选择与 AI 的建议相差多少；还有人默默坐着，看 AI 程序与 AI 程序对弈。十年前，Google DeepMind 的 AI 程序 AlphaGo 击败韩国棋手李世石（Lee Sedol），震惊世界。此后数年，AI 彻底...",
+        "url": "https://www.mittrchina.com/news/detail/15994",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-28T06:50:23+00:00"
+      },
+      {
+        "id": "7be739b1e76e",
+        "title": "碳排放的实际量级可能被低估：除了人类活动，数千年的碳正在通过湖泊释放",
+        "summary": "刚果盆地的两座湖泊，正在释放大量二氧化碳。更惊人的是，其中 40% 来自数千年前沉积的泥炭深处。这项研究来自瑞士苏黎世联邦理工学院（ETH Zürich）约翰·希克斯（Johan Six）教授团队，于近期发表于 Nature Geoscience[1]。值得警惕的是，这意味着现有碳核算可能低估了实际排放，这项研究有助于更准确地预测未来全球气候的变化。可以这样来理解这项研究：如果把地球看作是一个巨大的冰箱，那么泥炭地就是冷冻室中冻了几千年的腊肉。过去，科学家以为冰箱里跑出来的冷气（二氧化碳）主要来自新放进去的新鲜食材（现代有机碳），但这项研究颠覆了传统的认知，他们发现，冷气里居然也有那股陈年的腊...",
+        "url": "https://www.mittrchina.com/news/detail/15993",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-28T06:29:48+00:00"
+      },
+      {
+        "id": "8d1eb8c2398e",
+        "title": "改变数学史的“无穷大”论文，被指“偷”了别人的成果",
+        "summary": "1874 年，德国数学家格奥尔格·康托尔（Georg Cantor）发表了一篇论文，证明“无穷大”也有大小之分。这篇论文被后世视为数学史上的里程碑，它奠定了集合论的基础，让数学家们第一次认真对待了那个被回避了数千年的概念，康托尔也因此被奉为孤身驯服“无穷大”的天才。图 | 格奥尔格·康托尔（Georg Cantor）（来源：ETH-Bibliotek Zurich/Science Photo Library）但 150 年后，一封重新出现的信件让人们不得不重新问一个问题：“无穷大”，究竟是谁提出的？2025 年 3 月 12 日，当代德国数学家德米安·古斯（Demian Goos）来到哈勒大学...",
+        "url": "https://www.mittrchina.com/news/detail/15992",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-28T06:24:09+00:00"
+      },
+      {
+        "id": "1fa598272968",
+        "title": "AI打起仗来会有多疯？实验显示：95%的情况下它们会按下核按钮，Claude擅长欺骗、Gemini最狠",
+        "summary": "随着人工智能的深度发展，AI 的使用与国家安全的关系已变得密不可分。未来 AI 极有可能由浅入深地影响国家安全逻辑与治理策略。这让人不禁想象：如果有一天，战争的指挥权部分或全部移交 AI，它们会如何决策？最近，来自伦敦国王学院战争研究系的教授肯尼斯·佩恩（Kenneth Payne）用一场模拟实验回答了这个问题。佩恩曾任 BBC 记者，深耕政治心理学与战略研究交叉领域，还曾为英美两国政府提供咨询。在实验中，佩恩让三款前沿大模型——OpenAI 的 GPT-5.2、Anthropic 的 Claude Sonnet 4、Google 的 Gemini 3 Flash 分别扮演核大国领导人，并在多...",
+        "url": "https://www.mittrchina.com/news/detail/15991",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-02-28T05:31:07+00:00"
       },
       {
         "id": "2ca230e5b9c9",
@@ -255,86 +335,6 @@
         "url": "https://cdm.link/polyfold-manifest-audio/",
         "source": "CDM Create Digital Music",
         "published": "2026-02-26T15:51:35+00:00"
-      },
-      {
-        "id": "35157cad5e45",
-        "title": "Ask a Techspert: What’s a world model?",
-        "summary": "Animation showing various bubbles with characters navigating different environments, like a trekker walking up a snowy mountain and a bird flying through a jungle.",
-        "url": "https://blog.google/company-news/inside-google/googlers/ask-a-techspert/what-is-a-world-model-project-genie/",
-        "source": "Google DeepMind",
-        "published": "2026-02-25T17:00:00+00:00"
-      },
-      {
-        "id": "e40097c6de8e",
-        "title": "【投書】別再把阿公阿媽送回育兒前線，優質安心普及的托育服務才是首選",
-        "summary": "民眾黨近日提出政策主張培力祖父母考取托育證照，滿足家庭照顧需求，也補足托育人力缺口。彷彿一舉數得的政策，其實14年前就曾上路卻黯然退場，不只親屬轉保母人數有限、排擠托育人力受訓名額，訪視管理耗費成本又無效⋯⋯",
-        "url": "https://www.twreporter.org/a/opinion-grandparents-are-not-solutions-for-childcare-services",
-        "source": "報導者",
-        "published": "2026-02-25T16:00:00+00:00"
-      },
-      {
-        "id": "f520b40fcefc",
-        "title": "Inside the new modules in the free AAS Multiphonics CV-3 v3.1 update",
-        "summary": "Applied Acoustics Systems' flagship modular, Multiphonics CV-3, gets four powerful modules in \"the FM+ update\" out this month. Here's a dive into what those modules can do -- and if you're pondering picking up CV-3 for the first time, it's discounted now, too.\nThe post Inside the new modules in the ...",
-        "url": "https://cdm.link/aas-multiphonics-v3-1-update/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-25T15:58:27+00:00"
-      },
-      {
-        "id": "e668584fcd4e",
-        "title": "MIT新方法让两颗芯片共享唯一“指纹”，见面即认证，重写硬件安全规则",
-        "summary": "CMOS（互补金属氧化物半导体） 技术是当今电子世界中最普遍、最基础的芯片制造工艺，几乎渗透到所有现代电子设备中。从智能手机、电视、电脑，到卫星、汽车、医疗仪器，甚至物联网设备和可穿戴装置，CMOS 芯片都扮演着核心角色。如同人类指纹一样，每一颗 CMOS 芯片都存在无法避免的微观制造差异，会产生一个几乎没法复制的“指纹”，这种随机且不可复制的物理特征被称为物理不可克隆函数（PUF）。理论上，PUF 可作为芯片的硬件身份证，用于身份认证与数据加密，比软件密钥更难伪造。但现有 PUF 方案存在明显瓶颈：为完成认证，必须将芯片指纹信息提取并存储在第三方服务器。这种模式存在天然短板：云端数据库一旦被...",
-        "url": "https://www.mittrchina.com/news/detail/15977",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-25T09:29:56+00:00"
-      },
-      {
-        "id": "2206e368a318",
-        "title": "Meta 再次踏足穩定幣市場！傳下半年推掛鉤美元的數位代幣",
-        "summary": "Meta Platforms 預定下半年重新進入穩定幣市場，這是四年前 Libra / Diem 專案終止後的 [&#8230;]",
-        "url": "https://technews.tw/2026/02/25/meta-eyes-stablecoin-integration-by-second-half-2026/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-02-25T08:25:08+00:00"
-      },
-      {
-        "id": "bcca9443da86",
-        "title": "MIT重磅研究：AI对人类区别对待，英语水平和学历影响AI的回答质量",
-        "summary": "（来源：麻省理工科技评论）大语言模型（LLM）一直被誉为可推动全球信息获取民主化的工具，能够以用户友好的界面向任何背景和地域的人提供知识。然而，MIT 建设性传播中心（CCC）的最新研究表明，这些 AI 系统实际上可能对那些最能从中受益的用户表现更差。CCC 基于 MIT 媒体实验室，其研究人员开展的这项研究发现，包括 OpenAI 的 GPT-4、Anthropic 的 Claude 3 Opus 和 Meta 的 Llama 3 在内的顶尖 AI 聊天机器人，有时会对英语水平较低、受教育程度较低或非美国背景的用户提供准确性和真实性更低的回答。这些模型对上述用户拒绝回答问题的比例也更高，在某...",
-        "url": "https://www.mittrchina.com/news/detail/15974",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-25T05:22:52+00:00"
-      },
-      {
-        "id": "5438c19d3535",
-        "title": "「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史",
-        "summary": "政大文學院院長陳秀芬從學生時期就對中醫充滿興趣，儘管沒走向懸壺濟世之路，卻成為中國古代醫療史的重要學者。 拍攝 [&#8230;]\nThe post 「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史 appeared first on 人文．島嶼.",
-        "url": "https://humanityisland.nccu.edu.tw/hsiu-fen-chen_a/",
-        "source": "人文．島嶼",
-        "published": "2026-02-25T00:00:36+00:00"
-      },
-      {
-        "id": "a2f131f15b28",
-        "title": "Éliane Radigue has died at 94; portraits – “the sound before sound”",
-        "summary": "Who but Éliane Radigue could work with sound as a medium seemingly in the air and environment itself; whose presence spanned every epoch of electronic music and contemporary acoustic composition quite like her? Radigue has died at 94, as reported today by her label and publisher.\nThe post Éliane Rad...",
-        "url": "https://cdm.link/eliane-radigue-portraits/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-24T17:43:38+00:00"
-      },
-      {
-        "id": "5ebada8a7719",
-        "title": "每年新生兒裡的700個秘密：借精卵生育子女後，家長該告知「基因」身世嗎？捐贈者怎麼想？",
-        "summary": "這集，跟著記者馥年與在此領域研究10年的黃于玲教授，從各方利益關係人聲音展開新的理解視角：家長是否告知身世，對透過捐贈精卵出生子女的心理與家庭關係有哪些影響？現行研究中，捐精卵者是怎麼想？借鏡國際，家長該如何開啟身世告知對話？",
-        "url": "https://www.twreporter.org/a/podcast-2026-02-25",
-        "source": "報導者",
-        "published": "2026-02-24T16:00:00+00:00"
-      },
-      {
-        "id": "35fdf267d0aa",
-        "title": "以戲書寫台灣與自身：「當代戲曲最佳詮釋者」施如芳，把故事過得比生活大",
-        "summary": "被譽為「當代台灣戲曲的最佳詮釋者」的施如芳，近年創作重心從古典走向台灣歷史；去年書寫楊麗花的《如有神在》更獲得台北國際書展獎項肯定。面對自我與台灣的未竟之問，施如芳在欲語還休間、真誠地在迷霧中審視自己，愈是誠懇，愈不肯就範。",
-        "url": "https://www.twreporter.org/a/interview-playwright-shih-ju-fang",
-        "source": "報導者",
-        "published": "2026-02-24T16:00:00+00:00"
       }
     ],
     "序(month)": [
