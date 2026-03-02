@@ -119,8 +119,8 @@ def update_favorites_section(latest, random_pick):
         )
     block = (
         "      <!-- FAVORITES_EMBED_START -->\n"
-        f"      {make_iframe(latest, '最新')}\n"
-        f"      {make_iframe(random_pick, '隨機')}\n"
+        f"      {make_iframe(latest, 'recent listening')}\n"
+        f"      {make_iframe(random_pick, 'replay')}\n"
         "      <!-- FAVORITES_EMBED_END -->"
     )
     content = INDEX.read_text(encoding="utf-8")
