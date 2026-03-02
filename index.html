@@ -131,34 +131,28 @@
       padding: 0 2px;
       border-radius: 2px;
     }
-    #favorites {
-      margin-top: 24px;
-      padding-top: 16px;
-      border-top: 1px solid #eee;
+    #music {
+      margin-bottom: 20px;
     }
-    .favorites-header {
-      font-size: 0.85rem;
-      font-weight: 600;
-      color: #888;
-      margin-bottom: 10px;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
+    .music-columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 20px;
     }
-    .favorites-embeds {
-      display: flex;
-      gap: 12px;
-      flex-wrap: wrap;
+    @media (max-width: 900px) {
+      .music-columns {
+        grid-template-columns: 1fr;
+      }
     }
-    .fav-item {
-      flex: 1;
-      min-width: 280px;
+    .music-col {
+      min-width: 0;
     }
-    .fav-label {
+    .music-label {
       font-size: 0.75rem;
       color: #aaa;
       margin-bottom: 4px;
     }
-    .fav-item iframe {
+    .music-col iframe {
       width: 100%;
     }
   </style>
@@ -173,19 +167,30 @@
       <a href="new_videos.html">New Videos</a>
       <a href="#" id="reddit-tech">Reddit Tech Weekly</a>
       <a href="#" id="reddit-music">Reddit Music Weekly</a>
-            <div class="favorites-header">bandcamp SOTD</div>
-            <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=61893176/size=small/bgcol=ffffff/linkcol=f171a2/transparent=true/" seamless><a href="https://exek.bandcamp.com/album/prove-the-mountains-move">Prove The Mountains Move | EXEK</a></iframe>
-        <section id="favorites">
-    <div class="favorites-embeds">
-      <!-- FAVORITES_EMBED_START -->
-      <div class="fav-item"><div class="fav-label">recent listening</div><iframe style="border: 0; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=888180073/size=small/bgcol=ffffff/linkcol=f171a2/transparent=true/" seamless><a href="https://magnusmunktaekker.bandcamp.com/track/vestlandet">Vestlandet | Magnus Munk Tækker &amp; Jon Askjær | Magnus Munk Tækker</a></iframe></div>
-      <div class="fav-item"><div class="fav-label">replay</div><iframe style="border: 0; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3778298837/size=small/bgcol=ffffff/linkcol=f171a2/transparent=true/" seamless><a href="https://mathiasgrassow.bandcamp.com/album/2025-laoco-n">(2025) LAOCOÖN | LAOCOÖN by L.John-Krol, M.Grassow, D.Schlömer + guests R.Gleisberg, C.Agthe, M.Krol. | Mathias Grassow</a></iframe></div>
-      <!-- FAVORITES_EMBED_END -->
-    </div>
-  </section>
-
     </nav>
   </header>
+  <section id="music">
+    <div class="music-columns">
+      <div class="music-col">
+        <div class="music-label">SOTD</div>
+        <!-- AOTD_EMBED_START -->
+        <iframe style="border: 0; width: 100%; height: 420px;" src="https://bandcamp.com/EmbeddedPlayer/album=61893176/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://exek.bandcamp.com/album/prove-the-mountains-move">Prove The Mountains Move | EXEK</a></iframe>
+        <!-- AOTD_EMBED_END -->
+      </div>
+      <div class="music-col">
+        <div class="music-label">recent listening</div>
+        <!-- RECENT_EMBED_START -->
+        <iframe style="border: 0; width: 100%; height: 420px;" src="https://bandcamp.com/EmbeddedPlayer/track=888180073/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://magnusmunktaekker.bandcamp.com/track/vestlandet">Vestlandet | Magnus Munk Tækker &amp; Jon Askjær | Magnus Munk Tækker</a></iframe>
+        <!-- RECENT_EMBED_END -->
+      </div>
+      <div class="music-col">
+        <div class="music-label">replay</div>
+        <!-- REPLAY_EMBED_START -->
+        <iframe style="border: 0; width: 100%; height: 420px;" src="https://bandcamp.com/EmbeddedPlayer/album=3778298837/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://mathiasgrassow.bandcamp.com/album/2025-laoco-n">(2025) LAOCOÖN | LAOCOÖN by L.John-Krol, M.Grassow, D.Schlömer + guests R.Gleisberg, C.Agthe, M.Krol. | Mathias Grassow</a></iframe>
+        <!-- REPLAY_EMBED_END -->
+      </div>
+    </div>
+  </section>
   <main id="content">
     <div class="empty">載入中...</div>
   </main>

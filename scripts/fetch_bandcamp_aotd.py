@@ -48,24 +48,28 @@ def get_album_id_and_title(album_url):
     return album_id, title
 
 
+def make_large_iframe(embed_type, album_id, url, title):
+    return (
+        f'<iframe style="border: 0; width: 100%; height: 420px;" '
+        f'src="https://bandcamp.com/EmbeddedPlayer/{embed_type}={album_id}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" '
+        f'seamless><a href="{url}">{html.escape(title)}</a></iframe>'
+    )
+
+
 def update_index(album_id, title, album_url):
     content = INDEX.read_text(encoding="utf-8")
-    new_iframe = (
-        f'<iframe style="border: 0; width: 100%; height: 42px;" '
-        f'src="https://bandcamp.com/EmbeddedPlayer/album={album_id}/size=small/bgcol=ffffff/linkcol=f171a2/transparent=true/" '
-        f'seamless><a href="{album_url}">{html.escape(title)}</a></iframe>'
-    )
+    new_iframe = make_large_iframe("album", album_id, album_url, title)
     updated = re.sub(
-        r'<iframe[^>]+bandcamp\.com/EmbeddedPlayer[^>]+>.*?</iframe>',
-        new_iframe,
+        r'<!-- AOTD_EMBED_START -->.*?<!-- AOTD_EMBED_END -->',
+        f'<!-- AOTD_EMBED_START -->\n        {new_iframe}\n        <!-- AOTD_EMBED_END -->',
         content,
         flags=re.DOTALL,
     )
     if updated == content:
-        print("ℹ️  index.html already up to date, no changes needed")
+        print("ℹ️  SOTD already up to date")
         return
     INDEX.write_text(updated, encoding="utf-8")
-    print(f"✅ Updated embed: {title} (album={album_id})")
+    print(f"✅ Updated SOTD: {title} (album={album_id})")
 
 
 def resolve_favorites():
@@ -104,37 +108,23 @@ def pick_favorites(albums):
 
 
 def update_favorites_section(latest, random_pick):
-    """Replace FAVORITES placeholder in index.html with two embed iframes."""
+    """Replace RECENT and REPLAY placeholders in index.html."""
     if not latest:
         print("ℹ️  No resolved favorites, skipping favorites section update")
         return
-    def make_iframe(album, label):
-        return (
-            f'<div class="fav-item">'
-            f'<div class="fav-label">{label}</div>'
-            f'<iframe style="border: 0; height: 42px;" '
-            f'src="https://bandcamp.com/EmbeddedPlayer/{album.get("embed_type", "album")}={album["album_id"]}/size=small/bgcol=ffffff/linkcol=f171a2/transparent=true/" '
-            f'seamless><a href="{album["url"]}">{html.escape(album["title"])}</a></iframe>'
-            f'</div>'
-        )
-    block = (
-        "      <!-- FAVORITES_EMBED_START -->\n"
-        f"      {make_iframe(latest, 'recent listening')}\n"
-        f"      {make_iframe(random_pick, 'replay')}\n"
-        "      <!-- FAVORITES_EMBED_END -->"
-    )
     content = INDEX.read_text(encoding="utf-8")
-    updated = re.sub(
-        r"      <!-- FAVORITES_EMBED_START -->.*?<!-- FAVORITES_EMBED_END -->",
-        block,
-        content,
-        flags=re.DOTALL,
-    )
-    if updated == content:
-        print("⚠️  FAVORITES placeholder not found in index.html")
-        return
-    INDEX.write_text(updated, encoding="utf-8")
-    print(f"✅ Favorites updated: latest={latest['title']}, random={random_pick['title']}")
+    for album, marker in [(latest, "RECENT"), (random_pick, "REPLAY")]:
+        iframe = make_large_iframe(
+            album.get("embed_type", "album"), album["album_id"], album["url"], album["title"]
+        )
+        content = re.sub(
+            rf'<!-- {marker}_EMBED_START -->.*?<!-- {marker}_EMBED_END -->',
+            f'<!-- {marker}_EMBED_START -->\n        {iframe}\n        <!-- {marker}_EMBED_END -->',
+            content,
+            flags=re.DOTALL,
+        )
+    INDEX.write_text(content, encoding="utf-8")
+    print(f"✅ Favorites updated: recent={latest['title']}, replay={random_pick['title']}")
 
 
 if __name__ == "__main__":
