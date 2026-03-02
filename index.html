@@ -131,6 +131,36 @@
       padding: 0 2px;
       border-radius: 2px;
     }
+    #favorites {
+      margin-top: 24px;
+      padding-top: 16px;
+      border-top: 1px solid #eee;
+    }
+    .favorites-header {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #888;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .favorites-embeds {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .fav-item {
+      flex: 1;
+      min-width: 280px;
+    }
+    .fav-label {
+      font-size: 0.75rem;
+      color: #aaa;
+      margin-bottom: 4px;
+    }
+    .fav-item iframe {
+      width: 100%;
+    }
   </style>
 </head>
 <body>
@@ -152,7 +182,15 @@
     <div class="empty">載入中...</div>
   </main>
 
-  
+  <section id="favorites">
+    <div class="favorites-header">個人收藏</div>
+    <div class="favorites-embeds">
+      <!-- FAVORITES_EMBED_START -->
+      <!-- FAVORITES_EMBED_END -->
+    </div>
+  </section>
+
+
   <script>
     const CATEGORY_ORDER = ["急(hr)", "破(day)", "序(month)"];
     const CATEGORY_LABELS = {"急(hr)": "急", "破(day)": "破", "序(month)": "序"};
