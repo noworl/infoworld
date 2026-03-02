@@ -1,26 +1,58 @@
 {
-  "updated_at": "2026-03-02T08:00:55.053189+00:00",
+  "updated_at": "2026-03-02T11:11:09.801022+00:00",
   "trending": [
+    "wthr",
+    "severe flood risk",
+    "1",
+    "winter weather advisory",
+    "умар джабраилов",
+    "turkey",
+    "elena pridankina",
+    "teodora kostovic",
     "laura pigossi",
-    "earthquake san ramon",
-    "earthquake",
-    "earthquake near me",
-    "aramco",
-    "us embassy kuwait",
-    "real estate",
-    "f15",
-    "dan bongino",
-    "hotels"
+    "aramco"
   ],
   "categories": {
     "急(hr)": [
       {
         "id": "bfee17bd3d1e",
-        "title": "Oil could be driven over $100 a barrel by Iran conflict, analysts warn, as stock markets drop – business live",
-        "summary": "Rolling coverage of the latest economic and financial newsOil prices rise as Iran war threatens shipping through strait of HormuzEuropean natural gas prices have surged today, as the US-Israel war on Iran sparks fears of a major disruption to global energy supplies.Benchmark futures climbed as much ...",
+        "title": "Oil could be driven over $100 a barrel by Iran conflict, analysts warn, as FTSE 100 falls 1% – business live",
+        "summary": "US-Israel war with Iran hits shares in travel companies, and the pound, although oil producers and weapons makers are rallyingOil prices rise as Iran war threatens shipping through strait of HormuzOver in New Delhi, India and Canada have agreed deals covering critical minerals and uranium supply.The...",
         "url": "https://www.theguardian.com/business/live/2026/mar/02/oil-price-us-israel-iran-war-100-dollars-a-barrel-stock-markets-drop-travel-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-03-02T07:48:40+00:00"
+        "published": "2026-03-02T10:59:46+00:00"
+      },
+      {
+        "id": "43decca7586e",
+        "title": "UK house prices rise in February as chancellor avoids ‘negative speculation’",
+        "summary": "Rachel Reeves’ upcoming spring forecast has not led to slowdown, as property tax rumours did in NovemberBusiness live – latest updatesUK politics live – latest updatesHouse prices in the UK increased in February as Rachel Reeves avoided a repeat of the pre-budget “negative speculation” that depresse...",
+        "url": "https://www.theguardian.com/business/2026/mar/02/uk-house-prices-rise-february-spring-forecast-rachel-reeves",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T10:00:16+00:00"
+      },
+      {
+        "id": "caaae6f71c68",
+        "title": "UK competition watchdog investigates hotel groups over alleged data sharing",
+        "summary": "Regulator looks into claim Hilton, InterContinental Hotels and Marriott could be sharing ‘competitively sensitive’ information via analytics tool Business live – latest updatesThe UK competition watchdog has opened an investigation into three of the world’s biggest hotel chains – Hilton, InterContin...",
+        "url": "https://www.theguardian.com/business/2026/mar/02/uk-competition-watchdog-investigates-hilton-marriott-intercontinental-hotel-groups-alleged-data-sharing",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T09:47:41+00:00"
+      },
+      {
+        "id": "169fb0de4ecb",
+        "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for the first time",
+        "summary": "First wave of Ryzen AI desktop CPUs targets business PCs rather than DIYers.",
+        "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+        "source": "Ars Technica - All content",
+        "published": "2026-03-02T08:00:29+00:00"
+      },
+      {
+        "id": "b3dd0fdb70e5",
+        "title": "Lack of a clear Iran plan could suck US into a long conflict: ‘Where does this go?’",
+        "summary": "Fears that decision to strike could be open-ended as Trump comes under pressure to spell out his vision for the countryUS-Israel war on Iran – latest updatesSign up for the Breaking News US emailDonald Trump is under pressure to spell out his vision for Iran amid the ongoing attacks on the country a...",
+        "url": "https://www.theguardian.com/world/2026/mar/02/iran-attack-plan-what-next",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T08:00:05+00:00"
       },
       {
         "id": "94ba9108bb4d",
@@ -33,7 +65,7 @@
       {
         "id": "ea33823ad14d",
         "title": "Most senior council officers in England say building work hit by delays",
-        "summary": "Funding uncertainty is main concern, despite Labour’s pledge to revitalise construction, survey showsAlmost two-thirds of senior council officers have said they are seeing construction projects delayed, despite the key role of local authorities in creating the wave of new housing and infrastructure ...",
+        "summary": "Funding uncertainty is main concern, despite Labour’s pledge to revitalise construction, survey showsBusiness live – latest updatesAlmost two-thirds of senior council officers have said they are seeing construction projects delayed, despite the key role of local authorities in creating the wave of n...",
         "url": "https://www.theguardian.com/society/2026/mar/02/senior-council-officers-building-work-hit-by-delays",
         "source": "Business | The Guardian",
         "published": "2026-03-02T06:00:02+00:00"
@@ -41,7 +73,7 @@
       {
         "id": "777ad2bee546",
         "title": "Rolls-Royce boss ‘open’ to Germany joining UK’s fighter jet project",
-        "summary": "Tufan Erginbilgiç says decision is for the government but German participation remains a possibilityThe boss of Rolls-Royce has said he would welcome Germany helping to build Britain’s next-generation fighter jet, arguing that it would bring in more business for the project.The aircraft, designed to...",
+        "summary": "Tufan Erginbilgiç says decision is for the government but German participation remains a possibilityBusiness live – latest updatesThe boss of Rolls-Royce has said he would welcome Germany helping to build Britain’s next-generation fighter jet, arguing it would bring in more business for the project....",
         "url": "https://www.theguardian.com/business/2026/mar/02/rolls-royce-germany-uk-fighter-jet-tufan-erginbilgic",
         "source": "Business | The Guardian",
         "published": "2026-03-02T05:00:01+00:00"
@@ -51,6 +83,14 @@
         "title": "The squeal of peeling tape, explained",
         "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00516-wWeak shock waves triggered by micro-cracks in the adhesive layer of tape cause it to screech when being unspooled from its roll.",
         "url": "https://www.nature.com/articles/d41586-026-00516-w",
+        "source": "Nature",
+        "published": "2026-03-02T00:00:00+00:00"
+      },
+      {
+        "id": "0a8c178233e3",
+        "title": "The hidden lives behind China’s great Internet firewall",
+        "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00664-zThe country’s tightly controlled digital ecosystem is replete with human stories and acts of subtle resistance.",
+        "url": "https://www.nature.com/articles/d41586-026-00664-z",
         "source": "Nature",
         "published": "2026-03-02T00:00:00+00:00"
       },
@@ -133,46 +173,6 @@
         "url": "https://www.theguardian.com/environment/2026/mar/01/thousands-pollution-incidents-england-downgraded-without-site-visit-data-suggests",
         "source": "Business | The Guardian",
         "published": "2026-03-01T07:00:34+00:00"
-      },
-      {
-        "id": "503e36e5d623",
-        "title": "‘Cleaning Superstore’: warning over missed delivery text scam on WhatsApp",
-        "summary": "The text mimics a common fraud, but differs in that criminals appear to have hacked a genuine business accountJohn the delivery driver has tried to drop off something at your home from a company called Cleaning Superstore but you missed him, according to the message you have received via WhatsApp.Al...",
-        "url": "https://www.theguardian.com/money/2026/mar/01/cleaning-superstore-the-missed-delivery-text-scam-whatsapp",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T07:00:33+00:00"
-      },
-      {
-        "id": "f19329d340ca",
-        "title": "Trump moves to ban Anthropic from the US government",
-        "summary": "The Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-        "url": "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-28T20:00:26+00:00"
-      },
-      {
-        "id": "e90ed1569d6d",
-        "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
-        "summary": "An AI chatbot convinced health investigators they had the right answer.",
-        "url": "https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/",
-        "source": "Ars Technica - All content",
-        "published": "2026-02-28T18:17:12+00:00"
-      },
-      {
-        "id": "432a68c6d577",
-        "title": "It’s been decreed: something must be done about student loans in England",
-        "summary": "The education secretary wants a fairer system and the Tories have leapt in with their own plan – but why now?For anyone who attended university in England in the last 15 or so years, the idea of student loans feeling like some sort of debt trap is hardly news. But three weeks ago, when the journalis...",
-        "url": "https://www.theguardian.com/money/2026/feb/28/its-been-decreed-something-must-be-done-about-student-loans-in-england",
-        "source": "Business | The Guardian",
-        "published": "2026-02-28T15:00:14+00:00"
-      },
-      {
-        "id": "b7d35b2c80ec",
-        "title": "‘A temple of food’: London’s grande dame Simpson’s in the Strand rises again",
-        "summary": "As the storied London dining room reopens on its bicentenary, restaurateur Jeremy King honours its heritage while restoring a faded iconSimpson’s in the Strand was the sort of London institution where nothing changed without very good reason. Founded in 1828 as a coffee and chess club, the restauran...",
-        "url": "https://www.theguardian.com/uk-news/2026/feb/28/a-temple-of-food-london-grand-dame-simpsons-in-the-strand-rises-again",
-        "source": "Business | The Guardian",
-        "published": "2026-02-28T14:00:14+00:00"
       }
     ],
     "破(day)": [
