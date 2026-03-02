@@ -1,26 +1,98 @@
 {
-  "updated_at": "2026-03-02T14:32:14.084879+00:00",
+  "updated_at": "2026-03-02T17:33:28.510162+00:00",
   "trending": [
-    "iphone 17e",
-    "lloyd blankfein",
-    "africa",
-    "pokopia",
-    "march calendar",
-    "current events",
-    "general dan caine",
-    "shah rukh khan",
-    "usa today",
-    "stock market"
+    "alexandra saint mleux",
+    "world baseball classic schedule",
+    "pisa - bolonia",
+    "international women's day",
+    "luke kornet",
+    "trump live",
+    "avav stock",
+    "nhl trade deadline",
+    "pisa vs bologna",
+    "kenneth walker"
   ],
   "categories": {
     "急(hr)": [
       {
-        "id": "bfee17bd3d1e",
-        "title": "Oil could be driven over $100 a barrel by Iran conflict, analysts warn, as gas prices surge – business live",
-        "summary": "US-Israel war with Iran hits shares in travel companies, and the pound, although oil producers and weapons makers are rallyingOil prices rise as Iran war threatens shipping through strait of HormuzOver in New Delhi, India and Canada have agreed deals covering critical minerals and uranium supply.The...",
-        "url": "https://www.theguardian.com/business/live/2026/mar/02/oil-price-us-israel-iran-war-100-dollars-a-barrel-stock-markets-drop-travel-news-updates",
+        "id": "0eb9b7c717a5",
+        "title": "BrewDog bought by US cannabis and drinks firm for £33m, costing nearly 500 jobs",
+        "summary": "Many early stage crowdfunders left empty-handed as Tilray acquires beer company’s UK and Irish assetsBusiness live – latest updatesThe UK and Irish assets of BrewDog, the Scottish self-styled “punk” brewer, have been sold to the US cannabis and drinks firm Tilray for £33m, in a deal that will cost n...",
+        "url": "https://www.theguardian.com/business/2026/mar/02/brewdog-us-cannabis-drinks-500-jobs",
         "source": "Business | The Guardian",
-        "published": "2026-03-02T14:11:05+00:00"
+        "published": "2026-03-02T16:28:52+00:00"
+      },
+      {
+        "id": "0faab55d3369",
+        "title": "Gas prices soar and oil jumps as Iran war pushes down global stock markets",
+        "summary": "QatarEnergy says it has halted production of liquefied natural gas after attacks on Ras Laffan and Mesaieed sitesBusiness live – latest updatesUS-Israel war on Iran – live updatesGas prices surged on Monday and oil rose sharply as an escalation in the US-Israel war on Iran caused major disruption to...",
+        "url": "https://www.theguardian.com/world/2026/mar/02/oil-prices-iran-war-strait-of-hormuz-shipping",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T16:08:09+00:00"
+      },
+      {
+        "id": "388cff1d503b",
+        "title": "Iowa county adopts strict zoning rules for data centers, but residents still worry",
+        "summary": "Though the rules are among the strictest in the US, locals say they aren't enough.",
+        "url": "https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/",
+        "source": "Ars Technica - All content",
+        "published": "2026-03-02T15:34:42+00:00"
+      },
+      {
+        "id": "caaae6f71c68",
+        "title": "UK competition watchdog investigates hotel groups over alleged data sharing",
+        "summary": "Regulator looks into claim Hilton, InterContinental Hotels and Marriott could be sharing ‘competitively sensitive’ information via analytics tool Business live – latest updatesThe UK competition watchdog has opened an investigation into three of the world’s biggest hotel chains – Hilton, InterContin...",
+        "url": "https://www.theguardian.com/business/2026/mar/02/uk-competition-watchdog-investigates-hilton-marriott-intercontinental-hotel-groups-alleged-data-sharing",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T15:33:33+00:00"
+      },
+      {
+        "id": "43decca7586e",
+        "title": "UK house prices rise in February as chancellor avoids ‘negative speculation’",
+        "summary": "Rachel Reeves’s upcoming spring forecast has not led to slowdown, as property tax rumours did in NovemberBusiness live – latest updatesUK politics live – latest updatesHouse prices in the UK increased in February, avoiding a repeat of the “negative speculation” that depressed the market before last ...",
+        "url": "https://www.theguardian.com/business/2026/mar/02/uk-house-prices-rise-february-spring-forecast-rachel-reeves",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T15:17:51+00:00"
+      },
+      {
+        "id": "d252a5c74a43",
+        "title": "$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost",
+        "summary": "Unexpected RAM upgrade is the highlight of an otherwise straightforward refresh.",
+        "url": "https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/",
+        "source": "Ars Technica - All content",
+        "published": "2026-03-02T15:06:00+00:00"
+      },
+      {
+        "id": "adf9cfe505b0",
+        "title": "Research roundup: Six cool science stories we almost missed",
+        "summary": "Smart underwear measures farts, brain cells play Doom, and AI discovers rules of an ancient game.",
+        "url": "https://arstechnica.com/science/2026/03/research-roundup-six-cool-science-stories-we-almost-missed/",
+        "source": "Ars Technica - All content",
+        "published": "2026-03-02T14:45:05+00:00"
+      },
+      {
+        "id": "63efb786d163",
+        "title": "Apple's new iPhone 17e has an A19 chip, MagSafe, and 256GB of storage for $599",
+        "summary": "New just-the-basics phone replaces the year-old iPhone 16e at the same price.",
+        "url": "https://arstechnica.com/gadgets/2026/03/apples-new-iphone-17e-has-an-a19-chip-magsafe-and-256gb-of-storage-for-599/",
+        "source": "Ars Technica - All content",
+        "published": "2026-03-02T14:34:52+00:00"
+      },
+      {
+        "id": "71097978ed2e",
+        "title": "It's almost a station wagon: The 2026 Subaru Trailseeker, driven",
+        "summary": "Despite the Toyota platform, there's plenty of Subaru DNA in this one.",
+        "url": "https://arstechnica.com/cars/2026/03/2026-subaru-trailseeker-first-drive-the-most-quintessentially-subaru-ev-yet/",
+        "source": "Ars Technica - All content",
+        "published": "2026-03-02T14:00:01+00:00"
+      },
+      {
+        "id": "f11a6674dd77",
+        "title": "Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding",
+        "summary": "America succeeds in space when American companies compete.",
+        "url": "https://arstechnica.com/space/2026/03/former-nasa-chief-turned-ula-lobbyist-seeks-law-to-limit-spacex-funding/",
+        "source": "Ars Technica - All content",
+        "published": "2026-03-02T13:58:30+00:00"
       },
       {
         "id": "31d4319442ba",
@@ -29,14 +101,6 @@
         "url": "https://www.theguardian.com/business/2026/mar/02/middle-east-crisis-oil-prices-inflation-us-iran-interest-rates-growth",
         "source": "Business | The Guardian",
         "published": "2026-03-02T13:02:32+00:00"
-      },
-      {
-        "id": "43decca7586e",
-        "title": "UK house prices rise in February as chancellor avoids ‘negative speculation’",
-        "summary": "Rachel Reeves’s upcoming spring forecast has not led to slowdown, as property tax rumours did in NovemberBusiness live – latest updatesUK politics live – latest updatesHouse prices in the UK increased in February, avoiding a repeat of the “negative speculation” that depressed the market before last ...",
-        "url": "https://www.theguardian.com/business/2026/mar/02/uk-house-prices-rise-february-spring-forecast-rachel-reeves",
-        "source": "Business | The Guardian",
-        "published": "2026-03-02T12:21:12+00:00"
       },
       {
         "id": "b9088455e0f3",
@@ -63,16 +127,8 @@
         "published": "2026-03-02T11:00:09+00:00"
       },
       {
-        "id": "caaae6f71c68",
-        "title": "UK competition watchdog investigates hotel groups over alleged data sharing",
-        "summary": "Regulator looks into claim Hilton, InterContinental Hotels and Marriott could be sharing ‘competitively sensitive’ information via analytics tool Business live – latest updatesThe UK competition watchdog has opened an investigation into three of the world’s biggest hotel chains – Hilton, InterContin...",
-        "url": "https://www.theguardian.com/business/2026/mar/02/uk-competition-watchdog-investigates-hilton-marriott-intercontinental-hotel-groups-alleged-data-sharing",
-        "source": "Business | The Guardian",
-        "published": "2026-03-02T09:47:41+00:00"
-      },
-      {
         "id": "169fb0de4ecb",
-        "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for the first time",
+        "title": "AMD Ryzen AI 400 chips will bring newer CPUs, GPUs, and NPUs to AM5 desktops",
         "summary": "First wave of Ryzen AI desktop CPUs targets business PCs rather than DIYers.",
         "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
         "source": "Ars Technica - All content",
@@ -111,71 +167,31 @@
         "published": "2026-03-02T05:00:01+00:00"
       },
       {
-        "id": "16884c19e280",
-        "title": "The squeal of peeling tape, explained",
-        "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00516-wWeak shock waves triggered by micro-cracks in the adhesive layer of tape cause it to screech when being unspooled from its roll.",
-        "url": "https://www.nature.com/articles/d41586-026-00516-w",
+        "id": "30a86e4323a6",
+        "title": "Author Correction: Root microbiota drive direct integration of phosphate stress and immunity",
+        "summary": "Nature, Published online: 02 March 2026; doi:10.1038/s41586-026-10320-1Author Correction: Root microbiota drive direct integration of phosphate stress and immunity",
+        "url": "https://www.nature.com/articles/s41586-026-10320-1",
         "source": "Nature",
         "published": "2026-03-02T00:00:00+00:00"
-      },
-      {
-        "id": "0a8c178233e3",
-        "title": "The hidden lives behind China’s great Internet firewall",
-        "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00664-zThe country’s tightly controlled digital ecosystem is replete with human stories and acts of subtle resistance.",
-        "url": "https://www.nature.com/articles/d41586-026-00664-z",
-        "source": "Nature",
-        "published": "2026-03-02T00:00:00+00:00"
-      },
-      {
-        "id": "02bc472c6e9a",
-        "title": "AI agents are ‘aeroplanes for the mind’: five ways to ensure that scientists are responsible pilots",
-        "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00665-yAs artificial-intelligence systems take on more of the scientific workflow, the central goal should not be complete automation, but designing platforms that preserve creativity, responsibility and surprise.",
-        "url": "https://www.nature.com/articles/d41586-026-00665-y",
-        "source": "Nature",
-        "published": "2026-03-02T00:00:00+00:00"
-      },
-      {
-        "id": "a89ae55d2fff",
-        "title": "‘No one quite like her’: meet the female colleagues who inspire these award-winning women in science",
-        "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00666-xTo mark International Women’s Day, Nature asked winners of its awards programmes to nominate a colleague who brings out the best in them.",
-        "url": "https://www.nature.com/articles/d41586-026-00666-x",
-        "source": "Nature",
-        "published": "2026-03-02T00:00:00+00:00"
-      },
-      {
-        "id": "7bdbf59faf73",
-        "title": "OBR a backseat driver with out-of-date maps, thinktanks tell Rachel Reeves",
-        "summary": "Chancellor urged to reform Office for Budget Responsibility to open way to more public investmentRachel Reeves must reform the Office for Budget Responsibility (OBR) to open the way to more public investment, an alliance of thinktanks has argued ahead of the chancellor’s spring forecast on Tuesday.W...",
-        "url": "https://www.theguardian.com/business/2026/mar/01/obr-office-for-budget-responsibility-thinktanks-rachel-reeves",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T20:00:49+00:00"
-      },
-      {
-        "id": "ddc4df57168d",
-        "title": "Datacentre developers face calls to disclose effect on UK’s net emissions",
-        "summary": "Campaign groups write to technology secretary amid concerns that sites could double overall electricity demandDatacentre developers are facing pressure to reveal whether their projects will increase the UK’s net greenhouse gas emissions, amid concerns the sites could double national electricity dema...",
-        "url": "https://www.theguardian.com/technology/2026/mar/01/datacentre-developers-energy-greenhouse-gas-emissions",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T16:00:44+00:00"
-      },
-      {
-        "id": "0744b6eca110",
-        "title": "Waiting on a tariff refund after Trump’s duties were struck down? Don’t bother | Gene Marks",
-        "summary": "Though the supreme court ruled against the levies, businesses hit hard by the tariffs shouldn’t hold their breath for any rebatesSign up for the Breaking News US email to get newsletter alerts in your inboxNow that the supreme court has found that the Donald Trump exceeded his authority to levy tari...",
-        "url": "https://www.theguardian.com/business/2026/mar/01/trump-tariffs-business-refund-supreme-court",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T15:00:44+00:00"
-      },
-      {
-        "id": "a5e93d5c35d3",
-        "title": "What is the strait of Hormuz and why is it crucial for oil supplies?",
-        "summary": "Effective closure of the narrow waterway could spell trouble for many developed economies US-Israel war on Iran – latest updatesThe US-Israeli war on Iran has ignited fears that escalating military aggression in the Middle East could send oil prices soaring, push up prices at the pump and drive a gl...",
-        "url": "https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T14:21:14+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "8a8297b60f88",
+        "title": "動物的血手，飲食文化的守門人──屠檢獸醫師的白日與暗夜",
+        "summary": "「你的職責，是必須讓被迫犧牲的動物，在安全、人道與衛生的準則下走完最後一程。」文中以「你」代稱的屠檢獸醫師，如何在「白刀子進、紅刀子出」的日常裡果斷執行公務？陽剛的工作環境中又得忍受哪些不舒服的待遇？",
+        "url": "https://www.twreporter.org/a/bookreview-hello-animal-doctors",
+        "source": "報導者",
+        "published": "2026-03-02T16:00:00+00:00"
+      },
+      {
+        "id": "c8d90582cc42",
+        "title": "Learn spectral filters and other spectral tricks in Max (or elsewhere)",
+        "summary": "Spectral tools are all the rage. Ever fancied trying to play with those techniques under the hood? Umut Eldem aka Hearing Glass has a great set of video tutorials. They're implemented perfectly in Max, but they're even worth following along from other environments.\nThe post Learn spectral filters an...",
+        "url": "https://cdm.link/learn-spectral-tricks-in-max/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-02T15:37:38+00:00"
+      },
       {
         "id": "217bbea40f2d",
         "title": "From Tehran’s Bernisaun, dreams, cortisol reduction, and analog rituals",
@@ -319,22 +335,6 @@
         "url": "https://www.twreporter.org/a/saturday-features-film-digital-restoration-of-hakka-films",
         "source": "報導者",
         "published": "2026-02-27T16:00:00+00:00"
-      },
-      {
-        "id": "002e6efe3533",
-        "title": "In her own words: watch a free documentary on Éliane Radigue",
-        "summary": "Éliane Radigue in full, uninterrupted motion, is breathtaking in her thoughts. So it&#8217;s wonderful that the filmmakers behind the documentary short Échos have put that film up for free to honor her memory this week. Get ready for sprawling shots of the ARP modular synthesizer and deep reflection...",
-        "url": "https://cdm.link/watch-echos-documentary-eliane-radigue-free/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-27T13:23:15+00:00"
-      },
-      {
-        "id": "14a679381644",
-        "title": "Curve time with Tomavatars’ MGenBend for Ableton Live Suite: hands-on",
-        "summary": "Escaping the rigid, repetitive grid helps to make gestures the way we would on instruments. I've been talking to Tomavatars as he developed this one, and the MGenBend Max for Live Device lets you create elegant, multi-point curves for notes, strumming, and arpeggios.\nThe post Curve time with Tomavat...",
-        "url": "https://cdm.link/mgenbend-curve-sequencer/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-26T22:41:04+00:00"
       }
     ],
     "序(month)": [
