@@ -6,7 +6,6 @@
       "https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science",
       "https://www.nature.com/nature.rss",
       "https://www.theguardian.com/uk/business/rss"
-
     ],
     "破(day)": [
       "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/rss/",
@@ -33,7 +32,8 @@
       "https://wp.nyu.edu/music_and_sound_cultures/feed/",
       "https://blog.archive.org/feed/",
       "https://medium.com/@ccs.popcom/feed",
-      "https://aiacademy.tw/feed/"
+      "https://aiacademy.tw/feed/",
+      "https://audio.nmth.gov.tw/news/feed"
     ]
   },
   "max_items_per_category": 20
