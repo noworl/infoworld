@@ -75,15 +75,17 @@ def resolve_favorites():
     for album in data["albums"]:
         if album["album_id"] is None:
             print(f"Resolving: {album['url']}")
-            html = fetch(album["url"])
-            dt = re.search(r'data-tralbum="([^"]+)"', html)
+            page = fetch(album["url"])
+            dt = re.search(r'data-tralbum="([^"]+)"', page)
             if not dt:
                 print(f"  ⚠️  Could not resolve {album['url']}, skipping")
                 continue
             tralbum = json.loads(dt.group(1).replace("&quot;", '"'))
             album["album_id"] = str(tralbum["id"])
-            title_m = re.search(r"<title>([^<]+)</title>", html)
-            album["title"] = title_m.group(1).strip() if title_m else album["url"]
+            album["embed_type"] = tralbum.get("item_type", "album")  # "album" or "track"
+            title_m = re.search(r"<title>([^<]+)</title>", page)
+            raw_title = title_m.group(1).strip() if title_m else album["url"]
+            album["title"] = html.unescape(raw_title)
             print(f"  ✅ {album['title']} (id={album['album_id']})")
             changed = True
     if changed:
@@ -111,7 +113,7 @@ def update_favorites_section(latest, random_pick):
             f'<div class="fav-item">'
             f'<div class="fav-label">{label}</div>'
             f'<iframe style="border: 0; height: 42px;" '
-            f'src="https://bandcamp.com/EmbeddedPlayer/album={album["album_id"]}/size=small/bgcol=ffffff/linkcol=f171a2/transparent=true/" '
+            f'src="https://bandcamp.com/EmbeddedPlayer/{album.get("embed_type", "album")}={album["album_id"]}/size=small/bgcol=ffffff/linkcol=f171a2/transparent=true/" '
             f'seamless><a href="{album["url"]}">{html.escape(album["title"])}</a></iframe>'
             f'</div>'
         )

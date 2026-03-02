@@ -3,22 +3,26 @@
     {
       "url": "https://mathiasgrassow.bandcamp.com/album/2025-laoco-n",
       "album_id": "3778298837",
+      "embed_type": "album",
       "title": "(2025) LAOCOÖN | LAOCOÖN by L.John-Krol, M.Grassow, D.Schlömer + guests R.Gleisberg, C.Agthe, M.Krol. | Mathias Grassow"
     },
     {
       "url": "https://mathiasgrassow.bandcamp.com/album/2025-retreat-into-the-perseverance-of-inner-light",
       "album_id": "338087515",
-      "title": "(2025) Retreat into the Perseverance of Inner Light | Mathias Grassow / Heikki Lindgren &amp; Metavoice | Mathias Grassow"
+      "embed_type": "album",
+      "title": "(2025) Retreat into the Perseverance of Inner Light | Mathias Grassow / Heikki Lindgren & Metavoice | Mathias Grassow"
     },
     {
       "url": "https://canary-records.bandcamp.com/album/v-rlengt-norwegian-american-hardanger-fiddle-master-ca-1945-68",
       "album_id": "2772055329",
+      "embed_type": "album",
       "title": "Vårlengt: Norwegian-American Hardanger Fiddle Master ca. 1945-68 | Anund Roheim | Canary Records"
     },
     {
       "url": "https://magnusmunktaekker.bandcamp.com/track/vestlandet",
       "album_id": "888180073",
-      "title": "Vestlandet | Magnus Munk Tækker &amp; Jon Askjær | Magnus Munk Tækker"
+      "embed_type": "track",
+      "title": "Vestlandet | Magnus Munk Tækker & Jon Askjær | Magnus Munk Tækker"
     }
   ]
 }
