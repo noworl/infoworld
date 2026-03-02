@@ -167,10 +167,13 @@ def generate_html(all_results: dict, output_file=OUTPUT_FILE):
         .video-link:hover {{
             text-decoration: underline;
         }}
-        .video-link.new {{
-            background-color: #dbeafe;
-            padding: 0 3px;
+        .new-badge {{
+            background-color: #cc0000;
+            color: #fff;
+            font-size: 0.7rem;
+            padding: 0 4px;
             border-radius: 2px;
+            margin-left: 6px;
         }}
         .video-date {{
             color: #888;
@@ -222,11 +225,11 @@ def generate_html(all_results: dict, output_file=OUTPUT_FILE):
                 url = video["url"]
                 thumbnail = video.get("thumbnail_url", "")
                 date = format_date(video["published_at"])
-                link_class = "video-link new" if is_this_week(video["published_at"]) else "video-link"
+                badge = '<span class="new-badge">new</span>' if is_this_week(video["published_at"]) else ""
 
                 html += f"""    <div class="video-item">
-        <a class="{link_class}" href="{url}" target="_blank">{title}</a>
-        <span class="video-date">{date}</span>
+        <a class="video-link" href="{url}" target="_blank">{title}</a>
+        <span class="video-date">{date}</span>{badge}
         <div class="thumbnail-popup">
             <img src="{thumbnail}" alt="縮圖">
         </div>
@@ -326,20 +329,17 @@ def check_new_videos(channel_input: str, download_thumbnails: bool = True) -> li
     # 取得最新影片
     videos = get_latest_videos(youtube, channel_id)
 
-    # 找出新影片
-    new_videos = []
+    # 下載縮圖、更新已看記錄
     for video in videos:
-        if video["video_id"] not in checked_ids:
-            if download_thumbnails:
-                video["thumbnail_path"] = download_thumbnail(video, THUMBNAIL_DIR)
-            new_videos.append(video)
-            checked_ids.add(video["video_id"])
+        if download_thumbnails and video["video_id"] not in checked_ids:
+            video["thumbnail_path"] = download_thumbnail(video, THUMBNAIL_DIR)
+        checked_ids.add(video["video_id"])
 
     # 更新記錄
     checked[channel_id] = list(checked_ids)
     save_checked_videos(checked)
 
-    return new_videos
+    return videos
 
 
 def load_channels() -> list:
@@ -380,23 +380,23 @@ def check_all_channels(download_thumbnails: bool = True, publish: bool = True) -
         print(f"\n頻道: {channel}")
         print("-" * 40)
         try:
-            new_videos = check_new_videos(channel, download_thumbnails=download_thumbnails)
-            all_results[channel] = new_videos
+            videos = check_new_videos(channel, download_thumbnails=download_thumbnails)
+            all_results[channel] = videos
 
-            if new_videos:
-                print(f"發現 {len(new_videos)} 部新影片:")
-                for i, video in enumerate(new_videos, 1):
+            if videos:
+                print(f"{len(videos)} 部影片:")
+                for i, video in enumerate(videos, 1):
                     print_video_info(video, i)
-                total_new += len(new_videos)
+                total_new += len(videos)
             else:
-                print("沒有新影片")
+                print("無影片")
 
         except Exception as e:
             print(f"錯誤: {e}")
             all_results[channel] = []
 
     print("=" * 60)
-    print(f"\n總計: 發現 {total_new} 部新影片")
+    print(f"\n總計: {total_new} 部影片")
 
     # 生成 HTML 檔案並發佈
     if total_new > 0:
