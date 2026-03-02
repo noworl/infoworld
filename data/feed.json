@@ -1,34 +1,66 @@
 {
-  "updated_at": "2026-03-02T17:33:28.510162+00:00",
+  "updated_at": "2026-03-02T19:52:17.133530+00:00",
   "trending": [
-    "alexandra saint mleux",
-    "world baseball classic schedule",
-    "pisa - bolonia",
-    "international women's day",
-    "luke kornet",
-    "trump live",
-    "avav stock",
-    "nhl trade deadline",
-    "pisa vs bologna",
-    "kenneth walker"
+    "udinese vs fiorentina",
+    "red wings",
+    "metallica",
+    "real madrid - getafe",
+    "real madrid vs getafe",
+    "marshon lattimore",
+    "trump neck rash",
+    "red wings vs predators",
+    "giannis antetokounmpo",
+    "b1 bomber"
   ],
   "categories": {
     "急(hr)": [
       {
-        "id": "0eb9b7c717a5",
-        "title": "BrewDog bought by US cannabis and drinks firm for £33m, costing nearly 500 jobs",
-        "summary": "Many early stage crowdfunders left empty-handed as Tilray acquires beer company’s UK and Irish assetsBusiness live – latest updatesThe UK and Irish assets of BrewDog, the Scottish self-styled “punk” brewer, have been sold to the US cannabis and drinks firm Tilray for £33m, in a deal that will cost n...",
-        "url": "https://www.theguardian.com/business/2026/mar/02/brewdog-us-cannabis-drinks-500-jobs",
+        "id": "a6c518210e38",
+        "title": "Paramount+ and HBO Max to become one streaming service, Ellison says",
+        "summary": "Billionaire Paramount Skydance chief announces plan days after winning takeover battle for Warner Bros DiscoverySign up for the Breaking News US email to get newsletter alerts in your inboxParamount Skydance plans to combine HBO Max and Paramount+ into one streaming service, chief executive David El...",
+        "url": "https://www.theguardian.com/media/2026/mar/02/paramount-hbo-max-streaming-warner-bros",
         "source": "Business | The Guardian",
-        "published": "2026-03-02T16:28:52+00:00"
+        "published": "2026-03-02T19:31:50+00:00"
+      },
+      {
+        "id": "3d8fd8a995db",
+        "title": "How escalating Iran conflict is driving up oil and gas prices – a visual guide",
+        "summary": "A near-halt to shipping in strait of Hormuz and attacks on Middle East refineries are threatening supplies and stoking inflationNils Pratley: A gas shock – not an oil shock – looks more threateningUS-Israel war on Iran – live updatesIran has responded to US and Israeli attacks by launching a series ...",
+        "url": "https://www.theguardian.com/world/2026/mar/02/iran-strait-of-hormuz-oil-gas-visualized",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T19:13:22+00:00"
+      },
+      {
+        "id": "a2a006b10db2",
+        "title": "Charter gets FCC permission to buy Cox and become largest ISP in the US",
+        "summary": "FCC rejects protests because Charter and Cox don't compete directly in most places.",
+        "url": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/",
+        "source": "Ars Technica - All content",
+        "published": "2026-03-02T18:19:03+00:00"
       },
       {
         "id": "0faab55d3369",
         "title": "Gas prices soar and oil jumps as Iran war pushes down global stock markets",
-        "summary": "QatarEnergy says it has halted production of liquefied natural gas after attacks on Ras Laffan and Mesaieed sitesBusiness live – latest updatesUS-Israel war on Iran – live updatesGas prices surged on Monday and oil rose sharply as an escalation in the US-Israel war on Iran caused major disruption to...",
+        "summary": "QatarEnergy says it has halted production of liquefied natural gas after attacks on Ras Laffan and Mesaieed sitesNils Pratley: A gas shock – not an oil shock – looks more threateningUS-Israel war on Iran – live updatesGas prices surged on Monday and oil rose sharply as an escalation in the US-Israel...",
         "url": "https://www.theguardian.com/world/2026/mar/02/oil-prices-iran-war-strait-of-hormuz-shipping",
         "source": "Business | The Guardian",
-        "published": "2026-03-02T16:08:09+00:00"
+        "published": "2026-03-02T18:09:55+00:00"
+      },
+      {
+        "id": "5dc52c943a53",
+        "title": "A gas shock, not an oil shock, from the Iran war looks more threatening | Nils Pratley",
+        "summary": "Europe and Asia will take an economic hit if the supply of Qatari LNG is halted by the closure of the strait of HormuzGas prices soar and oil jumps as Iran war pushes down global stock marketsThe price of oil grabs most of the energy-related attention during conflicts in the Middle East for understa...",
+        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/mar/02/gas-shock-oil-iran-war-qatari-lng-strait-of-hormuz",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T17:59:18+00:00"
+      },
+      {
+        "id": "0eb9b7c717a5",
+        "title": "BrewDog bought by US cannabis and drinks firm for £33m, costing nearly 500 jobs",
+        "summary": "Many early-stage crowdfunders left empty-handed as Tilray acquires beer company’s UK and Irish assetsBusiness live – latest updatesThe UK and Irish assets of BrewDog, the Scottish self-styled “punk” brewer, have been sold to the US cannabis and drinks firm Tilray for £33m, in a deal that will cost n...",
+        "url": "https://www.theguardian.com/business/2026/mar/02/brewdog-us-cannabis-drinks-500-jobs",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T17:34:14+00:00"
       },
       {
         "id": "388cff1d503b",
@@ -119,14 +151,6 @@
         "published": "2026-03-02T11:00:09+00:00"
       },
       {
-        "id": "7d7fb82d4d45",
-        "title": "Why are British estate agents so weird online? | Emma Beddington",
-        "summary": "Even though my algorithm knows I’m a sucker for outlandish reality TV property shows, it’s now offering me less-than-glamorous copycats trying to flog a buy-to-let in BeaconsfieldI’m not proud to admit that I love property as entertainment, especially smooth-brained “reality” shows in which peptide-...",
-        "url": "https://www.theguardian.com/commentisfree/2026/mar/02/why-are-british-estate-agents-so-weird-online",
-        "source": "Business | The Guardian",
-        "published": "2026-03-02T11:00:09+00:00"
-      },
-      {
         "id": "169fb0de4ecb",
         "title": "AMD Ryzen AI 400 chips will bring newer CPUs, GPUs, and NPUs to AM5 desktops",
         "summary": "First wave of Ryzen AI desktop CPUs targets business PCs rather than DIYers.",
@@ -149,30 +173,6 @@
         "url": "https://www.theguardian.com/money/2026/mar/02/scottishpower-refuses-to-believe-that-my-father-has-died",
         "source": "Business | The Guardian",
         "published": "2026-03-02T07:00:03+00:00"
-      },
-      {
-        "id": "ea33823ad14d",
-        "title": "Most senior council officers in England say building work hit by delays",
-        "summary": "Funding uncertainty is main concern, despite Labour’s pledge to revitalise construction, survey showsBusiness live – latest updatesAlmost two-thirds of senior council officers have said they are seeing construction projects delayed, despite the key role of local authorities in creating the wave of n...",
-        "url": "https://www.theguardian.com/society/2026/mar/02/senior-council-officers-building-work-hit-by-delays",
-        "source": "Business | The Guardian",
-        "published": "2026-03-02T06:00:02+00:00"
-      },
-      {
-        "id": "777ad2bee546",
-        "title": "Rolls-Royce boss ‘open’ to Germany joining UK’s fighter jet project",
-        "summary": "Tufan Erginbilgiç says decision is for the government but German participation remains a possibilityBusiness live – latest updatesThe boss of Rolls-Royce has said he would welcome Germany helping to build Britain’s next-generation fighter jet, arguing it would bring in more business for the project....",
-        "url": "https://www.theguardian.com/business/2026/mar/02/rolls-royce-germany-uk-fighter-jet-tufan-erginbilgic",
-        "source": "Business | The Guardian",
-        "published": "2026-03-02T05:00:01+00:00"
-      },
-      {
-        "id": "30a86e4323a6",
-        "title": "Author Correction: Root microbiota drive direct integration of phosphate stress and immunity",
-        "summary": "Nature, Published online: 02 March 2026; doi:10.1038/s41586-026-10320-1Author Correction: Root microbiota drive direct integration of phosphate stress and immunity",
-        "url": "https://www.nature.com/articles/s41586-026-10320-1",
-        "source": "Nature",
-        "published": "2026-03-02T00:00:00+00:00"
       }
     ],
     "破(day)": [
