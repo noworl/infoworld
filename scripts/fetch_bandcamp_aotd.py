@@ -50,8 +50,8 @@ def get_album_id_and_title(album_url):
 
 def make_large_iframe(embed_type, album_id, url, title):
     return (
-        f'<iframe style="border: 0; width: 100%; height: 420px;" '
-        f'src="https://bandcamp.com/EmbeddedPlayer/{embed_type}={album_id}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" '
+        f'<iframe style="border: 0; width: 100%; height: 120px;" '
+        f'src="https://bandcamp.com/EmbeddedPlayer/{embed_type}={album_id}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" '
         f'seamless><a href="{url}">{html.escape(title)}</a></iframe>'
     )
 
