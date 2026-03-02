@@ -1,34 +1,66 @@
 {
-  "updated_at": "2026-03-02T11:11:09.801022+00:00",
+  "updated_at": "2026-03-02T14:32:14.084879+00:00",
   "trending": [
-    "wthr",
-    "severe flood risk",
-    "1",
-    "winter weather advisory",
-    "умар джабраилов",
-    "turkey",
-    "elena pridankina",
-    "teodora kostovic",
-    "laura pigossi",
-    "aramco"
+    "iphone 17e",
+    "lloyd blankfein",
+    "africa",
+    "pokopia",
+    "march calendar",
+    "current events",
+    "general dan caine",
+    "shah rukh khan",
+    "usa today",
+    "stock market"
   ],
   "categories": {
     "急(hr)": [
       {
         "id": "bfee17bd3d1e",
-        "title": "Oil could be driven over $100 a barrel by Iran conflict, analysts warn, as FTSE 100 falls 1% – business live",
+        "title": "Oil could be driven over $100 a barrel by Iran conflict, analysts warn, as gas prices surge – business live",
         "summary": "US-Israel war with Iran hits shares in travel companies, and the pound, although oil producers and weapons makers are rallyingOil prices rise as Iran war threatens shipping through strait of HormuzOver in New Delhi, India and Canada have agreed deals covering critical minerals and uranium supply.The...",
         "url": "https://www.theguardian.com/business/live/2026/mar/02/oil-price-us-israel-iran-war-100-dollars-a-barrel-stock-markets-drop-travel-news-updates",
         "source": "Business | The Guardian",
-        "published": "2026-03-02T10:59:46+00:00"
+        "published": "2026-03-02T14:11:05+00:00"
+      },
+      {
+        "id": "31d4319442ba",
+        "title": "Middle East crisis pushes up oil prices – and could drive inflation rises too",
+        "summary": "Effects of extended conflict between US and Iran could also lead to higher interest rates and hit economic growthBusiness live – latest updatesUS-Israel war on Iran – live updatesThe impact of the deadly and unpredictable conflict in the Middle East on the global economy will be felt most immediatel...",
+        "url": "https://www.theguardian.com/business/2026/mar/02/middle-east-crisis-oil-prices-inflation-us-iran-interest-rates-growth",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T13:02:32+00:00"
       },
       {
         "id": "43decca7586e",
         "title": "UK house prices rise in February as chancellor avoids ‘negative speculation’",
-        "summary": "Rachel Reeves’ upcoming spring forecast has not led to slowdown, as property tax rumours did in NovemberBusiness live – latest updatesUK politics live – latest updatesHouse prices in the UK increased in February as Rachel Reeves avoided a repeat of the pre-budget “negative speculation” that depresse...",
+        "summary": "Rachel Reeves’s upcoming spring forecast has not led to slowdown, as property tax rumours did in NovemberBusiness live – latest updatesUK politics live – latest updatesHouse prices in the UK increased in February, avoiding a repeat of the “negative speculation” that depressed the market before last ...",
         "url": "https://www.theguardian.com/business/2026/mar/02/uk-house-prices-rise-february-spring-forecast-rachel-reeves",
         "source": "Business | The Guardian",
-        "published": "2026-03-02T10:00:16+00:00"
+        "published": "2026-03-02T12:21:12+00:00"
+      },
+      {
+        "id": "b9088455e0f3",
+        "title": "Trump FCC's equal-time crackdown doesn't apply equally—or at all—to talk radio",
+        "summary": "FCC Chairman Brendan Carr's unequal enforcement of the equal-time rule.",
+        "url": "https://arstechnica.com/tech-policy/2026/03/trump-fccs-equal-time-crackdown-doesnt-apply-equally-or-at-all-to-talk-radio/",
+        "source": "Ars Technica - All content",
+        "published": "2026-03-02T12:00:01+00:00"
+      },
+      {
+        "id": "698eae011cea",
+        "title": "I’m on the Meta Oversight Board. We need AI protections now | Suzanne Nossel",
+        "summary": "AI is transforming our world. Accepting independent oversight is the least companies can do to protect our rightsThe speed with which AI is transforming our lives is head-spinning. Unlike previous technological revolutions – radio, nuclear fission or the internet – governments are not leading the wa...",
+        "url": "https://www.theguardian.com/commentisfree/2026/mar/02/meta-oversight-board-ai",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T11:00:09+00:00"
+      },
+      {
+        "id": "7d7fb82d4d45",
+        "title": "Why are British estate agents so weird online? | Emma Beddington",
+        "summary": "Even though my algorithm knows I’m a sucker for outlandish reality TV property shows, it’s now offering me less-than-glamorous copycats trying to flog a buy-to-let in BeaconsfieldI’m not proud to admit that I love property as entertainment, especially smooth-brained “reality” shows in which peptide-...",
+        "url": "https://www.theguardian.com/commentisfree/2026/mar/02/why-are-british-estate-agents-so-weird-online",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T11:00:09+00:00"
       },
       {
         "id": "caaae6f71c68",
@@ -95,6 +127,22 @@
         "published": "2026-03-02T00:00:00+00:00"
       },
       {
+        "id": "02bc472c6e9a",
+        "title": "AI agents are ‘aeroplanes for the mind’: five ways to ensure that scientists are responsible pilots",
+        "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00665-yAs artificial-intelligence systems take on more of the scientific workflow, the central goal should not be complete automation, but designing platforms that preserve creativity, responsibility and surprise.",
+        "url": "https://www.nature.com/articles/d41586-026-00665-y",
+        "source": "Nature",
+        "published": "2026-03-02T00:00:00+00:00"
+      },
+      {
+        "id": "a89ae55d2fff",
+        "title": "‘No one quite like her’: meet the female colleagues who inspire these award-winning women in science",
+        "summary": "Nature, Published online: 02 March 2026; doi:10.1038/d41586-026-00666-xTo mark International Women’s Day, Nature asked winners of its awards programmes to nominate a colleague who brings out the best in them.",
+        "url": "https://www.nature.com/articles/d41586-026-00666-x",
+        "source": "Nature",
+        "published": "2026-03-02T00:00:00+00:00"
+      },
+      {
         "id": "7bdbf59faf73",
         "title": "OBR a backseat driver with out-of-date maps, thinktanks tell Rachel Reeves",
         "summary": "Chancellor urged to reform Office for Budget Responsibility to open way to more public investmentRachel Reeves must reform the Office for Budget Responsibility (OBR) to open the way to more public investment, an alliance of thinktanks has argued ahead of the chancellor’s spring forecast on Tuesday.W...",
@@ -125,57 +173,17 @@
         "url": "https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price",
         "source": "Business | The Guardian",
         "published": "2026-03-01T14:21:14+00:00"
-      },
-      {
-        "id": "3bd09f1c173a",
-        "title": "The strange animals that control their body heat",
-        "summary": "Some creatures can dramatically alter their internal temperature and outlast storms, floods and, predators",
-        "url": "https://arstechnica.com/science/2026/03/the-strange-animals-that-control-their-body-heat/",
-        "source": "Ars Technica - All content",
-        "published": "2026-03-01T12:07:22+00:00"
-      },
-      {
-        "id": "c630be80747f",
-        "title": "Boring or bust: Reeves aims to project calm competence in spring forecast",
-        "summary": "After 18 months of policy U-turns and political turmoil we are told not to expect any last-minute policy rabbitsPoliticians tend to hate being boring but Rachel Reeves will be delighted if Tuesday’s spring forecast is judged by voters and financial markets to be reassuringly dull.After Labour’s cata...",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/01/rachel-eeves-spring-budget-boring-or-bust-calm-competence",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T12:00:40+00:00"
-      },
-      {
-        "id": "97b05d1b4421",
-        "title": "Trump’s Iran strikes accelerate the world’s drift from dollar dominance  | Heather Stewart",
-        "summary": "Aggression feeds a sense that the US is operating outside global norms and helps to fuel a more complex currency outlookWhat the US-Israeli attacks on Iran mean for oil pricesDonald Trump’s attack on Iran, with its puerile Pentagon nametag Operation Epic Fury, is another show of violent force from a...",
-        "url": "https://www.theguardian.com/world/2026/mar/01/trump-world-slow-drift-dollar-dominance-iran-strikes-currency",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T10:46:28+00:00"
-      },
-      {
-        "id": "7791afdf2004",
-        "title": "Young fashion fans help UK charity shops thrive on struggling UK high streets",
-        "summary": "Sales beat wider retail sector last year thanks to customers inspired by websites such as Vinted, industry body saysYoung people inspired by secondhand fashion websites such as Vinted and Depop are helping charity shops thrive despite rising energy and employment costs.Save the Children’s retail sal...",
-        "url": "https://www.theguardian.com/business/2026/mar/01/young-fashion-fans-help-uk-charity-shops-thrive-struggling-uk-high-streets",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T10:00:37+00:00"
-      },
-      {
-        "id": "41038bd19e4c",
-        "title": "AI-resistant ‘halo’ stocks drive UK and EU markets to record highs",
-        "summary": "Investors shifting to ‘heavy-asset, low-obsolescence’ companies insulated from disruption, says Goldman SachsInvestors have a new mantra as they prepare for AI to shake up the global economy – the Halo trade.Interest in Halo – short for “heavy assets, low obsolescence” - has risen as investors seek ...",
-        "url": "https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T07:00:36+00:00"
-      },
-      {
-        "id": "c533c933ff62",
-        "title": "Thousands of pollution incidents in England downgraded without site visit, data suggests",
-        "summary": "Exclusive: Whistleblower figures show large rise in ‘serious’ to ‘minor’ downgrades based on water company evidenceEnvironment Agency (EA) staff have downgraded thousands of serious pollution incidents by water companies in England without visiting to investigate, data unearthed by freedom of inform...",
-        "url": "https://www.theguardian.com/environment/2026/mar/01/thousands-pollution-incidents-england-downgraded-without-site-visit-data-suggests",
-        "source": "Business | The Guardian",
-        "published": "2026-03-01T07:00:34+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "217bbea40f2d",
+        "title": "From Tehran’s Bernisaun, dreams, cortisol reduction, and analog rituals",
+        "summary": "In dark times, music and sound can go from seeming irrelevant or empty to becoming a lifeline. The artist Bernisaun from Tehran has been brewing music that can, in his words, \"engineer the frequency of your well-being.\" It's healing for headphones. And I know almost everyone I know is going to need ...",
+        "url": "https://cdm.link/bernisaun-cortisol-reduction/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-02T12:34:40+00:00"
+      },
       {
         "id": "a2015e86ee51",
         "title": "科技巨頭長約撐腰，Vistra 規劃核電延壽至 2050~2060 年代",
@@ -195,10 +203,10 @@
       {
         "id": "5a551239fef6",
         "title": "所有AI全军覆没！近千名学者出2500道题，GPT-5得分25.3%，GPT-4o只有2.7%",
-        "summary": "2 月 28 日，由全球近 1,000 名顶尖学者打造的 AI 新基准“人类最后一次考试”（HLE，Humanity's Last Exam）的相关论文发在 Nature。这套新试卷覆盖数学、物理、化学、历史、语言、医学，每一道题都来自专家自己的研究领域，每一道题都有唯一正确的答案，每一道题也都经过 AI 的经验，如果哪个 AI 能够答对，这道题就会作废。图 | 相关论文（来源：Nature）结果呢？GPT-4o 只拿了 2.7%，Claude 3.5 Sonnet 4.1%，OpenAI 最先进的 o1 模型，8%。发布之后，更强的 Gemini 2.5 Pro 和 GPT-5 也来挑战，一...",
+        "summary": "近日，由全球近 1,000 名顶尖学者打造的 AI 新基准“人类最后一次考试”（HLE，Humanity's Last Exam）的相关论文发在 Nature。这套新试卷覆盖数学、物理、化学、历史、语言、医学，每一道题都来自专家自己的研究领域，每一道题都有唯一正确的答案，每一道题也都经过 AI 的经验，如果哪个 AI 能够答对，这道题就会作废。图 | 相关论文（来源：Nature）结果呢？GPT-4o 只拿了 2.7%，Claude 3.5 Sonnet 4.1%，OpenAI 最先进的 o1 模型，8%。发布之后，更强的 Gemini 2.5 Pro 和 GPT-5 也来挑战，一个 21.6...",
         "url": "https://www.mittrchina.com/news/detail/16001",
         "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-01T09:22:28+00:00"
+        "published": "2026-03-01T09:22:00+00:00"
       },
       {
         "id": "a9ca6350dec1",
@@ -327,14 +335,6 @@
         "url": "https://cdm.link/mgenbend-curve-sequencer/",
         "source": "CDM Create Digital Music",
         "published": "2026-02-26T22:41:04+00:00"
-      },
-      {
-        "id": "30f5ccb7e3f4",
-        "title": "木箱中的身軀、三顆鈕扣與「刣人埔」傳說──台北植物園遺址出土人骨之謎",
-        "summary": "「衷心希望我的判斷是錯的⋯⋯我一直在過濾各種條件，希望能排除跟二二八事件的關聯性，雖然因為沒有直接證據，不能說絕對就是，但最終無可迴避，導向最有可能的還是『它』。」",
-        "url": "https://www.twreporter.org/a/228-incidents-human-remains-found-in-taipei-botanical-garden",
-        "source": "報導者",
-        "published": "2026-02-26T16:00:00+00:00"
       }
     ],
     "序(month)": [
@@ -377,14 +377,6 @@
         "url": "https://www.ethanhein.com/wp/2026/what-i-learned-from-remixing-dreams-over-and-over/",
         "source": "The Ethan Hein Blog",
         "published": "2026-02-25T14:24:17+00:00"
-      },
-      {
-        "id": "45fb918a7654",
-        "title": "經理人月刊 AIA 專欄 (3)：砸錢買裝備不叫數位轉型， 耐心的啟蒙和起步，AI才能落地",
-        "summary": "台灣人工智慧學校執行長 陳伶志 上周末和幾位老朋友餐敘，阿強摸著自己的啤酒肚苦笑說：「我最...\nThe post 經理人月刊 AIA 專欄 (3)：砸錢買裝備不叫數位轉型， 耐心的啟蒙和起步，AI才能落地 appeared first on 台灣人工智慧學校.",
-        "url": "https://aiacademy.tw/news-aia-managertoday-digital-transformation-implementation/",
-        "source": "台灣人工智慧學校",
-        "published": "2026-02-25T02:58:12+00:00"
       },
       {
         "id": "d8a490e534ac",
@@ -475,14 +467,6 @@
         "published": "2026-02-13T12:00:00+00:00"
       },
       {
-        "id": "b9c974ae8572",
-        "title": "經理人 AI PM 班 (第1期)",
-        "summary": "當 AI 做的樣品屋已經能實際住人時，PM 與工程師的邊界正在消失 課程網站 立即報名 ▍...\nThe post 經理人 AI PM 班 (第1期) appeared first on 台灣人工智慧學校.",
-        "url": "https://aiacademy.tw/admission-aipm-1/",
-        "source": "台灣人工智慧學校",
-        "published": "2026-02-13T10:22:03+00:00"
-      },
-      {
         "id": "78751a1c9871",
         "title": "科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？",
         "summary": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周春节假期，周刊休息。）...",
@@ -497,6 +481,22 @@
         "url": "https://medium.com/@ccs.popcom/%E9%9B%A2%E6%95%A3%E8%88%87%E9%87%8D%E6%A7%8B-%E5%BE%9E%E5%AA%92%E9%AB%94%E5%86%8D%E7%8F%BE%E7%9C%8B%E7%A7%BB%E5%8F%B0%E6%B8%AF%E4%BA%BA%E7%9A%84%E6%83%85%E6%84%9F%E7%B5%90%E6%A7%8B%E8%88%87%E8%BA%AB%E5%88%86%E8%AA%8D%E5%90%8C-faeb51ef1e4a?source=rss-17c1c85be06b------2",
         "source": "Stories by 爆米花傳播學 on Medium",
         "published": "2026-02-07T01:15:33+00:00"
+      },
+      {
+        "id": "a162e40e81c3",
+        "title": "Internet Archive and Partners Select Local Newsrooms from Across the US to Participate in the Today’s News for Tomorrow Program",
+        "summary": "Internet Archive, Poynter Institute, and Investigative Reporters and Editors (IRE) are pleased to announce the first cohort of newsrooms to join the Today’s News for Tomorrow program. With support from [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/06/internet-archive-and-partners-select-local-newsrooms-from-across-the-us-to-participate-in-the-todays-news-for-tomorrow-program/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-06T14:48:51+00:00"
+      },
+      {
+        "id": "d00aec536ee5",
+        "title": "Performance in Dialogue: Exploring Emirati and Polynesian Traditions through Al Harbiya and Haka",
+        "summary": "Last month, Andrew Eisenberg moderated Performance in Dialogue: Harbiya and Haka, an intercultural encounter connecting Emirati and Polynesian performance traditions. Bringing Al Harbiya together with Haka, the session combined performance [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/06/performance-in-dialogue-exploring-emirati-and-polynesian-traditions-through-al-harbiya-and-haka/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-02-06T12:45:23+00:00"
       }
     ]
   }
