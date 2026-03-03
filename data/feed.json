@@ -1,26 +1,66 @@
 {
-  "updated_at": "2026-03-02T23:54:49.352419+00:00",
+  "updated_at": "2026-03-03T07:37:25.950030+00:00",
   "trending": [
-    "celtics vs bucks",
-    "blue jackets vs rangers",
-    "trey yingst",
-    "taylor townsend",
-    "fcps",
-    "rockets vs wizards",
-    "duke vs nc state prediction",
-    "grok down",
-    "cleveland state basketball",
-    "norfolk state basketball"
+    "mac",
+    "moses moody",
+    "magic johnson",
+    "draymond green",
+    "kris dunn",
+    "angus booth",
+    "al horford",
+    "jafar panahi",
+    "nicholas braimbridge tony cooper",
+    "200 block e howard ave"
   ],
   "categories": {
     "急(hr)": [
       {
+        "id": "0cb08e24ddba",
+        "title": "Spring forecast: Rachel Reeves to insist government has ‘right economic plan’, as Middle East crisis threatens inflation spike – live updates",
+        "summary": "Rolling coverage of the latest economic and financial news, including the UK’s spring forecastRachel Reeves’s plans could be hit by Middle East conflict, say economistsThe oil price is rising again this morning, as the Middle East crisis threatens energy supplies.Brent crude, the international bench...",
+        "url": "https://www.theguardian.com/business/live/2026/mar/03/spring-forecast-rachel-reeves-statement-economic-plan-obr-oil-gas-stock-markets-live-updates",
+        "source": "Business | The Guardian",
+        "published": "2026-03-03T07:21:34+00:00"
+      },
+      {
+        "id": "be2649385432",
+        "title": "I paid off my mortgage – so why did my credit score plummet?",
+        "summary": "Paying off a loan can sometimes spook the algorithms that people’s calculate creditworthinessMy credit score dropped from well above average to well below average after I paid off my mortgage. As well as bizarre, it’s yet another example of how our lives are affected by arbitrary decisions made by f...",
+        "url": "https://www.theguardian.com/money/2026/mar/03/paid-off-mortgage-credit-score-plummet-loan",
+        "source": "Business | The Guardian",
+        "published": "2026-03-03T07:00:34+00:00"
+      },
+      {
+        "id": "dbd60de22f81",
+        "title": "Does Trump want to wage an AI-powered war? – podcast",
+        "summary": "In the past three months, Donald Trump’s White House has reportedly used AI twice to effect regime change – once in its capture of Venezuela’s president, Nicolás Maduro, and more recently to help plan the strikes that killed Iran’s supreme leader, Ayatollah Ali Khamenei. The most recent strikes coin...",
+        "url": "https://www.theguardian.com/science/audio/2026/mar/03/does-trump-want-to-wage-an-ai-powered-war-podcast",
+        "source": "Business | The Guardian",
+        "published": "2026-03-03T05:00:30+00:00"
+      },
+      {
+        "id": "2e911ee2c9e5",
+        "title": "Some flights depart Middle East amid travel chaos as US urges its citizens to leave region",
+        "summary": "Select departures organised as US state department warns Americans to leave on commercial flights ‘due to safety risks’US-Israel war on Iran – live updatesTravellers stranded by a widening war in the Middle East began departing the United Arab Emirates onboard a small number of evacuation flights on...",
+        "url": "https://www.theguardian.com/world/2026/mar/03/flights-depart-middle-east-travel-chaos",
+        "source": "Business | The Guardian",
+        "published": "2026-03-03T02:09:35+00:00"
+      },
+      {
         "id": "6d4a5d9add53",
-        "title": "Oops: South Korean cops lost $5M in seized crypto after leaking wallet password",
+        "title": "Clueless cops post seized crypto wallet password. $5M quickly stolen.",
         "summary": "South Korean police deeply apologized for preventable loss of seized funds.",
         "url": "https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password/",
         "source": "Ars Technica - All content",
         "published": "2026-03-02T22:27:52+00:00"
+      },
+      {
+        "id": "513ea6d98f56",
+        "title": "Anthropic’s AI model Claude gets popularity boost after US military feud",
+        "summary": "Claude climbs to top of app store charts in US and UK after being blacklisted by Pentagon over ethics concernsThe AI model Claude has surged in popularity after being blacklisted by the Pentagon last week over ethics concerns.Claude climbed to the No 1 spot on Apple’s chart of top free apps on Satur...",
+        "url": "https://www.theguardian.com/technology/2026/mar/02/claude-anthropic-ai-pentagon",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T20:31:31+00:00"
       },
       {
         "id": "5dc52c943a53",
@@ -41,7 +81,7 @@
       {
         "id": "3d8fd8a995db",
         "title": "How escalating Iran conflict is driving up oil and gas prices – a visual guide",
-        "summary": "A near-halt to shipping in strait of Hormuz and attacks on Middle East refineries are threatening supplies and stoking inflationNils Pratley: A gas shock – not an oil shock – looks more threateningUS-Israel war on Iran – live updatesIran has responded to US and Israeli attacks by launching a series ...",
+        "summary": "A halt to shipping in strait of Hormuz and attacks on Middle East refineries are threatening supplies and stoking inflationNils Pratley: A gas shock – not an oil shock – looks more threateningUS-Israel war on Iran – live updates Iran has responded to US and Israeli attacks by launching a series of c...",
         "url": "https://www.theguardian.com/world/2026/mar/02/iran-strait-of-hormuz-oil-gas-visualized",
         "source": "Business | The Guardian",
         "published": "2026-03-02T19:13:22+00:00"
@@ -53,14 +93,6 @@
         "url": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/",
         "source": "Ars Technica - All content",
         "published": "2026-03-02T18:19:03+00:00"
-      },
-      {
-        "id": "0faab55d3369",
-        "title": "Gas prices soar and oil jumps as Iran war pushes down global stock markets",
-        "summary": "QatarEnergy says it has halted production of liquefied natural gas after attacks on Ras Laffan and Mesaieed sitesNils Pratley: A gas shock – not an oil shock – looks more threateningUS-Israel war on Iran – live updatesGas prices surged on Monday and oil rose sharply as an escalation in the US-Israel...",
-        "url": "https://www.theguardian.com/world/2026/mar/02/oil-prices-iran-war-strait-of-hormuz-shipping",
-        "source": "Business | The Guardian",
-        "published": "2026-03-02T18:09:55+00:00"
       },
       {
         "id": "0eb9b7c717a5",
@@ -87,20 +119,20 @@
         "published": "2026-03-02T15:33:33+00:00"
       },
       {
-        "id": "43decca7586e",
-        "title": "UK house prices rise in February as chancellor avoids ‘negative speculation’",
-        "summary": "Rachel Reeves’s upcoming spring forecast has not led to slowdown, as property tax rumours did in NovemberBusiness live – latest updatesUK politics live – latest updatesHouse prices in the UK increased in February, avoiding a repeat of the “negative speculation” that depressed the market before last ...",
-        "url": "https://www.theguardian.com/business/2026/mar/02/uk-house-prices-rise-february-spring-forecast-rachel-reeves",
-        "source": "Business | The Guardian",
-        "published": "2026-03-02T15:17:51+00:00"
-      },
-      {
         "id": "d252a5c74a43",
         "title": "$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost",
         "summary": "Unexpected RAM upgrade is the highlight of an otherwise straightforward refresh.",
         "url": "https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/",
         "source": "Ars Technica - All content",
         "published": "2026-03-02T15:06:00+00:00"
+      },
+      {
+        "id": "aed69318376c",
+        "title": "‘The digital colonization of flyover states’: how datacenters are tearing small-town America apart",
+        "summary": "The rapid rollout of datacenters across the US is creating a divide between municipal governments and residentsWilmington, Ohio, resident Quintin Koger Kidd was so concerned last June with his local public officials’ alleged misdoings – open meeting violations and other discrepancies – that he filed...",
+        "url": "https://www.theguardian.com/us-news/2026/mar/02/amazon-data-centers-small-towns",
+        "source": "Business | The Guardian",
+        "published": "2026-03-02T15:00:12+00:00"
       },
       {
         "id": "adf9cfe505b0",
@@ -137,45 +169,21 @@
       {
         "id": "31d4319442ba",
         "title": "Middle East crisis pushes up oil prices – and could drive inflation rises too",
-        "summary": "Effects of extended conflict between US and Iran could also lead to higher interest rates and hit economic growthBusiness live – latest updatesUS-Israel war on Iran – live updatesThe impact of the deadly and unpredictable conflict in the Middle East on the global economy will be felt most immediatel...",
+        "summary": "Effects of extended conflict between US and Iran could also lead to higher interest rates and hit economic growthUS-Israel war on Iran – live updatesThe impact of the deadly and unpredictable conflict in the Middle East on the global economy will be felt most immediately, and keenly, through the ris...",
         "url": "https://www.theguardian.com/business/2026/mar/02/middle-east-crisis-oil-prices-inflation-us-iran-interest-rates-growth",
         "source": "Business | The Guardian",
         "published": "2026-03-02T13:02:32+00:00"
-      },
-      {
-        "id": "b9088455e0f3",
-        "title": "Trump FCC's equal-time crackdown doesn't apply equally—or at all—to talk radio",
-        "summary": "FCC Chairman Brendan Carr's unequal enforcement of the equal-time rule.",
-        "url": "https://arstechnica.com/tech-policy/2026/03/trump-fccs-equal-time-crackdown-doesnt-apply-equally-or-at-all-to-talk-radio/",
-        "source": "Ars Technica - All content",
-        "published": "2026-03-02T12:00:01+00:00"
-      },
-      {
-        "id": "698eae011cea",
-        "title": "I’m on the Meta Oversight Board. We need AI protections now | Suzanne Nossel",
-        "summary": "AI is transforming our world. Accepting independent oversight is the least companies can do to protect our rightsThe speed with which AI is transforming our lives is head-spinning. Unlike previous technological revolutions – radio, nuclear fission or the internet – governments are not leading the wa...",
-        "url": "https://www.theguardian.com/commentisfree/2026/mar/02/meta-oversight-board-ai",
-        "source": "Business | The Guardian",
-        "published": "2026-03-02T11:00:09+00:00"
-      },
-      {
-        "id": "169fb0de4ecb",
-        "title": "AMD Ryzen AI 400 chips will bring newer CPUs, GPUs, and NPUs to AM5 desktops",
-        "summary": "First wave of Ryzen AI desktop CPUs targets business PCs rather than DIYers.",
-        "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
-        "source": "Ars Technica - All content",
-        "published": "2026-03-02T08:00:29+00:00"
-      },
-      {
-        "id": "b3dd0fdb70e5",
-        "title": "Lack of a clear Iran plan could suck US into a long conflict: ‘Where does this go?’",
-        "summary": "Fears that decision to strike could be open-ended as Trump comes under pressure to spell out his vision for the countryUS-Israel war on Iran – latest updatesSign up for the Breaking News US emailDonald Trump is under pressure to spell out his vision for Iran amid the ongoing attacks on the country a...",
-        "url": "https://www.theguardian.com/world/2026/mar/02/iran-attack-plan-what-next",
-        "source": "Business | The Guardian",
-        "published": "2026-03-02T08:00:05+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "a9175bc96068",
+        "title": "買東西不用再切換分頁，Meta 測試新 AI 購物工具要解決使用者痛點",
+        "summary": "Meta Platforms Inc. 正在測試一項名為「購物研究」的人工智慧功能，目標是與 OpenAI 的 [&#8230;]",
+        "url": "https://technews.tw/2026/03/03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-03-03T03:50:29+00:00"
+      },
       {
         "id": "f0f58ad2124f",
         "title": "Endless joys of the Open Reel Ensemble and reel-to-reel performance",
@@ -239,6 +247,22 @@
         "url": "https://www.mittrchina.com/news/detail/16000",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-03-01T09:18:22+00:00"
+      },
+      {
+        "id": "b523b391813e",
+        "title": "March 2026 Chart",
+        "summary": "1. Neba Solo &#38; Benego Diakité · A Djinn and a Hunter Went Walking · Nonesuch [2] 2. Canzoniere Grecanico Salentino · Il Mito · Ponderosa Music [1] 3. Stelios Petrakis · Lyric / Lyrikon · Buda Musique [11] 4. Altın Gün · Garip · Glitterbeat [-] 5. Catrin Finch · Notes to Self · [&#8230;]",
+        "url": "https://www.transglobalwmc.com/charts/march-2026-chart/",
+        "source": "Transglobal World Music Chart",
+        "published": "2026-02-28T23:06:44+00:00"
+      },
+      {
+        "id": "a992f8790179",
+        "title": "Andreas Voelk & Scott Monteith * Deadbeat",
+        "summary": "ANDREAS VOELK &amp; SCOTT MONTEITH - AND ALL THE CLOCKS RAN DRY\n\n\nUntil now I never heard of Andreas Voelk (from Berlin) or from his bands Das Ende Der Liebe and Center For Mind And Brain. Canadian Scott Monteith, on the other hand, is of course well known from his Deadbeat alias.\n\n\nAnd All The Cloc...",
+        "url": "https://www.ambientblog.net/blog/voelkmonteith-deadbeat/",
+        "source": "Ambientblog",
+        "published": "2026-02-28T18:12:33+00:00"
       },
       {
         "id": "41fd99be8d4e",
@@ -311,30 +335,6 @@
         "url": "https://www.mittrchina.com/news/detail/15991",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-02-28T05:31:07+00:00"
-      },
-      {
-        "id": "2ca230e5b9c9",
-        "title": "Now meshes, video, and more can go 3D inside Ableton Live: SenSei update",
-        "summary": "EboSuite and SenSei, live visual add-ons for Ableton Live, got some nice updates this week. SenSei, the tool that puts the power of Unreal Engine inside Ableton Live, gets a particularly major expansion, with some 27 new plug-ins, including mesh loaders, 3D video effects, visualizers, dynamic surfac...",
-        "url": "https://cdm.link/sensei-3d-update/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-27T19:03:23+00:00"
-      },
-      {
-        "id": "897d15053e88",
-        "title": "Essential mix: let an hour of tilde’s music energize you (then nerd out!)",
-        "summary": "Glitchy but driving broken beats are what's for dinner. Hannover's tilde (~) is a font of knowledge on topics from Pd/plugdata to Bitwig Studio Grid FX to mixing and mastering. And those skills translate to some genius grooves. Listen up to this full-power montage of all original music.\nThe post Ess...",
-        "url": "https://cdm.link/essential-mix-tilde-music/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-02-27T17:15:50+00:00"
-      },
-      {
-        "id": "ceb63fd818fe",
-        "title": "不讓爸爸被遺忘在和平島海霧裡：二二八後，困在生死兩端79年的外籍受難者家族",
-        "summary": "「孩子們常問我喜歡台灣嗎？我說：最喜歡了。」自認擁有鹿兒島、沖繩與台灣三個故鄉的青山惠昭，近年228紀念日前後都會來台或祭拜、或到學校演說：「我會告訴孩子們，台灣的民主化經驗是多麼寶貴，因為那是由無數像我父親這樣的犧牲者所換來的。我們應該互相守護，不讓悲劇再次發生。」",
-        "url": "https://www.twreporter.org/a/228-incidents-first-foreign-victim-aoyama-esaki",
-        "source": "報導者",
-        "published": "2026-02-27T16:00:00+00:00"
       }
     ],
     "序(month)": [
