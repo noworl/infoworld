@@ -6,6 +6,7 @@ YouTube 新影片檢查器
 
 import json
 import os
+import re
 import subprocess
 import requests
 from datetime import datetime, timezone, timedelta
@@ -76,8 +77,19 @@ def get_channel_id(youtube, channel_input: str) -> str:
     raise ValueError(f"找不到頻道: {channel_input}")
 
 
+def parse_duration_seconds(duration: str) -> int:
+    """將 ISO 8601 時長字串轉為秒數（例如 PT1M30S -> 90）"""
+    match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', duration)
+    if not match:
+        return 0
+    hours = int(match.group(1) or 0)
+    minutes = int(match.group(2) or 0)
+    seconds = int(match.group(3) or 0)
+    return hours * 3600 + minutes * 60 + seconds
+
+
 def get_latest_videos(youtube, channel_id: str, max_results: int = 5) -> list:
-    """取得頻道最新影片列表"""
+    """取得頻道最新影片列表（不含 Shorts，保留直播）"""
     # 先取得頻道的上傳播放清單 ID
     request = youtube.channels().list(
         part="contentDetails",
@@ -90,20 +102,19 @@ def get_latest_videos(youtube, channel_id: str, max_results: int = 5) -> list:
 
     uploads_playlist_id = response["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
 
-    # 取得播放清單中的影片
+    # 多抓一些以避免 Shorts 過濾後不足
     request = youtube.playlistItems().list(
         part="snippet",
         playlistId=uploads_playlist_id,
-        maxResults=max_results
+        maxResults=max_results * 3
     )
     response = request.execute()
 
-    videos = []
+    candidates = []
     for item in response.get("items", []):
         snippet = item["snippet"]
         video_id = snippet["resourceId"]["videoId"]
 
-        # 取得最高解析度的縮圖
         thumbnails = snippet.get("thumbnails", {})
         thumbnail_url = (
             thumbnails.get("maxres", {}).get("url") or
@@ -112,7 +123,7 @@ def get_latest_videos(youtube, channel_id: str, max_results: int = 5) -> list:
             thumbnails.get("default", {}).get("url", "")
         )
 
-        videos.append({
+        candidates.append({
             "video_id": video_id,
             "title": snippet["title"],
             "published_at": snippet["publishedAt"],
@@ -120,6 +131,36 @@ def get_latest_videos(youtube, channel_id: str, max_results: int = 5) -> list:
             "channel_title": snippet["channelTitle"],
             "url": f"https://www.youtube.com/watch?v={video_id}"
         })
+
+    if not candidates:
+        return []
+
+    # 批次查詢影片時長與直播資訊以過濾 Shorts
+    video_ids = ",".join(v["video_id"] for v in candidates)
+    details_response = youtube.videos().list(
+        part="contentDetails,liveStreamingDetails",
+        id=video_ids
+    ).execute()
+
+    duration_map = {}
+    is_livestream_map = {}
+    for item in details_response.get("items", []):
+        vid = item["id"]
+        duration_str = item["contentDetails"].get("duration", "PT0S")
+        duration_map[vid] = parse_duration_seconds(duration_str)
+        is_livestream_map[vid] = "liveStreamingDetails" in item
+
+    videos = []
+    for v in candidates:
+        vid = v["video_id"]
+        duration = duration_map.get(vid, 0)
+        is_live = is_livestream_map.get(vid, False)
+        # 過濾 Shorts（60 秒以下且非直播）
+        if duration < 60 and not is_live:
+            continue
+        videos.append(v)
+        if len(videos) >= max_results:
+            break
 
     return videos
 
