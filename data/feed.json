@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-03T19:53:42.929248+00:00",
+  "updated_at": "2026-03-03T21:05:55.484266+00:00",
   "trending": [
-    "prada",
-    "wolves vs liverpool",
-    "john thune",
-    "robert thomas",
-    "barca",
-    "everton vs burnley",
-    "leeds united vs sunderland",
-    "bournemouth vs brentford",
-    "max crosby",
-    "sidney dorsey"
+    "kyler murray",
+    "mojtaba khamenei",
+    "byron buxton",
+    "como vs inter",
+    "usa baseball schedule",
+    "cómo va el barcelona",
+    "highguard",
+    "jules koundé",
+    "megan fox",
+    "fotmob"
   ],
   "categories": {
     "急(hr)": [
@@ -119,6 +119,14 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
         "source": "Google DeepMind",
         "published": "2026-03-03T17:00:00+00:00"
+      },
+      {
+        "id": "f04dbbe3e846",
+        "title": "OpenClaw上身机器人，AI不仅能帮订外卖，还能替你跑腿了",
+        "summary": "过去几年间，AI 主要停留在屏幕内，用于文字对话、内容生成或自动化脚本执行；但近日，随着 OpenClaw 生态的爆发式增长，两个依托于此的开源项目让智能体与物理世界之间的壁垒开始消融，这则振奋人心的消息，迅速点燃了全球机器人与 AI 社区的热情。2 月 23 日，在美国旧金山举办的 SF OpenClaw Hackathon 上，一个名为 ROSClaw 的项目拿到了冠军。Irvin 团队搭建了一个桥接层，把当下最火的开源 AI Agent 平台 OpenClaw 直接连到了真实的机器人硬件上。夺冠之后，团队随即宣布将其开源。（来源：X@irvinxyz）具体来看，他们通过智能插件层将 Op...",
+        "url": "https://www.mittrchina.com/news/detail/16012",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-03T11:10:14+00:00"
       },
       {
         "id": "a9175bc96068",
@@ -247,14 +255,6 @@
         "url": "https://www.mittrchina.com/news/detail/15997",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-02-28T13:44:44+00:00"
-      },
-      {
-        "id": "2f38c3520bb1",
-        "title": "工作学习时总想摸鱼，或许不是你的错！科学家发现大脑自带“走神节律”",
-        "summary": "现代生活中，哪怕只是轻微的手机震动或电脑屏幕边缘弹出的通知，都能轻易打断正试图聚精会神的你。不少人尝试过番茄钟等各种生产力工具，却依旧会因无法保持专注而感到懊恼。近日，美国罗切斯特大学医学中心（University of Rochester Medical Center）的神经科学家发现，无法长时间保持绝对专注，或许不是你的错，也不单纯是意志力问题，而是大脑内在的“节奏”在作祟。这项 2 月 23 日发表在 PLOS Biology 上的研究，首次通过注意力实验和脑电图（EEG）记录直接证明：当高对比度分心物与低对比度目标同时出现时，大脑中的 Theta 波（4~8 Hz）和 Alpha 波（...",
-        "url": "https://www.mittrchina.com/news/detail/15996",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-28T08:42:00+00:00"
       }
     ],
     "序(month)": [
