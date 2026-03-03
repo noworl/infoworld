@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-03T17:32:16.217038+00:00",
+  "updated_at": "2026-03-03T19:53:42.929248+00:00",
   "trending": [
-    "jurickson profar",
-    "profar",
-    "flood watch",
-    "international women's day 2026",
-    "zach braff",
-    "caleb flynn",
-    "mitch barnhart",
-    "breece hall",
-    "gorillaz",
-    "elisabeth hasselbeck"
+    "prada",
+    "wolves vs liverpool",
+    "john thune",
+    "robert thomas",
+    "barca",
+    "everton vs burnley",
+    "leeds united vs sunderland",
+    "bournemouth vs brentford",
+    "max crosby",
+    "sidney dorsey"
   ],
   "categories": {
     "急(hr)": [
@@ -96,6 +96,22 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "e2177322f444",
+        "title": "Michigan Synth Works has an open-source 303 processor and a new kit",
+        "summary": "Call it the Bride of x0xb0x. Michigan Synth Works today teased a new, Arduino-compatible, open-source 303 processor, plus a full DIY kit. They&#8217;re both affordable ways to build your own all-analog, modern TB-303 with current components. And it feels like the early spirit of the open x0xb0x is b...",
+        "url": "https://cdm.link/michigan-synth-works-has-an-open-source-303-processor-and-a-new-kit/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-03T18:34:58+00:00"
+      },
+      {
+        "id": "8eba5d7c2d75",
+        "title": "On 303 Day, acid bassline love abounds, and some freebies, too",
+        "summary": "Roland is fairly quiet on this 303 Day, but in the maelstrom of terrible news, it was a relief to see the Japanese music community out in force. This is what we really strive for: a world where we can just make bassline noises all day. Here are some highlights, and even some free Max for Live love i...",
+        "url": "https://cdm.link/303-day-2026/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-03T17:42:14+00:00"
+      },
       {
         "id": "ed07b32904b5",
         "title": "Create new worlds in Project Genie with these 4 tips",
@@ -239,22 +255,6 @@
         "url": "https://www.mittrchina.com/news/detail/15996",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-02-28T08:42:00+00:00"
-      },
-      {
-        "id": "171cba47f530",
-        "title": "白宫突然宣布封杀Anthropic，OpenAI前脚声援后脚火速接盘",
-        "summary": "过去一周，硅谷与五角大楼之间的博弈达到了前所未有的紧张程度。这场风暴的中心，是 Anthropic 与美国国防部围绕 AI 使用限制的激烈交锋。国防部要求 Anthropic 允许军方将 Claude 模型用于“任何合法用途”，并删除合同中关于禁止大规模国内监控和全自主武器系统的限制条款；而 Anthropic 坚持认为，若无明确限制，AI 可能“削弱而非捍卫民主”。2 月 24 日，国防部长皮特·赫格塞斯（Pete Hegseth）对 Anthropic 公司下达最后通牒：若 2 月 27 日下午 5 点 01 分前未达成一致，将终止合同并将公司列入“供应链风险”名单。这一标签通常用于与中国...",
-        "url": "https://www.mittrchina.com/news/detail/15995",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-28T08:30:08+00:00"
-      },
-      {
-        "id": "17beabcf667e",
-        "title": "AlphaGo胜局十年后：AI正在重塑职业棋手的思维方式",
-        "summary": "（来源：麻省理工科技评论）在首尔东部宁静的弘益洞小巷深处，有一栋贴着褪色石砖的建筑，门牌上写着“韩国棋院\"——这是韩国职业围棋的管理机构。围棋是一项古老的运动，在韩国有着神圣的地位。然而走进这栋楼，昔日棋手将手伸入木碗取子时发出的细微声响，如今已被鼠标点击声所取代：棋手们弓身坐在显示器前，在 AI 程序中复盘对局；另一些人围坐在棋盘旁，争论下一步最优落点，而教练则告知他们的选择与 AI 的建议相差多少；还有人默默坐着，看 AI 程序与 AI 程序对弈。十年前，Google DeepMind 的 AI 程序 AlphaGo 击败韩国棋手李世石（Lee Sedol），震惊世界。此后数年，AI 彻底...",
-        "url": "https://www.mittrchina.com/news/detail/15994",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-02-28T06:50:23+00:00"
       }
     ],
     "序(month)": [
