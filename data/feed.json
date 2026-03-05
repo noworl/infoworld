@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-04T23:38:15.270420+00:00",
+  "updated_at": "2026-03-05T02:45:06.030947+00:00",
   "trending": [
-    "giannis antetokounmpo stats",
-    "rand paul",
-    "what time is survivor on tonight",
-    "lpga",
-    "thunder vs knicks",
-    "butler basketball",
-    "uswnt",
-    "daylight saving time",
-    "blood moon total lunar eclipse tonight",
-    "wfaa radar"
+    "derrick white",
+    "stephen miller",
+    "og anunoby",
+    "baylor vs houston",
+    "conmebol sudamericana",
+    "shai gilgeous-alexander",
+    "ozzy survivor",
+    "stanford basketball",
+    "chicago pd cast",
+    "américa - juárez"
   ],
   "categories": {
     "急(hr)": [
@@ -225,6 +225,14 @@
         "published": "2026-03-03T11:10:14+00:00"
       },
       {
+        "id": "ba1e9f3a876a",
+        "title": "蛋白质药物生产成本有望大幅降低！MIT用大语言模型优化酵母密码子",
+        "summary": "（来源：麻省理工科技评论）工业酵母是蛋白质生产领域的主力军，广泛用于疫苗、生物制药及其他有用化合物的制造。在一项新研究中，MIT 化学工程师借助 AI 优化了新型蛋白质生产工艺的开发流程，有望降低这类药物的整体开发和生产成本。研究团队利用大语言模型（LLM）分析了工业酵母卡氏酵母（Komagataella phaffii）的遗传密码，重点考察了其所使用的密码子。密码子是由三个碱基组成的 DNA 序列，用于编码特定氨基酸，每种氨基酸可由多种密码子编码，且不同生物体的密码子使用规律各不相同。MIT 团队开发的新模型学习了卡氏酵母的密码子使用规律，并据此预测哪些密码子最适合生产特定蛋白质。研究人员借...",
+        "url": "https://www.mittrchina.com/news/detail/16006",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-03T05:15:33+00:00"
+      },
+      {
         "id": "a9175bc96068",
         "title": "買東西不用再切換分頁，Meta 測試新 AI 購物工具要解決使用者痛點",
         "summary": "Meta Platforms Inc. 正在測試一項名為「購物研究」的人工智慧功能，目標是與 OpenAI 的 [&#8230;]",
@@ -247,14 +255,6 @@
         "url": "https://cdm.link/open-reel-ensemble-and-reel-to-reel-performance/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-02T20:53:13+00:00"
-      },
-      {
-        "id": "95893d33dde8",
-        "title": "川普和以色列的伊朗戰爭：斬首哈米尼之後，伊朗的政權更迭之亂與外溢的中東危機",
-        "summary": "近日美國聯合以色列對伊朗發起「史詩怒火行動」，首波斬首攻擊炸死伊朗最高領袖哈米尼，和數十名層峰級別領導人，引發政權繼承混亂。伊朗迅速向周邊國家反擊，則進一步使戰火蔓延，政經局勢陷入難以預料的危機之中⋯⋯",
-        "url": "https://www.twreporter.org/a/hello-world-2026-03-03",
-        "source": "報導者",
-        "published": "2026-03-02T16:00:00+00:00"
       }
     ],
     "序(month)": [
