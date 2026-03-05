@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-05T15:57:10.823241+00:00",
+  "updated_at": "2026-03-05T18:13:46.823866+00:00",
   "trending": [
-    "today show",
-    "hardik pandya",
-    "nike air max 95",
-    "andrew mccutchen",
-    "tilak varma",
-    "apple new macbook neo",
-    "louisiana earthquake",
-    "ken jennings",
-    "international women's day",
-    "basketball tournament bracket"
+    "nfl draft order",
+    "the boys",
+    "tyler linderbaum",
+    "cam jordan",
+    "puerto rico open",
+    "max crosby",
+    "keon coleman",
+    "amber alert",
+    "nicholas roy",
+    "mike evans"
   ],
   "categories": {
     "急(hr)": [
@@ -97,6 +97,30 @@
     ],
     "破(day)": [
       {
+        "id": "af82a00aa3de",
+        "title": "Gil Evans: Making magic with Miles Davis (and many others)",
+        "summary": "The Library recently acquired the collection of jazz legend Gil Evans, an arranger and composer whose work, particularly with Miles Davis, helped reshape the art form in the mid 20th century. This story shows how the pair recorded \"Sketches of Spain,\" their Grammy-winning 1960 album that is still co...",
+        "url": "https://blogs.loc.gov/loc/2026/03/gil-evans-making-magic-with-miles-davis-and-many-others/",
+        "source": "Timeless",
+        "published": "2026-03-05T17:32:47+00:00"
+      },
+      {
+        "id": "442508867b11",
+        "title": "The latest AI news we announced in February",
+        "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
+        "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+        "source": "Google DeepMind",
+        "published": "2026-03-05T16:30:00+00:00"
+      },
+      {
+        "id": "29e0d9b08cb8",
+        "title": "The best way to learn Bitwig Grid, Serum 2 is in Japanese from LOBOTIX",
+        "summary": "LOBOTIX is another reason to have hope in musical imagination. Even without speaking a word of Japanese, these are instantly some of my favorite tutorials. Here, these cover the spectral synthesis modes in Serum 2 and the modular capabilities of Bitwig Grid (and Vital and PhasePlant and more). And t...",
+        "url": "https://cdm.link/the-best-way-to-learn-bitwig-grid-serum-2-is-in-japanese-from-lobotix/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-05T15:59:59+00:00"
+      },
+      {
         "id": "08ad9831b32b",
         "title": "Meta 進軍 AI 硬體市場，計劃 2026 年量產自家定制晶片",
         "summary": "Meta Platforms Inc. 正在加速其人工智慧（AI）基礎設施的擴展，計劃開發自家定制的晶片，以訓 [&#8230;]",
@@ -119,6 +143,14 @@
         "url": "https://www.ambientblog.net/blog/machinefabriek-bates/",
         "source": "Ambientblog",
         "published": "2026-03-04T18:49:30+00:00"
+      },
+      {
+        "id": "2c8d978240a3",
+        "title": "跪下來接，更容易「偷好球」？WBC台灣三大捕手解析「單膝蹲捕」革命",
+        "summary": "被球迷封為「心靈捕手」的林家正，球場上示範在MLB掀起浪潮的單膝跪地姿勢，引起不少人好奇。我們採訪林家正、蔣少宏與吉力吉撈・鞏冠（Giljegiljaw Kungkuan），解析從雙腳蹲到跪姿的現代捕手蹲捕革命。",
+        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-one-knee-down-catching-stance",
+        "source": "報導者",
+        "published": "2026-03-04T16:00:00+00:00"
       },
       {
         "id": "812f19dfef96",
@@ -209,52 +241,20 @@
         "published": "2026-03-03T17:00:00+00:00"
       },
       {
+        "id": "f1b6502633a5",
+        "title": "聊聊台式應援史：戰歌、吞霸歌、台灣尚勇⋯⋯記者最愛哪首？台灣「棒球之音」如何走出獨特風格？",
+        "summary": "2026年世界棒球經典賽開打！賽場上，台灣球迷的「台式應援」屢屢成為國際焦點，也是台灣隊強大的隱形戰力。結合口號、節拍，讓人朗朗上口的應援曲目，到底是怎麼來的？這集一起來認識：台灣、日本與韓國的棒球應援文化有哪些差異？應援曲在球迷心中的魔力為何？",
+        "url": "https://www.twreporter.org/a/podcast-2026-03-04",
+        "source": "報導者",
+        "published": "2026-03-03T16:00:00+00:00"
+      },
+      {
         "id": "041a2663f70d",
         "title": "大數據揭開全壘打祕密",
         "summary": "台灣12強「冠軍之路」，可說是靠著全壘打打下。借助運科儀器設備的檢測，在2026 WBC開打前，《報導者》以科學數據與多媒體呈現，揭開全壘打「揮擊配方」的祕密。",
         "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-home-run",
         "source": "報導者",
         "published": "2026-03-03T16:00:00+00:00"
-      },
-      {
-        "id": "4fe7f8fe16d0",
-        "title": "台灣最強棒球之音：球迷喊聲、汽笛、音樂人「國家隊」，台式應援如何譜成？",
-        "summary": "在〈台灣尚勇〉成為全民金曲的當下，我們採訪多位塑造球場聲響的關鍵人物，討論寶島如何在美日韓影響下，從「便當便當」吼唱出Team Taiwan的台式棒球應援之路⋯⋯",
-        "url": "https://www.twreporter.org/a/2026-wbc-team-taiwan-cheering-songs-culture",
-        "source": "報導者",
-        "published": "2026-03-03T16:00:00+00:00"
-      },
-      {
-        "id": "f04dbbe3e846",
-        "title": "OpenClaw上身机器人，AI不仅能帮订外卖，还能替你跑腿了",
-        "summary": "过去几年间，AI 主要停留在屏幕内，用于文字对话、内容生成或自动化脚本执行；但近日，随着 OpenClaw 生态的爆发式增长，两个依托于此的开源项目让智能体与物理世界之间的壁垒开始消融，这则振奋人心的消息，迅速点燃了全球机器人与 AI 社区的热情。2 月 23 日，在美国旧金山举办的 SF OpenClaw Hackathon 上，一个名为 ROSClaw 的项目拿到了冠军。Irvin 团队搭建了一个桥接层，把当下最火的开源 AI Agent 平台 OpenClaw 直接连到了真实的机器人硬件上。夺冠之后，团队随即宣布将其开源。（来源：X@irvinxyz）具体来看，他们通过智能插件层将 Op...",
-        "url": "https://www.mittrchina.com/news/detail/16012",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-03T11:10:14+00:00"
-      },
-      {
-        "id": "ba1e9f3a876a",
-        "title": "蛋白质药物生产成本有望大幅降低！MIT用大语言模型优化酵母密码子",
-        "summary": "（来源：麻省理工科技评论）工业酵母是蛋白质生产领域的主力军，广泛用于疫苗、生物制药及其他有用化合物的制造。在一项新研究中，MIT 化学工程师借助 AI 优化了新型蛋白质生产工艺的开发流程，有望降低这类药物的整体开发和生产成本。研究团队利用大语言模型（LLM）分析了工业酵母卡氏酵母（Komagataella phaffii）的遗传密码，重点考察了其所使用的密码子。密码子是由三个碱基组成的 DNA 序列，用于编码特定氨基酸，每种氨基酸可由多种密码子编码，且不同生物体的密码子使用规律各不相同。MIT 团队开发的新模型学习了卡氏酵母的密码子使用规律，并据此预测哪些密码子最适合生产特定蛋白质。研究人员借...",
-        "url": "https://www.mittrchina.com/news/detail/16006",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-03T05:15:33+00:00"
-      },
-      {
-        "id": "a9175bc96068",
-        "title": "買東西不用再切換分頁，Meta 測試新 AI 購物工具要解決使用者痛點",
-        "summary": "Meta Platforms Inc. 正在測試一項名為「購物研究」的人工智慧功能，目標是與 OpenAI 的 [&#8230;]",
-        "url": "https://technews.tw/2026/03/03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-03-03T03:50:29+00:00"
-      },
-      {
-        "id": "96f23e52cb53",
-        "title": "Improving skill-creator: Test, measure, and refine Agent Skills",
-        "summary": "Improving skill-creator: Test, measure, and refine Agent Skills",
-        "url": "https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills",
-        "source": "Claude Blog",
-        "published": "2026-03-03T00:00:00+00:00"
       }
     ],
     "序(month)": [
