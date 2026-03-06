@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-06T16:54:52.217651+00:00",
+  "updated_at": "2026-03-06T17:43:22.372341+00:00",
   "trending": [
+    "venezuela vs netherlands",
+    "blackrock",
+    "corey perry",
+    "tommy devito",
+    "mexico vs great britain",
+    "arike ogunbowale",
     "nick foligno",
     "massimo rizzo",
-    "fa cup",
-    "dark mode twitter",
-    "puerto rico open",
-    "cuba vs panama",
-    "mortgage officer",
-    "geno smith",
-    "big 12 wrestling championships 2026",
-    "francis ngannou"
+    "criminal attorney",
+    "fa cup"
   ],
   "categories": {
     "急(hr)": [
@@ -97,6 +97,14 @@
     ],
     "破(day)": [
       {
+        "id": "62338181ea65",
+        "title": "馬翊航／半島風真透：《忽聞布農踏歌聲》的實／在回音",
+        "summary": "這本書既是明智的文化接觸旅程地圖，也是有心於全民原教者的探索地圖。然若此書，因其種種「地圖」的特徵，被定位為一本「實用」之書的話，那我們如何看待地圖無法「觸及」處？",
+        "url": "https://www.twreporter.org/a/bookreview-echos-of-the-bunun",
+        "source": "報導者",
+        "published": "2026-03-06T16:00:00+00:00"
+      },
+      {
         "id": "10ba6878f836",
         "title": "Making music on the TI graphing calculator — and a TI-inspired plug-in synth",
         "summary": "Time to dust off that TI-82, TI-83, or TI-84. The graphic calculators that a lot of us used in school can become ingenious chip synths and even run trackers. And that translates to a surprisingly powerful graphing calculator-inspired synth -- one that instantly became one of my favorite plug-ins.\nTh...",
@@ -119,6 +127,22 @@
         "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
         "source": "Google DeepMind",
         "published": "2026-03-05T16:30:00+00:00"
+      },
+      {
+        "id": "45e7016a73d0",
+        "title": "從Team Taiwan「聽台灣」：以世界音樂資料庫鑑定台灣棒球音樂DNA",
+        "summary": "「來到棒球場上，我們總是希望自己支持的球隊和別人不同，逐漸發展出各隊特色，接著又希望自己的國家隊和別人不同，所以我們會引用台灣的既有元素，或者從零開始建立台灣的模樣。」",
+        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-cheering-songs-analysis",
+        "source": "報導者",
+        "published": "2026-03-05T16:00:00+00:00"
+      },
+      {
+        "id": "1c1a1f7d483e",
+        "title": "探監、寫信告訴你，鐵窗外香港是什麼模樣⋯⋯2019年後，台灣探監師與港人創作者走過的香港監所陪伴路",
+        "summary": "香港媳婦林明儀自2019年底開始，無償赴監所探視因反送中參與運動被捕的政治犯。朋友因運動入獄的在台港人Franki，將林明儀的觀察及受刑人經歷轉化為劇場語言，這是香港流亡者與在囚者陪伴彼此療傷的故事，也想告訴台灣人，那些發生在香港的事情還沒結束。",
+        "url": "https://www.twreporter.org/a/podcast-2026-03-06",
+        "source": "報導者",
+        "published": "2026-03-05T16:00:00+00:00"
       },
       {
         "id": "29e0d9b08cb8",
@@ -231,30 +255,6 @@
         "url": "https://humanityisland.nccu.edu.tw/win-ping-kuo_a/",
         "source": "人文．島嶼",
         "published": "2026-03-04T00:00:28+00:00"
-      },
-      {
-        "id": "c14ea7573a23",
-        "title": "Novation Launch Control finally brings back the smart, little encoder box",
-        "summary": "The best thing about Launch Control XL is that it has faders. The best thing about Launch Control is that it doesn't -- and fits into a small space. It really is that simple, if contradictory, thanks to intelligent features shared between the two.\nThe post Novation Launch Control finally brings back...",
-        "url": "https://cdm.link/launch-control-3/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-03-03T21:47:00+00:00"
-      },
-      {
-        "id": "e2177322f444",
-        "title": "Michigan Synth Works has an open-source 303 processor and a new kit",
-        "summary": "Call it the Bride of x0xb0x. Michigan Synth Works today teased a new, Arduino-compatible, open-source 303 processor, plus a full DIY kit. They&#8217;re both affordable ways to build your own all-analog, modern TB-303 with current components. And it feels like the early spirit of the open x0xb0x is b...",
-        "url": "https://cdm.link/michigan-synth-works-has-an-open-source-303-processor-and-a-new-kit/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-03-03T18:34:58+00:00"
-      },
-      {
-        "id": "8eba5d7c2d75",
-        "title": "On 303 Day, acid bassline love abounds, and some freebies, too",
-        "summary": "Roland is fairly quiet on this 303 Day, but in the maelstrom of terrible news, it was a relief to see the Japanese music community out in force. This is what we really strive for: a world where we can just make bassline noises all day. Here are some highlights, and even some free Max for Live love i...",
-        "url": "https://cdm.link/303-day-2026/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-03-03T17:42:14+00:00"
       }
     ],
     "序(month)": [
