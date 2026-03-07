@@ -54,25 +54,18 @@ def get_channel_id(youtube, channel_input: str) -> str:
 
     # 處理 @username 格式
     if channel_input.startswith("@"):
-        username = channel_input[1:]
+        handle = channel_input[1:]
     elif "youtube.com/@" in channel_input:
-        username = channel_input.split("@")[-1].split("/")[0].split("?")[0]
+        handle = channel_input.split("@")[-1].split("/")[0].split("?")[0]
     elif "youtube.com/channel/" in channel_input:
         return channel_input.split("channel/")[-1].split("/")[0].split("?")[0]
     else:
-        username = channel_input
+        handle = channel_input
 
-    # 使用 search API 尋找頻道
-    request = youtube.search().list(
-        part="snippet",
-        q=username,
-        type="channel",
-        maxResults=1
-    )
-    response = request.execute()
-
+    # 使用 channels.list forHandle（1 quota unit，比 search 的 100 units 節省許多）
+    response = youtube.channels().list(part="id", forHandle=handle).execute()
     if response.get("items"):
-        return response["items"][0]["snippet"]["channelId"]
+        return response["items"][0]["id"]
 
     raise ValueError(f"找不到頻道: {channel_input}")
 
@@ -306,6 +299,7 @@ def publish_to_github(source_file=OUTPUT_FILE) -> bool:
         subprocess.run(["git", "add", rel_file], check=True)
         commit_msg = f"更新 YouTube 新影片 ({datetime.now().strftime('%Y-%m-%d %H:%M')})"
         subprocess.run(["git", "commit", "-m", commit_msg], check=True)
+        subprocess.run(["git", "pull", "--rebase", "origin", "master"], check=True)
 
         result = subprocess.run(["git", "push"], capture_output=True, text=True)
         if result.returncode == 0:
@@ -346,40 +340,29 @@ def download_thumbnail(video: dict, output_dir: Path) -> str:
         return ""
 
 
-def check_new_videos(channel_input: str, download_thumbnails: bool = True) -> list:
-    """
-    檢查頻道是否有新影片
-
-    Args:
-        channel_input: 頻道 ID、網址或 @username
-        download_thumbnails: 是否下載縮圖到本地
-
-    Returns:
-        新影片列表，包含標題、網址和縮圖路徑
-    """
-    youtube = build("youtube", "v3", developerKey=API_KEY)
-
-    # 取得頻道 ID
+def _fetch_channel_videos(youtube, channel_input: str, checked: dict, download_thumbnails: bool = True) -> list:
+    """內部函式：使用傳入的 youtube client 和 checked dict（不做 I/O）"""
     channel_id = get_channel_id(youtube, channel_input)
     print(f"頻道 ID: {channel_id}")
 
-    # 載入已檢查過的影片
-    checked = load_checked_videos()
     checked_ids = set(checked.get(channel_id, []))
-
-    # 取得最新影片
     videos = get_latest_videos(youtube, channel_id)
 
-    # 下載縮圖、更新已看記錄
     for video in videos:
         if download_thumbnails and video["video_id"] not in checked_ids:
             video["thumbnail_path"] = download_thumbnail(video, THUMBNAIL_DIR)
         checked_ids.add(video["video_id"])
 
-    # 更新記錄
     checked[channel_id] = list(checked_ids)
-    save_checked_videos(checked)
+    return videos
 
+
+def check_new_videos(channel_input: str, download_thumbnails: bool = True) -> list:
+    """檢查單一頻道的最新影片"""
+    youtube = build("youtube", "v3", developerKey=API_KEY)
+    checked = load_checked_videos()
+    videos = _fetch_channel_videos(youtube, channel_input, checked, download_thumbnails)
+    save_checked_videos(checked)
     return videos
 
 
@@ -411,6 +394,10 @@ def check_all_channels(download_thumbnails: bool = True, publish: bool = True) -
         print(f"找不到頻道設定檔 {CHANNELS_FILE} 或頻道列表為空")
         return {}
 
+    # 建立一次 client、載入一次記錄
+    youtube = build("youtube", "v3", developerKey=API_KEY)
+    checked = load_checked_videos()
+
     all_results = {}
     total_new = 0
 
@@ -421,7 +408,7 @@ def check_all_channels(download_thumbnails: bool = True, publish: bool = True) -
         print(f"\n頻道: {channel}")
         print("-" * 40)
         try:
-            videos = check_new_videos(channel, download_thumbnails=download_thumbnails)
+            videos = _fetch_channel_videos(youtube, channel, checked, download_thumbnails)
             all_results[channel] = videos
 
             if videos:
@@ -436,10 +423,12 @@ def check_all_channels(download_thumbnails: bool = True, publish: bool = True) -
             print(f"錯誤: {e}")
             all_results[channel] = []
 
+    # 統一儲存一次記錄
+    save_checked_videos(checked)
+
     print("=" * 60)
     print(f"\n總計: {total_new} 部影片")
 
-    # 生成 HTML 檔案並發佈
     if total_new > 0:
         generate_html(all_results)
         if publish:
