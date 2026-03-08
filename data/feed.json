@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-08T13:05:26.771573+00:00",
+  "updated_at": "2026-03-08T14:32:59.310627+00:00",
   "trending": [
-    "ricky martin",
-    "audi crooks",
-    "lupita nyong'o",
-    "bracketology",
-    "club brugge vs anderlecht",
-    "villarreal vs elche",
-    "rangers vs celtic",
-    "big east tournament bracket",
-    "charlie puth",
-    "florida lotto"
+    "sanju samson",
+    "rachin ravindra",
+    "karoline leavitt",
+    "heat advisory",
+    "egot",
+    "damon stoudamire",
+    "jiohotstar",
+    "viola davis",
+    "james patterson",
+    "jalen carter"
   ],
   "categories": {
     "急(hr)": [
@@ -96,6 +96,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "df187d870522",
+        "title": "Video guide to accessibility in Ableton Move, Move Everything – Andre Louis",
+        "summary": "Unofficial screen reader support in Ableton Move may be new, but it's already a revelation. Andre Louis, a visually impaired musician and technologist/artist extraordinaire, takes us on a tour of Move Everything. That's must-watch material, I hope, for sighted users and developers, too, to understan...",
+        "url": "https://cdm.link/move-everything-visually-impaired-guide/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-08T13:14:20+00:00"
+      },
       {
         "id": "9cd8d12938a0",
         "title": "外媒揭露，Meta AI＋AR 眼鏡會將用戶私密影片分享海外審核員",
@@ -247,17 +255,17 @@
         "url": "https://aseanplusjournal.com/2026/03/04/foreign-investment-guidelines_malaysia/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-03-04T11:04:06+00:00"
-      },
-      {
-        "id": "4681733bb531",
-        "title": "苹果芯片大改！Pro/Max系列首次采用双拼架构，AI算力最高翻4倍",
-        "summary": "3 月 3 日，苹果发布两款新芯片：M5 Pro 和 M5 Max。这两颗芯片和之前的 M 系列最大的区别在于，使用了一种叫做融合架构的新设计，把两个独立的芯片晶粒封装到了一起。一个芯片晶粒负责 CPU 和输入输出，另一个芯片晶粒专门管图形。两个芯片晶粒之间使用“高速桥梁”连接，看起来就像一块完整的芯片，延迟也非常低。（来源：苹果）苹果说，得益于这个设计和更高的统一内存带宽，M5 Pro 和 Max 的 AI 峰值算力是上一代的 4 倍以上。对于图像生成任务，最快可以增速 3.8 倍；对于大模型的提示词处理，最快可以增速 4 倍。这个做法苹果以前用过，但那是把两颗 Max 芯片粘成 Ultra...",
-        "url": "https://www.mittrchina.com/news/detail/16016",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-04T09:27:46+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "5a7c104c5aa8",
+        "title": "The Weight",
+        "summary": "There is a truism that art makes the strange familiar and makes the familiar strange. The Band’s biggest hit is intimately familiar to every classic rock listener, but it is quite a strange song. The lyrics seem like they are talking about ordinary people in ordinary situations, but they don’t add u...",
+        "url": "https://www.ethanhein.com/wp/2026/the-weight/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-03-08T12:05:00+00:00"
+      },
       {
         "id": "555aecb7a106",
         "title": "科技爱好者周刊（第 387 期）：你是领先的",
@@ -409,14 +417,6 @@
         "url": "https://blog.archive.org/2026/02/06/internet-archive-and-partners-select-local-newsrooms-from-across-the-us-to-participate-in-the-todays-news-for-tomorrow-program/",
         "source": "Internet Archive Blogs",
         "published": "2026-02-06T14:48:51+00:00"
-      },
-      {
-        "id": "d00aec536ee5",
-        "title": "Performance in Dialogue: Exploring Emirati and Polynesian Traditions through Al Harbiya and Haka",
-        "summary": "Last month, Andrew Eisenberg moderated Performance in Dialogue: Harbiya and Haka, an intercultural encounter connecting Emirati and Polynesian performance traditions. Bringing Al Harbiya together with Haka, the session combined performance [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/06/performance-in-dialogue-exploring-emirati-and-polynesian-traditions-through-al-harbiya-and-haka/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-02-06T12:45:23+00:00"
       }
     ]
   }
