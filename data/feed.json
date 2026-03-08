@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-08T15:32:11.557563+00:00",
+  "updated_at": "2026-03-08T16:39:20.420819+00:00",
   "trending": [
-    "serie a",
-    "nfl free agency",
-    "when are the oscars 2026",
-    "sean rhyan",
-    "easter 2026",
-    "tilak varma",
-    "margaret brennan",
-    "hardik pandya",
-    "when does nfl free agency start",
-    "chris wright"
+    "celtics vs cavaliers",
+    "oscars 2026",
+    "genoa vs roma",
+    "varun chakaravarthy",
+    "dominican republic baseball",
+    "unc wilmington basketball",
+    "rutgers basketball",
+    "axar patel",
+    "arnold palmer",
+    "jasprit bumrah"
   ],
   "categories": {
     "急(hr)": [
@@ -105,6 +105,38 @@
         "published": "2026-03-08T13:14:20+00:00"
       },
       {
+        "id": "ca9fe0c45897",
+        "title": "在掀翻地心说之前，伽利略可能曾是它最虔诚的信徒",
+        "summary": "凌晨三点，伊万·马拉拉从佛罗伦萨的酒店床上坐起来，给两位意大利最权威的伽利略研究者发了一封邮件。开头他写道：“请原谅这个不合时宜的时间，但我简直不敢相信自己的眼睛。”几个小时前，这位米兰大学的博士后还在国家中央图书馆里翻阅 16 世纪的旧书。他正在做一项听起来有些枯燥的工作：逐一检查欧洲各图书馆中《至大论》（Almagest）的早期拉丁文印本。《至大论》是公元 2 世纪的天文学家托勒密写的一本著作，它构建了一个地球居于宇宙中心、万物环绕运行的模型，这个模型主宰了西方天文学将近 1,400 年。马拉拉之前已经在维也纳查了一批，现在轮到佛罗伦萨，他面前摆着七本。翻着翻着，他在一张空白页上看到有人抄...",
+        "url": "https://www.mittrchina.com/news/detail/16043",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-08T12:52:51+00:00"
+      },
+      {
+        "id": "fede1b7016d6",
+        "title": "AI抢工作时代，硅谷AI大佬如何教育子女？",
+        "summary": "未来，AI 到底会不会抢走我们的工作？前几天，Anthropic 发布的《AI 对劳动力市场的影响：一种新衡量标准与早期证据》中，就提到了 AI 对年轻人就业的冲击。那么，在这样的背景下，硅谷的 AI 大佬们是如何解决对子女教育问题的，他们又是如何看待 AI 时代职业挑战的？近日，《华尔街日报》深度访谈了五位 AI 领域的高管，他们分别来自 Anthropic、微软、SAP、沃顿商学院及 AI 初创公司 Paid.AI，子女们的年龄从 6 个月到 26 岁不等。在 Anthropic 总裁兼联合创始人 Daniela Amodei 看来，共情力、社交能力以及对人类情感的深层理解将成为最核心的竞...",
+        "url": "https://www.mittrchina.com/news/detail/16042",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-08T12:45:50+00:00"
+      },
+      {
+        "id": "57e4018740fd",
+        "title": "美国团队实现光刻创新，金属有机框架光刻胶有望打造5nm极限硅芯片",
+        "summary": "如果告诉你，你的手机还能再快 10 倍，但代价是得在几十个原子宽的地方刻出电路，你觉得这有可能发生吗？Kayley Waltz 做到了这件事。在美国约翰斯·霍普金斯大学读博时的最后一年，她造出了一种能让芯片继续缩小下去的新材料。所以还没等毕业，全球顶级存储芯片制造商美光科技就直接把她收入麾下。众所周知，摩尔定律指的是每隔两年同样大小的芯片里所能塞进去的晶体管数量会翻一倍。芯片由此变快，手机由此变强，但这件事已经快干到头了。现在的工艺已经做到 10 纳米，也就是大约 60 个硅原子排成一排的宽度。再往下缩到 5 纳米左右，电流就会到处乱窜。Waltz 和导师想了另一条路：换一种材料来做光刻。光刻...",
+        "url": "https://www.mittrchina.com/news/detail/16041",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-08T10:49:24+00:00"
+      },
+      {
+        "id": "71cb7bbfba1b",
+        "title": "Karpathy开源“AI研究员”，630行代码让智能体通宵炼模型，一晚可跑100次实验",
+        "summary": "如果你有一块 NVIDIA GPU，睡前启动一个脚本，第二天早上醒来就能收获一百次 LLM 训练实验的结果，其中一部分还确实比你手动调参调得更好，是不是听起来有些难以置信？但这就是 Andrej Karpathy 今天凌晨开源的新项目 autoresearch 所做的事。项目上线不到几个小时，他在 X（原 Twitter）上的发布帖浏览量突破百万，GitHub 仓库迅速收获超过 2,500 颗星。整个仓库的核心代码只有约 630 行 Python。图丨相关推文（来源：X）autoresearch 做的事情，一句话就能说清：把一个简化过的大语言模型训练环境交给 AI 智能体（AI Agent），...",
+        "url": "https://www.mittrchina.com/news/detail/16039",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-08T10:40:32+00:00"
+      },
+      {
         "id": "9cd8d12938a0",
         "title": "外媒揭露，Meta AI＋AR 眼鏡會將用戶私密影片分享海外審核員",
         "summary": "《瑞典日報》（Svenska Dagbladet）上週五（2/27）發布的一份報導揭露，使用 Meta AI+ [&#8230;]",
@@ -113,12 +145,60 @@
         "published": "2026-03-08T05:00:43+00:00"
       },
       {
+        "id": "8ebe9105aeeb",
+        "title": "美国监控法律为何跟不上AI的发展？",
+        "summary": "（来源：麻省理工科技评论）近日美国国防部与 AI 公司 Anthropic 之间持续公开的对峙，引出了一个深层而至今悬而未决的问题：法律是否真的允许美国政府对本国公民实施大规模监控？答案出人意料地并不明朗。爱德华·斯诺登（Edward Snowden）揭露美国国家安全局大规模采集美国人手机通话元数据一事已过去十余年，美国社会至今仍在努力弥合普通民众的认知与法律实际允许范围之间的落差。Anthropic 与政府对峙的导火索，是五角大楼希望使用 Anthropic 的 AI Claude 对美国公民的大宗商业数据进行分析。Anthropic 要求其 AI 不得被用于国内大规模监控（也不得用于“自主...",
+        "url": "https://www.mittrchina.com/news/detail/16038",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T15:32:33+00:00"
+      },
+      {
+        "id": "46feaaa84775",
+        "title": "Gemini攻克宇宙弦难题，还自己想到了费曼技巧",
+        "summary": "AI 攻克了理论物理中的开放性问题！近日，谷歌团队开发了一个基于 Gemini Deep Think 模型的混合神经符号系统，成功推导出宇宙弦发射引力辐射功率谱的 6 种全新精确解法。该研究的重要意义在于，AI 不仅加速了科学发现，更重要的是，该系统推导出人类研究者尚未触及的新型闭式结果。图丨相关论文（来源：arXiv）宇宙弦被认为是引力波背景辐射的重要来源之一，它产生于因宇宙早期相变导致的真空对称破缺。这个问题的关键在一个超级难算的积分，它是计算宇宙弦在振荡时辐射出的引力波功率谱，具体来说是一个在球面上的积分 I(N，α)。由于分母在特定点会出现奇点（变为无穷大），因此该积分常会引起数值计算...",
+        "url": "https://www.mittrchina.com/news/detail/16037",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T15:10:54+00:00"
+      },
+      {
+        "id": "bac5c6b66d91",
+        "title": "地球重力在南极凹陷：研究发现冰原下藏着一个存在了7000万年的重力空洞",
+        "summary": "在我们日常的直觉中，重力似乎是地球上最恒定、最可靠的力量。然而，现实却远比直觉奇妙：地球并非一个完美的球体，其重力场就像一颗表面凹凸不平的“土豆”。如果在重力较弱的地方称体重，你甚至会比在重力强的地方轻上几克。目前，从地球动力学的角度来看，地球上最极端的“重力空洞”（Gravity Hole）就潜伏在冰天雪地的南极洲之下。近期，一项发表在《科学报告》（Scientific Reports）上的突破性研究，利用地震波和超级计算机“倒转时间”，首次重现了南极重力异常区在过去 7,000 万年间的演化史。这一发现不仅揭示了地球深部岩石运动的历程，更为我们理解地球内部动力学与地表气候的联动提供了一个令...",
+        "url": "https://www.mittrchina.com/news/detail/16036",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T15:06:01+00:00"
+      },
+      {
         "id": "cbb18136b8be",
         "title": "Here are community-led efforts in Lebanon supporting the displaced",
         "summary": "With an unprecedented minimum of 450,000 people displaced in Lebanon, community-led efforts are again working to provide basic aid. These often overlap with the very music and creative communities I've written about here, in the country and internationally. And they can benefit from your support.\nTh...",
         "url": "https://cdm.link/community-led-efforts-in-lebanon-supporting-the-displaced/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-07T14:24:13+00:00"
+      },
+      {
+        "id": "f4240f2b534f",
+        "title": "MIT开发可注射“微型肝脏”，不用开刀，直接打针补肝功能",
+        "summary": "终末期肝衰竭是全球范围内的重大健康威胁，目前最有效的治疗方式是肝移植，但长期存在器官短缺、手术风险高、患者耐受性差等难题。近日，来自麻省理工学院的研究团队在 Cell Biomaterials 期刊发表研究成果，他们开发了一种“微型肝脏”，可以将其注射到体内，目标是帮肝衰竭病人临时“加装”一些肝功能，缓解等待换肝的危机，或者作为更温和的治疗方式。在一项针对小鼠的新研究中，这些注射的“微型肝脏”可以在体内保持活性至少两个月，并且能够产生肝脏产生的许多酶和其他蛋白质。“我们对这项技术的愿景是，它既可以作为手术的替代方案，也可以作为移植前的‘桥梁’，在获得捐赠器官之前提供功能支持。”这项研究的第一作...",
+        "url": "https://www.mittrchina.com/news/detail/16035",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T07:56:27+00:00"
+      },
+      {
+        "id": "393d71aacb9f",
+        "title": "国际空间站要退休了，一座太空工厂正在接班，多家公司已下单预定",
+        "summary": "国际空间站（ISS，International Space Station）已经在轨运行超过 25 年。自 2000 年首批长驻乘员入住以来，这座足球场大小的轨道设施承载了超过 4,000 项实验，产出 4,400 多篇研究论文，接待了来自多个国家的 250 多名访客。但它正在变老。俄罗斯舱段的漏气问题悬而未决，舱外航天服故障频发，主体结构承受着长年累月的对接冲击和轨道温差循环带来的疲劳。NASA 的计划是在 2030 年对 ISS 实施受控离轨，由 SpaceX 正在研制的离轨飞行器引导它坠入南太平洋的“航天器墓地”。问题在于，之后怎么办。低地球轨道的微重力环境是地面无法复制的。减少的对流和...",
+        "url": "https://www.mittrchina.com/news/detail/16034",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T07:50:07+00:00"
+      },
+      {
+        "id": "024ff6e5a697",
+        "title": "让搜索快了一亿倍，科学家造出记忆搜索引擎，直接在存储里完成计算",
+        "summary": "每一天无论我们是在微信聊天记录里找一句话，还是在手机相册里找一张照片，背后都是手机在一行一行比对数据，这个过程不仅费电而且费时。如果有一种芯片能在存储数据的地方直接完成搜索，不需要把数据搬来搬去，速度能快多少？能耗又能节约多少？近日，香港大学李灿教授和合作者造出了一种名为模拟内容寻址存储器的芯片，在搜索上快了大约一亿倍。图 | 李灿（来源：受访者）该芯片由二硫化钼这种比发丝还细几万倍的二维材料打造而来。芯片里集成了 256 个闪存单元，组成一个 8×16 的阵列。当你输入一个查询值，所有存储单元同时开始比对。而且，该模拟芯片单元存储的不是数字计算机上的 0 和 1，而是我们直接感知世界的连续模...",
+        "url": "https://www.mittrchina.com/news/detail/16033",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T07:45:44+00:00"
       },
       {
         "id": "62338181ea65",
@@ -175,86 +255,6 @@
         "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-cheering-songs-analysis",
         "source": "報導者",
         "published": "2026-03-05T16:00:00+00:00"
-      },
-      {
-        "id": "1c1a1f7d483e",
-        "title": "探監、寫信告訴你，鐵窗外香港是什麼模樣⋯⋯2019年後，台灣探監師與港人創作者走過的香港監所陪伴路",
-        "summary": "香港媳婦林明儀自2019年底開始，無償赴監所探視因反送中參與運動被捕的政治犯。朋友因運動入獄的在台港人Franki，將林明儀的觀察及受刑人經歷轉化為劇場語言，這是香港流亡者與在囚者陪伴彼此療傷的故事，也想告訴台灣人，那些發生在香港的事情還沒結束。",
-        "url": "https://www.twreporter.org/a/podcast-2026-03-06",
-        "source": "報導者",
-        "published": "2026-03-05T16:00:00+00:00"
-      },
-      {
-        "id": "29e0d9b08cb8",
-        "title": "The best way to learn Bitwig Grid, Serum 2 is in Japanese from LOBOTIX",
-        "summary": "LOBOTIX is another reason to have hope in musical imagination. Even without speaking a word of Japanese, these are instantly some of my favorite tutorials. Here, these cover the spectral synthesis modes in Serum 2 and the modular capabilities of Bitwig Grid (and Vital and PhasePlant and more). And t...",
-        "url": "https://cdm.link/the-best-way-to-learn-bitwig-grid-serum-2-is-in-japanese-from-lobotix/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-03-05T15:59:59+00:00"
-      },
-      {
-        "id": "ba81e79ce1da",
-        "title": "五角大楼的AI争夺战：Anthropic输掉合同，OpenAI赢得了什么？",
-        "summary": "（来源：麻省理工科技评论）2 月 28 日，OpenAI 宣布与美国军方达成协议，允许后者在涉密环境中使用其技术。首席执行官山姆·奥特曼（Sam Altman）表示，相关谈判是在五角大楼公开批评 Anthropic 之后才开始推进的，整个过程“确实很仓促”。在公开声明中，OpenAI 费尽笔墨强调，公司并未向五角大楼让步、允许其随意使用自家技术。该公司发布博客文章，解释说明协议中明确禁止将其技术用于自主武器和国内大规模监控，奥特曼也表示，公司并非简单接受了 Anthropic 所拒绝的同等条款。从表面上看，你或许会认为 OpenAI 既拿下了合同，又占据了道德制高点。但细读字里行间和法律措辞，...",
-        "url": "https://www.mittrchina.com/news/detail/16022",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-05T08:46:24+00:00"
-      },
-      {
-        "id": "08ad9831b32b",
-        "title": "Meta 進軍 AI 硬體市場，計劃 2026 年量產自家定制晶片",
-        "summary": "Meta Platforms Inc. 正在加速其人工智慧（AI）基礎設施的擴展，計劃開發自家定制的晶片，以訓 [&#8230;]",
-        "url": "https://technews.tw/2026/03/05/meta-enters-the-ai-%e2%80%8b%e2%80%8bhardware-market/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-03-05T02:50:56+00:00"
-      },
-      {
-        "id": "baec19f04986",
-        "title": "Common workflow patterns for AI agents—and when to use them",
-        "summary": "Common workflow patterns for AI agents—and when to use them",
-        "url": "https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them",
-        "source": "Claude Blog",
-        "published": "2026-03-05T00:00:00+00:00"
-      },
-      {
-        "id": "0d22361783ae",
-        "title": "The developer of Tweakbench wants to remake the DAW without linear time",
-        "summary": "The Digital Audio Workstation can never quite escape the timeline and its roots in multitrack tape. Tweakbench's new Noemi, which entered alpha last month, starts from scratch. What if music in the DAW could constantly evolve and change? What if the DAW were non-deterministic?\nThe post The developer...",
-        "url": "https://cdm.link/noemi-alpha/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-03-04T19:23:47+00:00"
-      },
-      {
-        "id": "99523ceab6ed",
-        "title": "Machinefabriek * Meredith Bates",
-        "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
-        "url": "https://www.ambientblog.net/blog/machinefabriek-bates/",
-        "source": "Ambientblog",
-        "published": "2026-03-04T18:49:30+00:00"
-      },
-      {
-        "id": "2c8d978240a3",
-        "title": "跪下來接，更容易「偷好球」？WBC台灣三大捕手解析「單膝蹲捕」革命",
-        "summary": "被球迷封為「心靈捕手」的林家正，球場上示範在MLB掀起浪潮的單膝跪地姿勢，引起不少人好奇。我們採訪林家正、蔣少宏與吉力吉撈・鞏冠（Giljegiljaw Kungkuan），解析從雙腳蹲到跪姿的現代捕手蹲捕革命。",
-        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-one-knee-down-catching-stance",
-        "source": "報導者",
-        "published": "2026-03-04T16:00:00+00:00"
-      },
-      {
-        "id": "812f19dfef96",
-        "title": "Soroush Khazaei, audiovisual artist, killed in an airstrike in Tehran",
-        "summary": "People are not numbers, and so among the rising tide of wartime deaths around the world are some familiar faces from our communities. Soroush Khazaei was an audiovisual artist who gave generously to the Iranian scene. He was killed earlier this week in Tehran by US/Israeli airstrikes. \nThe post Soro...",
-        "url": "https://cdm.link/soroush-khazaei-memorial/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-03-04T12:29:17+00:00"
-      },
-      {
-        "id": "1c2e501eb61b",
-        "title": "馬來西亞外商投資指南",
-        "summary": "馬來西亞外商投資指南 作者：TWL Law Group 2026-03-04 馬來西亞是東南亞地區外國投資的首 [&#8230;]",
-        "url": "https://aseanplusjournal.com/2026/03/04/foreign-investment-guidelines_malaysia/",
-        "source": "ASEAN PLUS 南洋誌",
-        "published": "2026-03-04T11:04:06+00:00"
       }
     ],
     "序(month)": [
