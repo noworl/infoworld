@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-09T16:09:27.833870+00:00",
+  "updated_at": "2026-03-09T17:53:22.500893+00:00",
   "trending": [
-    "kai trump",
-    "five guys bogo",
-    "pickmon",
-    "kenny smith",
-    "mike evans",
-    "sheryl underwood",
-    "live nation",
-    "paul skenes",
-    "costco stock",
-    "ted carter"
+    "tyler allgeier",
+    "kendrick bourne",
+    "cade mays",
+    "linderbaum",
+    "nick folk",
+    "kobe bryant",
+    "daniel bellinger",
+    "ryan wright",
+    "lions",
+    "downdetector"
   ],
   "categories": {
     "急(hr)": [
@@ -177,12 +177,28 @@
         "published": "2026-03-09T09:21:10+00:00"
       },
       {
+        "id": "3611df4026e6",
+        "title": "Agent失控正在发生：骚扰、勒索、删除邮件系统，应该向谁追责？",
+        "summary": "（来源：麻省理工科技评论）当斯科特·沙姆博（Scott Shambaugh）拒绝 AI Agent 自主发起的、为他参与维护的数据库 matplotlib 贡献代码的请求时，并没有多想。和许多开源项目一样，matplotlib 已被大量 AI 生成的代码贡献所淹没，因此沙姆博和同事们制定了一项规定：所有 AI 编写的代码必须经过人工审核并由人工提交。因此，他拒绝了 AI 的请求，然后去睡觉了。诡异的事情随即发生。沙姆博半夜醒来，查看邮件，发现那个智能体给他回了消息，并发布了一篇题为《开源中的守门人：斯科特·沙姆博的故事》的博客文章。文章逻辑有些混乱，但最让沙姆博震惊的是，这个智能体专门研究了他...",
+        "url": "https://www.mittrchina.com/news/detail/16044",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-09T02:17:58+00:00"
+      },
+      {
         "id": "1e717f67fc3a",
         "title": "DreamScenes – March 2026",
         "summary": "A Place Where Silence Feels Safe\n\n\n\n&nbsp;\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:47 Reibung - Burdon To CarryChrysanthemen, 2026\n\n\n02:56 Clariloops - Slowly I WakeShades, 2026, Whitelabrecs\n\n\n06:29 Miles Lee - Charcoal Tide (edit)The Sound Of Dreams, 2026, Inspired By Breathing\n\n\n...",
         "url": "https://www.ambientblog.net/blog/dreamscenes-march-2026/",
         "source": "Ambientblog",
         "published": "2026-03-08T18:55:00+00:00"
+      },
+      {
+        "id": "28ba964b6ceb",
+        "title": "跌倒，再戰，Team Taiwan！超越勝負的無畏之路",
+        "summary": "從跌落深淵、奮力爬起再戰，靠自己拒絕被淘汰，台灣隊直到最後一刻才扼腕失去晉級機會，無法繼2013年之後再次打進八強。不過，本屆台韓之戰打破20年來無法在WBC贏韓國的困局，為台灣國家隊寫下新的篇章，也開啟對未來棒球世代的想像。",
+        "url": "https://www.twreporter.org/a/photo-2026-wbc-team-taiwan",
+        "source": "報導者",
+        "published": "2026-03-08T16:00:00+00:00"
       },
       {
         "id": "445827c7d6cb",
@@ -239,25 +255,17 @@
         "url": "https://www.mittrchina.com/news/detail/16041",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-03-08T10:49:24+00:00"
-      },
-      {
-        "id": "71cb7bbfba1b",
-        "title": "Karpathy开源“AI研究员”，630行代码让智能体通宵炼模型，一晚可跑100次实验",
-        "summary": "如果你有一块 NVIDIA GPU，睡前启动一个脚本，第二天早上醒来就能收获一百次 LLM 训练实验的结果，其中一部分还确实比你手动调参调得更好，是不是听起来有些难以置信？但这就是 Andrej Karpathy 今天凌晨开源的新项目 autoresearch 所做的事。项目上线不到几个小时，他在 X（原 Twitter）上的发布帖浏览量突破百万，GitHub 仓库迅速收获超过 2,500 颗星。整个仓库的核心代码只有约 630 行 Python。图丨相关推文（来源：X）autoresearch 做的事情，一句话就能说清：把一个简化过的大语言模型训练环境交给 AI 智能体（AI Agent），...",
-        "url": "https://www.mittrchina.com/news/detail/16039",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-08T10:40:32+00:00"
-      },
-      {
-        "id": "9cd8d12938a0",
-        "title": "外媒揭露，Meta AI＋AR 眼鏡會將用戶私密影片分享海外審核員",
-        "summary": "《瑞典日報》（Svenska Dagbladet）上週五（2/27）發布的一份報導揭露，使用 Meta AI+ [&#8230;]",
-        "url": "https://infosecu.technews.tw/2026/03/08/metas-ai-display-glasses-reportedly-share-intimate-videos-with-human-moderators/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-03-08T05:00:43+00:00"
       }
     ],
     "序(month)": [
+      {
+        "id": "e9cfc262e5e8",
+        "title": "Remix, Reimagine, Record: Internet Archive Partners with WNYC for the 2026 Public Song Project",
+        "summary": "The 2026 Public Song Project is here — and for the first time, WNYC’s Public Song Project is partnering with the Internet Archive! ⁠ ⁠Here’s what you need to know: [&#8230;]",
+        "url": "https://blog.archive.org/2026/03/09/remix-reimagine-record-internet-archive-partners-with-wnyc-for-the-2026-public-song-project/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-03-09T16:34:17+00:00"
+      },
       {
         "id": "5a7c104c5aa8",
         "title": "The Weight",
@@ -409,14 +417,6 @@
         "url": "https://medium.com/@ccs.popcom/%E9%9B%A2%E6%95%A3%E8%88%87%E9%87%8D%E6%A7%8B-%E5%BE%9E%E5%AA%92%E9%AB%94%E5%86%8D%E7%8F%BE%E7%9C%8B%E7%A7%BB%E5%8F%B0%E6%B8%AF%E4%BA%BA%E7%9A%84%E6%83%85%E6%84%9F%E7%B5%90%E6%A7%8B%E8%88%87%E8%BA%AB%E5%88%86%E8%AA%8D%E5%90%8C-faeb51ef1e4a?source=rss-17c1c85be06b------2",
         "source": "Stories by 爆米花傳播學 on Medium",
         "published": "2026-02-07T01:15:33+00:00"
-      },
-      {
-        "id": "a162e40e81c3",
-        "title": "Internet Archive and Partners Select Local Newsrooms from Across the US to Participate in the Today’s News for Tomorrow Program",
-        "summary": "Internet Archive, Poynter Institute, and Investigative Reporters and Editors (IRE) are pleased to announce the first cohort of newsrooms to join the Today’s News for Tomorrow program. With support from [&#8230;]",
-        "url": "https://blog.archive.org/2026/02/06/internet-archive-and-partners-select-local-newsrooms-from-across-the-us-to-participate-in-the-todays-news-for-tomorrow-program/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-02-06T14:48:51+00:00"
       }
     ]
   }
