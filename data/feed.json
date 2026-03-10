@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T11:39:46.329944+00:00",
+  "updated_at": "2026-03-10T13:20:28.259824+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -165,6 +165,30 @@
     ],
     "破(day)": [
       {
+        "id": "6ce900d36b5e",
+        "title": "As the Planet Warms, a Humble Sea Bean Is Proving to Be a Promising Superfood",
+        "summary": "Known as samphire, sea beans, glasswort or pickleweed, Salicornia thrives in high-saline environments, like coastal marshes, and has a lot of nutritional and medicinal properties",
+        "url": "https://www.smithsonianmag.com/innovation/as-the-planet-warms-a-humble-sea-bean-is-proving-to-be-a-promising-superfood-180988301/",
+        "source": "Innovation | smithsonianmag.com",
+        "published": "2026-03-10T12:00:00+00:00"
+      },
+      {
+        "id": "3efe4d052407",
+        "title": "奧地利鋼琴國寶布赫賓德將訪台　致力追求原譜",
+        "summary": "（中央社記者趙靜瑜台北10日電）奧地利國寶鋼琴家魯道夫・布赫賓德（Rudolf Buchbinder）致力追求原譜，被譽為「維也納鋼琴學派最後權威」，5月他將在音樂會上帶來布拉姆斯的第一號及第二號鋼琴協奏曲。",
+        "url": "https://www.cna.com.tw/news/acul/202603100335.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-03-10T11:07:58+00:00"
+      },
+      {
+        "id": "8e7ca8b60ebd",
+        "title": "曹興誠因「中華」請辭文總執委 文總：持續溝通",
+        "summary": "（中央社記者王寶兒台北10日電）中華文化總會預計在17日舉辦會員大會，媒報報導文總執委曹興誠今天請辭，認為文總宗旨在於推廣台灣文化，卻掛「中華」2字。文總表示，將持續溝通，改名一事則須照程序進行。",
+        "url": "https://www.cna.com.tw/news/acul/202603100327.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-03-10T10:44:40+00:00"
+      },
+      {
         "id": "d4f9493bd908",
         "title": "Meta 組應用 AI 工程新部門，攜手超級智慧部門推動 AI 產品",
         "summary": "《華爾街日報》取得一份備忘錄指出，Meta 內部新成立「應用型 AI 工程」（Applied AI Engin [&#8230;]",
@@ -195,6 +219,14 @@
         "url": "https://www.cna.com.tw/news/acul/202603100066.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-03-10T03:03:18+00:00"
+      },
+      {
+        "id": "426322d00f9f",
+        "title": "雷诺寻求降低对欧洲市场销量的依赖",
+        "summary": "这家法国汽车制造商计划拓展印度和其他新兴市场，到2030年实现欧洲以外市场贡献半数销量。",
+        "url": "https://www.ftchinese.com/story/001109159",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-09T16:00:00+00:00"
       },
       {
         "id": "a24586185860",
@@ -379,22 +411,6 @@
         "url": "https://www.cna.com.tw/news/acul/202603090031.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-03-09T01:10:56+00:00"
-      },
-      {
-        "id": "100bb09fb5ec",
-        "title": "馬德里Hybrid藝博會　主題國台灣藝術家展演迴響熱烈",
-        "summary": "（中央社記者胡家綺馬德里8日專電）台灣擔任馬德里Hybrid藝博會10年來首任主題國，近日推出「台灣潮—間歇之力」專題展，展出7位藝術家作品外，並舉辦2場展演，引領西國觀眾沉浸於獨具台灣能量的藝術語言。",
-        "url": "https://www.cna.com.tw/news/acul/202603090021.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-03-09T00:20:34+00:00"
-      },
-      {
-        "id": "b4461218eaf4",
-        "title": "雲在兩千米登盧森堡電影節　導演陳芯宜分享創作理念",
-        "summary": "（中央社記者吳柏緯布魯塞爾8日專電）導演陳芯宜執導的XR作品「雲在兩千米」入選「盧森堡城市電影節」，5日起在盧森堡當代藝術場館「MUDAM」展出。陳芯宜提到，這次參展獲得許多寶貴的交流經驗，很多歐洲觀眾對台灣的原住民文化、神話都相當有興趣。",
-        "url": "https://www.cna.com.tw/news/acul/202603090017.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-03-09T00:08:25+00:00"
       },
       {
         "id": "79b49434b327",
@@ -601,14 +617,6 @@
         "title": "亚洲大型经济体为伊朗事态冲击能源供应做准备",
         "summary": "由于伊朗战争导致油气供应受阻，能源高度依赖进口的亚洲主要经济体纷纷采取措施确保油气供应。",
         "url": "https://www.ftchinese.com/story/001109130",
-        "source": "FTChinese RSS - News",
-        "published": "2026-03-05T16:00:00+00:00"
-      },
-      {
-        "id": "9138953f6971",
-        "title": "中国为下一个五年制定谨慎的气候目标",
-        "summary": "专家认为，力度略低于上一个五年的碳强度削减目标，在未来五年为总排放量留出了上升空间。中国的做法是把重点放在增加供应和降低成本上，而不是放在强有力、可测量的排放目标上。",
-        "url": "https://www.ftchinese.com/story/001109127",
         "source": "FTChinese RSS - News",
         "published": "2026-03-05T16:00:00+00:00"
       },
@@ -1324,7 +1332,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T11:39:46.329617+00:00"
+        "published": "2026-03-10T13:20:28.259448+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1332,7 +1340,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T11:39:46.329607+00:00"
+        "published": "2026-03-10T13:20:28.259438+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1340,7 +1348,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T11:39:46.329597+00:00"
+        "published": "2026-03-10T13:20:28.259428+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1348,7 +1356,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T11:39:46.329587+00:00"
+        "published": "2026-03-10T13:20:28.259417+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1356,7 +1364,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T11:39:46.329577+00:00"
+        "published": "2026-03-10T13:20:28.259406+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1364,7 +1372,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T11:39:46.329567+00:00"
+        "published": "2026-03-10T13:20:28.259395+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1372,7 +1380,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T11:39:46.329557+00:00"
+        "published": "2026-03-10T13:20:28.259385+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1380,7 +1388,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T11:39:46.329547+00:00"
+        "published": "2026-03-10T13:20:28.259371+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1388,7 +1396,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T11:39:46.329537+00:00"
+        "published": "2026-03-10T13:20:28.259360+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1396,7 +1404,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T11:39:46.329527+00:00"
+        "published": "2026-03-10T13:20:28.259350+00:00"
       },
       {
         "id": "e9cfc262e5e8",
