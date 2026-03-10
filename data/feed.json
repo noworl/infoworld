@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T16:10:05.397923+00:00",
+  "updated_at": "2026-03-10T17:53:33.698082+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -165,6 +165,22 @@
     ],
     "破(day)": [
       {
+        "id": "062e9f2a939d",
+        "title": "Dorico is quietly working through your Western notation wishlist",
+        "summary": "Steinberg's Dorico is slowly realizing a dream of notation that has spanned decades of scoring software. How could you combine engraving precision (think Leland Smith's SCORE) with graphical ease-of-use? That might sound easy, but it's been one of the toughest challenges in music software. Dorico 6....",
+        "url": "https://cdm.link/dorico-is-quietly-working-through-your-western-notation-wishlist/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-10T16:55:28+00:00"
+      },
+      {
+        "id": "c8f67da81bf1",
+        "title": "梁東屏／歲月淘盡江湖色：看見歷史轉折處的蔡金塗──讀《臺北聞人蔡金塗》",
+        "summary": "《臺北聞人蔡金塗》可讀之處，在於作者鄭進耀以蔡金塗的一生、以及他做為一位民間社會與政權間的重要協商者為軸線，回溯許多不為人知的歷史，那些地方勢力與政商界、地下秩序間的複雜互動⋯⋯",
+        "url": "https://www.twreporter.org/a/bookreviews-tsai-chin-tu",
+        "source": "報導者",
+        "published": "2026-03-10T16:00:00+00:00"
+      },
+      {
         "id": "7051e29e34ab",
         "title": "The Magic of Alphonse Mucha",
         "summary": "More than a dozen striking images by Alphonse Mucha, the Czech artist widely credited as an originator of the art nouveau style, are preserved at the Library. He got his big break when he happened to be in his Paris office when Sarah Bernhardt, the famous actress, needed help with an advertising pos...",
@@ -227,6 +243,70 @@
         "url": "https://www.cna.com.tw/news/acul/202603100066.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-03-10T03:03:18+00:00"
+      },
+      {
+        "id": "8c6b36a77885",
+        "title": "台灣2026 WBC投打分析：一次同生共死的進擊，與世代交替的傳承",
+        "summary": "台灣在2026 WBC預賽整體表現上，打擊未能完全發揮，投手面對高層級打者的壓制力仍有待提升。不過，台灣棒球新世代的新球風逐漸明確：心中沒有恐懼、團體向心強大，每一名教練與隊員，都有超越比賽的思考與領悟。",
+        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-record",
+        "source": "報導者",
+        "published": "2026-03-09T16:00:00+00:00"
+      },
+      {
+        "id": "58fec92a42b5",
+        "title": "趙麟宇、高若想／台灣首次醫療工會透過仲裁調薪案背後 ，看見「被制度化」的勞資不平等",
+        "summary": "",
+        "url": "https://www.twreporter.org/a/opinion-taiwans-landmark-medical-union-salary-arbitration",
+        "source": "報導者",
+        "published": "2026-03-09T16:00:00+00:00"
+      },
+      {
+        "id": "426322d00f9f",
+        "title": "雷诺寻求降低对欧洲市场销量的依赖",
+        "summary": "这家法国汽车制造商计划拓展印度和其他新兴市场，到2030年实现欧洲以外市场贡献半数销量。",
+        "url": "https://www.ftchinese.com/story/001109159",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-09T16:00:00+00:00"
+      },
+      {
+        "id": "a24586185860",
+        "title": "渣打计划将新加坡的中国客户服务团队规模扩大一倍",
+        "summary": "近期一系列引人注目的洗钱丑闻并未令渣打推迟扩张计划。该银行今年将在新加坡增加至多50名客户关系经理，以吸引富有的中国客户。其认为新加坡在吸引中国财富方面具备历史优势。",
+        "url": "https://www.ftchinese.com/story/001109158",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-09T16:00:00+00:00"
+      },
+      {
+        "id": "847c8ebf57bb",
+        "title": "宁德时代公布超预期盈利后股票大涨",
+        "summary": "得益于储能系统的强劲需求，包括人工智能数据中心的需求，宁德时代2025年净利润为722亿元人民币，同比增长42%。",
+        "url": "https://www.ftchinese.com/story/001109156",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-09T16:00:00+00:00"
+      },
+      {
+        "id": "bae765d0819d",
+        "title": "中国今年前两个月出口激增21.8%",
+        "summary": "在特朗普与习近平举行关键峰会之前，中国出口激增预示着贸易顺差还将进一步扩大。去年这一顺差达到创纪录的1.2万亿美元。",
+        "url": "https://www.ftchinese.com/story/001109153",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-09T16:00:00+00:00"
+      },
+      {
+        "id": "d0e8945e76eb",
+        "title": "微软将Anthropic模型集成至办公工具套件",
+        "summary": "这家软件巨头将把热门编程平台Claude Code的用户友好版Cowork嵌入Microsoft Copilot虚拟助手，以减少对OpenAI的依赖。",
+        "url": "https://www.ftchinese.com/story/001109147",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-09T16:00:00+00:00"
+      },
+      {
+        "id": "3edcf1cd3cc5",
+        "title": "英伟达与ABB联手研制AI工业机器人",
+        "summary": "两家公司正在整合ABB的机器人训练软件与英伟达的Omniverse仿真平台，以开发能够在虚拟环境训练、并可在多个行业使用的机器人。",
+        "url": "https://www.ftchinese.com/story/001109146",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-09T16:00:00+00:00"
       },
       {
         "id": "e6ca8b20a9db",
@@ -389,6 +469,14 @@
         "published": "2026-03-08T18:55:00+00:00"
       },
       {
+        "id": "445827c7d6cb",
+        "title": "唯色／《 過境 》：一部圖像小說裡那些欲言又止的變故",
+        "summary": "這本書透露了「新傷」，暗示了「舊傷」，看似隨口提及，卻將幾個西藏和中國的關鍵年分藏在畫與畫之間，構築了一個「你知道就會懂」的隱祕空間，讓你感覺到：那些被遮蔽的重大變故，其實還留在那片土地上，從未消失。",
+        "url": "https://www.twreporter.org/a/bookreview-tibet-crossing",
+        "source": "報導者",
+        "published": "2026-03-08T16:00:00+00:00"
+      },
+      {
         "id": "28ba964b6ceb",
         "title": "跌倒，再戰，Team Taiwan！超越勝負的無畏之路",
         "summary": "從跌落深淵、奮力爬起再戰，靠自己拒絕被淘汰，台灣隊直到最後一刻才扼腕失去晉級機會，無法繼2013年之後再次打進八強。不過，本屆台韓之戰打破20年來無法在WBC贏韓國的困局，為台灣國家隊寫下新的篇章，也開啟對未來棒球世代的想像。",
@@ -397,11 +485,19 @@
         "published": "2026-03-08T16:00:00+00:00"
       },
       {
-        "id": "445827c7d6cb",
-        "title": "唯色／《 過境 》：一部圖像小說裡那些欲言又止的變故",
-        "summary": "這本書透露了「新傷」，暗示了「舊傷」，看似隨口提及，卻將幾個西藏和中國的關鍵年分藏在畫與畫之間，構築了一個「你知道就會懂」的隱祕空間，讓你感覺到：那些被遮蔽的重大變故，其實還留在那片土地上，從未消失。",
-        "url": "https://www.twreporter.org/a/bookreview-tibet-crossing",
-        "source": "報導者",
+        "id": "4096939fa25e",
+        "title": "英外交大臣捍卫不参与对伊朗开战决定",
+        "summary": "库珀形容斯塔默首相“冷静、理性”。此前特朗普在评论有关英国可能部署航母的报道时指责英国试图“在我们已经赢得战争之后才加入战争”。",
+        "url": "https://www.ftchinese.com/story/001109136",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-08T16:00:00+00:00"
+      },
+      {
+        "id": "b4c663fcf7c0",
+        "title": "油库被炸后德黑兰居民被告知要警惕酸雨",
+        "summary": "以军轰炸伊朗首都的多个油库后，伊朗红新月会警告，人口1000万的德黑兰一旦降雨，雨水可能“高度危险且呈酸性”。",
+        "url": "https://www.ftchinese.com/story/001109135",
+        "source": "FTChinese RSS - News",
         "published": "2026-03-08T16:00:00+00:00"
       },
       {
@@ -549,6 +645,22 @@
         "published": "2026-03-05T16:00:00+00:00"
       },
       {
+        "id": "5b2ff1903ac2",
+        "title": "美国投资者要求另设“剔除中国”版基金",
+        "summary": "此举旨在不违反美国针对中国科技领域的投资限制，这些领域包括先进半导体、量子计算和人工智能等。美国多个州还出台法律，限制其公共养老金基金投资中资企业。",
+        "url": "https://www.ftchinese.com/story/001109131",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-05T16:00:00+00:00"
+      },
+      {
+        "id": "b18e63303856",
+        "title": "亚洲大型经济体为伊朗事态冲击能源供应做准备",
+        "summary": "由于伊朗战争导致油气供应受阻，能源高度依赖进口的亚洲主要经济体纷纷采取措施确保油气供应。",
+        "url": "https://www.ftchinese.com/story/001109130",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-05T16:00:00+00:00"
+      },
+      {
         "id": "29e0d9b08cb8",
         "title": "The best way to learn Bitwig Grid, Serum 2 is in Japanese from LOBOTIX",
         "summary": "LOBOTIX is another reason to have hope in musical imagination. Even without speaking a word of Japanese, these are instantly some of my favorite tutorials. Here, these cover the spectral synthesis modes in Serum 2 and the modular capabilities of Bitwig Grid (and Vital and PhasePlant and more). And t...",
@@ -677,26 +789,10 @@
         "published": "2026-03-03T17:00:00+00:00"
       },
       {
-        "id": "4fe7f8fe16d0",
-        "title": "台灣最強棒球之音：球迷喊聲、汽笛、音樂人「國家隊」，台式應援如何譜成？",
-        "summary": "在〈台灣尚勇〉成為全民金曲的當下，我們採訪多位塑造球場聲響的關鍵人物，討論寶島如何在美日韓影響下，從「便當便當」吼唱出Team Taiwan的台式棒球應援之路⋯⋯",
-        "url": "https://www.twreporter.org/a/2026-wbc-team-taiwan-cheering-songs-culture",
-        "source": "報導者",
-        "published": "2026-03-03T16:00:00+00:00"
-      },
-      {
         "id": "f1b6502633a5",
         "title": "聊聊台式應援史：戰歌、吞霸歌、台灣尚勇⋯⋯記者最愛哪首？台灣「棒球之音」如何走出獨特風格？",
         "summary": "2026年世界棒球經典賽開打！賽場上，台灣球迷的「台式應援」屢屢成為國際焦點，也是台灣隊強大的隱形戰力。結合口號、節拍，讓人朗朗上口的應援曲目，到底是怎麼來的？這集一起來認識：台灣、日本與韓國的棒球應援文化有哪些差異？應援曲在球迷心中的魔力為何？",
         "url": "https://www.twreporter.org/a/podcast-2026-03-04",
-        "source": "報導者",
-        "published": "2026-03-03T16:00:00+00:00"
-      },
-      {
-        "id": "041a2663f70d",
-        "title": "大數據揭開全壘打祕密",
-        "summary": "台灣12強「冠軍之路」，可說是靠著全壘打打下。借助運科儀器設備的檢測，在2026 WBC開打前，《報導者》以科學數據與多媒體呈現，揭開全壘打「揮擊配方」的祕密。",
-        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-home-run",
         "source": "報導者",
         "published": "2026-03-03T16:00:00+00:00"
       },
@@ -715,22 +811,6 @@
         "url": "https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills",
         "source": "Claude Blog",
         "published": "2026-03-03T00:00:00+00:00"
-      },
-      {
-        "id": "f0f58ad2124f",
-        "title": "Endless joys of the Open Reel Ensemble and reel-to-reel performance",
-        "summary": "Japan's Open Reel Ensemble has been active continuously since 2009, with collaborations from Issei Miyake to Ryuichi Sakamoto. But there's a special magic that some of their most experimental performances -- bows flying over tape -- are what has earned a fresh wave of attention. \nThe post Endless jo...",
-        "url": "https://cdm.link/open-reel-ensemble-and-reel-to-reel-performance/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-03-02T20:53:13+00:00"
-      },
-      {
-        "id": "95893d33dde8",
-        "title": "川普和以色列的伊朗戰爭：斬首哈米尼之後，伊朗的政權更迭之亂與外溢的中東危機",
-        "summary": "近日美國聯合以色列對伊朗發起「史詩怒火行動」，首波斬首攻擊炸死伊朗最高領袖哈米尼，和數十名層峰級別領導人，引發政權繼承混亂。伊朗迅速向周邊國家反擊，則進一步使戰火蔓延，政經局勢陷入難以預料的危機之中⋯⋯",
-        "url": "https://www.twreporter.org/a/hello-world-2026-03-03",
-        "source": "報導者",
-        "published": "2026-03-02T16:00:00+00:00"
       },
       {
         "id": "a2015e86ee51",
@@ -1252,7 +1332,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T16:10:05.397512+00:00"
+        "published": "2026-03-10T17:53:33.697593+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1260,7 +1340,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T16:10:05.397501+00:00"
+        "published": "2026-03-10T17:53:33.697582+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1268,7 +1348,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T16:10:05.397490+00:00"
+        "published": "2026-03-10T17:53:33.697571+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1276,7 +1356,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T16:10:05.397480+00:00"
+        "published": "2026-03-10T17:53:33.697560+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1284,7 +1364,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T16:10:05.397470+00:00"
+        "published": "2026-03-10T17:53:33.697548+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1292,7 +1372,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T16:10:05.397460+00:00"
+        "published": "2026-03-10T17:53:33.697537+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1300,7 +1380,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T16:10:05.397449+00:00"
+        "published": "2026-03-10T17:53:33.697526+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1308,7 +1388,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T16:10:05.397439+00:00"
+        "published": "2026-03-10T17:53:33.697515+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1316,7 +1396,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T16:10:05.397429+00:00"
+        "published": "2026-03-10T17:53:33.697503+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1324,7 +1404,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T16:10:05.397418+00:00"
+        "published": "2026-03-10T17:53:33.697492+00:00"
       },
       {
         "id": "e9cfc262e5e8",
