@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-03-09T23:38:28.957152+00:00",
+  "updated_at": "2026-03-10T02:41:45.960296+00:00",
   "trending": [
-    "ryan seacrest",
-    "la casa de los famosos",
-    "love is blind reunion",
-    "sc lottery",
-    "ar'darius washington",
-    "dane belton",
-    "braxton jones",
-    "roy lopez",
-    "cooper dejean",
-    "dallas goedert"
+    "jared mccain",
+    "de'anthony melton",
+    "matt gay",
+    "nick shirley",
+    "leo chenal",
+    "hayden hurst",
+    "kyle filipowski",
+    "kendra wilkinson",
+    "shai gilgeous-alexander",
+    "carlos alcaraz"
   ],
   "categories": {
     "急(hr)": [
@@ -96,6 +96,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "d0e8945e76eb",
+        "title": "微软将Anthropic模型集成至办公工具套件",
+        "summary": "这家软件巨头将把热门编程平台Claude Code的用户友好版Cowork嵌入Microsoft Copilot虚拟助手，以减少对OpenAI的依赖。",
+        "url": "https://www.ftchinese.com/story/001109147",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-09T16:00:00+00:00"
+      },
       {
         "id": "3edcf1cd3cc5",
         "title": "英伟达与ABB联手研制AI工业机器人",
@@ -201,6 +209,14 @@
         "published": "2026-03-09T00:00:00+00:00"
       },
       {
+        "id": "1e717f67fc3a",
+        "title": "DreamScenes – March 2026",
+        "summary": "A Place Where Silence Feels Safe\n\n\n\n&nbsp;\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:47 Reibung - Burdon To CarryChrysanthemen, 2026\n\n\n02:56 Clariloops - Slowly I WakeShades, 2026, Whitelabrecs\n\n\n06:29 Miles Lee - Charcoal Tide (edit)The Sound Of Dreams, 2026, Inspired By Breathing\n\n\n...",
+        "url": "https://www.ambientblog.net/blog/dreamscenes-march-2026/",
+        "source": "Ambientblog",
+        "published": "2026-03-08T18:55:00+00:00"
+      },
+      {
         "id": "28ba964b6ceb",
         "title": "跌倒，再戰，Team Taiwan！超越勝負的無畏之路",
         "summary": "從跌落深淵、奮力爬起再戰，靠自己拒絕被淘汰，台灣隊直到最後一刻才扼腕失去晉級機會，無法繼2013年之後再次打進八強。不過，本屆台韓之戰打破20年來無法在WBC贏韓國的困局，為台灣國家隊寫下新的篇章，也開啟對未來棒球世代的想像。",
@@ -239,22 +255,6 @@
         "url": "https://cdm.link/move-everything-visually-impaired-guide/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-08T13:14:20+00:00"
-      },
-      {
-        "id": "ca9fe0c45897",
-        "title": "在掀翻地心说之前，伽利略可能曾是它最虔诚的信徒",
-        "summary": "凌晨三点，伊万·马拉拉从佛罗伦萨的酒店床上坐起来，给两位意大利最权威的伽利略研究者发了一封邮件。开头他写道：“请原谅这个不合时宜的时间，但我简直不敢相信自己的眼睛。”几个小时前，这位米兰大学的博士后还在国家中央图书馆里翻阅 16 世纪的旧书。他正在做一项听起来有些枯燥的工作：逐一检查欧洲各图书馆中《至大论》（Almagest）的早期拉丁文印本。《至大论》是公元 2 世纪的天文学家托勒密写的一本著作，它构建了一个地球居于宇宙中心、万物环绕运行的模型，这个模型主宰了西方天文学将近 1,400 年。马拉拉之前已经在维也纳查了一批，现在轮到佛罗伦萨，他面前摆着七本。翻着翻着，他在一张空白页上看到有人抄...",
-        "url": "https://www.mittrchina.com/news/detail/16043",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-08T12:52:51+00:00"
-      },
-      {
-        "id": "fede1b7016d6",
-        "title": "AI抢工作时代，硅谷AI大佬如何教育子女？",
-        "summary": "未来，AI 到底会不会抢走我们的工作？前几天，Anthropic 发布的《AI 对劳动力市场的影响：一种新衡量标准与早期证据》中，就提到了 AI 对年轻人就业的冲击。那么，在这样的背景下，硅谷的 AI 大佬们是如何解决对子女教育问题的，他们又是如何看待 AI 时代职业挑战的？近日，《华尔街日报》深度访谈了五位 AI 领域的高管，他们分别来自 Anthropic、微软、SAP、沃顿商学院及 AI 初创公司 Paid.AI，子女们的年龄从 6 个月到 26 岁不等。在 Anthropic 总裁兼联合创始人 Daniela Amodei 看来，共情力、社交能力以及对人类情感的深层理解将成为最核心的竞...",
-        "url": "https://www.mittrchina.com/news/detail/16042",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-08T12:45:50+00:00"
       }
     ],
     "序(month)": [
@@ -313,6 +313,14 @@
         "url": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html",
         "source": "阮一峰的网络日志",
         "published": "2026-02-27T00:07:08+00:00"
+      },
+      {
+        "id": "852680d1f6d7",
+        "title": "[知音分享會]03.09 新正年來《千金》到 《萬項事業》好彩頭",
+        "summary": "知音好友們新年快樂，雖然已經開工上班，但 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e6%96%b0%e6%ad%a3%e5%b9%b4%e4%be%86%e3%80%8a%e5%8d%83%e9%87%91%e3%80%8b%e5%88%b0-%e3%80%8a%e8%90%ac%e9%a0%85%e4%ba%8b%e6%a5%ad%e3%80%8b%e5%a5%bd%e5%bd%a9%e9%a0%ad/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-02-26T01:11:32+00:00"
       },
       {
         "id": "237a28502271",
@@ -409,14 +417,6 @@
         "url": "https://blog.archive.org/2026/02/13/tuning-in-to-college-radio-materials-on-world-radio-day-2026/",
         "source": "Internet Archive Blogs",
         "published": "2026-02-13T12:00:00+00:00"
-      },
-      {
-        "id": "7d1d9b580aee",
-        "title": "離散與重構：從媒體再現看移台港人的情感結構與身分認同",
-        "summary": "口述：陳嘉銘 (前國立政治大學臺灣史研究所客座學者)、撰稿：楊家瑜圖片來源：https://www.pexels.com/zh-tw/photo/3062541/https://medium.com/media/9dec2c3f15d2753ac1e548f3780367e4/href在2019年後的幾年間，香港與台灣之間的人口流動出現了歷史性的轉折。隨著社會政治環境的變遷，許多香港人選擇離開熟悉的家園，踏上移居台灣的旅程，這不僅僅是一次地理上的遷徙，更是一場關於身分、文化與情感的深層重構。本研究的起點，正源於自身的生命經驗，作為一名在2021年底移居台灣的香港學者，不僅是觀察者，更是親歷者。...",
-        "url": "https://medium.com/@ccs.popcom/%E9%9B%A2%E6%95%A3%E8%88%87%E9%87%8D%E6%A7%8B-%E5%BE%9E%E5%AA%92%E9%AB%94%E5%86%8D%E7%8F%BE%E7%9C%8B%E7%A7%BB%E5%8F%B0%E6%B8%AF%E4%BA%BA%E7%9A%84%E6%83%85%E6%84%9F%E7%B5%90%E6%A7%8B%E8%88%87%E8%BA%AB%E5%88%86%E8%AA%8D%E5%90%8C-faeb51ef1e4a?source=rss-17c1c85be06b------2",
-        "source": "Stories by 爆米花傳播學 on Medium",
-        "published": "2026-02-07T01:15:33+00:00"
       }
     ]
   }
