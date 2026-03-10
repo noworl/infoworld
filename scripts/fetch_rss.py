@@ -6,21 +6,6 @@ import feedparser
 from datetime import datetime, timezone
 from pathlib import Path
 
-def fetch_google_trends():
-    """Fetch Google global trending keywords"""
-    trends_url = "https://trends.google.com/trending/rss?geo=US"
-    keywords = []
-    try:
-        print(f"Fetching Google Trends: {trends_url}")
-        feed = feedparser.parse(trends_url)
-        for entry in feed.entries[:20]:  # Top 20 trends
-            title = entry.get("title", "")
-            if title:
-                keywords.append(title.lower())
-    except Exception as e:
-        print(f"Error fetching Google Trends: {e}")
-    return keywords
-
 def load_config():
     with open("data/config.json", "r", encoding="utf-8") as f:
         return json.load(f)
@@ -83,7 +68,6 @@ def fetch_feeds(config):
 def main():
     config = load_config()
     articles = fetch_feeds(config)
-    trending_keywords = fetch_google_trends()
     max_items = config.get("max_items_per_category", 25)
 
     # Group by category
@@ -94,19 +78,29 @@ def main():
             by_category[cat] = []
         by_category[cat].append(article)
 
-    # Sort each category by date and take top N
+    # Sort each category by date, take top N per source, then sort again
+    max_per_source = config.get("max_items_per_source", 10)
     categories_output = {}
     for cat, cat_articles in by_category.items():
-        cat_articles.sort(key=lambda x: x["published"], reverse=True)
-        # Remove category field from each article (no longer needed)
+        # Group by source
+        by_source = {}
         for a in cat_articles:
+            by_source.setdefault(a["source"], []).append(a)
+        # Sort each source by date, take top N
+        result = []
+        for source_articles in by_source.values():
+            source_articles.sort(key=lambda x: x["published"], reverse=True)
+            result.extend(source_articles[:max_per_source])
+        # Sort combined list by date
+        result.sort(key=lambda x: x["published"], reverse=True)
+        # Remove category field
+        for a in result:
             del a["category"]
-        categories_output[cat] = cat_articles[:max_items]
+        categories_output[cat] = result
 
     # Create output
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "trending": trending_keywords,
         "categories": categories_output
     }
 
@@ -117,7 +111,7 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     total = sum(len(v) for v in categories_output.values())
-    print(f"Saved {total} articles + {len(trending_keywords)} trending keywords to data/feed.json")
+    print(f"Saved {total} articles to data/feed.json")
 
 if __name__ == "__main__":
     main()

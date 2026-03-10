@@ -118,6 +118,34 @@
     .article-link:hover {
       text-decoration: underline;
     }
+    .older-articles {
+      margin-top: 10px;
+      padding-top: 8px;
+      border-top: 1px solid #e0e0e0;
+    }
+    .older-label {
+      font-size: 0.75rem;
+      color: #999;
+      display: block;
+      margin-bottom: 4px;
+    }
+    .older-item {
+      padding: 3px 0;
+    }
+    .older-link {
+      color: #555;
+      text-decoration: none;
+      font-size: 0.8rem;
+    }
+    .older-link:hover {
+      color: #0066cc;
+      text-decoration: underline;
+    }
+    .older-time {
+      font-size: 0.72rem;
+      color: #bbb;
+      margin-left: 4px;
+    }
     .empty {
       color: #888;
       padding: 40px;
@@ -291,15 +319,34 @@
         const articles = data.categories[cat] || [];
         const label = CATEGORY_LABELS[cat] || cat;
 
+        // Group by source, preserving order of first appearance
+        const sourceMap = new Map();
+        for (const article of articles) {
+          if (!sourceMap.has(article.source)) sourceMap.set(article.source, []);
+          sourceMap.get(article.source).push(article);
+        }
+
         html += `<div class="column">`;
         html += `<div class="column-header">${label}</div>`;
 
-        if (articles.length === 0) {
+        if (sourceMap.size === 0) {
           html += `<div class="empty">無文章</div>`;
         } else {
-          for (const article of articles) {
+          for (const [, sourceArticles] of sourceMap) {
+            const article = sourceArticles[0];
+            const older = sourceArticles.slice(1);
             const { html: titleHtml, isTrending } = highlightTrending(article.title);
             const titleClass = isTrending ? 'article-title trending-title' : 'article-title';
+
+            let olderHtml = '';
+            if (older.length > 0) {
+              olderHtml = `<div class="older-articles"><span class="older-label">同來源較早：</span>`;
+              for (const old of older) {
+                olderHtml += `<div class="older-item"><a href="${old.url}" target="_blank" rel="noopener" class="older-link">${old.title}</a><span class="older-time">${relativeTime(old.published)}</span></div>`;
+              }
+              olderHtml += `</div>`;
+            }
+
             html += `
               <div class="article">
                 <div class="${titleClass}" data-id="${article.id}">${titleHtml}</div>
@@ -307,6 +354,7 @@
                 <div class="article-detail" id="detail-${article.id}">
                   <div class="article-summary">${article.summary}</div>
                   <a href="${article.url}" target="_blank" rel="noopener" class="article-link">閱讀原文 →</a>
+                  ${olderHtml}
                 </div>
               </div>
             `;

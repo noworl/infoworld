@@ -1,17 +1,5 @@
 {
-  "updated_at": "2026-03-10T02:41:45.960296+00:00",
-  "trending": [
-    "jared mccain",
-    "de'anthony melton",
-    "matt gay",
-    "nick shirley",
-    "leo chenal",
-    "hayden hurst",
-    "kyle filipowski",
-    "kendra wilkinson",
-    "shai gilgeous-alexander",
-    "carlos alcaraz"
-  ],
+  "updated_at": "2026-03-10T03:35:18.422180+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -255,6 +243,966 @@
         "url": "https://cdm.link/move-everything-visually-impaired-guide/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-08T13:14:20+00:00"
+      },
+      {
+        "id": "ca9fe0c45897",
+        "title": "在掀翻地心说之前，伽利略可能曾是它最虔诚的信徒",
+        "summary": "凌晨三点，伊万·马拉拉从佛罗伦萨的酒店床上坐起来，给两位意大利最权威的伽利略研究者发了一封邮件。开头他写道：“请原谅这个不合时宜的时间，但我简直不敢相信自己的眼睛。”几个小时前，这位米兰大学的博士后还在国家中央图书馆里翻阅 16 世纪的旧书。他正在做一项听起来有些枯燥的工作：逐一检查欧洲各图书馆中《至大论》（Almagest）的早期拉丁文印本。《至大论》是公元 2 世纪的天文学家托勒密写的一本著作，它构建了一个地球居于宇宙中心、万物环绕运行的模型，这个模型主宰了西方天文学将近 1,400 年。马拉拉之前已经在维也纳查了一批，现在轮到佛罗伦萨，他面前摆着七本。翻着翻着，他在一张空白页上看到有人抄...",
+        "url": "https://www.mittrchina.com/news/detail/16043",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-08T12:52:51+00:00"
+      },
+      {
+        "id": "fede1b7016d6",
+        "title": "AI抢工作时代，硅谷AI大佬如何教育子女？",
+        "summary": "未来，AI 到底会不会抢走我们的工作？前几天，Anthropic 发布的《AI 对劳动力市场的影响：一种新衡量标准与早期证据》中，就提到了 AI 对年轻人就业的冲击。那么，在这样的背景下，硅谷的 AI 大佬们是如何解决对子女教育问题的，他们又是如何看待 AI 时代职业挑战的？近日，《华尔街日报》深度访谈了五位 AI 领域的高管，他们分别来自 Anthropic、微软、SAP、沃顿商学院及 AI 初创公司 Paid.AI，子女们的年龄从 6 个月到 26 岁不等。在 Anthropic 总裁兼联合创始人 Daniela Amodei 看来，共情力、社交能力以及对人类情感的深层理解将成为最核心的竞...",
+        "url": "https://www.mittrchina.com/news/detail/16042",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-08T12:45:50+00:00"
+      },
+      {
+        "id": "57e4018740fd",
+        "title": "美国团队实现光刻创新，金属有机框架光刻胶有望打造5nm极限硅芯片",
+        "summary": "如果告诉你，你的手机还能再快 10 倍，但代价是得在几十个原子宽的地方刻出电路，你觉得这有可能发生吗？Kayley Waltz 做到了这件事。在美国约翰斯·霍普金斯大学读博时的最后一年，她造出了一种能让芯片继续缩小下去的新材料。所以还没等毕业，全球顶级存储芯片制造商美光科技就直接把她收入麾下。众所周知，摩尔定律指的是每隔两年同样大小的芯片里所能塞进去的晶体管数量会翻一倍。芯片由此变快，手机由此变强，但这件事已经快干到头了。现在的工艺已经做到 10 纳米，也就是大约 60 个硅原子排成一排的宽度。再往下缩到 5 纳米左右，电流就会到处乱窜。Waltz 和导师想了另一条路：换一种材料来做光刻。光刻...",
+        "url": "https://www.mittrchina.com/news/detail/16041",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-08T10:49:24+00:00"
+      },
+      {
+        "id": "71cb7bbfba1b",
+        "title": "Karpathy开源“AI研究员”，630行代码让智能体通宵炼模型，一晚可跑100次实验",
+        "summary": "如果你有一块 NVIDIA GPU，睡前启动一个脚本，第二天早上醒来就能收获一百次 LLM 训练实验的结果，其中一部分还确实比你手动调参调得更好，是不是听起来有些难以置信？但这就是 Andrej Karpathy 今天凌晨开源的新项目 autoresearch 所做的事。项目上线不到几个小时，他在 X（原 Twitter）上的发布帖浏览量突破百万，GitHub 仓库迅速收获超过 2,500 颗星。整个仓库的核心代码只有约 630 行 Python。图丨相关推文（来源：X）autoresearch 做的事情，一句话就能说清：把一个简化过的大语言模型训练环境交给 AI 智能体（AI Agent），...",
+        "url": "https://www.mittrchina.com/news/detail/16039",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-08T10:40:32+00:00"
+      },
+      {
+        "id": "9cd8d12938a0",
+        "title": "外媒揭露，Meta AI＋AR 眼鏡會將用戶私密影片分享海外審核員",
+        "summary": "《瑞典日報》（Svenska Dagbladet）上週五（2/27）發布的一份報導揭露，使用 Meta AI+ [&#8230;]",
+        "url": "https://infosecu.technews.tw/2026/03/08/metas-ai-display-glasses-reportedly-share-intimate-videos-with-human-moderators/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-03-08T05:00:43+00:00"
+      },
+      {
+        "id": "8ebe9105aeeb",
+        "title": "美国监控法律为何跟不上AI的发展？",
+        "summary": "（来源：麻省理工科技评论）近日美国国防部与 AI 公司 Anthropic 之间持续公开的对峙，引出了一个深层而至今悬而未决的问题：法律是否真的允许美国政府对本国公民实施大规模监控？答案出人意料地并不明朗。爱德华·斯诺登（Edward Snowden）揭露美国国家安全局大规模采集美国人手机通话元数据一事已过去十余年，美国社会至今仍在努力弥合普通民众的认知与法律实际允许范围之间的落差。Anthropic 与政府对峙的导火索，是五角大楼希望使用 Anthropic 的 AI Claude 对美国公民的大宗商业数据进行分析。Anthropic 要求其 AI 不得被用于国内大规模监控（也不得用于“自主...",
+        "url": "https://www.mittrchina.com/news/detail/16038",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T15:32:33+00:00"
+      },
+      {
+        "id": "46feaaa84775",
+        "title": "Gemini攻克宇宙弦难题，还自己想到了费曼技巧",
+        "summary": "AI 攻克了理论物理中的开放性问题！近日，谷歌团队开发了一个基于 Gemini Deep Think 模型的混合神经符号系统，成功推导出宇宙弦发射引力辐射功率谱的 6 种全新精确解法。该研究的重要意义在于，AI 不仅加速了科学发现，更重要的是，该系统推导出人类研究者尚未触及的新型闭式结果。图丨相关论文（来源：arXiv）宇宙弦被认为是引力波背景辐射的重要来源之一，它产生于因宇宙早期相变导致的真空对称破缺。这个问题的关键在一个超级难算的积分，它是计算宇宙弦在振荡时辐射出的引力波功率谱，具体来说是一个在球面上的积分 I(N，α)。由于分母在特定点会出现奇点（变为无穷大），因此该积分常会引起数值计算...",
+        "url": "https://www.mittrchina.com/news/detail/16037",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T15:10:54+00:00"
+      },
+      {
+        "id": "bac5c6b66d91",
+        "title": "地球重力在南极凹陷：研究发现冰原下藏着一个存在了7000万年的重力空洞",
+        "summary": "在我们日常的直觉中，重力似乎是地球上最恒定、最可靠的力量。然而，现实却远比直觉奇妙：地球并非一个完美的球体，其重力场就像一颗表面凹凸不平的“土豆”。如果在重力较弱的地方称体重，你甚至会比在重力强的地方轻上几克。目前，从地球动力学的角度来看，地球上最极端的“重力空洞”（Gravity Hole）就潜伏在冰天雪地的南极洲之下。近期，一项发表在《科学报告》（Scientific Reports）上的突破性研究，利用地震波和超级计算机“倒转时间”，首次重现了南极重力异常区在过去 7,000 万年间的演化史。这一发现不仅揭示了地球深部岩石运动的历程，更为我们理解地球内部动力学与地表气候的联动提供了一个令...",
+        "url": "https://www.mittrchina.com/news/detail/16036",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T15:06:01+00:00"
+      },
+      {
+        "id": "cbb18136b8be",
+        "title": "Here are community-led efforts in Lebanon supporting the displaced",
+        "summary": "With an unprecedented minimum of 450,000 people displaced in Lebanon, community-led efforts are again working to provide basic aid. These often overlap with the very music and creative communities I've written about here, in the country and internationally. And they can benefit from your support.\nTh...",
+        "url": "https://cdm.link/community-led-efforts-in-lebanon-supporting-the-displaced/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-07T14:24:13+00:00"
+      },
+      {
+        "id": "f4240f2b534f",
+        "title": "MIT开发可注射“微型肝脏”，不用开刀，直接打针补肝功能",
+        "summary": "终末期肝衰竭是全球范围内的重大健康威胁，目前最有效的治疗方式是肝移植，但长期存在器官短缺、手术风险高、患者耐受性差等难题。近日，来自麻省理工学院的研究团队在 Cell Biomaterials 期刊发表研究成果，他们开发了一种“微型肝脏”，可以将其注射到体内，目标是帮肝衰竭病人临时“加装”一些肝功能，缓解等待换肝的危机，或者作为更温和的治疗方式。在一项针对小鼠的新研究中，这些注射的“微型肝脏”可以在体内保持活性至少两个月，并且能够产生肝脏产生的许多酶和其他蛋白质。“我们对这项技术的愿景是，它既可以作为手术的替代方案，也可以作为移植前的‘桥梁’，在获得捐赠器官之前提供功能支持。”这项研究的第一作...",
+        "url": "https://www.mittrchina.com/news/detail/16035",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T07:56:27+00:00"
+      },
+      {
+        "id": "393d71aacb9f",
+        "title": "国际空间站要退休了，一座太空工厂正在接班，多家公司已下单预定",
+        "summary": "国际空间站（ISS，International Space Station）已经在轨运行超过 25 年。自 2000 年首批长驻乘员入住以来，这座足球场大小的轨道设施承载了超过 4,000 项实验，产出 4,400 多篇研究论文，接待了来自多个国家的 250 多名访客。但它正在变老。俄罗斯舱段的漏气问题悬而未决，舱外航天服故障频发，主体结构承受着长年累月的对接冲击和轨道温差循环带来的疲劳。NASA 的计划是在 2030 年对 ISS 实施受控离轨，由 SpaceX 正在研制的离轨飞行器引导它坠入南太平洋的“航天器墓地”。问题在于，之后怎么办。低地球轨道的微重力环境是地面无法复制的。减少的对流和...",
+        "url": "https://www.mittrchina.com/news/detail/16034",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-07T07:50:07+00:00"
+      },
+      {
+        "id": "62338181ea65",
+        "title": "馬翊航／半島風真透：《忽聞布農踏歌聲》的實／在回音",
+        "summary": "這本書既是明智的文化接觸旅程地圖，也是有心於全民原教者的探索地圖。然若此書，因其種種「地圖」的特徵，被定位為一本「實用」之書的話，那我們如何看待地圖無法「觸及」處？",
+        "url": "https://www.twreporter.org/a/bookreview-echos-of-the-bunun",
+        "source": "報導者",
+        "published": "2026-03-06T16:00:00+00:00"
+      },
+      {
+        "id": "10ba6878f836",
+        "title": "Making music on the TI graphing calculator — and a TI-inspired plug-in synth",
+        "summary": "Time to dust off that TI-82, TI-83, or TI-84. The graphic calculators that a lot of us used in school can become ingenious chip synths and even run trackers. And that translates to a surprisingly powerful graphing calculator-inspired synth -- one that instantly became one of my favorite plug-ins.\nTh...",
+        "url": "https://cdm.link/making-music-on-the-ti-82/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-06T14:42:07+00:00"
+      },
+      {
+        "id": "cfaaacf2a739",
+        "title": "Historic Yosemite Falls sketch that captivated the nation lands at the Library",
+        "summary": "In 1855, when Thomas Ayers published the first images of Yosemite Falls, the rest of the country was enchanted. His sketchwork of the Yosemite Valley predated the famous photographs by Carleton Watkins and the monumental paintings by Albert Bierstadt in the 1860s that would cement the valley’s reput...",
+        "url": "https://blogs.loc.gov/loc/2026/03/historic-yosemite-falls-sketch-that-captivated-the-nation-lands-at-the-library/",
+        "source": "Timeless",
+        "published": "2026-03-06T14:00:54+00:00"
+      },
+      {
+        "id": "df4ce575c2a5",
+        "title": "WhatsApp 串接 ChatGPT 要收費？Meta 高額定價讓第三方 AI 難生存",
+        "summary": "Meta 於週四（2026 年 3 月 5 日）宣布，為了應對歐盟委員會的監管壓力並避免潛在的行政干預，將在未 [&#8230;]",
+        "url": "https://technews.tw/2026/03/06/whatsapp-chatgpt-meta/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-03-06T02:10:31+00:00"
+      },
+      {
+        "id": "af82a00aa3de",
+        "title": "Gil Evans: Making magic with Miles Davis (and many others)",
+        "summary": "The Library recently acquired the collection of jazz legend Gil Evans, an arranger and composer whose work, particularly with Miles Davis, helped reshape the art form in the mid 20th century. This story shows how the pair recorded \"Sketches of Spain,\" their Grammy-winning 1960 album that is still co...",
+        "url": "https://blogs.loc.gov/loc/2026/03/gil-evans-making-magic-with-miles-davis-and-many-others/",
+        "source": "Timeless",
+        "published": "2026-03-05T17:32:47+00:00"
+      },
+      {
+        "id": "442508867b11",
+        "title": "The latest AI news we announced in February",
+        "summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
+        "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+        "source": "Google DeepMind",
+        "published": "2026-03-05T16:30:00+00:00"
+      },
+      {
+        "id": "45e7016a73d0",
+        "title": "從Team Taiwan「聽台灣」：以世界音樂資料庫鑑定台灣棒球音樂DNA",
+        "summary": "「來到棒球場上，我們總是希望自己支持的球隊和別人不同，逐漸發展出各隊特色，接著又希望自己的國家隊和別人不同，所以我們會引用台灣的既有元素，或者從零開始建立台灣的模樣。」",
+        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-cheering-songs-analysis",
+        "source": "報導者",
+        "published": "2026-03-05T16:00:00+00:00"
+      },
+      {
+        "id": "1c1a1f7d483e",
+        "title": "探監、寫信告訴你，鐵窗外香港是什麼模樣⋯⋯2019年後，台灣探監師與港人創作者走過的香港監所陪伴路",
+        "summary": "香港媳婦林明儀自2019年底開始，無償赴監所探視因反送中參與運動被捕的政治犯。朋友因運動入獄的在台港人Franki，將林明儀的觀察及受刑人經歷轉化為劇場語言，這是香港流亡者與在囚者陪伴彼此療傷的故事，也想告訴台灣人，那些發生在香港的事情還沒結束。",
+        "url": "https://www.twreporter.org/a/podcast-2026-03-06",
+        "source": "報導者",
+        "published": "2026-03-05T16:00:00+00:00"
+      },
+      {
+        "id": "5b2ff1903ac2",
+        "title": "美国投资者要求另设“剔除中国”版基金",
+        "summary": "此举旨在不违反美国针对中国科技领域的投资限制，这些领域包括先进半导体、量子计算和人工智能等。美国多个州还出台法律，限制其公共养老金基金投资中资企业。",
+        "url": "https://www.ftchinese.com/story/001109131",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-05T16:00:00+00:00"
+      },
+      {
+        "id": "b18e63303856",
+        "title": "亚洲大型经济体为伊朗事态冲击能源供应做准备",
+        "summary": "由于伊朗战争导致油气供应受阻，能源高度依赖进口的亚洲主要经济体纷纷采取措施确保油气供应。",
+        "url": "https://www.ftchinese.com/story/001109130",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-05T16:00:00+00:00"
+      },
+      {
+        "id": "9138953f6971",
+        "title": "中国为下一个五年制定谨慎的气候目标",
+        "summary": "专家认为，力度略低于上一个五年的碳强度削减目标，在未来五年为总排放量留出了上升空间。中国的做法是把重点放在增加供应和降低成本上，而不是放在强有力、可测量的排放目标上。",
+        "url": "https://www.ftchinese.com/story/001109127",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-05T16:00:00+00:00"
+      },
+      {
+        "id": "cb4d33fe3a2a",
+        "title": "资深参议员：特朗普对伊朗战略没有“第二阶段”计划",
+        "summary": "美国参议院情报委员会的民主党一号人物马克•沃纳暗示，特朗普政府未能在内部简报会上向国会高层说明轰炸伊朗之后的后续打算。",
+        "url": "https://www.ftchinese.com/story/001109123",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-05T16:00:00+00:00"
+      },
+      {
+        "id": "29e0d9b08cb8",
+        "title": "The best way to learn Bitwig Grid, Serum 2 is in Japanese from LOBOTIX",
+        "summary": "LOBOTIX is another reason to have hope in musical imagination. Even without speaking a word of Japanese, these are instantly some of my favorite tutorials. Here, these cover the spectral synthesis modes in Serum 2 and the modular capabilities of Bitwig Grid (and Vital and PhasePlant and more). And t...",
+        "url": "https://cdm.link/the-best-way-to-learn-bitwig-grid-serum-2-is-in-japanese-from-lobotix/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-05T15:59:59+00:00"
+      },
+      {
+        "id": "6af2e55f5357",
+        "title": "Fluxblog 594: classic rap posse cuts b/w Jack Nicholson partying in Miami in 1998",
+        "summary": "Plus new songs by Bebe Rexha, Gena, Yaya Bey, and John Carroll Kirby",
+        "url": "https://fluxblog.substack.com/p/fluxblog-594-classic-rap-posse-cuts",
+        "source": "Fluxblog: Music Blog",
+        "published": "2026-03-05T13:48:48+00:00"
+      },
+      {
+        "id": "08ad9831b32b",
+        "title": "Meta 進軍 AI 硬體市場，計劃 2026 年量產自家定制晶片",
+        "summary": "Meta Platforms Inc. 正在加速其人工智慧（AI）基礎設施的擴展，計劃開發自家定制的晶片，以訓 [&#8230;]",
+        "url": "https://technews.tw/2026/03/05/meta-enters-the-ai-%e2%80%8b%e2%80%8bhardware-market/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-03-05T02:50:56+00:00"
+      },
+      {
+        "id": "baec19f04986",
+        "title": "Common workflow patterns for AI agents—and when to use them",
+        "summary": "Common workflow patterns for AI agents—and when to use them",
+        "url": "https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them",
+        "source": "Claude Blog",
+        "published": "2026-03-05T00:00:00+00:00"
+      },
+      {
+        "id": "0d22361783ae",
+        "title": "The developer of Tweakbench wants to remake the DAW without linear time",
+        "summary": "The Digital Audio Workstation can never quite escape the timeline and its roots in multitrack tape. Tweakbench's new Noemi, which entered alpha last month, starts from scratch. What if music in the DAW could constantly evolve and change? What if the DAW were non-deterministic?\nThe post The developer...",
+        "url": "https://cdm.link/noemi-alpha/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-04T19:23:47+00:00"
+      },
+      {
+        "id": "99523ceab6ed",
+        "title": "Machinefabriek * Meredith Bates",
+        "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
+        "url": "https://www.ambientblog.net/blog/machinefabriek-bates/",
+        "source": "Ambientblog",
+        "published": "2026-03-04T18:49:30+00:00"
+      },
+      {
+        "id": "2c8d978240a3",
+        "title": "跪下來接，更容易「偷好球」？WBC台灣三大捕手解析「單膝蹲捕」革命",
+        "summary": "被球迷封為「心靈捕手」的林家正，球場上示範在MLB掀起浪潮的單膝跪地姿勢，引起不少人好奇。我們採訪林家正、蔣少宏與吉力吉撈・鞏冠（Giljegiljaw Kungkuan），解析從雙腳蹲到跪姿的現代捕手蹲捕革命。",
+        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-one-knee-down-catching-stance",
+        "source": "報導者",
+        "published": "2026-03-04T16:00:00+00:00"
+      },
+      {
+        "id": "b6e8ebb2b70e",
+        "title": "英伟达停止生产H200芯片",
+        "summary": "英伟达已将其在台积电的制造产能进行了重新分配，从生产H200芯片转向生产其下一代芯片Vera Rubin。",
+        "url": "https://www.ftchinese.com/story/001109119",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-04T16:00:00+00:00"
+      },
+      {
+        "id": "a0f8d7aa256d",
+        "title": "中国设定今年GDP增长目标",
+        "summary": "4.5%至5%的目标区间为数十年来最低水平，与去年的目标相比小幅下调，但这一增长计划将因国内外形势而面临严峻挑战。",
+        "url": "https://www.ftchinese.com/story/001109116",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-04T16:00:00+00:00"
+      },
+      {
+        "id": "812f19dfef96",
+        "title": "Soroush Khazaei, audiovisual artist, killed in an airstrike in Tehran",
+        "summary": "People are not numbers, and so among the rising tide of wartime deaths around the world are some familiar faces from our communities. Soroush Khazaei was an audiovisual artist who gave generously to the Iranian scene. He was killed earlier this week in Tehran by US/Israeli airstrikes. \nThe post Soro...",
+        "url": "https://cdm.link/soroush-khazaei-memorial/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-04T12:29:17+00:00"
+      },
+      {
+        "id": "1c2e501eb61b",
+        "title": "馬來西亞外商投資指南",
+        "summary": "馬來西亞外商投資指南 作者：TWL Law Group 2026-03-04 馬來西亞是東南亞地區外國投資的首 [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/03/04/foreign-investment-guidelines_malaysia/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-03-04T11:04:06+00:00"
+      },
+      {
+        "id": "499fea35ceeb",
+        "title": "Meta 年砸 5 千萬美元買授權，可用華爾街日報當 AI 訓練來源",
+        "summary": "Meta 近期與新聞集團（News Corp）簽署一項人工智慧內容授權協議，金額最高可達每年 5,000 萬美 [&#8230;]",
+        "url": "https://technews.tw/2026/03/04/news-corp-meta/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-03-04T04:00:26+00:00"
+      },
+      {
+        "id": "1769837b4240",
+        "title": "Instagram 推新警告功能，青少年搜尋有害內容即時通報父母",
+        "summary": "Meta 旗下 Instagram 近日宣布啟用新功能，當青少年重複搜尋與自殺或自我傷害相關詞彙，有啟用家長監 [&#8230;]",
+        "url": "https://technews.tw/2026/03/04/instagram-to-alert-parents-if-teens-search-for-self-harm-content/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-03-04T03:40:01+00:00"
+      },
+      {
+        "id": "cbe75f6dfb5c",
+        "title": "Meta 推進超智慧計畫，調整 Reality Labs 重心轉向 AI 發展",
+        "summary": "Meta Platforms 於 3 日宣布，將在 Reality Labs 部門內成立新的應用人工智慧工程組 [&#8230;]",
+        "url": "https://technews.tw/2026/03/04/meta-to-create-new-applied-ai-engineering-organization-in-reality-labs-division/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-03-04T03:00:08+00:00"
+      },
+      {
+        "id": "a100946e6a84",
+        "title": "假新聞長怎樣？文大郭文平藉語料庫分析，破譯「假新聞關鍵字」",
+        "summary": "臺灣已經連續10年蟬聯全球「受境外假消息影響」最嚴重國家。針對這現況，中國文化大學傳播學院院長郭文平長年投入相 [&#8230;]\nThe post 假新聞長怎樣？文大郭文平藉語料庫分析，破譯「假新聞關鍵字」 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/win-ping-kuo_a/",
+        "source": "人文．島嶼",
+        "published": "2026-03-04T00:00:28+00:00"
+      },
+      {
+        "id": "c14ea7573a23",
+        "title": "Novation Launch Control finally brings back the smart, little encoder box",
+        "summary": "The best thing about Launch Control XL is that it has faders. The best thing about Launch Control is that it doesn't -- and fits into a small space. It really is that simple, if contradictory, thanks to intelligent features shared between the two.\nThe post Novation Launch Control finally brings back...",
+        "url": "https://cdm.link/launch-control-3/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-03T21:47:00+00:00"
+      },
+      {
+        "id": "e2177322f444",
+        "title": "Michigan Synth Works has an open-source 303 processor and a new kit",
+        "summary": "Call it the Bride of x0xb0x. Michigan Synth Works today teased a new, Arduino-compatible, open-source 303 processor, plus a full DIY kit. They&#8217;re both affordable ways to build your own all-analog, modern TB-303 with current components. And it feels like the early spirit of the open x0xb0x is b...",
+        "url": "https://cdm.link/michigan-synth-works-has-an-open-source-303-processor-and-a-new-kit/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-03T18:34:58+00:00"
+      },
+      {
+        "id": "8eba5d7c2d75",
+        "title": "On 303 Day, acid bassline love abounds, and some freebies, too",
+        "summary": "Roland is fairly quiet on this 303 Day, but in the maelstrom of terrible news, it was a relief to see the Japanese music community out in force. This is what we really strive for: a world where we can just make bassline noises all day. Here are some highlights, and even some free Max for Live love i...",
+        "url": "https://cdm.link/303-day-2026/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-03T17:42:14+00:00"
+      },
+      {
+        "id": "ed07b32904b5",
+        "title": "Create new worlds in Project Genie with these 4 tips",
+        "summary": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe labeled Create your own",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+        "source": "Google DeepMind",
+        "published": "2026-03-03T17:00:00+00:00"
+      },
+      {
+        "id": "4fe7f8fe16d0",
+        "title": "台灣最強棒球之音：球迷喊聲、汽笛、音樂人「國家隊」，台式應援如何譜成？",
+        "summary": "在〈台灣尚勇〉成為全民金曲的當下，我們採訪多位塑造球場聲響的關鍵人物，討論寶島如何在美日韓影響下，從「便當便當」吼唱出Team Taiwan的台式棒球應援之路⋯⋯",
+        "url": "https://www.twreporter.org/a/2026-wbc-team-taiwan-cheering-songs-culture",
+        "source": "報導者",
+        "published": "2026-03-03T16:00:00+00:00"
+      },
+      {
+        "id": "f1b6502633a5",
+        "title": "聊聊台式應援史：戰歌、吞霸歌、台灣尚勇⋯⋯記者最愛哪首？台灣「棒球之音」如何走出獨特風格？",
+        "summary": "2026年世界棒球經典賽開打！賽場上，台灣球迷的「台式應援」屢屢成為國際焦點，也是台灣隊強大的隱形戰力。結合口號、節拍，讓人朗朗上口的應援曲目，到底是怎麼來的？這集一起來認識：台灣、日本與韓國的棒球應援文化有哪些差異？應援曲在球迷心中的魔力為何？",
+        "url": "https://www.twreporter.org/a/podcast-2026-03-04",
+        "source": "報導者",
+        "published": "2026-03-03T16:00:00+00:00"
+      },
+      {
+        "id": "041a2663f70d",
+        "title": "大數據揭開全壘打祕密",
+        "summary": "台灣12強「冠軍之路」，可說是靠著全壘打打下。借助運科儀器設備的檢測，在2026 WBC開打前，《報導者》以科學數據與多媒體呈現，揭開全壘打「揮擊配方」的祕密。",
+        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-home-run",
+        "source": "報導者",
+        "published": "2026-03-03T16:00:00+00:00"
+      },
+      {
+        "id": "a9175bc96068",
+        "title": "買東西不用再切換分頁，Meta 測試新 AI 購物工具要解決使用者痛點",
+        "summary": "Meta Platforms Inc. 正在測試一項名為「購物研究」的人工智慧功能，目標是與 OpenAI 的 [&#8230;]",
+        "url": "https://technews.tw/2026/03/03/meta-tests-ai-shopping-research-tool-to-rival-chatgpt-gemini/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-03-03T03:50:29+00:00"
+      },
+      {
+        "id": "96f23e52cb53",
+        "title": "Improving skill-creator: Test, measure, and refine Agent Skills",
+        "summary": "Improving skill-creator: Test, measure, and refine Agent Skills",
+        "url": "https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills",
+        "source": "Claude Blog",
+        "published": "2026-03-03T00:00:00+00:00"
+      },
+      {
+        "id": "f0f58ad2124f",
+        "title": "Endless joys of the Open Reel Ensemble and reel-to-reel performance",
+        "summary": "Japan's Open Reel Ensemble has been active continuously since 2009, with collaborations from Issei Miyake to Ryuichi Sakamoto. But there's a special magic that some of their most experimental performances -- bows flying over tape -- are what has earned a fresh wave of attention. \nThe post Endless jo...",
+        "url": "https://cdm.link/open-reel-ensemble-and-reel-to-reel-performance/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-02T20:53:13+00:00"
+      },
+      {
+        "id": "95893d33dde8",
+        "title": "川普和以色列的伊朗戰爭：斬首哈米尼之後，伊朗的政權更迭之亂與外溢的中東危機",
+        "summary": "近日美國聯合以色列對伊朗發起「史詩怒火行動」，首波斬首攻擊炸死伊朗最高領袖哈米尼，和數十名層峰級別領導人，引發政權繼承混亂。伊朗迅速向周邊國家反擊，則進一步使戰火蔓延，政經局勢陷入難以預料的危機之中⋯⋯",
+        "url": "https://www.twreporter.org/a/hello-world-2026-03-03",
+        "source": "報導者",
+        "published": "2026-03-02T16:00:00+00:00"
+      },
+      {
+        "id": "a2015e86ee51",
+        "title": "科技巨頭長約撐腰，Vistra 規劃核電延壽至 2050~2060 年代",
+        "summary": "根據 WNN 報導，美國電力公司 Vistra 宣布，已與 Amazon Web Services（AWS）與 [&#8230;]",
+        "url": "https://technews.tw/2026/03/02/vistra-nuclear-extend/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-03-02T03:08:16+00:00"
+      },
+      {
+        "id": "b523b391813e",
+        "title": "March 2026 Chart",
+        "summary": "1. Neba Solo &#38; Benego Diakité · A Djinn and a Hunter Went Walking · Nonesuch [2] 2. Canzoniere Grecanico Salentino · Il Mito · Ponderosa Music [1] 3. Stelios Petrakis · Lyric / Lyrikon · Buda Musique [11] 4. Altın Gün · Garip · Glitterbeat [-] 5. Catrin Finch · Notes to Self · [&#8230;]",
+        "url": "https://www.transglobalwmc.com/charts/march-2026-chart/",
+        "source": "Transglobal World Music Chart",
+        "published": "2026-02-28T23:06:44+00:00"
+      },
+      {
+        "id": "a992f8790179",
+        "title": "Andreas Voelk & Scott Monteith * Deadbeat",
+        "summary": "ANDREAS VOELK &amp; SCOTT MONTEITH - AND ALL THE CLOCKS RAN DRY\n\n\nUntil now I never heard of Andreas Voelk (from Berlin) or from his bands Das Ende Der Liebe and Center For Mind And Brain. Canadian Scott Monteith, on the other hand, is of course well known from his Deadbeat alias.\n\n\nAnd All The Cloc...",
+        "url": "https://www.ambientblog.net/blog/voelkmonteith-deadbeat/",
+        "source": "Ambientblog",
+        "published": "2026-02-28T18:12:33+00:00"
+      },
+      {
+        "id": "41fd99be8d4e",
+        "title": "[東南亞週報314] 越印加入川普加薩「和平理事會」、星2025年生育率再創新低、柬總理誓剷除網路詐騙集團",
+        "summary": "[東南亞週報314] 越印加入川普加薩「和平理事會」、星2025年生育率再創新低、柬總理誓剷除網路詐騙集團 南 [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/03/01/aseanweekly314/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-02-28T16:37:07+00:00"
+      },
+      {
+        "id": "4c37d603d929",
+        "title": "Fluxpod Radio February 2026",
+        "summary": "This is your subscriber premium!",
+        "url": "https://fluxblog.substack.com/p/fluxpod-radio-february-2026",
+        "source": "Fluxblog: Music Blog",
+        "published": "2026-02-28T13:06:06+00:00"
+      },
+      {
+        "id": "325acb7a8990",
+        "title": "Fluxblog 593: 60s R&B in 80s Pop / GRUNGE",
+        "summary": "Plus new songs by Fred Again.., A Thousand Mad Things, and Wet Leg/The Dare",
+        "url": "https://fluxblog.substack.com/p/fluxblog-593-60s-r-and-b-in-80s-pop",
+        "source": "Fluxblog: Music Blog",
+        "published": "2026-02-27T14:39:16+00:00"
+      },
+      {
+        "id": "667f9674d88d",
+        "title": "Lost 19th century film by Méliès discovered at the Library",
+        "summary": "Library conservators recently made a startling discovery in a batch of decaying film reels -- a long-lost 1897 film by early cinema icon George Méliès. The French magician-turned-filmmaker's \"Gugusse and the Automaton,” the first appearance of a robot on screen, has long been sought after by sci-fi ...",
+        "url": "https://blogs.loc.gov/loc/2026/02/lost-19th-century-film-by-melies-discovered-at-the-library/",
+        "source": "Timeless",
+        "published": "2026-02-26T17:20:43+00:00"
+      },
+      {
+        "id": "614ff3837329",
+        "title": "Black History Month: Tracing your ancestors to before the Civil War",
+        "summary": "When one of the Library's research librarians specializing in genealogical research dug into her family's past, she discovered her great-great-grandmother's first name, a mystery that had stumped the family for decades. Such quandries often pop up for Black families tracing their ancestors back to t...",
+        "url": "https://blogs.loc.gov/loc/2026/02/black-history-month-tracing-your-ancestors-to-before-the-civil-war/",
+        "source": "Timeless",
+        "published": "2026-02-25T19:13:08+00:00"
+      },
+      {
+        "id": "35157cad5e45",
+        "title": "Ask a Techspert: What’s a world model?",
+        "summary": "Animation showing various bubbles with characters navigating different environments, like a trekker walking up a snowy mountain and a bird flying through a jungle.",
+        "url": "https://blog.google/company-news/inside-google/googlers/ask-a-techspert/what-is-a-world-model-project-genie/",
+        "source": "Google DeepMind",
+        "published": "2026-02-25T17:00:00+00:00"
+      },
+      {
+        "id": "2206e368a318",
+        "title": "Meta 再次踏足穩定幣市場！傳下半年推掛鉤美元的數位代幣",
+        "summary": "Meta Platforms 預定下半年重新進入穩定幣市場，這是四年前 Libra / Diem 專案終止後的 [&#8230;]",
+        "url": "https://technews.tw/2026/02/25/meta-eyes-stablecoin-integration-by-second-half-2026/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-25T08:25:08+00:00"
+      },
+      {
+        "id": "5438c19d3535",
+        "title": "「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史",
+        "summary": "政大文學院院長陳秀芬從學生時期就對中醫充滿興趣，儘管沒走向懸壺濟世之路，卻成為中國古代醫療史的重要學者。 拍攝 [&#8230;]\nThe post 「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/hsiu-fen-chen_a/",
+        "source": "人文．島嶼",
+        "published": "2026-02-25T00:00:36+00:00"
+      },
+      {
+        "id": "bb14f4af5f85",
+        "title": "外國人如何在泰國投資？",
+        "summary": "外國人如何在泰國投資？ 作者：TWL Law Group 2026-02-24 規範泰國外國直接投資（Fore [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/02/24/foreigners-investment-in-thailand/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-02-24T14:21:25+00:00"
+      },
+      {
+        "id": "7994157c2df3",
+        "title": "AMD、Meta 達成千億美元 AI 協議！將部署高達 6 吉瓦 AMD GPU",
+        "summary": "Meta 已同意向 AMD 購買 6 吉瓦（Gigawatts，簡稱 GW）的人工智慧運算能力，交易總價值超過 [&#8230;]",
+        "url": "https://technews.tw/2026/02/24/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-02-24T12:32:39+00:00"
+      },
+      {
+        "id": "89e262591ce7",
+        "title": "Cowork and plugins for teams across the enterprise",
+        "summary": "Cowork and plugins for teams across the enterprise",
+        "url": "https://claude.com/blog/cowork-plugins-across-enterprise",
+        "source": "Claude Blog",
+        "published": "2026-02-24T00:00:00+00:00"
+      },
+      {
+        "id": "5d10f430faa8",
+        "title": "Cowork and plugins for finance",
+        "summary": "Cowork and plugins for finance",
+        "url": "https://claude.com/blog/cowork-plugins-finance",
+        "source": "Claude Blog",
+        "published": "2026-02-24T00:00:00+00:00"
+      },
+      {
+        "id": "efbfa794b124",
+        "title": "Isobel Waller-Bridge * Bolton / Cordero",
+        "summary": "ISOBEL WALLER-BRIDGE - OBJECTS\n\n\nHer name may ring a distant bell: Isobel Waller-Bridge is the sister of Phoebe Waller-Bridge, who you may remember from the Fleabag series. Isobel composed the music for Fleabag, as well as many other scores for film, television, theatre and ballet. \n\n\nBut apart from...",
+        "url": "https://www.ambientblog.net/blog/wallerbridge-boltoncordero/",
+        "source": "Ambientblog",
+        "published": "2026-02-23T18:31:37+00:00"
+      },
+      {
+        "id": "f7bbc255b764",
+        "title": "How AI helps break the cost barrier to COBOL modernization",
+        "summary": "How AI helps break the cost barrier to COBOL modernization",
+        "url": "https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization",
+        "source": "Claude Blog",
+        "published": "2026-02-23T00:00:00+00:00"
+      },
+      {
+        "id": "99e07d7f99d3",
+        "title": "Fluxblog 592: synth-centric new wave bops",
+        "summary": "Plus new songs by Arlo Parks, Labrinth, and Ari Lennox",
+        "url": "https://fluxblog.substack.com/p/fluxblog-592-synth-centric-new-wave",
+        "source": "Fluxblog: Music Blog",
+        "published": "2026-02-20T14:33:58+00:00"
+      },
+      {
+        "id": "a25be2573a64",
+        "title": "The Library and “The Sound of Music” hit the road",
+        "summary": "-This is a guest post by Deb Fiscella, a public affairs specialist in the Office of Communications.  The Library and a national touring company are offering theatergoers a peek behind the curtain at the origins of one of Broadway’s most cherished musicals: &#8220;The Sound of Music.&#8221; In a firs...",
+        "url": "https://blogs.loc.gov/loc/2026/02/the-library-and-the-sound-of-music-hit-the-road/",
+        "source": "Timeless",
+        "published": "2026-02-20T14:00:24+00:00"
+      },
+      {
+        "id": "ebacab927cbd",
+        "title": "Bringing automated preview, review, and merge to Claude Code on desktop",
+        "summary": "Bringing automated preview, review, and merge to Claude Code on desktop",
+        "url": "https://claude.com/blog/preview-review-and-merge-with-claude-code",
+        "source": "Claude Blog",
+        "published": "2026-02-20T00:00:00+00:00"
+      },
+      {
+        "id": "9b120dd01b07",
+        "title": "Clara Brea & Menhir * Kult Masek & Petr Vrba",
+        "summary": "CLARA BREA &amp; MENHIR - GROWING FORESTS IN THE CITY\n\n\nIn 2022, the Astral Industries label released The Wetland Remixes - a collaboration project of Son Of Chi (Hanyo van Oosterom, from Holland) and Spanish artist Clara Brea. The original stems of the 'Wetland Project' were remixed by Son Of Chi a...",
+        "url": "https://www.ambientblog.net/blog/cbreamenhir-kultmasek-vrba/",
+        "source": "Ambientblog",
+        "published": "2026-02-18T19:37:40+00:00"
+      },
+      {
+        "id": "96600418c60e",
+        "title": "Increase web search accuracy and efficiency with dynamic filtering",
+        "summary": "Increase web search accuracy and efficiency with dynamic filtering",
+        "url": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
+        "source": "Claude Blog",
+        "published": "2026-02-17T00:00:00+00:00"
+      },
+      {
+        "id": "ff683468e067",
+        "title": "Fluxblog 591: 14 aesthetics, 14 playlists",
+        "summary": "Playlists covering electroclash, trip hop, Britpop, New Jack Swing, synthpop, early metal, hip-hop, mid-century jazz, and more!",
+        "url": "https://fluxblog.substack.com/p/fluxblog-591-14-aesthetics-14-playlists",
+        "source": "Fluxblog: Music Blog",
+        "published": "2026-02-16T22:33:49+00:00"
+      },
+      {
+        "id": "ef32c95a5829",
+        "title": "[東南亞週報313] 泰大選結果出爐泰自豪黨壓倒性勝利、越與歐盟升級「全面戰略夥伴關係」、星2027年起調高EP與SP准證薪資門檻",
+        "summary": "[東南亞週報313] 泰大選結果出爐泰自豪黨壓倒性勝利、越與歐盟升級「全面戰略夥伴關係」、星2027年起調高E [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/02/17/aseanweekly313/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-02-16T18:43:40+00:00"
+      },
+      {
+        "id": "afbc3f5ca2dd",
+        "title": "Eaton & Fullen * Volume Settings Folder",
+        "summary": "EATON &amp; FULLEN - BUTTERFLY COMPOUND\n\n\nFrank Eaton and Kevin Fullen are founders of the Noise New York recording studio - \"hotbed of the No Wave Movement\". The instrumental, psychedelic and ambient soundscapes they present as the Eaton/Fullen duo is not what I remember from that particular 70's s...",
+        "url": "https://www.ambientblog.net/blog/eaton-fullen-volume-settings-folder/",
+        "source": "Ambientblog",
+        "published": "2026-02-13T16:08:11+00:00"
+      },
+      {
+        "id": "a4f98437c9bc",
+        "title": "Picturing War: Soldiers’ photography finds a home in the Veterans History Project",
+        "summary": "In honor of the Veterans History Project's 25th anniversary, we’re highlighting photographs and stories from six compelling collections that offer personal and visual perspectives on military service across more than a century of conflicts, from World War I through the war in Iraq.",
+        "url": "https://blogs.loc.gov/loc/2026/02/picturing-war-soldiers-photography-finds-a-home-in-the-veterans-history-project/",
+        "source": "Timeless",
+        "published": "2026-02-13T15:14:45+00:00"
+      },
+      {
+        "id": "f7649753be54",
+        "title": "Fluxblog 590: 24th anniversary!",
+        "summary": "Plus a late 90s hip-hop influenced alt rock playlist, and new songs by Ora Cogan, Holy F--k, and Ford.",
+        "url": "https://fluxblog.substack.com/p/fluxblog-590-24th-anniversary",
+        "source": "Fluxblog: Music Blog",
+        "published": "2026-02-13T14:51:06+00:00"
+      },
+      {
+        "id": "e795181f01f6",
+        "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+        "summary": "Gemini 3 Deep Think logo",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+        "source": "Google DeepMind",
+        "published": "2026-02-12T16:13:00+00:00"
+      },
+      {
+        "id": "e7fc78fd970f",
+        "title": "Claude Enterprise, now available self-serve",
+        "summary": "Claude Enterprise, now available self-serve",
+        "url": "https://claude.com/blog/self-serve-enterprise",
+        "source": "Claude Blog",
+        "published": "2026-02-12T00:00:00+00:00"
+      },
+      {
+        "id": "b43c04bae50d",
+        "title": "以病為師：中央蔡淳娟與「虛擬病人」翻轉醫學教育",
+        "summary": "全文朗讀 &#160; &#160; 「一個醫生看 100 位病人，就像 100 個人輪流來考你：『猜猜我是什 [&#8230;]\nThe post 以病為師：中央蔡淳娟與「虛擬病人」翻轉醫學教育 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/tsuenchiuantsai_a/",
+        "source": "人文．島嶼",
+        "published": "2026-02-11T03:15:54+00:00"
+      },
+      {
+        "id": "41560c08324b",
+        "title": "The thing about that dog in “The Thing,” now in the National Film Registry",
+        "summary": "John Carpenter's \"The Thing,\" the classic 1982 sci-fi/horror film, was voted by fans into the 2025 National Film Registry. One of the film's surprise stars was Jed, the part wolf/part dog who plays a key role in the movie's plot. Richard Masur, who played Jed's handler in the movie, recalls the joy ...",
+        "url": "https://blogs.loc.gov/loc/2026/02/the-thing-about-that-dog-in-the-thing-now-in-the-national-film-registry/",
+        "source": "Timeless",
+        "published": "2026-02-10T16:40:15+00:00"
+      },
+      {
+        "id": "eba1b811ace4",
+        "title": "Behind the model launch: What customers discovered testing Claude Opus 4.6 early",
+        "summary": "Behind the model launch: What customers discovered testing Claude Opus 4.6 early",
+        "url": "https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early",
+        "source": "Claude Blog",
+        "published": "2026-02-09T00:00:00+00:00"
+      },
+      {
+        "id": "969b0336887e",
+        "title": "DreamScenes – February 2026",
+        "summary": "For Want Of Spring\n\n\n\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:26 Andrew Heath - The Zener ConventionShades, 2026, Whitelabrecs\n\n\n07:42 Jannis Anastasakis - Dr. KelvinSolaris, 2026, Room40\n\n\n11:25 Félicia Atkinson &amp; Christina Vantzou - Film Still / The SeaReflections Vol. 3: Wate...",
+        "url": "https://www.ambientblog.net/blog/dreamscenes-february-2026/",
+        "source": "Ambientblog",
+        "published": "2026-02-08T18:55:00+00:00"
+      },
+      {
+        "id": "99ecca87de82",
+        "title": "Fluxblog 589: 💖Y2K Pop 4ever💗",
+        "summary": "Plus new music by Memorials, Lime Garden, and PVA",
+        "url": "https://fluxblog.substack.com/p/fluxblog-589-y2k-pop-4ever",
+        "source": "Fluxblog: Music Blog",
+        "published": "2026-02-06T17:45:49+00:00"
+      },
+      {
+        "id": "ed200f9df9bb",
+        "title": "Researching “Code Girls” at the Library",
+        "summary": "Liza Mundy, author of the bestselling \"Code Girls: The Untold Story of the American Women Code Breakers of World War II,\" researched the bestselling 2017 book at the Library's Veterans History Project. She drew on the military service records of thousands of women who served in the war but whose wor...",
+        "url": "https://blogs.loc.gov/loc/2026/02/researching-code-girls-at-the-library/",
+        "source": "Timeless",
+        "published": "2026-02-06T13:35:32+00:00"
+      },
+      {
+        "id": "f3c73f9a532f",
+        "title": "越南外資投資行業禁令與限制指南",
+        "summary": "越南外資投資行業禁令與限制指南 作者：TWL Law Group 2026-02-05 外國直接投資（FDI） [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/02/06/vietnam-fdi-guidlines/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-02-05T20:13:21+00:00"
+      },
+      {
+        "id": "1eabfc9fe70e",
+        "title": "The latest AI news we announced in January",
+        "summary": "mp4 showing a carousel of images including a card reading \"Help that's made for you\"",
+        "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+        "source": "Google DeepMind",
+        "published": "2026-02-04T16:55:00+00:00"
+      },
+      {
+        "id": "8e9adde52743",
+        "title": "美女、帥哥、美食、美景比較好看嗎？北教大林志明揭穿照片和影像背後的攝影哲學",
+        "summary": "我們每天滑手機、拍照、錄影、上傳限時動態，可能沒想過，這些動作背後，其實有一段「如何將影像留住」的科技史。 一 [&#8230;]\nThe post 美女、帥哥、美食、美景比較好看嗎？北教大林志明揭穿照片和影像背後的攝影哲學 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/linzhiming_a/",
+        "source": "人文．島嶼",
+        "published": "2026-02-04T02:06:21+00:00"
+      },
+      {
+        "id": "a62083ac5aed",
+        "title": "How Amy Heckerling’s Babysitter Helped Create “Clueless,” Now in the National Film Registry",
+        "summary": "Amy Heckering's 1995 comedy, \"Clueless,\" was one of the defining films of decade and was just inducted into the National Film Registry. But even as the director of another generational favorite from the 1980s, \"Fast Times at Ridgemont High,\" Heckerling didn't see it coming while writing and working ...",
+        "url": "https://blogs.loc.gov/loc/2026/02/how-amy-heckerlings-babysitter-helped-create-clueless-now-in-the-national-film-registry/",
+        "source": "Timeless",
+        "published": "2026-02-03T14:11:53+00:00"
+      },
+      {
+        "id": "12f40143f5b2",
+        "title": "Advancing AI benchmarking with Game Arena",
+        "summary": "An illustration of a King and Ace playing card, a wolf's head, two chess pieces, a poker chip, and other abstract shapes on a white background.1",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+        "source": "Google DeepMind",
+        "published": "2026-02-02T17:00:00+00:00"
+      },
+      {
+        "id": "edac18c510de",
+        "title": "Rafael Anton Irisarri * Joachim Spieth",
+        "summary": "RAFAEL ANTON IRISARRI - POINTS OF INACCESSIBILITY\n\n\nThe new album by Rafael Anton Irisarri is planned for release on February 6, 2026. But it's already on pre-order, so this means the limited (bio-)vinyl edition is still available for those who prefer physical editions. And that's a welcome change f...",
+        "url": "https://www.ambientblog.net/blog/irisarri-spieth/",
+        "source": "Ambientblog",
+        "published": "2026-02-01T14:23:38+00:00"
+      },
+      {
+        "id": "f8895d75c66f",
+        "title": "February 2026 Chart",
+        "summary": "1. Canzoniere Grecanico Salentino · Il Mito · Ponderosa Music [-] 2. Neba Solo &#38; Benego Diakité · A Djinn and a Hunter Went Walking · Nonesuch [-] 3. Nusantara Beat · Nusantara Beat · Glitterbeat [1] 4. Noura Mint Seymali · Yenbett · Glitterbeat [2] 5. Syran Mbenza · Rumba Africa · Hysa Producti...",
+        "url": "https://www.transglobalwmc.com/charts/february-2026-chart/",
+        "source": "Transglobal World Music Chart",
+        "published": "2026-01-31T22:42:46+00:00"
+      },
+      {
+        "id": "07cefabb79e8",
+        "title": "[東南亞週報312] 緬大選親軍方政黨大勝UN籲拒認選舉合法性、越共14大登場蘇林連任總書記、泰選前民調呈「三叉戟」態勢三大政黨激烈拉鋸",
+        "summary": "[東南亞週報312] 緬大選親軍方政黨大勝UN籲拒認選舉合法性、越共14大登場蘇林連任總書記、泰選前民調呈「三 [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/02/01/aseanweekly312/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-01-31T17:21:20+00:00"
+      },
+      {
+        "id": "8a71d88beaa7",
+        "title": "“The Grand Budapest Hotel,” Researched at the Library",
+        "summary": "Wes Anderson's touching 2014 film, \"The Grand Budapest Hotel,\" joins the National Film Registry this year. Anderson and his team used the Library's vast collection of hand-tinted European photographs from before World War I to help create the titular hotel's distinctive look.",
+        "url": "https://blogs.loc.gov/loc/2026/01/how-the-grand-budapest-hotel-was-researched-at-the-library/",
+        "source": "Timeless",
+        "published": "2026-01-30T13:30:41+00:00"
+      },
+      {
+        "id": "109d9b318af1",
+        "title": "Fluxblog 588: 🥶winter music🥶",
+        "summary": "Plus new songs by Baby Nova, Girly, and Jaymin",
+        "url": "https://fluxblog.substack.com/p/fluxblog-588-winter-music",
+        "source": "Fluxblog: Music Blog",
+        "published": "2026-01-30T02:05:50+00:00"
+      },
+      {
+        "id": "01db31c0f930",
+        "title": "Project Genie: Experimenting with infinite, interactive worlds",
+        "summary": "Text reads Introducing Project Genie",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+        "source": "Google DeepMind",
+        "published": "2026-01-29T17:00:00+00:00"
+      },
+      {
+        "id": "3cd6e7bc61f5",
+        "title": "Hear more about interactive world models in our latest podcast.",
+        "summary": "Project Genie: Create and explore worlds",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/release-notes-podcast-project-genie/",
+        "source": "Google DeepMind",
+        "published": "2026-01-29T15:00:00+00:00"
+      },
+      {
+        "id": "f82c9b385796",
+        "title": "Fluxpod Radio January 2026",
+        "summary": "This is your subscriber premium!",
+        "url": "https://fluxblog.substack.com/p/fluxpod-radio-january-2026",
+        "source": "Fluxblog: Music Blog",
+        "published": "2026-01-29T03:50:45+00:00"
+      },
+      {
+        "id": "f6ae03d3f313",
+        "title": "官方網站也要「入境隨俗」？台大彭志宏談跨國企業的網頁本土化",
+        "summary": "全文朗讀： &#160; 國立臺灣大學資訊管理學系暨研究所副教授彭志宏指出，官網就像品牌的「自我介紹」，面對不 [&#8230;]\nThe post 官方網站也要「入境隨俗」？台大彭志宏談跨國企業的網頁本土化 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/chih-hung-peng_a/",
+        "source": "人文．島嶼",
+        "published": "2026-01-28T00:00:41+00:00"
+      },
+      {
+        "id": "5c29f7c09ca7",
+        "title": "In our latest podcast, hear how the “Smoke Jumpers” team brings Gemini to billions of people.",
+        "summary": "Bringing Gemini to billions of users requires a massive, coordinated infrastructure effort. In the latest episode of the Google AI: Release Notes podcast, host Logan Kil…",
+        "url": "https://blog.google/products-and-platforms/products/gemini/release-notes-podcast-smokejumpers/",
+        "source": "Google DeepMind",
+        "published": "2026-01-27T10:28:00+00:00"
+      },
+      {
+        "id": "178c06f67976",
+        "title": "How animators and AI researchers made ‘Dear Upstairs Neighbors’",
+        "summary": "A movie poster for a film titled “Dear Upstairs Neighbors”, hand-painted in a vivid expressionist style, featuring an exasperated cartoon woman clutching her ears, surrounded by neon-colored images of noisy things like howling dogs and stomping shoes",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/dear-upstairs-neighbors/",
+        "source": "Google DeepMind",
+        "published": "2026-01-26T18:00:00+00:00"
+      },
+      {
+        "id": "90e359a7a584",
+        "title": "Fluxblog 587: underground party music of the 70s",
+        "summary": "Plus new songs by A$AP Rocky + Doechii, Flea + Thom Yorke, and Kim Gordon.",
+        "url": "https://fluxblog.substack.com/p/fluxblog-587-underground-party-music",
+        "source": "Fluxblog: Music Blog",
+        "published": "2026-01-21T21:07:25+00:00"
+      },
+      {
+        "id": "e6c4b4e48c34",
+        "title": "[東南亞週報311] 美暫停75國移民簽證審理泰柬在內等東南亞多國入列、越2025年經濟成長率8.02%為15年來第二高、星反對黨領袖偽證罪定罪國會表決通過撤銷職務",
+        "summary": "[東南亞週報311] 美暫停75國移民簽證審理泰柬在內等東南亞多國入列、越2025年經濟成長率8.02%為15 [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/01/21/aseanweekly311/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-01-21T07:18:53+00:00"
+      },
+      {
+        "id": "2374f09f6b2e",
+        "title": "「我不是病人，卻快撐不住了」——北護大陳正芬想終結的「照顧悲劇」",
+        "summary": "全文朗讀 &#160; &#160; 「每當發生輕生案件，報導下方一定會附上防自殺專線1925。但若是照顧殺人 [&#8230;]\nThe post 「我不是病人，卻快撐不住了」——北護大陳正芬想終結的「照顧悲劇」 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/chenfenchen_a/",
+        "source": "人文．島嶼",
+        "published": "2026-01-21T02:00:37+00:00"
+      },
+      {
+        "id": "5993fe8995c7",
+        "title": "4th Transglobal World Music Festival Awards 2025: Best Festival & Top 10 Awardees",
+        "summary": "As part of its goal to increase the appreciation of the music from the cultures of the world, as a tool for the development of people in many areas of life, as well as for joy and pleasure, the Transglobal World Music Chart launched at the end of 2017 a Festival Awards. These festivals have [&#8230;...",
+        "url": "https://www.transglobalwmc.com/festival-awards/4th-transglobal-world-music-festival-awards-2025-best-festival-top-10-awardees/",
+        "source": "Transglobal World Music Chart",
+        "published": "2026-01-20T12:21:15+00:00"
+      },
+      {
+        "id": "2e14cd91a894",
+        "title": "在印尼成立有限責任公司，投資人該注意什麼？",
+        "summary": "在印尼成立有限責任公司，投資人該注意什麼？ 作者：TWL Law Group 2026-01-20 印尼龐大的 [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/01/20/indonesia-investment-updates/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-01-20T00:19:33+00:00"
+      },
+      {
+        "id": "b9bb499b432e",
+        "title": "緬甸法規遵循重要更新：緬政府加速木姐—曼德勒鐵路建設、多家公司因註冊地址無效而被列入黑名單、新監管機構成立打擊網路詐騙與賭博",
+        "summary": "緬甸法規遵循重要更新：緬政府加速木姐—曼德勒鐵路、多家公司因註冊地址無效而被列入黑名單、新監管機構成立打擊網路 [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/01/15/myanmar-legal-updates-20260115/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-01-15T07:29:27+00:00"
+      },
+      {
+        "id": "9d8b4b98cc4f",
+        "title": "買買買！中研院巫仁恕從竊盜紀錄和口供，發現明清時代時尚消費的購買清單",
+        "summary": "全文朗讀 &#160; 一卷卷塵封的檔案，幾行竊盜的口供，能告訴我們什麼？ 中央研究院近代史研究所研究員巫仁恕 [&#8230;]\nThe post 買買買！中研院巫仁恕從竊盜紀錄和口供，發現明清時代時尚消費的購買清單 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/wurenshu_a/",
+        "source": "人文．島嶼",
+        "published": "2026-01-14T02:17:18+00:00"
+      },
+      {
+        "id": "8caedc5e1449",
+        "title": "DreamScenes – January 2026",
+        "summary": "The night tremors, so it begs the dawn\n\n\n\n&nbsp; \n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:45 Max Richter - Of Earth And HeavenHamnet OST, 2025, Decca\n\n\n08:03 Hannes Kretzer - Event HorizonO, 2025, self-released\n\n\n14:22 Christina Vantzou, John Also Bennett and Oliver Coates - Death, ...",
+        "url": "https://www.ambientblog.net/blog/dreamscenes-january-2026/",
+        "source": "Ambientblog",
+        "published": "2026-01-11T18:50:00+00:00"
+      },
+      {
+        "id": "0e77cdae9a32",
+        "title": "400 Lonely Things",
+        "summary": "&nbsp;\n\n400 LONELY THINGS - CREATURE COMFORTS / WHY I WENT TO THE WOODS\n\n\nMaybe I should start with a warning: these two releases (2 x 2CD) present no less than 5 hours (+ 9 minutes) of soundscapes that may be experienced as rather heavy psychedelic trips. This is not an \"average\" project in any way...",
+        "url": "https://www.ambientblog.net/blog/400-lonely-things/",
+        "source": "Ambientblog",
+        "published": "2026-01-07T10:31:44+00:00"
+      },
+      {
+        "id": "39bb22ee2c62",
+        "title": "到底是民主？還是民粹？臺北大學劉嘉薇從網路大數據，分析民粹主義是否在臺灣崛起？",
+        "summary": "全文朗讀： &#160; 民粹主義者常掛在嘴邊的一句話是：「只有我們才代表真正的人民。」他們擅長將社會一刀切開 [&#8230;]\nThe post 到底是民主？還是民粹？臺北大學劉嘉薇從網路大數據，分析民粹主義是否在臺灣崛起？ appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/liujiawei_a/",
+        "source": "人文．島嶼",
+        "published": "2026-01-07T02:30:56+00:00"
+      },
+      {
+        "id": "a5666ecf57e1",
+        "title": "[東南亞週報310] 緬甸全國大選首輪投票跨年前登場投票率52.13%、印尼與美國達成關稅協議預計1月簽署、泰柬邊境再度停火東協介入監督",
+        "summary": "[東南亞週報310] 緬甸全國大選首輪投票跨年前登場投票率52.13%、印尼與美國達成關稅協議預計1月簽署、泰 [&#8230;]",
+        "url": "https://aseanplusjournal.com/2026/01/05/aseanweekly310/",
+        "source": "ASEAN PLUS 南洋誌",
+        "published": "2026-01-05T14:22:11+00:00"
+      },
+      {
+        "id": "27505df6345e",
+        "title": "January 2026 Chart",
+        "summary": "1. Nusantara Beat · Nusantara Beat · Glitterbeat [3] 2. Noura Mint Seymali · Yenbett · Glitterbeat [1] 3. Antibalas · Hourglass · Daptone [7] 4. Syran Mbenza · Rumba Africa · Hysa Productions [8] 5. Radio Tarifa · La Noche · Buda Musique [2] 6. Amadou &#38; Mariam · L&#8217;Amour à la Folie · [&#823...",
+        "url": "https://www.transglobalwmc.com/charts/january-2026-chart/",
+        "source": "Transglobal World Music Chart",
+        "published": "2025-12-31T11:12:18+00:00"
+      },
+      {
+        "id": "6e72815886cf",
+        "title": "在大自然行走。捕捉。反觀　中研院文哲所李育霖談「生態文學」",
+        "summary": "全文朗讀： &#160; 中研院文哲所李育霖教授近年將研究的範圍擴及生態與環境議題，探索文學家如何以各自獨特的 [&#8230;]\nThe post 在大自然行走。捕捉。反觀　中研院文哲所李育霖談「生態文學」 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/yu-lin-lee_01/",
+        "source": "人文．島嶼",
+        "published": "2025-12-31T00:00:04+00:00"
+      },
+      {
+        "id": "2413372289c7",
+        "title": "「碳排怪獸」在哪裡？成大林珮珺尋找海面上的隱形碳排",
+        "summary": "全文朗讀 &#160; &#160; 「少開車、多走路」、「自備環保杯」、「吃在地、用在地」⋯⋯。 我們的日常 [&#8230;]\nThe post 「碳排怪獸」在哪裡？成大林珮珺尋找海面上的隱形碳排 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/peichunlin_a/",
+        "source": "人文．島嶼",
+        "published": "2025-12-24T02:00:18+00:00"
+      },
+      {
+        "id": "71c8a6e4772a",
+        "title": "December 2025 Chart",
+        "summary": "1. Noura Mint Seymali · Yenbett · Glitterbeat [-] 2. Radio Tarifa · La Noche · Buda Musique [1] 3. Nusantara Beat · Nusantara Beat · Glitterbeat [-] 4. Cheikh Lô · Maame · World Circuit [2] 5. Guitari Baro · Guitari Baro · Chrysalis Global [3] 6. Divanhana · Radio Sevdah · CPL-Music / [&#8230;]",
+        "url": "https://www.transglobalwmc.com/charts/december-2025-chart/",
+        "source": "Transglobal World Music Chart",
+        "published": "2025-11-30T22:53:09+00:00"
+      },
+      {
+        "id": "6f69069eaac4",
+        "title": "November 2025 Chart",
+        "summary": "1. Radio Tarifa · La Noche · Buda Musique [4] 2. Cheikh Lô · Maame · World Circuit [1] 3. Guitari Baro · Guitari Baro · Chrysalis Global [9] 4. Saha Gnawa · Saha Gnawa · Pique-Nique Recordings [6] 5. Cerys Hafana · Angel · Tak:til / Glitterbeat [14] 6. Africa Express · Africa Express [&#8230;]",
+        "url": "https://www.transglobalwmc.com/charts/november-2025-chart/",
+        "source": "Transglobal World Music Chart",
+        "published": "2025-10-31T23:02:46+00:00"
+      },
+      {
+        "id": "d7b2b427a63b",
+        "title": "October 2025 Chart",
+        "summary": "1. Cheikh Lô · Maame · World Circuit [-] 2. Hawa &#38; Kassé Mady Diabaté · Toumaro · One World [1] 3. Africa Express · Africa Express Presents… Bahidorá · World Circuit [4] 4. Radio Tarifa · La Noche · Buda Musique [-] 5. The Good Ones · Rwanda Sings with Strings · Glitterbeat [15] [&#8230;]",
+        "url": "https://www.transglobalwmc.com/charts/october-2025-chart/",
+        "source": "Transglobal World Music Chart",
+        "published": "2025-09-30T21:59:03+00:00"
+      },
+      {
+        "id": "5e218e87fce3",
+        "title": "We are 10 years old!",
+        "summary": "It was 10 years ago, in 2015, when we launched the Transglobal World Music Chart. This global initiative immediately became a reference in the world music scene, for fans and musicians, and other professionals. After much reflection and many conversations between the founders and other colleagues, w...",
+        "url": "https://www.transglobalwmc.com/news/we-are-10-years-old/",
+        "source": "Transglobal World Music Chart",
+        "published": "2025-09-26T13:02:44+00:00"
+      },
+      {
+        "id": "9614228ff2d8",
+        "title": "Best of the 2024 – 2025 season",
+        "summary": "BEST ALBUM Buzz&#8217; Ayaz · Buzz&#8217; Ayaz · Glitterbeat BEST LABEL Glitterbeat Records BEST OF NORTH AFRICA &#38; MIDDLE EAST Buzz&#8217; Ayaz · Buzz&#8217; Ayaz · Glitterbeat BEST OF SUB-SAHARAN AFRICA Trio Da Kali · Bagola · One World BEST OF ASIA (CENTRAL &#38; EAST) &#38; PACIFIC Nusrat Fat...",
+        "url": "https://www.transglobalwmc.com/charts/best-of-the-2024-2025-season/",
+        "source": "Transglobal World Music Chart",
+        "published": "2025-09-15T14:37:57+00:00"
+      },
+      {
+        "id": "33eb7b879515",
+        "title": "September 2025 Chart",
+        "summary": "1. Hawa &#38; Kassé Mady Diabaté · Toumaro · One World [2] 2. Mustafa Said &#38; Asil Ensemble · Maqam Pilgrims · Mapamundi Música [1] 3. Mahotella Queens · Buya Buya: Come Back · Umsakazo [11] 4. Africa Express · Africa Express Presents… Bahidorá · World Circuit [-] 5. Constantinople, Kiya Tabassia...",
+        "url": "https://www.transglobalwmc.com/charts/september-2025-chart/",
+        "source": "Transglobal World Music Chart",
+        "published": "2025-08-31T21:54:07+00:00"
       }
     ],
     "序(month)": [
@@ -289,6 +1237,14 @@
         "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2577451?af=R",
         "source": "tandf: Journal of Mathematics and Music: Table of Contents",
         "published": "2026-03-05T06:38:07+00:00"
+      },
+      {
+        "id": "250178c94bdc",
+        "title": "Summary of changes for February 2026",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of February.\n\n\n\n  Wiki, updated knots with a figure-eight follow-through knot, also, Pino has a new headsail!\n  Pavol, created a volume control tool.\n  Adelie, made it so images are drawn faster.\n  Turye, ad...",
+        "url": "https://100r.ca/site/log.html#feb2026",
+        "source": "Hundred Rabbits",
+        "published": "2026-03-01T07:00:00+00:00"
       },
       {
         "id": "d9cf598951e9",
@@ -417,6 +1373,910 @@
         "url": "https://blog.archive.org/2026/02/13/tuning-in-to-college-radio-materials-on-world-radio-day-2026/",
         "source": "Internet Archive Blogs",
         "published": "2026-02-13T12:00:00+00:00"
+      },
+      {
+        "id": "7d1d9b580aee",
+        "title": "離散與重構：從媒體再現看移台港人的情感結構與身分認同",
+        "summary": "口述：陳嘉銘 (前國立政治大學臺灣史研究所客座學者)、撰稿：楊家瑜圖片來源：https://www.pexels.com/zh-tw/photo/3062541/https://medium.com/media/9dec2c3f15d2753ac1e548f3780367e4/href在2019年後的幾年間，香港與台灣之間的人口流動出現了歷史性的轉折。隨著社會政治環境的變遷，許多香港人選擇離開熟悉的家園，踏上移居台灣的旅程，這不僅僅是一次地理上的遷徙，更是一場關於身分、文化與情感的深層重構。本研究的起點，正源於自身的生命經驗，作為一名在2021年底移居台灣的香港學者，不僅是觀察者，更是親歷者。...",
+        "url": "https://medium.com/@ccs.popcom/%E9%9B%A2%E6%95%A3%E8%88%87%E9%87%8D%E6%A7%8B-%E5%BE%9E%E5%AA%92%E9%AB%94%E5%86%8D%E7%8F%BE%E7%9C%8B%E7%A7%BB%E5%8F%B0%E6%B8%AF%E4%BA%BA%E7%9A%84%E6%83%85%E6%84%9F%E7%B5%90%E6%A7%8B%E8%88%87%E8%BA%AB%E5%88%86%E8%AA%8D%E5%90%8C-faeb51ef1e4a?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2026-02-07T01:15:33+00:00"
+      },
+      {
+        "id": "a162e40e81c3",
+        "title": "Internet Archive and Partners Select Local Newsrooms from Across the US to Participate in the Today’s News for Tomorrow Program",
+        "summary": "Internet Archive, Poynter Institute, and Investigative Reporters and Editors (IRE) are pleased to announce the first cohort of newsrooms to join the Today’s News for Tomorrow program. With support from [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/06/internet-archive-and-partners-select-local-newsrooms-from-across-the-us-to-participate-in-the-todays-news-for-tomorrow-program/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-06T14:48:51+00:00"
+      },
+      {
+        "id": "d00aec536ee5",
+        "title": "Performance in Dialogue: Exploring Emirati and Polynesian Traditions through Al Harbiya and Haka",
+        "summary": "Last month, Andrew Eisenberg moderated Performance in Dialogue: Harbiya and Haka, an intercultural encounter connecting Emirati and Polynesian performance traditions. Bringing Al Harbiya together with Haka, the session combined performance [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/06/performance-in-dialogue-exploring-emirati-and-polynesian-traditions-through-al-harbiya-and-haka/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-02-06T12:45:23+00:00"
+      },
+      {
+        "id": "7928aa6b3a9b",
+        "title": "‘Depths of Wikipedia’ Creator Annie Rauwerda on ‘Fragile’ Internet Citations",
+        "summary": "Annie Rauwerda can’t remember a world without Wikipedia. Born in 1999, just two years before the platform launched, she says it has been omnipresent in her life and a source [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/05/depths-of-wikipedia-creator-annie-rauwerda-on-fragile-internet-citations/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-05T12:00:00+00:00"
+      },
+      {
+        "id": "d304818cc48b",
+        "title": "Mathematical spheres, an interview with Tom Johnson",
+        "summary": "Volume 20, Issue 1, March 2026.",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2539359?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2026-02-05T10:37:10+00:00"
+      },
+      {
+        "id": "b74af14f3341",
+        "title": "What Ultimately Is There?<br> Metaphysics and the Ruliad",
+        "summary": "The Wolfram Institute recently received a grant from the Templeton World Charity Foundation for “Computational Metaphysics”. I wrote this piece in part as a launching point for discussions with experts in traditional philosophy. Moving Metaphysics from Philosophy to Science “What ultimately is there...",
+        "url": "https://writings.stephenwolfram.com/2026/02/what-ultimately-is-there-metaphysics-and-the-ruliad/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2026-02-04T20:24:57+00:00"
+      },
+      {
+        "id": "8cd1759ac8fe",
+        "title": "Low end theory",
+        "summary": "How do you create a bassline? This question is not just for bass players. It’s for producers and songwriters, who are likely to be programming their own bass parts in their DAW. Keyboard players can do basslines in their left hand; guitarists do them with their thumbs. And even if you never create o...",
+        "url": "https://www.ethanhein.com/wp/2026/low-end-theory/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-02-04T13:44:23+00:00"
+      },
+      {
+        "id": "025e79956521",
+        "title": "Preserving the Open Web: Inside the New Wayback Machine Plugin for WordPress",
+        "summary": "Link rot. There’s nothing quite as frustrating as clicking on a link that leads to nowhere. WordPress, which powers more than 40% of websites online, recently partnered with the Internet [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/04/inside-the-new-wayback-machine-plugin-for-wordpress/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-04T12:00:00+00:00"
+      },
+      {
+        "id": "a97844aed9b7",
+        "title": "Recording Now Available from “Protect Our Future Memory” Webinar",
+        "summary": "Last week, Internet Archive welcomed more than 150 attendees to the webinar, “Protect Our Future Memory: Join the Call for Library Digital Rights.” Held on January 27, the event brought [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/04/recording-now-available-from-protect-our-future-memory-webinar/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-04T05:09:18+00:00"
+      },
+      {
+        "id": "1eb94e9b195a",
+        "title": "I’m in this Adam Neely video about AI",
+        "summary": "I make a couple of brief appearances in Adam Neely&#8217;s latest video about generative AI music. Neither of us think it’s a good idea.",
+        "url": "https://www.ethanhein.com/wp/2026/im-in-this-adam-neely-video-about-ai/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-02-02T21:52:16+00:00"
+      },
+      {
+        "id": "d9f5ffde1e07",
+        "title": "Follow the Changes: 9 Ways Web Archives are Used in Digital Investigations",
+        "summary": "Guest post from Thais Lobo, Liliana Bounegru &#38; Jonathan W. Y. Gray, King&#8217;s College London. This work was supported by the Centre for Digital Culture and Department of Digital Humanities [&#8230;]",
+        "url": "https://blog.archive.org/2026/02/02/follow-the-changes/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-02-02T16:49:01+00:00"
+      },
+      {
+        "id": "ab6ef84e7329",
+        "title": "民音探戈系列第55輯：巴勃羅·瓦萊六重奏啟動日本巡演",
+        "summary": "民音探戈系列再度登場，推出其第55輯「巴勃羅·瓦萊六重奏：探戈史詩」，正式展開日本巡演。 這支樂團由阿根廷鋼琴 [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14681/%e6%b0%91%e9%9f%b3%e6%8e%a2%e6%88%88%e7%b3%bb%e5%88%97%e7%ac%ac55%e8%bc%af%ef%bc%9a%e5%b7%b4%e5%8b%83%e7%be%85%c2%b7%e7%93%a6%e8%90%8a%e5%85%ad%e9%87%8d%e5%a5%8f%e5%95%9f%e5%8b%95%e6%97%a5%e6%9c%ac/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-02-02T08:30:14+00:00"
+      },
+      {
+        "id": "4b37c3fda55f",
+        "title": "Summary of changes for January 2026",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of January.\n\n\n\n  Uxn, we released a new SDL2 emulator called uxn2 to replace the ol' uxnemu!\n  Wiki, updated moisture prevention underliner, chainplates(with new photos and measurements), and sewing.\n  Punk ...",
+        "url": "https://100r.ca/site/log.html#jan2026",
+        "source": "Hundred Rabbits",
+        "published": "2026-01-31T07:00:00+00:00"
+      },
+      {
+        "id": "eed4ee2be99a",
+        "title": "P vs. NP and the Difficulty of Computation: A Ruliological Approach",
+        "summary": "Empirical Theoretical Computer Science “Could there be a faster program for that?” It’s a fundamental type of question in theoretical computer science. But except in special cases, such a question has proved fiendishly difficult to answer. And, for example, in half a century, almost no progress has ...",
+        "url": "https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2026-01-30T19:26:48+00:00"
+      },
+      {
+        "id": "3752ead9da29",
+        "title": "2025 in numbers",
+        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2347",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T16:19:39+00:00"
+      },
+      {
+        "id": "d32f0a5eed31",
+        "title": "Freesound Day video recordings available online",
+        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2352",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T11:10:55+00:00"
+      },
+      {
+        "id": "61649d92d6e6",
+        "title": "[知音分享會]02.11 在春節前找到幸福！《一女兩聘》最終回",
+        "summary": "年關將近，不知道各位知音朋友是正忙著採辦 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e5%9c%a8%e6%98%a5%e7%af%80%e5%89%8d%e6%89%be%e5%88%b0%e5%b9%b8%e7%a6%8f%ef%bc%81%e3%80%8a%e4%b8%80%e5%a5%b3%e5%85%a9%e8%81%98%e3%80%8b%e6%9c%80%e7%b5%82%e5%9b%9e/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-01-30T05:41:48+00:00"
+      },
+      {
+        "id": "0fca959db4fd",
+        "title": "葡萄牙駐日大使訪問民音文化中心",
+        "summary": "2026年1月29日，葡萄牙駐日本特命全權大使 Gilberto Jerónimo 閣下蒞臨民音文化中心，受到 [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14693/%e8%91%a1%e8%90%84%e7%89%99%e9%a7%90%e6%97%a5%e5%a4%a7%e4%bd%bf%e8%a8%aa%e5%95%8f%e6%b0%91%e9%9f%b3%e6%96%87%e5%8c%96%e4%b8%ad%e5%bf%83/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-01-29T09:27:37+00:00"
+      },
+      {
+        "id": "d3b00a3f761b",
+        "title": "Tom Johnson and a rational theory of harmony",
+        "summary": "Volume 20, Issue 1, March 2026.",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2591899?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2026-01-29T07:06:01+00:00"
+      },
+      {
+        "id": "78e005b85aae",
+        "title": "Min-On Music Journey No. 102: Republic of Mozambique",
+        "summary": "Welcome to Min-On’s Music Journey! Today we invite you  [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14668/min-on-music-journey-no-102-republic-of-mozambique/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-01-28T07:27:40+00:00"
+      },
+      {
+        "id": "fac659800cf0",
+        "title": "Two-chord shuttles on the pod",
+        "summary": "After talking about them in aural skills class, I figured it was time to do an episode about them. This one includes some compositional ideas of my own in addition to all the examples from the pop canon. The two-chord shuttle by Dr. Ethan Hein A foundational building block of funk Read on Substack",
+        "url": "https://www.ethanhein.com/wp/2026/two-chord-shuttles-on-the-pod/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-01-27T23:43:21+00:00"
+      },
+      {
+        "id": "5d02bb6e01f2",
+        "title": "I love when my songwriting students drop albums",
+        "summary": "A student in my Song Factory class at the New School a couple of years ago has just released his first album. His style is outside my usual listening tastes, but I admire how personal and specific his tracks are: the found sounds, the synth bleeps, the noisy analog tape recording, the layered vocals...",
+        "url": "https://www.ethanhein.com/wp/2026/i-love-when-my-songwriting-students-drop-albums/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-01-23T15:30:10+00:00"
+      },
+      {
+        "id": "b73a7503aaf3",
+        "title": "Satisfaction",
+        "summary": "I am normally resistant to writing about this kind of overexposed Boomer anthem, but it occurred to me that it would be an interesting tune to analyze on the first day of pop aural skills class, because it’s both simple and harmonically interesting. For background on the song and on the Stones gener...",
+        "url": "https://www.ethanhein.com/wp/2026/satisfaction/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-01-23T13:17:25+00:00"
+      },
+      {
+        "id": "27352cbda0c6",
+        "title": "2025年12月全國校園音樂會巡演",
+        "summary": "2025年12月，民音於日本各地舉辦了五場校園音樂會，共計吸引逾兩千名學童參與。 不少學童透過這些校園音樂會， [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14635/2025%e5%b9%b412%e6%9c%88%e5%85%a8%e5%9c%8b%e6%a0%a1%e5%9c%92%e9%9f%b3%e6%a8%82%e6%9c%83%e5%b7%a1%e6%bc%94/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-01-16T06:41:12+00:00"
+      },
+      {
+        "id": "8f74ed474021",
+        "title": "遊戲與動漫的轉生術 — — 跨媒介改編中的認知基模",
+        "summary": "遊戲與動漫的轉生術 — — 跨媒介改編中的認知基模本集來賓/李政忠（中正大學傳播學系副教授）製作/吳思嬋 楊家瑜https://medium.com/media/3ac6c27738f5ef2070e89767f5ebdf82/href（圖片來源：https://www.pexels.com/zh-tw/photo/31166720/）從漫畫轉為動畫 觀眾期待落差在當代豐富的文化娛樂版圖中，將一個故事從一種媒介形式轉換到另一種形式（例如：漫畫改編為動畫、小說改編為影視、電玩改編為電影）已成為一種常見且重要的創作趨勢。這種「跨媒介敘事」（Transmedia Storytelling）不僅是商業...",
+        "url": "https://medium.com/@ccs.popcom/%E9%81%8A%E6%88%B2%E8%88%87%E5%8B%95%E6%BC%AB%E7%9A%84%E8%BD%89%E7%94%9F%E8%A1%93-%E8%B7%A8%E5%AA%92%E4%BB%8B%E6%94%B9%E7%B7%A8%E4%B8%AD%E7%9A%84%E8%AA%8D%E7%9F%A5%E5%9F%BA%E6%A8%A1-d49dc69e9cca?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2026-01-15T01:00:21+00:00"
+      },
+      {
+        "id": "bbc135245144",
+        "title": "What Is Ruliology?",
+        "summary": "Ruliology is taking off! And more and more people are talking about it. But what is ruliology? Since I invented the term, I decided I should write something to explain it. But then I realized: I actually already wrote something back in 2021 when I first invented the term. What I wrote back then was ...",
+        "url": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2026-01-12T23:05:20+00:00"
+      },
+      {
+        "id": "7ad461a41813",
+        "title": "Software Renderer for TUS Plugins",
+        "summary": "Beginning with the 2.1.0 versions of our plugins, we have implemented and provided a built-in CPU-based &#8220;software&#8221; rendering option for our RmlUI rendering engine that can be used in lieu of OpenGL compatible graphics hardware. In fact, it is automatically used in the case that no such O...",
+        "url": "https://dsp56300.wordpress.com/2026/01/05/software-renderer-for-tus-plugins/",
+        "source": "The Usual Suspects",
+        "published": "2026-01-05T18:08:26+00:00"
+      },
+      {
+        "id": "7c34e92268b0",
+        "title": "臺灣音聲一百年大更新！",
+        "summary": "賀更新、長尾巴！ 要變身為「臺灣音聲一百 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e8%87%ba%e7%81%a3%e9%9f%b3%e8%81%b2%e4%b8%80%e7%99%be%e5%b9%b4%e5%a4%a7%e6%9b%b4%e6%96%b0%ef%bc%81/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-01-05T06:35:48+00:00"
+      },
+      {
+        "id": "38b145d04cc8",
+        "title": "誰逼得張文父母下跪道歉？— 當新聞媒體成了「追殺者」，無冕王良心何在？",
+        "summary": "文/W（現任電視新聞主播）(圖片由AI生成)「大家好，我們是張文的爸爸跟媽媽，張文所犯下的滔天大禍，對於社會造成嚴重的損害，以及對受害人及其家屬造成無法彌補的傷害和痛苦，我們想在此向大家說：對不起！對不起！」接連說出多次對不起，北市隨機攻擊事件兇嫌-張文的父親，拿出預先擬好的紙條，在數十家的新聞媒體面前，宣讀道歉內容，接著鞠躬、下跪，公開道歉。身為電視台主播，在鏡頭前播到這條新聞，一字一句都無比揪心，看著現場傳回來的畫面，眼淚不爭氣地掉了下來。究竟是誰逼得他們下跪，是受害者家屬？是社會輿論？還是新聞媒體？此刻的我，彷彿成了共犯⋯⋯當張文父母於台北殯儀館下跪道歉之後，包括公廣集團在內的好幾家電視...",
+        "url": "https://medium.com/@ccs.popcom/%E8%AA%B0%E9%80%BC%E5%BE%97%E5%BC%B5%E6%96%87%E7%88%B6%E6%AF%8D%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89-3e57ee734431?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2025-12-30T14:05:40+00:00"
+      },
+      {
+        "id": "74fe1019b22c",
+        "title": "北捷隨機殺人事件之報導倫理",
+        "summary": "文／羅慧雯（世新大學傳播管理學系助理教授）（圖片來源：https://www.pexels.com/zh-tw/photo/15920138/）10天前，台北車站與誠品南西店發生震驚社會的隨機殺人事件，加害者張文不僅放置煙幕彈企圖製造混亂，還持刀隨機攻擊路人，造成嚴重死傷。事件發生後，各家媒體即迅速報導並持續更新，至今仍每天都有新消息。從路人持手機拍攝的犯案狀況、沿路監視器畫面所串成的時間軸、現場目擊者心猶餘悸的受訪，到加害者的成長背景、職業、網路足跡、網購物品……幾乎無所不包。這些報導固然大部分基於「事實」，但即使資訊屬實，媒體是否就可以毫無節制地報導一切？本文從兩個新聞報導的基本原則出發：...",
+        "url": "https://medium.com/@ccs.popcom/%E5%8C%97%E6%8D%B7%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6%E4%B9%8B%E5%A0%B1%E5%B0%8E%E5%80%AB%E7%90%86-62627d467471?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2025-12-30T00:49:21+00:00"
+      },
+      {
+        "id": "b5621e21c540",
+        "title": "[知音分享會]01.14  訂婚鬧雙包？《一女兩聘》知音分享會",
+        "summary": "天底下哪有這種事！夫婦兩人感情不睦，居然 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e8%a8%82%e5%a9%9a%e9%ac%a7%e9%9b%99%e5%8c%85%ef%bc%9f%e3%80%8a%e4%b8%80%e5%a5%b3%e5%85%a9%e8%81%98%e3%80%8b%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%83/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-12-29T06:41:42+00:00"
+      },
+      {
+        "id": "1f1184a28740",
+        "title": "第十届网络社会年会｜James Steinhoff：提示工程与（非）决定论的政治经济学",
+        "summary": "文 / 詹姆斯·斯坦霍夫（James Steinhoff）翻译/ 李易扬校对/ 仝昭祥&#160; 感谢主办方，感谢幕后工作的同学们，谢谢他们的付出。 首先，我的背景是媒介理论、媒介研究，尤其是媒介的政治经济学。因此这场讲座会在清晨给大家来一点媒介理论，也来一点政治经济学，希望这能让人精神一振。需要说明的是，这不是一场基于我既有论文或研究的报告；而是我根据“提示”（prompt）而创作的讲稿。像一个表现良好的大语言模型（Large Language Model）一样，我生成了一份关于“提示”的提示。我认为，现在正是讨论人工智能政治经济学的及时节点。 尽管技术取得了显著的进展，在全球范围内，史无...",
+        "url": "https://www.caa-ins.org/archives/13344",
+        "source": "网络社会研究所",
+        "published": "2025-12-29T02:08:16+00:00"
+      },
+      {
+        "id": "88dc91e0ea29",
+        "title": "第十届网络社会年会｜Felix Stalder：数字文化、生成式人工智能与艺术",
+        "summary": "文 / 费利克斯·斯塔尔德（Felix Stalder）翻译/ 谢俊义&#160;&#160;校对/ 王婧洁 抱歉，版面安排上若有不便，还请见谅。我直到最后一刻仍在尝试根据屏幕尺寸进行调整，但对此仍有些生疏。感谢主持人的介绍，也感谢黄教授召集此次会议。能在此发言，我深感荣幸与喜悦。我的发言将主要从西方视角，具体而言是德语区及英语学界的欧洲视角。稍后讨论环节，我们可以共同探讨这一视角在本地语境中的适用程度，以及其中存在的根本差异。 让我简要概述一下我所讨论的内容。首先，非常简短地说，当我谈论数字文化和生成式AI时，我所说的‘文化’是什么意思？其次，我认为我们目前正处于数字文化两个阶段之间的过渡期...",
+        "url": "https://www.caa-ins.org/archives/13268",
+        "source": "网络社会研究所",
+        "published": "2025-12-28T14:46:48+00:00"
+      },
+      {
+        "id": "ba236280d96f",
+        "title": "Glory Gospel Singers日本巡演完美落幕",
+        "summary": "2025年11月23日至12月18日期間，來自紐約的知名福音合唱團Glory Gospel Singers在日 [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14642/glory-gospel-singers%e6%97%a5%e6%9c%ac%e5%b7%a1%e6%bc%94%e5%ae%8c%e7%be%8e%e8%90%bd%e5%b9%95/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2025-12-23T07:33:45+00:00"
+      },
+      {
+        "id": "5fb9d9aee29c",
+        "title": "Preserving the sound of San Fermín in Pamplona/Iruña",
+        "summary": "This year, Freesound celebrates its 20th anniversary, and Intangible Heritage has been chosen as the main theme of the celebration. Intangible heritage encompasses the ephemeral and immaterial elements that shape our world, whether rooted in human culture, natural environments, or &#8230; Continue r...",
+        "url": "https://blog.freesound.org/?p=2329",
+        "source": "The Freesound Blog",
+        "published": "2025-12-22T09:23:20+00:00"
+      },
+      {
+        "id": "7abdb22dfb2b",
+        "title": "媒介形式之爭：談Netflix、WBD與Paramount Skydance的所有權交易",
+        "summary": "文／張時健（中正大學傳播學系助理教授）（圖片來源：https://www.pexels.com/zh-tw/photo/29942709/）資本在不同的媒介形式間游走聯合最近美國影視產據稱將有變革發生，若成真將可能標誌了電影作為影音製作頂點的時代結束：全球串流影音業龍頭Netflix出價逾八百億美元收購好萊塢的百年片廠華納兄弟（Warner Bros）及其持有的探索頻道（Discovery）（合稱WBD），主要瞄準其經年累積的影視片庫資產及智慧財產IP（intellectual property），以及同為串流影音重要品牌HBO / HBO Max。值得注意的是，WBD旗下的電視業務，包括知名...",
+        "url": "https://medium.com/@ccs.popcom/%E5%AA%92%E4%BB%8B%E5%BD%A2%E5%BC%8F%E4%B9%8B%E7%88%AD-%E8%AB%87netflix-wbd%E8%88%87paramount-skydance%E7%9A%84%E6%89%80%E6%9C%89%E6%AC%8A%E4%BA%A4%E6%98%93-b8ba67048be0?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2025-12-19T16:14:20+00:00"
+      },
+      {
+        "id": "2c60f86765e4",
+        "title": "第十届网络社会年会｜Jack Stilgoe：让人工智能回归现实",
+        "summary": "文 / 杰克·斯蒂尔戈（Jack Stilgoe）翻译/ 曾梦蕊 &#160;&#160;校对/ 叶云鹤 感谢研究所的邀请，今天真是精彩的一天，我最享受的正是这种让我感到力不从心的跨学科对话，很荣幸成为今天在场“最无趣的人”。我的工作主要与科学家、政策制定者共同探讨如何在新技术的早期阶段做出决策。这是我目前在英国参与的一项大型研究计划，旨在将计算机科学家与各界人才汇集一堂，共同探索创造力的新形式与合作的新模式，期望借此在人工智能及周边领域取得更好的成果。我并非纯粹的AI研究者，我的研究方向是新兴技术，曾参与制定地球工程、纳米技术等相关政策，最近主要研究自动驾驶汽车领域。 不过，今天我要探讨的是...",
+        "url": "https://www.caa-ins.org/archives/13197",
+        "source": "网络社会研究所",
+        "published": "2025-12-19T03:33:56+00:00"
+      },
+      {
+        "id": "f6088c3bb0c9",
+        "title": "第十届网络社会年会｜Nick Montfort：编码、点击、提示：生产艺术的方式",
+        "summary": "文 / 尼克·蒙特福特（Nick Montfort）翻译/ 李易扬   校对/ 卢睿洋、任柄霖 大家好，谢谢大家来到这里，也谢谢研究所邀请我参加第十届网络社会年会。今天我演讲的主题是，人们过去和现在使用电脑创作艺术的不同方式。我会将生成式人工智能的使用置于历史脉络中讨论，从我作为写作者的视角出发，主要探讨对基于大语言模型的系统的提示创作，同时也会也涉及扩散模型，和其他用于视觉艺术创作的模型。 人们过去如何使用电脑来生产艺术？这个问题可以从不同角度来剖析，让我们从“界面”这一要点切入：艺术是通过打孔卡、纸带来创作的吗？它是在交互中被完成的吗？ 可能性有很多，但我想用这个五分法来谈。首先，是针对特...",
+        "url": "https://www.caa-ins.org/archives/13125",
+        "source": "网络社会研究所",
+        "published": "2025-12-15T10:41:19+00:00"
+      },
+      {
+        "id": "200fbaf2bc7e",
+        "title": "第十届网络社会年会｜Scott Moore、Bogna Konior：机器决策并非最终：质疑“静默的编辑者”",
+        "summary": "文 / 斯科特·摩尔（Scott Moore）、 博格娜·科尼尔（Bogna Konior）翻译/ 李梦书 &#160;&#160;校对/ 仝昭祥 Scott Moore：首先，我想请您谈谈对这个词汇、这个概念的理解。当我们说“静默编辑”（quite editor）时，究竟在讨论什么？从历史上看，编辑在人与文本之间起到中介作用，他们在相对稳定的信息生态中调节作者与读者的关系，比如在线写作、媒体和影像格式，还有抖音（TikTok）这类平台，它们是具体化抽象内容的合成载体。但我想从你的视角探讨的是，这些算法调节的编辑——它们决定我们实际看到什么、以什么方式看到——与我们阅读一本书或用传统离线媒介相...",
+        "url": "https://www.caa-ins.org/archives/13111",
+        "source": "网络社会研究所",
+        "published": "2025-12-14T13:50:58+00:00"
+      },
+      {
+        "id": "dc659676cbf8",
+        "title": "Congratulations, Dr. Juan Sierra!",
+        "summary": "We are delighted to share that MaSC researcher Juan Sierra has successfully defended his doctoral dissertation, “Constant-Q Spectral Processing,” in Music Technology at NYU Steinhardt. 🎉 Juan was the first [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/12/13/congratulations-dr-juan-sierra/",
+        "source": "Music and Sound Cultures",
+        "published": "2025-12-13T09:03:52+00:00"
+      },
+      {
+        "id": "eac3f4d68fa3",
+        "title": "民音音樂博物館  歲末新年假期休館公告（2025年12月22日－2026年1月5日）",
+        "summary": "值此歲末之際，敬請留意本中心各場館之如下休館安排： 民音音樂博物館（東京新宿） 2025年12月22日（週一） [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14617/%e6%b0%91%e9%9f%b3%e9%9f%b3%e6%a8%82%e5%8d%9a%e7%89%a9%e9%a4%a8-%e6%ad%b2%e6%9c%ab%e6%96%b0%e5%b9%b4%e5%81%87%e6%9c%9f%e4%bc%91%e9%a4%a8%e5%85%ac%e5%91%8a%ef%bc%882025%e5%b9%b412%e6%9c%8822%e6%97%a5/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2025-12-12T08:07:13+00:00"
+      },
+      {
+        "id": "0dcfbb82e271",
+        "title": "Min-On Music Journey No. 101: Republic of Kenya",
+        "summary": "Welcome to Min-On&#8217;s Music Journey! Today we&#8217 [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14609/min-on-music-journey-no-101-republic-of-kenya/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2025-12-12T05:27:21+00:00"
+      },
+      {
+        "id": "87a3eb89c093",
+        "title": "第十届网络社会年会｜Joana Moll：内在的界面",
+        "summary": "文 / 乔安娜·莫尔（Joana Moll）翻译/ /赵佳菁 &#160;&#160;校对/ 朱韵 我想谈谈我这些年来一直在研究的一个课题。在过去的两三年里，我深入地探讨了数字媒体如何促成公民社会的日益军事化。我一直从身体的角度来处理这个问题，围绕主题进行了大量的具身性研究，试图理解意识形态是如何被铭刻进身体，以及我们又是如何以极其简单的动作和细微的手势再现这些意识形态的。我基本上是在分析这些手势在数据生成之前的意义，以及身体在其中经历了什么变化。总体而言，我的工作一直在探查界面之外发生的事情。而现在，我试图去理解界面之前发生的事情，也就是身体本身。身体本身也是另一种界面，没有身体也就不存在真...",
+        "url": "https://www.caa-ins.org/archives/13081",
+        "source": "网络社会研究所",
+        "published": "2025-12-11T07:30:50+00:00"
+      },
+      {
+        "id": "7fff0cae4ca2",
+        "title": "第十届网络社会年会｜ Dylan Reibling：追问基础设施：平台、预测与提示词",
+        "summary": "文 / &#160;迪伦·雷比林（Dylan Reibling）翻译 / &#160;井俱进校对/ 叶云鹤 好的，谢谢大家。我在这里先感谢各位的耐心。这是我第一次做PowerPoint演示，所以我相信一切会顺利进行，绝对不会出现任何小插曲。正如介绍中所说，我是一名电影导演，工作领域涉及艺术、科技、国家安全和政治的交汇点。过去，我的纪录片作品包括了为国家地理频道（National Geographic）、VICE、历史频道（History）和探索频道（Discovery）制作的系列节目和纪录片。非常感谢大家的邀请，很高兴能再次参加网络社会年会。 不确定你们是否看过我之前的照片。实际上，我曾在20...",
+        "url": "https://www.caa-ins.org/archives/13041",
+        "source": "网络社会研究所",
+        "published": "2025-12-10T10:21:02+00:00"
+      },
+      {
+        "id": "fe0eaf31ee48",
+        "title": "第十届网络社会年会｜罗霄：当生成成为日常- AI时代的流变、协议与遗忘",
+        "summary": "文 / 罗霄整理 / 田沛松校对/ 朱韵 感谢蓬岸和网络社会研究所的邀请。我之前在艺术类和设计类的院校做过很多分享，当然还有技术专业，包括同济大学建筑学院。我也向蓬岸了解了一下大家这个群体，之前确实还没有与大家这样的群体做过深度地分享，所以今天我是也非常激动。 我自己是创意技术专家和数字艺术家，这样一个身份比较分裂，涉及技术和艺术两方面。但其实和跨媒体艺术学院做的事情是基本是一致的，就是以科技为主的新媒体艺术。我可能更多的是在做一些实践类的内容。一般的对外推送里，最近我都会把自我介绍改成算法工程师和数字艺术家，因为“创意技术专家”这个身份总需要向人解释，解释我具体是干嘛的。但是在我们跨媒体这个...",
+        "url": "https://www.caa-ins.org/archives/12989",
+        "source": "网络社会研究所",
+        "published": "2025-12-08T02:25:16+00:00"
+      },
+      {
+        "id": "de8670c10d80",
+        "title": "fifteen years of from scratch",
+        "summary": "15 years of From Scratch, streaming live coding performances from around the world, December 6th to 8th 2025. View line &#8230; More",
+        "url": "https://blog.toplap.org/2025/12/05/fifteen-years-of-from-scratch/",
+        "source": "TOPLAP",
+        "published": "2025-12-05T15:27:48+00:00"
+      },
+      {
+        "id": "6076c51c1ff6",
+        "title": "Compassion through algorithms vol III",
+        "summary": "Just released, &#8220;Compassion through algorithms volume III&#8221; &#8211; a huge 55 track album full of really great music and noise &#8230; More",
+        "url": "https://blog.toplap.org/2025/12/05/compassion-through-algorithms-vol-iii/",
+        "source": "TOPLAP",
+        "published": "2025-12-05T10:00:16+00:00"
+      },
+      {
+        "id": "ed0a63de62c0",
+        "title": "維德角歌后艾莉達·阿爾梅達日本巡演圓滿落幕，贏得無數讚譽",
+        "summary": "為紀念日本與非洲西岸島國維德角建交五十週年，民音邀請維德角著名歌手艾莉達·阿爾梅達攜樂團來日演出，這也是兩國間 [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14585/%e7%b6%ad%e5%be%b7%e8%a7%92%e6%ad%8c%e5%90%8e%e8%89%be%e8%8e%89%e9%81%94%c2%b7%e9%98%bf%e7%88%be%e6%a2%85%e9%81%94%e6%97%a5%e6%9c%ac%e5%b7%a1%e6%bc%94%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95%ef%bc%8c/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2025-12-05T07:19:24+00:00"
+      },
+      {
+        "id": "3ec3852b8c19",
+        "title": "第十届网络社会年会｜黄孙权教授 开幕致辞",
+        "summary": "各位朋友好： 欢迎大家参加第十届的网络社会年会。这十年来我们作了很多不同的事情。十年过去了，我们下一步要去哪里？更重要的是，我们要从这里开始，想象未来十年会发生什么事情？ 首先我想跟各位介绍一下我们这十年来做了什么。网络社会研究所是一个独立的研究机构，得到了中国美术学院跨媒体学院的大力支持。我们建立了一个国际化的教学团队，合作伙伴包括众多艺术家、策展人、设计师以及国际知名学者。我们的第一届年会主题为“网络化的力量”（Forces of Reticulation）。每一年，我们都会邀请大约10到12位杰出的学者参与我们的讨论和分享。 第二届叫做“与列斐伏尔同行”(Another Walk wit...",
+        "url": "https://www.caa-ins.org/archives/12956",
+        "source": "网络社会研究所",
+        "published": "2025-12-05T02:54:51+00:00"
+      },
+      {
+        "id": "6868930c6b41",
+        "title": "Instant Supercompute: Launching Wolfram Compute Services",
+        "summary": "To immediately enable Wolfram Compute Services in Version 14.3 Wolfram Desktop systems, run RemoteBatchSubmissionEnvironment[\"WolframBatch\"]. (The functionality is automatically available in the Wolfram Cloud.) Scaling Up Your Computations Let’s say you’ve done a computation in Wolfram Language. And...",
+        "url": "https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2025-12-02T19:23:40+00:00"
+      },
+      {
+        "id": "d099b3366c96",
+        "title": "Summary of changes for November 2025",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of November.\n\n\n\n\n  Thousand Rooms, added an English version with one type of dyslexia-friendly typeface. A Danish version is also on the way.\n  Orca, improved the interface, released an Orca Cheatsheet for a...",
+        "url": "https://100r.ca/site/log.html#nov2025",
+        "source": "Hundred Rabbits",
+        "published": "2025-12-02T07:00:00+00:00"
+      },
+      {
+        "id": "c45d2faefd53",
+        "title": "臺灣AI新聞產業變革：經濟效益及人才轉型",
+        "summary": "口述：李怡志（政治大學傳播學院助理教授）撰稿：吳思嬋圖片來源：https://www.pexels.com/zh-tw/photo/3861969/降本增效的困境與AI浪潮下的產業差異台灣的新聞產業結構與國際社會存在顯著差異 。相較於部分國家（如日本）的媒體規模較小且數量有限，台灣的媒體數量眾多 。在這種高度競爭的環境下，台灣多數媒體的經營模式傾向於「降本增效」 。他們試圖以極低的成本賺取利潤，而主要的獲利來源單一，即廣告收入 。這導致媒體必須以極低的價格來產生內容，才能確保獲利空間 。然而，無論是台灣或國際上的大型正規新聞機構，都無法忽視數位化與人工智慧（AI）帶來的衝擊與機遇 。AI對新聞...",
+        "url": "https://medium.com/@ccs.popcom/%E8%87%BA%E7%81%A3ai%E6%96%B0%E8%81%9E%E7%94%A2%E6%A5%AD%E8%AE%8A%E9%9D%A9-%E7%B6%93%E6%BF%9F%E6%95%88%E7%9B%8A%E5%8F%8A%E4%BA%BA%E6%89%8D%E8%BD%89%E5%9E%8B-1ac1bcb25bb0?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2025-12-02T05:33:06+00:00"
+      },
+      {
+        "id": "87594af89d26",
+        "title": "[知音分享會]12.10 千金譜特輯與《林投姐》最終回",
+        "summary": "「字是隨身寶，財是國家珍，一字值千金，千 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8312-10-%e5%8d%83%e9%87%91%e8%ad%9c%e7%89%b9%e8%bc%af%e8%88%87%e3%80%8a%e6%9e%97%e6%8a%95%e5%a7%90%e3%80%8b%e6%9c%80%e7%b5%82%e5%9b%9e/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-12-01T06:20:24+00:00"
+      },
+      {
+        "id": "22e2eabc5802",
+        "title": "Bringing Emirati Sound Heritage to Life at the Maritime Heritage Festival 2025",
+        "summary": "At the Maritime Heritage Festival&#160;this year, we had the chance to collaboratively develop the sound installation “A Journey Across Emirati Values” — a 360° immersive walkthrough that connects heritage to [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/11/25/bringing-emirati-sound-heritage-to-life-at-the-maritime-heritage-festival-2025/",
+        "source": "Music and Sound Cultures",
+        "published": "2025-11-25T19:54:26+00:00"
+      },
+      {
+        "id": "5f624832bff2",
+        "title": "SMU Web3 Week | 第十届网络社会年会（新加坡场）",
+        "summary": "感谢新加坡管理大学朱飞达教授的邀请，网络社会研究所能够以特别策划的形式加入 SMU Web3 Week (Nov. 27-30)的学术活动。年会特别场包含论坛与展览，集中在 Nov. 28-29 日 。 将临的网络：互为劳动与社会的重组The Network to Come: Inter-Labor and the Recomposition of the Social 时间2025年11月28-29日（周五至周六） 地点新加坡管理大学&#160;The Ngee Ann Kongsi Auditorium, SoA, SMU 主办单位新加坡管理大学计算与信息系统学院 协办与支持中国美术学院跨...",
+        "url": "https://www.caa-ins.org/archives/12917",
+        "source": "网络社会研究所",
+        "published": "2025-11-25T08:23:48+00:00"
+      },
+      {
+        "id": "70ec46b2f2ce",
+        "title": "Generating non-periodic pitch sequences inspired by the tiling process developed by Tom Johnson",
+        "summary": "Volume 20, Issue 1, March 2026.",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2577447?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2025-11-24T02:02:38+00:00"
+      },
+      {
+        "id": "4a61a11c5e44",
+        "title": "Dissonance, sound spectrum and musical scale for ancient idiophones and aerophones",
+        "summary": ".",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2560922?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2025-11-24T01:54:59+00:00"
+      },
+      {
+        "id": "21ea0a56219e",
+        "title": "Live code stream for Palestine",
+        "summary": "In ~ 1 hour for now, a 24 hour stream of 96 performance slots will begin, to make music together &#8230; More",
+        "url": "https://blog.toplap.org/2025/11/21/live-code-stream-for-palestine/",
+        "source": "TOPLAP",
+        "published": "2025-11-21T23:09:18+00:00"
+      },
+      {
+        "id": "e51bc19d39ac",
+        "title": "What’s Special about Life? Bulk Orchestration and the Rulial Ensemble in Biology and Beyond",
+        "summary": "Towards a Theory of Bulk Orchestration It’s a key feature of living systems, perhaps even in some ways the key feature: that even right down to a molecular scale, things are orchestrated. Molecules (or at least large ones) don’t just move around randomly, like in a liquid or a gel. Instead, what mol...",
+        "url": "https://writings.stephenwolfram.com/2025/11/whats-special-about-life-bulk-orchestration-and-the-rulial-ensemble-in-biology-and-beyond/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2025-11-11T15:19:17+00:00"
+      },
+      {
+        "id": "fbff86c4bb5b",
+        "title": "Hearing History: Dr. Carlos Guedes on Preserving Traditional Sound Heritage",
+        "summary": "This week at the Digital Heritage Forum, the session “Hearing History: Reimagining Cultural Heritage Preservation through Creative Sound Experiences” explored how soundscapes, music, and voice reconnect communities with heritage. Dr. [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/11/07/hearing-history-dr-carlos-guedes-on-preserving-traditional-sound-heritage/",
+        "source": "Music and Sound Cultures",
+        "published": "2025-11-07T17:31:24+00:00"
+      },
+      {
+        "id": "a82f8413cb39",
+        "title": "And finally",
+        "summary": "Volume 20, Issue 1, March 2026.",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2561837?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2025-11-06T07:27:53+00:00"
+      },
+      {
+        "id": "a888f1155fd0",
+        "title": "Persistent homology of music network with three different distances",
+        "summary": ".",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2568844?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2025-11-04T12:54:59+00:00"
+      },
+      {
+        "id": "7e4e14b7932f",
+        "title": "From Fourier phase to musical realization: paths between homometric pitch-class distributions",
+        "summary": ".",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2563675?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2025-11-04T01:06:44+00:00"
+      },
+      {
+        "id": "d7b437e5d888",
+        "title": "數位威權下的認知戰：預測編碼理論視角下的大陸用語與Z世代資訊辨識危機",
+        "summary": "口述：鄭中堂(海軍軍官學校兼任助理教授)、陳靜君(國防大學新聞學系助理教授) 撰稿：楊家瑜圖片來源：https://www.pexels.com/zh-TW/license/臺灣自2013年起，已連續多年被國際研究機構（如瑞典哥德堡大學）認定為受境外假訊息侵擾最嚴重的國家。在傳統的陸海空戰、經濟戰、網路戰之外，「認知作戰」已成為境外勢力試圖「不戰而屈人之兵」的重要非實體威脅場域。本研究旨在探討中共透過數位媒體、網路文化傳播的中國用語，如何削弱臺灣年輕世代（Z世代，18歲-27歲）對資訊的辨識能力，使其更容易受到假訊息或爭議訊息的影響。研究結合實務觀察與量化統計，並以「預測編碼理論」（predi...",
+        "url": "https://medium.com/@ccs.popcom/%E6%95%B8%E4%BD%8D%E5%A8%81%E6%AC%8A%E4%B8%8B%E7%9A%84%E8%AA%8D%E7%9F%A5%E6%88%B0-%E9%A0%90%E6%B8%AC%E7%B7%A8%E7%A2%BC%E7%90%86%E8%AB%96%E8%A6%96%E8%A7%92%E4%B8%8B%E7%9A%84%E5%A4%A7%E9%99%B8%E7%94%A8%E8%AA%9E%E8%88%87z%E4%B8%96%E4%BB%A3%E8%B3%87%E8%A8%8A%E8%BE%A8%E8%AD%98%E5%8D%B1%E6%A9%9F-7437d6ee3225?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2025-11-04T00:44:58+00:00"
+      },
+      {
+        "id": "20688b2f2dd3",
+        "title": "[知音分享會]11.13《林投姐》六：千呼萬喚知音歸位，林投姐回來了~",
+        "summary": "知音好朋友們大家好！上個月由於種種因素， [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/1113%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%83-%e5%8d%83%e5%91%bc%e8%90%ac%e5%96%9a%e7%9f%a5%e9%9f%b3%e6%ad%b8%e4%bd%8d%e6%9e%97%e6%8a%95%e5%a7%90%e5%9b%9e%e4%be%86%e4%ba%86/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-11-03T08:46:08+00:00"
+      },
+      {
+        "id": "3faa169e142e",
+        "title": "Summary of changes for October 2025",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of October.\n\n\n\n\n  CCCC, added a factorization mode.\n  Bagel, wrote about a cursed programming language idea where instead of cons cells, s-exp represent unordered lists.\n  Rabbit Waves, released a new page c...",
+        "url": "https://100r.ca/site/log.html#oct2025",
+        "source": "Hundred Rabbits",
+        "published": "2025-11-02T07:00:00+00:00"
+      },
+      {
+        "id": "5101beb3a79c",
+        "title": "中央社應該示範「快更正、慢懲處」的公共專業",
+        "summary": "文／杜聖聰（銘傳大學廣電系主任）TIME 刊出美國學者投書，以 “reckless leader（魯莽的領導人）” 形容賴清德總統。中央社撰稿時將投書誤當該刊「報導」，隨後已校正標題與內文，並宣布對記者、編輯與督導主管懲處。事件迅速延燒，焦點不只是誰說了什麼，而是國家通訊社面對編採瑕疵時，該用什麼方法回應公眾。中央社的法律定位清楚載明：以「辦理國家新聞通訊業務」、服務國內外媒體、促進國際新聞交流為宗旨。本質上，它既是新聞專業機構，同時也是國家資訊節點。正因如此，它的一舉一動，攸關台灣新聞倫理與民主公共性的示範效應。當面對流程失靈，首要之務應是制度化的自律與透明，而非迅速的懲處。把投書誤作報導，...",
+        "url": "https://medium.com/@ccs.popcom/%E4%B8%AD%E5%A4%AE%E7%A4%BE%E6%87%89%E8%A9%B2%E7%A4%BA%E7%AF%84-%E5%BF%AB%E6%9B%B4%E6%AD%A3-%E6%85%A2%E6%87%B2%E8%99%95-%E7%9A%84%E5%85%AC%E5%85%B1%E5%B0%88%E6%A5%AD-c0f49e83f355?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2025-10-31T15:03:14+00:00"
+      },
+      {
+        "id": "f5b56299bdf2",
+        "title": "Self-similar melodies and Tom Johnson's relationship with maths",
+        "summary": "Volume 20, Issue 1, March 2026.",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2539377?af=R",
+        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
+        "published": "2025-10-30T06:17:38+00:00"
+      },
+      {
+        "id": "deaac72b4b1c",
+        "title": "我也篤信新聞教育",
+        "summary": "文／夏士芬 （中國文化大學新聞學系副教授）(圖片來源： https://www.pexels.com/zh-tw/photo/1708912/)全球新聞教育始於1908年，美國密蘇里大學創辦了世界的第一所新聞學院(School of Journalism, University of Missouri)。這套蘊含著「進步運動」價值的教育模式，在民國初年移入，李金銓教授比喻為勢如破竹、完全沒有遭遇抗拒，因為它完全符合當時知識界領袖對「民主」和「科學」的追求，「範式移轉」非常順利。我國新聞教育的開端，始於1918年北京大學設立「新聞研究會」，由校長蔡元培親自擔任會長，並擬定簡章，以「研究新聞學理，...",
+        "url": "https://medium.com/@ccs.popcom/%E6%88%91%E4%B9%9F%E7%AF%A4%E4%BF%A1%E6%96%B0%E8%81%9E%E6%95%99%E8%82%B2-0a252ee4ca22?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2025-10-30T03:28:47+00:00"
+      },
+      {
+        "id": "1fa067108080",
+        "title": "“Sounds to Be Protected: 20 Years of Freesound” installation @ CCCB, Barcelona",
+        "summary": "(text adapted from the CCCB website) The collaborative digital platform Freesound, created in 2005 by the Music Technology Group at Pompeu Fabra University, is celebrating its 20th anniversary, having become one of the largest databases of creative-commons licensed sounds in &#8230; Continue reading...",
+        "url": "https://blog.freesound.org/?p=2302",
+        "source": "The Freesound Blog",
+        "published": "2025-10-21T12:48:21+00:00"
+      },
+      {
+        "id": "ea8c3d6514dd",
+        "title": "MaSC Director Carlos Guedes Co-Announces ISMIR 2026 at ISMIR 2025 in South Korea",
+        "summary": "MaSC Director Carlos Guedes, together with other general chairs Kaustuv Ganguli and Gus Xia, officially announced the upcoming 27th International Society for Music Information Retrieval Conference (ISMIR 2026) at this [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/10/17/masc-director-carlos-guedes-co-announces-ismir-2026-at-ismir-2025-in-south-korea/",
+        "source": "Music and Sound Cultures",
+        "published": "2025-10-17T15:32:02+00:00"
+      },
+      {
+        "id": "77a1c313c36a",
+        "title": "Fostering Cultural Collaboration: Carlos Guedes at DCT’s Expert Module",
+        "summary": "Last week, Carlos Guedes took part in the expert module “Cultural Heritage &#38; Knowledge Development: Fostering a Culture of Integrated Protection,” organized by the Department of Culture and Tourism&#160;– Abu [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/10/14/fostering-cultural-collaboration-carlos-guedes-at-dcts-expert-module/",
+        "source": "Music and Sound Cultures",
+        "published": "2025-10-14T08:53:10+00:00"
+      },
+      {
+        "id": "f95c53f55137",
+        "title": "Summary of changes for September 2025",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of September.\n\n\n\n\n  Noodle, redesigned the interface.\n  Wiki, updated  with a new photo.\n  Punk Rabbits, completed 19 new rabbits(#35-53).\n  NanoTalk, released a Nanochat client, written in Tal.\n\n\nAs promise...",
+        "url": "https://100r.ca/site/log.html#sep2025",
+        "source": "Hundred Rabbits",
+        "published": "2025-10-01T07:00:00+00:00"
+      },
+      {
+        "id": "bb6cd6e8f170",
+        "title": "MaSC at the Abu Dhabi Mangrove Initiative (ADMI) Partners Meeting 2025",
+        "summary": "MaSC members Juan Sierra and Rose Chen were invited to present at the Abu Dhabi Mangrove Initiative (ADMI) Partners Meeting 2025,&#160;hosted by the Environment Agency – Abu Dhabi.&#160; Their presentation, [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/09/30/masc-at-the-abu-dhabi-mangrove-initiative-admi-partners-meeting-2025/",
+        "source": "Music and Sound Cultures",
+        "published": "2025-09-30T16:30:19+00:00"
+      },
+      {
+        "id": "371a22eaf3ba",
+        "title": "Freesound Day programme, October 28th, Barcelona and online",
+        "summary": "EDIT 30/1/2026: the video recordings of the Freesound Day talks are now available at https://fs20.freesound.org/freesound-day/ Hi everyone! The Freesound Day is getting closer, and we are now able to announce the programme. For those who don&#8217;t know, the Freesound Day &#8230; Continue reading &...",
+        "url": "https://blog.freesound.org/?p=2290",
+        "source": "The Freesound Blog",
+        "published": "2025-09-30T13:37:40+00:00"
+      },
+      {
+        "id": "f92d1eea7477",
+        "title": "一個都不能少：媒體守門人是知識溝通跳不過的關鍵環節",
+        "summary": "文/羅尹悅（世新大學傳播管理學系副教授）十年前當我在台灣開始科學傳播的研究 — 或是我更喜歡的一個用詞：「知識溝通」時 — 當時各新聞領域幾乎沒有所謂的「科學知識線」。關於科學知識的內容，可能是教育線、醫藥線、或是財經科技線記者來跨線支援。在沒有專職科學線新聞記者的情況下，我把腦筋動到研究組織中的公關部門，像是大學、研究中心的公關室，覺得有他們的參與， 一樣可以增加整體社會中的知識面向。十年過去，我的研究結果打臉了自己最初的想法：知識溝通中即便有研究組織裡公關部門的參與，少了新聞記者這個環節，知識的擴散程度依然有限。以知識溝通來行銷組織對於適不適合將知識溝通這件事，倚重研究組織的公關研門，像是...",
+        "url": "https://medium.com/@ccs.popcom/%E4%B8%80%E5%80%8B%E9%83%BD%E4%B8%8D%E8%83%BD%E5%B0%91-%E5%AA%92%E9%AB%94%E5%AE%88%E9%96%80%E4%BA%BA%E6%98%AF%E7%9F%A5%E8%AD%98%E6%BA%9D%E9%80%9A%E8%B7%B3%E4%B8%8D%E9%81%8E%E7%9A%84%E9%97%9C%E9%8D%B5%E7%92%B0%E7%AF%80-0ccf6c1843c5?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2025-09-30T08:17:08+00:00"
+      },
+      {
+        "id": "5453a59e4cf6",
+        "title": "Results of the Freesound 20th Anniversary Composition Contest",
+        "summary": "Earlier this year, we launched the Freesound 20th Anniversary Composition contest to celebrate two decades of Freesound. Now, we are thrilled to announce the results! The contest invited sound artists, composers, and explorers from around the world to create works &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2282",
+        "source": "The Freesound Blog",
+        "published": "2025-09-24T10:39:20+00:00"
+      },
+      {
+        "id": "a61196bb9012",
+        "title": "Field Notes: Capturing the Voices of the Mangroves",
+        "summary": "Last Friday, the MaSC team explored Marawah Marine Biosphere Reserve 🌊🌿 with @environmentabudhabi to capture field recordings of the mangrove ecosystem and its soundscapes. From the rustle of the mangrove [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/09/21/field-notes-capturing-the-voices-of-the-mangroves/",
+        "source": "Music and Sound Cultures",
+        "published": "2025-09-21T10:35:57+00:00"
+      },
+      {
+        "id": "70b689c1a84b",
+        "title": "The Ruliology of Lambdas",
+        "summary": "Click any diagram to get Wolfram Language code to reproduce it. What Are Lambdas? It’s a story of pure, abstract computation. In fact, historically, one of the very first. But even though it’s something I for one have used in practice for nearly half a century, it’s not something that in all my year...",
+        "url": "https://writings.stephenwolfram.com/2025/09/the-ruliology-of-lambdas/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2025-09-15T19:20:59+00:00"
+      },
+      {
+        "id": "70229ca11e7c",
+        "title": "Alpaca Festival and Conference 2025",
+        "summary": "We’re happy to be hosting Alpaca Festival in Sheffield from 12-14th September 2025, exploring a wide variety of algorithmic patterns &#8230; More",
+        "url": "https://blog.toplap.org/2025/09/06/alpaca-festival-and-conference-2025/",
+        "source": "TOPLAP",
+        "published": "2025-09-06T10:27:23+00:00"
+      },
+      {
+        "id": "f890848ddaee",
+        "title": "[知音分享會]09.10《林投姐》五：昭娘的磨難 外帶「聲音的臺灣史大回顧」",
+        "summary": "來來來，各位朋友看遮來。 這回的知音分享 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8309-10%e3%80%8a%e6%9e%97%e6%8a%95%e5%a7%90%e3%80%8b%e4%ba%94%ef%bc%9a%e6%98%ad%e5%a8%98%e7%9a%84%e7%a3%a8%e9%9b%a3-%e5%a4%96%e5%b8%b6%e3%80%8c%e8%81%b2/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-09-02T01:00:25+00:00"
+      },
+      {
+        "id": "08d44c362b05",
+        "title": "Summary of changes for August 2025",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of August.\n\n\n\n\n  Wiktopher, updated songs.\n  100r.ca, updated cast iron cookware(seasoning oil suggestions).\n  Punk Rabbits, completed 15 new rabbits(#19-34).\n  Orca, pushed a little update that includes the...",
+        "url": "https://100r.ca/site/log.html#aug2025",
+        "source": "Hundred Rabbits",
+        "published": "2025-08-31T07:00:00+00:00"
+      },
+      {
+        "id": "cd8d59ccfa17",
+        "title": "RmlUI – New GUI rendering engine & skinning system",
+        "summary": "Version 2.0 of our plugins come with a completely new GUI rendering and skinning system: RmlUI RmlUI is a UI engine that is loosely based on html / CSS2, but written entirely in C++ and supports hardware accelerated rendering. Skin developers are encouraged to read the RmlUI Documentation to know ho...",
+        "url": "https://dsp56300.wordpress.com/2025/08/19/rmlui-new-gui-rendering-engine-skinning-system/",
+        "source": "The Usual Suspects",
+        "published": "2025-08-18T22:03:50+00:00"
+      },
+      {
+        "id": "fdeb8e762695",
+        "title": "“I Have a Theory Too”: The Challenge and Opportunity of Avocational Science",
+        "summary": "Theories of the World Several often arrive in a single day. Sometimes they’re marked “urgent”. Sometimes they’re long. Sometimes they’re short. Sometimes they’re humble. Sometimes they’re conspiratorial. And sometimes, these days, they’re written “in collaboration with” an AI. But there’s a common t...",
+        "url": "https://writings.stephenwolfram.com/2025/08/i-have-a-theory-too-the-challenge-and-opportunity-of-avocational-science/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2025-08-14T22:05:53+00:00"
+      },
+      {
+        "id": "cbefa7596820",
+        "title": "Click Nilson’s Collected Rewritings (1000th edition)",
+        "summary": "The much expanded 1000th edition of Click Nilson&#8217;s book Collected Rewritings has just been released (free download). As one of &#8230; More",
+        "url": "https://blog.toplap.org/2025/08/12/click-nilsons-collected-rewritings-1000th-edition/",
+        "source": "TOPLAP",
+        "published": "2025-08-12T11:20:03+00:00"
+      },
+      {
+        "id": "c45d2012a0de",
+        "title": "New Features Everywhere: Launching Version 14.3 of Wolfram Language & Mathematica",
+        "summary": "This Is a Big Release Going Dark: Dark Mode Arrives How Does It Relate to AI? Connecting with the Agentic World Just Put a Fit on That! Maps Become More Beautiful A Better Red: Introducing New Named Colors More Spiffing Up of Graphics Non-commutative Algebra Draw on That Surface: The Visual Annotati...",
+        "url": "https://writings.stephenwolfram.com/2025/08/new-features-everywhere-launching-version-14-3-of-wolfram-language-mathematica/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2025-08-05T17:52:24+00:00"
+      },
+      {
+        "id": "3a6af666fb8c",
+        "title": "Summary of changes for July 2025",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of July.\n\n\n\n\n  Catjam 2025, finished a small game called Polycat!\n  100r.ca, added Vancouver Island West Coast, Ucluelet, Port San Juan, Juan de Fuca Strait and Cadboro Bay.\n  Theme Editor, made a nicer them...",
+        "url": "https://100r.ca/site/log.html#jul2025",
+        "source": "Hundred Rabbits",
+        "published": "2025-08-01T07:00:00+00:00"
+      },
+      {
+        "id": "e463940bee9f",
+        "title": "[知音分享會]08.06《林投姐》四：歌中有劇劇中歌+范欽慧「臺灣聆聽日的實踐及倡議」",
+        "summary": "頂回講到周阿司原本也是一位有角度守道德的 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8308-06%e3%80%8a%e6%9e%97%e6%8a%95%e5%a7%90%e3%80%8b%e5%9b%9b%ef%bc%9a%e6%ad%8c%e4%b8%ad%e6%9c%89%e5%8a%87%e5%8a%87%e4%b8%ad%e6%ad%8c%e8%8c%83%e6%ac%bd/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-07-22T01:56:00+00:00"
+      },
+      {
+        "id": "ad145ee2a418",
+        "title": "預備…起！「第六屆聲音的臺灣史研討會：唱片產業與文化製作」報名起跑",
+        "summary": "🎶 聲音的臺灣史研討會回來了！ 挺過 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e9%a0%90%e5%82%99-%e8%b5%b7%ef%bc%81%e3%80%8c%e7%ac%ac%e5%85%ad%e5%b1%86%e8%81%b2%e9%9f%b3%e7%9a%84%e8%87%ba%e7%81%a3%e5%8f%b2%e7%a0%94%e8%a8%8e%e6%9c%83%ef%bc%9a%e5%94%b1%e7%89%87%e7%94%a2/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-07-04T02:03:00+00:00"
+      },
+      {
+        "id": "989d36798072",
+        "title": "Sensing the Forest: Two Ongoing Datasets from DIY Streamers at Alice Holt Forest, UK",
+        "summary": "[Guest blog post by Anna Xambó on behalf of the Sensing the Forest Team] Sensing the Forest (StF) is a project funded by the UKRI Arts and Humanities Research Council. Our goal is to raise awareness among forest visitors, artists, &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2248",
+        "source": "The Freesound Blog",
+        "published": "2025-07-02T12:36:09+00:00"
+      },
+      {
+        "id": "23533637862d",
+        "title": "[知音分享會]07.02《林投姐》三：袂輸看電影",
+        "summary": "頂回的《林投姐》咱那聽故事，那稽考這塊唱 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8307-02%e3%80%8a%e6%9e%97%e6%8a%95%e5%a7%90%e3%80%8b%e4%b8%89%ef%bc%9a%e8%a2%82%e8%bc%b8%e7%9c%8b%e9%9b%bb%e5%bd%b1/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-06-20T05:32:00+00:00"
+      },
+      {
+        "id": "d041f8db200f",
+        "title": "Introducing:  Syntə",
+        "summary": "I was recently able to finish the process of porting (ability to run on different operating systems) so we&#8217;re now &#8230; More",
+        "url": "https://blog.toplap.org/2025/06/08/introducing-synt%c9%99/",
+        "source": "TOPLAP",
+        "published": "2025-06-08T21:28:27+00:00"
+      },
+      {
+        "id": "a32c959ec3d4",
+        "title": "“BAR-CEL-ONA” by the group Ekho and “Soundsystem for Silence” by Myubio Collective, a performance and a sound installation that celebrate Freesound",
+        "summary": "Dear Freesounders, As part of the 20th anniversary celebration program, there are two very exciting events that will take place next week in Barcelona, so be sure to check them out if you are around. The first event consists of &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2234",
+        "source": "The Freesound Blog",
+        "published": "2025-06-03T13:24:36+00:00"
+      },
+      {
+        "id": "78bbc5e1b154",
+        "title": "Summary of changes for May 2025",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of May.\n\n\n\n\n  100r.ca, updated Oquonie and water.\n  Modal, the interpreter was ported to Uxn!\n  Uxntal, the documentation has been completely redone!\n  Hakum, added page 7 and page 8 of Sabotage Study.\n\n\nOqu...",
+        "url": "https://100r.ca/site/log.html#may2025",
+        "source": "Hundred Rabbits",
+        "published": "2025-05-31T07:00:00+00:00"
+      },
+      {
+        "id": "32d54605b761",
+        "title": "What If We Had Bigger Brains? Imagining Minds beyond Ours",
+        "summary": "Cats Don’t Talk We humans have perhaps 100 billion neurons in our brains. But what if we had many more? Or what if the AIs we built effectively had many more? What kinds of things might then become possible? At 100 billion neurons, we know, for example, that compositional language of the kind we hum...",
+        "url": "https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/",
+        "source": "Stephen Wolfram Writings",
+        "published": "2025-05-21T14:28:31+00:00"
+      },
+      {
+        "id": "80eb7b888c07",
+        "title": "Call for talks for the “Freesound Day”, October 28th 2025",
+        "summary": "Hi everyone! As part of the celebrations of the 20th Anniversary of Freesound, we are organising a &#8220;Freesound Day&#8221; event that will happen on the 28th of October of 2025. The Freesound Day will include talks from members of the Freesound &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2228",
+        "source": "The Freesound Blog",
+        "published": "2025-05-16T14:22:09+00:00"
+      },
+      {
+        "id": "1d37e671a255",
+        "title": "New Release: The Songs of Shihuh Women",
+        "summary": "The Shihuh (plural for Al Shehhi) is an Arab tribe that currently resides in the United Arab Emirates and Oman, dominating the territory of Ru’us al-Jibal and the Musandam peninsula. [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/05/02/new-release-the-songs-of-shihuh-women/",
+        "source": "Music and Sound Cultures",
+        "published": "2025-05-02T17:08:17+00:00"
+      },
+      {
+        "id": "a79f71b9ae19",
+        "title": "Summary of changes for June 2025",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of June.\n\n\n\n\n  100r.ca, updated costs, hauling out, united states and teapot gelcoat. Added san juan islands.\n  Rabbit Waves, added all content links to the main page, released a new page called Boatswain's ...",
+        "url": "https://100r.ca/site/log.html#june2025",
+        "source": "Hundred Rabbits",
+        "published": "2025-05-02T07:00:00+00:00"
+      },
+      {
+        "id": "2a1b8e8b9eec",
+        "title": "Summary of changes for April 2025",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of April.\n\n\n\n\n  100r.ca, updated water, ditch bag, woodstove installation, and added new photos and information on first-aid kit.\n  Rabbit Waves, updated Triangular Bandages with animated gifs, and First-Aid...",
+        "url": "https://100r.ca/site/log.html#apr2025",
+        "source": "Hundred Rabbits",
+        "published": "2025-04-30T07:00:00+00:00"
+      },
+      {
+        "id": "c01739412e2a",
+        "title": "Introducing the Broad Sound Taxonomy",
+        "summary": "Hi freesounders, We are happy to announce that we have just released a new feature for organising sounds in Freesound. Following recent research at the MTG, we reached to the definition of a sound taxonomy named &#8220;Broad Sound Taxonomy&#8221; (BST). &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2206",
+        "source": "The Freesound Blog",
+        "published": "2025-04-11T11:29:45+00:00"
+      },
+      {
+        "id": "c5f9875d985b",
+        "title": "Xenia – Wave Editor",
+        "summary": "In version 1.4.4 of Xenia, a new page has been added to the UI, the Wave Editor. Introduction Xenia uses wave table synthesis. Each oscillator uses a table of waves as its source to generate sound. Wave A Wave is a single cycle wave form. In Xenia, a wave is 128 samples long. The Os &#8230; Continue...",
+        "url": "https://dsp56300.wordpress.com/2025/03/08/xenia-wave-editor/",
+        "source": "The Usual Suspects",
+        "published": "2025-03-08T16:11:56+00:00"
+      },
+      {
+        "id": "499cb5af49b3",
+        "title": "Call for Baltic Live Coders",
+        "summary": "The annual festival Sound Days in Liepāja (Latvia) is calling out to all Baltic live coders, and anyone who is &#8230; More",
+        "url": "https://blog.toplap.org/2025/01/21/call-for-baltic-live-coders/",
+        "source": "TOPLAP",
+        "published": "2025-01-21T11:57:12+00:00"
+      },
+      {
+        "id": "b24f6cd265d2",
+        "title": "Solstice stream 2024 – Call for live coders!",
+        "summary": "We&#8217;re looking for 100+ live coders to each contribute a live 15 minute performance to the online TOPLAP solstice stream, &#8230; More",
+        "url": "https://blog.toplap.org/2024/12/09/solstice-stream-2024/",
+        "source": "TOPLAP",
+        "published": "2024-12-09T16:15:32+00:00"
+      },
+      {
+        "id": "845159e7f4d4",
+        "title": "Call for hosts: International Conference on Live Coding 2026 – deadline extended",
+        "summary": "Live coding refers to the creation and modification of algorithms with a creative purpose in real time often in the &#8230; More",
+        "url": "https://blog.toplap.org/2024/12/04/call-for-hosts-international-conference-on-live-coding-2026/",
+        "source": "TOPLAP",
+        "published": "2024-12-04T12:05:45+00:00"
+      },
+      {
+        "id": "e32d30bd4c02",
+        "title": "Creating a Livecoding Workshop for Kids",
+        "summary": "Introduction In September 2024, I embarked on my first major livecoding workshop project in a couple of years, in conjunction &#8230; More",
+        "url": "https://blog.toplap.org/2024/11/12/creating-a-livecoding-workshop-for-kids/",
+        "source": "TOPLAP",
+        "published": "2024-11-12T20:00:24+00:00"
+      },
+      {
+        "id": "88419873d93f",
+        "title": "DSP Bridge",
+        "summary": "Introduction The DSP Bridge is a system that allows to run the DSP emulation engine of TUS emulator plugins in a separate process, on a separate system or on a different platform. The DAW plugin becomes just an editor while the DSP emulator is executed elsewhere. Server Executable The server is a sm...",
+        "url": "https://dsp56300.wordpress.com/2024/09/10/dsp-bridge/",
+        "source": "The Usual Suspects",
+        "published": "2024-09-10T13:03:46+00:00"
+      },
+      {
+        "id": "b1bbdd04c74a",
+        "title": "Nodal Red 2X Demo Video",
+        "summary": "We&#8217;re excited to show off the early progress that has been made with our latest emulation, Nodal Red 2X, which brings back to life the Nord Lead 2X in all its bright red glory! The demo video below has been created with an internal development build and highlights the character of the NL2X and...",
+        "url": "https://dsp56300.wordpress.com/2024/08/13/nodal-red-2x-demo-video/",
+        "source": "The Usual Suspects",
+        "published": "2024-08-12T22:05:19+00:00"
+      },
+      {
+        "id": "f06788b27257",
+        "title": "Xenia Demo Video",
+        "summary": "We made lots of progress on Xenia, our next release that emulates the Microwave XT. The demo video below has been created with an internal development build and highlights the character of the Microwave and shows the current state of the project. Enjoy!",
+        "url": "https://dsp56300.wordpress.com/2024/05/05/xenia-demo-video/",
+        "source": "The Usual Suspects",
+        "published": "2024-05-05T18:05:32+00:00"
+      },
+      {
+        "id": "45dc3a964b87",
+        "title": "OsTIrus Emulation Now Available",
+        "summary": "The Usual Suspects is happy to announce the release of our latest emulation, OsTIrus. OsTIrus is a plugin which supports emulation of the Access Virus TI line of synthesizers. Like our previous emulators Osirus and Vavra, OsTIrus runs inside your DAW directly and can be controlled like any normal so...",
+        "url": "https://dsp56300.wordpress.com/2024/04/22/ostirus-emulation-now-available/",
+        "source": "The Usual Suspects",
+        "published": "2024-04-22T13:49:16+00:00"
+      },
+      {
+        "id": "1c4f6f535443",
+        "title": "OsTIrus / Virus TI with 96 KHz Sample Rate",
+        "summary": "We have discovered that the Virus TI DSP code can run with sample rates that are higher than what the hardware is capable of. We can use this to our advantage in OsTIrus because we are not limited to the hardware. The hardware only supports up to two different sample rates: However, the DSP code &#8...",
+        "url": "https://dsp56300.wordpress.com/2024/03/11/ostirus-virus-ti-with-96-khz-sample-rate/",
+        "source": "The Usual Suspects",
+        "published": "2024-03-11T17:30:43+00:00"
+      },
+      {
+        "id": "f7bc226b3c17",
+        "title": "Advanced Setting: DSP overclocking/underclocking",
+        "summary": "Future emulator releases with versions 1.3.4 or higher allow to modify the DSP clock. This setting is part of a new section called Advanced Settings. This setting directly affects host CPU utilization. If you run the DSP only at 50% of the desired speed, your host CPU utilization will be 50% of the ...",
+        "url": "https://dsp56300.wordpress.com/2024/03/01/advanced-setting-dsp-overclocking-underclocking/",
+        "source": "The Usual Suspects",
+        "published": "2024-03-01T17:35:47+00:00"
+      },
+      {
+        "id": "c4cc7adfbc40",
+        "title": "Patch Manager Introduction",
+        "summary": "Version 1.3 of Osirus introduces a new feature called the Patch Manager (included with all emulations in future builds) The Patch Manager is a completely new feature that replaces the previous Preset Browser. While the old system didn’t provide much more than browsing files with patches on disk, the...",
+        "url": "https://dsp56300.wordpress.com/2024/02/06/patch-manager-introduction/",
+        "source": "The Usual Suspects",
+        "published": "2024-02-06T15:58:15+00:00"
+      },
+      {
+        "id": "007ed2ed05b8",
+        "title": "Hello world!",
+        "summary": "WordPress へようこそ。こちらは最初の投稿です。編集または削除し、コンテンツ作成を始めてください。",
+        "url": "https://journals.acoustics.jp/ast/uncategorized/hello-world/",
+        "source": "Acoustical Science and Technology edited by the Acoustical Society of Japan",
+        "published": "2022-03-07T06:53:02+00:00"
       }
     ]
   }
