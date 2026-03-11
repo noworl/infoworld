@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-03-10T23:35:34.124380+00:00",
+  "updated_at": "2026-03-11T02:43:28.995686+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "d15ec871f7d8",
+        "title": "前衛女力律動擊樂三重奏  帶來韓國擊樂新面貌",
+        "summary": "（中央社記者趙靜瑜台北11日電）第12屆TIPC台灣國際打擊樂節將於5月登場，其中來自韓國的律動擊樂三重奏（groove&）是韓國少見純女子打擊樂團，她們將帶著前衛女力之聲，帶來韓國擊樂新風貌。",
+        "url": "https://www.cna.com.tw/news/acul/202603110027.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-11T00:27:15+00:00"
+      },
+      {
+        "id": "6dda5fe8b2df",
+        "title": "吳德榮：3月颱鸚鵡壽命短　12日晚間至13日清晨低溫探8度",
+        "summary": "（中央社記者張雄風台北11日電）氣象署今天凌晨發布颱風鸚鵡生成訊息。氣象專家吳德榮說，預計颱風鸚鵡明天下午就會減弱為熱帶低壓；未來一週要留意日夜溫差大，明晚至13日晨局部地區低溫下探攝氏8度。",
+        "url": "https://www.cna.com.tw/news/ahel/202603110025.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-11T00:11:10+00:00"
+      },
+      {
+        "id": "4cda57a30ed2",
+        "title": "玉山凌晨零下8.9度降雪　微量積雪如糖霜",
+        "summary": "（中央社記者張雄風台北11日電）中央氣象署表示，玉山氣象站今天凌晨有短暫降雪，今早已停，雪深微量；玉山氣象站於凌晨2時50分最低溫為攝氏零下8.9度，有積雪結冰霜淞現象。",
+        "url": "https://www.cna.com.tw/news/ahel/202603110024.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-11T00:11:08+00:00"
+      },
       {
         "id": "1cc1d67b5a7e",
         "title": "深入菲律賓偏鄉義診　嘉基醫療團隊跨海送暖",
@@ -57,30 +81,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202603100368.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-10T12:32:10+00:00"
-      },
-      {
-        "id": "603bd421fff2",
-        "title": "自主碳排減量2700餘項  估減4745萬噸溫室氣體",
-        "summary": "（中央社記者汪淑芬台北10日電）2050淨零排放是全球共同的氣候目標。環境部統計，企業自主減量計畫總共提出2700餘項措施，預估到2030年相對2025年，可帶來約4745萬噸二氧化碳當量的溫室氣體減量貢獻。",
-        "url": "https://www.cna.com.tw/news/ahel/202603100364.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-10T12:11:01+00:00"
-      },
-      {
-        "id": "f12baeebe1b4",
-        "title": "311談海嘯預警　氣象署：近海地震達標就即時發布",
-        "summary": "（中央社記者余曉涵台北10日電）日本311地震將滿15週年，針對台灣海嘯預警，氣象署今天表示，近海地震規模7以上、深度35公里內就會即時發布預警，遠地地震則根據美國太平洋海嘯中心資訊，依照時間發布消息、警訊與警報。",
-        "url": "https://www.cna.com.tw/news/ahel/202603100342.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-10T11:28:13+00:00"
-      },
-      {
-        "id": "640ed1a41c5e",
-        "title": "東京食品展促成合作  台南芒果與伊勢丹通路簽MOU",
-        "summary": "（中央社記者戴雅真東京10日專電）為推動台灣農產品拓展日本市場，台南市政府、玉井的聯興青果生產合作社與日本伊勢丹百貨超市今天在東京國際食品展簽署芒果採購合作備忘錄（MOU），透過產地、政府與企業通路的合作，將持續擴大台南芒果在日本市場的銷售與推廣。",
-        "url": "https://www.cna.com.tw/news/ahel/202603100338.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-10T11:17:04+00:00"
       },
       {
         "id": "b523b391813e",
@@ -165,6 +165,22 @@
     ],
     "破(day)": [
       {
+        "id": "adede8686702",
+        "title": "AI 也有電車難題？清大林勤富談演算法背後的偏見與風險",
+        "summary": "從什麼時候開始，我們遇到問題，第一反應不再是詢問朋友，也不是上網慢慢找資料，而是直接「問AI」？ AI不僅是輔 [&#8230;]\nThe post AI 也有電車難題？清大林勤富談演算法背後的偏見與風險 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/chingfulin_a/",
+        "source": "人文．島嶼",
+        "published": "2026-03-11T02:10:22+00:00"
+      },
+      {
+        "id": "d15ec871f7d8",
+        "title": "前衛女力律動擊樂三重奏  帶來韓國擊樂新面貌",
+        "summary": "（中央社記者趙靜瑜台北11日電）第12屆TIPC台灣國際打擊樂節將於5月登場，其中來自韓國的律動擊樂三重奏（groove&）是韓國少見純女子打擊樂團，她們將帶著前衛女力之聲，帶來韓國擊樂新風貌。",
+        "url": "https://www.cna.com.tw/news/acul/202603110027.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-03-11T00:27:15+00:00"
+      },
+      {
         "id": "062e9f2a939d",
         "title": "Dorico is quietly working through your Western notation wishlist",
         "summary": "Steinberg's Dorico is slowly realizing a dream of notation that has spanned decades of scoring software. How could you combine engraving precision (think Leland Smith's SCORE) with graphical ease-of-use? That might sound easy, but it's been one of the toughest challenges in music software. Dorico 6....",
@@ -178,6 +194,14 @@
         "summary": "《臺北聞人蔡金塗》可讀之處，在於作者鄭進耀以蔡金塗的一生、以及他做為一位民間社會與政權間的重要協商者為軸線，回溯許多不為人知的歷史，那些地方勢力與政商界、地下秩序間的複雜互動⋯⋯",
         "url": "https://www.twreporter.org/a/bookreviews-tsai-chin-tu",
         "source": "報導者",
+        "published": "2026-03-10T16:00:00+00:00"
+      },
+      {
+        "id": "cf9ecd0a3b9d",
+        "title": "德国今年开局“非常疲弱”给复苏前景带来变数",
+        "summary": "在中东战火推高能源价格之前，德国的出口和制造业就相当疲弱，令人质疑欧洲最大经济体还能不能在2026年反弹。",
+        "url": "https://www.ftchinese.com/story/001109161",
+        "source": "FTChinese RSS - News",
         "published": "2026-03-10T16:00:00+00:00"
       },
       {
@@ -341,6 +365,14 @@
         "published": "2026-03-09T10:24:03+00:00"
       },
       {
+        "id": "b5b45c3403f2",
+        "title": "果蝇大脑被完整“上传”并驱动虚拟身体，全脑仿真进入具身时代",
+        "summary": "2026 年 3 月 7 日，一家名为 Eon Systems PBC 的旧金山初创公司发布了一段视频。视频里是一只虚拟果蝇在物理模拟环境中爬行、转向、搓“手”，动作谈不上优美，甚至显得有些笨。但这段画面的意义远超它的视觉观感，因为按照该公司联合创始人 Alex Wissner-Gross 在社交平台 X 上的说法，这只虚拟果蝇的一切运动，来自一个完整生物大脑的数字副本：神经元逐个对应，突触逐条连接，感觉输入流进去，神经活动在连接组网络中传播，运动指令流出来，物理仿真的身体执行动作。感知到行动的回路，第一次在全脑仿真中闭合了。图丨相关推文（来源：X）许多人可能还记得，在 2024 年 10 月...",
+        "url": "https://www.mittrchina.com/news/detail/16047",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-09T10:20:34+00:00"
+      },
+      {
         "id": "29f8cf10a43c",
         "title": "藝術介入社會  兩廳院聯手4縣市推動樂齡關懷",
         "summary": "（中央社記者趙靜瑜、實習記者羅薇佳台北9日電）台灣已邁入超高齡社會，國家兩廳院今天宣告「藝術出走2.0」第3年計畫，與台南等4縣市接力呈現「夜路不怕黑」在地版本，透過表演藝術深化對樂齡族群的關懷。",
@@ -469,28 +501,12 @@
         "published": "2026-03-09T02:17:58+00:00"
       },
       {
-        "id": "9d308eb349cf",
-        "title": "郎祖筠策展青年戲曲藝術節　為老傳統找新語彙",
-        "summary": "（中央社記者趙靜瑜台北9日電）由台北市藝文推廣處主辦的第12屆青年戲曲藝術節即將登場，策展人郎祖筠表示，戲曲傳承並非複製，而是在世代更迭中尋找新的表演語彙與觀看方式，為傳統開啟當代表述。",
-        "url": "https://www.cna.com.tw/news/acul/202603090031.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-03-09T01:10:56+00:00"
-      },
-      {
         "id": "79b49434b327",
         "title": "Bringing Code Review to Claude Code",
         "summary": "Bringing Code Review to Claude Code",
         "url": "https://claude.com/blog/code-review",
         "source": "Claude Blog",
         "published": "2026-03-09T00:00:00+00:00"
-      },
-      {
-        "id": "1e717f67fc3a",
-        "title": "DreamScenes – March 2026",
-        "summary": "A Place Where Silence Feels Safe\n\n\n\n&nbsp;\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:47 Reibung - Burdon To CarryChrysanthemen, 2026\n\n\n02:56 Clariloops - Slowly I WakeShades, 2026, Whitelabrecs\n\n\n06:29 Miles Lee - Charcoal Tide (edit)The Sound Of Dreams, 2026, Inspired By Breathing\n\n\n...",
-        "url": "https://www.ambientblog.net/blog/dreamscenes-march-2026/",
-        "source": "Ambientblog",
-        "published": "2026-03-08T18:55:00+00:00"
       },
       {
         "id": "445827c7d6cb",
@@ -573,14 +589,6 @@
         "published": "2026-03-08T05:00:43+00:00"
       },
       {
-        "id": "46feaaa84775",
-        "title": "Gemini攻克宇宙弦难题，还自己想到了费曼技巧",
-        "summary": "AI 攻克了理论物理中的开放性问题！近日，谷歌团队开发了一个基于 Gemini Deep Think 模型的混合神经符号系统，成功推导出宇宙弦发射引力辐射功率谱的 6 种全新精确解法。该研究的重要意义在于，AI 不仅加速了科学发现，更重要的是，该系统推导出人类研究者尚未触及的新型闭式结果。图丨相关论文（来源：arXiv）宇宙弦被认为是引力波背景辐射的重要来源之一，它产生于因宇宙早期相变导致的真空对称破缺。这个问题的关键在一个超级难算的积分，它是计算宇宙弦在振荡时辐射出的引力波功率谱，具体来说是一个在球面上的积分 I(N，α)。由于分母在特定点会出现奇点（变为无穷大），因此该积分常会引起数值计算...",
-        "url": "https://www.mittrchina.com/news/detail/16037",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-07T15:10:54+00:00"
-      },
-      {
         "id": "cbb18136b8be",
         "title": "Here are community-led efforts in Lebanon supporting the displaced",
         "summary": "With an unprecedented minimum of 450,000 people displaced in Lebanon, community-led efforts are again working to provide basic aid. These often overlap with the very music and creative communities I've written about here, in the country and internationally. And they can benefit from your support.\nTh...",
@@ -653,14 +661,6 @@
         "published": "2026-03-05T16:00:00+00:00"
       },
       {
-        "id": "5b2ff1903ac2",
-        "title": "美国投资者要求另设“剔除中国”版基金",
-        "summary": "此举旨在不违反美国针对中国科技领域的投资限制，这些领域包括先进半导体、量子计算和人工智能等。美国多个州还出台法律，限制其公共养老金基金投资中资企业。",
-        "url": "https://www.ftchinese.com/story/001109131",
-        "source": "FTChinese RSS - News",
-        "published": "2026-03-05T16:00:00+00:00"
-      },
-      {
         "id": "29e0d9b08cb8",
         "title": "The best way to learn Bitwig Grid, Serum 2 is in Japanese from LOBOTIX",
         "summary": "LOBOTIX is another reason to have hope in musical imagination. Even without speaking a word of Japanese, these are instantly some of my favorite tutorials. Here, these cover the spectral synthesis modes in Serum 2 and the modular capabilities of Bitwig Grid (and Vital and PhasePlant and more). And t...",
@@ -691,14 +691,6 @@
         "url": "https://cdm.link/noemi-alpha/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-04T19:23:47+00:00"
-      },
-      {
-        "id": "99523ceab6ed",
-        "title": "Machinefabriek * Meredith Bates",
-        "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
-        "url": "https://www.ambientblog.net/blog/machinefabriek-bates/",
-        "source": "Ambientblog",
-        "published": "2026-03-04T18:49:30+00:00"
       },
       {
         "id": "2c8d978240a3",
@@ -829,14 +821,6 @@
         "published": "2026-02-28T23:06:44+00:00"
       },
       {
-        "id": "a992f8790179",
-        "title": "Andreas Voelk & Scott Monteith * Deadbeat",
-        "summary": "ANDREAS VOELK &amp; SCOTT MONTEITH - AND ALL THE CLOCKS RAN DRY\n\n\nUntil now I never heard of Andreas Voelk (from Berlin) or from his bands Das Ende Der Liebe and Center For Mind And Brain. Canadian Scott Monteith, on the other hand, is of course well known from his Deadbeat alias.\n\n\nAnd All The Cloc...",
-        "url": "https://www.ambientblog.net/blog/voelkmonteith-deadbeat/",
-        "source": "Ambientblog",
-        "published": "2026-02-28T18:12:33+00:00"
-      },
-      {
         "id": "41fd99be8d4e",
         "title": "[東南亞週報314] 越印加入川普加薩「和平理事會」、星2025年生育率再創新低、柬總理誓剷除網路詐騙集團",
         "summary": "[東南亞週報314] 越印加入川普加薩「和平理事會」、星2025年生育率再創新低、柬總理誓剷除網路詐騙集團 南 [&#8230;]",
@@ -909,14 +893,6 @@
         "published": "2026-02-24T00:00:00+00:00"
       },
       {
-        "id": "efbfa794b124",
-        "title": "Isobel Waller-Bridge * Bolton / Cordero",
-        "summary": "ISOBEL WALLER-BRIDGE - OBJECTS\n\n\nHer name may ring a distant bell: Isobel Waller-Bridge is the sister of Phoebe Waller-Bridge, who you may remember from the Fleabag series. Isobel composed the music for Fleabag, as well as many other scores for film, television, theatre and ballet. \n\n\nBut apart from...",
-        "url": "https://www.ambientblog.net/blog/wallerbridge-boltoncordero/",
-        "source": "Ambientblog",
-        "published": "2026-02-23T18:31:37+00:00"
-      },
-      {
         "id": "f7bbc255b764",
         "title": "How AI helps break the cost barrier to COBOL modernization",
         "summary": "How AI helps break the cost barrier to COBOL modernization",
@@ -939,14 +915,6 @@
         "url": "https://claude.com/blog/preview-review-and-merge-with-claude-code",
         "source": "Claude Blog",
         "published": "2026-02-20T00:00:00+00:00"
-      },
-      {
-        "id": "9b120dd01b07",
-        "title": "Clara Brea & Menhir * Kult Masek & Petr Vrba",
-        "summary": "CLARA BREA &amp; MENHIR - GROWING FORESTS IN THE CITY\n\n\nIn 2022, the Astral Industries label released The Wetland Remixes - a collaboration project of Son Of Chi (Hanyo van Oosterom, from Holland) and Spanish artist Clara Brea. The original stems of the 'Wetland Project' were remixed by Son Of Chi a...",
-        "url": "https://www.ambientblog.net/blog/cbreamenhir-kultmasek-vrba/",
-        "source": "Ambientblog",
-        "published": "2026-02-18T19:37:40+00:00"
       },
       {
         "id": "ce430890dc55",
@@ -979,14 +947,6 @@
         "url": "https://aseanplusjournal.com/2026/02/17/aseanweekly313/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-02-16T18:43:40+00:00"
-      },
-      {
-        "id": "afbc3f5ca2dd",
-        "title": "Eaton & Fullen * Volume Settings Folder",
-        "summary": "EATON &amp; FULLEN - BUTTERFLY COMPOUND\n\n\nFrank Eaton and Kevin Fullen are founders of the Noise New York recording studio - \"hotbed of the No Wave Movement\". The instrumental, psychedelic and ambient soundscapes they present as the Eaton/Fullen duo is not what I remember from that particular 70's s...",
-        "url": "https://www.ambientblog.net/blog/eaton-fullen-volume-settings-folder/",
-        "source": "Ambientblog",
-        "published": "2026-02-13T16:08:11+00:00"
       },
       {
         "id": "a4f98437c9bc",
@@ -1045,14 +1005,6 @@
         "published": "2026-02-09T00:00:00+00:00"
       },
       {
-        "id": "969b0336887e",
-        "title": "DreamScenes – February 2026",
-        "summary": "For Want Of Spring\n\n\n\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:26 Andrew Heath - The Zener ConventionShades, 2026, Whitelabrecs\n\n\n07:42 Jannis Anastasakis - Dr. KelvinSolaris, 2026, Room40\n\n\n11:25 Félicia Atkinson &amp; Christina Vantzou - Film Still / The SeaReflections Vol. 3: Wate...",
-        "url": "https://www.ambientblog.net/blog/dreamscenes-february-2026/",
-        "source": "Ambientblog",
-        "published": "2026-02-08T18:55:00+00:00"
-      },
-      {
         "id": "ed200f9df9bb",
         "title": "Researching “Code Girls” at the Library",
         "summary": "Liza Mundy, author of the bestselling \"Code Girls: The Untold Story of the American Women Code Breakers of World War II,\" researched the bestselling 2017 book at the Library's Veterans History Project. She drew on the military service records of thousands of women who served in the war but whose wor...",
@@ -1099,14 +1051,6 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
         "source": "Google DeepMind",
         "published": "2026-02-02T17:00:00+00:00"
-      },
-      {
-        "id": "edac18c510de",
-        "title": "Rafael Anton Irisarri * Joachim Spieth",
-        "summary": "RAFAEL ANTON IRISARRI - POINTS OF INACCESSIBILITY\n\n\nThe new album by Rafael Anton Irisarri is planned for release on February 6, 2026. But it's already on pre-order, so this means the limited (bio-)vinyl edition is still available for those who prefer physical editions. And that's a welcome change f...",
-        "url": "https://www.ambientblog.net/blog/irisarri-spieth/",
-        "source": "Ambientblog",
-        "published": "2026-02-01T14:23:38+00:00"
       },
       {
         "id": "f8895d75c66f",
@@ -1213,22 +1157,6 @@
         "published": "2026-01-14T02:17:18+00:00"
       },
       {
-        "id": "8caedc5e1449",
-        "title": "DreamScenes – January 2026",
-        "summary": "The night tremors, so it begs the dawn\n\n\n\n&nbsp; \n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:45 Max Richter - Of Earth And HeavenHamnet OST, 2025, Decca\n\n\n08:03 Hannes Kretzer - Event HorizonO, 2025, self-released\n\n\n14:22 Christina Vantzou, John Also Bennett and Oliver Coates - Death, ...",
-        "url": "https://www.ambientblog.net/blog/dreamscenes-january-2026/",
-        "source": "Ambientblog",
-        "published": "2026-01-11T18:50:00+00:00"
-      },
-      {
-        "id": "0e77cdae9a32",
-        "title": "400 Lonely Things",
-        "summary": "&nbsp;\n\n400 LONELY THINGS - CREATURE COMFORTS / WHY I WENT TO THE WOODS\n\n\nMaybe I should start with a warning: these two releases (2 x 2CD) present no less than 5 hours (+ 9 minutes) of soundscapes that may be experienced as rather heavy psychedelic trips. This is not an \"average\" project in any way...",
-        "url": "https://www.ambientblog.net/blog/400-lonely-things/",
-        "source": "Ambientblog",
-        "published": "2026-01-07T10:31:44+00:00"
-      },
-      {
         "id": "39bb22ee2c62",
         "title": "到底是民主？還是民粹？臺北大學劉嘉薇從網路大數據，分析民粹主義是否在臺灣崛起？",
         "summary": "全文朗讀： &#160; 民粹主義者常掛在嘴邊的一句話是：「只有我們才代表真正的人民。」他們擅長將社會一刀切開 [&#8230;]\nThe post 到底是民主？還是民粹？臺北大學劉嘉薇從網路大數據，分析民粹主義是否在臺灣崛起？ appeared first on 人文．島嶼.",
@@ -1259,14 +1187,6 @@
         "url": "https://humanityisland.nccu.edu.tw/yu-lin-lee_01/",
         "source": "人文．島嶼",
         "published": "2025-12-31T00:00:04+00:00"
-      },
-      {
-        "id": "2413372289c7",
-        "title": "「碳排怪獸」在哪裡？成大林珮珺尋找海面上的隱形碳排",
-        "summary": "全文朗讀 &#160; &#160; 「少開車、多走路」、「自備環保杯」、「吃在地、用在地」⋯⋯。 我們的日常 [&#8230;]\nThe post 「碳排怪獸」在哪裡？成大林珮珺尋找海面上的隱形碳排 appeared first on 人文．島嶼.",
-        "url": "https://humanityisland.nccu.edu.tw/peichunlin_a/",
-        "source": "人文．島嶼",
-        "published": "2025-12-24T02:00:18+00:00"
       },
       {
         "id": "71c8a6e4772a",
@@ -1324,7 +1244,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T23:35:34.123954+00:00"
+        "published": "2026-03-11T02:43:28.995385+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1332,7 +1252,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T23:35:34.123944+00:00"
+        "published": "2026-03-11T02:43:28.995375+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1340,7 +1260,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T23:35:34.123933+00:00"
+        "published": "2026-03-11T02:43:28.995364+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1348,7 +1268,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T23:35:34.123923+00:00"
+        "published": "2026-03-11T02:43:28.995354+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1356,7 +1276,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T23:35:34.123912+00:00"
+        "published": "2026-03-11T02:43:28.995344+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1364,7 +1284,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T23:35:34.123901+00:00"
+        "published": "2026-03-11T02:43:28.995333+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1372,7 +1292,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T23:35:34.123891+00:00"
+        "published": "2026-03-11T02:43:28.995323+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1380,7 +1300,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T23:35:34.123880+00:00"
+        "published": "2026-03-11T02:43:28.995313+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1388,7 +1308,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T23:35:34.123870+00:00"
+        "published": "2026-03-11T02:43:28.995303+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1396,7 +1316,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-10T23:35:34.123859+00:00"
+        "published": "2026-03-11T02:43:28.995292+00:00"
       },
       {
         "id": "e9cfc262e5e8",
