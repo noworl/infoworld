@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-03-12T16:09:35.175794+00:00",
+  "updated_at": "2026-03-12T17:55:16.058101+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "cf3f8cd792d2",
+        "title": "今彩539第115064期　頭獎槓龜",
+        "summary": "（中央社台北12日電）今彩539第115064期開獎，中獎號碼07、35、05、04、23；派彩結果，頭獎槓龜。",
+        "url": "https://www.cna.com.tw/news/ahel/202603120365.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-12T14:07:18+00:00"
+      },
+      {
+        "id": "c0b76569cf6d",
+        "title": "「臺灣活版時代」奪德國世界最美麗書籍榮譽獎",
+        "summary": "（中央社記者邱祖胤台北12日電）台灣出版設計傳捷報，德國萊比錫書藝基金會主辦「世界最美麗的書」今天公布得獎名單，由高鵬翔創作設計「臺灣活版時代」一書從33國、570件作品中脫穎而出，獲榮譽獎。",
+        "url": "https://www.cna.com.tw/news/acul/202603120364.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-12T14:07:16+00:00"
+      },
+      {
+        "id": "953d70516e6c",
+        "title": "威力彩第115021期　頭獎槓龜",
+        "summary": "（中央社台北12日電）威力彩第115021期今晚開獎，第一區中獎號碼為09、04、27、15、25、31，第二區中獎號碼為08。派彩結果，頭獎、貳獎槓龜。",
+        "url": "https://www.cna.com.tw/news/ahel/202603120362.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-12T14:04:12+00:00"
+      },
       {
         "id": "3ec5000bb919",
         "title": "花蓮規模5.7地震不是0403餘震　未來3至5天仍要防搖晃",
@@ -57,30 +81,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202603120302.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-12T10:44:57+00:00"
-      },
-      {
-        "id": "70d85d6f24e3",
-        "title": "國泰航空漲燃油附加費　國籍航空：關注油價走勢",
-        "summary": "（中央社記者黃巧雯台北12日電）中東戰爭引發航空燃油價格上漲，國泰航空今天宣布，18日起調漲燃油附加費，單趟增新台幣609元至2450元；至於國籍航空華航、長榮、星宇航空則表達持續關注國際油價走勢。",
-        "url": "https://www.cna.com.tw/news/ahel/202603120294.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-12T10:15:40+00:00"
-      },
-      {
-        "id": "f073de59d069",
-        "title": "日治醫師之子返台難忘戰時受助　盼尋恩人後代致謝",
-        "summary": "（中央社記者蘇木春台中12日電）日治時期台中醫師石津坂一的後代石津宏，今天在文史團隊協助下到訪台中申請父親的戶籍資料，他並希望能找尋到太平洋戰爭時期幫助他們一家的台灣人後代當面致謝。",
-        "url": "https://www.cna.com.tw/news/ahel/202603120290.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-12T10:08:31+00:00"
-      },
-      {
-        "id": "d4945f46c9b3",
-        "title": "政院補提公視董監名單　盼公廣20週年前組成董事會",
-        "summary": "（中央社記者邱祖胤台北12日電）文化部今天公布、行政院再提名「公視第8屆董監事」名單，第2輪計10位董事候選人及1位監事候選人，將交由立法院各黨團推舉的審查委員會審查，盼7月公廣20週年前能組成董事會。",
-        "url": "https://www.cna.com.tw/news/acul/202603120278.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-12T09:40:05+00:00"
       },
       {
         "id": "b523b391813e",
@@ -269,12 +269,44 @@
         "published": "2026-03-12T01:20:33+00:00"
       },
       {
+        "id": "6260224e2b1d",
+        "title": "Claude now creates interactive charts, diagrams and visualizations",
+        "summary": "Claude now creates interactive charts, diagrams and visualizations",
+        "url": "https://claude.com/blog/claude-builds-visuals",
+        "source": "Claude Blog",
+        "published": "2026-03-12T00:00:00+00:00"
+      },
+      {
         "id": "14d578bd5aaa",
         "title": "Find whole worlds inside samples: Baby Audio Grainferno deep dive",
         "summary": "Per-grain processing, automatic pitch controls, drag-and-drop modulation, and audio-rate oscillations -- Grainferno proves there are still unexplored frontiers in granular synthesis and hand-crafted DSP. It's addictive to add the synth to projects, drag in sounds, and see what you can discover.\nThe ...",
         "url": "https://cdm.link/inside-baby-audio-grainferno/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-11T16:24:20+00:00"
+      },
+      {
+        "id": "f5a4afd5e3d1",
+        "title": "當課堂始終難以談論親密關係：青年約會暴力經驗，顯影性平20年制度空窗",
+        "summary": "「性平教育世代」，雖遇上政策揚帆，但實質的性平教育從未如期抵達。如今網路空間充滿標籤與對立，有名無實的性平與情感教育更未趕上這一代面對的社會處境與挑戰。所謂「性平教育世代」，終究須添上語帶矛盾的引號。",
+        "url": "https://www.twreporter.org/a/dating-violence-among-youth-3",
+        "source": "報導者",
+        "published": "2026-03-11T16:00:00+00:00"
+      },
+      {
+        "id": "121d8e097bcd",
+        "title": "制度加大保護傘，面對約會暴力的「性平教育世代」為何仍不敢、不願求助？",
+        "summary": "在法規制度愈趨完善的保障下，不少受過性平教育的青年受害者，仍坐困有毒關係之中，難以意識暴力的存在，不知該求助，或不敢求救。儘管#MeToo開了一扇述說的窗，但網路帶來的效應也超出他們的預期。",
+        "url": "https://www.twreporter.org/a/dating-violence-among-youth-2",
+        "source": "報導者",
+        "published": "2026-03-11T16:00:00+00:00"
+      },
+      {
+        "id": "c07d7ba1b646",
+        "title": "網路犯罪環伺、情緒困擾加劇衝突：GenZ「性平教育世代」約會暴力現形記",
+        "summary": "性平教育已實施20年，發生在未婚伴侶間的親密關係暴力至今仍層出不窮，暴力的疆界更因數位科技而拓展，從言語辱罵、肢體暴力，延伸至訊息騷擾、追蹤定位、性影像外流等全面控制與傷害⋯⋯",
+        "url": "https://www.twreporter.org/a/dating-violence-among-youth-1",
+        "source": "報導者",
+        "published": "2026-03-11T16:00:00+00:00"
       },
       {
         "id": "8cbc261937b7",
@@ -357,18 +389,18 @@
         "published": "2026-03-10T16:55:28+00:00"
       },
       {
-        "id": "a6303d58fbf0",
-        "title": "揭開「六邊形戰士」神祕面紗：拼媒體露出、寫法案、地方選服全都包，月薪4萬的「國會助理」修法後真能加薪嗎？",
-        "summary": "國會助理既要具備政策研析能力，還得隨時注意輿情、處理立委需求。面臨高壓、長工時，國會助理流動率高，常被視為是「過渡」性質的工作；如何修法提升助理的勞動權益及待遇，其實橫跨多屆的國會助理已「自救」、討論多年，修正草案卻一直無法獲得共識。",
-        "url": "https://www.twreporter.org/a/podcast-2026-03-11",
-        "source": "報導者",
-        "published": "2026-03-10T16:00:00+00:00"
-      },
-      {
         "id": "c8f67da81bf1",
         "title": "梁東屏／歲月淘盡江湖色：看見歷史轉折處的蔡金塗──讀《臺北聞人蔡金塗》",
         "summary": "《臺北聞人蔡金塗》可讀之處，在於作者鄭進耀以蔡金塗的一生、以及他做為一位民間社會與政權間的重要協商者為軸線，回溯許多不為人知的歷史，那些地方勢力與政商界、地下秩序間的複雜互動⋯⋯",
         "url": "https://www.twreporter.org/a/bookreviews-tsai-chin-tu",
+        "source": "報導者",
+        "published": "2026-03-10T16:00:00+00:00"
+      },
+      {
+        "id": "a6303d58fbf0",
+        "title": "揭開「六邊形戰士」神祕面紗：拼媒體露出、寫法案、地方選服全都包，月薪4萬的「國會助理」修法後真能加薪嗎？",
+        "summary": "國會助理既要具備政策研析能力，還得隨時注意輿情、處理立委需求。面臨高壓、長工時，國會助理流動率高，常被視為是「過渡」性質的工作；如何修法提升助理的勞動權益及待遇，其實橫跨多屆的國會助理已「自救」、討論多年，修正草案卻一直無法獲得共識。",
+        "url": "https://www.twreporter.org/a/podcast-2026-03-11",
         "source": "報導者",
         "published": "2026-03-10T16:00:00+00:00"
       },
@@ -429,18 +461,18 @@
         "published": "2026-03-10T05:57:42+00:00"
       },
       {
-        "id": "8c6b36a77885",
-        "title": "台灣2026 WBC投打分析：一次同生共死的進擊，與世代交替的傳承",
-        "summary": "台灣在2026 WBC預賽整體表現上，打擊未能完全發揮，投手面對高層級打者的壓制力仍有待提升。不過，台灣棒球新世代的新球風逐漸明確：心中沒有恐懼、團體向心強大，每一名教練與隊員，都有超越比賽的思考與領悟。",
-        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-record",
-        "source": "報導者",
-        "published": "2026-03-09T16:00:00+00:00"
-      },
-      {
         "id": "58fec92a42b5",
         "title": "趙麟宇、高若想／台灣首次醫療工會透過仲裁調薪案背後 ，看見「被制度化」的勞資不平等",
         "summary": "",
         "url": "https://www.twreporter.org/a/opinion-taiwans-landmark-medical-union-salary-arbitration",
+        "source": "報導者",
+        "published": "2026-03-09T16:00:00+00:00"
+      },
+      {
+        "id": "8c6b36a77885",
+        "title": "台灣2026 WBC投打分析：一次同生共死的進擊，與世代交替的傳承",
+        "summary": "台灣在2026 WBC預賽整體表現上，打擊未能完全發揮，投手面對高層級打者的壓制力仍有待提升。不過，台灣棒球新世代的新球風逐漸明確：心中沒有恐懼、團體向心強大，每一名教練與隊員，都有超越比賽的思考與領悟。",
+        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-record",
         "source": "報導者",
         "published": "2026-03-09T16:00:00+00:00"
       },
@@ -725,22 +757,6 @@
         "published": "2026-03-05T16:30:00+00:00"
       },
       {
-        "id": "45e7016a73d0",
-        "title": "從Team Taiwan「聽台灣」：以世界音樂資料庫鑑定台灣棒球音樂DNA",
-        "summary": "「來到棒球場上，我們總是希望自己支持的球隊和別人不同，逐漸發展出各隊特色，接著又希望自己的國家隊和別人不同，所以我們會引用台灣的既有元素，或者從零開始建立台灣的模樣。」",
-        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-cheering-songs-analysis",
-        "source": "報導者",
-        "published": "2026-03-05T16:00:00+00:00"
-      },
-      {
-        "id": "1c1a1f7d483e",
-        "title": "探監、寫信告訴你，鐵窗外香港是什麼模樣⋯⋯2019年後，台灣探監師與港人創作者走過的香港監所陪伴路",
-        "summary": "香港媳婦林明儀自2019年底開始，無償赴監所探視因反送中參與運動被捕的政治犯。朋友因運動入獄的在台港人Franki，將林明儀的觀察及受刑人經歷轉化為劇場語言，這是香港流亡者與在囚者陪伴彼此療傷的故事，也想告訴台灣人，那些發生在香港的事情還沒結束。",
-        "url": "https://www.twreporter.org/a/podcast-2026-03-06",
-        "source": "報導者",
-        "published": "2026-03-05T16:00:00+00:00"
-      },
-      {
         "id": "29e0d9b08cb8",
         "title": "The best way to learn Bitwig Grid, Serum 2 is in Japanese from LOBOTIX",
         "summary": "LOBOTIX is another reason to have hope in musical imagination. Even without speaking a word of Japanese, these are instantly some of my favorite tutorials. Here, these cover the spectral synthesis modes in Serum 2 and the modular capabilities of Bitwig Grid (and Vital and PhasePlant and more). And t...",
@@ -779,14 +795,6 @@
         "url": "https://www.ambientblog.net/blog/machinefabriek-bates/",
         "source": "Ambientblog",
         "published": "2026-03-04T18:49:30+00:00"
-      },
-      {
-        "id": "2c8d978240a3",
-        "title": "跪下來接，更容易「偷好球」？WBC台灣三大捕手解析「單膝蹲捕」革命",
-        "summary": "被球迷封為「心靈捕手」的林家正，球場上示範在MLB掀起浪潮的單膝跪地姿勢，引起不少人好奇。我們採訪林家正、蔣少宏與吉力吉撈・鞏冠（Giljegiljaw Kungkuan），解析從雙腳蹲到跪姿的現代捕手蹲捕革命。",
-        "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-one-knee-down-catching-stance",
-        "source": "報導者",
-        "published": "2026-03-04T16:00:00+00:00"
       },
       {
         "id": "1c2e501eb61b",
@@ -1035,14 +1043,6 @@
         "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-02-12T13:02:48+00:00"
-      },
-      {
-        "id": "e7fc78fd970f",
-        "title": "Claude Enterprise, now available self-serve",
-        "summary": "Claude Enterprise, now available self-serve",
-        "url": "https://claude.com/blog/self-serve-enterprise",
-        "source": "Claude Blog",
-        "published": "2026-02-12T00:00:00+00:00"
       },
       {
         "id": "b43c04bae50d",
@@ -1324,7 +1324,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-12T16:09:35.175477+00:00"
+        "published": "2026-03-12T17:55:16.057775+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1332,7 +1332,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-12T16:09:35.175467+00:00"
+        "published": "2026-03-12T17:55:16.057765+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1340,7 +1340,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-12T16:09:35.175457+00:00"
+        "published": "2026-03-12T17:55:16.057755+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1348,7 +1348,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-12T16:09:35.175447+00:00"
+        "published": "2026-03-12T17:55:16.057744+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1356,7 +1356,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-12T16:09:35.175437+00:00"
+        "published": "2026-03-12T17:55:16.057734+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1364,7 +1364,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-12T16:09:35.175427+00:00"
+        "published": "2026-03-12T17:55:16.057724+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1372,7 +1372,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-12T16:09:35.175417+00:00"
+        "published": "2026-03-12T17:55:16.057714+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1380,7 +1380,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-12T16:09:35.175407+00:00"
+        "published": "2026-03-12T17:55:16.057703+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1388,7 +1388,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-12T16:09:35.175398+00:00"
+        "published": "2026-03-12T17:55:16.057693+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1396,7 +1396,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-12T16:09:35.175388+00:00"
+        "published": "2026-03-12T17:55:16.057682+00:00"
       },
       {
         "id": "5f4d9da2958a",
