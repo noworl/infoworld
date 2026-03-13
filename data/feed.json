@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-13T08:53:05.471776+00:00",
+  "updated_at": "2026-03-13T09:51:05.179862+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -165,6 +165,14 @@
     ],
     "破(day)": [
       {
+        "id": "90e74d928450",
+        "title": "台灣燈會青森睡魔燈組　16日晚間移展嘉義配天宮",
+        "summary": "（中央社記者王寶兒台北13日電）台灣燈會進入倒數，文總今天表示，備受關注的「青森睡魔抵嘉」燈組，預計16日晚間移至嘉義縣朴子配天宮展出，目前暫定展至5月9日媽祖誕辰。",
+        "url": "https://www.cna.com.tw/news/acul/202603130205.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-03-13T08:33:10+00:00"
+      },
+      {
         "id": "357f2304bb00",
         "title": "賀台灣隊WBC表現　富邦美術館免費入場湧人潮",
         "summary": "（中央社記者王寶兒台北13日電）慶祝台灣隊在世界棒球經典賽（WBC）表現，富邦美術館本週開放免費入館，平日也湧現人潮，較過往非假日觀展人次至少成長5成，開館前2小時就有人排隊，預估明天將達人次高峰。",
@@ -195,6 +203,14 @@
         "url": "https://technews.tw/2026/03/13/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-03-13T03:00:12+00:00"
+      },
+      {
+        "id": "ade472edaacd",
+        "title": "中国在科技领先与创造就业之间寻求平衡",
+        "summary": "中国政府继续强调对科技领先地位的重视，同时提出构建“就业友好型发展方式”，凸显对失业问题日益关注。",
+        "url": "https://www.ftchinese.com/story/001109184",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-12T16:00:00+00:00"
       },
       {
         "id": "63818e082d69",
@@ -291,14 +307,6 @@
         "url": "https://www.cna.com.tw/news/acul/202603120126.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-03-12T04:42:32+00:00"
-      },
-      {
-        "id": "ac281bfc6969",
-        "title": "高雄83歲彩繪藝師馮進興辭世　搨彩技法聞名",
-        "summary": "（中央社記者林巧璉高雄12日電）高雄市傳統彩繪無形文化資產保存者馮進興7日辭世，享壽83歲。馮進興投身廟宇彩繪逾一甲子，以獨特的「搨彩」技法聞名。高雄市文化局悼念，並感佩他一生為傳統工藝奉獻。",
-        "url": "https://www.cna.com.tw/news/acul/202603120092.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-03-12T03:18:18+00:00"
       },
       {
         "id": "3bbdef7f7c50",
@@ -506,14 +514,6 @@
         "summary": "台灣在2026 WBC預賽整體表現上，打擊未能完全發揮，投手面對高層級打者的壓制力仍有待提升。不過，台灣棒球新世代的新球風逐漸明確：心中沒有恐懼、團體向心強大，每一名教練與隊員，都有超越比賽的思考與領悟。",
         "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-record",
         "source": "報導者",
-        "published": "2026-03-09T16:00:00+00:00"
-      },
-      {
-        "id": "426322d00f9f",
-        "title": "雷诺寻求降低对欧洲市场销量的依赖",
-        "summary": "这家法国汽车制造商计划拓展印度和其他新兴市场，到2030年实现欧洲以外市场贡献半数销量。",
-        "url": "https://www.ftchinese.com/story/001109159",
-        "source": "FTChinese RSS - News",
         "published": "2026-03-09T16:00:00+00:00"
       },
       {
@@ -1324,7 +1324,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-13T08:53:05.471430+00:00"
+        "published": "2026-03-13T09:51:05.179485+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1332,7 +1332,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-13T08:53:05.471420+00:00"
+        "published": "2026-03-13T09:51:05.179475+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1340,7 +1340,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-13T08:53:05.471410+00:00"
+        "published": "2026-03-13T09:51:05.179465+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1348,7 +1348,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-13T08:53:05.471399+00:00"
+        "published": "2026-03-13T09:51:05.179454+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1356,7 +1356,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-13T08:53:05.471389+00:00"
+        "published": "2026-03-13T09:51:05.179444+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1364,7 +1364,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-13T08:53:05.471378+00:00"
+        "published": "2026-03-13T09:51:05.179433+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1372,7 +1372,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-13T08:53:05.471350+00:00"
+        "published": "2026-03-13T09:51:05.179423+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1380,7 +1380,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-13T08:53:05.471340+00:00"
+        "published": "2026-03-13T09:51:05.179413+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1388,7 +1388,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-13T08:53:05.471329+00:00"
+        "published": "2026-03-13T09:51:05.179402+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -1396,7 +1396,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-13T08:53:05.471319+00:00"
+        "published": "2026-03-13T09:51:05.179392+00:00"
       },
       {
         "id": "6c79a88a7991",
