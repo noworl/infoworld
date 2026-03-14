@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-03-14T16:41:30.286988+00:00",
+  "updated_at": "2026-03-14T17:35:57.196100+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "88084e73cc5e",
+        "title": "NguoiTaiHuyenHuyenTrangBucLienCoTheHoiDoaiVanVatTH",
+        "summary": "NguoiTaiHuyenHuyenTrangBucLienCoTheHoiDoaiVanVatTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/NguoiTaiHuyenHuyenTrangBucLienCoTheHoiDoaiVanVatTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-14T16:23:53+00:00"
+      },
+      {
+        "id": "7652eee90ed9",
+        "title": "SieuPhamTuTienDaiLucTH",
+        "summary": "SieuPhamTuTienDaiLucTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SieuPhamTuTienDaiLucTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-14T16:23:31+00:00"
+      },
+      {
+        "id": "e1a812778e97",
+        "title": "NguoiTaiHongHoangTaThongThienCoSongHinhThaiTH",
+        "summary": "NguoiTaiHongHoangTaThongThienCoSongHinhThaiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/NguoiTaiHongHoangTaThongThienCoSongHinhThaiTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-14T16:23:19+00:00"
+      },
       {
         "id": "db56b12253c7",
         "title": "SET AO VIVO DJ GIGIO BOY EM JOINVILLE 08 03 2026",
@@ -137,30 +161,6 @@
         "url": "https://archive.org/details/NhanCongHuanHangNhatNhieuDenMoiTayTaPhaAnLanhDaoYenTamTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-14T08:54:34+00:00"
-      },
-      {
-        "id": "7303d82b7161",
-        "title": "NhaTaNuongTuLaiLaMaHoangDaiNhanTH",
-        "summary": "NhaTaNuongTuLaiLaMaHoangDaiNhanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/NhaTaNuongTuLaiLaMaHoangDaiNhanTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-14T08:54:33+00:00"
-      },
-      {
-        "id": "2d6d7b739dfa",
-        "title": "SauMuoiTuoiLyHonHeThongMoiDenTH",
-        "summary": "SauMuoiTuoiLyHonHeThongMoiDenTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/SauMuoiTuoiLyHonHeThongMoiDenTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-14T08:53:35+00:00"
-      },
-      {
-        "id": "b89e2379eaf2",
-        "title": "RedRebelsTH",
-        "summary": "RedRebelsTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/RedRebelsTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-14T08:53:15+00:00"
       },
       {
         "id": "e3d6093bb127",
@@ -393,86 +393,6 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
-      },
-      {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "432b560195f7",
-        "title": "EDM, Tech-House or Business Techno?",
-        "summary": "This article explores how the term EDM, along with other newer labels for club music, is used among some audiences to distinguish between authenticity and inauthenticity within club culture. The focus is on discussions in social media, with the Facebook group The Worst Techno Memes Ever Group Page (...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1309",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "e44fb55de938",
-        "title": "Negotiating Sonic Spaces",
-        "summary": "Over the past two decades, electronic dance music (EDM) has gained immense popularity among India’s urban middle-class youth, driven by the rise of commercial EDM festivals and local artists. This study examines how Indian urban youth engage with EDM culture (EDMC), focusing on participation, perfor...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1304",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "312b29f6c5e0",
-        "title": "Beats on Airwaves",
-        "summary": "This article investigates electronic dance music on German radio stations. How is this music selected by editors? Which terminology is employed and presented on-air? What are the implications of this for audiences and researchers? What types of electronic dance music and related music are currently ...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1310",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "0785b8b5260c",
-        "title": "Playing by the Rules?",
-        "summary": "Genre conventions play a central role in shaping contemporary DJ performance, influencing how techniques and technologies are applied across styles such as techno, house and drum ’n’ bass. While scholarship has examined questions of authenticity, automation and the shift from analogue to digital tec...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1305",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "579c94021246",
-        "title": "Augmented Creativity",
-        "summary": "This article explores the use of AI tools in the DIY production of a music video through a practice-led case study involving Midjourney, Runway and Plask. The project demonstrates how AI enables faster and more stylistically ambitious visual content creation, especially for music producers without f...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1282",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -724,6 +644,22 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "2121f7e29254",
+        "title": "Pi Day: Hear and see approximations for Pi — and learn about shaders, too",
+        "summary": "Rebel against the anti-intellectual world around us! Forget the traumas of math classes past! Instead, enter a hypnotic trance as your screen vibrates and headphones ring with the sight and sound of Pi's approximations. Our friends over at VDMX would like to introduce you to the wonders of ... bad P...",
+        "url": "https://cdm.link/pi-day-bad-pi/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-14T17:11:45+00:00"
+      },
+      {
+        "id": "c920b206ce4c",
+        "title": "賴東序／和平島造船廠──在場的重量，與不願被馴化的觀看",
+        "summary": "若攝影者始終以外部視角介入勞動現場，影像或許動人，卻難以承載那種粗糙而沉重的生存質地。在造船廠艙間裡，如何讓身體感知與環境對位，留住那份視覺與感受交織而出的共鳴，才更加接近我所理解的勞動題材核心。",
+        "url": "https://www.twreporter.org/a/photo-keelung-shipyard-labor-photography-embodied-vision",
+        "source": "報導者",
+        "published": "2026-03-14T16:00:00+00:00"
+      },
       {
         "id": "79b21a397b05",
         "title": "Pi Day: Chino Yoshio and Sine Wave Marimbas and Cherry Blossoms",
@@ -1101,18 +1037,18 @@
         "published": "2026-03-11T16:00:00+00:00"
       },
       {
-        "id": "f5a4afd5e3d1",
-        "title": "當課堂始終難以談論親密關係：青年約會暴力經驗，顯影性平20年制度空窗",
-        "summary": "「性平教育世代」，雖遇上政策揚帆，但實質的性平教育從未如期抵達。如今網路空間充滿標籤與對立，有名無實的性平與情感教育更未趕上這一代面對的社會處境與挑戰。所謂「性平教育世代」，終究須添上語帶矛盾的引號。",
-        "url": "https://www.twreporter.org/a/dating-violence-among-youth-3",
-        "source": "報導者",
-        "published": "2026-03-11T16:00:00+00:00"
-      },
-      {
         "id": "121d8e097bcd",
         "title": "制度加大保護傘，面對約會暴力的「性平教育世代」為何仍不敢、不願求助？",
         "summary": "在法規制度愈趨完善的保障下，不少受過性平教育的青年受害者，仍坐困有毒關係之中，難以意識暴力的存在，不知該求助，或不敢求救。儘管#MeToo開了一扇述說的窗，但網路帶來的效應也超出他們的預期。",
         "url": "https://www.twreporter.org/a/dating-violence-among-youth-2",
+        "source": "報導者",
+        "published": "2026-03-11T16:00:00+00:00"
+      },
+      {
+        "id": "f5a4afd5e3d1",
+        "title": "當課堂始終難以談論親密關係：青年約會暴力經驗，顯影性平20年制度空窗",
+        "summary": "「性平教育世代」，雖遇上政策揚帆，但實質的性平教育從未如期抵達。如今網路空間充滿標籤與對立，有名無實的性平與情感教育更未趕上這一代面對的社會處境與挑戰。所謂「性平教育世代」，終究須添上語帶矛盾的引號。",
+        "url": "https://www.twreporter.org/a/dating-violence-among-youth-3",
         "source": "報導者",
         "published": "2026-03-11T16:00:00+00:00"
       },
@@ -1321,14 +1257,6 @@
         "title": "台灣2026 WBC投打分析：一次同生共死的進擊，與世代交替的傳承",
         "summary": "台灣在2026 WBC預賽整體表現上，打擊未能完全發揮，投手面對高層級打者的壓制力仍有待提升。不過，台灣棒球新世代的新球風逐漸明確：心中沒有恐懼、團體向心強大，每一名教練與隊員，都有超越比賽的思考與領悟。",
         "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-record",
-        "source": "報導者",
-        "published": "2026-03-09T16:00:00+00:00"
-      },
-      {
-        "id": "58fec92a42b5",
-        "title": "趙麟宇、高若想／台灣首次醫療工會透過仲裁調薪案背後 ，看見「被制度化」的勞資不平等",
-        "summary": "",
-        "url": "https://www.twreporter.org/a/opinion-taiwans-landmark-medical-union-salary-arbitration",
         "source": "報導者",
         "published": "2026-03-09T16:00:00+00:00"
       },
@@ -1571,14 +1499,6 @@
         "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
         "source": "Google DeepMind",
         "published": "2026-03-05T16:30:00+00:00"
-      },
-      {
-        "id": "29e0d9b08cb8",
-        "title": "The best way to learn Bitwig Grid, Serum 2 is in Japanese from LOBOTIX",
-        "summary": "LOBOTIX is another reason to have hope in musical imagination. Even without speaking a word of Japanese, these are instantly some of my favorite tutorials. Here, these cover the spectral synthesis modes in Serum 2 and the modular capabilities of Bitwig Grid (and Vital and PhasePlant and more). And t...",
-        "url": "https://cdm.link/the-best-way-to-learn-bitwig-grid-serum-2-is-in-japanese-from-lobotix/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-03-05T15:59:59+00:00"
       },
       {
         "id": "08ad9831b32b",
@@ -2284,7 +2204,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T16:41:30.286455+00:00"
+        "published": "2026-03-14T17:35:57.195606+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2212,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T16:41:30.286445+00:00"
+        "published": "2026-03-14T17:35:57.195596+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2220,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T16:41:30.286434+00:00"
+        "published": "2026-03-14T17:35:57.195586+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2228,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T16:41:30.286424+00:00"
+        "published": "2026-03-14T17:35:57.195576+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2236,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T16:41:30.286413+00:00"
+        "published": "2026-03-14T17:35:57.195566+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2244,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T16:41:30.286402+00:00"
+        "published": "2026-03-14T17:35:57.195556+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2252,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T16:41:30.286388+00:00"
+        "published": "2026-03-14T17:35:57.195545+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2260,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T16:41:30.286376+00:00"
+        "published": "2026-03-14T17:35:57.195536+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2268,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T16:41:30.286365+00:00"
+        "published": "2026-03-14T17:35:57.195525+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2276,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T16:41:30.286354+00:00"
+        "published": "2026-03-14T17:35:57.195515+00:00"
       },
       {
         "id": "6c79a88a7991",
