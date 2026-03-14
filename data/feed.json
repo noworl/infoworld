@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-03-14T15:36:21.483526+00:00",
+  "updated_at": "2026-03-14T16:41:30.286988+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "db56b12253c7",
+        "title": "SET AO VIVO DJ GIGIO BOY EM JOINVILLE 08 03 2026",
+        "summary": "FD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-gigio-boy-em-joinville-08-03-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-14T16:09:44+00:00"
+      },
       {
         "id": "063a8791d5ae",
         "title": "今彩539第115066期　頭獎槓龜",
@@ -9,6 +17,14 @@
         "url": "https://www.cna.com.tw/news/ahel/202603140220.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-14T14:05:08+00:00"
+      },
+      {
+        "id": "919eb7d7218c",
+        "title": "EISLER Deutsche Symphonie op. 50",
+        "summary": "EISLER  Deutsche Symphonie op. 50.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nmhf_20260314",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-14T13:31:26+00:00"
       },
       {
         "id": "b52605bf0958",
@@ -21,7 +37,7 @@
       {
         "id": "04940ecd684f",
         "title": "EISLER Lieder und Kantaten im Exil",
-        "summary": "EISLER  Lieder und Kantaten im Exil.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "EISLER  Lieder und Kantaten im Exil.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/bvnngx",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-14T13:15:16+00:00"
@@ -145,22 +161,6 @@
         "url": "https://archive.org/details/RedRebelsTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-14T08:53:15+00:00"
-      },
-      {
-        "id": "83bda361e87e",
-        "title": "SauKhiSayRuouDemNhamTauTuLamLaoBaTH",
-        "summary": "SauKhiSayRuouDemNhamTauTuLamLaoBaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/SauKhiSayRuouDemNhamTauTuLamLaoBaTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-14T08:53:13+00:00"
-      },
-      {
-        "id": "4ecd555da871",
-        "title": "SeKhongTuTienNhungLaTuTienTH",
-        "summary": "SeKhongTuTienNhungLaTuTienTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/SeKhongTuTienNhungLaTuTienTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-14T08:52:52+00:00"
       },
       {
         "id": "e3d6093bb127",
@@ -393,6 +393,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "432b560195f7",
+        "title": "EDM, Tech-House or Business Techno?",
+        "summary": "This article explores how the term EDM, along with other newer labels for club music, is used among some audiences to distinguish between authenticity and inauthenticity within club culture. The focus is on discussions in social media, with the Facebook group The Worst Techno Memes Ever Group Page (...",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1309",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "e44fb55de938",
+        "title": "Negotiating Sonic Spaces",
+        "summary": "Over the past two decades, electronic dance music (EDM) has gained immense popularity among India’s urban middle-class youth, driven by the rise of commercial EDM festivals and local artists. This study examines how Indian urban youth engage with EDM culture (EDMC), focusing on participation, perfor...",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1304",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "312b29f6c5e0",
+        "title": "Beats on Airwaves",
+        "summary": "This article investigates electronic dance music on German radio stations. How is this music selected by editors? Which terminology is employed and presented on-air? What are the implications of this for audiences and researchers? What types of electronic dance music and related music are currently ...",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1310",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "0785b8b5260c",
+        "title": "Playing by the Rules?",
+        "summary": "Genre conventions play a central role in shaping contemporary DJ performance, influencing how techniques and technologies are applied across styles such as techno, house and drum ’n’ bass. While scholarship has examined questions of authenticity, automation and the shift from analogue to digital tec...",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1305",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "579c94021246",
+        "title": "Augmented Creativity",
+        "summary": "This article explores the use of AI tools in the DIY production of a music video through a practice-led case study involving Midjourney, Runway and Plask. The project demonstrates how AI enables faster and more stylistically ambitious visual content creation, especially for music producers without f...",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1282",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -645,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "79b21a397b05",
+        "title": "Pi Day: Chino Yoshio and Sine Wave Marimbas and Cherry Blossoms",
+        "summary": "&#8220;Chino Yoshio, a composer based quietly in Kyotanabe, Kyoto&#8221; has been working with sine waves in poetic, beautifully reflective ways. I&#8217;m going to run today with the idea that sine waves need not be just neutral, the absence of harmonics &#8212; not just a technical description, li...",
+        "url": "https://cdm.link/pi-day-chino-yoshio-and-sine-waves/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-14T15:39:23+00:00"
+      },
+      {
+        "id": "eb7f846979a7",
+        "title": "德國哲學大師哈伯瑪斯逝世　享壽96歲",
+        "summary": "（中央社柏林14日綜合外電報導）德國著名出版社「蘇坎普」（Suhrkamp Verlag）指出，重量級哲學家、社會學家哈伯瑪斯（Jürgen Habermas）今天在德國南部城鎮斯坦柏格（Starnberg）與世長辭，享壽96歲。",
+        "url": "https://www.cna.com.tw/news/acul/202603140223.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-03-14T15:24:18+00:00"
+      },
+      {
         "id": "8d896b29af7e",
         "title": "台灣3部電影登捷克人權影展　探討家庭關係、原民文化",
         "summary": "（中央社記者劉郁葶布拉格14日專電）3部台灣電影登上捷克電影節「One World國際人權影展」，分別是探討母女關係的劇情片「小雁與吳愛麗」、聚焦泰雅族文化傳承的「烤火房的一些夢」，以及關注印尼松巴島奴隸制度議題的「奴隸島」，展現台灣對多元人權議題的關注與視角。",
@@ -795,14 +891,6 @@
         "url": "https://www.openbook.org.tw/article/p-72394",
         "source": "Openbook閱讀誌",
         "published": "2026-03-13T08:30:38+00:00"
-      },
-      {
-        "id": "357f2304bb00",
-        "title": "賀台灣隊WBC表現　富邦美術館免費入場湧人潮",
-        "summary": "（中央社記者王寶兒台北13日電）慶祝台灣隊在世界棒球經典賽（WBC）表現，富邦美術館本週開放免費入館，平日也湧現人潮，較過往非假日觀展人次至少成長5成，開館前2小時就有人排隊，預估明天將達人次高峰。",
-        "url": "https://www.cna.com.tw/news/acul/202603130188.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-03-13T07:47:33+00:00"
       },
       {
         "id": "3c0502de9cbd",
@@ -1509,14 +1597,6 @@
         "published": "2026-03-05T00:00:00+00:00"
       },
       {
-        "id": "0d22361783ae",
-        "title": "The developer of Tweakbench wants to remake the DAW without linear time",
-        "summary": "The Digital Audio Workstation can never quite escape the timeline and its roots in multitrack tape. Tweakbench's new Noemi, which entered alpha last month, starts from scratch. What if music in the DAW could constantly evolve and change? What if the DAW were non-deterministic?\nThe post The developer...",
-        "url": "https://cdm.link/noemi-alpha/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-03-04T19:23:47+00:00"
-      },
-      {
         "id": "99523ceab6ed",
         "title": "Machinefabriek * Meredith Bates",
         "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
@@ -2204,7 +2284,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T15:36:21.483013+00:00"
+        "published": "2026-03-14T16:41:30.286455+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2212,7 +2292,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T15:36:21.483003+00:00"
+        "published": "2026-03-14T16:41:30.286445+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2300,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T15:36:21.482993+00:00"
+        "published": "2026-03-14T16:41:30.286434+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2308,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T15:36:21.482983+00:00"
+        "published": "2026-03-14T16:41:30.286424+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2316,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T15:36:21.482973+00:00"
+        "published": "2026-03-14T16:41:30.286413+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2324,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T15:36:21.482963+00:00"
+        "published": "2026-03-14T16:41:30.286402+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2332,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T15:36:21.482952+00:00"
+        "published": "2026-03-14T16:41:30.286388+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2340,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T15:36:21.482942+00:00"
+        "published": "2026-03-14T16:41:30.286376+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2348,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T15:36:21.482932+00:00"
+        "published": "2026-03-14T16:41:30.286365+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2356,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-14T15:36:21.482922+00:00"
+        "published": "2026-03-14T16:41:30.286354+00:00"
       },
       {
         "id": "6c79a88a7991",
