@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T16:42:05.543682+00:00",
+  "updated_at": "2026-03-15T17:36:38.698075+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -395,86 +395,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "168475bc91e2",
-        "title": "“It’s not just a Party, ya know?”",
-        "summary": "This article addresses the application of affective theories in relation to electronic dance music parties, specifically from a Global South perspective. The aim is to comprehend the circumstances of collective and individual formations facilitated through music as an element that intensifies affect...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1306",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "db41ec6a53f4",
-        "title": "Dance Music: A Feminist Account of an Ordinary Culture (Tami Gadir) & Welcome to the Club: The Life and Lessons of a Black Woman DJ (DJ Paulette)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1328",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "bc67b3d2bc79",
-        "title": "Live Spielen: Liveness in Performances elektronischer Tanzmusik (Josef Schaubruch)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1324",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "aa101d669a22",
-        "title": "Assembling a Black Counter Culture (DeForrest Brown, Jr)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1322",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "432b560195f7",
-        "title": "EDM, Tech-House or Business Techno?",
-        "summary": "This article explores how the term EDM, along with other newer labels for club music, is used among some audiences to distinguish between authenticity and inauthenticity within club culture. The focus is on discussions in social media, with the Facebook group The Worst Techno Memes Ever Group Page (...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1309",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -733,6 +653,38 @@
         "published": "2026-03-15T11:13:43+00:00"
       },
       {
+        "id": "38454c6b5f8e",
+        "title": "关于AI和基础科研的三个问题",
+        "summary": "（来源：麻省理工科技评论）好奇心驱动的研究长期以来一直是技术变革的火种。一个世纪前，对原子的好奇催生了量子力学，并最终孕育出现代计算核心的晶体管；反过来看，蒸汽机是一项实用的突破，但人们在热力学领域的基础研究才真正释放了它的全部潜力。今天，AI 和科学正处于一个类似的转折点。当前的 AI 革命由数十年来数学和物理科学（MPS）领域的研究所推动，这些领域提供了具有挑战性的问题、数据集和洞见，使现代 AI 成为可能。2024 年的诺贝尔物理学奖和化学奖分别授予了根植于物理学的基础 AI 方法和用于蛋白质设计的 AI 应用，让这种关联变得不容忽视。2025 年，MIT 举办了一场“AI+MPS 的未...",
+        "url": "https://www.mittrchina.com/news/detail/16085",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-15T10:15:54+00:00"
+      },
+      {
+        "id": "31a0419275d8",
+        "title": "每天放屁32次才算正常？科学家发明智能内裤，专测屁里的氢气含量",
+        "summary": "人类对于放屁这件事的认知，可能一直都是错的。近日，美国马里兰大学团队发明了一条智能内裤，能够准确记录你每天放了多少个屁。首批测试结果显示，健康成年人每天放屁 32 次，是以前医学教科书上说的两倍。（来源：Biosensors and Bioelectronics: X）与此同时，他们后续还要启动一个更大规模的项目，叫做人类放屁图谱。他们计划使用智能内裤测试几百名美国成年人的放屁模式，同时分析受试者的饮食结构和肠道菌群的组成，目标是搞清楚 18 岁以上人群的正常放屁范围到底是多少。图 | 智能内裤（来源：Brantley Hall, University of Maryland）这条内裤长得像一...",
+        "url": "https://www.mittrchina.com/news/detail/16084",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-15T10:12:54+00:00"
+      },
+      {
+        "id": "3db825490462",
+        "title": "程序员用ChatGPT给狗设计疫苗，肿瘤真的缩小了，科学家都服了",
+        "summary": "一只被遗弃在灌木丛中的混血犬，在主人使用 AI 和 ChatGPT 的帮助下，成功研制出个性化 mRNA 癌症疫苗。这只狗名字叫罗西，八岁的它脚踝上那颗网球大小的肿瘤，在注射疫苗之后缩小了一半。图 | 罗西的病情变化（来源：Paul Conyngham）罗西的主人叫保罗·康宁汉姆（Paul Conyngham），2019 年保罗从动物收容所收养了罗西，罗西是一只斯塔福郡斗牛㹴（一种短毛狗）和沙皮狗的混血犬。那时正好是疫情封锁期间，罗西陪伴主人保罗度过了一段艰难的时光。图 | 狗狗罗西和保罗（来源：John Feder）2024 年，噩耗传来，罗西被诊断出患有肥大细胞癌。保罗花费几千澳元给罗西做...",
+        "url": "https://www.mittrchina.com/news/detail/16083",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-15T10:08:27+00:00"
+      },
+      {
+        "id": "ea242f256a9b",
+        "title": "arXiv宣布“单飞”！和康奈尔大学合作25年后，转型为非营利组织",
+        "summary": "arXiv 要独立了。近日，这个托管近 240 万篇论文、每月下载量超千万次的学术预印本平台，正式宣布将结束与康奈尔大学长达二十多年的合作关系，转为独立运营的非营利组织。与此同时，arXiv 正通过全球知名猎头公司 Spencer Stuart 公开招募其历史上首任 CEO，预期年薪 30 万美元左右。（来源：jobs.chronicle)消息传出后，迅速引起了学术社区的广泛讨论。在 Mastodon 上，加州大学河滨分校数学物理学家 John Carlos Baez 率先转发招聘信息，Tildes 论坛的讨论帖迅速涌入数十条评论，主要讨论 CEO 的薪资水平问题，观点各有侧重，从\"这薪水是否...",
+        "url": "https://www.mittrchina.com/news/detail/16081",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-15T09:57:04+00:00"
+      },
+      {
         "id": "ca44ecb996d7",
         "title": "漫射計畫》時間的遊戲：一個設計師回望20世紀教育出版品與臺漫，關於觀看啟蒙的聯想",
         "summary": "自20世紀以來，「閱讀中的孩子」是日本和臺灣啟蒙類讀物封面常見的形象，常被描繪成專注而靜止的姿態，也創造出與外界隔離的時間──至今仍是圖像創作者或設計師不時會援引的視覺語彙。圖片提供／黃子欽\n\n\n➤被安排的觀看：以圖導引文字\n身為長期處理圖像與版面的視覺設計師，我認為漫畫揭示了如何處理時間，巧妙安排構圖與留白，可讓時間成為黏著劑，在畫格之間活化題材。對我而言，所有視覺作品——無論插畫、漫畫或電影劇照——都不只涉及空間配置，同時也在處理時間。\n於是「停格」是否能延伸（比如回憶、經歷或祕密），成為關鍵。也因此，我總會特別注意到「閱讀中的人」，觀看視框中的閱讀，也會不知不覺中被帶入相同節奏。這種觀看...",
@@ -829,6 +781,22 @@
         "published": "2026-03-14T13:22:52+00:00"
       },
       {
+        "id": "222c59a2363f",
+        "title": "苹果成立50年，乔布斯的预言正在逐个应验",
+        "summary": "2026 年是苹果公司成立 50 周年。半个世纪前，两个年轻人在车库里攒出了第一台苹果电脑。而就在苹果成立 6 年之后的 1983 年，28 岁的乔布斯穿着西装打着领带，在坐落于落基山山脉深处的美国科罗拉多州阿斯彭小镇的国际设计大会上，对着几百号人讲了一小时左右，他先是抱怨自己为了 60 美元的出场费才系了领带这条破玩意儿，随后开始了这次演讲。直到最近，这段演讲录音被重新翻出来，人们才惊觉，他当年描述的很多场景，正逐渐变成现实。他在演讲里提到，计算机正在变成一种全新的交流媒介，就像电视机取代收音机、收音机取代书籍一样。他预言，未来每个人都会花费两三个小时和这些机器待在一起，甚至比待在车里的时间...",
+        "url": "https://www.mittrchina.com/news/detail/16079",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-14T13:18:25+00:00"
+      },
+      {
+        "id": "8f9548d297bd",
+        "title": "自动驾驶安全难题，被清华团队用一套“减法”破解了",
+        "summary": "为什么自动驾驶系统在某些场景中越训练越安全，然而在其他场景中却突然出错？长期以来，这种被称为“跷跷板效应”的问题成为自动驾驶安全训练的挑战。近期，清华大学封硕副教授与美国密西根大学团队用一种“反直觉”的方法解决了这个问题。他们提出了一种密集学习（Dense Learning）方法，从理论上重新审视了自动驾驶训练中的高价值数据。密集学习方法的核心思想，不是大量学习无效的海量数据，而是主动“学得更少”，即对少部分数据学得更密集、学得更多，而对其他数据则不学或学得更少，进而保留真正有价值的信息密集型样本。这就像在考试前有效刷题一样，假如你有 1 万道模拟试题，传统方法是把每道题都做一遍，对于提分效果...",
+        "url": "https://www.mittrchina.com/news/detail/16078",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-14T13:13:37+00:00"
+      },
+      {
         "id": "8d896b29af7e",
         "title": "台灣3部電影登捷克人權影展　探討家庭關係、原民文化",
         "summary": "（中央社記者劉郁葶布拉格14日專電）3部台灣電影登上捷克電影節「One World國際人權影展」，分別是探討母女關係的劇情片「小雁與吳愛麗」、聚焦泰雅族文化傳承的「烤火房的一些夢」，以及關注印尼松巴島奴隸制度議題的「奴隸島」，展現台灣對多元人權議題的關注與視角。",
@@ -851,6 +819,30 @@
         "url": "https://technews.tw/2026/03/14/meta-plans-layoffs-affecting-20-percent-or-more-of-workforce/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-03-14T08:00:17+00:00"
+      },
+      {
+        "id": "a9a12e70a978",
+        "title": "AI芯片的未来可能建在一片玻璃上",
+        "summary": "（来源：麻省理工科技评论）人造玻璃的历史已有数千年，但它即将走进 AI 芯片领域，被用于全球最新、最大的数据中心。今年，一家名为 Absolics 的韩国公司计划启动特殊玻璃面板的商业化生产，这种面板旨在让下一代计算硬件更强大、更节能。包括 Intel 在内的其他公司也在积极推进这一领域。如果一切顺利，这种玻璃技术可以降低 AI 数据中心所用高性能计算芯片的能耗需求，并且随着生产成本的下降，最终也有望惠及消费级笔记本电脑和移动设备。这种技术的核心思路是将玻璃用作基板——也就是连接多个硅芯片的那一层材料。这种“封装”方式在计算硬件制造中越来越流行，它允许工程师将针对特定功能设计的专用芯片组合成一...",
+        "url": "https://www.mittrchina.com/news/detail/16077",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-14T07:52:49+00:00"
+      },
+      {
+        "id": "f45b6d30e303",
+        "title": "市值缩水98%，数字媒体巨头BuzzFeed走到破产边缘",
+        "summary": "本周，曾定义了 2010 年代全球流行文化的媒体巨头&nbsp;BuzzFeed&nbsp;发布了 Q4 及 2025 年全年财报，公司正式发出“重大持续经营疑虑”警告：“如果没有战略选项，我们预计在接下来 12 个月内将没有足够资源履行现金义务。” 它直接放弃了 2026 年业绩指引，转而“评估战略选项”。市场解读为：分拆、出售资产、被收购，甚至破产清算......（来源： BuzzFeed）曾几何时，BuzzFeed 是硅谷与华尔街共同的宠儿。它曾凭借一条“裙子颜色”的争论让全球服务器宕机，甚至凭调查新闻斩获普利策奖。那时，创始人乔纳·佩雷蒂（Jonah Peretti）被奉为互联网引爆点...",
+        "url": "https://www.mittrchina.com/news/detail/16076",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-14T07:45:32+00:00"
+      },
+      {
+        "id": "dce26d6af41a",
+        "title": "比钻石还硬！中国科学家合成六方金刚石",
+        "summary": "普通钻石（立方金刚石），例如订婚戒指上的钻石，具有立方晶体结构。朗斯代尔石，也称为六方金刚石，它与我们常见的普通钻石结构相似，但原子排列呈六方堆积。1967 年，美国地质学家在美国亚利桑那州巴林杰陨石坑的“魔谷陨石”碎片中首次鉴别出这种矿物，并猜测是由于陨石撞击瞬间产生的极端高温和高压，把陨石里的石墨直接“压”成了这种特殊的结构。他们以 20 世纪的爱尔兰晶体学家和英国皇家学会凯瑟琳·朗斯代尔（Kathleen Lonsdale）命名这种矿物，因她使用 X 射线研究了碳的结构。但在随后的几十年里，六方金刚石成了材料界的“幽灵”，它既让无数物理学家为之神往，也因难以捕捉的真身而饱受质疑。许多科学...",
+        "url": "https://www.mittrchina.com/news/detail/16075",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-14T07:38:41+00:00"
       },
       {
         "id": "46da1ef3ad86",
@@ -907,14 +899,6 @@
         "url": "https://blogs.loc.gov/loc/2026/03/meriwether-lewis-william-clark-and-robert-frazer/",
         "source": "Timeless",
         "published": "2026-03-13T13:00:01+00:00"
-      },
-      {
-        "id": "e46d6c77f695",
-        "title": "自行车变跳跃机器人，能飞檐走壁，比体操运动员还灵活",
-        "summary": "能飞檐走壁的机器人面世！近日，来自美国非营利研究机构 RAI、美国卡内基梅隆大学以及美国麻省理工学院的研究人员造出一款名为 UMV（Ultra Mobility Vehicle）的自行车机器人，它可以像专业车手一样原地定车、单轮跳跃、甚至能在空中翻跟头，最高能够跳上一米高的平台，比它自己站立时还高出 30%。这台重 23.5 公斤的机器人只有一个自行车的基本骨架，外加一个会动的脑袋。当它在平地上奔跑时，最高速度能够达到每秒 8 米，比人类百米冲刺还快。遇到台阶或者障碍物的时候，它不需要绕路，直接原地起跳就能翻过去。更厉害的是，它只用后轮就能站立，能像杂技演员一样原地转圈，也能连续跳跃着前进。（...",
-        "url": "https://www.mittrchina.com/news/detail/16074",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-13T11:16:29+00:00"
       },
       {
         "id": "8f5b9a307b87",
@@ -1309,14 +1293,6 @@
         "published": "2026-03-10T13:35:25+00:00"
       },
       {
-        "id": "78ffb49cda97",
-        "title": "英国初创把芯片工厂搬到太空，半导体纯度或比地表提升4000倍",
-        "summary": "等离子体（Plasma）是物质的第四态，由高度电离的气体组成，包含自由电子和带电离子，具有高导电性和集体行为。宇宙中约 99% 的物质处于等离子体态（如恒星、闪电、太阳风），主要应用包括工业刻蚀、表面处理、可控核聚变等。在半导体晶体生长的前沿工艺中，等离子体被视为打破热力学极限的核心手段。通过激发高能电子碰撞气体分子，等离子体能够在极低的热力学温度下产生高度活跃的化学自由基与离子态物质。近日，总部位于英国的航空航天制造公司 Space Forge 宣布已成功在其近地轨道卫星 ForgeStar-1 上，利用一台温度高达 1,000℃ 的半导体炉，生成了等离子体，证明可以在专用的商业卫星上实现先...",
-        "url": "https://www.mittrchina.com/news/detail/16055",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-10T12:40:35+00:00"
-      },
-      {
         "id": "6ce900d36b5e",
         "title": "As the Planet Warms, a Humble Sea Bean Is Proving to Be a Promising Superfood",
         "summary": "Known as samphire, sea beans, glasswort or pickleweed, Salicornia thrives in high-saline environments, like coastal marshes, and has a lot of nutritional and medicinal properties",
@@ -1347,22 +1323,6 @@
         "url": "https://www.twreporter.org/a/data-reporter-2026-wbc-team-taiwan-record",
         "source": "報導者",
         "published": "2026-03-09T16:00:00+00:00"
-      },
-      {
-        "id": "8345fb228c3b",
-        "title": "陶哲轩用Claude Code解题，两度宕机，因为token不够用",
-        "summary": "近日，菲尔兹奖得主、加州大学洛杉矶分校（UCLA）数学系教授陶哲轩（Terence Tao）在 YouTube 发布了一段时长约 26 分钟的实操视频，详细演示了如何利用 Anthropic 推出的 Claude Code 代理工具，在 Lean 定理证明器中完成一项数学证明的形式化全过程。（来源：Youtube）陶哲轩在视频开始就明确了任务目标：将集合论中的“单例定律”（Singleton Law）从非形式化的自然语言描述，转化为 Lean 系统能够编译和严格验证的代码。简而言之，该定律论证了对于任意集合 A 和元素 x，单例集合 {x}属于 A 的条件等价于某些特定的子集属性。尽管这在数学...",
-        "url": "https://www.mittrchina.com/news/detail/16049",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-09T10:28:30+00:00"
-      },
-      {
-        "id": "b5b45c3403f2",
-        "title": "果蝇大脑被完整“上传”并驱动虚拟身体，全脑仿真进入具身时代",
-        "summary": "2026 年 3 月 7 日，一家名为 Eon Systems PBC 的旧金山初创公司发布了一段视频。视频里是一只虚拟果蝇在物理模拟环境中爬行、转向、搓“手”，动作谈不上优美，甚至显得有些笨。但这段画面的意义远超它的视觉观感，因为按照该公司联合创始人 Alex Wissner-Gross 在社交平台 X 上的说法，这只虚拟果蝇的一切运动，来自一个完整生物大脑的数字副本：神经元逐个对应，突触逐条连接，感觉输入流进去，神经活动在连接组网络中传播，运动指令流出来，物理仿真的身体执行动作。感知到行动的回路，第一次在全脑仿真中闭合了。图丨相关推文（来源：X）许多人可能还记得，在 2024 年 10 月...",
-        "url": "https://www.mittrchina.com/news/detail/16047",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-09T10:20:34+00:00"
       },
       {
         "id": "6074475672cc",
@@ -1445,14 +1405,6 @@
         "published": "2026-03-09T09:21:10+00:00"
       },
       {
-        "id": "087dfb7e4a6d",
-        "title": "这家初创公司声称能阻止闪电、预防山火，但科学家对此存疑",
-        "summary": "（来源：麻省理工科技评论）2023 年 6 月 1 日，一场酷热的热浪炙烤着魁北克省，数以千计的闪电划过，引发了逾 120 场山火。大火席卷干旱的森林和枯萎的草地，燃烧数周。最终，近 7000 场火灾烧毁了全国数千万英亩土地，产生近 5 亿吨碳排放，并迫使数十万人被迫撤离家园。其中，闪电引发的山火占总数的近 60%，而这些火灾造成的过火面积占总过火面积的 93%。如今，一家总部位于温哥华的初创公司 Skyward Wildfire 声称，可以通过阻止引发山火的闪电，来预防此类灾难性火灾的发生。该公司刚刚完成了一轮融资，计划用所筹资金加速产品研发、扩大业务规模。就在上周之前，这家公司在其官网上突...",
-        "url": "https://www.mittrchina.com/news/detail/16046",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-09T06:06:59+00:00"
-      },
-      {
         "id": "d48d7b4f7c98",
         "title": "韓國盤索里跨界鉅作《看・見沈清》5月盛大登台！",
         "summary": "國立傳統藝術中心主辦「2026臺灣戲曲藝術節」即將迎來韓國跨界重量級鉅獻！韓國頂尖製作團隊MUTO與IPKOASON，帶來融合傳統戲曲、電子音樂與多媒體影像的科技藝術傑作《看・見沈清》（原文：두개의눈/THE TWO EYES）。本節目將於5月1日至5月3日於臺灣戲曲中心大表演廳連續演出三場，為觀眾呈現韓國經典傳統藝術與創新舞台科技的精彩對話。《看・見沈清》改編自韓國傳統說唱藝術「盤索里」最具代表性的傳世作品《沈清歌》。原作以孝女沈清為主角，描繪她為使失明父親重見光明而犧牲自身的感人傳說，而《看・見沈清》則跳脫既有敘事框架，將焦點轉向父親「沈學奎」的生命歷程，以多重視角呈現一位父親在失去與抉擇...",
@@ -1483,38 +1435,6 @@
         "url": "https://cdm.link/move-everything-visually-impaired-guide/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-08T13:14:20+00:00"
-      },
-      {
-        "id": "ca9fe0c45897",
-        "title": "在掀翻地心说之前，伽利略可能曾是它最虔诚的信徒",
-        "summary": "凌晨三点，伊万·马拉拉从佛罗伦萨的酒店床上坐起来，给两位意大利最权威的伽利略研究者发了一封邮件。开头他写道：“请原谅这个不合时宜的时间，但我简直不敢相信自己的眼睛。”几个小时前，这位米兰大学的博士后还在国家中央图书馆里翻阅 16 世纪的旧书。他正在做一项听起来有些枯燥的工作：逐一检查欧洲各图书馆中《至大论》（Almagest）的早期拉丁文印本。《至大论》是公元 2 世纪的天文学家托勒密写的一本著作，它构建了一个地球居于宇宙中心、万物环绕运行的模型，这个模型主宰了西方天文学将近 1,400 年。马拉拉之前已经在维也纳查了一批，现在轮到佛罗伦萨，他面前摆着七本。翻着翻着，他在一张空白页上看到有人抄...",
-        "url": "https://www.mittrchina.com/news/detail/16043",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-08T12:52:51+00:00"
-      },
-      {
-        "id": "fede1b7016d6",
-        "title": "AI抢工作时代，硅谷AI大佬如何教育子女？",
-        "summary": "未来，AI 到底会不会抢走我们的工作？前几天，Anthropic 发布的《AI 对劳动力市场的影响：一种新衡量标准与早期证据》中，就提到了 AI 对年轻人就业的冲击。那么，在这样的背景下，硅谷的 AI 大佬们是如何解决对子女教育问题的，他们又是如何看待 AI 时代职业挑战的？近日，《华尔街日报》深度访谈了五位 AI 领域的高管，他们分别来自 Anthropic、微软、SAP、沃顿商学院及 AI 初创公司 Paid.AI，子女们的年龄从 6 个月到 26 岁不等。在 Anthropic 总裁兼联合创始人 Daniela Amodei 看来，共情力、社交能力以及对人类情感的深层理解将成为最核心的竞...",
-        "url": "https://www.mittrchina.com/news/detail/16042",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-08T12:45:50+00:00"
-      },
-      {
-        "id": "57e4018740fd",
-        "title": "美国团队实现光刻创新，金属有机框架光刻胶有望打造5nm极限硅芯片",
-        "summary": "如果告诉你，你的手机还能再快 10 倍，但代价是得在几十个原子宽的地方刻出电路，你觉得这有可能发生吗？Kayley Waltz 做到了这件事。在美国约翰斯·霍普金斯大学读博时的最后一年，她造出了一种能让芯片继续缩小下去的新材料。所以还没等毕业，全球顶级存储芯片制造商美光科技就直接把她收入麾下。众所周知，摩尔定律指的是每隔两年同样大小的芯片里所能塞进去的晶体管数量会翻一倍。芯片由此变快，手机由此变强，但这件事已经快干到头了。现在的工艺已经做到 10 纳米，也就是大约 60 个硅原子排成一排的宽度。再往下缩到 5 纳米左右，电流就会到处乱窜。Waltz 和导师想了另一条路：换一种材料来做光刻。光刻...",
-        "url": "https://www.mittrchina.com/news/detail/16041",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-08T10:49:24+00:00"
-      },
-      {
-        "id": "71cb7bbfba1b",
-        "title": "Karpathy开源“AI研究员”，630行代码让智能体通宵炼模型，一晚可跑100次实验",
-        "summary": "如果你有一块 NVIDIA GPU，睡前启动一个脚本，第二天早上醒来就能收获一百次 LLM 训练实验的结果，其中一部分还确实比你手动调参调得更好，是不是听起来有些难以置信？但这就是 Andrej Karpathy 今天凌晨开源的新项目 autoresearch 所做的事。项目上线不到几个小时，他在 X（原 Twitter）上的发布帖浏览量突破百万，GitHub 仓库迅速收获超过 2,500 颗星。整个仓库的核心代码只有约 630 行 Python。图丨相关推文（来源：X）autoresearch 做的事情，一句话就能说清：把一个简化过的大语言模型训练环境交给 AI 智能体（AI Agent），...",
-        "url": "https://www.mittrchina.com/news/detail/16039",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-08T10:40:32+00:00"
       },
       {
         "id": "9cd8d12938a0",
@@ -2284,7 +2204,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-15T16:42:05.543162+00:00"
+        "published": "2026-03-15T17:36:38.697562+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2212,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-15T16:42:05.543152+00:00"
+        "published": "2026-03-15T17:36:38.697551+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2220,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-15T16:42:05.543142+00:00"
+        "published": "2026-03-15T17:36:38.697541+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2228,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-15T16:42:05.543132+00:00"
+        "published": "2026-03-15T17:36:38.697530+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2236,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-15T16:42:05.543122+00:00"
+        "published": "2026-03-15T17:36:38.697520+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2244,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-15T16:42:05.543111+00:00"
+        "published": "2026-03-15T17:36:38.697509+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2252,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-15T16:42:05.543100+00:00"
+        "published": "2026-03-15T17:36:38.697499+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2260,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-15T16:42:05.543088+00:00"
+        "published": "2026-03-15T17:36:38.697489+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2268,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-15T16:42:05.543078+00:00"
+        "published": "2026-03-15T17:36:38.697478+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2276,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-15T16:42:05.543068+00:00"
+        "published": "2026-03-15T17:36:38.697468+00:00"
       },
       {
         "id": "6c79a88a7991",
