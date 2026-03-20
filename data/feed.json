@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-03-20T07:10:04.043469+00:00",
+  "updated_at": "2026-03-20T08:53:40.168022+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "454618a2be56",
+        "title": "亞太50大永續企業　台灣高鐵獲第1名",
+        "summary": "（中央社記者黃巧雯台北20日電）台灣高鐵近日獲選亞太50大永續企業第1名，並連兩年入選全球200大潔淨企業。台灣高鐵表示，除展現台灣高鐵在低碳運輸與永續營運的卓越表現，更奠定在亞太永續發展指標地位。",
+        "url": "https://www.cna.com.tw/news/ahel/202603200189.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-20T07:53:22+00:00"
+      },
+      {
+        "id": "3bdc81cc201d",
+        "title": "發現胸部硬塊不敢面對　拖到失聲才就醫確診乳癌",
+        "summary": "（中央社記者曾以寧台北20日電）「小君」有次撿東西時發現右胸有硬塊，但害怕是癌症及治療副作用，遲遲不敢面對，直到硬塊穿透皮膚造成潰爛傷口，連講話發聲都有問題，和女兒聊起此事，才趕緊就醫確診乳癌。",
+        "url": "https://www.cna.com.tw/news/ahel/202603200181.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-20T07:32:05+00:00"
+      },
+      {
+        "id": "fad5e9478cc3",
+        "title": "育嬰假以日申請　勞動部：2名以上子女各有30日",
+        "summary": "（中央社記者吳欣紜台北20日電）彈性育嬰假今年上路，有3歲以下子女者可以「日」請休育嬰留停，上限為30日。勞動部提醒，受僱者如果同時撫育2名以上子女，其3歲前以「日」申請育嬰留停，30日可分別計算。",
+        "url": "https://www.cna.com.tw/news/ahel/202603200178.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-20T07:28:58+00:00"
+      },
+      {
+        "id": "0caf43efe661",
+        "title": "元智藝設系增AI創新組　申請入學5名額免考術科",
+        "summary": "（中央社記者許秩維台北20日電）因應AI改變創作與設計產業，元智大學藝術與設計系於115學年申請入學管道新增「AI創新組」，提供5個名額，免考術科，將從大一起逐步循序培養AI創意實作能力。",
+        "url": "https://www.cna.com.tw/news/ahel/202603200169.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-20T07:10:39+00:00"
+      },
+      {
+        "id": "e1d3c4063ce7",
+        "title": "中華郵政年度招考　規劃改一年2次",
+        "summary": "（中央社記者黃巧雯台北20日電）針對近期招募半日制內勤人員，中華郵政董事長王國材今天表示，主要盼能補足尖峰或特定時段全日制人力缺口，另考量快捷業務量成長13%，規劃整體人員年度招考可從一年1次增為2次。",
+        "url": "https://www.cna.com.tw/news/ahel/202603200153.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-20T06:32:05+00:00"
+      },
+      {
+        "id": "bd45074d3b93",
+        "title": "檳榔糖葫蘆現夜市　民團籲專法速上路防兒少接觸",
+        "summary": "（中央社記者沈佩瑤台北20日電）夜市與網購出現「檳榔糖葫蘆」及加味檳榔，外界擔憂恐誘引兒少接觸一級致癌物，台灣檳癌防制聯盟今天籲儘速通過專法。衛福部表示，研議將加味產品納管，並請衛生局加強查處。",
+        "url": "https://www.cna.com.tw/news/ahel/202603200149.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-20T06:27:56+00:00"
+      },
+      {
+        "id": "244a90f18b41",
+        "title": "苗栗農改場去化雞糞　黑水虻加分解菌減量達50%",
+        "summary": "（中央社記者汪淑芬台北20日電）根據農業部統計，台灣每年產生217萬公噸雞糞，如何有效去化是養雞產業燙手山芋。苗栗農業區改良場利用黑水虻加微生物分解菌，證實可減量達50%，大幅縮短處理時間。",
+        "url": "https://www.cna.com.tw/news/ahel/202603200135.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-20T05:49:26+00:00"
+      },
+      {
+        "id": "f798ff8ae052",
+        "title": "中華郵政獲利101億元　員工有望領4.4個月獎金",
+        "summary": "（中央社記者黃巧雯台北20日電）中華郵政股份有限公司稅後淨利達新台幣101.54億元，中華郵政董事長王國材今天喊出目標今年獲利優於去年，考量去年績效超出目標60億元，將爭取考成甲等、員工發4.4個月獎金。",
+        "url": "https://www.cna.com.tw/news/ahel/202603200130.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-20T05:38:15+00:00"
+      },
       {
         "id": "97c2bb912f28",
         "title": "陽明交大傑出校友　黃國倫、楊振昌等6人獲選",
@@ -17,54 +81,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202603200120.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-20T05:06:52+00:00"
-      },
-      {
-        "id": "b9129ddaa1a8",
-        "title": "A7物流園區5月啟用　中華郵政拚提升競爭力",
-        "summary": "（中央社記者黃巧雯台北20日電）中華郵政董事長王國材今天說，去年面臨國際金融動盪，稅後淨利仍達新台幣101.54億元，A7郵政物流園區5月啟用，藉由自動化郵件處理及倉配一體，減少處理時間，提升競爭力。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200114.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T04:51:39+00:00"
-      },
-      {
-        "id": "95a3e7f7ee41",
-        "title": "衛福部研議中醫用超音波　科技把脈助進針安全",
-        "summary": "（中央社記者沈佩瑤台北20日電）衛福部研議開放中醫師使用超音波，如同「科技把脈」。中醫師公會全聯會理事長蘇守毅今天說，可提升進針安全性；中醫藥司長蘇奕彰說，正在界定範圍與訓練指引，尚無上路時程。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200110.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T04:35:30+00:00"
-      },
-      {
-        "id": "b8790f58fb72",
-        "title": "川普關稅遭推翻  好市多果汁搶先降價最多近1成",
-        "summary": "（中央社記者曾智怡台北20日電）美國總統川普關稅政策2月下旬遭最高法院判決違憲，川普政府近期已規劃關稅退還機制，後續效應逐漸在市場發酵。台灣好市多今天宣布，因應成本調整，3款進口果汁售價即日起降價幅度從4.3%到近1成。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200109.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T04:30:28+00:00"
-      },
-      {
-        "id": "6a49e3f87a1f",
-        "title": "英肯特郡爆發腦膜炎群聚　疾管署：暫不發旅遊警示",
-        "summary": "（中央社記者曾以寧台北20日電）英格蘭東南部肯特郡發生腦膜炎群聚，引發關注。歐洲疾病預防管制中心最新評估此事對歐盟地區一般民眾的公共衛生風險為「很低」。疾管署今天表示，暫不會對此發旅遊疫情警示。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200104.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T04:27:17+00:00"
-      },
-      {
-        "id": "3160693c7499",
-        "title": "中央社AI操作捷徑春季班4月登場　報名享優惠",
-        "summary": "（中央社台北20日電）中央通訊社繼2026年初首波課程獲熱烈迴響後，4月到6月再推「2026 AI賦能學院」系列實戰課程「AI操作捷徑」春季班，每週三晚間上課，新、舊生報名都享優惠。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200103.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T04:21:15+00:00"
-      },
-      {
-        "id": "64124bcaee26",
-        "title": "研發台灣首台彩色電視　周友義獲頒大同名譽博士",
-        "summary": "（中央社記者許秩維台北20日電）曾打造台灣首台彩色電視和12吋黑白手提式交直流電視機的增你強公司總裁周友義，今天獲頒大同大學名譽博士；周友義感謝母校肯定，並承諾將繼續為社會、國家、世界打拚。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200100.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T04:09:09+00:00"
       },
       {
         "id": "e9b68119e8bb",
@@ -83,22 +99,6 @@
         "published": "2026-03-20T03:36:36+00:00"
       },
       {
-        "id": "0b6ac1aa17a2",
-        "title": "台師大華語教師提4訴求　盼啟動團體協商護勞權",
-        "summary": "（中央社記者許秩維台北20日電）台師大國語中心逾2/3華語教師加入工會，今天宣布將與台師大啟動團體協商程序，並提出「依法行政、穩定聘僱、制度透明、待遇合理」4訴求，盼保障教師勞動權益。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200075.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T03:25:16+00:00"
-      },
-      {
-        "id": "4729d7ac0af3",
-        "title": "長榮航高雄出發放大機型　粉萌機重返南部天空",
-        "summary": "（中央社記者黃巧雯台北20日電）長榮航空今天宣布，5月20日起高雄出發飛往東京、澳門、上海浦東航班，改由空中巴士A330-300廣體客機執飛，高雄-首爾航線4月30日起由Hello Kitty A321彩繪機「粉萌機」飛航。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200073.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T03:21:11+00:00"
-      },
-      {
         "id": "d6eb2831335f",
         "title": "TaHongTranTienTuViBiThanhNuLoRaAnhSangTH",
         "summary": "TaHongTranTienTuViBiThanhNuLoRaAnhSangTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
@@ -113,6 +113,14 @@
         "url": "https://archive.org/details/TaCoTheTraoDoiCongDucMoBanTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-20T03:14:02+00:00"
+      },
+      {
+        "id": "734e5eaa3f68",
+        "title": "TaCungPhongLaCap3NuDongHocTH",
+        "summary": "TaCungPhongLaCap3NuDongHocTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/TaCungPhongLaCap3NuDongHocTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-20T03:13:59+00:00"
       },
       {
         "id": "05cbe909cdc5",
@@ -153,14 +161,6 @@
         "url": "https://archive.org/details/for-fucks-sake-vol-1",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-20T02:42:29+00:00"
-      },
-      {
-        "id": "c4b993108fa1",
-        "title": "TOXIC MENACE - BY ANY MEANS NECESSARY",
-        "summary": "▶︎ By Any Means Necessary [HFY-032] | TOXIC MENACE | HFY! Records.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/toxic-menace-by-any-means-necessary",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-20T02:20:13+00:00"
       },
       {
         "id": "be0455eddd52",
@@ -401,6 +401,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "168475bc91e2",
+        "title": "“It’s not just a Party, ya know?”",
+        "summary": "This article addresses the application of affective theories in relation to electronic dance music parties, specifically from a Global South perspective. The aim is to comprehend the circumstances of collective and individual formations facilitated through music as an element that intensifies affect...",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1306",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "db41ec6a53f4",
+        "title": "Dance Music: A Feminist Account of an Ordinary Culture (Tami Gadir) & Welcome to the Club: The Life and Lessons of a Black Woman DJ (DJ Paulette)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1328",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "bc67b3d2bc79",
+        "title": "Live Spielen: Liveness in Performances elektronischer Tanzmusik (Josef Schaubruch)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1324",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "aa101d669a22",
+        "title": "Assembling a Black Counter Culture (DeForrest Brown, Jr)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1322",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "432b560195f7",
+        "title": "EDM, Tech-House or Business Techno?",
+        "summary": "This article explores how the term EDM, along with other newer labels for club music, is used among some audiences to distinguish between authenticity and inauthenticity within club culture. The focus is on discussions in social media, with the Facebook group The Worst Techno Memes Ever Group Page (...",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1309",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -2204,7 +2284,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-20T07:10:04.042924+00:00"
+        "published": "2026-03-20T08:53:40.167502+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2212,7 +2292,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-20T07:10:04.042914+00:00"
+        "published": "2026-03-20T08:53:40.167491+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2300,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-20T07:10:04.042904+00:00"
+        "published": "2026-03-20T08:53:40.167481+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2308,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-20T07:10:04.042894+00:00"
+        "published": "2026-03-20T08:53:40.167471+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2316,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-20T07:10:04.042883+00:00"
+        "published": "2026-03-20T08:53:40.167461+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2324,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-20T07:10:04.042873+00:00"
+        "published": "2026-03-20T08:53:40.167451+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2332,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-20T07:10:04.042862+00:00"
+        "published": "2026-03-20T08:53:40.167441+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2340,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-20T07:10:04.042853+00:00"
+        "published": "2026-03-20T08:53:40.167431+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2348,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-20T07:10:04.042843+00:00"
+        "published": "2026-03-20T08:53:40.167421+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2356,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-20T07:10:04.042832+00:00"
+        "published": "2026-03-20T08:53:40.167410+00:00"
       },
       {
         "id": "3fc7a8ae3d8d",
