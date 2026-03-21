@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-03-21T21:33:49.276703+00:00",
+  "updated_at": "2026-03-21T22:34:26.445965+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "ccaca1f04d9b",
+        "title": "FERRARI Il Sansone",
+        "summary": "FERRARI  Il Sansone Il Complesso Barocco Alan Curtis.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/gbxhgd_202603",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T20:07:42+00:00"
+      },
       {
         "id": "16c44ae78f50",
         "title": "أغنية قلبي ختو وضع يد محمود السوهاجي MP 3",
@@ -9,6 +17,22 @@
         "url": "https://archive.org/details/mp-3_20260321_20260321_1922",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-21T19:23:58+00:00"
+      },
+      {
+        "id": "0c79816374df",
+        "title": "أغنية مسلم بنلف و ندور MP 3",
+        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mp-3_20260321_20260321_1916",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T19:17:30+00:00"
+      },
+      {
+        "id": "7ec66c062182",
+        "title": "أغنية متقوليش اشرقت احمد MP 3",
+        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mp-3_20260321_20260321_1908",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T19:09:19+00:00"
       },
       {
         "id": "12fd706b106f",
@@ -57,30 +81,6 @@
         "url": "https://archive.org/details/mp-3_20260321_20260321_1804",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-21T18:05:55+00:00"
-      },
-      {
-        "id": "2ab8a83acedd",
-        "title": "اغنية قد الحياة هنا يسري و أبايزيد الإعلان اورنچ عيد الأم MP 3",
-        "summary": "ل.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260321_20260321_1801",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-21T18:01:53+00:00"
-      },
-      {
-        "id": "091b1b662da5",
-        "title": "اغنية صفحه بيضه محمد سلطان و عمرو قطب MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260321_20260321_1756",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-21T17:57:04+00:00"
-      },
-      {
-        "id": "68f88ef20692",
-        "title": "اغنية دلعنا صابرين النجيلي MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260321_20260321_1749",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-21T17:50:57+00:00"
       },
       {
         "id": "39aba43a3059",
@@ -2212,7 +2212,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T21:33:49.276186+00:00"
+        "published": "2026-03-21T22:34:26.445374+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2220,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T21:33:49.276176+00:00"
+        "published": "2026-03-21T22:34:26.445364+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2228,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T21:33:49.276166+00:00"
+        "published": "2026-03-21T22:34:26.445354+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2236,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T21:33:49.276156+00:00"
+        "published": "2026-03-21T22:34:26.445343+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2244,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T21:33:49.276145+00:00"
+        "published": "2026-03-21T22:34:26.445333+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2252,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T21:33:49.276135+00:00"
+        "published": "2026-03-21T22:34:26.445323+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2260,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T21:33:49.276125+00:00"
+        "published": "2026-03-21T22:34:26.445313+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2268,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T21:33:49.276115+00:00"
+        "published": "2026-03-21T22:34:26.445303+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2276,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T21:33:49.276105+00:00"
+        "published": "2026-03-21T22:34:26.445294+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2284,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T21:33:49.276095+00:00"
+        "published": "2026-03-21T22:34:26.445284+00:00"
       },
       {
         "id": "d1e28186cf95",
@@ -2685,14 +2685,6 @@
         "url": "https://writings.stephenwolfram.com/2026/01/what-is-ruliology/",
         "source": "Stephen Wolfram Writings",
         "published": "2026-01-12T23:05:20+00:00"
-      },
-      {
-        "id": "7ad461a41813",
-        "title": "Software Renderer for TUS Plugins",
-        "summary": "Beginning with the 2.1.0 versions of our plugins, we have implemented and provided a built-in CPU-based &#8220;software&#8221; rendering option for our RmlUI rendering engine that can be used in lieu of OpenGL compatible graphics hardware. In fact, it is automatically used in the case that no such O...",
-        "url": "https://dsp56300.wordpress.com/2026/01/05/software-renderer-for-tus-plugins/",
-        "source": "The Usual Suspects",
-        "published": "2026-01-05T18:08:26+00:00"
       },
       {
         "id": "7c34e92268b0",
@@ -3111,14 +3103,6 @@
         "published": "2025-08-31T07:00:00+00:00"
       },
       {
-        "id": "cd8d59ccfa17",
-        "title": "RmlUI – New GUI rendering engine & skinning system",
-        "summary": "Version 2.0 of our plugins come with a completely new GUI rendering and skinning system: RmlUI RmlUI is a UI engine that is loosely based on html / CSS2, but written entirely in C++ and supports hardware accelerated rendering. Skin developers are encouraged to read the RmlUI Documentation to know ho...",
-        "url": "https://dsp56300.wordpress.com/2025/08/19/rmlui-new-gui-rendering-engine-skinning-system/",
-        "source": "The Usual Suspects",
-        "published": "2025-08-18T22:03:50+00:00"
-      },
-      {
         "id": "fdeb8e762695",
         "title": "“I Have a Theory Too”: The Challenge and Opportunity of Avocational Science",
         "summary": "Theories of the World Several often arrive in a single day. Sometimes they’re marked “urgent”. Sometimes they’re long. Sometimes they’re short. Sometimes they’re humble. Sometimes they’re conspiratorial. And sometimes, these days, they’re written “in collaboration with” an AI. But there’s a common t...",
@@ -3255,14 +3239,6 @@
         "published": "2025-04-11T11:29:45+00:00"
       },
       {
-        "id": "c5f9875d985b",
-        "title": "Xenia – Wave Editor",
-        "summary": "In version 1.4.4 of Xenia, a new page has been added to the UI, the Wave Editor. Introduction Xenia uses wave table synthesis. Each oscillator uses a table of waves as its source to generate sound. Wave A Wave is a single cycle wave form. In Xenia, a wave is 128 samples long. The Os &#8230; Continue...",
-        "url": "https://dsp56300.wordpress.com/2025/03/08/xenia-wave-editor/",
-        "source": "The Usual Suspects",
-        "published": "2025-03-08T16:11:56+00:00"
-      },
-      {
         "id": "499cb5af49b3",
         "title": "Call for Baltic Live Coders",
         "summary": "The annual festival Sound Days in Liepāja (Latvia) is calling out to all Baltic live coders, and anyone who is &#8230; More",
@@ -3293,62 +3269,6 @@
         "url": "https://blog.toplap.org/2024/11/12/creating-a-livecoding-workshop-for-kids/",
         "source": "TOPLAP",
         "published": "2024-11-12T20:00:24+00:00"
-      },
-      {
-        "id": "88419873d93f",
-        "title": "DSP Bridge",
-        "summary": "Introduction The DSP Bridge is a system that allows to run the DSP emulation engine of TUS emulator plugins in a separate process, on a separate system or on a different platform. The DAW plugin becomes just an editor while the DSP emulator is executed elsewhere. Server Executable The server is a sm...",
-        "url": "https://dsp56300.wordpress.com/2024/09/10/dsp-bridge/",
-        "source": "The Usual Suspects",
-        "published": "2024-09-10T13:03:46+00:00"
-      },
-      {
-        "id": "b1bbdd04c74a",
-        "title": "Nodal Red 2X Demo Video",
-        "summary": "We&#8217;re excited to show off the early progress that has been made with our latest emulation, Nodal Red 2X, which brings back to life the Nord Lead 2X in all its bright red glory! The demo video below has been created with an internal development build and highlights the character of the NL2X and...",
-        "url": "https://dsp56300.wordpress.com/2024/08/13/nodal-red-2x-demo-video/",
-        "source": "The Usual Suspects",
-        "published": "2024-08-12T22:05:19+00:00"
-      },
-      {
-        "id": "f06788b27257",
-        "title": "Xenia Demo Video",
-        "summary": "We made lots of progress on Xenia, our next release that emulates the Microwave XT. The demo video below has been created with an internal development build and highlights the character of the Microwave and shows the current state of the project. Enjoy!",
-        "url": "https://dsp56300.wordpress.com/2024/05/05/xenia-demo-video/",
-        "source": "The Usual Suspects",
-        "published": "2024-05-05T18:05:32+00:00"
-      },
-      {
-        "id": "45dc3a964b87",
-        "title": "OsTIrus Emulation Now Available",
-        "summary": "The Usual Suspects is happy to announce the release of our latest emulation, OsTIrus. OsTIrus is a plugin which supports emulation of the Access Virus TI line of synthesizers. Like our previous emulators Osirus and Vavra, OsTIrus runs inside your DAW directly and can be controlled like any normal so...",
-        "url": "https://dsp56300.wordpress.com/2024/04/22/ostirus-emulation-now-available/",
-        "source": "The Usual Suspects",
-        "published": "2024-04-22T13:49:16+00:00"
-      },
-      {
-        "id": "1c4f6f535443",
-        "title": "OsTIrus / Virus TI with 96 KHz Sample Rate",
-        "summary": "We have discovered that the Virus TI DSP code can run with sample rates that are higher than what the hardware is capable of. We can use this to our advantage in OsTIrus because we are not limited to the hardware. The hardware only supports up to two different sample rates: However, the DSP code &#8...",
-        "url": "https://dsp56300.wordpress.com/2024/03/11/ostirus-virus-ti-with-96-khz-sample-rate/",
-        "source": "The Usual Suspects",
-        "published": "2024-03-11T17:30:43+00:00"
-      },
-      {
-        "id": "f7bc226b3c17",
-        "title": "Advanced Setting: DSP overclocking/underclocking",
-        "summary": "Future emulator releases with versions 1.3.4 or higher allow to modify the DSP clock. This setting is part of a new section called Advanced Settings. This setting directly affects host CPU utilization. If you run the DSP only at 50% of the desired speed, your host CPU utilization will be 50% of the ...",
-        "url": "https://dsp56300.wordpress.com/2024/03/01/advanced-setting-dsp-overclocking-underclocking/",
-        "source": "The Usual Suspects",
-        "published": "2024-03-01T17:35:47+00:00"
-      },
-      {
-        "id": "c4cc7adfbc40",
-        "title": "Patch Manager Introduction",
-        "summary": "Version 1.3 of Osirus introduces a new feature called the Patch Manager (included with all emulations in future builds) The Patch Manager is a completely new feature that replaces the previous Preset Browser. While the old system didn’t provide much more than browsing files with patches on disk, the...",
-        "url": "https://dsp56300.wordpress.com/2024/02/06/patch-manager-introduction/",
-        "source": "The Usual Suspects",
-        "published": "2024-02-06T15:58:15+00:00"
       },
       {
         "id": "007ed2ed05b8",
