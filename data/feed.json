@@ -1,38 +1,110 @@
 {
-  "updated_at": "2026-03-21T02:39:40.441243+00:00",
+  "updated_at": "2026-03-21T04:43:58.123550+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "c3a69044b7fc",
+        "title": "HokageBatDauThuHoachDuocGroudonChiLucTH",
+        "summary": "HokageBatDauThuHoachDuocGroudonChiLucTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/HokageBatDauThuHoachDuocGroudonChiLucTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T03:22:39+00:00"
+      },
+      {
+        "id": "62a2f73b8a16",
+        "title": "DoDanLucHoangTuBiHoangHauTuBaNamNhapHoaThanTH",
+        "summary": "DoDanLucHoangTuBiHoangHauTuBaNamNhapHoaThanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/DoDanLucHoangTuBiHoangHauTuBaNamNhapHoaThanTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T03:21:37+00:00"
+      },
+      {
+        "id": "d8475a0c735a",
+        "title": "HokageTaDayQuaThatLaGiaTruyenBiThuatATH",
+        "summary": "HokageTaDayQuaThatLaGiaTruyenBiThuatATH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/HokageTaDayQuaThatLaGiaTruyenBiThuatATH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T03:20:11+00:00"
+      },
+      {
+        "id": "4ae51dc0d1c8",
+        "title": "HokageTuTriLieuUchihaMikotoBatDauManhLenTH",
+        "summary": "HokageTuTriLieuUchihaMikotoBatDauManhLenTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/HokageTuTriLieuUchihaMikotoBatDauManhLenTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T03:19:45+00:00"
+      },
+      {
+        "id": "20c10ef3212c",
+        "title": "帛琉無私分享號帆船再訪台東　與獵人學校簽署合作",
+        "summary": "（中央社記者盧太城台東縣21日電）帛琉傳統航海船「無私分享號」（Alingano Maisu）昨天再訪台東，在帛琉副總統歐宜樓見證下，密克羅尼西亞航海協會與台東縣獵人學校教育基金會簽署合作備忘錄。",
+        "url": "https://www.cna.com.tw/news/ahel/202603210045.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-21T03:12:33+00:00"
+      },
+      {
+        "id": "1b2e32907bb4",
+        "title": "地磁擾動15小時最大規模達中度磁暴　衛星導航可能短暫中斷",
+        "summary": "（中央社記者吳欣紜台北21日電）中央氣象署太空天氣作業辦公室今天發布地磁擾動示警，因地球磁場擾動指數遽增，並持續影響約15小時，最大規模可能短暫達到中度磁暴等級，衛星導航等可能出現短暫中斷。",
+        "url": "https://www.cna.com.tw/news/ahel/202603210043.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-21T03:02:29+00:00"
+      },
+      {
+        "id": "05e94d31b430",
+        "title": "育學術領袖　台大設椰林學者10年最高補助1億元",
+        "summary": "（中央社記者許秩維台北21日電）為培養未來的學術領袖人才，台大設立椰林學者、鴻鵠講座，獲選者每人每年分別補助最高1000萬元、630萬元，最高補助10年、以不超過20名為原則，鎖定40至55歲的人才。",
+        "url": "https://www.cna.com.tw/news/ahel/202603210040.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-21T02:42:22+00:00"
+      },
+      {
+        "id": "a80b9ccd8c61",
+        "title": "HuynhDeNoiTaiPhietTyTyHungNhungNangDoiVoiTaNgoanLaiNgotTH",
+        "summary": "HuynhDeNoiTaiPhietTyTyHungNhungNangDoiVoiTaNgoanLaiNgotTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/HuynhDeNoiTaiPhietTyTyHungNhungNangDoiVoiTaNgoanLaiNgotTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T02:24:06+00:00"
+      },
+      {
+        "id": "6c476f65e0e3",
+        "title": "TaTaiThatTinhTongDanhDauThanhThanhTH",
+        "summary": "TaTaiThatTinhTongDanhDauThanhThanhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/TaTaiThatTinhTongDanhDauThanhThanhTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T02:23:29+00:00"
+      },
+      {
         "id": "d2082b8cb166",
         "title": "LuiBaiVoQuanCoVanDeTrongMonDeTuDeuVoDichTH",
-        "summary": "LuiBaiVoQuanCoVanDeTrongMonDeTuDeuVoDichTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "summary": "LuiBaiVoQuanCoVanDeTrongMonDeTuDeuVoDichTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/LuiBaiVoQuanCoVanDeTrongMonDeTuDeuVoDichTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-21T02:23:23+00:00"
       },
       {
+        "id": "f6f3d71943a3",
+        "title": "TaOQuyDiTheGioiChongBuffTH",
+        "summary": "TaOQuyDiTheGioiChongBuffTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/TaOQuyDiTheGioiChongBuffTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T02:22:32+00:00"
+      },
+      {
         "id": "955f6357b7f5",
         "title": "TaTaiDongKinhBaiHoaiNhanSinhTH",
-        "summary": "TaTaiDongKinhBaiHoaiNhanSinhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "summary": "TaTaiDongKinhBaiHoaiNhanSinhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/TaTaiDongKinhBaiHoaiNhanSinhTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-21T02:14:21+00:00"
       },
       {
-        "id": "bdb5fbd41cb8",
-        "title": "TaMotCaiKimBaiLuatSuBiBanGaiTruyTinhVongBaoTH",
-        "summary": "TaMotCaiKimBaiLuatSuBiBanGaiTruyTinhVongBaoTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/TaMotCaiKimBaiLuatSuBiBanGaiTruyTinhVongBaoTH",
+        "id": "0ed7959786db",
+        "title": "TaOXaDieuSaoChepSachThanhTongSuTH",
+        "summary": "TaOXaDieuSaoChepSachThanhTongSuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/TaOXaDieuSaoChepSachThanhTongSuTH",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-21T02:14:09+00:00"
-      },
-      {
-        "id": "703232cdca07",
-        "title": "MatTheVoHanVatTuLanTheDanMuoiCauMoCuaTH",
-        "summary": "MatTheVoHanVatTuLanTheDanMuoiCauMoCuaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/MatTheVoHanVatTuLanTheDanMuoiCauMoCuaTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-21T02:14:03+00:00"
+        "published": "2026-03-21T02:14:12+00:00"
       },
       {
         "id": "08862cba46dc",
@@ -75,54 +147,6 @@
         "published": "2026-03-20T23:54:32+00:00"
       },
       {
-        "id": "43d4924f9def",
-        "title": "FAURÉ Sämtliche Klavierwerke",
-        "summary": "FAURÉ  Sämtliche Klavierwerke Kathryn Stott (Klavier) (1994).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
-        "url": "https://archive.org/details/vfx_20260320",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-20T22:54:19+00:00"
-      },
-      {
-        "id": "50b76c390d8a",
-        "title": "FAURÉ Sämtliche Werke für Violoncello",
-        "summary": "FAURÉ  Sämtliche Werke für Violoncello Steven Isserlis (Violoncello) Pascal Devoyon (Klavier) (1995).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/ghcjf",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-20T22:12:20+00:00"
-      },
-      {
-        "id": "b4fbcd696248",
-        "title": "FAURÉ Werke für Violoncello und Klavier",
-        "summary": "FAURÉ  Werke für Violoncello und Klavier Maria Kliegel (Violoncello) Nina Tichman (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nghgd_202603",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-20T22:02:12+00:00"
-      },
-      {
-        "id": "91492ea44b42",
-        "title": "FAURÉ Sämtliche Lieder",
-        "summary": "FAURÉ  Sämtliche Lieder (4/4) Elly Ameling (Sopran) Gérard Souzay (Bariton) Dalton Balwin (Klavier) (1974).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nhxhf_202603",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-20T20:29:16+00:00"
-      },
-      {
-        "id": "1ae7b20885b4",
-        "title": "FAURÉ Sämtliche Lieder",
-        "summary": "FAURÉ  Sämtliche Lieder (3/4) Elly Ameling (Sopran) Gérard Souzay (Bariton) Dalton Balwin (Klavier) (1974).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/hxfsz",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-20T20:18:51+00:00"
-      },
-      {
-        "id": "6c5b12136a2d",
-        "title": "FAURÉ Sämtliche Lieder",
-        "summary": "FAURÉ  Sämtliche Lieder (2/4) Elly Ameling (Sopran) Gérard Souzay (Bariton) Dalton Balwin (Klavier) (1974).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectr...",
-        "url": "https://archive.org/details/hnxfg",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-20T20:18:06+00:00"
-      },
-      {
         "id": "c324dbc2528d",
         "title": "桃園遊覽車事故　監理所將派員查核",
         "summary": "（中央社記者黃巧雯台北20日電）桃園市蘆竹區今晚發生遊覽車擦撞停靠路邊大貨車，公路局表示，遊覽車車輛車籍正常，駕駛人駕籍正常，今天出車無超速，監理所明天將派員至該事故業者公司進行安全管理查核。",
@@ -145,30 +169,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202603200322.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-20T14:06:14+00:00"
-      },
-      {
-        "id": "9e0ac2ca6af6",
-        "title": "大樂透第115037期　頭獎槓龜",
-        "summary": "（中央社台北20日電）大樂透第115037期今晚開獎。中獎號碼為15、43、38、33、41、11，特別號21；派彩結果，頭獎槓龜。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200320.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T14:05:10+00:00"
-      },
-      {
-        "id": "e1679d029572",
-        "title": "花蓮近海晚間連兩震　最大震度3級",
-        "summary": "（中央社台北20日電）根據中央氣象署最新資訊，花蓮縣近海今天晚間9時32分及9時34分發生芮氏規模5.1及芮氏規模4.6地震，最大震度皆為3級。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200316.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T13:56:01+00:00"
-      },
-      {
-        "id": "53b2c66e42c9",
-        "title": "台灣燈會創316億產值　中央地方打造國家級品牌",
-        "summary": "（中央社記者黃巧雯台北20日電）2026台灣燈會日前落幕，觀光署今天表示，嘉義縣府初步統計，吸引約1360萬人次參觀，估帶動316億元觀光產值；燈會採中央與地方協力模式推動，共同打造國家級觀光品牌平台。",
-        "url": "https://www.cna.com.tw/news/ahel/202603200311.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-20T13:44:51+00:00"
       },
       {
         "id": "925eae349cd4",
@@ -427,14 +427,6 @@
         "published": "2025-11-30T22:53:09+00:00"
       },
       {
-        "id": "fd36bb394930",
-        "title": "Be The Sky: Interview with Tibetan Artist Tenzin Choegyal",
-        "summary": "Australian-based Tibetan artist, Tenzin Choegyal has enjoyed many highlights across his decades-long career. The latest is a collaboration with his friend Philip Glass and a&#8230;\nThe post Be The Sky: Interview with Tibetan Artist Tenzin Choegyal first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/be-the-sky-interview-with-tibetan-artist-tenzin-choegyal/",
-        "source": "Interviews | World Music Central",
-        "published": "2025-11-25T09:48:13+00:00"
-      },
-      {
         "id": "d2f8847b5f1b",
         "title": "ALGERIA – Rythmes et Chants du Sahara Central (Hoggar) – Les Disques ICEM-CEL",
         "summary": "ALGERIA –&nbsp;ALGÉRIERythmes et Chants du Sahara Central (Hoggar) –&nbsp;Les Disques ICEM-CEL – Documents Sonores de la BT nº3, released in 1972, recorded by Pierre Augier&nbsp;(Vinyl 7 inch, 33 RPM)With an area of 2.4 million square kilometers, Algeria is the largest country in Africa. Over 80% pe...",
@@ -499,14 +491,6 @@
         "published": "2025-09-15T14:37:57+00:00"
       },
       {
-        "id": "ee496ca38b4b",
-        "title": "Kulin Ban: Between Sevdah, Rock, and the Eternal Flow of the Drina",
-        "summary": "Nearly twenty years after its inception, the project Kulin Ban continues to defy categorization. Founded by musician and writer Vladimir Savić, it began as a&#8230;\nThe post Kulin Ban: Between Sevdah, Rock, and the Eternal Flow of the Drina first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/kulin-ban-between-sevdah-rock-and-the-eternal-flow-of-the-drina/",
-        "source": "Interviews | World Music Central",
-        "published": "2025-09-05T11:43:35+00:00"
-      },
-      {
         "id": "45e4767a2274",
         "title": "《新北市立鶯歌陶瓷博物館館刊》第12期",
         "summary": "發行人：張啟文 出版社：新北市立鶯歌陶瓷博物館 出版日期：2025年3月 GPN：4811400007 網址： [&#8230;]",
@@ -521,14 +505,6 @@
         "url": "https://www.transglobalwmc.com/charts/september-2025-chart/",
         "source": "Charts – Transglobal World Music Chart",
         "published": "2025-08-31T21:54:07+00:00"
-      },
-      {
-        "id": "14b9ca0997ce",
-        "title": "Interview with Borneo’s Sapé Player Alena Murang",
-        "summary": "(headline image: Alena-Murang &#8211; Photo by Yu Chung Chen) Nothing conjures the essence of Sarawak quite as eloquently as the sound of the sapé. The&#8230;\nThe post Interview with Borneo’s Sapé Player Alena Murang first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/interview-with-borneos-sape-player-alena-murang/",
-        "source": "Interviews | World Music Central",
-        "published": "2025-08-27T09:02:13+00:00"
       },
       {
         "id": "6fcc451897b5",
@@ -595,28 +571,12 @@
         "published": "2025-02-27T04:10:00+00:00"
       },
       {
-        "id": "a136796607f4",
-        "title": "Dogo Du Togo and the Alagaa Beat Band Bring you to Togo!",
-        "summary": "From its start, the title track Avoudé is high energy and upbeat. You want to dance, but also to take time to listen. The sound&#8230;\nThe post Dogo Du Togo and the Alagaa Beat Band Bring you to Togo! first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/dogo-du-togo-and-the-alagaa-beat-band-bring-you-to-togo/",
-        "source": "Interviews | World Music Central",
-        "published": "2025-02-26T12:01:15+00:00"
-      },
-      {
         "id": "9a35745cb4b9",
         "title": "新北市立十三行博物館：《遺址十三》【第三期】",
         "summary": "出版單位：新北市立十三行博物館 出版日期：2024年10月 ISSN：2958-0773 網址：https:/ [&#8230;]",
         "url": "https://www.tmaroc.org.tw/1140211/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-02-11T09:37:47+00:00"
-      },
-      {
-        "id": "d1e9cbf86c15",
-        "title": "Interview with Flamenco Guitarist José Almarcha",
-        "summary": "Spanish flamenco guitarist José Almarcha recently released an album titled Un Nuevo Paseo (a new walk). Notably, Almarcha seamlessly intertwines traditional flamenco roots with elegant&#8230;\nThe post Interview with Flamenco Guitarist José Almarcha first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/interview-with-flamenco-guitarist-jose-almarcha/",
-        "source": "Interviews | World Music Central",
-        "published": "2025-01-06T12:10:33+00:00"
       },
       {
         "id": "58d1c9c633e7",
@@ -641,38 +601,6 @@
         "url": "https://www.tmaroc.org.tw/1131031/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2024-10-31T09:24:21+00:00"
-      },
-      {
-        "id": "b9f6d57043ff",
-        "title": "Interview with Rita Pina, PR Manager of Festival MED",
-        "summary": "In just a few days, Festival MED will return. This annual festival has become one of the hotspots for world music in Europe during the&#8230;\nThe post Interview with Rita Pina, PR Manager of Festival MED first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/interview-with-rita-pina-pr-manager-of-festival-med/",
-        "source": "Interviews | World Music Central",
-        "published": "2024-06-12T21:52:38+00:00"
-      },
-      {
-        "id": "24561ea07a4c",
-        "title": "The First Interview with Cardamom Trio",
-        "summary": "Cardamom Trio is a new project consisting of Kaveh Sarvarian, a composer and musician of Iranian origin (ney, percussion, vocals); Hames Bitar, a Syrian oud&#8230;\nThe post The First Interview with Cardamom Trio first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/the-first-interview-with-cardamom-trio/",
-        "source": "Interviews | World Music Central",
-        "published": "2024-03-16T14:59:55+00:00"
-      },
-      {
-        "id": "d3a585b90087",
-        "title": "A Chat with Ali Doğan Gönültaş",
-        "summary": "(headline image: Ali Dogan Gönültas performing live at Polirítmia, 2023 &#8211; Photo by María Carbonell) In May 2022, the first album of Ali Doğan Gönültaş&#8230;\nThe post A Chat with Ali Doğan Gönültaş first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/a-chat-with-ali-dogan-gonultas/",
-        "source": "Interviews | World Music Central",
-        "published": "2024-03-15T11:00:02+00:00"
-      },
-      {
-        "id": "ecd9af81cd82",
-        "title": "Interview with Mostar Sevdah Reunion",
-        "summary": "(headline image: Dragi Sestic and Antonija Batinic &#8211; Courtesy of Snail Records) Mostar (Bosnia), 1993. In the midst of the Balkans War, at the age&#8230;\nThe post Interview with Mostar Sevdah Reunion first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/interview-with-mostar-sevdah-reunion/",
-        "source": "Interviews | World Music Central",
-        "published": "2024-02-15T09:08:00+00:00"
       },
       {
         "id": "651de109ae7b",
@@ -713,17 +641,17 @@
         "url": "https://www.flatblackandclassical.com/2023/12/amjad-ali-khan-self-titled-emi-ealp.html",
         "source": "Flat, Black, and Classical:  Indian Classical Music on Vinyl and Cassette",
         "published": "2023-12-05T00:29:00+00:00"
-      },
-      {
-        "id": "f5e548e7abd6",
-        "title": "Interview with innovative Zimbabwean Musician and Composer Edgar Muzah",
-        "summary": "Edgar Muzah, also known as “Eddiebass” is a highly talented Zimbabwean born bass player, mbira player and music producer based in Port Elizabeth, South Africa.&#8230;\nThe post Interview with innovative Zimbabwean Musician and Composer Edgar Muzah first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/interview-with-innovative-zimbabwean-musician-and-composer-edgar-muzah/",
-        "source": "Interviews | World Music Central",
-        "published": "2023-10-30T09:15:43+00:00"
       }
     ],
     "破(day)": [
+      {
+        "id": "0d5af5955e7a",
+        "title": "東亞書房》通話中落淚領獎！朝井まかて以《敗家藏》榮獲吉川英治文學獎，及其他藝文短訊",
+        "summary": "【得獎消息】\n➤第60屆吉川英治文學獎評選結果於本月5日出爐，朝井まかて以去年秋天推出的《敗家藏》（講談社），成為本屆文學獎得主。活躍文壇20年的朝井，過去曾以《戀歌》、《阿蘭陀西鶴》、《類》等作品，囊獲直木獎、織田作之助獎、柴田鍊三郎獎等知名獎項。本次得獎的時代小說《敗家藏》，以江戶時期大阪雜貨商敗家子「寅藏」為主角，商賈出身的他，因為太過浪蕩不羈，而獲得「敗家藏」的稱號。\n寅藏對自己的鑑賞眼光過度自信而遭人矇騙，讓店鋪蒙受巨大損失。無法繼續待在大阪的他，灰頭土臉地來到智慧與慾望交織的江戶古董商世界。朝井透過寅藏與老江湖們的交鋒，以及他時而愚昧、時而心軟、時而孤注一擲的豪氣，呈現由迷人珍寶與...",
+        "url": "https://www.openbook.org.tw/article/p-72435",
+        "source": "Openbook閱讀誌",
+        "published": "2026-03-21T01:00:00+00:00"
+      },
       {
         "id": "6cbe368950f9",
         "title": "童書評》跨越童年過渡階段的美麗繪本《緹娜的祕密竹林》",
@@ -1371,14 +1299,6 @@
         "url": "https://cdm.link/pikimov-offline/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-16T11:42:03+00:00"
-      },
-      {
-        "id": "18aef1941c47",
-        "title": "書評》當安全感不再理所當然：在《河人》的激流裡，重新辨識風險背後的命運紋理",
-        "summary": "《河人》是台灣少見完整且全面的山難報導文學作品，全書以 2023 年 5 月屏東飛龍巨瀑造成 5 人死亡的山難為主軸，進行了約11萬字的全面性調查與書寫。該事件中 10 名從事技術型「溪降」運動的攀登隊員，無論在成員素質或隊伍結構上，即使稱不上頂級卓越，也遠超過一般登山隊伍的該有的專業水準。然而，面對梅雨季前期看似安全可行的氣象預報，卻遭逢短時間內降雨量超乎預期的局部對流雲系，最終在溪水猝不及防的暴漲下，釀成了這場驚動戶外圈的悲劇，也帶給事件相關人員乃至整個社會巨大的衝擊。\n這場山難是否能夠防範？是如檢調結論所言，單純歸咎於極端天氣的不可預測性？還是一連串微小決策失誤所堆疊出的嚴重後果？人們總...",
-        "url": "https://www.openbook.org.tw/article/p-72415",
-        "source": "Openbook閱讀誌",
-        "published": "2026-03-16T10:00:24+00:00"
       },
       {
         "id": "80365c8a0461",
@@ -2292,7 +2212,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T02:39:40.440832+00:00"
+        "published": "2026-03-21T04:43:58.123069+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2220,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T02:39:40.440822+00:00"
+        "published": "2026-03-21T04:43:58.123058+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2228,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T02:39:40.440812+00:00"
+        "published": "2026-03-21T04:43:58.123045+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2236,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T02:39:40.440802+00:00"
+        "published": "2026-03-21T04:43:58.123019+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2244,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T02:39:40.440792+00:00"
+        "published": "2026-03-21T04:43:58.123008+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2252,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T02:39:40.440782+00:00"
+        "published": "2026-03-21T04:43:58.122997+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2260,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T02:39:40.440772+00:00"
+        "published": "2026-03-21T04:43:58.122986+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2268,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T02:39:40.440762+00:00"
+        "published": "2026-03-21T04:43:58.122976+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2276,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T02:39:40.440753+00:00"
+        "published": "2026-03-21T04:43:58.122966+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2284,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T02:39:40.440743+00:00"
+        "published": "2026-03-21T04:43:58.122956+00:00"
       },
       {
         "id": "3fc7a8ae3d8d",
