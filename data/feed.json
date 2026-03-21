@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-03-21T07:39:56.749343+00:00",
+  "updated_at": "2026-03-21T08:43:54.286092+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "2231f22acd30",
+        "title": "3aks Alteyar Mohamed Khassani",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/3aks-alteyar-mohamed-khassani",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T07:36:47+00:00"
+      },
+      {
+        "id": "6ef0245ff350",
+        "title": "nuzic 330",
+        "summary": "&#160; &#160; Under The Sun by Mark Pritchard ▶ Mark Pritchard &#8211; Under The Sun bc &#160; &#160; ▶ Ryoji Ikeda &#8211; Luxus 1-3 ▶ Ryoji Ikeda &#8211; Space (Altered Version) (surprisingly unstressful!) &#160; &#160; F by Skee Mask SkeeMask&#8230;",
+        "url": "https://www.musicofsound.co.nz/blog/nuzic-330",
+        "source": "Music of Sound",
+        "published": "2026-03-21T07:08:38+00:00"
+      },
       {
         "id": "6592e65f7a57",
         "title": "台東大學碩士生雙人聯展　結合科技與公益回饋家鄉",
@@ -115,6 +131,14 @@
         "published": "2026-03-21T03:21:37+00:00"
       },
       {
+        "id": "94edb9d368df",
+        "title": "HongHoangYeuHoangTaTuyetKhongCoKhaNangLamTH",
+        "summary": "HongHoangYeuHoangTaTuyetKhongCoKhaNangLamTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/HongHoangYeuHoangTaTuyetKhongCoKhaNangLamTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-21T03:20:24+00:00"
+      },
+      {
         "id": "d8475a0c735a",
         "title": "HokageTaDayQuaThatLaGiaTruyenBiThuatATH",
         "summary": "HokageTaDayQuaThatLaGiaTruyenBiThuatATH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
@@ -139,28 +163,12 @@
         "published": "2026-03-21T03:19:41+00:00"
       },
       {
-        "id": "ff4b3307013a",
-        "title": "TaThanAnPhanQuanChuyenCanQuetHacDiemTH",
-        "summary": "TaThanAnPhanQuanChuyenCanQuetHacDiemTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/TaThanAnPhanQuanChuyenCanQuetHacDiemTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-21T03:19:15+00:00"
-      },
-      {
         "id": "20c10ef3212c",
         "title": "帛琉無私分享號帆船再訪台東　與獵人學校簽署合作",
         "summary": "（中央社記者盧太城台東縣21日電）帛琉傳統航海船「無私分享號」（Alingano Maisu）昨天再訪台東，在帛琉副總統歐宜樓見證下，密克羅尼西亞航海協會與台東縣獵人學校教育基金會簽署合作備忘錄。",
         "url": "https://www.cna.com.tw/news/ahel/202603210045.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-21T03:12:33+00:00"
-      },
-      {
-        "id": "a80b9ccd8c61",
-        "title": "HuynhDeNoiTaiPhietTyTyHungNhungNangDoiVoiTaNgoanLaiNgotTH",
-        "summary": "HuynhDeNoiTaiPhietTyTyHungNhungNangDoiVoiTaNgoanLaiNgotTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/HuynhDeNoiTaiPhietTyTyHungNhungNangDoiVoiTaNgoanLaiNgotTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-21T02:24:06+00:00"
       },
       {
         "id": "70aded50f456",
@@ -321,14 +329,6 @@
         "url": "https://www.musicofsound.co.nz/blog/bass-addiction",
         "source": "Music of Sound",
         "published": "2026-03-12T03:30:21+00:00"
-      },
-      {
-        "id": "58afcff7bc51",
-        "title": "Melodica",
-        "summary": "I&#8217;ve loved this tune (&#038; this mix) ever since I first heard it, many decades ago&#8230; It makes me smile every time I hear David Rodigans BBC show start as he uses a version as an intro which led me&#8230;",
-        "url": "https://www.musicofsound.co.nz/blog/melodica",
-        "source": "Music of Sound",
-        "published": "2026-03-11T00:20:11+00:00"
       },
       {
         "id": "b523b391813e",
@@ -2212,7 +2212,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T07:39:56.748835+00:00"
+        "published": "2026-03-21T08:43:54.285554+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2220,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T07:39:56.748825+00:00"
+        "published": "2026-03-21T08:43:54.285544+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2228,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T07:39:56.748815+00:00"
+        "published": "2026-03-21T08:43:54.285534+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2236,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T07:39:56.748804+00:00"
+        "published": "2026-03-21T08:43:54.285524+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2244,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T07:39:56.748794+00:00"
+        "published": "2026-03-21T08:43:54.285514+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2252,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T07:39:56.748784+00:00"
+        "published": "2026-03-21T08:43:54.285498+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2260,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T07:39:56.748774+00:00"
+        "published": "2026-03-21T08:43:54.285487+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2268,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T07:39:56.748764+00:00"
+        "published": "2026-03-21T08:43:54.285477+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2276,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T07:39:56.748754+00:00"
+        "published": "2026-03-21T08:43:54.285467+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2284,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-21T07:39:56.748744+00:00"
+        "published": "2026-03-21T08:43:54.285457+00:00"
       },
       {
         "id": "3fc7a8ae3d8d",
