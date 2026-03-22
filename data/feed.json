@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-03-22T16:42:50.543106+00:00",
+  "updated_at": "2026-03-22T17:33:36.632636+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "14c8263e699e",
+        "title": "(Label) swing deluxe Discography",
+        "summary": "Bandcamp Discogs Facebook Latest Release 260322:  swing deluxe - Schachmatt - schubsen Uncontained Releases (1) swing deluxe - Schachmatt - schubsen Contained Releases (8) swing deluxe - Bahnsteigtristesse - Cyan swing deluxe - Hyena - The A.M.Thawn swing deluxe - Love Hungry Man - The Robocop Krau....",
+        "url": "https://archive.org/details/swing-deluxe-discography",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-22T17:07:01+00:00"
+      },
       {
         "id": "a0bb6caa1b51",
         "title": "Dieu Tuc Duong Assets",
@@ -89,14 +97,6 @@
         "url": "https://www.cna.com.tw/news/acul/202603220188.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-22T11:28:09+00:00"
-      },
-      {
-        "id": "8838a1bff32c",
-        "title": "HarryKhongMuonLamPhuThuyChiMuonLamSieuAnhHungTH",
-        "summary": "HarryKhongMuonLamPhuThuyChiMuonLamSieuAnhHungTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/HarryKhongMuonLamPhuThuyChiMuonLamSieuAnhHungTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-22T11:27:56+00:00"
       },
       {
         "id": "0ddf0683ebc1",
@@ -653,12 +653,44 @@
         "published": "2026-03-22T11:56:54+00:00"
       },
       {
+        "id": "b89e6937f61a",
+        "title": "当互联网瘫痪，这台开源“末日电脑”让你照样用 AI、看地图，一块太阳能板就能跑",
+        "summary": "想象一下，在一个普通的周日早晨，你醒来后习惯性地拿起手机，却突然发现信号格变成了一个绝望的叉号。WiFi 连接不上，反复断开数据之后也没有反应，所有的 APP、浏览器只剩下“无法连接到互联网”的提醒。你发送不了消息，查不了银行余额，甚至连“为什么断网了”都没法搜索。光是想想，这个场景就已经够让每一个现代人焦躁难安。但其实，它早已在现实中上演了无数次。例如2024 年，网络安全公司 CrowdStrike 的一次例行软件更新出现致命漏洞，导致全球约 850 万台 Windows 设备几乎同时陷入蓝屏死循环。航空公司停飞超过五千架次航班，医院被迫取消非紧急手术，银行 ATM 和在线支付系统瘫痪，报...",
+        "url": "https://www.mittrchina.com/news/detail/16126",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-22T11:55:22+00:00"
+      },
+      {
+        "id": "7130f029f9d4",
+        "title": "200字指令，Agent设计出首个可流片CPU，半天做完人类18个月工作",
+        "summary": "在半导体行业，设计一款领先的集成电路（IC）一直被视为硬件工程的巅峰挑战之一。通常情况下，从架构定义到最终流片（Tape-out），需要动辄数百人的工程团队协作，研发生产周期长达 18 至 36 个月，投入数亿美元。高昂的容错成本使“一次性成功”成为刚需，为此，验证环节甚至占据了总工作量的 50% 以上。然而，就在最近，芯片设计初创公司 Verkor 发布的一项研究打破了这一常态。其开发的自主 AI 智能体——Design Conductor（简称 DC），仅凭一份219 字的自然语言需求文档，在短短 12 小时内，便独立完成了从微架构设计到可供流片的 GDSII（物理版图数据）的全流程。由此...",
+        "url": "https://www.mittrchina.com/news/detail/16125",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-22T11:50:03+00:00"
+      },
+      {
+        "id": "85cc2d36493a",
+        "title": "马斯克要自己造芯片了，目标是地球上所有晶圆厂产能的50倍",
+        "summary": "美国当地时间 3 月 21 日晚间，埃隆·马斯克站在奥斯汀一座已经停运的老电厂 Seaholm 发电站里，正式宣布了他酝酿已久的“Terafab”项目。这座计划耗资 200 亿美元的芯片制造工厂，将落户得克萨斯州奥斯汀，紧邻特斯拉现有的 Giga Texas 园区，由特斯拉和 SpaceX 联合运营，xAI 也被纳入其中。（来源：X）马斯克给这座工厂定下的目标是：每年生产 1 太瓦（terawatt）算力的芯片，也就是 100 万兆瓦。他说，目前地球上所有芯片制造设施加起来，也只能满足他旗下各家公司需求的大约 2%。Terafab 的核心理念，用马斯克自己的话来概括，就是“什么都装进一个屋檐下...",
+        "url": "https://www.mittrchina.com/news/detail/16124",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-22T11:47:06+00:00"
+      },
+      {
         "id": "d00c0faae2ec",
         "title": "何孟娟在台個展　一探戰火下烏克蘭女性藝術家",
         "summary": "（中央社記者王寶兒台北22日電）曾於烏克蘭利維夫國家美術館及基輔國家美術館展出，台灣藝術家何孟娟作品「烏克蘭計畫」回台展覽，在台北双方藝廊登場，帶領民眾一探戰火中仍堅持創作的烏克蘭女性藝術家。",
         "url": "https://www.cna.com.tw/news/acul/202603220188.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-03-22T11:28:09+00:00"
+      },
+      {
+        "id": "6bd7932b0a89",
+        "title": "科学家8周造出活体人工食管，成功让猪重新吃下第一口饭",
+        "summary": "如果一个孩子从出生开始就无法吞咽，他该如何吃饭？Casey Mcintyre 就是这样一名先天性食管闭锁患者，尽管他才 2 岁，但已为治疗该疾病接受了多次手术。其实早在出生之前就被医生告知其食管可能存在严重的问题；Mcintyre 在出生后进一步确诊，食管缺失了足足 11 厘米，也就是说食管未与咽喉及胃形成连续通道。图丨Casey Mcintyre（来源：BBC）目前，针对这种疾病的一种治疗方案是将患儿的胃上移至颈部，以填补食管缺损，再直接与咽喉后部相连；另一种治疗方案则是移植部分结肠来连接食管闭锁处。尽管这类疾病可通过手术治疗，但对年龄较小的患者而言，整个治疗与恢复过程十分漫长，尤其是术后吞...",
+        "url": "https://www.mittrchina.com/news/detail/16123",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-22T06:01:05+00:00"
       },
       {
         "id": "2a3e37596039",
@@ -709,6 +741,30 @@
         "published": "2026-03-21T16:00:00+00:00"
       },
       {
+        "id": "f0aaf4d8db92",
+        "title": "量子时代的能源革命：全球首个全周期量子电池原型问世",
+        "summary": "在宏观世界中，电池的大小与充电时间成正比。然而，在微观量子力学的疆域里，物理法则却会发生令人惊叹的逆转：电池越大，充电反而更快了。3 月 18 日，由澳大利亚联邦科学与工业研究组织（CSIRO）、墨尔本皇家理工大学（RMIT）以及墨尔本大学组成的联合研究团队宣布，他们成功研发并演示了世界上首个能够完成“充-存-放”全周期循环的量子电池原型。这一突破不仅挑战了我们对能量存储的直觉认知，更标志着量子超吸效应正式从理论走进实验室原型。相关研究已发表于《自然》旗下的《光：科学与应用》（Light: Science &amp; Applications）。图 | 全球首个完全功能概念验证量子电池（来源：...",
+        "url": "https://www.mittrchina.com/news/detail/16121",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-21T15:03:00+00:00"
+      },
+      {
+        "id": "bded11e578e7",
+        "title": "科学家20年首证：你吸入的每一口二氧化碳，都在悄悄改变血液成分",
+        "summary": "本文是专业学术论文解读，不做医疗建议。大气二氧化碳过量排放不仅引发全球变暖，导致冰川融化、海平面上升，如今其影响还深入到了人体血液，甚至可能在 50 年后让人体血液的多项健康指标突破临界值。全球气候变暖是人类面临的最严重挑战之一，原因在于人类燃烧化石燃料，向大气中不断排放二氧化碳。但是，这种气候问题的背后还存在另一个重要影响：它可能正在悄悄改变人体血液的化学成分。专家警告称，全球气候变暖已不仅是环境危机，更是迫在眉睫的公共卫生问题，尤其儿童面临更长累积暴露的风险。几年前，澳大利亚儿童研究所呼吸环境健康部门的负责人 Alex Larcombe 首次将长期气候污染与人体内环境变化直接关联，相关论文...",
+        "url": "https://www.mittrchina.com/news/detail/16120",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-21T15:00:27+00:00"
+      },
+      {
+        "id": "83a3128f4bc8",
+        "title": "专访OpenAI首席科学家：我们离“AI自己做研究”有多远？",
+        "summary": "OpenAI 正在重新聚焦其研究方向，将资源集中投入一项新的宏大目标。这家公司瞄准的是“AI 研究员”——一个完全自动化的、基于智能体的系统，能够独立处理复杂问题。OpenAI 表示，这个新目标将成为公司未来几年的“北极星”，它将把推理模型、智能体和可解释性方面的工作整合在一起。并且，项目已经提上了日程。OpenAI 计划在 9 月前打造出“自主 AI 研究实习生”——一个能够独立承担少量特定研究问题的系统。该系统计划于 2028 年推出，这个 AI 实习生将是全自动多智能体研究系统的前身。OpenAI 称，它将能处理人类难以应对的复杂问题。这些任务可能涉及数学和物理，比如提出新的证明或猜想，...",
+        "url": "https://www.mittrchina.com/news/detail/16119",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-21T14:55:26+00:00"
+      },
+      {
         "id": "4a39b0e96f6c",
         "title": "屏東竹田頓物驛開幕　池上文庫第3期修復後回歸",
         "summary": "（中央社記者黃郁菁屏東縣21日電）屏東客庄文化新地標「竹田頓物驛」，由台鐵舊倉庫活化為客家餐飲與旅宿空間，今天盛大開幕。客委會主委古秀妃表示，第3期將修復池上文庫，保留珍貴台日交流據點。",
@@ -747,6 +803,30 @@
         "url": "https://www.cna.com.tw/news/acul/202603210132.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-03-21T08:50:44+00:00"
+      },
+      {
+        "id": "d14a1e7cb168",
+        "title": "量子计算机出手，医疗难题有救了吗？",
+        "summary": "（来源：麻省理工科技评论）我站在地处牛津郊外的英国国家量子计算中心的一台量子计算机前。实验台上，一组复杂的反射镜和透镜阵列围绕着一个魔方大小的真空腔，腔内有 100 个铯原子被一束精密控制的激光束悬浮在网格阵列中。这套铯原子装置非常紧凑，我完全可以把它抱起来，带出实验室，放到我车后座上带回家——它虽然小，但性能强大，因此也非常值钱。拥有这台机器的 Infleqtion 是一家总部位于科罗拉多州的公司，他们希望凭借这台机器的能力在下周赢得 500 万美元奖金。颁奖活动将在加州玛丽安德尔湾（Marina del Rey）举行。Infleqtion 是进入“量子生物”（Quantum for Bio...",
+        "url": "https://www.mittrchina.com/news/detail/16118",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-21T08:34:47+00:00"
+      },
+      {
+        "id": "18f07d62ea1f",
+        "title": "药效飙升60倍！科学家改造“老药”甲硝唑，可低剂量根治幽门螺杆菌",
+        "summary": "本文是专业学术论文解读，不做医疗建议。幽门螺杆菌是胃炎、胃溃疡乃至胃癌的重要诱因，约 90% 的肠型胃癌都与其慢性感染相关。它是目前已知唯一能在强胃酸环境下生存的细菌，全球约有 43% 的人口深受其扰。临床常用的三联疗法以甲硝唑、克拉霉素联合质子泵抑制剂为核心，但其根除率已从上世纪 90 年代的 90% 以上骤降，目前在许多研究中已跌破 80%，甚至在高度耐药地区仅为 60%-70%。而且多重耐药现象也十分严重。为了克服耐药，临床不得不提高甲硝唑的用药剂量，而高剂量不仅会大幅破坏肠道菌群多样性，引发胃肠道不适，还会增加药物副作用的发生风险，让幽门螺杆菌的治疗陷入了耐药、加量、引发副作用的恶性循...",
+        "url": "https://www.mittrchina.com/news/detail/16117",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-21T08:31:51+00:00"
+      },
+      {
+        "id": "3834f3f55fc9",
+        "title": "一束光就能让神经“听出画面”，科学家开发光声视网膜技术，为盲人重见光明提供新方案",
+        "summary": "不用电极，只用一束光，就能让盲人重新产生视觉？近期，美国波士顿大学程继新教授、杨辰教授团队与法国公司 Axorus、法国视觉研究所等团队合作，在 Nature Communications 报道了一种光声视网膜刺激技术。他们用一种无源的柔性薄膜，有望帮助部分失明患者恢复一定视觉感知能力，并且看得更清楚、视野更大。值得关注的是，该技术实现了 51 微米的横向空间精度，超越了目前临床试验中 PRIMA 光伏植入物所能达到的 100 微米，为视网膜退行性疾病患者恢复视力提供了新思路。图丨研究团队主要成员，从左至右依次为：李悦明、 Audrey Leong、Thijs Ruikes（来源：受访者）通常...",
+        "url": "https://www.mittrchina.com/news/detail/16116",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-21T08:26:56+00:00"
       },
       {
         "id": "e968f015754f",
@@ -1101,6 +1181,14 @@
         "published": "2026-03-18T18:57:02+00:00"
       },
       {
+        "id": "d102ec96407c",
+        "title": "Clariloops * Robert Scott Thompson",
+        "summary": "CLARILOOPS - THE QUIET BELOW\n\n\nClariloops is the alias of Ruby (Ester Mae) Lulham, a classically trained clarinetist from Melbourne who merges her clarinet with immersive ambient music to create 'anbient works that fuse wood and wire, breath and signal'.\n\n\nThe Quiet Below was recorded at home wile p...",
+        "url": "https://www.ambientblog.net/blog/clariloops-thompson/",
+        "source": "Ambientblog",
+        "published": "2026-03-18T18:55:29+00:00"
+      },
+      {
         "id": "b1be51479bdf",
         "title": "掐住世界能源咽喉的33公里：荷姆茲海峽危機，伊朗戰火蔓延的新「油輪戰爭」",
         "summary": "伊朗對荷姆茲海峽的海運封鎖，以及最新傳出海灣各國油氣設施遭轟炸，不僅持續擴大全球經濟對於下一場石油危機即將爆發的焦慮，也如蝴蝶效應般在地球彼端為日韓等美國的東亞盟邦，帶來經濟、外交與軍事的多重壓力。",
@@ -1245,36 +1333,12 @@
         "published": "2026-03-17T12:49:12+00:00"
       },
       {
-        "id": "80563a113aae",
-        "title": "谁在把互联网变成垃圾堆？",
-        "summary": "两周前，一段来自挪威的喜剧短片视频开始在 Youtube 上走红。视频的开头，一个男子蹲伏在床底，手持剪刀，在别人完整的袜子上剪出一个洞。紧接着，他又拿起锯子，在家人吃早餐的时候将桌腿锯短一截，只是为了让桌子摇摇晃晃。“我的工作就是把东西变烂，”这个男人对着镜头解释道，“我的职业名称是‘垃圾化专员’（Enshittificator），就是把本来完全没问题的东西，弄得更糟糕。”这显然是个隐喻，到底是什么东西本来完全没问题，现在却被一些参与其中的人变得更糟了呢？答案是——互联网。这支时长不足四分钟的短片由挪威消费者委员会出品，目前在 YouTube 上获得了 269 万次播放，评论超过 9,000...",
-        "url": "https://www.mittrchina.com/news/detail/16099",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-17T10:34:55+00:00"
-      },
-      {
-        "id": "a4e31f63bded",
-        "title": "AI算力的瓶颈已不是电，而是半导体供应链",
-        "summary": "2026 年，全球四大科技巨头亚马逊、Meta、谷歌和微软的资本支出预测总额达到 6,000 亿美元。换算成数据中心的年租赁价格，大约对应 50 GW（吉瓦）的算力容量。与此同时，OpenAI 刚刚完成 1,100 亿美元融资，Anthropic 官宣了 300 亿美元的新一轮募资。钱到位了，但这些钱到底能不能变成真正运转的芯片和数据中心？半导体研究机构 SemiAnalysis 创始人兼 CEO Dylan Patel 近日做客 Dwarkesh Patel 的播客节目，就 AI 算力扩展的核心瓶颈进行了一次信息量极高的深度对话。Dylan 长期追踪全球半导体供应链和 AI 基础设施建设，S...",
-        "url": "https://www.mittrchina.com/news/detail/16098",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-17T10:29:40+00:00"
-      },
-      {
         "id": "27883ab7d635",
         "title": "Meta：去年移除逾 2 千萬個冒名創作者 Facebook 帳號",
         "summary": "Facebook 母公司 Meta 今天表示，Meta 持續打擊假冒創作者，2025 年移除超過 2 千萬個假 [&#8230;]",
         "url": "https://infosecu.technews.tw/2026/03/17/meta-more-than-20-million-fake-creator-facebook-accounts-were-removed-last-year/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-03-17T10:20:50+00:00"
-      },
-      {
-        "id": "a00b5348f06e",
-        "title": "一个链接干掉市场部，月薪仅99美元的AI想要接任创业公司CMO",
-        "summary": "3 月 16 日，新加坡 AI 创业公司 Okara 用一条相当简洁的推文介绍了他们新产品：输入你的网站地址，一支 AI 智能体团队就会开始帮你获取流量和用户。发出不到四个小时，这条推文的浏览量突破 530 万。截至本文写作时，这个数字已经攀升接近破千万，收获了超过 2 万次转发和 4.4 万次收藏。对于一家此前月活用户不过数万的初创公司来说，这个数据有些离谱。Okara 把这个产品叫做“AI CMO”（“AI 首席营销官”）。定价 99 美元/月。用户需要做的只有一件事：把自己的网站地址填进去。之后，一组专门的 AI 智能体（agent）会自动分头行动，覆盖创业公司获取早期用户最常依赖的几个...",
-        "url": "https://www.mittrchina.com/news/detail/16097",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-17T10:04:00+00:00"
       },
       {
         "id": "cc2a6e93b13f",
@@ -1301,44 +1365,12 @@
         "published": "2026-03-16T16:00:00+00:00"
       },
       {
-        "id": "31fcc8fb648d",
-        "title": "科学“养虾”指南：数字龙虾走出对话框，我们在南京看到从“野生”到“精养”的进化路径",
-        "summary": "当 AI 的浪潮从对话框涌向执行端，一个全新的生产力物种——AI Agent（智能体）正以破竹之势重塑自动化版图。从去年的 DeepSeek 重磅亮相到以 Manus 为代表的 Agent 生态崛起，如今又迎来 OpenClaw 强势席卷全球开源社区，AI 智能体正以肉眼可见的速度打破技术壁垒，走进大众视野、落地产业场景。这只由奥地利程序员打造的“数字龙虾”，在 GitHub 平台狂揽 28 万星标，短短百天便超越 Linux 三十年的积累，创下开源界传奇；腾讯、阿里、字节等科技巨头全面布局加码，各地政府接连出台“龙虾十条”政策扶持，无数应用开发者、数字游民、创业团队更是从中窥见了全新的发展机...",
-        "url": "https://www.mittrchina.com/news/detail/16092",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-16T12:37:36+00:00"
-      },
-      {
-        "id": "26f28e9d1db2",
-        "title": "60万个零件塞进一颗芯片，瑞士团队开发4D成像传感器，未来手机就能“看”速度",
-        "summary": "我们日常使用的手机、相机都是 2D 成像，只能捕捉平面画面；如今常见的 3D 成像技术，比如人脸识别、扫地机器人的避障系统，能感知物体的远近和立体形状，但却少了关键的动态感知能力。就像扫地机器人能看清地上的拖鞋，却未必能及时判断滚过来的篮球速度，容易出现 “慢半拍” 的碰撞。近日，总部位于瑞士苏黎世的 Pointcloud 公司的科研团队在 Nature 发表成果，他们成功开发出一款 4D 成像传感器，除了知道物体的位置，它还能测出物体的速度。更重要的是，它像 CMOS 相机芯片一样实现了高度集成，让曾经昂贵笨重的 4D 成像技术，有望走进普通生活。Pointcloud 由前英特尔光子学专家雷...",
-        "url": "https://www.mittrchina.com/news/detail/16091",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-16T12:33:59+00:00"
-      },
-      {
-        "id": "b73a98cc3eb7",
-        "title": "3个00后做出AI独角兽：1天复现半年市场报告，或重构传统调研模式",
-        "summary": "如果一家企业想对新产品进行市场测试，传统调研模式往往需要组织数百名消费者参与访谈和问卷调查，这需要耗时数周甚至数月。但一家由三名 00 后创立的 AI 初创公司 Aaru，正在用一种独特的方式解决这个问题：用数千个 AI Agent 模拟真实消费者，不仅成本更低，还能更精准地锁定目标用户画像。Aaru 的 AI 模拟选举将误差压低至 0.5% 以内，其模拟消费者调查用 1 周复现了传统方法为期 2 个月、500 人参与的消费者调研，更值得关注的是，Aaru 仅用 1天就复现了世界四大会计师事务所之一安永耗时 6个月、被称为“业内最全面的研究项目”。最近，这家公司的估值已达到 10 亿美元，引起...",
-        "url": "https://www.mittrchina.com/news/detail/16090",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-16T12:28:56+00:00"
-      },
-      {
         "id": "15969e1e3749",
         "title": "Pikimov, free motion and video app, now $6 standalone for Mac and Windows",
         "summary": "Pikimov 5.1.0 is now available as an offline app, bringing all the browser-powered video editing and motion graphics powers of this tool to a standalone tool &#8212; no internet connection required. The browser version is free forever; for offline capabilities, you need to pay $6 a month (no commitm...",
         "url": "https://cdm.link/pikimov-offline/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-16T11:42:03+00:00"
-      },
-      {
-        "id": "80365c8a0461",
-        "title": "一百年前的今天，一个被嘲笑不懂高中物理的人，开启了整个太空时代",
-        "summary": "100 年前的今天，1926 年 3 月 16 日，美国马萨诸塞州奥本镇一片覆着薄雪的农田里，一个瘦削的中年物理学教授和他的几个助手站在寒风中，盯着一个三米高、由管道和储罐缠绕而成的古怪装置。它看上去更像一件实验室里走丢的废品，而非任何意义上的“飞行器”。下午两点半左右，装置底部喷出火焰，整个结构摇摇晃晃地离开了发射架，爬升了大约 12.5 米，在空中飞行了 56 米远，然后在 2.5 秒后一头栽进冻硬的泥地。现场没有记者，没有摄影机，甚至没有一个当地居民注意到发生了什么。（来源：WikiPedia）这就是人类历史上第一枚液体燃料火箭的首飞。飞行高度约 41 英尺，航程 184 英尺。按任何常...",
-        "url": "https://www.mittrchina.com/news/detail/16089",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-16T09:40:06+00:00"
       },
       {
         "id": "7082c43858aa",
@@ -1365,30 +1397,6 @@
         "published": "2026-03-15T16:00:00+00:00"
       },
       {
-        "id": "38454c6b5f8e",
-        "title": "关于AI和基础科研的三个问题",
-        "summary": "（来源：麻省理工科技评论）好奇心驱动的研究长期以来一直是技术变革的火种。一个世纪前，对原子的好奇催生了量子力学，并最终孕育出现代计算核心的晶体管；反过来看，蒸汽机是一项实用的突破，但人们在热力学领域的基础研究才真正释放了它的全部潜力。今天，AI 和科学正处于一个类似的转折点。当前的 AI 革命由数十年来数学和物理科学（MPS）领域的研究所推动，这些领域提供了具有挑战性的问题、数据集和洞见，使现代 AI 成为可能。2024 年的诺贝尔物理学奖和化学奖分别授予了根植于物理学的基础 AI 方法和用于蛋白质设计的 AI 应用，让这种关联变得不容忽视。2025 年，MIT 举办了一场“AI+MPS 的未...",
-        "url": "https://www.mittrchina.com/news/detail/16085",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-15T10:15:54+00:00"
-      },
-      {
-        "id": "31a0419275d8",
-        "title": "每天放屁32次才算正常？科学家发明智能内裤，专测屁里的氢气含量",
-        "summary": "人类对于放屁这件事的认知，可能一直都是错的。近日，美国马里兰大学团队发明了一条智能内裤，能够准确记录你每天放了多少个屁。首批测试结果显示，健康成年人每天放屁 32 次，是以前医学教科书上说的两倍。（来源：Biosensors and Bioelectronics: X）与此同时，他们后续还要启动一个更大规模的项目，叫做人类放屁图谱。他们计划使用智能内裤测试几百名美国成年人的放屁模式，同时分析受试者的饮食结构和肠道菌群的组成，目标是搞清楚 18 岁以上人群的正常放屁范围到底是多少。图 | 智能内裤（来源：Brantley Hall, University of Maryland）这条内裤长得像一...",
-        "url": "https://www.mittrchina.com/news/detail/16084",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-15T10:12:54+00:00"
-      },
-      {
-        "id": "3db825490462",
-        "title": "程序员用ChatGPT给狗设计疫苗，肿瘤真的缩小了，科学家都服了",
-        "summary": "一只被遗弃在灌木丛中的混血犬，在主人使用 AI 和 ChatGPT 的帮助下，成功研制出个性化 mRNA 癌症疫苗。这只狗名字叫罗西，八岁的它脚踝上那颗网球大小的肿瘤，在注射疫苗之后缩小了一半。图 | 罗西的病情变化（来源：Paul Conyngham）罗西的主人叫保罗·康宁汉姆（Paul Conyngham），2019 年保罗从动物收容所收养了罗西，罗西是一只斯塔福郡斗牛㹴（一种短毛狗）和沙皮狗的混血犬。那时正好是疫情封锁期间，罗西陪伴主人保罗度过了一段艰难的时光。图 | 狗狗罗西和保罗（来源：John Feder）2024 年，噩耗传来，罗西被诊断出患有肥大细胞癌。保罗花费几千澳元给罗西做...",
-        "url": "https://www.mittrchina.com/news/detail/16083",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-15T10:08:27+00:00"
-      },
-      {
         "id": "2121f7e29254",
         "title": "Pi Day: Hear and see approximations for Pi — and learn about shaders, too",
         "summary": "Rebel against the anti-intellectual world around us! Forget the traumas of math classes past! Instead, enter a hypnotic trance as your screen vibrates and headphones ring with the sight and sound of Pi's approximations. Our friends over at VDMX would like to introduce you to the wonders of ... bad P...",
@@ -1403,6 +1411,14 @@
         "url": "https://cdm.link/pi-day-chino-yoshio-and-sine-waves/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-14T15:39:23+00:00"
+      },
+      {
+        "id": "7562619e5af7",
+        "title": "Myllykoski & Äijälä * Herden & IT904",
+        "summary": "ALEKSI MYLLYKOSKI &amp; VELI-MATTI O ÄIJÄLÄ - HUMANITY\n\n\n\"We live in a world where the everyday life of war is closer to us westerners than ever before.\" Humanity was released on February 20, only a few days before the USA/Israel attack on Iran. Truer words are hardly spoken.\n\n\n'How can we change th...",
+        "url": "https://www.ambientblog.net/blog/humanity-travelogue/",
+        "source": "Ambientblog",
+        "published": "2026-03-13T19:46:52+00:00"
       },
       {
         "id": "bc85577215b2",
@@ -1597,6 +1613,14 @@
         "published": "2026-03-09T00:00:00+00:00"
       },
       {
+        "id": "1e717f67fc3a",
+        "title": "DreamScenes – March 2026",
+        "summary": "A Place Where Silence Feels Safe\n\n\n\n&nbsp;\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:47 Reibung - Burdon To CarryChrysanthemen, 2026\n\n\n02:56 Clariloops - Slowly I WakeShades, 2026, Whitelabrecs\n\n\n06:29 Miles Lee - Charcoal Tide (edit)The Sound Of Dreams, 2026, Inspired By Breathing\n\n\n...",
+        "url": "https://www.ambientblog.net/blog/dreamscenes-march-2026/",
+        "source": "Ambientblog",
+        "published": "2026-03-08T18:55:00+00:00"
+      },
+      {
         "id": "e93814826cf0",
         "title": "NO.80－牯嶺街小劇場文化報",
         "summary": "NO.80－牯嶺街小劇場文化報 2026.03-2026.05 / 專題｜2025年度節目選拔計畫 專文｜復活 [&#8230;]",
@@ -1635,6 +1659,14 @@
         "url": "https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them",
         "source": "Claude Blog",
         "published": "2026-03-05T00:00:00+00:00"
+      },
+      {
+        "id": "99523ceab6ed",
+        "title": "Machinefabriek * Meredith Bates",
+        "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
+        "url": "https://www.ambientblog.net/blog/machinefabriek-bates/",
+        "source": "Ambientblog",
+        "published": "2026-03-04T18:49:30+00:00"
       },
       {
         "id": "1c2e501eb61b",
@@ -1683,6 +1715,14 @@
         "url": "https://www.transglobalwmc.com/charts/march-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-02-28T23:06:44+00:00"
+      },
+      {
+        "id": "a992f8790179",
+        "title": "Andreas Voelk & Scott Monteith * Deadbeat",
+        "summary": "ANDREAS VOELK &amp; SCOTT MONTEITH - AND ALL THE CLOCKS RAN DRY\n\n\nUntil now I never heard of Andreas Voelk (from Berlin) or from his bands Das Ende Der Liebe and Center For Mind And Brain. Canadian Scott Monteith, on the other hand, is of course well known from his Deadbeat alias.\n\n\nAnd All The Cloc...",
+        "url": "https://www.ambientblog.net/blog/voelkmonteith-deadbeat/",
+        "source": "Ambientblog",
+        "published": "2026-02-28T18:12:33+00:00"
       },
       {
         "id": "41fd99be8d4e",
@@ -1789,12 +1829,28 @@
         "published": "2026-02-24T00:00:00+00:00"
       },
       {
+        "id": "efbfa794b124",
+        "title": "Isobel Waller-Bridge * Bolton / Cordero",
+        "summary": "ISOBEL WALLER-BRIDGE - OBJECTS\n\n\nHer name may ring a distant bell: Isobel Waller-Bridge is the sister of Phoebe Waller-Bridge, who you may remember from the Fleabag series. Isobel composed the music for Fleabag, as well as many other scores for film, television, theatre and ballet. \n\n\nBut apart from...",
+        "url": "https://www.ambientblog.net/blog/wallerbridge-boltoncordero/",
+        "source": "Ambientblog",
+        "published": "2026-02-23T18:31:37+00:00"
+      },
+      {
         "id": "a25be2573a64",
         "title": "The Library and “The Sound of Music” hit the road",
         "summary": "-This is a guest post by Deb Fiscella, a public affairs specialist in the Office of Communications.  The Library and a national touring company are offering theatergoers a peek behind the curtain at the origins of one of Broadway’s most cherished musicals: &#8220;The Sound of Music.&#8221; In a firs...",
         "url": "https://blogs.loc.gov/loc/2026/02/the-library-and-the-sound-of-music-hit-the-road/",
         "source": "Timeless",
         "published": "2026-02-20T14:00:24+00:00"
+      },
+      {
+        "id": "9b120dd01b07",
+        "title": "Clara Brea & Menhir * Kult Masek & Petr Vrba",
+        "summary": "CLARA BREA &amp; MENHIR - GROWING FORESTS IN THE CITY\n\n\nIn 2022, the Astral Industries label released The Wetland Remixes - a collaboration project of Son Of Chi (Hanyo van Oosterom, from Holland) and Spanish artist Clara Brea. The original stems of the 'Wetland Project' were remixed by Son Of Chi a...",
+        "url": "https://www.ambientblog.net/blog/cbreamenhir-kultmasek-vrba/",
+        "source": "Ambientblog",
+        "published": "2026-02-18T19:37:40+00:00"
       },
       {
         "id": "ce430890dc55",
@@ -1827,6 +1883,14 @@
         "url": "https://indiepublisher.tw/zh-hant/news/2305",
         "source": "獨立出版聯盟網站",
         "published": "2026-02-15T00:00:00+00:00"
+      },
+      {
+        "id": "afbc3f5ca2dd",
+        "title": "Eaton & Fullen * Volume Settings Folder",
+        "summary": "EATON &amp; FULLEN - BUTTERFLY COMPOUND\n\n\nFrank Eaton and Kevin Fullen are founders of the Noise New York recording studio - \"hotbed of the No Wave Movement\". The instrumental, psychedelic and ambient soundscapes they present as the Eaton/Fullen duo is not what I remember from that particular 70's s...",
+        "url": "https://www.ambientblog.net/blog/eaton-fullen-volume-settings-folder/",
+        "source": "Ambientblog",
+        "published": "2026-02-13T16:08:11+00:00"
       },
       {
         "id": "a4f98437c9bc",
@@ -1875,6 +1939,14 @@
         "url": "https://humanityisland.nccu.edu.tw/tsuenchiuantsai_a/",
         "source": "人文．島嶼",
         "published": "2026-02-11T03:15:54+00:00"
+      },
+      {
+        "id": "969b0336887e",
+        "title": "DreamScenes – February 2026",
+        "summary": "For Want Of Spring\n\n\n\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:26 Andrew Heath - The Zener ConventionShades, 2026, Whitelabrecs\n\n\n07:42 Jannis Anastasakis - Dr. KelvinSolaris, 2026, Room40\n\n\n11:25 Félicia Atkinson &amp; Christina Vantzou - Film Still / The SeaReflections Vol. 3: Wate...",
+        "url": "https://www.ambientblog.net/blog/dreamscenes-february-2026/",
+        "source": "Ambientblog",
+        "published": "2026-02-08T18:55:00+00:00"
       },
       {
         "id": "2b0c561bc4b6",
@@ -1931,6 +2003,14 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
         "source": "Google DeepMind",
         "published": "2026-02-02T17:00:00+00:00"
+      },
+      {
+        "id": "edac18c510de",
+        "title": "Rafael Anton Irisarri * Joachim Spieth",
+        "summary": "RAFAEL ANTON IRISARRI - POINTS OF INACCESSIBILITY\n\n\nThe new album by Rafael Anton Irisarri is planned for release on February 6, 2026. But it's already on pre-order, so this means the limited (bio-)vinyl edition is still available for those who prefer physical editions. And that's a welcome change f...",
+        "url": "https://www.ambientblog.net/blog/irisarri-spieth/",
+        "source": "Ambientblog",
+        "published": "2026-02-01T14:23:38+00:00"
       },
       {
         "id": "f8895d75c66f",
@@ -2132,7 +2212,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T16:42:50.542661+00:00"
+        "published": "2026-03-22T17:33:36.632188+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2140,7 +2220,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T16:42:50.542650+00:00"
+        "published": "2026-03-22T17:33:36.632178+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2148,7 +2228,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T16:42:50.542639+00:00"
+        "published": "2026-03-22T17:33:36.632169+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2156,7 +2236,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T16:42:50.542629+00:00"
+        "published": "2026-03-22T17:33:36.632159+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2164,7 +2244,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T16:42:50.542618+00:00"
+        "published": "2026-03-22T17:33:36.632149+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2172,7 +2252,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T16:42:50.542608+00:00"
+        "published": "2026-03-22T17:33:36.632138+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2180,7 +2260,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T16:42:50.542598+00:00"
+        "published": "2026-03-22T17:33:36.632128+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2188,7 +2268,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T16:42:50.542588+00:00"
+        "published": "2026-03-22T17:33:36.632119+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2196,7 +2276,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T16:42:50.542577+00:00"
+        "published": "2026-03-22T17:33:36.632109+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2204,7 +2284,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T16:42:50.542567+00:00"
+        "published": "2026-03-22T17:33:36.632099+00:00"
       },
       {
         "id": "d1e28186cf95",
