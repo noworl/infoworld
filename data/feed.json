@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-03-22T08:46:11.704882+00:00",
+  "updated_at": "2026-03-22T09:41:57.995531+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "ef1b40682af1",
+        "title": "台鐵2起事故　運安會立案調查",
+        "summary": "（中央社記者余曉涵台北22日電）台鐵近日一列自強號在新左營站發生火災，另有一列柴電機車與水泥貨物列車發生衝撞導致出軌事故，都被國家運輸安全調查委員會認定為重大事故，立案調查。",
+        "url": "https://www.cna.com.tw/news/ahel/202603220141.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-22T08:48:25+00:00"
+      },
+      {
+        "id": "dd4c5f749d29",
+        "title": "蘇丹準軍事組織控制區醫院遇襲　世衛稱釀64死89傷",
+        "summary": "（中央社日內瓦21日綜合外電報導）世界衛生組織（WHO）今天表示，非洲國家蘇丹一家醫院遭到攻擊，造成64人死亡、89人受傷，死者包括13名孩童。人權組織則通報，這家醫院是被軍方無人機攻擊。",
+        "url": "https://www.cna.com.tw/news/aopl/202603220133.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-22T08:33:08+00:00"
+      },
+      {
+        "id": "be4181629a32",
+        "title": "中東戰事醫材漲價恐缺貨　專家：評估啟動國家隊",
+        "summary": "（中央社記者陳婕翎台北22日電）中東戰爭衝擊全球石化供應鏈，醫療塑膠耗材傳出漲價，恐衝擊醫用手套、抽痰管、氧氣面罩等關鍵醫材供應，專家指出部分醫材價格上漲幅度達5%至20%，評估啟動醫材國家隊模式。",
+        "url": "https://www.cna.com.tw/news/ahel/202603220131.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-22T08:26:04+00:00"
+      },
       {
         "id": "a1fa43a03b68",
         "title": "JujutsuKaisenMeoCuaGojoHoiQuaiQuaiTH",
@@ -137,30 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202603220024.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-22T01:18:10+00:00"
-      },
-      {
-        "id": "8f8b04c6afe4",
-        "title": "88歲鐵粉追星朴寶劍　孫輩送上粉絲見面會驚喜",
-        "summary": "銀光追星人6（中央社記者陳婕翎台北22日電）韓星朴寶劍是88歲小玉奶奶（化名）的春天，孫輩為此秘密策劃偶像見面會，小玉奶奶逢人就分享這次驚喜，連計程車司機都是聽眾，追星追到老，擁有少女心，她是全家人榜樣。",
-        "url": "https://www.cna.com.tw/news/ahel/202603220023.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-22T01:18:08+00:00"
-      },
-      {
-        "id": "9db9e386971a",
-        "title": "7旬建築師變BLINK　晚年粉紅冒險喊「我還在熱愛」",
-        "summary": "銀光追星人5（中央社記者陳婕翎台北22日電）74歲的留法建築師林貴榮，建築生涯40多年，因一場跨世代搶票任務，展開晚年最浪漫粉紅冒險，在萬人場館為韓團BLACKPINK揮舞手燈，「我還在熱愛，永遠在青春裡。」",
-        "url": "https://www.cna.com.tw/news/ahel/202603220022.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-22T01:17:06+00:00"
-      },
-      {
-        "id": "9852e5d59e50",
-        "title": "退休護理師入坑CNBLUE　粉絲群把孤單關靜音",
-        "summary": "銀光追星人4（中央社記者陳婕翎台北22日電）69歲退休護理師姚姐（化名），疫情期間迷上韓國樂團CNBLUE，在藍色應援海裡四海皆友，手機一滑就是溫暖陪伴，當家人都在醫院值班的深夜，是音樂與群組訊息聲，把孤單關靜音。",
-        "url": "https://www.cna.com.tw/news/ahel/202603220020.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-22T01:17:01+00:00"
       },
       {
         "id": "6ef0245ff350",
@@ -401,6 +401,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "168475bc91e2",
+        "title": "“It’s not just a Party, ya know?”",
+        "summary": "This article addresses the application of affective theories in relation to electronic dance music parties, specifically from a Global South perspective. The aim is to comprehend the circumstances of collective and individual formations facilitated through music as an element that intensifies affect...",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1306",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T08:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -2212,7 +2292,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T08:46:11.704369+00:00"
+        "published": "2026-03-22T09:41:57.995000+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2300,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T08:46:11.704359+00:00"
+        "published": "2026-03-22T09:41:57.994990+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2308,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T08:46:11.704348+00:00"
+        "published": "2026-03-22T09:41:57.994979+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2316,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T08:46:11.704338+00:00"
+        "published": "2026-03-22T09:41:57.994968+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2324,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T08:46:11.704328+00:00"
+        "published": "2026-03-22T09:41:57.994955+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2332,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T08:46:11.704318+00:00"
+        "published": "2026-03-22T09:41:57.994928+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2340,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T08:46:11.704308+00:00"
+        "published": "2026-03-22T09:41:57.994918+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2348,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T08:46:11.704298+00:00"
+        "published": "2026-03-22T09:41:57.994907+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2356,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T08:46:11.704288+00:00"
+        "published": "2026-03-22T09:41:57.994897+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2364,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-22T08:46:11.704278+00:00"
+        "published": "2026-03-22T09:41:57.994887+00:00"
       },
       {
         "id": "d1e28186cf95",
