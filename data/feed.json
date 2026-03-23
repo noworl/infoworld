@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-03-23T07:23:45.336831+00:00",
+  "updated_at": "2026-03-23T09:08:50.552538+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "aaa249594b8f",
+        "title": "星空聯盟啟用洛杉磯機場轉機支援中心　助銜接航班",
+        "summary": "（中央社記者余曉涵台北23日電）星空聯盟今天宣布在美國洛杉磯機場啟用全新的轉機支援中心，確保搭乘星空聯盟轉機的旅客可以順利趕上下一段航班。",
+        "url": "https://www.cna.com.tw/news/ahel/202603230172.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-23T08:02:36+00:00"
+      },
+      {
+        "id": "f595ea8c63bd",
+        "title": "華航升級機上旅行包　攜手紐約及丹麥品牌",
+        "summary": "（中央社記者余曉涵台北23日電）中華航空今天宣布，首度攜手紐約時尚精品Marc Jacobs與丹麥多方位設計品牌FRAMA，推出全新升級的機上旅行包，預計28日先於布拉格航線亮相。",
+        "url": "https://www.cna.com.tw/news/ahel/202603230161.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-23T07:33:13+00:00"
+      },
+      {
+        "id": "335d954f22a1",
+        "title": "彭啓明：擬設國家氣候調適韌性中心　盼116年成立",
+        "summary": "（中央社記者張雄風台北23日電）世界氣象組織表示，2015至2025年是史上最熱的11年。環境部長彭啓明說，正在跨部會討論國家氣候調適韌性中心，整合各機關工作，以年底前通過立法院審議、明年正式成立為目標。",
+        "url": "https://www.cna.com.tw/news/ahel/202603230155.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-23T07:26:00+00:00"
+      },
+      {
+        "id": "1bab8435cd48",
+        "title": "地球熱量91%被海洋吸收　學者憂淨零也難降溫",
+        "summary": "（中央社記者張雄風台北23日電）世界氣象組織今天表示，2015至2025年為史上最熱的11年。學者憂心，目前地球熱量有91%被海洋吸收，就算2050年達到淨零，海洋仍會持續釋放熱量，地球不會立即降溫。",
+        "url": "https://www.cna.com.tw/news/ahel/202603230150.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-23T07:12:49+00:00"
+      },
+      {
+        "id": "a87f2da009e4",
+        "title": "桃園農改場盆花底部澆水端盤節水逾5成 設備熱銷",
+        "summary": "（中央社記者汪淑芬台北23日電）農業部桃園區農業改良場研發的盆花底部澆水端盤，不但可減少82%澆水人力，還可節省50%至75%灌溉水量，自2021年推廣以來已銷售逾3萬個，新推出的尺寸規格更受歡迎。",
+        "url": "https://www.cna.com.tw/news/ahel/202603230144.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-23T07:06:37+00:00"
+      },
       {
         "id": "7850a1f5588e",
         "title": "白沙屯媽祖進香　高鐵加開10班次25日開放訂票",
@@ -51,38 +91,6 @@
         "published": "2026-03-23T04:39:21+00:00"
       },
       {
-        "id": "b15d190ed637",
-        "title": "藝術家趙二呆110歲冥誕　紀念展馬公市公所登場",
-        "summary": "（中央社記者澎湖縣23日電）已故藝術家趙二呆110歲冥誕「人生，化繁為簡」紀念展今天起到4月24日在馬公市公所藝文走廊展出，透過開放式場域，讓民眾在洽公與往返間接觸具代表性藝術創作。",
-        "url": "https://www.cna.com.tw/news/acul/202603230082.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-23T04:33:21+00:00"
-      },
-      {
-        "id": "58ae21a7c99d",
-        "title": "擴散不佳及境外污染物移入　3/26前西半部空氣品質橘燈",
-        "summary": "（中央社記者張雄風台北23日電）環境部表示，今天起至26日，西半部因擴散條件不佳，再加上境外污染物移入，空氣品質多為橘色提醒等級。",
-        "url": "https://www.cna.com.tw/news/ahel/202603230078.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-23T04:32:13+00:00"
-      },
-      {
-        "id": "273394cd693a",
-        "title": "中東戰火醫材恐短缺已建反應機制 台大醫更憂電費漲",
-        "summary": "（中央社記者陳婕翎台北23日電）中東戰爭衝擊全球石化供應鏈，塑膠醫材漲價恐短缺，台大醫院長余忠仁表示，疫情間已建構內部醫材短缺快速反應機制，更擔心戰事影響能源、電費調漲，影響程度仍存不確定性。",
-        "url": "https://www.cna.com.tw/news/ahel/202603230074.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-23T04:18:04+00:00"
-      },
-      {
-        "id": "02bf0dd5374d",
-        "title": "台師大首度外校借將任副校長　中大楊鎮華助轉型",
-        "summary": "（中央社記者許秩維台北23日電）因應AI科技浪潮，台師大宣布，借調中央大學資訊工程系講座教授楊鎮華擔任副校長，這也是台師大首度向外校借將出任副校長，盼從加速AI導入、強化跨域人才培育等方面加速轉型。",
-        "url": "https://www.cna.com.tw/news/ahel/202603230068.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-23T03:59:51+00:00"
-      },
-      {
         "id": "83a74502c680",
         "title": "al.divino Discography",
         "summary": "AppleMusic Bandcamp Discogs Instagram SoundCloud Spotify Web YouTube Latest Release 260322:  al.divino - jus2feelsumn: side b Uncontained Releases (41) al.divino - ABNDNT (DELUXE EDITION) al.divino - CCXXXVII al.divino - DIVINO EDITION al.divino - DIVINO EDITION 2 al.divino - FACEMELT al.divino - F....",
@@ -113,14 +121,6 @@
         "url": "https://archive.org/details/convicted-cultural-importance-of-violent-regimes-demo",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-23T03:16:39+00:00"
-      },
-      {
-        "id": "924e3556ab9b",
-        "title": "黑白大廚掀餐飲旅遊風潮　參賽餐廳訂位激增303%",
-        "summary": "（中央社首爾22日綜合外電報導）影音串流平台Netflix的韓國料理實境秀「黑白大廚：料理階級大戰」第2季於1月13日完結後，持續在美食界發酵，不僅掀起餐飲觀光熱潮，帶動參賽者餐廳訂位量暴增，飯店業也嗅到滿足旅客體驗的商機。",
-        "url": "https://www.cna.com.tw/news/ahel/202603230046.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-23T03:15:05+00:00"
       },
       {
         "id": "4aafa4acf2bc",
@@ -403,86 +403,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "432b560195f7",
-        "title": "EDM, Tech-House or Business Techno?",
-        "summary": "This article explores how the term EDM, along with other newer labels for club music, is used among some audiences to distinguish between authenticity and inauthenticity within club culture. The focus is on discussions in social media, with the Facebook group The Worst Techno Memes Ever Group Page (...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1309",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "e44fb55de938",
-        "title": "Negotiating Sonic Spaces",
-        "summary": "Over the past two decades, electronic dance music (EDM) has gained immense popularity among India’s urban middle-class youth, driven by the rise of commercial EDM festivals and local artists. This study examines how Indian urban youth engage with EDM culture (EDMC), focusing on participation, perfor...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1304",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "312b29f6c5e0",
-        "title": "Beats on Airwaves",
-        "summary": "This article investigates electronic dance music on German radio stations. How is this music selected by editors? Which terminology is employed and presented on-air? What are the implications of this for audiences and researchers? What types of electronic dance music and related music are currently ...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1310",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "0785b8b5260c",
-        "title": "Playing by the Rules?",
-        "summary": "Genre conventions play a central role in shaping contemporary DJ performance, influencing how techniques and technologies are applied across styles such as techno, house and drum ’n’ bass. While scholarship has examined questions of authenticity, automation and the shift from analogue to digital tec...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1305",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "579c94021246",
-        "title": "Augmented Creativity",
-        "summary": "This article explores the use of AI tools in the DIY production of a music video through a practice-led case study involving Midjourney, Runway and Plask. The project demonstrates how AI enables faster and more stylistically ambitious visual content creation, especially for music producers without f...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1282",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -725,6 +645,30 @@
     ],
     "破(day)": [
       {
+        "id": "f85be36d2a1c",
+        "title": "Vincent in Brixon review – a radiant portrait of the artist as a young romantic",
+        "summary": "Orange Tree theatre, LondonVan Gogh is a restless soul who finds kinship – and possibly more – with his London landlady in this tender and full-hearted dramaThe young Vincent van Gogh spent a year in south London pursuing a fitful career as an art dealer, and may have had a relationship with his lan...",
+        "url": "https://www.theguardian.com/stage/2026/mar/23/vincent-in-brixon-review-orange-tree-theatre-van-gogh",
+        "source": "Stage | The Guardian",
+        "published": "2026-03-23T08:00:46+00:00"
+      },
+      {
+        "id": "15a7d0a95cfc",
+        "title": "‘I’m a big bear. I lumber’: showbiz superstar Richard Kind on delivering performances you can see from space",
+        "summary": "The first time Kind starred in Nazi-spoof The Producers, he lost 30lb. Is he – and the West End – ready for his return? And why is he so worried about his old flatmate George Clooney?Richard Kind has played everything from a child’s imaginary friend in the Pixar fantasy Inside Out to a neighbour wit...",
+        "url": "https://www.theguardian.com/stage/2026/mar/23/showbiz-superstar-richard-kind-nazio-spoof-producers",
+        "source": "Stage | The Guardian",
+        "published": "2026-03-23T08:00:44+00:00"
+      },
+      {
+        "id": "03ec3b93fd1e",
+        "title": "115年度傳藝Go Young 校園巡演計畫 即日起開始徵件 歡迎傳統演藝團隊共展魅力 推動兒童戲曲",
+        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;為推廣傳統表演藝術、深化國小學生對傳統戲曲與國家語言的認識，國立傳統藝術中心啟動「115年度傳藝Go Young校園巡演計畫」，自即日起受理團隊申請，邀請傳統演藝團隊共襄盛舉，一同將多元的傳統藝術帶入校園，培養新世代的欣賞人口。&nbsp; &nbsp; &nbsp; 「傳藝Go Young校園巡演計畫」於112年首次辦理，由傳藝中心主辦、文化部、教育部指導，112至114年已累計98個演藝團隊參與，內容涵蓋布袋戲、歌仔戲、客家戲、傳統古謠與樂舞、說唱、傀儡及皮影戲等多元國家語言傳統表演形式。計畫執行期間，巡演足跡遍布全臺696所學校，共計...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252411",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-23T06:50:00+00:00"
+      },
+      {
         "id": "c1924b698f65",
         "title": "台南火車站第二月台納國定古蹟　風貌保存升級",
         "summary": "（中央社記者楊思瑞台南23日電）配合台南鐵路地下化工程，原本台南車站第二月台南段恐無法原地保留，經文化界爭取，文化部於2025年底決議納入國定古蹟範圍，台南市政府將結合周邊規劃，助百年車站風華升級。",
@@ -957,14 +901,6 @@
         "published": "2026-03-21T08:26:56+00:00"
       },
       {
-        "id": "e968f015754f",
-        "title": "Tim Dowling: our campaign to become theatregoers isn’t going well…",
-        "summary": "My wife is horrified by the price of tickets, and I get triggered if I sit too near the stage due to an unfortunate incident at the circusAt the start of the year, my wife launched a&nbsp;campaign for us to go&nbsp;to the theatre more. It&nbsp;bears many of the hallmarks of my 2018 campaign for us t...",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/mar/21/tim-dowling-campaign-go-to-theatre-more-isnt-going-well",
-        "source": "Stage | The Guardian",
-        "published": "2026-03-21T06:00:44+00:00"
-      },
-      {
         "id": "0d5af5955e7a",
         "title": "東亞書房》通話中落淚領獎！朝井まかて以《敗家藏》榮獲吉川英治文學獎，及其他藝文短訊",
         "summary": "【得獎消息】\n➤第60屆吉川英治文學獎評選結果於本月5日出爐，朝井まかて以去年秋天推出的《敗家藏》（講談社），成為本屆文學獎得主。活躍文壇20年的朝井，過去曾以《戀歌》、《阿蘭陀西鶴》、《類》等作品，囊獲直木獎、織田作之助獎、柴田鍊三郎獎等知名獎項。本次得獎的時代小說《敗家藏》，以江戶時期大阪雜貨商敗家子「寅藏」為主角，商賈出身的他，因為太過浪蕩不羈，而獲得「敗家藏」的稱號。\n寅藏對自己的鑑賞眼光過度自信而遭人矇騙，讓店鋪蒙受巨大損失。無法繼續待在大阪的他，灰頭土臉地來到智慧與慾望交織的江戶古董商世界。朝井透過寅藏與老江湖們的交鋒，以及他時而愚昧、時而心軟、時而孤注一擲的豪氣，呈現由迷人珍寶與...",
@@ -1067,14 +1003,6 @@
         "url": "https://technews.tw/2026/03/20/meta-facebook-instagram-admin/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-03-20T10:20:34+00:00"
-      },
-      {
-        "id": "012e811d98e1",
-        "title": "University of Liverpool acquires entire archive of poet Roger McGough",
-        "summary": "Archivist Jo Klett says the 40 boxes of material will provide ‘a full picture of Roger’s entire working career’“It’s a joy to be old,” wrote Roger McGough, one of Britain’s most popular, prolific and funniest poets. “The dog dead and the car sold.”Another joy might be decluttering. After the departu...",
-        "url": "https://www.theguardian.com/books/2026/mar/20/university-of-liverpool-acquires-entire-archive-of-poet-roger-mcgough",
-        "source": "Stage | The Guardian",
-        "published": "2026-03-20T05:00:11+00:00"
       },
       {
         "id": "dd0e4865bbaf",
@@ -2197,14 +2125,6 @@
         "published": "2026-01-20T00:19:33+00:00"
       },
       {
-        "id": "fc6717b42bee",
-        "title": "青春不設限 追夢敢越界 「傳統藝術接班人—駐團演訓計畫」結業習藝生授證暨謝師典禮",
-        "summary": "戲曲接班人青春不設限，追夢敢越界。文化部所屬國立傳統藝術中心今（15）日於臺灣戲曲中心舉辦「傳統藝術接班人─駐團演訓計畫」第四屆結業習藝生授證暨謝師典禮，文化部長李遠親自授予結業證書；授業教師包含重要傳統表演藝術「北管音樂」保存者邱火榮、重要傳統表演藝術「歌仔戲」保存者廖瓊枝與王金櫻、當代傳奇劇場藝術總監吳興國與行政總監林秀偉、唐美雲歌仔戲團團長唐美雲、臺北木偶劇團長林永志與藝術總監伍姍姍、薪傳歌仔戲劇團演出總監張孟逸與計畫導師廖玉琪、專家學者楊蓮英、王麗嘉、徐亞湘、戴立吾、吳岳霖等出席，共同見證新一代傳統藝術接班人。&nbsp;文化部長李遠表示，他認為，4年的駐團演訓除了學習技術以外，最重要...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=249675",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-01-16T02:35:00+00:00"
-      },
-      {
         "id": "b9bb499b432e",
         "title": "緬甸法規遵循重要更新：緬政府加速木姐—曼德勒鐵路建設、多家公司因註冊地址無效而被列入黑名單、新監管機構成立打擊網路詐騙與賭博",
         "summary": "緬甸法規遵循重要更新：緬政府加速木姐—曼德勒鐵路、多家公司因註冊地址無效而被列入黑名單、新監管機構成立打擊網路 [&#8230;]",
@@ -2292,7 +2212,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T07:23:45.336341+00:00"
+        "published": "2026-03-23T09:08:50.552030+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2220,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T07:23:45.336331+00:00"
+        "published": "2026-03-23T09:08:50.552020+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2228,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T07:23:45.336321+00:00"
+        "published": "2026-03-23T09:08:50.552010+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2236,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T07:23:45.336311+00:00"
+        "published": "2026-03-23T09:08:50.552000+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2244,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T07:23:45.336301+00:00"
+        "published": "2026-03-23T09:08:50.551989+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2252,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T07:23:45.336290+00:00"
+        "published": "2026-03-23T09:08:50.551979+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2260,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T07:23:45.336280+00:00"
+        "published": "2026-03-23T09:08:50.551968+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2268,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T07:23:45.336270+00:00"
+        "published": "2026-03-23T09:08:50.551957+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2276,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T07:23:45.336260+00:00"
+        "published": "2026-03-23T09:08:50.551947+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2284,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T07:23:45.336249+00:00"
+        "published": "2026-03-23T09:08:50.551936+00:00"
       },
       {
         "id": "d1e28186cf95",
