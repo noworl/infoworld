@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-03-23T17:02:36.469594+00:00",
+  "updated_at": "2026-03-23T19:11:34.676014+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "41fa90b5fbf8",
+        "title": "Мелодия",
+        "summary": "PETROV SCHTSCHEDRIN.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bhgf_20260323",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-23T17:40:33+00:00"
+      },
+      {
+        "id": "fb9670608299",
+        "title": "Fethi Manar Ft Zakzouk Ki Bghiti Nelha 3lik",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/fethi-manar-ft-zakzouk-ki-bghiti-nelha-3lik",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-23T17:01:50+00:00"
+      },
+      {
+        "id": "591909291009",
+        "title": "Cheb Bilal Zidni Ya Zahri",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/cheb-bilal-zidni-ya-zahri",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-23T16:36:02+00:00"
+      },
+      {
+        "id": "6f907661bd5a",
+        "title": "Houari Dauphin Nar Fraqek Barda",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/houari-dauphin-nar-fraqek-barda",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-23T16:16:54+00:00"
+      },
       {
         "id": "a7a77e83db26",
         "title": "Hichem TGV 3achkek Mortel",
@@ -49,22 +81,6 @@
         "url": "https://archive.org/details/bs2009-05-14.aud.bakerstuff.earlmv.flac16",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-23T15:24:49+00:00"
-      },
-      {
-        "id": "8e1070b5ec43",
-        "title": "Bruce Springsteen - 2009-05-11, Xcel Energy Center, Saint Paul",
-        "summary": "2009-05-11 St. Paul (JB Version) Label: None Format: 3CD Catalog #: None Source: Audience Total Time: 165:31 Sound: ?.? Date: May 11, 2009 Performance: ?.? Location: Xcel Energy Center, St. Paul, Overall: ?.? Minnesota This upload will include an infofile, checksum, artwork, frequency & spectral ana...",
-        "url": "https://archive.org/details/bs2009-05-11.aud.jb.deb1.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-23T15:21:17+00:00"
-      },
-      {
-        "id": "51be7b18d021",
-        "title": "Bruce Springsteen - 1975-02-23, Westbury Music Fair, Westbury",
-        "summary": "Bruce Springsteen and the E Street Band Westbury Music Fair Westbury, New York February 23, 1975 (Joe Kivak Master Tapes via JEMS) 24/96 Edition JEMS 2023 Transfer: Joe Kivak Master Cassettes > Nakamichi RX-505 azimuth-adjusted playback > Sound Devices USBPre2 > Audacity 3.1 capture > iZotope RX > i...",
-        "url": "https://archive.org/details/bs1975-02-23.aud.kivak.jems.flac24",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-23T14:50:33+00:00"
       },
       {
         "id": "50774621a5d9",
@@ -145,22 +161,6 @@
         "url": "https://www.cna.com.tw/news/acul/202603230256.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-23T10:52:37+00:00"
-      },
-      {
-        "id": "fd656b8c53d1",
-        "title": "59",
-        "summary": "Навь.This item belongs to: audio/audioboo_ru.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/59_20260323_0001",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-23T08:55:51+00:00"
-      },
-      {
-        "id": "876c0208d72e",
-        "title": "nagranie z czystej kasety TDK D90 (MC)",
-        "summary": "mike oldfield - \"tubular bells II\" strona A 1 \"sentinel\" 2 \"dark star\" 3 \"clear light\" 4 \"blue saloon\" 5 \"sunjammer\" 6 \"red dawn\" 7 \"the bell\" 8 \"weightless\" 9 \"the great plain\" strona B 1 \"sunset door\" 2 \"tattoo\" 3 \"altered state\" 4 \"maya gold\" 5 \"moonshine\".This item belongs to: audio/folksoundomy...",
-        "url": "https://archive.org/details/nagranie-z-czystej-kasety-tdk-d90-mc",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-23T08:53:27+00:00"
       },
       {
         "id": "4bda4ffd7193",
@@ -645,12 +645,28 @@
     ],
     "破(day)": [
       {
+        "id": "2642914d79f6",
+        "title": "Music for the displaced from Tunefork Studios and Beirut Synthesizer Center",
+        "summary": "In Lebanon, over one million people, about a fifth of the population, have now been forcibly displaced by Israel. From inside the country and uniting an artist community around the world, Tunefork Studios and Beirut Synthesizer Center have issued a powerful protest in two musical compilations &#8212...",
+        "url": "https://cdm.link/music-for-the-displaced-from-tunefork-studios-and-beirut-synthesizer-center/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-03-23T17:40:54+00:00"
+      },
+      {
         "id": "b2149df363fb",
         "title": "‘It shook the plaster off the ceiling’: Self Esteem and David Hare on reviving rock romp Teeth ‘n’ Smiles",
         "summary": "It lit up the 1970s with its nihilistic tale of a hippie band imploding in a trail of drugs, booze and violence. What can it tell us about the music business today? Writer David Hare and wild-child rocker Self Esteem plug in The first time Rebecca Lucy Taylor read David Hare’s 1975 play Teeth ’n’ Sm...",
         "url": "https://www.theguardian.com/stage/2026/mar/23/self-esteem-david-hare-rock-romp-teeth-n-smiles-hippie",
         "source": "Stage | The Guardian",
         "published": "2026-03-23T16:00:12+00:00"
+      },
+      {
+        "id": "e786be57c9b2",
+        "title": "醫網情深──漁網修補職人，莊德興",
+        "summary": "「我現在也會補球網，像大魯閣球場的網子就是我去做的。」眼見返港船隻年年減少，往後天微亮的正濱漁港邊，趕在漁船臨行前密密縫的職人手中線恐怕難以再現⋯⋯",
+        "url": "https://www.twreporter.org/a/bookreview-taiwan-master-craftsmen",
+        "source": "報導者",
+        "published": "2026-03-23T16:00:00+00:00"
       },
       {
         "id": "ad5693a139bd",
@@ -739,6 +755,14 @@
         "url": "https://www.openbook.org.tw/article/p-72433",
         "source": "Openbook閱讀誌",
         "published": "2026-03-23T03:10:00+00:00"
+      },
+      {
+        "id": "e884cf3f6af8",
+        "title": "和解案後，未解的台灣主權AI語料困局：開發者和內容方能否終結授權衝突？",
+        "summary": "缺乏法規制度下，台灣主權AI開發方與著作權利人得個別洽談授權合作，或進入漫長的訴訟救濟，形成雙輸局面。數發部長林宜敬接受《報導者》專訪時表示，必須避開爭議的深水區，把沒問題的部分開放出來⋯⋯",
+        "url": "https://www.twreporter.org/a/taiwan-sovereign-ai-zhtw-llm-copyright-conflict",
+        "source": "報導者",
+        "published": "2026-03-22T16:00:00+00:00"
       },
       {
         "id": "a4d3fa2ae848",
@@ -1221,14 +1245,6 @@
         "published": "2026-03-18T18:57:02+00:00"
       },
       {
-        "id": "d102ec96407c",
-        "title": "Clariloops * Robert Scott Thompson",
-        "summary": "CLARILOOPS - THE QUIET BELOW\n\n\nClariloops is the alias of Ruby (Ester Mae) Lulham, a classically trained clarinetist from Melbourne who merges her clarinet with immersive ambient music to create 'anbient works that fuse wood and wire, breath and signal'.\n\n\nThe Quiet Below was recorded at home wile p...",
-        "url": "https://www.ambientblog.net/blog/clariloops-thompson/",
-        "source": "Ambientblog",
-        "published": "2026-03-18T18:55:29+00:00"
-      },
-      {
         "id": "b1be51479bdf",
         "title": "掐住世界能源咽喉的33公里：荷姆茲海峽危機，伊朗戰火蔓延的新「油輪戰爭」",
         "summary": "伊朗對荷姆茲海峽的海運封鎖，以及最新傳出海灣各國油氣設施遭轟炸，不僅持續擴大全球經濟對於下一場石油危機即將爆發的焦慮，也如蝴蝶效應般在地球彼端為日韓等美國的東亞盟邦，帶來經濟、外交與軍事的多重壓力。",
@@ -1389,44 +1405,12 @@
         "published": "2026-03-16T11:42:03+00:00"
       },
       {
-        "id": "7082c43858aa",
-        "title": "「養殖為主」淪口號？漁電共生完工案場僅4%通過查核──獨家數據還原光電卡關真相",
-        "summary": "漁電共生是台灣光電目標能否達成的關鍵，但至今執行5年多，愈走愈蹣跚，去年更幾乎沒有新案場完成開發。《報導者》整合多份政府內部簡報，指出漁電共生在施工、行政程序與完工併網等三大階段中都遭遇重重阻礙。",
-        "url": "https://www.twreporter.org/a/backward-fish-and-electricity-symbiosis-policy-data",
-        "source": "報導者",
-        "published": "2026-03-15T16:00:00+00:00"
-      },
-      {
-        "id": "55a0d4cd6cb0",
-        "title": "最大開發商深陷資金疑雲：從誠新集團案，看漁電共生產業的實戰考驗",
-        "summary": "曾經，誠新集團預計開發容量相當政府漁電共生目標35%，不僅取得銀行百億聯貸，更與台積電簽訂綠電合約。這個指標開發商為何走到窮途困境，是公司治理問題還是政策制度使然？",
-        "url": "https://www.twreporter.org/a/backward-fish-and-electricity-symbiosis-policy-ark-solar-energy",
-        "source": "報導者",
-        "published": "2026-03-15T16:00:00+00:00"
-      },
-      {
         "id": "3d2d64564a8a",
         "title": "當養殖變成一件必須被證明的事──漁電共生5年，誰真的養出魚？",
         "summary": "漁電共生是台灣獨創全球的光電型態，案場是否真能落實「養殖為主，光電為輔」？從受訪漁民的經驗，我們看見在光電板下養殖的真正困難點，在於與企業打交道、與政府規範交鋒，以及面對市場和氣候的考驗⋯⋯",
         "url": "https://www.twreporter.org/a/backward-fish-and-electricity-symbiosis-policy-fish-farmers",
         "source": "報導者",
         "published": "2026-03-15T16:00:00+00:00"
-      },
-      {
-        "id": "2121f7e29254",
-        "title": "Pi Day: Hear and see approximations for Pi — and learn about shaders, too",
-        "summary": "Rebel against the anti-intellectual world around us! Forget the traumas of math classes past! Instead, enter a hypnotic trance as your screen vibrates and headphones ring with the sight and sound of Pi's approximations. Our friends over at VDMX would like to introduce you to the wonders of ... bad P...",
-        "url": "https://cdm.link/pi-day-bad-pi/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-03-14T17:11:45+00:00"
-      },
-      {
-        "id": "7562619e5af7",
-        "title": "Myllykoski & Äijälä * Herden & IT904",
-        "summary": "ALEKSI MYLLYKOSKI &amp; VELI-MATTI O ÄIJÄLÄ - HUMANITY\n\n\n\"We live in a world where the everyday life of war is closer to us westerners than ever before.\" Humanity was released on February 20, only a few days before the USA/Israel attack on Iran. Truer words are hardly spoken.\n\n\n'How can we change th...",
-        "url": "https://www.ambientblog.net/blog/humanity-travelogue/",
-        "source": "Ambientblog",
-        "published": "2026-03-13T19:46:52+00:00"
       },
       {
         "id": "bc85577215b2",
@@ -1621,14 +1605,6 @@
         "published": "2026-03-09T00:00:00+00:00"
       },
       {
-        "id": "1e717f67fc3a",
-        "title": "DreamScenes – March 2026",
-        "summary": "A Place Where Silence Feels Safe\n\n\n\n&nbsp;\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:47 Reibung - Burdon To CarryChrysanthemen, 2026\n\n\n02:56 Clariloops - Slowly I WakeShades, 2026, Whitelabrecs\n\n\n06:29 Miles Lee - Charcoal Tide (edit)The Sound Of Dreams, 2026, Inspired By Breathing\n\n\n...",
-        "url": "https://www.ambientblog.net/blog/dreamscenes-march-2026/",
-        "source": "Ambientblog",
-        "published": "2026-03-08T18:55:00+00:00"
-      },
-      {
         "id": "e93814826cf0",
         "title": "NO.80－牯嶺街小劇場文化報",
         "summary": "NO.80－牯嶺街小劇場文化報 2026.03-2026.05 / 專題｜2025年度節目選拔計畫 專文｜復活 [&#8230;]",
@@ -1667,14 +1643,6 @@
         "url": "https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them",
         "source": "Claude Blog",
         "published": "2026-03-05T00:00:00+00:00"
-      },
-      {
-        "id": "99523ceab6ed",
-        "title": "Machinefabriek * Meredith Bates",
-        "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
-        "url": "https://www.ambientblog.net/blog/machinefabriek-bates/",
-        "source": "Ambientblog",
-        "published": "2026-03-04T18:49:30+00:00"
       },
       {
         "id": "1c2e501eb61b",
@@ -1723,14 +1691,6 @@
         "url": "https://www.transglobalwmc.com/charts/march-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-02-28T23:06:44+00:00"
-      },
-      {
-        "id": "a992f8790179",
-        "title": "Andreas Voelk & Scott Monteith * Deadbeat",
-        "summary": "ANDREAS VOELK &amp; SCOTT MONTEITH - AND ALL THE CLOCKS RAN DRY\n\n\nUntil now I never heard of Andreas Voelk (from Berlin) or from his bands Das Ende Der Liebe and Center For Mind And Brain. Canadian Scott Monteith, on the other hand, is of course well known from his Deadbeat alias.\n\n\nAnd All The Cloc...",
-        "url": "https://www.ambientblog.net/blog/voelkmonteith-deadbeat/",
-        "source": "Ambientblog",
-        "published": "2026-02-28T18:12:33+00:00"
       },
       {
         "id": "41fd99be8d4e",
@@ -1837,28 +1797,12 @@
         "published": "2026-02-24T00:00:00+00:00"
       },
       {
-        "id": "efbfa794b124",
-        "title": "Isobel Waller-Bridge * Bolton / Cordero",
-        "summary": "ISOBEL WALLER-BRIDGE - OBJECTS\n\n\nHer name may ring a distant bell: Isobel Waller-Bridge is the sister of Phoebe Waller-Bridge, who you may remember from the Fleabag series. Isobel composed the music for Fleabag, as well as many other scores for film, television, theatre and ballet. \n\n\nBut apart from...",
-        "url": "https://www.ambientblog.net/blog/wallerbridge-boltoncordero/",
-        "source": "Ambientblog",
-        "published": "2026-02-23T18:31:37+00:00"
-      },
-      {
         "id": "a25be2573a64",
         "title": "The Library and “The Sound of Music” hit the road",
         "summary": "-This is a guest post by Deb Fiscella, a public affairs specialist in the Office of Communications.  The Library and a national touring company are offering theatergoers a peek behind the curtain at the origins of one of Broadway’s most cherished musicals: &#8220;The Sound of Music.&#8221; In a firs...",
         "url": "https://blogs.loc.gov/loc/2026/02/the-library-and-the-sound-of-music-hit-the-road/",
         "source": "Timeless",
         "published": "2026-02-20T14:00:24+00:00"
-      },
-      {
-        "id": "9b120dd01b07",
-        "title": "Clara Brea & Menhir * Kult Masek & Petr Vrba",
-        "summary": "CLARA BREA &amp; MENHIR - GROWING FORESTS IN THE CITY\n\n\nIn 2022, the Astral Industries label released The Wetland Remixes - a collaboration project of Son Of Chi (Hanyo van Oosterom, from Holland) and Spanish artist Clara Brea. The original stems of the 'Wetland Project' were remixed by Son Of Chi a...",
-        "url": "https://www.ambientblog.net/blog/cbreamenhir-kultmasek-vrba/",
-        "source": "Ambientblog",
-        "published": "2026-02-18T19:37:40+00:00"
       },
       {
         "id": "ce430890dc55",
@@ -1891,14 +1835,6 @@
         "url": "https://indiepublisher.tw/zh-hant/news/2305",
         "source": "獨立出版聯盟網站",
         "published": "2026-02-15T00:00:00+00:00"
-      },
-      {
-        "id": "afbc3f5ca2dd",
-        "title": "Eaton & Fullen * Volume Settings Folder",
-        "summary": "EATON &amp; FULLEN - BUTTERFLY COMPOUND\n\n\nFrank Eaton and Kevin Fullen are founders of the Noise New York recording studio - \"hotbed of the No Wave Movement\". The instrumental, psychedelic and ambient soundscapes they present as the Eaton/Fullen duo is not what I remember from that particular 70's s...",
-        "url": "https://www.ambientblog.net/blog/eaton-fullen-volume-settings-folder/",
-        "source": "Ambientblog",
-        "published": "2026-02-13T16:08:11+00:00"
       },
       {
         "id": "a4f98437c9bc",
@@ -1947,14 +1883,6 @@
         "url": "https://humanityisland.nccu.edu.tw/tsuenchiuantsai_a/",
         "source": "人文．島嶼",
         "published": "2026-02-11T03:15:54+00:00"
-      },
-      {
-        "id": "969b0336887e",
-        "title": "DreamScenes – February 2026",
-        "summary": "For Want Of Spring\n\n\n\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:26 Andrew Heath - The Zener ConventionShades, 2026, Whitelabrecs\n\n\n07:42 Jannis Anastasakis - Dr. KelvinSolaris, 2026, Room40\n\n\n11:25 Félicia Atkinson &amp; Christina Vantzou - Film Still / The SeaReflections Vol. 3: Wate...",
-        "url": "https://www.ambientblog.net/blog/dreamscenes-february-2026/",
-        "source": "Ambientblog",
-        "published": "2026-02-08T18:55:00+00:00"
       },
       {
         "id": "2b0c561bc4b6",
@@ -2011,14 +1939,6 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
         "source": "Google DeepMind",
         "published": "2026-02-02T17:00:00+00:00"
-      },
-      {
-        "id": "edac18c510de",
-        "title": "Rafael Anton Irisarri * Joachim Spieth",
-        "summary": "RAFAEL ANTON IRISARRI - POINTS OF INACCESSIBILITY\n\n\nThe new album by Rafael Anton Irisarri is planned for release on February 6, 2026. But it's already on pre-order, so this means the limited (bio-)vinyl edition is still available for those who prefer physical editions. And that's a welcome change f...",
-        "url": "https://www.ambientblog.net/blog/irisarri-spieth/",
-        "source": "Ambientblog",
-        "published": "2026-02-01T14:23:38+00:00"
       },
       {
         "id": "f8895d75c66f",
@@ -2212,7 +2132,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T17:02:36.469057+00:00"
+        "published": "2026-03-23T19:11:34.675538+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2140,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T17:02:36.469046+00:00"
+        "published": "2026-03-23T19:11:34.675527+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2148,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T17:02:36.469036+00:00"
+        "published": "2026-03-23T19:11:34.675517+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2156,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T17:02:36.469025+00:00"
+        "published": "2026-03-23T19:11:34.675507+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2164,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T17:02:36.469015+00:00"
+        "published": "2026-03-23T19:11:34.675497+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2172,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T17:02:36.469005+00:00"
+        "published": "2026-03-23T19:11:34.675487+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2180,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T17:02:36.468995+00:00"
+        "published": "2026-03-23T19:11:34.675477+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2188,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T17:02:36.468985+00:00"
+        "published": "2026-03-23T19:11:34.675467+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2196,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T17:02:36.468975+00:00"
+        "published": "2026-03-23T19:11:34.675457+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2204,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-23T17:02:36.468964+00:00"
+        "published": "2026-03-23T19:11:34.675447+00:00"
       },
       {
         "id": "635ec2b59141",
@@ -2447,14 +2367,6 @@
         "published": "2026-02-20T19:58:34+00:00"
       },
       {
-        "id": "2271ab213414",
-        "title": "Thank You for Joining the MIR Community-Building Workshop",
-        "summary": "Last week, the MIR Community-Building Workshop on Music AI at NYU Abu Dhabi brought together students, scholars, and industry professionals for two days of research presentations, hands-on sessions, and forward-looking [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/20/thank-you-for-joining-the-mir-community-building-workshop/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-02-20T08:18:36+00:00"
-      },
-      {
         "id": "6f5e14766d64",
         "title": "The Seers: Mystic Cats, Feminist Histories, and the Art of the Archive",
         "summary": "Internet Archive&#8217;s latest Artist in Residence, Cindy Rehm, has created The Seers, a project comprised of one hundred college drawings using images largely sourced from historic books at the Internet [&#8230;]",
@@ -2517,14 +2429,6 @@
         "url": "https://blog.archive.org/2026/02/06/internet-archive-and-partners-select-local-newsrooms-from-across-the-us-to-participate-in-the-todays-news-for-tomorrow-program/",
         "source": "Internet Archive Blogs",
         "published": "2026-02-06T14:48:51+00:00"
-      },
-      {
-        "id": "d00aec536ee5",
-        "title": "Performance in Dialogue: Exploring Emirati and Polynesian Traditions through Al Harbiya and Haka",
-        "summary": "Last month, Andrew Eisenberg moderated Performance in Dialogue: Harbiya and Haka, an intercultural encounter connecting Emirati and Polynesian performance traditions. Bringing Al Harbiya together with Haka, the session combined performance [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/06/performance-in-dialogue-exploring-emirati-and-polynesian-traditions-through-al-harbiya-and-haka/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-02-06T12:45:23+00:00"
       },
       {
         "id": "7928aa6b3a9b",
@@ -2783,14 +2687,6 @@
         "published": "2025-12-14T13:50:58+00:00"
       },
       {
-        "id": "dc659676cbf8",
-        "title": "Congratulations, Dr. Juan Sierra!",
-        "summary": "We are delighted to share that MaSC researcher Juan Sierra has successfully defended his doctoral dissertation, “Constant-Q Spectral Processing,” in Music Technology at NYU Steinhardt. 🎉 Juan was the first [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/12/13/congratulations-dr-juan-sierra/",
-        "source": "Music and Sound Cultures",
-        "published": "2025-12-13T09:03:52+00:00"
-      },
-      {
         "id": "eac3f4d68fa3",
         "title": "民音音樂博物館  歲末新年假期休館公告（2025年12月22日－2026年1月5日）",
         "summary": "值此歲末之際，敬請留意本中心各場館之如下休館安排： 民音音樂博物館（東京新宿） 2025年12月22日（週一） [&#8230;]",
@@ -2879,14 +2775,6 @@
         "published": "2025-12-01T06:20:24+00:00"
       },
       {
-        "id": "22e2eabc5802",
-        "title": "Bringing Emirati Sound Heritage to Life at the Maritime Heritage Festival 2025",
-        "summary": "At the Maritime Heritage Festival&#160;this year, we had the chance to collaboratively develop the sound installation “A Journey Across Emirati Values” — a 360° immersive walkthrough that connects heritage to [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/11/25/bringing-emirati-sound-heritage-to-life-at-the-maritime-heritage-festival-2025/",
-        "source": "Music and Sound Cultures",
-        "published": "2025-11-25T19:54:26+00:00"
-      },
-      {
         "id": "5f624832bff2",
         "title": "SMU Web3 Week | 第十届网络社会年会（新加坡场）",
         "summary": "感谢新加坡管理大学朱飞达教授的邀请，网络社会研究所能够以特别策划的形式加入 SMU Web3 Week (Nov. 27-30)的学术活动。年会特别场包含论坛与展览，集中在 Nov. 28-29 日 。 将临的网络：互为劳动与社会的重组The Network to Come: Inter-Labor and the Recomposition of the Social 时间2025年11月28-29日（周五至周六） 地点新加坡管理大学&#160;The Ngee Ann Kongsi Auditorium, SoA, SMU 主办单位新加坡管理大学计算与信息系统学院 协办与支持中国美术学院跨...",
@@ -2925,14 +2813,6 @@
         "url": "https://writings.stephenwolfram.com/2025/11/whats-special-about-life-bulk-orchestration-and-the-rulial-ensemble-in-biology-and-beyond/",
         "source": "Stephen Wolfram Writings",
         "published": "2025-11-11T15:19:17+00:00"
-      },
-      {
-        "id": "fbff86c4bb5b",
-        "title": "Hearing History: Dr. Carlos Guedes on Preserving Traditional Sound Heritage",
-        "summary": "This week at the Digital Heritage Forum, the session “Hearing History: Reimagining Cultural Heritage Preservation through Creative Sound Experiences” explored how soundscapes, music, and voice reconnect communities with heritage. Dr. [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/11/07/hearing-history-dr-carlos-guedes-on-preserving-traditional-sound-heritage/",
-        "source": "Music and Sound Cultures",
-        "published": "2025-11-07T17:31:24+00:00"
       },
       {
         "id": "a82f8413cb39",
@@ -3007,36 +2887,12 @@
         "published": "2025-10-21T12:48:21+00:00"
       },
       {
-        "id": "ea8c3d6514dd",
-        "title": "MaSC Director Carlos Guedes Co-Announces ISMIR 2026 at ISMIR 2025 in South Korea",
-        "summary": "MaSC Director Carlos Guedes, together with other general chairs Kaustuv Ganguli and Gus Xia, officially announced the upcoming 27th International Society for Music Information Retrieval Conference (ISMIR 2026) at this [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/10/17/masc-director-carlos-guedes-co-announces-ismir-2026-at-ismir-2025-in-south-korea/",
-        "source": "Music and Sound Cultures",
-        "published": "2025-10-17T15:32:02+00:00"
-      },
-      {
-        "id": "77a1c313c36a",
-        "title": "Fostering Cultural Collaboration: Carlos Guedes at DCT’s Expert Module",
-        "summary": "Last week, Carlos Guedes took part in the expert module “Cultural Heritage &#38; Knowledge Development: Fostering a Culture of Integrated Protection,” organized by the Department of Culture and Tourism&#160;– Abu [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/10/14/fostering-cultural-collaboration-carlos-guedes-at-dcts-expert-module/",
-        "source": "Music and Sound Cultures",
-        "published": "2025-10-14T08:53:10+00:00"
-      },
-      {
         "id": "f95c53f55137",
         "title": "Summary of changes for September 2025",
         "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of September.\n\n\n\n\n  Noodle, redesigned the interface.\n  Wiki, updated  with a new photo.\n  Punk Rabbits, completed 19 new rabbits(#35-53).\n  NanoTalk, released a Nanochat client, written in Tal.\n\n\nAs promise...",
         "url": "https://100r.ca/site/log.html#sep2025",
         "source": "Hundred Rabbits",
         "published": "2025-10-01T07:00:00+00:00"
-      },
-      {
-        "id": "bb6cd6e8f170",
-        "title": "MaSC at the Abu Dhabi Mangrove Initiative (ADMI) Partners Meeting 2025",
-        "summary": "MaSC members Juan Sierra and Rose Chen were invited to present at the Abu Dhabi Mangrove Initiative (ADMI) Partners Meeting 2025,&#160;hosted by the Environment Agency – Abu Dhabi.&#160; Their presentation, [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/09/30/masc-at-the-abu-dhabi-mangrove-initiative-admi-partners-meeting-2025/",
-        "source": "Music and Sound Cultures",
-        "published": "2025-09-30T16:30:19+00:00"
       },
       {
         "id": "371a22eaf3ba",
@@ -3061,14 +2917,6 @@
         "url": "https://blog.freesound.org/?p=2282",
         "source": "The Freesound Blog",
         "published": "2025-09-24T10:39:20+00:00"
-      },
-      {
-        "id": "a61196bb9012",
-        "title": "Field Notes: Capturing the Voices of the Mangroves",
-        "summary": "Last Friday, the MaSC team explored Marawah Marine Biosphere Reserve 🌊🌿 with @environmentabudhabi to capture field recordings of the mangrove ecosystem and its soundscapes. From the rustle of the mangrove [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/09/21/field-notes-capturing-the-voices-of-the-mangroves/",
-        "source": "Music and Sound Cultures",
-        "published": "2025-09-21T10:35:57+00:00"
       },
       {
         "id": "70b689c1a84b",
@@ -3205,14 +3053,6 @@
         "url": "https://blog.freesound.org/?p=2228",
         "source": "The Freesound Blog",
         "published": "2025-05-16T14:22:09+00:00"
-      },
-      {
-        "id": "1d37e671a255",
-        "title": "New Release: The Songs of Shihuh Women",
-        "summary": "The Shihuh (plural for Al Shehhi) is an Arab tribe that currently resides in the United Arab Emirates and Oman, dominating the territory of Ru’us al-Jibal and the Musandam peninsula. [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/05/02/new-release-the-songs-of-shihuh-women/",
-        "source": "Music and Sound Cultures",
-        "published": "2025-05-02T17:08:17+00:00"
       },
       {
         "id": "a79f71b9ae19",
