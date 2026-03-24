@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-03-24T10:59:46.988663+00:00",
+  "updated_at": "2026-03-24T11:54:04.083907+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "92f92190b21c",
+        "title": "台灣國際木雕競賽5/19起徵件　最高獎金30萬",
+        "summary": "（中央社記者管瑞平苗栗縣24日電）苗栗縣政府主辦2026台灣國際木雕競賽，5月19日起開放徵件。縣府文化觀光局說，第一階段為文件初審，6月底截止收件，通過初審者繳交作品參加複審，最高獎金新台幣30萬元。",
+        "url": "https://www.cna.com.tw/news/ahel/202603240343.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-24T11:32:09+00:00"
+      },
+      {
+        "id": "78c2c7e0cf85",
+        "title": "農業部修天災救助辦法　調高現金及低利貸款額度",
+        "summary": "（中央社記者汪淑芬台北24日電）農業部今天修正發布「農業天然災害救助辦法」，秉持貼近實際需求，協助農漁民在受到天然災害後盡速復耕復養，調高現金救助及低利貸款項目與額度。",
+        "url": "https://www.cna.com.tw/news/ahel/202603240339.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-24T11:12:00+00:00"
+      },
+      {
+        "id": "fcb3fccc5ade",
+        "title": "值班站長早退駕車闖平交道肇事　台鐵估求償900萬",
+        "summary": "（中央社記者黃巧雯台北24日電）台鐵新埔站蘇姓值班站長日前無故早退，駕車違規闖越平交道遭列車撞及，除遭記2大過免職、領不到退休金外，台鐵今天說，正在計算求償金額，初估平交道、車輛損壞，近900萬元。",
+        "url": "https://www.cna.com.tw/news/ahel/202603240326.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-24T10:32:32+00:00"
+      },
       {
         "id": "1ea9f44754d4",
         "title": "日作家小川糸從失去與死亡出發　持續療癒讀者",
@@ -57,30 +81,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202603240266.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-24T09:11:24+00:00"
-      },
-      {
-        "id": "28a61e52413b",
-        "title": "TPASS 2.0回饋金再延後發　通勤族連兩月無法領",
-        "summary": "（中央社記者黃巧雯台北24日電）2月TPASS 2.0常客優惠回饋金原定明發放，立法院雖已同意行政院先行動支TPASS等新興計畫預算，但因預算執行疑慮，旅客將連2個月無法領到，經統計，累計回饋金約1539萬元。",
-        "url": "https://www.cna.com.tw/news/ahel/202603240255.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-24T08:43:59+00:00"
-      },
-      {
-        "id": "a05ea51a859f",
-        "title": "醫美詐團引中製假儀器　衛福部籲防三大陷阱",
-        "summary": "（中央社記者沈佩瑤台北24日電）南部破獲醫美詐團以工作室引進中國製假儀器非法牟利，衛福部呼籲，民眾應警覺低價、工作室或到府服務等三大陷阱，善用官方「美容醫學專區」，確保身體安全與藥害救濟保障。",
-        "url": "https://www.cna.com.tw/news/ahel/202603240254.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-24T08:39:56+00:00"
-      },
-      {
-        "id": "c8fc1bba6d8c",
-        "title": "114年違反最低工資153件  裁罰總計330萬元",
-        "summary": "（中央社記者張雄風台北24日電）勞動部今天公布去年企業違反最低工資裁罰情形，統計共罰153件、總金額新台幣330萬元；其中又以保全業最顯著，主因是約定工時超過法定時數，卻又沒有按比例增計薪資。",
-        "url": "https://www.cna.com.tw/news/ahel/202603240238.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-24T08:22:22+00:00"
       },
       {
         "id": "f625cec0bc60",
@@ -403,86 +403,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "432b560195f7",
-        "title": "EDM, Tech-House or Business Techno?",
-        "summary": "This article explores how the term EDM, along with other newer labels for club music, is used among some audiences to distinguish between authenticity and inauthenticity within club culture. The focus is on discussions in social media, with the Facebook group The Worst Techno Memes Ever Group Page (...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1309",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "e44fb55de938",
-        "title": "Negotiating Sonic Spaces",
-        "summary": "Over the past two decades, electronic dance music (EDM) has gained immense popularity among India’s urban middle-class youth, driven by the rise of commercial EDM festivals and local artists. This study examines how Indian urban youth engage with EDM culture (EDMC), focusing on participation, perfor...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1304",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "312b29f6c5e0",
-        "title": "Beats on Airwaves",
-        "summary": "This article investigates electronic dance music on German radio stations. How is this music selected by editors? Which terminology is employed and presented on-air? What are the implications of this for audiences and researchers? What types of electronic dance music and related music are currently ...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1310",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "0785b8b5260c",
-        "title": "Playing by the Rules?",
-        "summary": "Genre conventions play a central role in shaping contemporary DJ performance, influencing how techniques and technologies are applied across styles such as techno, house and drum ’n’ bass. While scholarship has examined questions of authenticity, automation and the shift from analogue to digital tec...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1305",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "579c94021246",
-        "title": "Augmented Creativity",
-        "summary": "This article explores the use of AI tools in the DIY production of a music video through a practice-led case study involving Midjourney, Runway and Plask. The project demonstrates how AI enables faster and more stylistically ambitious visual content creation, especially for music producers without f...",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1282",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T08:00:00+00:00"
-      },
-      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -724,6 +644,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "2f8af5d9efbb",
+        "title": "北投製片廠3月底啟動整建　朱宗慶打擊樂團進駐",
+        "summary": "（中央社記者楊淑閔台北24日電）繼北市圖新總館與台北音樂廳近期動土，台北市政府文化局長蔡詩萍今天表示，台北文學館預計116年底開館，北投製片廠則在3月30日啟動整建營運，將由朱宗慶打擊樂團進駐。",
+        "url": "https://www.cna.com.tw/news/acul/202603240312.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-03-24T10:06:02+00:00"
+      },
       {
         "id": "1ea9f44754d4",
         "title": "日作家小川糸從失去與死亡出發　持續療癒讀者",
@@ -973,6 +901,22 @@
         "published": "2026-03-23T10:52:37+00:00"
       },
       {
+        "id": "dc8f1690f232",
+        "title": "首个Agentic多模态检索大模型来了！清华团队让AI边推理边主动看图，准确率提升23%",
+        "summary": "近年来，随着多模态大语言模型（MLLM）的快速发展，研究者们开始尝试将其应用于通用多模态检索任务。与此同时，思维链（Chain-of-Thought，CoT）推理被引入检索领域，通过增强模型的推理能力来改善候选结果的排序。然而，一个重要问题始终未能得到解决：现有的推理过程本质上仍然是语言驱动的，模型无法在推理过程中主动获取和验证视觉细节，因此在面对相似的候选图片时容易“瞎猜”。近日，清华大学联合、复旦大学、香港大学等机构，推出了首个基于“Interleaved Reasoning”的通用多模态检索框架 V-Retrver。该框架将传统检索重塑为智能体推理过程，让多模态大模型学会在检索时主动调用...",
+        "url": "https://www.mittrchina.com/news/detail/16131",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-23T10:30:38+00:00"
+      },
+      {
+        "id": "e13fc87e2417",
+        "title": "谷歌在Science发文：AI奇点不会是一个超级大脑，而是万亿智能体的社会",
+        "summary": "长期以来，我们对于 AI“奇点”似乎总是这样的：一台超级机器，不断自我迭代，像黑洞一样吞噬一切认知能力，最终升格为某种硅基神灵。但一篇刚刚发表在《科学》（Science）上的评论文章对这种想法进行了根本性的反驳，研究团队认为，智能爆炸不会以“独裁者”的面目出现。它更像一座不断扩张的城市，而非一个不断膨胀的大脑。这篇文章题为《Agentic AI and the next intelligence explosion》，由芝加哥大学社会学与数据科学教授 James Evans、加州大学圣迭戈分校技术哲学教授 Benjamin Bratton，以及谷歌副总裁兼 Fellow Blaise Agüe...",
+        "url": "https://www.mittrchina.com/news/detail/16129",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-23T10:24:25+00:00"
+      },
+      {
         "id": "f85be36d2a1c",
         "title": "Vincent in Brixton review – a radiant portrait of the artist as a young romantic",
         "summary": "Orange Tree theatre, LondonVan Gogh is a restless soul who finds kinship – and possibly more – with his London landlady in this tender and full-hearted dramaThe young Vincent van Gogh spent a year in south London pursuing a fitful career as an art dealer, and may have had a relationship with his lan...",
@@ -1011,6 +955,14 @@
         "url": "https://www.cna.com.tw/news/acul/202603230130.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-03-23T06:26:06+00:00"
+      },
+      {
+        "id": "13f66ff15833",
+        "title": "吃菌子治疗抑郁？临床试验的结果泼了一盆冷水",
+        "summary": "（来源：麻省理工科技评论）裸盖菇素（psilocybin）是一种存在于迷幻蘑菇中的化学物质，因有致幻效果而广为人知。近期，这类致幻物质不知怎的完成了从反主流文化到临床研究重点的跨越，正在被探索用于各种健康领域，包括治疗抑郁症、创伤后应激障碍（PTSD）、成瘾，甚至肥胖。过去十年间，科学界对这类药物的兴趣呈爆发式增长。但大多数迷幻药临床试验规模较小，且面临重重困难。很多试验结果令人失望，或者说没有定论。本周早些时候发表的两项研究恰好说明了研究这类药物有多难。在我看来，它们也表明这些物质被过度炒作了。这两项新研究都聚焦于裸盖菇素治疗抑郁症的有效性，也都试图应对迷幻药临床试验中最大的挑战之一：科学家...",
+        "url": "https://www.mittrchina.com/news/detail/16127",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-03-23T05:49:25+00:00"
       },
       {
         "id": "b15d190ed637",
@@ -1109,14 +1061,6 @@
         "published": "2026-03-22T06:01:05+00:00"
       },
       {
-        "id": "76754ee7e262",
-        "title": "陶哲轩最新访谈：数学界正在经历一场哥白尼革命，人类智能不再是宇宙中心",
-        "summary": "过去半年，AI 在数学领域的进展令人目不暇接。2025 年 10 月，OpenAI 声称 GPT-5 解决了多道 Erdős 难题，随后被证实其中大部分只是文献检索，找到了数据库维护者尚未收录的已发表论文。但到了 2026 年 1 月，情况发生了实质变化：GPT-5.2 Pro 在一周内攻克了三道 Erdős 难题（#397、#728、#729），生成的证明经 Lean 形式化验证后被陶哲轩本人接受，且这些证明在已有文献中找不到先例。据《科学美国人》2026 年 2 月的报道，AI 工具迄今已帮助将约 100 道 Erdős 问题转入“已解决”状态。与此同时，多位顶尖数学家开始向 AI 实验室...",
-        "url": "https://www.mittrchina.com/news/detail/16122",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-22T05:56:35+00:00"
-      },
-      {
         "id": "2a3e37596039",
         "title": "漫射計畫》讓自己《High》：1990年代臺漫黃金期，「給大人看的漫畫雜誌」的短暫探索",
         "summary": "《High》漫畫雜誌，是臺灣最早以成年人作為受眾定位的漫畫雜誌。既是出版觀念與格局進步，也是1990年代漫畫出版活力的最佳印證。圖片提供／丁名慶    \n  \n      \n          \n《High》漫畫雜誌，是臺灣最早以成年人作為受眾定位的漫畫雜誌。既是出版觀念與格局進步，也是1990年代漫畫出版活力的最佳印證。圖片提供／丁名慶    \n    \n  \n  \n  \n  \n  \n  \n\n1995年夏天，歌手庾澄慶發行了專輯《靠近》。自從1986年出道，包含以樂團「頂尖拍擋」的名義，他維持著國語流行歌壇一線歌手一年一張專輯的創作節奏。不同於許多偶像歌手整張專輯只有一兩首主打歌能聽的窘境，...",
@@ -1181,36 +1125,12 @@
         "published": "2026-03-21T14:55:26+00:00"
       },
       {
-        "id": "4a39b0e96f6c",
-        "title": "屏東竹田頓物驛開幕　池上文庫第3期修復後回歸",
-        "summary": "（中央社記者黃郁菁屏東縣21日電）屏東客庄文化新地標「竹田頓物驛」，由台鐵舊倉庫活化為客家餐飲與旅宿空間，今天盛大開幕。客委會主委古秀妃表示，第3期將修復池上文庫，保留珍貴台日交流據點。",
-        "url": "https://www.cna.com.tw/news/acul/202603210212.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-03-21T13:53:43+00:00"
-      },
-      {
         "id": "203a880ca017",
         "title": "Under Milk Wood review – dark fairytales swirl around Dylan Thomas’s evergreen village",
         "summary": "Theatr Clwyd, MoldDirector Kate Wasserberg emphasises the fantasy and supernatural elements of the poet’s ‘play for voices’ in an entertaining and inclusive productionAs with Molière at the Comédie-Française or Brecht in Berlin, there is a satisfying smack of regional reality in watching Dylan Thoma...",
         "url": "https://www.theguardian.com/stage/2026/mar/21/under-milk-wood-review-dylan-thomas-theatr-clwyd",
         "source": "Stage | The Guardian",
         "published": "2026-03-21T09:30:48+00:00"
-      },
-      {
-        "id": "d14a1e7cb168",
-        "title": "量子计算机出手，医疗难题有救了吗？",
-        "summary": "（来源：麻省理工科技评论）我站在地处牛津郊外的英国国家量子计算中心的一台量子计算机前。实验台上，一组复杂的反射镜和透镜阵列围绕着一个魔方大小的真空腔，腔内有 100 个铯原子被一束精密控制的激光束悬浮在网格阵列中。这套铯原子装置非常紧凑，我完全可以把它抱起来，带出实验室，放到我车后座上带回家——它虽然小，但性能强大，因此也非常值钱。拥有这台机器的 Infleqtion 是一家总部位于科罗拉多州的公司，他们希望凭借这台机器的能力在下周赢得 500 万美元奖金。颁奖活动将在加州玛丽安德尔湾（Marina del Rey）举行。Infleqtion 是进入“量子生物”（Quantum for Bio...",
-        "url": "https://www.mittrchina.com/news/detail/16118",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-21T08:34:47+00:00"
-      },
-      {
-        "id": "18f07d62ea1f",
-        "title": "药效飙升60倍！科学家改造“老药”甲硝唑，可低剂量根治幽门螺杆菌",
-        "summary": "本文是专业学术论文解读，不做医疗建议。幽门螺杆菌是胃炎、胃溃疡乃至胃癌的重要诱因，约 90% 的肠型胃癌都与其慢性感染相关。它是目前已知唯一能在强胃酸环境下生存的细菌，全球约有 43% 的人口深受其扰。临床常用的三联疗法以甲硝唑、克拉霉素联合质子泵抑制剂为核心，但其根除率已从上世纪 90 年代的 90% 以上骤降，目前在许多研究中已跌破 80%，甚至在高度耐药地区仅为 60%-70%。而且多重耐药现象也十分严重。为了克服耐药，临床不得不提高甲硝唑的用药剂量，而高剂量不仅会大幅破坏肠道菌群多样性，引发胃肠道不适，还会增加药物副作用的发生风险，让幽门螺杆菌的治疗陷入了耐药、加量、引发副作用的恶性循...",
-        "url": "https://www.mittrchina.com/news/detail/16117",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-03-21T08:31:51+00:00"
       },
       {
         "id": "0d5af5955e7a",
@@ -2292,7 +2212,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-24T10:59:46.988065+00:00"
+        "published": "2026-03-24T11:54:04.083468+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2220,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-24T10:59:46.988053+00:00"
+        "published": "2026-03-24T11:54:04.083457+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2228,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-24T10:59:46.988043+00:00"
+        "published": "2026-03-24T11:54:04.083447+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2236,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-24T10:59:46.988033+00:00"
+        "published": "2026-03-24T11:54:04.083436+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2244,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-24T10:59:46.988022+00:00"
+        "published": "2026-03-24T11:54:04.083425+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2252,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-24T10:59:46.988012+00:00"
+        "published": "2026-03-24T11:54:04.083414+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2260,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-24T10:59:46.988001+00:00"
+        "published": "2026-03-24T11:54:04.083404+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2268,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-24T10:59:46.987991+00:00"
+        "published": "2026-03-24T11:54:04.083394+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2276,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-24T10:59:46.987981+00:00"
+        "published": "2026-03-24T11:54:04.083383+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2284,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-24T10:59:46.987971+00:00"
+        "published": "2026-03-24T11:54:04.083372+00:00"
       },
       {
         "id": "903db7ceb740",
