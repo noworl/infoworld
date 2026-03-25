@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-03-25T17:14:50.490537+00:00",
+  "updated_at": "2026-03-25T19:07:20.412671+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "b4bfabaa28bd",
+        "title": "Bruce Springsteen - 2009-10-09, Giants Stadium, East Rutherford",
+        "summary": "Bruce Springsteen & The E Street Band 10/09/2009 Giants Stadium East Rutherford, NJ Recorded By: scb Source: DPA (B&amp;K) 4023s > Sound Devices 722 @ 24 bit, 96khz 722 > Apple MacBook Pro > Wave Editor 1.4.6b1 (tracking, resample to 44.1khz, dither to 16 bit )> xACT 1.70 > flac Location: Dead cente...",
+        "url": "https://archive.org/details/bs2009-10-09.aud.scb.flac16",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-25T16:54:01+00:00"
+      },
+      {
+        "id": "b793a1f6f72e",
+        "title": "Bruce Springsteen - 2009-09-25, Apollo Theater, New York City",
+        "summary": "Bruce Springsteen & Elvis Costello September 25, 2009 Apollo Theater New York City, New York, USA ----- Source: JTT Notes: -- Elvis Costello Presents Spectacle -- Ripped from JTT DVD -- Lossy PART ONE: 01 - She's The One 02 - Interview #01 03 - Wild Billy's Circus Story 04 - Interview #02 05 - Ameri...",
+        "url": "https://archive.org/details/bs2009-09-25.sbd.jtt.mp3",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-25T16:51:42+00:00"
+      },
+      {
+        "id": "3b1bb3e6f192",
+        "title": "Bruce Springsteen - 2009-09-13, BankAtlantic Center, Sunrise",
+        "summary": "Bruce Springsteen & The E Street Band Working On A Dream Tour 2009 Date: September 13, 2009 Location: BankAtlantic Center, Sunrise, FL Source: audience Taper ???? I got this very good audience recording some time ago and mixed them differently, so Springsteen's voice is better present....This item b...",
+        "url": "https://archive.org/details/bs2009-09-13.aud.jockel.flac16",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-25T16:47:33+00:00"
+      },
+      {
+        "id": "79ef54dec6ee",
+        "title": "Bruce Springsteen - 2009-09-12, Ford Amphitheatre, Tampa",
+        "summary": "Bruce Springsteen & The E Street Band Ford Amphitheatre, Tampa, FL September 12, 2009 \"All Or Nothin' At All\" linage: dl from jungleland .flac -> .wav -> magix audio cleaning lab -> .wav -> tlh -> .flac (level 8) All files cleaned, equalized and raised the power on all parts....This item belongs to:...",
+        "url": "https://archive.org/details/bs2009-09-12.aud.earlmv.flac16",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-25T16:43:28+00:00"
+      },
+      {
+        "id": "2e2ae717d8aa",
+        "title": "Bruce Springsteen - 2009-08-01, Estadio José Zorrilla, Valladolid",
+        "summary": "Bruce Springsteen & The E Street Band Title: Surprise Surprise In Valladolid 'Label': Earlmv Format: 3 cdr Source: Audience - Javichun's uncirculated master recording Brucebase: http://brucebase.wikispaces.com/2009#0108 Storyteller: N / A Date: 1st August 2009 Location: Estadio José Zorrilla, Valla....",
+        "url": "https://archive.org/details/bs2009-08-01.aud.javichun.earlmv.flac16",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-25T16:38:42+00:00"
+      },
+      {
+        "id": "7c2f702ce71d",
+        "title": "Bruce Springsteen - 2009-07-28, Estadio Olímpico De La Cartuja, Seville",
+        "summary": "Bruce Springsteen & The E Street Band July 28, 2009 Estadio Olímpico De La Cartuja Seville, Spain ----- Source: Unknown Notes: -- Unknown AUD source -- Tracks were out of order on D2 and had to be fixed Tracklist: Disc 1: Sevilla tiene un color especial Badlands My Love Will Not Let You Down Hungry....",
+        "url": "https://archive.org/details/bs2009-07-28.aud.unknown.flac16",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-25T16:34:20+00:00"
+      },
+      {
+        "id": "c19cd7caefb2",
+        "title": "Bruce Springsteen - 2009-07-26, Estadio San Mamés, Bilbao",
+        "summary": "Title: You Never Can Tell In Bilbao 'Label': Ev2 Format: 3CD Source: Audience Date: July 26, 2009. Location: Estadio San Mamés, Bilbao, Spain. -- source: CMC-8 > Boost Box [preamplifier] > IRiver H120 Location - Tribuna Este Alta (Puerta 5 - Fila 2 - Asiento 89) Taper: javichun (6TG) -- Disc One: 0....",
+        "url": "https://archive.org/details/bs2009-07-26.aud.ev2.flac16",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-25T16:29:38+00:00"
+      },
+      {
+        "id": "1c0799e24c02",
+        "title": "Bruce Springsteen - 2009-07-08, MCH Arena, Herning",
+        "summary": "EDIT: Badlands merged into one track, small edit at 1:06 --- Title: We Can Make It If We Run Venue: HMC, Herning, Denmark Date: 2009-07-08 Tour: Working On A Dream Taper: LB (approx 20 meters from the right loudspeaker stack) Linage: Edirol R-09 | Church Audio CA-14 with battery box Transfer: track ...",
+        "url": "https://archive.org/details/bs2009-07-08.aud.lb.flac16",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-25T16:25:11+00:00"
+      },
+      {
+        "id": "329ca9f33f85",
+        "title": "Bruce Springsteen - 2009-06-30, Stade De Suisse, Bern",
+        "summary": "Bruce Springsteen &amp;E Street Band \"Outlaw Pete Comes To Bern\" Stade de Suisse Bern, Switzerland June 30, 2009 Fanatic Records 2011 REMASTER EDITION Recording info for alysha source: Neumann KM140's > AETA PSP3 > Edirol R09 Recording info for d.m....This item belongs to: audio/radionowhere.This it...",
+        "url": "https://archive.org/details/bs2009-06-30.aud.fanatic-records.flac16",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-25T16:20:56+00:00"
+      },
+      {
+        "id": "85e7077cbeaa",
+        "title": "Bruce Springsteen - 2009-06-27, Worthy Farm, Pilton, (Afternoon)",
+        "summary": "Bruce Springsteen & Gaslight Anthem June 27, 2009 Pyramid Stage, Glastonbury Festival Glastonbury, ENG ----- Source: Jockel DVD Notes: -- Ripped from Jockel DVD of broadcast -- Lossy Tracklist 01 - The '59 Sound.This item belongs to: audio/radionowhere.This item has files of the following types: Arc...",
+        "url": "https://archive.org/details/bs2009-06-27.sbd.jockel.mp3",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-25T16:20:00+00:00"
+      },
       {
         "id": "d636a15f7bfb",
         "title": "今彩539第115075期　頭獎2注中獎",
@@ -321,86 +401,6 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
-      },
-      {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -723,14 +723,6 @@
         "url": "https://humanityisland.nccu.edu.tw/weichangshann_a/",
         "source": "人文．島嶼",
         "published": "2026-03-25T02:00:33+00:00"
-      },
-      {
-        "id": "0841c8296da6",
-        "title": "2026臺灣戲曲藝術節 旗艦製作《金銀天狗》及《紅蝴蝶追香》聲音特展　 向歌仔戲黃金內台時期致敬",
-        "summary": "2026臺灣戲曲藝術節以「純棉與混種@繁花世代」為策展主題，匯聚21個團隊推出20齣精彩節目。為能呈現歌仔戲最繁盛內臺時期的藝術風華，今年旗艦製作特別委託國立臺灣戲曲學院，將當時全台最具規模團隊「拱樂社」的經典連台大戲《金銀天狗》，以上下本形式重現舞台。除了精彩系列演出，今年更首度於臺灣音樂館3樓特展室推出為期近3個月的「紅蝴蝶追香──從內臺到劇場的聲音特展」，藉由珍貴的歷史影音，重溯1950至70年代商業內臺的多聲腔聲景。邀請觀眾透過本屆藝術節「系列演出」及「聲音特展」的雙重規劃，更深刻的品味臺灣戲曲發展歷程的豐姿百態，見證永不停止變異的強韌生命力。傳藝中心主任陳悅宜表示，2026年臺灣戲曲...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252516",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-03-25T01:48:00+00:00"
       },
       {
         "id": "4a6448c8dc3b",
@@ -1099,14 +1091,6 @@
         "url": "https://www.theguardian.com/stage/2026/mar/23/vincent-in-brixon-review-orange-tree-theatre-van-gogh",
         "source": "Stage | The Guardian",
         "published": "2026-03-23T08:00:46+00:00"
-      },
-      {
-        "id": "03ec3b93fd1e",
-        "title": "115年度傳藝Go Young 校園巡演計畫 即日起開始徵件 歡迎傳統演藝團隊共展魅力 推動兒童戲曲",
-        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;為推廣傳統表演藝術、深化國小學生對傳統戲曲與國家語言的認識，國立傳統藝術中心啟動「115年度傳藝Go Young校園巡演計畫」，自即日起受理團隊申請，邀請傳統演藝團隊共襄盛舉，一同將多元的傳統藝術帶入校園，培養新世代的欣賞人口。&nbsp; &nbsp; &nbsp; 「傳藝Go Young校園巡演計畫」於112年首次辦理，由傳藝中心主辦、文化部、教育部指導，112至114年已累計98個演藝團隊參與，內容涵蓋布袋戲、歌仔戲、客家戲、傳統古謠與樂舞、說唱、傀儡及皮影戲等多元國家語言傳統表演形式。計畫執行期間，巡演足跡遍布全臺696所學校，共計...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252411",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-03-23T06:50:00+00:00"
       },
       {
         "id": "13f66ff15833",
@@ -1557,14 +1541,6 @@
         "published": "2026-03-13T13:00:01+00:00"
       },
       {
-        "id": "350bfd879573",
-        "title": "陸森寶生命史與歌謠全新修訂出版 傳承部落音樂文化",
-        "summary": "為保存與重現臺灣原住民族重要音樂資產，國立傳統藝術中心臺灣音樂館今（13）日於臺灣戲曲中心舉辦「卑南族音樂家陸森寶生命史暨音樂創作專輯發表會」，針對陸森寶的生命史與音樂創作進行全面修訂與出版，推出專書《Baliwakes：風的速度，祖先的旋律&mdash;卑南族音樂家陸森寶的生平與創作》與音樂創作專輯《Baliwakes：風的速度，祖先的旋律&mdash;卑南族音樂家陸森寶的創作歌謠》，透過文字與聲音兩種媒介重新呈現其生命歷程與創作軌跡，並以標準族語符號系統重新標註歌詞，完整收錄46首作品，讓部落音樂文化得以持續傳承。陸森寶（1910－1988）為戰後臺灣原住民族重要音樂創作者與教育者，一生創...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251933",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-03-13T10:00:00+00:00"
-      },
-      {
         "id": "5ee0f49e73fa",
         "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
         "summary": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
@@ -1587,14 +1563,6 @@
         "url": "https://www.glt.org.tw/?p=13791",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-03-12T08:53:22+00:00"
-      },
-      {
-        "id": "e36612a9578a",
-        "title": "傳藝工坊邁入十週年，累積近80萬人參觀！ 新工種首度亮相，邀您親睹接班好手路",
-        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;由國立傳統藝術中心主辦的「傳統藝術接班人－傳統工藝推廣計畫」，自106年開辦至今，已邁入第十年，累積8項工種工藝師進駐宜蘭園區傳藝工坊，展現接班人好手路。辦理至今，駐園創作時數突破5萬小時、辦理推廣活動場次超過3千場、吸引近80萬人次造訪參觀，成果豐碩！本年度自115年3月5日起至12月16日，則由6項工種、12位工藝師進駐現場，不只展示手上真功夫，更要帶領民眾體驗傳統工藝走進日常的迷人魅力。&nbsp; &nbsp; &nbsp; &nbsp;傳藝中心表示，為協助傳統藝術人才傳承與發展，推廣傳統藝術，透過本計畫提供文化部文化資產局「重要傳...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251817",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-03-12T05:58:00+00:00"
       },
       {
         "id": "6260224e2b1d",
@@ -1643,14 +1611,6 @@
         "url": "https://www.glt.org.tw/?p=13785",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-03-10T11:23:39+00:00"
-      },
-      {
-        "id": "d48d7b4f7c98",
-        "title": "韓國盤索里跨界鉅作《看・見沈清》5月盛大登台！",
-        "summary": "國立傳統藝術中心主辦「2026臺灣戲曲藝術節」即將迎來韓國跨界重量級鉅獻！韓國頂尖製作團隊MUTO與IPKOASON，帶來融合傳統戲曲、電子音樂與多媒體影像的科技藝術傑作《看・見沈清》（原文：두개의눈/THE TWO EYES）。本節目將於5月1日至5月3日於臺灣戲曲中心大表演廳連續演出三場，為觀眾呈現韓國經典傳統藝術與創新舞台科技的精彩對話。《看・見沈清》改編自韓國傳統說唱藝術「盤索里」最具代表性的傳世作品《沈清歌》。原作以孝女沈清為主角，描繪她為使失明父親重見光明而犧牲自身的感人傳說，而《看・見沈清》則跳脫既有敘事框架，將焦點轉向父親「沈學奎」的生命歷程，以多重視角呈現一位父親在失去與抉擇...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251668",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-03-09T00:39:00+00:00"
       },
       {
         "id": "79b49434b327",
@@ -1749,14 +1709,6 @@
         "published": "2026-03-03T00:00:00+00:00"
       },
       {
-        "id": "7aa3b71f3fad",
-        "title": "樂聲啟程，繪夢寶島！臺灣國樂團2026【國樂頻道】系列節目啟動  打造0到99歲共賞的藝術時光",
-        "summary": "國立傳統藝術中心臺灣國樂團（NCO）深受大眾喜愛的推廣系列節目【國樂頻道】，於2026年正式啟航！本年度系列節目特別規劃《NCO火車出發！》、《白賊七》及《寶島海洋大探險！》三大主題，透過在地文化、民間傳說與環境教育等多元視角，打造「0到99歲」皆可自在參與、共享藝術樂趣的音樂空間，具體落實國樂教育向下紮根的品牌理念。臺灣國樂團團長吳定哲表示，NCO長年致力於人才培育與傳統文化推廣，希望透過【國樂頻道】活潑且具親和力的演出形式，讓國樂跨越年齡藩籬。今年度演出不僅以臺灣戲曲中心為基地，更將分別於5月及9月前往高雄衛武營與新北市淡水，邀請全國大小朋友在音樂中探尋土地的故事。捷克繪本大師跨界合作，聽...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251611",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-03-02T01:12:00+00:00"
-      },
-      {
         "id": "b523b391813e",
         "title": "March 2026 Chart",
         "summary": "1. Neba Solo &#38; Benego Diakité · A Djinn and a Hunter Went Walking · Nonesuch [2] 2. Canzoniere Grecanico Salentino · Il Mito · Ponderosa Music [1] 3. Stelios Petrakis · Lyric / Lyrikon · Buda Musique [11] 4. Altın Gün · Garip · Glitterbeat [-] 5. Catrin Finch · Notes to Self · [&#8230;]",
@@ -1851,14 +1803,6 @@
         "url": "https://aseanplusjournal.com/2026/02/24/foreigners-investment-in-thailand/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-02-24T14:21:25+00:00"
-      },
-      {
-        "id": "a318fa604baa",
-        "title": "「接班人好戲台」邁入第十年　累計近40萬人次觀賞 2月27日起16組團隊、376場演出　持續展現傳統藝術經典魅力",
-        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;由國立傳統藝術中心主辦的「傳統藝術接班人－駐園演出計畫」（「接班人好戲台」），自民國106年開辦至今即將邁入第10年。歷年來該計畫已累積23組表演團隊、73位結業藝生參與，共完成3,516場演出，吸引近40萬人次觀賞，成果豐碩。115年度將自2月27日起於傳藝中心宜蘭園區展開，辦理188天、376場次的演出，推出內容多元、形式豐富的演出節目，邀請民眾一同感受臺灣傳統表演藝術的深厚底蘊與動人魅力。&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; 傳藝中心表示，「傳統藝術接班人－駐園演出計畫」自10...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251197",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-02-24T08:45:00+00:00"
       },
       {
         "id": "efbfa794b124",
@@ -2005,14 +1949,6 @@
         "published": "2026-02-04T16:55:00+00:00"
       },
       {
-        "id": "46b3fb2c4252",
-        "title": "臺灣音樂館出版原住民族流行音樂研究成果　兩本新書完整呈現發展軌跡",
-        "summary": "國立傳統藝術中心臺灣音樂館於今（4）日舉辦「臺灣原住民族流行音樂研究暨口述歷史」系列新書發表會，正式對外發表臺灣音樂館於2025年推動之研究與出版計畫成果。本次出版計畫延續去（114）年於華山文創園區及花蓮文創園區舉辦的原住民流行音樂主題特展。當時透過唱片、影像與相關史料的呈現，帶領觀眾回顧戰後原住民族流行音樂的發展軌跡，也讓許多曾經在生活中被反覆聆聽的歌聲，再次被聽見、被討論。此次將研究成果整理成書，正是希望讓這些音樂不只停留在展場中，而能以出版的形式長久保存，成為未來持續使用與理解的重要素材。本次發表的兩本專書，分別從學術研究與口述歷史兩個角度切入。第一本《原音重現：從傳統到流行的音樂軌跡...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=250523",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-02-04T10:00:00+00:00"
-      },
-      {
         "id": "80017ff53b42",
         "title": "台南人劇團「青年世代讀劇聯演」",
         "summary": "台南人劇團「青年世代讀劇聯演」 / 【節目介紹】 台南人劇團一向致力培植年輕劇場導演，2023年起啟動「You [&#8230;]",
@@ -2077,14 +2013,6 @@
         "published": "2026-01-28T00:00:41+00:00"
       },
       {
-        "id": "0dbc37f053fa",
-        "title": "2026臺灣戲曲藝術節 純棉與混種@繁花世代 新戲舊劇、純混交融 共開戲曲繁花",
-        "summary": "國立傳統藝術中心轄下臺灣戲曲中心「2026臺灣戲曲藝術節」自2018開辦起已堂堂邁入第9屆，今年由國立臺大藝文中心執行長紀慧玲、國立臺灣戲曲學院李佩穎助理教授共同策劃，以「純棉與混種@繁花世代」為策展主題，本屆三大亮點包括：旗艦製作將內台黃金時代的連臺本戲重現舞台，並特邀韓國當代科技藝術作品來台，更為「國家文藝獎」得主陳勝國大師規劃導演專題，自4月11日至6月14日止，在臺灣戲曲中心濃墨重彩登台亮相，以戲論證「純」與「混」的戲曲美學！傳藝中心主任陳悅宜表示，過去戲曲藝術節較強調新編製作以及與當代劇場的跨域結合。今年策展人紀慧玲的規劃，對戲曲歷史進行了縱向的爬梳與橫向的融合，她表示全力支持。陳主...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=250104",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-01-27T09:12:00+00:00"
-      },
-      {
         "id": "f6035dd8404e",
         "title": "不貳偶劇《上桌下海》",
         "summary": "/ 不貳偶劇《上桌下海》 / 【節目介紹】 丙午馬年爆笑登場！ 劇場變成阿公店，人客進來坐！ / 過年後，最適 [&#8230;]",
@@ -2115,14 +2043,6 @@
         "url": "https://www.transglobalwmc.com/festival-awards/4th-transglobal-world-music-festival-awards-2025-best-festival-top-10-awardees/",
         "source": "Transglobal World Music Chart",
         "published": "2026-01-20T12:21:15+00:00"
-      },
-      {
-        "id": "50128f181210",
-        "title": "兒童布袋戲再度啟程 為孩子說一個好故事 傳藝中心揭曉第二屆兒童布袋戲徵選結果",
-        "summary": "兒童布袋戲持續累積創作能量，積極開拓更寬廣的兒童藝術視野！國立傳統藝術中心今(20)日於臺灣戲曲中心小舞台舉辦第二屆「兒童布袋戲劇本創作徵選」頒獎典禮，隆重介紹六本得獎作品與創作者，特優得主張庭瑜、優選得主李俊寬與黃子建，以及佳作得主陳昶旭、鄭玉姍、蘇恆毅，由傳藝中心主任陳悅宜親自頒發入選證書與獎金，象徵兒童布袋戲新一年度再次啟程，並朝舞台演出的下一個階段邁進！傳藝中心陳悅宜主任表示，舉辦了兩屆的「兒童布袋戲劇本創作徵選」，不僅在兒童觀眾、表演團隊與劇作家之間，建立了更清楚的推動方向，同時在評審時，也聚焦出了三個核心原則：首先，劇本應具備可搬演性，符合布袋戲劇種的表演特性；再者，主題能引起兒童...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=249831",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-01-20T09:11:00+00:00"
       },
       {
         "id": "2e14cd91a894",
@@ -2212,7 +2132,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-25T17:14:50.490141+00:00"
+        "published": "2026-03-25T19:07:20.412196+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2140,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-25T17:14:50.490131+00:00"
+        "published": "2026-03-25T19:07:20.412186+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2148,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-25T17:14:50.490120+00:00"
+        "published": "2026-03-25T19:07:20.412175+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2156,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-25T17:14:50.490110+00:00"
+        "published": "2026-03-25T19:07:20.412165+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2164,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-25T17:14:50.490099+00:00"
+        "published": "2026-03-25T19:07:20.412154+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2172,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-25T17:14:50.490089+00:00"
+        "published": "2026-03-25T19:07:20.412144+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2180,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-25T17:14:50.490079+00:00"
+        "published": "2026-03-25T19:07:20.412134+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2188,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-25T17:14:50.490069+00:00"
+        "published": "2026-03-25T19:07:20.412123+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2196,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-25T17:14:50.490059+00:00"
+        "published": "2026-03-25T19:07:20.412113+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2204,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-25T17:14:50.490049+00:00"
+        "published": "2026-03-25T19:07:20.412103+00:00"
       },
       {
         "id": "37098b8d1bb5",
