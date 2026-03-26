@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-03-26T09:08:26.860764+00:00",
+  "updated_at": "2026-03-26T11:02:30.995694+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "2186a414318c",
+        "title": "環境部推動二手袋循環機制　盼加大減塑力道",
+        "summary": "（中央社記者張雄風台北26日電）許多商家表示，近期因中東戰爭導致塑膠袋漲價。環境部今天宣布，邀集企業及商家共同參與二手袋循環媒合；環境部長彭啓明表示，希望透過媒合能物盡其用，加大減塑力道。",
+        "url": "https://www.cna.com.tw/news/ahel/202603260210.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-26T08:40:11+00:00"
+      },
+      {
+        "id": "f03b15343263",
+        "title": "亞太SIM卡4/1停止服務　遠傳呼籲儘速換卡",
+        "summary": "（中央社記者江明晏台北26日電）遠傳電信今天宣布，與亞太電信完成第2階段網路整併，原亞太SIM卡將於4月1日零時零分起停止提供行動服務，門號暫停使用，再度提醒未更換亞太SIM卡的用戶，遠傳門市可免費更換SIM卡，確保通訊不中斷、原合約權益不變。",
+        "url": "https://www.cna.com.tw/news/ahel/202603260201.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-26T08:11:52+00:00"
+      },
+      {
+        "id": "1c3832d953bf",
+        "title": "汽車考照增停讓行人、3大違規累犯上矯正班　3/31上路",
+        "summary": "（中央社記者余曉涵台北26日電）交通部公路局今天宣布，小型車及大型車的考照新增須停讓行人項目，闖紅燈等3大違規行為的累犯，要上矯正防制班講習，這兩項措施均於3月31日上路。",
+        "url": "https://www.cna.com.tw/news/ahel/202603260193.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-26T07:51:34+00:00"
+      },
+      {
+        "id": "96e45f22251f",
+        "title": "台灣高鐵迎接新車　燕巢總機廠動土擴建",
+        "summary": "（中央社記者黃巧雯台北26日電）台灣高鐵首組新世代列車N700ST預計8月抵台，自明年下半年起，陸續投入營運。因應新車維修需求，燕巢總機廠今天動土擴建，工程新建面積逾1萬1500平方公尺綜合廠房。",
+        "url": "https://www.cna.com.tw/news/ahel/202603260183.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-26T07:21:13+00:00"
+      },
       {
         "id": "5ad0d7b9a2b8",
         "title": "國立科學工藝博物館：3/28【2026年暑假海外親子團 線上活動說明會】",
@@ -9,6 +41,22 @@
         "url": "https://www.tmaroc.org.tw/1150326/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-03-26T07:07:40+00:00"
+      },
+      {
+        "id": "7012fd2b7bee",
+        "title": "清明連假疏運管制措施一覽　國道客運優惠最高42折",
+        "summary": "（中央社記者高華謙、賴于榛台北26日電）清明連假將至，交通部估計，疏運高峰會出現在4月3日、4日的南下旅次，及4月6日的北上收假潮。高鐵將加開191班次，台鐵全線加開185班列車，國道客運最高可享42折優惠，國道重點路段會有管制與疏導措施。",
+        "url": "https://www.cna.com.tw/news/ahel/202603260171.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-26T06:54:47+00:00"
+      },
+      {
+        "id": "558c50d95643",
+        "title": "清明連假　蘇花路廊估4/3凌晨起湧南下車潮",
+        "summary": "（中央社記者沈如峰宜蘭縣26日電）清明連假自4月3日至6日共4天。公路局今天預估，因應花蓮民眾返鄉掃墓，蘇花路廊南下路段於4月3日凌晨1時起，可能出現首波車潮，車多情形將持續至當天傍晚，呼籲用路人做好旅程規劃。",
+        "url": "https://www.cna.com.tw/news/ahel/202603260165.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-26T06:28:34+00:00"
       },
       {
         "id": "e908f5d6bd19",
@@ -41,54 +89,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202603260130.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-26T05:26:19+00:00"
-      },
-      {
-        "id": "8264834fd8d0",
-        "title": "台大研究：限時進食搭配傍晚7時前吃完更有效",
-        "summary": "（中央社記者沈佩瑤台北26日電）為減重，不少人採取168等限時進食法，台大研究，搭配「吃對時間」更有效，整合全球41項隨機對照試驗、2287名成人資料，傍晚7時前吃完最後一餐，可多降1公斤、腰圍少3公分。",
-        "url": "https://www.cna.com.tw/news/ahel/202603260119.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-26T04:59:56+00:00"
-      },
-      {
-        "id": "b85480842495",
-        "title": "東部海域地震規模4.7　最大震度台東4級",
-        "summary": "（中央社台北26日電）根據中央氣象署最新資訊，今天中午12時23分發生芮氏規模4.7地震，地震深度39.8公里，震央位於台東縣政府東北方65.7公里（位於台灣東部海域），最大震度台東縣4級。（編輯：管中維）1150326",
-        "url": "https://www.cna.com.tw/news/ahel/202603260102.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-26T04:33:17+00:00"
-      },
-      {
-        "id": "ba19a37b13e4",
-        "title": "文大與翡翠水庫管理局簽約 提供學生實務學習機會",
-        "summary": "（中央社記者陳至中台北26日電）中國文化大學今天與台北市政府翡翠水庫管理局簽署合作意向書（MOU），將提供學生實務學習的機會，參與氣候觀測、降雨分析、森林生態調查、環境監測工作。",
-        "url": "https://www.cna.com.tw/news/ahel/202603260101.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-26T04:32:15+00:00"
-      },
-      {
-        "id": "1be5d82e553d",
-        "title": "萬家香首戰威士忌界奧斯卡即獲獎　評審讚驚人成就",
-        "summary": "（中央社記者陳韻聿倫敦25日專電）有「威士忌界奧斯卡」美譽的「世界威士忌大賞」今天在倫敦頒獎，以醬油起家、來自屏東的萬家香首次參賽，即在「限量調和威士忌」奪得台灣第一，並進入「世界最佳限量調和威士忌」決賽，儘管最終未奪冠，但評審肯定這是「驚人成就」。",
-        "url": "https://www.cna.com.tw/news/ahel/202603260100.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-26T04:30:13+00:00"
-      },
-      {
-        "id": "3c92d307b557",
-        "title": "公費師培擬放寬語言能力規範　增資格考試機會",
-        "summary": "（中央社記者陳至中台北26日電）教育部近期預告修正「師資培育公費助學金及分發服務辦法」，擬放寬語言能力規範，採納本土語文等多元語別；同時也讓一次沒考過教師資格考試的公費生，有參加第二次的機會。",
-        "url": "https://www.cna.com.tw/news/ahel/202603260097.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-26T04:24:07+00:00"
-      },
-      {
-        "id": "0b42de03dca3",
-        "title": "14處森林遊樂區優惠　12歲以下4/3至4/6免門票",
-        "summary": "（中央社記者汪淑芬台北26日電）農業部林業及自然保育署今天宣布，4月3日至6日清明節與兒童節連續假期，14處國家森林遊樂區開放12歲以下兒童可免費進入，還可免費搭乘烏來台車。",
-        "url": "https://www.cna.com.tw/news/ahel/202603260094.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-26T04:09:00+00:00"
       },
       {
         "id": "f8e0a55e607d",
@@ -725,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "5335263bd00b",
+        "title": "A Mirrored Monet review – painter reflects on his past in a musical with heart and humour",
+        "summary": "Charing Cross theatre, London Carmel Owen’s ambitious musical follows the impressionist’s regrets back to his early adventures in art and his first marriageAs its title suggests, this musical about Claude Monet is full of reflections – fittingly so given the artist’s preoccupation with light. In 191...",
+        "url": "https://www.theguardian.com/stage/2026/mar/26/a-mirrored-monet-review-charing-cross-theatre-london",
+        "source": "Stage | The Guardian",
+        "published": "2026-03-26T09:00:33+00:00"
+      },
+      {
         "id": "8827a9d1c498",
         "title": "OB短評》#572循著線索梳理世界的極品好書懶人包",
         "summary": "●代代\nGen-Narrations\n沐羽著，春山出版，420元\n推薦原因： 議   文   樂   \n以一家茶餐廳為敘事節點，交錯書寫不同世代香港人的離散經驗。多聲部回響的故事，折射出香港長時段的歷史處境，也回應世代之間難以銜接的記憶與語言。代代之間既有相承，亦難免扞格。無論未來如何，文學在此成為安放差異的空間。而當我們在街頭巷尾的港式快餐店被日常餵食時，似乎也能循著油香與鄉音，走入他們生命的後場。【內容簡介➤】\n●河人\n一場山難，自由、暴水與生命的流向\n胡慕情著，鏡文學，420元\n推薦原因： 議   文   樂   \nAlex攀上101，對照本書探討的山難議題，無疑有著奇妙共時性。相較於西...",
@@ -779,6 +787,14 @@
         "url": "https://cdm.link/wukir-suryadi-titir/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-25T20:53:16+00:00"
+      },
+      {
+        "id": "86357c0c01f4",
+        "title": "中国生猪价格降至16年新低",
+        "summary": "在多年来鼓励养殖企业扩大生产、推动一波新产能包括一些大型多层猪舍投产后，中国如今面对生猪数量过剩的难题。",
+        "url": "https://www.ftchinese.com/story/001109291",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-25T16:00:00+00:00"
       },
       {
         "id": "f1f3ae9e4fe2",
@@ -1165,6 +1181,14 @@
         "published": "2026-03-24T00:01:03+00:00"
       },
       {
+        "id": "92c0a8ec6071",
+        "title": "Auto mode for Claude Code",
+        "summary": "Auto mode for Claude Code",
+        "url": "https://claude.com/blog/auto-mode",
+        "source": "Claude Blog",
+        "published": "2026-03-24T00:00:00+00:00"
+      },
+      {
         "id": "2642914d79f6",
         "title": "Music for the displaced from Tunefork Studios and Beirut Synthesizer Center",
         "summary": "In Lebanon, over one million people, about a fifth of the population, have now been forcibly displaced by Israel. From inside the country and uniting an artist community around the world, Tunefork Studios and Beirut Synthesizer Center have issued a powerful protest in two musical compilations &#8212...",
@@ -1221,14 +1245,6 @@
         "published": "2026-03-23T15:31:07+00:00"
       },
       {
-        "id": "a8e135ce140d",
-        "title": "Michelle De Swarte: The Afters review – blazing gags from a comic who says what she sees",
-        "summary": "Brighton Corn Exchange The fantastically confident standup is a blast from the start with her takes on menopause, parenting and her upbringingModel, actor, journalist, comedian: no doubting Michelle De Swarte is a jack of all trades, but is she a master of this one? On the evidence of her funny and ...",
-        "url": "https://www.theguardian.com/stage/2026/mar/23/michelle-de-swarte-the-afters-review-brighton-corn-exchange",
-        "source": "Stage | The Guardian",
-        "published": "2026-03-23T14:35:53+00:00"
-      },
-      {
         "id": "b7a3ab4a935d",
         "title": "神獸文化特展　虎爺神像、「祖媽神轎」故宮展出",
         "summary": "（中央社記者王寶兒台北23日電）迎接兒童節，故宮北院推出「神獸再現」特展，帶領大小朋友探索隱身於故宮文物的奇幻生物，另向台史博、北港朝天宮借展「虎爺神像」與「祖媽神轎」，凸顯神獸文化在民間樣貌。",
@@ -1277,6 +1293,14 @@
         "published": "2026-03-23T03:10:00+00:00"
       },
       {
+        "id": "cdf4b94ba640",
+        "title": "Put Claude to work on your computer",
+        "summary": "Put Claude to work on your computer",
+        "url": "https://claude.com/blog/dispatch-and-computer-use",
+        "source": "Claude Blog",
+        "published": "2026-03-23T00:00:00+00:00"
+      },
+      {
         "id": "e884cf3f6af8",
         "title": "和解案後，未解的台灣主權AI語料困局：開發者和內容方能否終結授權衝突？",
         "summary": "缺乏法規制度下，台灣主權AI開發方與著作權利人得個別洽談授權合作，或進入漫長的訴訟救濟，形成雙輸局面。數發部長林宜敬接受《報導者》專訪時表示，必須避開爭議的深水區，把沒問題的部分開放出來⋯⋯",
@@ -1289,14 +1313,6 @@
         "title": "古巴几天里两次全国停电",
         "summary": "美国的能源封锁给哈瓦那政权带来越来越大压力。上周载有俄罗斯燃料的两艘船舶有一艘中途改道，不再以古巴为目的地。",
         "url": "https://www.ftchinese.com/story/001109256",
-        "source": "FTChinese RSS - News",
-        "published": "2026-03-22T16:00:00+00:00"
-      },
-      {
-        "id": "e22328105489",
-        "title": "李强：中国致力成为“稳定性港湾”",
-        "summary": "美国深陷伊朗战争泥潭之际，中国总理在年度中国发展高层论坛上告诉70多位全球顶级高管，中国拥有无可比拟的供应链和可预测的商业环境。",
-        "url": "https://www.ftchinese.com/story/001109255",
         "source": "FTChinese RSS - News",
         "published": "2026-03-22T16:00:00+00:00"
       },
@@ -1509,6 +1525,14 @@
         "published": "2026-03-19T07:01:47+00:00"
       },
       {
+        "id": "4842d16865d3",
+        "title": "Product management on the AI exponential",
+        "summary": "Product management on the AI exponential",
+        "url": "https://claude.com/blog/product-management-on-the-ai-exponential",
+        "source": "Claude Blog",
+        "published": "2026-03-19T00:00:00+00:00"
+      },
+      {
         "id": "2cce0f272144",
         "title": "That time NIN made a perfect ambient industrial soundtrack for Quake",
         "summary": "The year was 1996. And Trent Reznor and NIN loved id Software so much that they made a deep, dark, legendary soundtrack for the breakthrough game Quake, for no fee &#8212; just for &#8220;friendship.&#8221; At a time when creativity can feel under attack, and the real world is starting to seem a lit...",
@@ -1539,6 +1563,14 @@
         "url": "https://humanityisland.nccu.edu.tw/ouyangfangquan_a/",
         "source": "人文．島嶼",
         "published": "2026-03-18T02:32:34+00:00"
+      },
+      {
+        "id": "eadfd703b55a",
+        "title": "Code with Claude comes to San Francisco, London, and Tokyo",
+        "summary": "Code with Claude comes to San Francisco, London, and Tokyo",
+        "url": "https://claude.com/blog/code-with-claude-san-francisco-london-tokyo",
+        "source": "Claude Blog",
+        "published": "2026-03-18T00:00:00+00:00"
       },
       {
         "id": "a56f1dd9fece",
@@ -1613,6 +1645,14 @@
         "published": "2026-03-13T10:00:00+00:00"
       },
       {
+        "id": "5ee0f49e73fa",
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "summary": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "url": "https://claude.com/blog/1m-context-ga",
+        "source": "Claude Blog",
+        "published": "2026-03-13T00:00:00+00:00"
+      },
+      {
         "id": "05d76e3fbf3c",
         "title": "Platform 37 and The AI Exchange: new spaces for AI innovation and discovery",
         "summary": "Platform 37 building",
@@ -1637,12 +1677,28 @@
         "published": "2026-03-12T05:58:00+00:00"
       },
       {
+        "id": "6260224e2b1d",
+        "title": "Claude now creates interactive charts, diagrams and visualizations",
+        "summary": "Claude now creates interactive charts, diagrams and visualizations",
+        "url": "https://claude.com/blog/claude-builds-visuals",
+        "source": "Claude Blog",
+        "published": "2026-03-12T00:00:00+00:00"
+      },
+      {
         "id": "adede8686702",
         "title": "AI 也有電車難題？清大林勤富談演算法背後的偏見與風險",
         "summary": "從什麼時候開始，我們遇到問題，第一反應不再是詢問朋友，也不是上網慢慢找資料，而是直接「問AI」？ AI不僅是輔 [&#8230;]\nThe post AI 也有電車難題？清大林勤富談演算法背後的偏見與風險 appeared first on 人文．島嶼.",
         "url": "https://humanityisland.nccu.edu.tw/chingfulin_a/",
         "source": "人文．島嶼",
         "published": "2026-03-11T02:10:22+00:00"
+      },
+      {
+        "id": "d20f4bc28ee2",
+        "title": "Advancing Claude for Excel and PowerPoint",
+        "summary": "Advancing Claude for Excel and PowerPoint",
+        "url": "https://claude.com/blog/claude-excel-powerpoint-updates",
+        "source": "Claude Blog",
+        "published": "2026-03-11T00:00:00+00:00"
       },
       {
         "id": "7051e29e34ab",
@@ -1675,6 +1731,14 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251668",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-03-09T00:39:00+00:00"
+      },
+      {
+        "id": "79b49434b327",
+        "title": "Bringing Code Review to Claude Code",
+        "summary": "Bringing Code Review to Claude Code",
+        "url": "https://claude.com/blog/code-review",
+        "source": "Claude Blog",
+        "published": "2026-03-09T00:00:00+00:00"
       },
       {
         "id": "1e717f67fc3a",
@@ -1717,6 +1781,14 @@
         "published": "2026-03-05T16:30:00+00:00"
       },
       {
+        "id": "baec19f04986",
+        "title": "Common workflow patterns for AI agents—and when to use them",
+        "summary": "Common workflow patterns for AI agents—and when to use them",
+        "url": "https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them",
+        "source": "Claude Blog",
+        "published": "2026-03-05T00:00:00+00:00"
+      },
+      {
         "id": "99523ceab6ed",
         "title": "Machinefabriek * Meredith Bates",
         "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
@@ -1747,6 +1819,14 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
         "source": "Google DeepMind",
         "published": "2026-03-03T17:00:00+00:00"
+      },
+      {
+        "id": "96f23e52cb53",
+        "title": "Improving skill-creator: Test, measure, and refine Agent Skills",
+        "summary": "Improving skill-creator: Test, measure, and refine Agent Skills",
+        "url": "https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills",
+        "source": "Claude Blog",
+        "published": "2026-03-03T00:00:00+00:00"
       },
       {
         "id": "7aa3b71f3fad",
@@ -2212,7 +2292,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-26T09:08:26.860368+00:00"
+        "published": "2026-03-26T11:02:30.995188+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2300,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-26T09:08:26.860357+00:00"
+        "published": "2026-03-26T11:02:30.995178+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2308,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-26T09:08:26.860347+00:00"
+        "published": "2026-03-26T11:02:30.995165+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2316,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-26T09:08:26.860336+00:00"
+        "published": "2026-03-26T11:02:30.995155+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2324,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-26T09:08:26.860326+00:00"
+        "published": "2026-03-26T11:02:30.995144+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2332,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-26T09:08:26.860315+00:00"
+        "published": "2026-03-26T11:02:30.995134+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2340,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-26T09:08:26.860305+00:00"
+        "published": "2026-03-26T11:02:30.995124+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2348,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-26T09:08:26.860295+00:00"
+        "published": "2026-03-26T11:02:30.995114+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2356,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-26T09:08:26.860284+00:00"
+        "published": "2026-03-26T11:02:30.995104+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2364,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-26T09:08:26.860274+00:00"
+        "published": "2026-03-26T11:02:30.995093+00:00"
       },
       {
         "id": "37098b8d1bb5",
