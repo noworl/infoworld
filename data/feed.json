@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-03-28T11:37:47.733842+00:00",
+  "updated_at": "2026-03-28T13:15:13.933692+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "6ae32e66a666",
+        "title": "台鐵再為列車大延誤致歉　查肇因一週內提改善措施",
+        "summary": "（中央社記者黃巧雯台北28日電）昨天樹林至鶯歌間發生電車線事故造成列車大延誤。台鐵今天再致歉說，已啟動內部檢討機制，一週內將針對3大面向提具體改善措施，包括徹查肇因、精進通報機制與強化跨單位協作。",
+        "url": "https://www.cna.com.tw/news/ahel/202603280183.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-28T10:59:35+00:00"
+      },
+      {
+        "id": "f40f1f1a7c0b",
+        "title": "29日溫度回升明顯　北部、東北部高溫29度",
+        "summary": "（中央社記者吳欣紜台北28日電）氣象署表示，受東北季風影響，明天上半天水氣仍較多，但下半天水氣減少、溫度回升明顯，北部、東北部高溫可達攝氏26至29度，下週三及週五則因鋒面通過再度降溫。",
+        "url": "https://www.cna.com.tw/news/ahel/202603280178.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-03-28T10:20:23+00:00"
+      },
       {
         "id": "31888b3a7c02",
         "title": "愛滋本土個案創新低　公費治療擬納永居及外籍兒少",
@@ -65,22 +81,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202603280128.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-03-28T08:18:33+00:00"
-      },
-      {
-        "id": "17d06a331a72",
-        "title": "憶舊金山參與學運遊行  寺尾哲也：荒謬感成創作動機",
-        "summary": "（中央社記者張欣瑜舊金山27日專電）睽違6年重返舊金山灣區，寺尾哲也身分從工程師變成作家，他與「子彈是餘生」英文版譯者王可今晚與當地民眾暢聊318太陽花學運，曾走上舊金山街頭跨海參與學運的他娓娓道來當年的「荒謬感」如何激發了他的創作靈感。",
-        "url": "https://www.cna.com.tw/news/acul/202603280124.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-28T08:10:24+00:00"
-      },
-      {
-        "id": "bc06d5dbec32",
-        "title": "國道遊覽車起火　車齡7年有汽燃費與違規未結紀錄",
-        "summary": "（中央社記者黃巧雯台北28日電）國1五楊高架路段今天中午發生遊覽車火燒車事故，所幸司機及乘客全數逃生。根據公路局資料，肇事車輛2019年3月出廠，下次定檢日為今年9月，另有汽燃費、違規未結各1件。",
-        "url": "https://www.cna.com.tw/news/ahel/202603280120.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-28T08:04:15+00:00"
       },
       {
         "id": "4ca3f0477666",
@@ -403,6 +403,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -715,6 +795,22 @@
         "url": "https://technews.tw/2026/03/28/meta-ai-glasses-2/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-03-28T00:53:45+00:00"
+      },
+      {
+        "id": "e34be9c7ec32",
+        "title": "無眠大宅",
+        "summary": "《無眠大宅》設於近未來的二〇四七年。長居英國、習慣獨來獨往的趙奧，因一封署名「J」的電郵，搭上從倫敦飛往香港的班機，重回當年不辭而別的無眠大宅。\n三十多年前的夏天，趙奧初踏無眠大宅，於桂花樹下與朱利安、朱利亞兄妹成為摯友，並結識朱利安的青梅竹馬李維月。在「一代辛勞，換來一代無憂」的神話背後，原居民與非原居民的跨世代心結，緊緊牽繫著香港土地議題的歷史與命運。\n無眠大宅既是孩子的樂園、少年的戀愛啟蒙地，也是老人的後花園與成年人的擂臺。隨著時間推移與敘事轉換，村民間的關係逐漸變質：曖昧、背離與悔悟交纏並生。當孩子仍在守護夢境，推土機卻已在後山待命。\n《無眠大宅》書寫土地、世代、移民、記憶與想像，.....",
+        "url": "https://indiepublisher.tw/zh-hant/book/2318",
+        "source": "獨立出版聯盟網站",
+        "published": "2026-03-28T00:00:00+00:00"
+      },
+      {
+        "id": "6e65d50642be",
+        "title": "神不吃甜點吧",
+        "summary": "地毯式搜索。點開地圖，在東京上空輸入「スイーツ（甜點）」，地表立時插上幾根紅色標記。都不對。範圍太大、線索太少，不確定是神愛莫能助，抑或是神的視野裡容不下這間容易被遺忘的小店。\n\n雙管齊下，讓思緒回到那一天，從腦海中收存時間序列的區域提取行程資料，然後閉上眼，順著感官記憶的引導，逐步縮小範圍……根據道路的走向、街區的氛圍，應該是在惠比壽站下了車，而且應該是花園廣場的反方向，平時比較不常走的那一邊。再次點開地圖，拖移、放大惠比壽站北側，又輸入一次「スイーツ（甜點）」，商業活動稀疏的住宅區內亮起了一個小小的紅色標點。打開街景確認，是他沒錯，而他賣的那種甜點通常叫作布朗尼。\n\n神沒有那麼多壞心眼，....",
+        "url": "https://indiepublisher.tw/zh-hant/book/2317",
+        "source": "獨立出版聯盟網站",
+        "published": "2026-03-28T00:00:00+00:00"
       },
       {
         "id": "df7ac67b8318",
@@ -1925,22 +2021,6 @@
         "published": "2026-02-16T18:43:40+00:00"
       },
       {
-        "id": "18e53570999b",
-        "title": "2026年1-3月書訊：藝術．生活．人文．繪本",
-        "summary": "#藝術設計〉感性的疆界：科技的影像練習／鬼托邦：高俊耀劇作選Ⅱ／律動的底色：街舞的情動政治與當代變異／28+2場不存在食堂：流星劃過的餐桌\n#生活風格〉慢慢慢清邁／海街日日：把鎌倉放口袋／秋刀魚No.50／馬祖祕密地圖：發掘世界級的寶藏／走讀獅城／知食份子1\n#人文社科〉做書的人2／人間魚詩生活誌No.23／夢的實踐6\n#童書繪本〉在鳥籠出生的小綠和他的朋友們／成為海的第一天\n\n\n藝術設計\n\n感性的疆界：科技的影像練習\n\n毛雅芬◎斑馬線\n\n「感性」為何會有疆界？當我們觀看、感知某事物，尤其是不同型態的影像，以至於激起各種記憶、情感、經驗的時候，難道不是真實、任它蔓延的嗎？\n曾任劇場導演、...",
-        "url": "https://indiepublisher.tw/zh-hant/news/2305",
-        "source": "獨立出版聯盟網站",
-        "published": "2026-02-15T00:00:00+00:00"
-      },
-      {
-        "id": "7aec8270d6e0",
-        "title": "2026年1-3月書訊：圖像．小說．文學．詩",
-        "summary": "#圖像閱讀．輕小說〉蜉蝣之島 本傳 1／疫波未平：ONE WAVE RISES／月娘咬耳1&amp;2：宇宙系臺漫／往生：迴轉壽屍（1）／冒牌子爵：《邪惡紳士》世界觀衍生續作！／薛普先生與波希先生\n#華文創作〉一九九〇恐怖大王台北降下／最高品質靜悄悄／風之少年團／疫情釀的酒／可口的飢餓／我們稱之為愛的那些事\n#詩〉沒有辦法賺到錢的詩才是真正的詩／我決定饒恕你的庸俗／藏在耳朵裡的聲音：加薩詩篇\n#翻譯文學〉夜未央／大亨小傳\n\n\n\n圖像閱讀．輕小說\n\n蜉蝣之島 本傳 1\n\n李尚喬．葉長青◎慢工\n\n瀕臨崩潰的世界裡，一座挾風雨在海上前行的「蜉蝣之島」，是靈與人共同生活的最後淨土。少女黎卡，...",
-        "url": "https://indiepublisher.tw/zh-hant/news/2304",
-        "source": "獨立出版聯盟網站",
-        "published": "2026-02-15T00:00:00+00:00"
-      },
-      {
         "id": "afbc3f5ca2dd",
         "title": "Eaton & Fullen * Volume Settings Folder",
         "summary": "EATON &amp; FULLEN - BUTTERFLY COMPOUND\n\n\nFrank Eaton and Kevin Fullen are founders of the Noise New York recording studio - \"hotbed of the No Wave Movement\". The instrumental, psychedelic and ambient soundscapes they present as the Eaton/Fullen duo is not what I remember from that particular 70's s...",
@@ -2212,7 +2292,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-28T11:37:47.733244+00:00"
+        "published": "2026-03-28T13:15:13.933169+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2300,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-28T11:37:47.733234+00:00"
+        "published": "2026-03-28T13:15:13.933159+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2308,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-28T11:37:47.733223+00:00"
+        "published": "2026-03-28T13:15:13.933149+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2316,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-28T11:37:47.733213+00:00"
+        "published": "2026-03-28T13:15:13.933139+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2324,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-28T11:37:47.733202+00:00"
+        "published": "2026-03-28T13:15:13.933129+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2332,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-28T11:37:47.733191+00:00"
+        "published": "2026-03-28T13:15:13.933119+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2340,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-28T11:37:47.733181+00:00"
+        "published": "2026-03-28T13:15:13.933109+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2348,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-28T11:37:47.733170+00:00"
+        "published": "2026-03-28T13:15:13.933099+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2356,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-28T11:37:47.733160+00:00"
+        "published": "2026-03-28T13:15:13.933089+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2364,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-28T11:37:47.733149+00:00"
+        "published": "2026-03-28T13:15:13.933080+00:00"
       },
       {
         "id": "47d44d265c82",
