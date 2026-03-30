@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-03-30T13:58:39.209017+00:00",
+  "updated_at": "2026-03-30T15:17:04.175281+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "10fd3021511e",
+        "title": "HOROWITZ Vladimir",
+        "summary": "Vladimir Horowitz (Klavier) New York, 28. 3. 1945  .This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nxgf_20260330",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-30T13:17:35+00:00"
+      },
       {
         "id": "ca0016b3aef3",
         "title": "威力彩第115026期開獎",
@@ -153,14 +161,6 @@
         "url": "https://archive.org/details/mp-3_20260329_20260329_2139",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-29T21:40:32+00:00"
-      },
-      {
-        "id": "2eff20bf049c",
-        "title": "GLASUNOV Scènes de Ballet op. 52",
-        "summary": "GLASUNOV  Scènes de Ballet op. 52 Radio-Sinfonieorchester der UdSSR Gennadij Roschdestwenskij.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mjg_20260329",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-29T21:39:17+00:00"
       },
       {
         "id": "6ef5231473bd",
@@ -821,6 +821,14 @@
         "published": "2026-03-30T02:10:59+00:00"
       },
       {
+        "id": "48e6611b13ce",
+        "title": "中国打击“骨灰房”",
+        "summary": "许多年轻租客并不介意邻居是“逝者”，只要这能降低整栋楼的租金。",
+        "url": "https://www.ftchinese.com/story/001109319",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-29T16:00:00+00:00"
+      },
+      {
         "id": "14bf8ec20e19",
         "title": "“AI时代，应该让更多人免缴所得税”",
         "summary": "OpenAI早期投资者科斯拉提议，通过提高资本利得税来免除年收入低于10万美元的美国人的所得税，以缓解选民对AI抢走工作的担忧。",
@@ -1353,14 +1361,6 @@
         "title": "英国政府称明阳智能风机构成国家安全威胁",
         "summary": "明阳智能在苏格兰建厂生产风机零部件的计划将受到英国政府这一决定的阻碍。",
         "url": "https://www.ftchinese.com/story/001109286",
-        "source": "FTChinese RSS - News",
-        "published": "2026-03-25T16:00:00+00:00"
-      },
-      {
-        "id": "3a7b6be2125a",
-        "title": "中东战火推高化肥价格 俄罗斯受益",
-        "summary": "随着中东供应大国纷纷停产，而且难以通过霍尔木兹海峡发运出口化肥，亲俄的匈牙利政府要求欧盟放宽针对俄罗斯化肥的制裁措施。",
-        "url": "https://www.ftchinese.com/story/001109284",
         "source": "FTChinese RSS - News",
         "published": "2026-03-25T16:00:00+00:00"
       },
@@ -2292,7 +2292,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-30T13:58:39.208507+00:00"
+        "published": "2026-03-30T15:17:04.174750+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2300,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-30T13:58:39.208476+00:00"
+        "published": "2026-03-30T15:17:04.174739+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2308,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-30T13:58:39.208466+00:00"
+        "published": "2026-03-30T15:17:04.174728+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2316,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-30T13:58:39.208455+00:00"
+        "published": "2026-03-30T15:17:04.174718+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2324,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-30T13:58:39.208445+00:00"
+        "published": "2026-03-30T15:17:04.174708+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2332,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-30T13:58:39.208435+00:00"
+        "published": "2026-03-30T15:17:04.174698+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2340,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-30T13:58:39.208424+00:00"
+        "published": "2026-03-30T15:17:04.174687+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2348,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-30T13:58:39.208414+00:00"
+        "published": "2026-03-30T15:17:04.174677+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2356,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-30T13:58:39.208404+00:00"
+        "published": "2026-03-30T15:17:04.174667+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2364,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-30T13:58:39.208394+00:00"
+        "published": "2026-03-30T15:17:04.174656+00:00"
       },
       {
         "id": "47d44d265c82",
