@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-04-01T21:52:36.847555+00:00",
+  "updated_at": "2026-04-01T22:49:41.455032+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "cfcfa209e519",
+        "title": "HÄNDEL Sämtliche Orgelkonzerte",
+        "summary": "HÄNDEL  Sämtliche Orgelkonzerte Edward Power Biggs (Orgel) London Philharmonic Orchestra Sir Adrian Boult.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/ngfx_20260401",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-01T21:14:24+00:00"
+      },
+      {
+        "id": "da3c98596a72",
+        "title": "SET AO VIVO REY NUCLEAR NA DESPEDIDA DA BRAGA SHOW 28 03 2026 DJ RIVA",
+        "summary": "GF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-rey-nuclear-na-despedida-da-braga-show-28-03-2026-dj-riva",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-01T20:39:14+00:00"
+      },
       {
         "id": "45952383eadb",
         "title": "Mike Watt & The Secondmen - Fillmore - 7/26/02",
@@ -149,26 +165,10 @@
       {
         "id": "473b04c63e07",
         "title": "FROBERGER Sämtliche Werke für Cembalo und Orgel",
-        "summary": "FROBERGER  Sämtliche Werke für Cembalo und Orgel (1/2) Richard Egarr.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
+        "summary": "FROBERGER  Sämtliche Werke für Cembalo und Orgel (1/2) Richard Egarr (Cembalo, Orgel).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/mnjfh_202604",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-01T09:47:14+00:00"
-      },
-      {
-        "id": "84fa760326e0",
-        "title": "ZERO AGAIN (UK) - REVERT TO NOTHING",
-        "summary": "Revert to Nothing... | Zero Again.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/zero-again-revert-to-nothing",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-01T05:10:00+00:00"
-      },
-      {
-        "id": "54a266046e38",
-        "title": "ZERO AGAIN (UK) - DEEP APPRECIATION OF SUFFFERING",
-        "summary": "▶︎ A Deep Appreciation of Suffering | Zero Again.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/zero-again-a-deep-appreciation-of-suffering",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-01T04:41:06+00:00"
       },
       {
         "id": "b4ed3cad8213",
@@ -417,6 +417,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -2212,7 +2292,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-01T21:52:36.847040+00:00"
+        "published": "2026-04-01T22:49:41.454488+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2300,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-01T21:52:36.847030+00:00"
+        "published": "2026-04-01T22:49:41.454478+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2308,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-01T21:52:36.847020+00:00"
+        "published": "2026-04-01T22:49:41.454467+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2316,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-01T21:52:36.847010+00:00"
+        "published": "2026-04-01T22:49:41.454457+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2324,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-01T21:52:36.846999+00:00"
+        "published": "2026-04-01T22:49:41.454446+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2332,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-01T21:52:36.846989+00:00"
+        "published": "2026-04-01T22:49:41.454434+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2340,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-01T21:52:36.846979+00:00"
+        "published": "2026-04-01T22:49:41.454423+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2348,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-01T21:52:36.846969+00:00"
+        "published": "2026-04-01T22:49:41.454413+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2356,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-01T21:52:36.846959+00:00"
+        "published": "2026-04-01T22:49:41.454403+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2364,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-01T21:52:36.846949+00:00"
+        "published": "2026-04-01T22:49:41.454393+00:00"
       },
       {
         "id": "60c78be64c90",
