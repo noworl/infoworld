@@ -1,7 +1,127 @@
 {
-  "updated_at": "2026-03-31T23:41:59.327516+00:00",
+  "updated_at": "2026-04-01T03:35:07.770602+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "e051703d127d",
+        "title": "雙北學童4/3-4/6捷運免費搭　貓纜小巨蛋推優惠",
+        "summary": "（中央社記者陳昱婷台北1日電）慶祝兒童節，台北捷運公司宣布，3日至6日國小以下台北市學童持數位學生證、新北市學童持新北兒童卡可免費搭乘捷運，另全國學童都可免費搭貓纜、進入兒童新樂園或小巨蛋滑冰。",
+        "url": "https://www.cna.com.tw/news/ahel/202604010059.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-01T02:42:39+00:00"
+      },
+      {
+        "id": "222e0b3ef1c7",
+        "title": "國籍航空燃油附加費調漲7日生效 短程線增至1448元、長程線3766元",
+        "summary": "（中央社記者黃巧雯台北1日電）受中東局勢影響，國際油價上漲，交通部民航局長何淑萍今表示，國籍航空燃油附加費將調漲，短程線增加27.5美元（約台幣885元），長程線增加71.5美元（約台幣2302元），4月7日生效。",
+        "url": "https://www.cna.com.tw/news/ahel/202604010057.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-01T02:39:35+00:00"
+      },
+      {
+        "id": "b7ed988ea7e2",
+        "title": "列車空壓機傳異音似鞭炮　北捷致歉展開專案檢查",
+        "summary": "（中央社記者陳昱婷台北1日電）台北捷運一部列車昨天行經中山站時發出疑似鞭炮聲，引發討論。北捷今天表示，查修後確認是列車空壓機異常導致，更換後已恢復正常，對於受影響的旅客致歉，同時啟動專案檢查。",
+        "url": "https://www.cna.com.tw/news/ahel/202604010054.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-01T02:35:29+00:00"
+      },
+      {
+        "id": "ee5d382c1f4b",
+        "title": "勞動基金2月單月收益4184億元　創歷史新高",
+        "summary": "（中央社記者張雄風台北1日電）勞動基金運用局今天公布最新基金運用績效，2月單月收益數為新台幣4184億元，刷新單月最高紀錄；主要是農曆春節後在資金回流及科技產業需求與基本面的支撐帶動下，台股表現回升。",
+        "url": "https://www.cna.com.tw/news/ahel/202604010051.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-01T02:27:22+00:00"
+      },
+      {
+        "id": "ecaa7b9e1a74",
+        "title": "新南向產學合作專班　畢業生66%留台就業",
+        "summary": "（中央社記者陳至中台北1日電）近年政府擴大招生國際生來台就學、就業，其中「新南向產學合作專班」已畢業8屆學生，且66%的學生畢業後留台就業，成為台灣產業所需人才。",
+        "url": "https://www.cna.com.tw/news/ahel/202604010048.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-01T02:15:16+00:00"
+      },
+      {
+        "id": "ecbdd9ec293b",
+        "title": "洪申翰：修訂霸凌專章附屬法規　盼7/1上路",
+        "summary": "（中央社記者張雄風台北1日電）立法院去年三讀修正職業安全衛生法，其中包含增列職場霸凌專章。勞動部長洪申翰今天表示，目前正如火如荼在進行附屬法規的修訂，希望今年7月1日能夠上路。",
+        "url": "https://www.cna.com.tw/news/ahel/202604010046.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-01T02:12:12+00:00"
+      },
+      {
+        "id": "8e435d2049a5",
+        "title": "台鐵發生電車線故障、調車事故　交長促2方向改善",
+        "summary": "（中央社記者黃巧雯台北1日電）台鐵接連發生電車線故障、調車事故，交通部昨要求3天內完成調查。交通部長陳世凱今天說，已請台鐵調查事故原因，並應調整設備更換相關的標準作業程序，並建立問責文化。",
+        "url": "https://www.cna.com.tw/news/ahel/202604010045.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-01T01:59:09+00:00"
+      },
+      {
+        "id": "784d1dccc875",
+        "title": "校事會議修法納冤案補償　擬補發本俸加學術研究費",
+        "summary": "（中央社記者陳至中台北1日電）為了減緩校園濫訴問題，教育部推動校事會議修法，在教育團體和立委的建議下，擬納入冤案補償條款，如果調查後還了清白，將補發教師停聘期間的本俸加上學術研究費。",
+        "url": "https://www.cna.com.tw/news/ahel/202604010038.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-01T01:32:54+00:00"
+      },
+      {
+        "id": "b9bc731f8ba4",
+        "title": "紙風車屏東團連演雞城故事 最後3場屏東藝術館登場",
+        "summary": "（中央社記者趙靜瑜台北1日電）紙風車劇團經典之作「雞城故事」前進屏東演出，這也是紙風車屏東團首次挑戰15場連演，第1期與第2期團員合體，挑戰唱跳極限。今天在屏東藝術館有最後3場演出。",
+        "url": "https://www.cna.com.tw/news/acul/202604010029.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-01T00:57:35+00:00"
+      },
+      {
+        "id": "40bdb1104f2c",
+        "title": "當手機變成靈魂的牢籠  全球中央探討數位成癮危機",
+        "summary": "（中央社台北1日電）澳洲政府去年底祭出全球首創禁令，強制16歲以下青少年遠離社群平台。《全球中央》雜誌4月號專題〈搶救數位小孩〉深入報導Z世代的社群焦慮與解決方案外，也探討日益嚴重的新型網路犯罪，帶你看見數位成癮下造成的社會風險。",
+        "url": "https://www.cna.com.tw/news/ahel/202604010024.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-01T00:37:24+00:00"
+      },
+      {
+        "id": "bf159b76472c",
+        "title": "GLANERT Drei Gesänge aus Carmen von Wolf Wondratschek (Sinfonie Nr. 2) op. 21",
+        "summary": "GLANERT  Drei Gesänge aus Carmen von Wolf Wondratschek (Sinfonie Nr. 2) op. 21 Andreas Scheibner (Bariton) Münchner Philharmoniker Paul Daniel (1990).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PN...",
+        "url": "https://archive.org/details/hnngfx",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-31T23:45:56+00:00"
+      },
+      {
+        "id": "21a1061427cb",
+        "title": "GLANERT Sinfonie Nr. 1 op. 6",
+        "summary": "GLANERT  Sinfonie Nr. 1 op. 6 Scottish Symphony Orchestra Glasgow Markus Stenz (1985).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bnf_20260331",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-31T23:38:29+00:00"
+      },
+      {
+        "id": "4d2a6b3cf692",
+        "title": "GLANERT Vier Fantasien op. 12",
+        "summary": "GLANERT  Vier Fantasien op. 12 Alan Marks (Klavier) (1989).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nbhgf_20260331",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-31T23:35:15+00:00"
+      },
+      {
+        "id": "c73a1c536d72",
+        "title": "GLANERT Mahler/Skizzen op. 20",
+        "summary": "GLANERT  Mahler/Skizzen op. 20 London Sinfonietta Oliver Knussen (1989).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bhdxg",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-31T23:29:51+00:00"
+      },
+      {
+        "id": "a804ba7b6f46",
+        "title": "FRIED Das Tagebuch der Anne Frank",
+        "summary": "FRIED  Das Tagebuch der Anne Frank Eva Ben-Zvi (Sopran) Orchester des Bolschoj-Theaters Andrej Tschistjakov (1991).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mnhfnx",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-03-31T23:03:01+00:00"
+      },
       {
         "id": "b4ed3cad8213",
         "title": "TWMC April 2026 Chart",
@@ -49,126 +169,6 @@
         "url": "https://archive.org/details/mp-3_20260331_20260331",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-03-31T20:54:10+00:00"
-      },
-      {
-        "id": "7e8ec5e821d9",
-        "title": "مهرجان الميديا سيطت الهلاهيل حمو بيكا و ميسو ميسره MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260331_202603",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-31T20:45:03+00:00"
-      },
-      {
-        "id": "80bcbda0f1a5",
-        "title": "مهرجان ايوه احنا دخلاوية شاعر الغية MP 3",
-        "summary": "ل.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260331",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-31T20:39:31+00:00"
-      },
-      {
-        "id": "26a633457b3a",
-        "title": "GALUPPI Il mondo alla roversa osia Le donne che comandano",
-        "summary": "GALUPPI  Il mondo alla roversa osia Le donne che comandano Coro della Radio Svizzera I Barocchisti Diego Fasolis.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, ...",
-        "url": "https://archive.org/details/bgdb_20260331",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-31T19:23:51+00:00"
-      },
-      {
-        "id": "4fecb60039ff",
-        "title": "ANGRY RED PLANET 1959",
-        "summary": "The movie with the origin of the Ratbatspider.This item belongs to: movies/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, MPEG4, Metadata, Thumbnail, h.264 IA",
-        "url": "https://archive.org/details/ratbatspider",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-31T18:57:58+00:00"
-      },
-      {
-        "id": "49b0e6c64d09",
-        "title": "GALUPPI Il caffè di campagna",
-        "summary": "GALUPPI  Il caffè di campagna Capella Savaria Fabio Pirona.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/gcbd_20260331",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-03-31T17:42:02+00:00"
-      },
-      {
-        "id": "14c65ca0a880",
-        "title": "「臺灣漫遊錄」入布克國際獎決選　台灣可望首次奪獎",
-        "summary": "（中央社記者陳韻聿倫敦31日專電）備受矚目的年度國際文學獎項英國「布克國際獎」（International Booker Prize）今天公布決選名單，總計納入6部作品，台灣作家楊双子的長篇小說「臺灣漫遊錄」入列，創台灣首例。",
-        "url": "https://www.cna.com.tw/news/acul/202603310407.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-31T14:47:00+00:00"
-      },
-      {
-        "id": "06acdf3f8062",
-        "title": "威尼斯雙年展 台灣館「鬱卒的平面：李亦凡」將開幕",
-        "summary": "（中央社記者黃雅詩羅馬31日專電）由台北市立美術館策劃的台灣館「鬱卒的平面：李亦凡」，將在2026第61屆威尼斯國際美術雙年展，於普里奇歐尼宮展出，展期5月9日至11月22日，其中5月7日至9日開幕當週下午將舉辦多場公眾活動，並於5月7日晚間舉辦台灣館開幕儀式。",
-        "url": "https://www.cna.com.tw/news/acul/202603310406.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-31T14:42:58+00:00"
-      },
-      {
-        "id": "59821c4469d4",
-        "title": "「臺灣漫遊錄」晉級布克國際獎決選　5/19大獎揭曉",
-        "summary": "（中央社記者邱祖胤台北31日電）布克國際獎台北時間今天晚間公布決選結果，作家楊双子「臺灣漫遊錄」繼續晉級，與其他5本書同列決選名單，預計5月19日公布大獎得主。",
-        "url": "https://www.cna.com.tw/news/acul/202603310405.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-31T14:32:55+00:00"
-      },
-      {
-        "id": "b90957b8723c",
-        "title": "今彩539第115080期　頭獎2注中獎",
-        "summary": "（中央社台北31日電）今彩539第115080期開獎，中獎號碼23、16、35、39、09；派彩結果，頭獎2注中獎，每注獎金新台幣800萬元。",
-        "url": "https://www.cna.com.tw/news/ahel/202603310399.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-31T14:05:42+00:00"
-      },
-      {
-        "id": "13460caad14e",
-        "title": "大樂透第115040期　頭獎槓龜",
-        "summary": "（中央社台北31日電）大樂透第115040期今晚開獎。中獎號碼為05、45、40、25、11、47，特別號39；派彩結果，頭獎槓龜。",
-        "url": "https://www.cna.com.tw/news/ahel/202603310398.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-31T14:04:40+00:00"
-      },
-      {
-        "id": "fcf370eb0255",
-        "title": "「臺灣漫遊錄」入圍布克國際獎決選　得主5月公布",
-        "summary": "（中央社記者陳韻聿倫敦31日專電）備受矚目的年度國際文學獎項英國「布克國際獎」（International Booker Prize）今天公布決選名單，台灣作家楊双子的長篇小說「臺灣漫遊錄」入列。",
-        "url": "https://www.cna.com.tw/news/ahel/202603310383.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-31T13:28:06+00:00"
-      },
-      {
-        "id": "1feea5de76e7",
-        "title": "苗栗頭份男醫性騷員工遭聲押　衛福部：如懲戒將公告狼醫平台",
-        "summary": "（中央社記者沈佩瑤台北31日電）頭份男醫涉職場性騷，檢警偵辦、縣府調查中。衛福部說，今天已發文地方衛生局，要求調查是否違反「醫師法」，如有懲處結果，將公告於俗稱狼醫平台的「醫事人員性平事件資訊專區」。",
-        "url": "https://www.cna.com.tw/news/ahel/202603310376.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-31T13:01:48+00:00"
-      },
-      {
-        "id": "fbd4c0682935",
-        "title": "大樂透第115040期開獎",
-        "summary": "（中央社台北31日電）大樂透第115040期今晚開獎。中獎號碼為05、45、40、25、11、47，特別號39。",
-        "url": "https://www.cna.com.tw/news/ahel/202603310372.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-31T12:55:40+00:00"
-      },
-      {
-        "id": "ee651f1237d2",
-        "title": "今彩539第115080期開獎",
-        "summary": "（中央社台北31日電）今彩539第115080期開獎，中獎號碼23、16、35、39、09。3星彩中獎號碼533，4星彩中獎號碼4910。",
-        "url": "https://www.cna.com.tw/news/ahel/202603310370.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-31T12:43:36+00:00"
-      },
-      {
-        "id": "ea59e9fdfcfe",
-        "title": "社工領域40載深耕守初衷　賴兩陽獲特殊貢獻獎",
-        "summary": "（中央社記者沈佩瑤台北31日電）投身社工40載，東華大學退休教授賴兩陽從繁華都市走入後山部落。對他而言，社工不只是職業，更是人格養成的修行，他始終守著助人行善初衷，今天獲衛福部特殊貢獻獎表揚。",
-        "url": "https://www.cna.com.tw/news/ahel/202603310361.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-03-31T11:54:16+00:00"
       },
       {
         "id": "ad33f5641dc3",
@@ -419,6 +419,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -645,6 +725,38 @@
     ],
     "破(day)": [
       {
+        "id": "806846a0e2e9",
+        "title": "人物》追尋歷史需要勇氣，知曉困難所以謙卑——訪藍適齊《無處安放的記憶》",
+        "summary": "2024年金馬獎的領獎臺上，最佳紀錄片獎落《由島至島》，這部片聚焦二戰時期臺籍日本兵視角下的東南亞戰場，告訴觀眾日治時期台灣人並非全然的受害者。\n典禮上有限的致詞時間裡，導演廖克發特別著墨提及與該片歷史顧問藍適齊的共事回憶——藍適齊的母親藍林幸枝女士是片中人物之一。在追索家族的戰爭經驗後，影片發現藍林幸枝的父親在戰時並非單純的受難者。當母親困惑地問：「知道更多又怎麼樣？知道又不可以改變歷史。」藍適齊的回應，是一句略帶遲疑卻清晰的回答。\n「你有勇氣知道（歷史），會成為一個不一樣的人。」\n\n\n質問他人的過去或許容易，但當問題轉向自身，歷史便不再只是知識，而是一種選擇。而選擇，需要勇氣。\n同樣取材臺...",
+        "url": "https://www.openbook.org.tw/article/p-72467",
+        "source": "Openbook閱讀誌",
+        "published": "2026-04-01T03:30:38+00:00"
+      },
+      {
+        "id": "6f1b382ccefe",
+        "title": "伊朗革命衛隊：再有領袖遇刺，將攻擊輝達等美企",
+        "summary": "伊朗革命衛隊 3 月 31 日表示，若再有伊朗領導人在「針對性暗殺行動」喪命，將鎖定美國大型科技公司為攻擊目標 [&#8230;]",
+        "url": "https://technews.tw/2026/04/01/irgc-warns-attack-us-companies-nvidia-leader-assassinated/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-04-01T01:30:31+00:00"
+      },
+      {
+        "id": "b9bc731f8ba4",
+        "title": "紙風車屏東團連演雞城故事 最後3場屏東藝術館登場",
+        "summary": "（中央社記者趙靜瑜台北1日電）紙風車劇團經典之作「雞城故事」前進屏東演出，這也是紙風車屏東團首次挑戰15場連演，第1期與第2期團員合體，挑戰唱跳極限。今天在屏東藝術館有最後3場演出。",
+        "url": "https://www.cna.com.tw/news/acul/202604010029.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-01T00:57:35+00:00"
+      },
+      {
+        "id": "2502d8da4f32",
+        "title": "Meta 測試 Instagram Plus 訂閱制，多項限時動態隱藏功能曝光",
+        "summary": "Meta 正在部分國家測試名為「Instagram Plus」的付費訂閱服務，為訂閱用戶提供一系列專屬功能，且 [&#8230;]",
+        "url": "https://technews.tw/2026/04/01/meta-has-begun-testing-a-premium-subscription-on-instagram-in-a-few-countries/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-03-31T23:49:13+00:00"
+      },
+      {
         "id": "aea4d78001e4",
         "title": "Romeo and Juliet review – overbearing directorial stamp is saved by dazzling cast",
         "summary": "Sadie Sink and Noah Jupe’s pure chemistry perfectly encapsulates the urgent and uncompromising nature of first loveHas the conveyor belt from screen-to-stage celebrity turned full circle when a star from a hit TV series steps on to the West End stage in a production that is running contemporaneously...",
@@ -691,6 +803,14 @@
         "url": "https://humanityisland.nccu.edu.tw/tsang-long-liu_a/",
         "source": "人文．島嶼",
         "published": "2026-03-31T17:00:05+00:00"
+      },
+      {
+        "id": "e0897e6c0c35",
+        "title": "查尔斯国王4月下旬将对美国进行国事访问",
+        "summary": "白金汉宫证实此次访问前，特朗普再次大骂英国首相斯塔默，并暗示美国将扔下霍尔木兹海峡不管，让英国等国“自己去获得你们的石油”。",
+        "url": "https://www.ftchinese.com/story/001109336",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-31T16:00:00+00:00"
       },
       {
         "id": "b32cf146d7f0",
@@ -821,14 +941,6 @@
         "published": "2026-03-31T07:20:00+00:00"
       },
       {
-        "id": "353cb4d1a946",
-        "title": "國台交團長歐陽慧剛上任週年　期許當樂團「桶箍」",
-        "summary": "（中央社記者趙靜瑜台北31日電）國立台灣交響樂團團長歐陽慧剛上任一週年，他表示，希望成為國台交的「桶箍」，把節目企劃、票房行銷、教育推廣與樂團運作等各面向緊密扣合，橫向合作，繼續往前邁進。",
-        "url": "https://www.cna.com.tw/news/acul/202603310201.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-03-31T06:55:35+00:00"
-      },
-      {
         "id": "f28fff886dc9",
         "title": "家庭檔案影像的轉生與收納",
         "summary": "家庭檔案影像的轉生與收納 / 【活動簡介】 / 每個家庭都囤積了許多曾經風行一時的影音媒材，如 16mm、8m [&#8230;]",
@@ -902,19 +1014,11 @@
       },
       {
         "id": "fe9fa80d7c50",
-        "title": "Lost on the ice: The 1897 hot-air balloon attempt to reach the North Pole",
+        "title": "Lost on the ice: The 1897 hydrogen balloon attempt to reach the North Pole",
         "summary": "Only traces remain of Salomon August Andrée’s 1897 attempt to reach the North Pole. From a base on the Svalbard archipelago, the engineer and his two companions had hoped to float a hydrogen balloon gracefully over the pole, drop a Swedish flag and claim the glory of first discovery. Their friends n...",
         "url": "https://blogs.loc.gov/loc/2026/03/lost-on-the-ice-the-1897-hot-air-balloon-attempt-to-reach-the-north-pole/",
         "source": "Timeless",
         "published": "2026-03-30T13:00:49+00:00"
-      },
-      {
-        "id": "dd071938477b",
-        "title": "Spring Clearance",
-        "summary": "So much music, not enough time.... Unfortunately, there are always more albums waiting than I can write about. And sometimes the queue only gets bigger. Below are some albums that have been waiting in vain for me to find the time to write about them but are definitely worth checking out!\n\n\n\n\n\nVARIOU...",
-        "url": "https://www.ambientblog.net/blog/spring-clearance/",
-        "source": "Ambientblog",
-        "published": "2026-03-30T11:23:42+00:00"
       },
       {
         "id": "d1c9a148b994",
@@ -1341,14 +1445,6 @@
         "published": "2026-03-26T16:00:00+00:00"
       },
       {
-        "id": "0c80b1a26bc2",
-        "title": "伊朗的最先进导弹去了哪里？",
-        "summary": "伊朗与美以联军在海湾地区进行的战争已经接近一个月，但该国去年所展示的最新型导弹至今仍未投入实战。",
-        "url": "https://www.ftchinese.com/story/001109295",
-        "source": "FTChinese RSS - News",
-        "published": "2026-03-26T16:00:00+00:00"
-      },
-      {
         "id": "01b1d48dfdc6",
         "title": "Marion Post Wolcott: Documenting America",
         "summary": "Marion Post Wolcott was an unknown 28-year-old photographer when she first picked up her cameras for the Farm Security Administration in the autumn of 1938. What followed was a remarkable four years of near constant travel and photography that would elevate her, over time, into being regarded as one...",
@@ -1363,14 +1459,6 @@
         "url": "https://www.openbook.org.tw/article/p-72453",
         "source": "Openbook閱讀誌",
         "published": "2026-03-26T08:10:00+00:00"
-      },
-      {
-        "id": "49adeb08493e",
-        "title": "書評》譯者即／或叛徒？讀《叛徒們的森林》及走出林（靈）中後的翻譯啟發",
-        "summary": "要撰寫一本以各語種譯者為主角，並因作者失蹤而引發一連串離奇事件的文學懸疑小說，還有誰能比曾以諾貝爾文學獎得主朵卡萩（Olga Tokarczuk）作品《雲遊者》（Bieguni），榮獲國際布克獎的波蘭文譯者珍妮佛．柯羅芙特（Jennifer Croft）還更適合的呢？\n《叛徒們的森林》以如下情境展開：八國譯者齊聚一堂，前往心目中文學聖母依傍原始森林的住所閉關翻譯最新作品，原先一切如常、進展順利，眾人敬仰的「吾作者」某個時刻起行為卻越發失控不可捉摸，直到突然人間蒸發，大家頓時群龍無首、不知所措。\n原以為只是偶發事件，但隨著更多線索揭露、假面崩解，種種離奇事件一面接連發生，加之魯莽草率的搜索行動及...",
-        "url": "https://www.openbook.org.tw/article/p-72442",
-        "source": "Openbook閱讀誌",
-        "published": "2026-03-26T02:30:45+00:00"
       },
       {
         "id": "499e92e82a9b",
@@ -1413,22 +1501,6 @@
         "published": "2026-03-25T12:05:27+00:00"
       },
       {
-        "id": "718fd24077e3",
-        "title": "Meta 收購中國 AI 新創 Manus 生變：創辦人遭禁止出境，出口管制審查啟動",
-        "summary": "Meta 公司以約 20 億美元收購中國創立的人工智慧新創公司 Manus 的交易近期正受到中國政府的審查。此 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/03/25/china-reviews-2bn-manus-sale-to-meta-as-founders-barred-from-leaving-country/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-03-25T07:20:53+00:00"
-      },
-      {
-        "id": "c7bc8517c599",
-        "title": "仿效馬斯克薪酬模式：Meta 六大高層獲天價期權，潛在收益上看 27 億美元",
-        "summary": "Meta Platforms Inc. 正在考慮為其高層管理人員提供一個巨額的薪酬方案，這項計畫的設計靈感來自 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/03/25/meta-executives-could-make-billions-under-a-blockbuster-elon-style-pay-package/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-03-25T04:40:47+00:00"
-      },
-      {
         "id": "5f803e647fa8",
         "title": "數學是客觀真理，還是一種文化？——跟著中央單維彰用「文化」理解數學",
         "summary": "想必多數人都認同，數學是客觀、普世的知識——不論身在何處，只要學的是同一套數學，答案就會相同。長期以來，數學也 [&#8230;]\nThe post 數學是客觀真理，還是一種文化？——跟著中央單維彰用「文化」理解數學 appeared first on 人文．島嶼.",
@@ -1467,14 +1539,6 @@
         "url": "https://cdm.link/akais-mpc-sample-vs-original-mpc60/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-24T13:59:49+00:00"
-      },
-      {
-        "id": "0bc709e0f72f",
-        "title": "Isabel Pine * Dobrawa Czocher",
-        "summary": "ISABEL PINE - FABLES\n\n\nAfter a few self-released EP-releases in 2021-2023 and a self-released album ('Where The Flowers Grow') in 2024, classical-trained violinist Isabel Pine now gets her well-deserved recognition with this album release. On no less than the legendary Kranky label, mind you! \n\n\nPin...",
-        "url": "https://www.ambientblog.net/blog/pine-czocher/",
-        "source": "Ambientblog",
-        "published": "2026-03-24T07:46:09+00:00"
       },
       {
         "id": "be0f75e5a638",
@@ -1613,14 +1677,6 @@
         "published": "2026-03-19T00:00:00+00:00"
       },
       {
-        "id": "d102ec96407c",
-        "title": "Clariloops * Robert Scott Thompson",
-        "summary": "CLARILOOPS - THE QUIET BELOW\n\n\nClariloops is the alias of Ruby (Ester Mae) Lulham, a classically trained clarinetist from Melbourne who merges her clarinet with immersive ambient music to create 'anbient works that fuse wood and wire, breath and signal'.\n\n\nThe Quiet Below was recorded at home wile p...",
-        "url": "https://www.ambientblog.net/blog/clariloops-thompson/",
-        "source": "Ambientblog",
-        "published": "2026-03-18T18:55:29+00:00"
-      },
-      {
         "id": "7d9818ac5a59",
         "title": "幾張紙、塑膠片還有DIY，北商大歐陽芳泉研發「輕教材」搞懂AR是什麼！",
         "summary": "社群上的有趣濾鏡、轉角遇到的那隻寶可夢、出國時拿起手機對準外文菜單，即時翻譯文字像變魔法……生活在「滑時代」， [&#8230;]\nThe post 幾張紙、塑膠片還有DIY，北商大歐陽芳泉研發「輕教材」搞懂AR是什麼！ appeared first on 人文．島嶼.",
@@ -1667,14 +1723,6 @@
         "url": "https://blog.google/company-news/inside-google/around-the-globe/google-africa/ai-research-foundations/",
         "source": "Google DeepMind",
         "published": "2026-03-17T08:00:00+00:00"
-      },
-      {
-        "id": "7562619e5af7",
-        "title": "Myllykoski & Äijälä * Herden & IT904",
-        "summary": "ALEKSI MYLLYKOSKI &amp; VELI-MATTI O ÄIJÄLÄ - HUMANITY\n\n\n\"We live in a world where the everyday life of war is closer to us westerners than ever before.\" Humanity was released on February 20, only a few days before the USA/Israel attack on Iran. Truer words are hardly spoken.\n\n\n'How can we change th...",
-        "url": "https://www.ambientblog.net/blog/humanity-travelogue/",
-        "source": "Ambientblog",
-        "published": "2026-03-13T19:46:52+00:00"
       },
       {
         "id": "bc85577215b2",
@@ -1789,14 +1837,6 @@
         "published": "2026-03-09T00:00:00+00:00"
       },
       {
-        "id": "1e717f67fc3a",
-        "title": "DreamScenes – March 2026",
-        "summary": "A Place Where Silence Feels Safe\n\n\n\n&nbsp;\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:47 Reibung - Burdon To CarryChrysanthemen, 2026\n\n\n02:56 Clariloops - Slowly I WakeShades, 2026, Whitelabrecs\n\n\n06:29 Miles Lee - Charcoal Tide (edit)The Sound Of Dreams, 2026, Inspired By Breathing\n\n\n...",
-        "url": "https://www.ambientblog.net/blog/dreamscenes-march-2026/",
-        "source": "Ambientblog",
-        "published": "2026-03-08T18:55:00+00:00"
-      },
-      {
         "id": "e93814826cf0",
         "title": "NO.80－牯嶺街小劇場文化報",
         "summary": "NO.80－牯嶺街小劇場文化報 2026.03-2026.05 / 專題｜2025年度節目選拔計畫 專文｜復活 [&#8230;]",
@@ -1837,14 +1877,6 @@
         "published": "2026-03-05T00:00:00+00:00"
       },
       {
-        "id": "99523ceab6ed",
-        "title": "Machinefabriek * Meredith Bates",
-        "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
-        "url": "https://www.ambientblog.net/blog/machinefabriek-bates/",
-        "source": "Ambientblog",
-        "published": "2026-03-04T18:49:30+00:00"
-      },
-      {
         "id": "1c2e501eb61b",
         "title": "馬來西亞外商投資指南",
         "summary": "馬來西亞外商投資指南 作者：TWL Law Group 2026-03-04 馬來西亞是東南亞地區外國投資的首 [&#8230;]",
@@ -1883,14 +1915,6 @@
         "url": "https://www.transglobalwmc.com/charts/march-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-02-28T23:06:44+00:00"
-      },
-      {
-        "id": "a992f8790179",
-        "title": "Andreas Voelk & Scott Monteith * Deadbeat",
-        "summary": "ANDREAS VOELK &amp; SCOTT MONTEITH - AND ALL THE CLOCKS RAN DRY\n\n\nUntil now I never heard of Andreas Voelk (from Berlin) or from his bands Das Ende Der Liebe and Center For Mind And Brain. Canadian Scott Monteith, on the other hand, is of course well known from his Deadbeat alias.\n\n\nAnd All The Cloc...",
-        "url": "https://www.ambientblog.net/blog/voelkmonteith-deadbeat/",
-        "source": "Ambientblog",
-        "published": "2026-02-28T18:12:33+00:00"
       },
       {
         "id": "41fd99be8d4e",
@@ -1949,22 +1973,6 @@
         "published": "2026-02-24T08:45:00+00:00"
       },
       {
-        "id": "efbfa794b124",
-        "title": "Isobel Waller-Bridge * Bolton / Cordero",
-        "summary": "ISOBEL WALLER-BRIDGE - OBJECTS\n\n\nHer name may ring a distant bell: Isobel Waller-Bridge is the sister of Phoebe Waller-Bridge, who you may remember from the Fleabag series. Isobel composed the music for Fleabag, as well as many other scores for film, television, theatre and ballet. \n\n\nBut apart from...",
-        "url": "https://www.ambientblog.net/blog/wallerbridge-boltoncordero/",
-        "source": "Ambientblog",
-        "published": "2026-02-23T18:31:37+00:00"
-      },
-      {
-        "id": "9b120dd01b07",
-        "title": "Clara Brea & Menhir * Kult Masek & Petr Vrba",
-        "summary": "CLARA BREA &amp; MENHIR - GROWING FORESTS IN THE CITY\n\n\nIn 2022, the Astral Industries label released The Wetland Remixes - a collaboration project of Son Of Chi (Hanyo van Oosterom, from Holland) and Spanish artist Clara Brea. The original stems of the 'Wetland Project' were remixed by Son Of Chi a...",
-        "url": "https://www.ambientblog.net/blog/cbreamenhir-kultmasek-vrba/",
-        "source": "Ambientblog",
-        "published": "2026-02-18T19:37:40+00:00"
-      },
-      {
         "id": "ce430890dc55",
         "title": "What Is Skimo? The Newest Olympic Sport Has a Long History in Europe",
         "summary": "With roots in military training, high-endurance ski mountaineering is finally catching on in the United States",
@@ -1987,14 +1995,6 @@
         "url": "https://aseanplusjournal.com/2026/02/17/aseanweekly313/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-02-16T18:43:40+00:00"
-      },
-      {
-        "id": "afbc3f5ca2dd",
-        "title": "Eaton & Fullen * Volume Settings Folder",
-        "summary": "EATON &amp; FULLEN - BUTTERFLY COMPOUND\n\n\nFrank Eaton and Kevin Fullen are founders of the Noise New York recording studio - \"hotbed of the No Wave Movement\". The instrumental, psychedelic and ambient soundscapes they present as the Eaton/Fullen duo is not what I remember from that particular 70's s...",
-        "url": "https://www.ambientblog.net/blog/eaton-fullen-volume-settings-folder/",
-        "source": "Ambientblog",
-        "published": "2026-02-13T16:08:11+00:00"
       },
       {
         "id": "e795181f01f6",
@@ -2212,7 +2212,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-31T23:41:59.327007+00:00"
+        "published": "2026-04-01T03:35:07.770187+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2220,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-31T23:41:59.326997+00:00"
+        "published": "2026-04-01T03:35:07.770177+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2228,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-31T23:41:59.326987+00:00"
+        "published": "2026-04-01T03:35:07.770167+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2236,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-31T23:41:59.326977+00:00"
+        "published": "2026-04-01T03:35:07.770157+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2244,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-31T23:41:59.326966+00:00"
+        "published": "2026-04-01T03:35:07.770147+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2252,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-31T23:41:59.326957+00:00"
+        "published": "2026-04-01T03:35:07.770137+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2260,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-31T23:41:59.326947+00:00"
+        "published": "2026-04-01T03:35:07.770127+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2268,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-31T23:41:59.326937+00:00"
+        "published": "2026-04-01T03:35:07.770117+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2276,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-31T23:41:59.326927+00:00"
+        "published": "2026-04-01T03:35:07.770107+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2284,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-03-31T23:41:59.326917+00:00"
+        "published": "2026-04-01T03:35:07.770096+00:00"
       },
       {
         "id": "48b8ac2c5e9c",
@@ -2463,14 +2463,6 @@
         "published": "2026-03-04T08:00:13+00:00"
       },
       {
-        "id": "250178c94bdc",
-        "title": "Summary of changes for February 2026",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of February.\n\n\n\n  Wiki, updated knots with a figure-eight follow-through knot, also, Pino has a new headsail!\n  Pavol, created a volume control tool.\n  Adelie, made it so images are drawn faster.\n  Turye, ad...",
-        "url": "https://100r.ca/site/log.html#feb2026",
-        "source": "Hundred Rabbits",
-        "published": "2026-03-01T07:00:00+00:00"
-      },
-      {
         "id": "d9cf598951e9",
         "title": "韓國宗教研究學者訪問民音文化中心",
         "summary": "2026年2月13日，韓國新宗教學會與韓國宗教研究協會的學者代表團造訪民音文化中心，受到山口會長及相關代表的熱 [&#8230;]",
@@ -2645,14 +2637,6 @@
         "url": "https://www.min-on.org/zh-hant/14681/%e6%b0%91%e9%9f%b3%e6%8e%a2%e6%88%88%e7%b3%bb%e5%88%97%e7%ac%ac55%e8%bc%af%ef%bc%9a%e5%b7%b4%e5%8b%83%e7%be%85%c2%b7%e7%93%a6%e8%90%8a%e5%85%ad%e9%87%8d%e5%a5%8f%e5%95%9f%e5%8b%95%e6%97%a5%e6%9c%ac/",
         "source": "Chinese Traditional – Min-On Website",
         "published": "2026-02-02T08:30:14+00:00"
-      },
-      {
-        "id": "4b37c3fda55f",
-        "title": "Summary of changes for January 2026",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of January.\n\n\n\n  Uxn, we released a new SDL2 emulator called uxn2 to replace the ol' uxnemu!\n  Wiki, updated moisture prevention underliner, chainplates(with new photos and measurements), and sewing.\n  Punk ...",
-        "url": "https://100r.ca/site/log.html#jan2026",
-        "source": "Hundred Rabbits",
-        "published": "2026-01-31T07:00:00+00:00"
       },
       {
         "id": "eed4ee2be99a",
@@ -2879,14 +2863,6 @@
         "published": "2025-12-02T19:23:40+00:00"
       },
       {
-        "id": "d099b3366c96",
-        "title": "Summary of changes for November 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of November.\n\n\n\n\n  Thousand Rooms, added an English version with one type of dyslexia-friendly typeface. A Danish version is also on the way.\n  Orca, improved the interface, released an Orca Cheatsheet for a...",
-        "url": "https://100r.ca/site/log.html#nov2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-12-02T07:00:00+00:00"
-      },
-      {
         "id": "c45d2faefd53",
         "title": "臺灣AI新聞產業變革：經濟效益及人才轉型",
         "summary": "口述：李怡志（政治大學傳播學院助理教授）撰稿：吳思嬋圖片來源：https://www.pexels.com/zh-tw/photo/3861969/降本增效的困境與AI浪潮下的產業差異台灣的新聞產業結構與國際社會存在顯著差異 。相較於部分國家（如日本）的媒體規模較小且數量有限，台灣的媒體數量眾多 。在這種高度競爭的環境下，台灣多數媒體的經營模式傾向於「降本增效」 。他們試圖以極低的成本賺取利潤，而主要的獲利來源單一，即廣告收入 。這導致媒體必須以極低的價格來產生內容，才能確保獲利空間 。然而，無論是台灣或國際上的大型正規新聞機構，都無法忽視數位化與人工智慧（AI）帶來的衝擊與機遇 。AI對新聞...",
@@ -2999,14 +2975,6 @@
         "published": "2025-11-03T08:46:08+00:00"
       },
       {
-        "id": "3faa169e142e",
-        "title": "Summary of changes for October 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of October.\n\n\n\n\n  CCCC, added a factorization mode.\n  Bagel, wrote about a cursed programming language idea where instead of cons cells, s-exp represent unordered lists.\n  Rabbit Waves, released a new page c...",
-        "url": "https://100r.ca/site/log.html#oct2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-11-02T07:00:00+00:00"
-      },
-      {
         "id": "5101beb3a79c",
         "title": "中央社應該示範「快更正、慢懲處」的公共專業",
         "summary": "文／杜聖聰（銘傳大學廣電系主任）TIME 刊出美國學者投書，以 “reckless leader（魯莽的領導人）” 形容賴清德總統。中央社撰稿時將投書誤當該刊「報導」，隨後已校正標題與內文，並宣布對記者、編輯與督導主管懲處。事件迅速延燒，焦點不只是誰說了什麼，而是國家通訊社面對編採瑕疵時，該用什麼方法回應公眾。中央社的法律定位清楚載明：以「辦理國家新聞通訊業務」、服務國內外媒體、促進國際新聞交流為宗旨。本質上，它既是新聞專業機構，同時也是國家資訊節點。正因如此，它的一舉一動，攸關台灣新聞倫理與民主公共性的示範效應。當面對流程失靈，首要之務應是制度化的自律與透明，而非迅速的懲處。把投書誤作報導，...",
@@ -3045,14 +3013,6 @@
         "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/10/14/fostering-cultural-collaboration-carlos-guedes-at-dcts-expert-module/",
         "source": "Music and Sound Cultures",
         "published": "2025-10-14T08:53:10+00:00"
-      },
-      {
-        "id": "f95c53f55137",
-        "title": "Summary of changes for September 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of September.\n\n\n\n\n  Noodle, redesigned the interface.\n  Wiki, updated  with a new photo.\n  Punk Rabbits, completed 19 new rabbits(#35-53).\n  NanoTalk, released a Nanochat client, written in Tal.\n\n\nAs promise...",
-        "url": "https://100r.ca/site/log.html#sep2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-10-01T07:00:00+00:00"
       },
       {
         "id": "bb6cd6e8f170",
@@ -3111,14 +3071,6 @@
         "published": "2025-09-02T01:00:25+00:00"
       },
       {
-        "id": "08d44c362b05",
-        "title": "Summary of changes for August 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of August.\n\n\n\n\n  Wiktopher, updated songs.\n  100r.ca, updated cast iron cookware(seasoning oil suggestions).\n  Punk Rabbits, completed 15 new rabbits(#19-34).\n  Orca, pushed a little update that includes the...",
-        "url": "https://100r.ca/site/log.html#aug2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-08-31T07:00:00+00:00"
-      },
-      {
         "id": "fdeb8e762695",
         "title": "“I Have a Theory Too”: The Challenge and Opportunity of Avocational Science",
         "summary": "Theories of the World Several often arrive in a single day. Sometimes they’re marked “urgent”. Sometimes they’re long. Sometimes they’re short. Sometimes they’re humble. Sometimes they’re conspiratorial. And sometimes, these days, they’re written “in collaboration with” an AI. But there’s a common t...",
@@ -3141,14 +3093,6 @@
         "url": "https://writings.stephenwolfram.com/2025/08/new-features-everywhere-launching-version-14-3-of-wolfram-language-mathematica/",
         "source": "Stephen Wolfram Writings",
         "published": "2025-08-05T17:52:24+00:00"
-      },
-      {
-        "id": "3a6af666fb8c",
-        "title": "Summary of changes for July 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of July.\n\n\n\n\n  Catjam 2025, finished a small game called Polycat!\n  100r.ca, added Vancouver Island West Coast, Ucluelet, Port San Juan, Juan de Fuca Strait and Cadboro Bay.\n  Theme Editor, made a nicer them...",
-        "url": "https://100r.ca/site/log.html#jul2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-08-01T07:00:00+00:00"
       },
       {
         "id": "e463940bee9f",
@@ -3183,14 +3127,6 @@
         "published": "2025-06-03T13:24:36+00:00"
       },
       {
-        "id": "78bbc5e1b154",
-        "title": "Summary of changes for May 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of May.\n\n\n\n\n  100r.ca, updated Oquonie and water.\n  Modal, the interpreter was ported to Uxn!\n  Uxntal, the documentation has been completely redone!\n  Hakum, added page 7 and page 8 of Sabotage Study.\n\n\nOqu...",
-        "url": "https://100r.ca/site/log.html#may2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-05-31T07:00:00+00:00"
-      },
-      {
         "id": "32d54605b761",
         "title": "What If We Had Bigger Brains? Imagining Minds beyond Ours",
         "summary": "Cats Don’t Talk We humans have perhaps 100 billion neurons in our brains. But what if we had many more? Or what if the AIs we built effectively had many more? What kinds of things might then become possible? At 100 billion neurons, we know, for example, that compositional language of the kind we hum...",
@@ -3213,22 +3149,6 @@
         "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/05/02/new-release-the-songs-of-shihuh-women/",
         "source": "Music and Sound Cultures",
         "published": "2025-05-02T17:08:17+00:00"
-      },
-      {
-        "id": "a79f71b9ae19",
-        "title": "Summary of changes for June 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of June.\n\n\n\n\n  100r.ca, updated costs, hauling out, united states and teapot gelcoat. Added san juan islands.\n  Rabbit Waves, added all content links to the main page, released a new page called Boatswain's ...",
-        "url": "https://100r.ca/site/log.html#june2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-05-02T07:00:00+00:00"
-      },
-      {
-        "id": "2a1b8e8b9eec",
-        "title": "Summary of changes for April 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of April.\n\n\n\n\n  100r.ca, updated water, ditch bag, woodstove installation, and added new photos and information on first-aid kit.\n  Rabbit Waves, updated Triangular Bandages with animated gifs, and First-Aid...",
-        "url": "https://100r.ca/site/log.html#apr2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-04-30T07:00:00+00:00"
       },
       {
         "id": "c01739412e2a",
