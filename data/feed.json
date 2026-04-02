@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-02T17:04:39.455964+00:00",
+  "updated_at": "2026-04-02T19:08:00.990522+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "3a528b1cea89",
+        "title": "DJ THIAGO FARIAS AO VIVO MARCANTE E ROCK DOIDO NO ARCO IRIS ( CAMETÁ) ( 28 Março 2026)",
+        "summary": "dfdf.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/dj-thiago-farias-ao-vivo-marcante-e-rock-doido-no-arco-iris-cameta-28-marco-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-02T18:04:35+00:00"
+      },
+      {
+        "id": "7a5da6952d05",
+        "title": "DJ THIAGO FARIAS AO VIVO FUNK, MARCANTE E ROCK DOIDO NO XARÉ U ( 29 Março 2026)",
+        "summary": "fddf.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/dj-thiago-farias-ao-vivo-funk-marcante-e-rock-doido-no-xare-u-29-marco-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-02T18:04:24+00:00"
+      },
+      {
+        "id": "245d56cf06c9",
+        "title": "DJ THIAGO FARIAS AO VIVO DOMINGUEIRA DO BRUTO ( CURANA SHOW) ( 29 Março 2026)",
+        "summary": "dffd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/dj-thiago-farias-ao-vivo-domingueira-do-bruto-curana-show-29-marco-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-02T18:04:09+00:00"
+      },
       {
         "id": "2ea753e166f5",
         "title": "台商深耕南非蘭花市場　品質取勝對抗價格競爭",
@@ -153,30 +177,6 @@
         "url": "https://archive.org/details/silkworm-fillmore-72602",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-02T00:34:38+00:00"
-      },
-      {
-        "id": "82d4fc8d160e",
-        "title": "CARTUNE JUKEBOX",
-        "summary": "M.This item belongs to: movies/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, MPEG4, Metadata, PNG, Thumbnail, h.264 IA",
-        "url": "https://archive.org/details/CARTUNE-JUKEBOX",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-01T21:48:36+00:00"
-      },
-      {
-        "id": "cfcfa209e519",
-        "title": "HÄNDEL Sämtliche Orgelkonzerte",
-        "summary": "HÄNDEL  Sämtliche Orgelkonzerte Edward Power Biggs (Orgel) London Philharmonic Orchestra Sir Adrian Boult.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectro...",
-        "url": "https://archive.org/details/ngfx_20260401",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-01T21:14:24+00:00"
-      },
-      {
-        "id": "da3c98596a72",
-        "title": "SET AO VIVO REY NUCLEAR NA DESPEDIDA DA BRAGA SHOW 28 03 2026 DJ RIVA",
-        "summary": "GF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-rey-nuclear-na-despedida-da-braga-show-28-03-2026-dj-riva",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-01T20:39:14+00:00"
       },
       {
         "id": "9a726018b3d2",
@@ -417,6 +417,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -789,6 +869,14 @@
         "published": "2026-04-02T01:56:20+00:00"
       },
       {
+        "id": "99fb5308d61b",
+        "title": "Harnessing Claude’s intelligence",
+        "summary": "Harnessing Claude’s intelligence",
+        "url": "https://claude.com/blog/harnessing-claudes-intelligence",
+        "source": "Claude Blog",
+        "published": "2026-04-02T00:00:00+00:00"
+      },
+      {
         "id": "629ac2f106c6",
         "title": "Les Liaisons Dangereuses review – love is a fight for power in this bold staging",
         "summary": "National theatre, LondonA queenly Lesley Manville steals the show in this dark, rageful tale of seduction as contact sportPierre Choderlos de Laclos was serving as an artillery officer while writing his epistolary novel about a cold game of seduction in the salons of 18th-century France which backfi...",
@@ -803,6 +891,22 @@
         "url": "https://www.theguardian.com/stage/2026/apr/02/private-lives-review-noel-coward-royal-exchange-theatre-manchester-jill-halfpenny",
         "source": "Stage | The Guardian",
         "published": "2026-04-01T23:01:10+00:00"
+      },
+      {
+        "id": "5c9c57a2006a",
+        "title": "韓幸紋／當小吃店要開發票：真正該問的不光是物價，還有租稅課徵的合理、公平性",
+        "summary": "查定課徵營業人制度的討論，不應再停留在門檻調整或短期物價影響，而應回到更根本的問題：在當前的經濟與資訊環境下，我們是否還需要一個以「推定課稅」為基礎、且與整體加值型營業稅體系脫節的制度？",
+        "url": "https://www.twreporter.org/a/opinion-business-entity-exempted-from-filing-sales-amounts",
+        "source": "報導者",
+        "published": "2026-04-01T16:00:00+00:00"
+      },
+      {
+        "id": "4ee36a39a171",
+        "title": "【楊牧手稿拍賣事件】想像的價值：交易作家手稿的商業、爭議與倫理",
+        "summary": "擺盪在「侵權」和「有助文化流通」之間，已故作家楊牧手稿的拍賣爭議，家屬、拍賣方、編輯等圍繞在「手稿所有權」的人們有哪些認知差異？有律師建議，走法律程序易技術卡關，不如由文化界人士共同協商，針對相關議題約定規範與共識。",
+        "url": "https://www.twreporter.org/a/yang-mu-manuscript-auction-controversy",
+        "source": "報導者",
+        "published": "2026-04-01T16:00:00+00:00"
       },
       {
         "id": "0756943e8928",
@@ -1053,14 +1157,6 @@
         "published": "2026-03-30T16:00:00+00:00"
       },
       {
-        "id": "81df7d3539a5",
-        "title": "怎麼告白與分手？情人施暴怎麼辦？性平教育20年後，一門學校師生都還沒修完的戀愛學分",
-        "summary": "2004年《性別平等教育法》通過，明定性平教育課程應涵蓋情感教育等內容，國民中小學每學期應實施至少4小時性平教育課程或活動。然而20多年後，成長於「性平教育」的大學生卻還是不懂怎麼告白、分手，甚至將權力控制誤以為愛。",
-        "url": "https://www.twreporter.org/a/podcast-2026-03-31",
-        "source": "報導者",
-        "published": "2026-03-30T16:00:00+00:00"
-      },
-      {
         "id": "b09a7608e2e1",
         "title": "誰來修電動車？產業轉型下，因升學主義、資源受限而停滯的技職教育現場",
         "summary": "曾經依賴感官與經驗的車輛診斷方式，已隨技術進展過渡至高精度與智慧化，挑戰著既有汽修體系。如今電動車保修又加上高電壓風險，稍有不慎就會釀成災禍。牽動台灣未來汽修人才質與量的技職教育現場，正撞上一道新門檻。",
@@ -1073,6 +1169,14 @@
         "title": "洪惠芬／不是不會養，而是制度未能協助：單親媽媽貧窮背後的制度真相",
         "summary": "問題不只是「誰比較容易跌倒」，而是跌倒時，國家是否願意透過制度去協助人重新站起、前行。當一個社會的制度能夠接住最脆弱的育兒者，也才能為其他家庭提供更穩固的支持。",
         "url": "https://www.twreporter.org/a/column-gender-trouble-2026-03-31",
+        "source": "報導者",
+        "published": "2026-03-30T16:00:00+00:00"
+      },
+      {
+        "id": "81df7d3539a5",
+        "title": "怎麼告白與分手？情人施暴怎麼辦？性平教育20年後，一門學校師生都還沒修完的戀愛學分",
+        "summary": "2004年《性別平等教育法》通過，明定性平教育課程應涵蓋情感教育等內容，國民中小學每學期應實施至少4小時性平教育課程或活動。然而20多年後，成長於「性平教育」的大學生卻還是不懂怎麼告白、分手，甚至將權力控制誤以為愛。",
+        "url": "https://www.twreporter.org/a/podcast-2026-03-31",
         "source": "報導者",
         "published": "2026-03-30T16:00:00+00:00"
       },
@@ -1427,22 +1531,6 @@
         "url": "https://cdm.link/elastic-osc-android-mpe/",
         "source": "CDM Create Digital Music",
         "published": "2026-03-26T17:14:56+00:00"
-      },
-      {
-        "id": "87809aab423d",
-        "title": "「漁電共生」夢一場？獨家數據與實地訪查，揭政策變局疑雲背後，地方審查、漁民養殖、企業資金問題",
-        "summary": "政府2020年開始推行「漁電共生」政策，如今甚至傳出政策方向轉彎，將「漁電共生」轉為「漁歸漁、電歸電」，光電業者不需再為養殖成效負責。這集，我們從數據、制度與第一線漁民的經驗出發，分析漁電共生為何走到瀕臨破局的今日。",
-        "url": "https://www.twreporter.org/a/podcast-2026-03-27",
-        "source": "報導者",
-        "published": "2026-03-26T16:00:00+00:00"
-      },
-      {
-        "id": "100b3b038cdd",
-        "title": "【投書】「枕頭天使」不一樣的成長路：抑制重症兒生長的倫理論證",
-        "summary": "為了親手照料嚴重失能的孩子，父母為其決定、施以生長抑制處置，使之維持偏小體型──這是符合兒童最佳利益，還是控制孩童的作為？台灣仍尚未有先例，醫師陳利旻以國外案例說明這項處置的原理、爭議與照護者的兩難。",
-        "url": "https://www.twreporter.org/a/opinion-growth-attenuation-therapy",
-        "source": "報導者",
-        "published": "2026-03-26T16:00:00+00:00"
       },
       {
         "id": "01b1d48dfdc6",
@@ -1853,14 +1941,6 @@
         "published": "2026-03-05T16:30:00+00:00"
       },
       {
-        "id": "baec19f04986",
-        "title": "Common workflow patterns for AI agents—and when to use them",
-        "summary": "Common workflow patterns for AI agents—and when to use them",
-        "url": "https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them",
-        "source": "Claude Blog",
-        "published": "2026-03-05T00:00:00+00:00"
-      },
-      {
         "id": "99523ceab6ed",
         "title": "Machinefabriek * Meredith Bates",
         "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
@@ -2220,7 +2300,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-02T17:04:39.455575+00:00"
+        "published": "2026-04-02T19:08:00.989989+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2308,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-02T17:04:39.455565+00:00"
+        "published": "2026-04-02T19:08:00.989978+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2316,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-02T17:04:39.455554+00:00"
+        "published": "2026-04-02T19:08:00.989967+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2324,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-02T17:04:39.455544+00:00"
+        "published": "2026-04-02T19:08:00.989956+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2332,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-02T17:04:39.455534+00:00"
+        "published": "2026-04-02T19:08:00.989945+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2340,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-02T17:04:39.455524+00:00"
+        "published": "2026-04-02T19:08:00.989935+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2348,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-02T17:04:39.455514+00:00"
+        "published": "2026-04-02T19:08:00.989925+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2356,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-02T17:04:39.455505+00:00"
+        "published": "2026-04-02T19:08:00.989913+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2364,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-02T17:04:39.455493+00:00"
+        "published": "2026-04-02T19:08:00.989903+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2372,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-02T17:04:39.455468+00:00"
+        "published": "2026-04-02T19:08:00.989893+00:00"
       },
       {
         "id": "8011af6bbaee",
