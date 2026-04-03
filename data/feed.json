@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-03T15:49:47.705181+00:00",
+  "updated_at": "2026-04-03T16:53:10.771390+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "5b9cd01979e5",
+        "title": "GRIEG Sämtliche Klavierwerke",
+        "summary": "GRIEG  Sämtliche Klavierwerke (8/14) Einar Steen-Nökleberg (Klavier) (1993-94).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/hngf_20260403",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-03T16:10:18+00:00"
+      },
       {
         "id": "4789b67b3490",
         "title": "大樂透第115041期　頭獎槓龜",
@@ -29,7 +37,7 @@
       {
         "id": "de288b52a426",
         "title": "GRIEG Sämtliche Klavierwerke",
-        "summary": "GRIEG  Sämtliche Klavierwerke (1/14) Einar Steen- Nökleberg (Klavier) (1993-94).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
+        "summary": "GRIEG  Sämtliche Klavierwerke (1/14) Einar Steen- Nökleberg (Klavier) (1993-94).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/gbgf_20260403",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-03T13:48:56+00:00"
@@ -137,14 +145,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604030185.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-03T10:01:08+00:00"
-      },
-      {
-        "id": "885a354c84fa",
-        "title": "GURDIJEFF / DE HARTMANN Sacred Hymns",
-        "summary": "GURDIJEFF / DE HARTMANN  Sacred Hymns Keith Jarrett (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/vbdg_20260403",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-03T09:56:34+00:00"
       },
       {
         "id": "ca952cf182cd",
@@ -419,6 +419,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -645,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "05533e727865",
+        "title": "The High Life: The Musical, Still Living It! review – the Alan Cumming creation flies into deliriously silly panto territory",
+        "summary": "Dundee RepCumming and Forbes Masson revive their cult 1994 TV sitcom with brilliant songs and a Beano-esque plot as budget Air Scotia is threatened with takeoverIf someone tells you this musical spin-off from the cult 1994 TV sitcom is like a pantomime, they won’t just mean the jokes. Having been wr...",
+        "url": "https://www.theguardian.com/stage/2026/apr/03/the-high-life-the-musical-still-living-it-review-dundee-rep-alan-cumming",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-03T15:44:55+00:00"
+      },
+      {
         "id": "90dda33cee1a",
         "title": "The Authenticator review – echoes of Sherlock Holmes as thriller takes on toxic legacies with lightness of touch",
         "summary": "Dorfman theatre, LondonComedy infuses Winsome Pinnock’s disarming but ebullient drama about two Black academics who are given the job of authenticating the diaries of an enslaverYou don’t imagine many laughs in a story about enslavement legacies and erased Black histories. But comedy infuses Winsome...",
@@ -659,6 +747,14 @@
         "url": "https://blogs.loc.gov/loc/2026/04/hampton-sides-exploring-the-world-finding-ourselves/",
         "source": "Timeless",
         "published": "2026-04-03T13:00:18+00:00"
+      },
+      {
+        "id": "c6649d1cb360",
+        "title": "‘It was a warning from history – now it’s the bloody muse!’ Mark Gatiss and Placebo on reviving Brecht’s brutal Hitler satire",
+        "summary": "In these turbulent times, The Resistible Rise of Arturo Ui has never been more vital, and returns to the stage starring the Sherlock star and with music by the alt-rockers. But, they say, they don’t just want to preach to the choirWhen the former Conservative MP Nadhim Zahawi defected to the Reform ...",
+        "url": "https://www.theguardian.com/stage/2026/apr/03/resistible-rise-arturo-ui-mark-gatiss-placebo-interview-brecht-swan-theatre-stratford",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-03T12:00:52+00:00"
       },
       {
         "id": "0027ed009bda",
@@ -709,6 +805,14 @@
         "published": "2026-04-03T01:45:48+00:00"
       },
       {
+        "id": "ca6afd1d9b07",
+        "title": "Desmond Barrit obituary",
+        "summary": "Character actor of energetic comic brilliance, notably as Falstaff at&nbsp;the RSC and in Alan Bennett’s&nbsp;The History BoysThe character actor Desmond Barrit, who has died aged 81, was renowned for playing both of Shakespeare’s Falstaffs – in Henry IV and The Merry Wives of Windsor – for the Roya...",
+        "url": "https://www.theguardian.com/stage/2026/apr/02/desmond-barrit-obituary",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-02T16:22:20+00:00"
+      },
+      {
         "id": "c7ad41673771",
         "title": "微软推出最新AI模型，努力寻求AI“自给自足”",
         "summary": "该软件巨头尚未发布能够在编码和文本生成等领域竞争的大语言模型(LLM)，在这些领域落后于市场领军者Anthropic、谷歌和OpenAI。",
@@ -731,6 +835,14 @@
         "url": "https://www.smithsonianmag.com/innovation/sea-stars-can-lose-an-arm-and-soldier-on-what-if-robots-could-do-the-same-180988453/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-04-02T15:47:10+00:00"
+      },
+      {
+        "id": "79d4879755fa",
+        "title": "‘Curated chaos’: Danny Boyle on the ‘pop culture spectacular’ he is bringing to London’s Southbank Centre",
+        "summary": "Director and producer is co-creator of You Are Here, a one-day immersive theatrical event traversing 75 years of youth cultureOut of chaos come great cultural movements, according to the director and producer Danny Boyle, who will inflict a little curated chaos on London’s Southbank Centre with what...",
+        "url": "https://www.theguardian.com/film/2026/apr/02/curated-chaos-danny-boyle-pop-culture-spectacular-london-southbank-centre",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-02T14:39:22+00:00"
       },
       {
         "id": "77a7e8661241",
@@ -965,22 +1077,6 @@
         "published": "2026-03-31T23:49:13+00:00"
       },
       {
-        "id": "aea4d78001e4",
-        "title": "Romeo and Juliet review – overbearing directorial stamp saved by Sadie Sink and Noah Jupe’s chemistry",
-        "summary": "Harold Pinter theatre, LondonYoung stars perfectly encapsulate the uncompromising nature of first love in Robert Icke’s productionHas the conveyor belt from screen-to-stage celebrity turned full circle when a star from a hit TV series steps on to the West End stage in a production that runs contempo...",
-        "url": "https://www.theguardian.com/stage/2026/apr/01/romeo-and-juliet-review-overbearing-directorial-stamp-is-saved-by-dazzling-cast",
-        "source": "Stage | The Guardian",
-        "published": "2026-03-31T23:08:40+00:00"
-      },
-      {
-        "id": "51e4809e9c7b",
-        "title": "Kinky Boots: The Musical review – Strictly’s Johannes Radebe is a perfect fit",
-        "summary": "London ColiseumSuperbly cast, the dancer brings stratospheric levels of charisma to a rather pedestrian show driven by Cyndi Lauper’s songsJohannes Radebe (AKA Jojo from Strictly) is a born performer. He is utterly magnetic on stage, and when he’s dancing you can’t take your eyes off him. The role o...",
-        "url": "https://www.theguardian.com/stage/2026/apr/01/kinky-boots-the-musical-review-strictly-johannes-radebe-cyndi-lauper",
-        "source": "Stage | The Guardian",
-        "published": "2026-03-31T23:01:31+00:00"
-      },
-      {
         "id": "9480249a0cda",
         "title": "Play together with Ableton Live, pt. 1: playing in tune",
         "summary": "Feeling the need to make music making a little less solitary? In this multi-part series, we'll be exploring some resources for adapting Ableton Live to playing with others -- playing in tune, in sync, sharing ideas, and producing together. So let's start as instrumental ensembles do: by tuning up.\nT...",
@@ -1051,14 +1147,6 @@
         "url": "https://www.ftchinese.com/story/001109335",
         "source": "FTChinese RSS - News",
         "published": "2026-03-31T16:00:00+00:00"
-      },
-      {
-        "id": "b8f701ca7551",
-        "title": "In the Print review – Rupert Murdoch hits trade unions with fake news in tense thriller",
-        "summary": "King’s Head theatre, LondonThe media tycoon comes up against union boss Brenda Dean in Robert Khan and Tom Salinsky’s docudrama about the 80s Wapping disputeA teacher in Alan Bennett’s The History Boys says that “there is no period so remote as the recent past”, suggesting that such events are caugh...",
-        "url": "https://www.theguardian.com/stage/2026/mar/31/in-the-print-review-rupert-murdoch-hits-trade-unions-with-fake-news-in-tense-thriller",
-        "source": "Stage | The Guardian",
-        "published": "2026-03-31T14:36:36+00:00"
       },
       {
         "id": "aa801ef5eee0",
@@ -1165,20 +1253,20 @@
         "published": "2026-03-30T16:00:00+00:00"
       },
       {
-        "id": "3b5bb4c7def5",
-        "title": "‘If I didn’t have dwarfism, I’d probably be quite normcore’: Midgitte Bardot on sex, drag and street harassment",
-        "summary": "Their shows caused mayhem. Now Tamm Reynolds – AKA Midgitte Bardot – is really going for the jugular, hitting back at prejudice with a wild new act Most performers want attention when they’re on stage. Tamm Reynolds, however, gets it all the time – even when not dressed in fishnets and push-up bra a...",
-        "url": "https://www.theguardian.com/stage/2026/mar/30/dwarfisme-midgitte-bardot-tamm-reynolds-sex-drag-shooting-from-below",
-        "source": "Stage | The Guardian",
-        "published": "2026-03-30T15:30:38+00:00"
-      },
-      {
         "id": "fe9fa80d7c50",
         "title": "Lost on the ice: The 1897 hydrogen balloon attempt to reach the North Pole",
         "summary": "Only traces remain of Salomon August Andrée’s 1897 attempt to reach the North Pole. From a base on the Svalbard archipelago, the engineer and his two companions had hoped to float a hydrogen balloon gracefully over the pole, drop a Swedish flag and claim the glory of first discovery. Their friends n...",
         "url": "https://blogs.loc.gov/loc/2026/03/lost-on-the-ice-the-1897-hot-air-balloon-attempt-to-reach-the-north-pole/",
         "source": "Timeless",
         "published": "2026-03-30T13:00:49+00:00"
+      },
+      {
+        "id": "dd071938477b",
+        "title": "Spring Clearance",
+        "summary": "So much music, not enough time.... Unfortunately, there are always more albums waiting than I can write about. And sometimes the queue only gets bigger. Below are some albums that have been waiting in vain for me to find the time to write about them but are definitely worth checking out!\n\n\n\n\n\nVARIOU...",
+        "url": "https://www.ambientblog.net/blog/spring-clearance/",
+        "source": "Ambientblog",
+        "published": "2026-03-30T11:23:42+00:00"
       },
       {
         "id": "d1c9a148b994",
@@ -1509,6 +1597,14 @@
         "published": "2026-03-24T13:59:49+00:00"
       },
       {
+        "id": "0bc709e0f72f",
+        "title": "Isabel Pine * Dobrawa Czocher",
+        "summary": "ISABEL PINE - FABLES\n\n\nAfter a few self-released EP-releases in 2021-2023 and a self-released album ('Where The Flowers Grow') in 2024, classical-trained violinist Isabel Pine now gets her well-deserved recognition with this album release. On no less than the legendary Kranky label, mind you! \n\n\nPin...",
+        "url": "https://www.ambientblog.net/blog/pine-czocher/",
+        "source": "Ambientblog",
+        "published": "2026-03-24T07:46:09+00:00"
+      },
+      {
         "id": "be0f75e5a638",
         "title": "Marring our Beaches with Marriages",
         "summary": "It all depends on perspective. To us, the city’s beaches are open lungs, where we can walk, enjoy the air, wet our feet in water and return refreshed. To the fishermen, this is where they earn their living, bringing in the day’s catch and then selling it. To the Government beaches are the plaything ...",
@@ -1637,6 +1733,14 @@
         "published": "2026-03-19T00:00:00+00:00"
       },
       {
+        "id": "d102ec96407c",
+        "title": "Clariloops * Robert Scott Thompson",
+        "summary": "CLARILOOPS - THE QUIET BELOW\n\n\nClariloops is the alias of Ruby (Ester Mae) Lulham, a classically trained clarinetist from Melbourne who merges her clarinet with immersive ambient music to create 'anbient works that fuse wood and wire, breath and signal'.\n\n\nThe Quiet Below was recorded at home wile p...",
+        "url": "https://www.ambientblog.net/blog/clariloops-thompson/",
+        "source": "Ambientblog",
+        "published": "2026-03-18T18:55:29+00:00"
+      },
+      {
         "id": "7d9818ac5a59",
         "title": "幾張紙、塑膠片還有DIY，北商大歐陽芳泉研發「輕教材」搞懂AR是什麼！",
         "summary": "社群上的有趣濾鏡、轉角遇到的那隻寶可夢、出國時拿起手機對準外文菜單，即時翻譯文字像變魔法……生活在「滑時代」， [&#8230;]\nThe post 幾張紙、塑膠片還有DIY，北商大歐陽芳泉研發「輕教材」搞懂AR是什麼！ appeared first on 人文．島嶼.",
@@ -1683,6 +1787,14 @@
         "url": "https://blog.google/company-news/inside-google/around-the-globe/google-africa/ai-research-foundations/",
         "source": "Google DeepMind",
         "published": "2026-03-17T08:00:00+00:00"
+      },
+      {
+        "id": "7562619e5af7",
+        "title": "Myllykoski & Äijälä * Herden & IT904",
+        "summary": "ALEKSI MYLLYKOSKI &amp; VELI-MATTI O ÄIJÄLÄ - HUMANITY\n\n\n\"We live in a world where the everyday life of war is closer to us westerners than ever before.\" Humanity was released on February 20, only a few days before the USA/Israel attack on Iran. Truer words are hardly spoken.\n\n\n'How can we change th...",
+        "url": "https://www.ambientblog.net/blog/humanity-travelogue/",
+        "source": "Ambientblog",
+        "published": "2026-03-13T19:46:52+00:00"
       },
       {
         "id": "bc85577215b2",
@@ -1797,6 +1909,14 @@
         "published": "2026-03-09T00:00:00+00:00"
       },
       {
+        "id": "1e717f67fc3a",
+        "title": "DreamScenes – March 2026",
+        "summary": "A Place Where Silence Feels Safe\n\n\n\n&nbsp;\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:47 Reibung - Burdon To CarryChrysanthemen, 2026\n\n\n02:56 Clariloops - Slowly I WakeShades, 2026, Whitelabrecs\n\n\n06:29 Miles Lee - Charcoal Tide (edit)The Sound Of Dreams, 2026, Inspired By Breathing\n\n\n...",
+        "url": "https://www.ambientblog.net/blog/dreamscenes-march-2026/",
+        "source": "Ambientblog",
+        "published": "2026-03-08T18:55:00+00:00"
+      },
+      {
         "id": "e93814826cf0",
         "title": "NO.80－牯嶺街小劇場文化報",
         "summary": "NO.80－牯嶺街小劇場文化報 2026.03-2026.05 / 專題｜2025年度節目選拔計畫 專文｜復活 [&#8230;]",
@@ -1827,6 +1947,14 @@
         "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
         "source": "Google DeepMind",
         "published": "2026-03-05T16:30:00+00:00"
+      },
+      {
+        "id": "99523ceab6ed",
+        "title": "Machinefabriek * Meredith Bates",
+        "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
+        "url": "https://www.ambientblog.net/blog/machinefabriek-bates/",
+        "source": "Ambientblog",
+        "published": "2026-03-04T18:49:30+00:00"
       },
       {
         "id": "1c2e501eb61b",
@@ -1867,6 +1995,14 @@
         "url": "https://www.transglobalwmc.com/charts/march-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-02-28T23:06:44+00:00"
+      },
+      {
+        "id": "a992f8790179",
+        "title": "Andreas Voelk & Scott Monteith * Deadbeat",
+        "summary": "ANDREAS VOELK &amp; SCOTT MONTEITH - AND ALL THE CLOCKS RAN DRY\n\n\nUntil now I never heard of Andreas Voelk (from Berlin) or from his bands Das Ende Der Liebe and Center For Mind And Brain. Canadian Scott Monteith, on the other hand, is of course well known from his Deadbeat alias.\n\n\nAnd All The Cloc...",
+        "url": "https://www.ambientblog.net/blog/voelkmonteith-deadbeat/",
+        "source": "Ambientblog",
+        "published": "2026-02-28T18:12:33+00:00"
       },
       {
         "id": "41fd99be8d4e",
@@ -1917,6 +2053,22 @@
         "published": "2026-02-24T08:45:00+00:00"
       },
       {
+        "id": "efbfa794b124",
+        "title": "Isobel Waller-Bridge * Bolton / Cordero",
+        "summary": "ISOBEL WALLER-BRIDGE - OBJECTS\n\n\nHer name may ring a distant bell: Isobel Waller-Bridge is the sister of Phoebe Waller-Bridge, who you may remember from the Fleabag series. Isobel composed the music for Fleabag, as well as many other scores for film, television, theatre and ballet. \n\n\nBut apart from...",
+        "url": "https://www.ambientblog.net/blog/wallerbridge-boltoncordero/",
+        "source": "Ambientblog",
+        "published": "2026-02-23T18:31:37+00:00"
+      },
+      {
+        "id": "9b120dd01b07",
+        "title": "Clara Brea & Menhir * Kult Masek & Petr Vrba",
+        "summary": "CLARA BREA &amp; MENHIR - GROWING FORESTS IN THE CITY\n\n\nIn 2022, the Astral Industries label released The Wetland Remixes - a collaboration project of Son Of Chi (Hanyo van Oosterom, from Holland) and Spanish artist Clara Brea. The original stems of the 'Wetland Project' were remixed by Son Of Chi a...",
+        "url": "https://www.ambientblog.net/blog/cbreamenhir-kultmasek-vrba/",
+        "source": "Ambientblog",
+        "published": "2026-02-18T19:37:40+00:00"
+      },
+      {
         "id": "ce430890dc55",
         "title": "What Is Skimo? The Newest Olympic Sport Has a Long History in Europe",
         "summary": "With roots in military training, high-endurance ski mountaineering is finally catching on in the United States",
@@ -1939,6 +2091,14 @@
         "url": "https://aseanplusjournal.com/2026/02/17/aseanweekly313/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-02-16T18:43:40+00:00"
+      },
+      {
+        "id": "afbc3f5ca2dd",
+        "title": "Eaton & Fullen * Volume Settings Folder",
+        "summary": "EATON &amp; FULLEN - BUTTERFLY COMPOUND\n\n\nFrank Eaton and Kevin Fullen are founders of the Noise New York recording studio - \"hotbed of the No Wave Movement\". The instrumental, psychedelic and ambient soundscapes they present as the Eaton/Fullen duo is not what I remember from that particular 70's s...",
+        "url": "https://www.ambientblog.net/blog/eaton-fullen-volume-settings-folder/",
+        "source": "Ambientblog",
+        "published": "2026-02-13T16:08:11+00:00"
       },
       {
         "id": "e795181f01f6",
@@ -2140,7 +2300,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-03T15:49:47.704747+00:00"
+        "published": "2026-04-03T16:53:10.770895+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2148,7 +2308,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-03T15:49:47.704737+00:00"
+        "published": "2026-04-03T16:53:10.770883+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2156,7 +2316,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-03T15:49:47.704726+00:00"
+        "published": "2026-04-03T16:53:10.770873+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2164,7 +2324,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-03T15:49:47.704716+00:00"
+        "published": "2026-04-03T16:53:10.770862+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2172,7 +2332,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-03T15:49:47.704705+00:00"
+        "published": "2026-04-03T16:53:10.770852+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2180,7 +2340,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-03T15:49:47.704695+00:00"
+        "published": "2026-04-03T16:53:10.770842+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2188,7 +2348,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-03T15:49:47.704684+00:00"
+        "published": "2026-04-03T16:53:10.770832+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2196,7 +2356,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-03T15:49:47.704674+00:00"
+        "published": "2026-04-03T16:53:10.770821+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2204,7 +2364,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-03T15:49:47.704664+00:00"
+        "published": "2026-04-03T16:53:10.770811+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2212,7 +2372,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-03T15:49:47.704653+00:00"
+        "published": "2026-04-03T16:53:10.770801+00:00"
       },
       {
         "id": "0d84ac0a58d1",
@@ -2261,14 +2421,6 @@
         "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8304-08-%e6%98%a5%e6%9a%96%e8%8a%b1%e9%96%8b%e5%9b%9b%e6%9c%88%e5%a4%a9%ef%bc%8c%e5%88%86%e4%ba%ab%e6%9c%83%e7%9a%84%e8%aa%a0%e6%91%af%e9%82%80%e7%b4%84/",
         "source": "最新消息 – 臺灣音聲100年",
         "published": "2026-03-31T07:54:48+00:00"
-      },
-      {
-        "id": "bc3ee037d342",
-        "title": "Summary of changes for March 2026",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of March.\n\n\n  Wiki, documented the replacement of Pino's backstay, and created a project page for No Bears, None.\n  Hakum, completed page 10 of Sabotage Study.\n  Rabbit Waves, added a comic page.\n  Grimgrain...",
-        "url": "https://100r.ca/site/log.html#mar2026",
-        "source": "Hundred Rabbits",
-        "published": "2026-03-31T07:00:00+00:00"
       },
       {
         "id": "e8c482df7c55",
@@ -2413,14 +2565,6 @@
         "url": "https://www.min-on.org/zh-hant/14713/%e7%99%bd%e4%bf%84%e7%be%85%e6%96%af%e9%a7%90%e6%97%a5%e4%bd%bf%e9%a4%a8%e8%87%a8%e6%99%82%e4%bb%a3%e8%be%a6%e9%80%a0%e8%a8%aa%e6%b0%91%e9%9f%b3%e6%96%87%e5%8c%96%e4%b8%ad%e5%bf%83/",
         "source": "Chinese Traditional – Min-On Website",
         "published": "2026-03-04T08:00:13+00:00"
-      },
-      {
-        "id": "250178c94bdc",
-        "title": "Summary of changes for February 2026",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of February.\n\n\n\n  Wiki, updated knots with a figure-eight follow-through knot, also, Pino has a new headsail!\n  Pavol, created a volume control tool.\n  Adelie, made it so images are drawn faster.\n  Turye, ad...",
-        "url": "https://100r.ca/site/log.html#feb2026",
-        "source": "Hundred Rabbits",
-        "published": "2026-03-01T07:00:00+00:00"
       },
       {
         "id": "d9cf598951e9",
@@ -2589,14 +2733,6 @@
         "url": "https://www.min-on.org/zh-hant/14681/%e6%b0%91%e9%9f%b3%e6%8e%a2%e6%88%88%e7%b3%bb%e5%88%97%e7%ac%ac55%e8%bc%af%ef%bc%9a%e5%b7%b4%e5%8b%83%e7%be%85%c2%b7%e7%93%a6%e8%90%8a%e5%85%ad%e9%87%8d%e5%a5%8f%e5%95%9f%e5%8b%95%e6%97%a5%e6%9c%ac/",
         "source": "Chinese Traditional – Min-On Website",
         "published": "2026-02-02T08:30:14+00:00"
-      },
-      {
-        "id": "4b37c3fda55f",
-        "title": "Summary of changes for January 2026",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of January.\n\n\n\n  Uxn, we released a new SDL2 emulator called uxn2 to replace the ol' uxnemu!\n  Wiki, updated moisture prevention underliner, chainplates(with new photos and measurements), and sewing.\n  Punk ...",
-        "url": "https://100r.ca/site/log.html#jan2026",
-        "source": "Hundred Rabbits",
-        "published": "2026-01-31T07:00:00+00:00"
       },
       {
         "id": "eed4ee2be99a",
@@ -2823,14 +2959,6 @@
         "published": "2025-12-02T19:23:40+00:00"
       },
       {
-        "id": "d099b3366c96",
-        "title": "Summary of changes for November 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of November.\n\n\n\n\n  Thousand Rooms, added an English version with one type of dyslexia-friendly typeface. A Danish version is also on the way.\n  Orca, improved the interface, released an Orca Cheatsheet for a...",
-        "url": "https://100r.ca/site/log.html#nov2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-12-02T07:00:00+00:00"
-      },
-      {
         "id": "c45d2faefd53",
         "title": "臺灣AI新聞產業變革：經濟效益及人才轉型",
         "summary": "口述：李怡志（政治大學傳播學院助理教授）撰稿：吳思嬋圖片來源：https://www.pexels.com/zh-tw/photo/3861969/降本增效的困境與AI浪潮下的產業差異台灣的新聞產業結構與國際社會存在顯著差異 。相較於部分國家（如日本）的媒體規模較小且數量有限，台灣的媒體數量眾多 。在這種高度競爭的環境下，台灣多數媒體的經營模式傾向於「降本增效」 。他們試圖以極低的成本賺取利潤，而主要的獲利來源單一，即廣告收入 。這導致媒體必須以極低的價格來產生內容，才能確保獲利空間 。然而，無論是台灣或國際上的大型正規新聞機構，都無法忽視數位化與人工智慧（AI）帶來的衝擊與機遇 。AI對新聞...",
@@ -2935,14 +3063,6 @@
         "published": "2025-11-03T08:46:08+00:00"
       },
       {
-        "id": "3faa169e142e",
-        "title": "Summary of changes for October 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of October.\n\n\n\n\n  CCCC, added a factorization mode.\n  Bagel, wrote about a cursed programming language idea where instead of cons cells, s-exp represent unordered lists.\n  Rabbit Waves, released a new page c...",
-        "url": "https://100r.ca/site/log.html#oct2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-11-02T07:00:00+00:00"
-      },
-      {
         "id": "5101beb3a79c",
         "title": "中央社應該示範「快更正、慢懲處」的公共專業",
         "summary": "文／杜聖聰（銘傳大學廣電系主任）TIME 刊出美國學者投書，以 “reckless leader（魯莽的領導人）” 形容賴清德總統。中央社撰稿時將投書誤當該刊「報導」，隨後已校正標題與內文，並宣布對記者、編輯與督導主管懲處。事件迅速延燒，焦點不只是誰說了什麼，而是國家通訊社面對編採瑕疵時，該用什麼方法回應公眾。中央社的法律定位清楚載明：以「辦理國家新聞通訊業務」、服務國內外媒體、促進國際新聞交流為宗旨。本質上，它既是新聞專業機構，同時也是國家資訊節點。正因如此，它的一舉一動，攸關台灣新聞倫理與民主公共性的示範效應。當面對流程失靈，首要之務應是制度化的自律與透明，而非迅速的懲處。把投書誤作報導，...",
@@ -2981,14 +3101,6 @@
         "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/10/14/fostering-cultural-collaboration-carlos-guedes-at-dcts-expert-module/",
         "source": "Music and Sound Cultures",
         "published": "2025-10-14T08:53:10+00:00"
-      },
-      {
-        "id": "f95c53f55137",
-        "title": "Summary of changes for September 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of September.\n\n\n\n\n  Noodle, redesigned the interface.\n  Wiki, updated  with a new photo.\n  Punk Rabbits, completed 19 new rabbits(#35-53).\n  NanoTalk, released a Nanochat client, written in Tal.\n\n\nAs promise...",
-        "url": "https://100r.ca/site/log.html#sep2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-10-01T07:00:00+00:00"
       },
       {
         "id": "bb6cd6e8f170",
@@ -3047,14 +3159,6 @@
         "published": "2025-09-02T01:00:25+00:00"
       },
       {
-        "id": "08d44c362b05",
-        "title": "Summary of changes for August 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of August.\n\n\n\n\n  Wiktopher, updated songs.\n  100r.ca, updated cast iron cookware(seasoning oil suggestions).\n  Punk Rabbits, completed 15 new rabbits(#19-34).\n  Orca, pushed a little update that includes the...",
-        "url": "https://100r.ca/site/log.html#aug2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-08-31T07:00:00+00:00"
-      },
-      {
         "id": "fdeb8e762695",
         "title": "“I Have a Theory Too”: The Challenge and Opportunity of Avocational Science",
         "summary": "Theories of the World Several often arrive in a single day. Sometimes they’re marked “urgent”. Sometimes they’re long. Sometimes they’re short. Sometimes they’re humble. Sometimes they’re conspiratorial. And sometimes, these days, they’re written “in collaboration with” an AI. But there’s a common t...",
@@ -3077,14 +3181,6 @@
         "url": "https://writings.stephenwolfram.com/2025/08/new-features-everywhere-launching-version-14-3-of-wolfram-language-mathematica/",
         "source": "Stephen Wolfram Writings",
         "published": "2025-08-05T17:52:24+00:00"
-      },
-      {
-        "id": "3a6af666fb8c",
-        "title": "Summary of changes for July 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of July.\n\n\n\n\n  Catjam 2025, finished a small game called Polycat!\n  100r.ca, added Vancouver Island West Coast, Ucluelet, Port San Juan, Juan de Fuca Strait and Cadboro Bay.\n  Theme Editor, made a nicer them...",
-        "url": "https://100r.ca/site/log.html#jul2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-08-01T07:00:00+00:00"
       },
       {
         "id": "e463940bee9f",
@@ -3119,14 +3215,6 @@
         "published": "2025-06-03T13:24:36+00:00"
       },
       {
-        "id": "78bbc5e1b154",
-        "title": "Summary of changes for May 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of May.\n\n\n\n\n  100r.ca, updated Oquonie and water.\n  Modal, the interpreter was ported to Uxn!\n  Uxntal, the documentation has been completely redone!\n  Hakum, added page 7 and page 8 of Sabotage Study.\n\n\nOqu...",
-        "url": "https://100r.ca/site/log.html#may2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-05-31T07:00:00+00:00"
-      },
-      {
         "id": "32d54605b761",
         "title": "What If We Had Bigger Brains? Imagining Minds beyond Ours",
         "summary": "Cats Don’t Talk We humans have perhaps 100 billion neurons in our brains. But what if we had many more? Or what if the AIs we built effectively had many more? What kinds of things might then become possible? At 100 billion neurons, we know, for example, that compositional language of the kind we hum...",
@@ -3149,14 +3237,6 @@
         "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/05/02/new-release-the-songs-of-shihuh-women/",
         "source": "Music and Sound Cultures",
         "published": "2025-05-02T17:08:17+00:00"
-      },
-      {
-        "id": "a79f71b9ae19",
-        "title": "Summary of changes for June 2025",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of June.\n\n\n\n\n  100r.ca, updated costs, hauling out, united states and teapot gelcoat. Added san juan islands.\n  Rabbit Waves, added all content links to the main page, released a new page called Boatswain's ...",
-        "url": "https://100r.ca/site/log.html#june2025",
-        "source": "Hundred Rabbits",
-        "published": "2025-05-02T07:00:00+00:00"
       },
       {
         "id": "c01739412e2a",
