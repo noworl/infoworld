@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-04-04T02:50:04.239278+00:00",
+  "updated_at": "2026-04-04T04:58:38.987135+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "c3c4ba58a39f",
+        "title": "氣象署：地磁擾動18小時　最大規模中度磁暴",
+        "summary": "（中央社記者吳欣紜台北4日電）中央氣象署太空天氣作業辦公室今天發布地磁擾動示警，因地球磁場擾動指數遽增，預期短暫達到中度等級，影響時間約18個小時，衛星導航、低頻與高頻無線電通訊可能短暫中斷。",
+        "url": "https://www.cna.com.tw/news/ahel/202604040065.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-04T03:47:00+00:00"
+      },
+      {
+        "id": "00baf90ead7d",
+        "title": "大雨襲竹縣北埔、峨眉　消防救出10多名受困民眾",
+        "summary": "（中央社記者魯鋼駿新竹縣4日電）新竹縣今天凌晨起受強降雨襲擊，北埔鄉南坑村及峨眉鄉中盛村一帶因水位驟升造成民眾受困，新竹縣消防局獲報前往救援，共計救出10多名受困大人及孩童，所幸全員平安。其他地區也傳出零星災情。",
+        "url": "https://www.cna.com.tw/news/ahel/202604040064.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-04T03:42:58+00:00"
+      },
+      {
+        "id": "f32f677f418b",
+        "title": "學校午餐輔導團　提升學生鈣質攝取列年度重點",
+        "summary": "（中央社記者陳至中台北4日電）縣市陸續調整學校午餐（俗稱營養午餐）政策，近期成為社會討論焦點。教育部透過輔導團，帶動中小學飲食教育，民國115年度將提升學生鈣質攝取列為重點。",
+        "url": "https://www.cna.com.tw/news/ahel/202604040062.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-04T03:39:54+00:00"
+      },
+      {
+        "id": "9bb8e7482c55",
+        "title": "氣象署發布豪雨特報　苗栗縣防大豪雨",
+        "summary": "（中央社台北4日電）中央氣象署發布最新豪雨特報，今天受鋒面影響，易有短延時強降雨，苗栗縣有局部豪雨或大豪雨；新竹縣、台中市及彰化縣有局部大雨或豪雨，請民眾注意。",
+        "url": "https://www.cna.com.tw/news/ahel/202604040058.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-04T03:30:45+00:00"
+      },
+      {
+        "id": "aad456d913a2",
+        "title": "調查：小學生嚮往運動員、電競選手　不喜歡當老師",
+        "summary": "（中央社記者陳至中台北4日電）今天是兒童節，國語日報社公布2026年「兒少大未來」職業探索問卷調查結果，運動員蟬聯小學生最嚮往職業，其次是電競選手、網紅；教師則首度進入最不喜歡職業前10名。",
+        "url": "https://www.cna.com.tw/news/ahel/202604040056.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-04T03:22:41+00:00"
+      },
+      {
+        "id": "525a7cd1461b",
+        "title": "竹縣五峰鄉多處道路大雨成災　公所人員進駐搶修",
+        "summary": "（中央社記者魯鋼駿新竹縣4日電）今天大雨造成新竹縣山區多處邊坡溢流、路樹倒塌及道路積水。縣長楊文科說，五峰鄉多處道路出現災情，公所人員進駐搶修，縣府各單位也全面動員巡查，呼籲民眾外出注意安全。",
+        "url": "https://www.cna.com.tw/news/ahel/202604040043.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-04T03:05:14+00:00"
+      },
       {
         "id": "5d52a999b5ae",
         "title": "網紅課稅新制輔導期倒數　專家提醒及早建立相關流程",
@@ -33,54 +81,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604040023.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-04T01:37:30+00:00"
-      },
-      {
-        "id": "40c03779635b",
-        "title": "苗栗市區及地下道淹水　道路封閉民眾被迫改道[影]",
-        "summary": "（中央社記者魯鋼駿苗栗縣4日電）苗栗地區今天大雨造成通霄發電廠周邊淹水；後龍鎮造豐路與高鐵苗栗站周邊水深達輪胎高；頭份市光華北路、苗栗市家樂福周邊道路及建功地下道均淹水，許多地區已拉起封鎖線，民眾被迫改道。",
-        "url": "https://www.cna.com.tw/news/ahel/202604040022.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-04T01:23:28+00:00"
-      },
-      {
-        "id": "ee26ddd51f37",
-        "title": "雷雨影響 台中機場暫停地面作業",
-        "summary": "（中央社記者余曉涵台北4日電）受到雷雨影響，台中機場從今天上午8時16分起暫停地面作業，部分航班可能延誤，提醒旅客留意。",
-        "url": "https://www.cna.com.tw/news/ahel/202604040020.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-04T01:05:23+00:00"
-      },
-      {
-        "id": "46aa572af3e2",
-        "title": "竹苗豪雨影響 台鐵西部幹線部分路段單線行車",
-        "summary": "（中央社記者余曉涵台北4日電）台鐵苗栗到竹南間受豪雨影響水淹過鐵軌，目前苗栗到竹南間暫時以西正線雙向行車，部分列車將提前折返；大山到後龍間也一度水淹軌道，目前積水消退恢復行駛。",
-        "url": "https://www.cna.com.tw/news/ahel/202604040017.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-04T00:48:17+00:00"
-      },
-      {
-        "id": "0aea9f1d8cb7",
-        "title": "清明連假第2天 國道上午估8路段壅塞",
-        "summary": "（中央社記者余曉涵台北4日電）今天是清明連假第2天，根據即時路況顯示，上午8時左右國道全線大致正常。高公局預估，今天上午包含國1南向高架機場系統-楊梅端等8路段恐車多壅塞。",
-        "url": "https://www.cna.com.tw/news/ahel/202604040016.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-04T00:48:15+00:00"
-      },
-      {
-        "id": "8770e9ff9a10",
-        "title": "竹苗中豪雨特報 台中市太平區防山區暴雨",
-        "summary": "（中央社記者吳欣紜台北4日電）交通部中央氣象署今天上午發布豪雨特報，鋒面影響，新竹縣、苗栗縣有局部豪雨或大豪雨，台中市及新竹市有局部大雨或豪雨發生；另也針對台中市太平區發布山區暴雨災防告警。",
-        "url": "https://www.cna.com.tw/news/ahel/202604040014.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-04T00:38:10+00:00"
-      },
-      {
-        "id": "99fe24e1fb1a",
-        "title": "竹苗防大豪雨 吳德榮：鋒面移入留意強降雨威脅",
-        "summary": "（中央社記者吳欣紜台北4日電）氣象署今天發布豪雨特報，新竹縣及苗栗縣有局部豪雨或大豪雨。氣象專家吳德榮表示，今天鋒面移入帶來局部陣雨或雷雨，期間應留意強降雨威脅，北台天氣轉涼。",
-        "url": "https://www.cna.com.tw/news/ahel/202604040012.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-04T00:25:06+00:00"
       },
       {
         "id": "612a02231214",
@@ -419,86 +419,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -725,6 +645,14 @@
     ],
     "破(day)": [
       {
+        "id": "7e4d4ac1f589",
+        "title": "蘭陽舞蹈團創辦人秘克琳神父辭世　享壽91歲",
+        "summary": "（中央社記者沈如峰宜蘭縣4日電）宜蘭羅東聖母醫院表示，來自義大利、1935年出生的秘克琳神父，一生奉獻於文化藝術與蘭陽平原，創辦蘭陽舞蹈團，也是宜蘭童玩節重要推手，今天安詳辭世，享耆壽91歲。",
+        "url": "https://www.cna.com.tw/news/acul/202604040041.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-04T02:56:09+00:00"
+      },
+      {
         "id": "4989013dc5b4",
         "title": "現場》小團隊怎麼辦一場國際文學節：專訪立陶宛兒童文學節Creator Island創辦人Kotryna Zylė",
         "summary": "Q：可以請你簡單介紹一下「創作者島」和「童書島」是什麼嗎？\n齊萊：創作者島在2025年已經變成一個為期3天的活動，我們叫它「兒童文學產業日」（Children’s Literature Industry Days）。這是個非常國際化的活動，這種3日活動的形式已經維持了大概4年。最一開始只是給立陶宛本地人的一場小研討會，後來開始邀請國外來賓，而現在大部分講者都來自國外。我們會簡單介紹立陶宛的創作者，像是活動交談或展示書籍，但更重要的是從講者身上學到很多東西，也交到新朋友，甚至促成未來的合作。\n活動的核心想法從頭到尾都沒變，就是創造一個讓童書專業人士聚在一起、大人對大人交流的場合。因為童書作者、插...",
@@ -931,14 +859,6 @@
         "url": "https://www.theguardian.com/stage/2026/apr/02/what-im-here-for-review-tron-glasgow",
         "source": "Stage | The Guardian",
         "published": "2026-04-02T10:16:05+00:00"
-      },
-      {
-        "id": "681bb3ef4192",
-        "title": "「最美國防教科書」色彩插畫有巧思　原創角色伴讀學防災",
-        "summary": "（中央社記者王寶兒台北2日電）打破教科書刻板印象，在設研院媒合下，一步工作室與老字號集團幼獅文化合作，運用色彩、插畫等元素重新改造國防課本，還融入原創角色紙上伴讀，引領學生吸收日常防災知識。",
-        "url": "https://www.cna.com.tw/news/acul/202604020242.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-02T09:10:36+00:00"
       },
       {
         "id": "ded0eff4bc4f",
@@ -2300,7 +2220,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T02:50:04.238788+00:00"
+        "published": "2026-04-04T04:58:38.986621+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2228,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T02:50:04.238778+00:00"
+        "published": "2026-04-04T04:58:38.986610+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2236,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T02:50:04.238768+00:00"
+        "published": "2026-04-04T04:58:38.986600+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2244,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T02:50:04.238757+00:00"
+        "published": "2026-04-04T04:58:38.986590+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2252,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T02:50:04.238747+00:00"
+        "published": "2026-04-04T04:58:38.986580+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2260,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T02:50:04.238737+00:00"
+        "published": "2026-04-04T04:58:38.986570+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2268,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T02:50:04.238726+00:00"
+        "published": "2026-04-04T04:58:38.986560+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2276,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T02:50:04.238714+00:00"
+        "published": "2026-04-04T04:58:38.986550+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2284,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T02:50:04.238704+00:00"
+        "published": "2026-04-04T04:58:38.986539+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2292,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T02:50:04.238694+00:00"
+        "published": "2026-04-04T04:58:38.986529+00:00"
       },
       {
         "id": "0d84ac0a58d1",
