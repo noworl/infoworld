@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-04-04T23:39:22.495076+00:00",
+  "updated_at": "2026-04-05T03:27:38.603741+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "4abf0298fa64",
+        "title": "花蓮規模5.7地震115年最大　氣象署：獨立事件、板塊碰撞所致",
+        "summary": "（中央社記者張雄風台北5日電）根據中央氣象署資訊，今天凌晨花蓮發生規模5.7地震，為今年迄今最大，成因是菲律賓海板塊隱沒到歐亞大陸板塊發生碰撞所致；本起地震為獨立事件。",
+        "url": "https://www.cna.com.tw/news/ahel/202604050018.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-05T01:20:35+00:00"
+      },
+      {
+        "id": "2fe893cfb47e",
+        "title": "清明連假第3天 國5北向等路段上午恐壅塞",
+        "summary": "（中央社記者余曉涵台北5日電）今天是清明連假第3天，高公局說，預估今天上午重點壅塞路段為國1北向圓山-大華系統及國5北向宜蘭-坪林等路段，提醒用路人留意。",
+        "url": "https://www.cna.com.tw/news/ahel/202604050014.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-05T01:02:26+00:00"
+      },
+      {
+        "id": "a1afb25142f7",
+        "title": "清明節降雨減緩　吳德榮：7日鋒面再南下防雷陣雨",
+        "summary": "（中央社記者張雄風台北5日電）氣象專家吳德榮表示，今鋒面減弱降雨緩，各地氣溫略升，7日鋒面再南移，中部以北轉有局部陣雨或雷雨，8日鋒面減弱、氣溫回升；9至14日各地天氣穩定、白天「熱如盛夏」。",
+        "url": "https://www.cna.com.tw/news/ahel/202604050013.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-05T00:51:24+00:00"
+      },
+      {
+        "id": "19047babe055",
+        "title": "台灣之光  陳美安將掌曼哈頓音樂學院指揮系主任",
+        "summary": "（中央社記者趙靜瑜台北5日電）美國知名音樂學院曼哈頓音樂學院宣布，邀請出身高雄的指揮家陳美安出任管弦樂活動總監兼指揮系主任，7月正式上任。陳美安說，期待能為新生代音樂學子帶來更專業的實務視野。",
+        "url": "https://www.cna.com.tw/news/acul/202604050011.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-05T00:30:19+00:00"
+      },
+      {
         "id": "be6ba7c05ea5",
-        "title": "花蓮深夜清晨連2震規模5.7、4.8　未來3天可能有餘震",
+        "title": "花蓮深夜清晨連2震規模5.7、4.8　未來3天可能餘震",
         "summary": "（中央社台北5日電）根據中央氣象署最新資訊，5日凌晨花蓮縣外海連續發生兩次地震，最大為芮氏規模5.7，氣象署表示，這是今年迄今最大地震，未來3天不排除有規模5至5.5餘震。",
         "url": "https://www.cna.com.tw/news/ahel/202604050008.aspx",
         "source": "中央社即時新聞 生活醫藥",
@@ -107,14 +139,6 @@
         "published": "2026-04-04T12:42:09+00:00"
       },
       {
-        "id": "c70c29ba9190",
-        "title": "王婷攝影個展金門4/11登場 「磁層」可以詩可以畫",
-        "summary": "（中央社記者邱祖胤台北4日電）藝術家、詩人王婷將舉辦「磁層：可以詩可以畫—王婷攝影個展」，用鏡頭思考世界、感受生命，11日在她的故鄉金門展出。",
-        "url": "https://www.cna.com.tw/news/acul/202604040205.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-04T12:41:07+00:00"
-      },
-      {
         "id": "e28f86738420",
         "title": "GUBAIDULINA Sieben Worte",
         "summary": "GUBAIDULINA  Sieben Worte Elsbeth Moser (Bajan) Maria Kliegel (Violonello) Camerata Transsylvanica György Selmeczi (1995).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
@@ -145,30 +169,6 @@
         "url": "https://archive.org/details/bcbdyg",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-04T11:47:28+00:00"
-      },
-      {
-        "id": "c76a745c44fd",
-        "title": "雷雨影響  台中機場晚間暫停地面作業",
-        "summary": "（中央社記者余曉涵台北4日電）受到雷雨影響，民航局說，台中機場從今天晚間7時2分起，暫停地面作業，部分航班可能因此延誤。",
-        "url": "https://www.cna.com.tw/news/ahel/202604040194.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-04T11:17:42+00:00"
-      },
-      {
-        "id": "5766e8730c2c",
-        "title": "清明連假第3天　估國道14路段車多易塞",
-        "summary": "（中央社記者余曉涵台北4日電）根據即時路況顯示，今天晚間6時30分左右，國道只剩零星路段壅塞，明天是清明連假第3天，預估包含國1北向西螺-埔鹽系統等14路段恐有車多壅塞情形。",
-        "url": "https://www.cna.com.tw/news/ahel/202604040192.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-04T11:15:38+00:00"
-      },
-      {
-        "id": "c47422f54636",
-        "title": "雷雨影響  台南機場晚間再度暫停地面作業",
-        "summary": "（中央社記者余曉涵台北4日電）受到雷雨影響，台南機場今天下午一度停止地面作業，影響航班4架次，晚間6時40分台南機場再度因雷雨暫停地面作業，航班可能有所延誤。",
-        "url": "https://www.cna.com.tw/news/ahel/202604040190.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-04T11:03:34+00:00"
       },
       {
         "id": "69a028c749c9",
@@ -419,6 +419,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -645,6 +725,30 @@
     ],
     "破(day)": [
       {
+        "id": "a32027048ab5",
+        "title": "現場》雜亂建築是人最誠實的模樣——泰國建築師查猜萬．蘇汪薩瓦的深夜臺北市場走讀",
+        "summary": "凌晨5點，濱江果菜市場的店招還沒亮起，水果攤老闆已照例陳列好商品，坐在攤位深處的黑暗中滑著手機，等待稍晚早市的人潮。\n「請問這是你自己設計的嗎？」人聲浩蕩中，一個女聲從攤位前傳來。口譯人員向老闆傳達的，是泰國建築師查猜萬．蘇汪薩瓦（Chatchavan Suwansawat, ชัชวาล สุวรรณสวัสดิ์）的好奇——他是近日出版《泰式街頭雜亂建築》的作者。\n查猜萬手指著老闆頭上那張用塑帶固定、倒掛的木桌：它以俯角清楚展示水果攤的店名，桌板上更形成一個巨大的空間，托起珍珠網套、塑膠袋等營業用的包材。\n老闆似乎不曾被問過這個問題，他有些疑惑地撓撓頭，隨即旋開攤位的燈泡，看著一行人的笑容...",
+        "url": "https://www.openbook.org.tw/article/p-72478",
+        "source": "Openbook閱讀誌",
+        "published": "2026-04-05T02:00:00+00:00"
+      },
+      {
+        "id": "efb90a2a6b9c",
+        "title": "迪化街米行「和豐商行」老宅　北市核定為歷史建築",
+        "summary": "（中央社記者楊淑閔台北5日電）老厝林立的大稻埕新增一處歷史建築，台北市文資會近日審議迪化街一段270號、前身為銷售米的「和豐商行」百年磚木造建築，外觀具藝術價值且見證二戰後期，核定為歷史建築。",
+        "url": "https://www.cna.com.tw/news/acul/202604050022.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-05T01:46:43+00:00"
+      },
+      {
+        "id": "19047babe055",
+        "title": "台灣之光　陳美安將掌曼哈頓音樂學院指揮系主任【專訪】",
+        "summary": "（中央社記者趙靜瑜台北5日電）美國知名音樂學院曼哈頓音樂學院宣布，邀請出身高雄的指揮家陳美安出任管弦樂活動總監兼指揮系主任，7月正式上任。陳美安說，期待能為新生代音樂學子帶來更專業的實務視野。",
+        "url": "https://www.cna.com.tw/news/acul/202604050011.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-05T00:30:19+00:00"
+      },
+      {
         "id": "f44ee1413d5f",
         "title": "SP-404MKII side chain compression; #404day videos",
         "summary": "SP-404MKII version 5.50 brings two long-awaited features &#8212; side chain compression and exFAT SD compatibility. Here are those details, plus a #404day round-up of the fabulous videos you&#8217;re making. #404day has come to a conclusion in Japan &#8212; but that means my feed is alive with the s...",
@@ -789,6 +893,22 @@
         "published": "2026-04-02T16:22:20+00:00"
       },
       {
+        "id": "c7ad41673771",
+        "title": "微软推出最新AI模型，努力寻求AI“自给自足”",
+        "summary": "该软件巨头尚未发布能够在编码和文本生成等领域竞争的大语言模型(LLM)，在这些领域落后于市场领军者Anthropic、谷歌和OpenAI。",
+        "url": "https://www.ftchinese.com/story/001109369",
+        "source": "FTChinese RSS - News",
+        "published": "2026-04-02T16:00:00+00:00"
+      },
+      {
+        "id": "010e4beced8b",
+        "title": "连续三度无缘世界杯，意大利足协面对各方怒火",
+        "summary": "在美加墨世界杯预选赛的欧洲区附加赛中，意大利队被波黑队淘汰，自2006年以来连续第三次无缘世界杯决赛阶段。此次输球在热爱足球的意大利国内引发广泛愤怒。",
+        "url": "https://www.ftchinese.com/story/001109367",
+        "source": "FTChinese RSS - News",
+        "published": "2026-04-02T16:00:00+00:00"
+      },
+      {
         "id": "8d4eeac5b13c",
         "title": "Sea Stars Can Lose an Arm and Soldier On. What If Robots Could Do the Same?",
         "summary": "Bioinspiration looks to nature for clues on how to build more efficient, resilient robots",
@@ -811,22 +931,6 @@
         "url": "https://www.cna.com.tw/news/acul/202604020352.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-04-02T13:12:30+00:00"
-      },
-      {
-        "id": "adc97e5e21cc",
-        "title": "「南方時光」揭幕巴黎台灣電影節  回望首屆總統直選",
-        "summary": "（中央社記者李若韻巴黎2日專電）由文化部支持的「巴黎台灣電影節」於1日開幕，為期10天。開幕片「南方時光」為本屆焦點影人曹仕翰作品，以少年視角回望1996年台灣首屆總統直選前夕，在台海飛彈危機下的高雄家庭物語。法國影評人傅洛東主持映後座談。",
-        "url": "https://www.cna.com.tw/news/acul/202604020337.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-02T12:20:59+00:00"
-      },
-      {
-        "id": "7a0e1fc95822",
-        "title": "入布克國際獎決選　楊双子：盼更多台灣作品被看見【專訪】",
-        "summary": "（中央社記者李宗憲曼谷2日專電）台灣作家楊双子的長篇小說「臺灣漫遊錄」被列入英國「布克國際獎」決選名單，創台灣首例。她今天出席在曼谷舉行的文學獎論壇並接受中央社專訪，她表示，獲獎是整個產業的成果，希望有更多台灣作品能被世界看見。",
-        "url": "https://www.cna.com.tw/news/acul/202604020325.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-02T11:48:33+00:00"
       },
       {
         "id": "0a234e1b7b9e",
@@ -922,6 +1026,14 @@
         "summary": "查定課徵營業人制度的討論，不應再停留在門檻調整或短期物價影響，而應回到更根本的問題：在當前的經濟與資訊環境下，我們是否還需要一個以「推定課稅」為基礎、且與整體加值型營業稅體系脫節的制度？",
         "url": "https://www.twreporter.org/a/opinion-business-entity-exempted-from-filing-sales-amounts",
         "source": "報導者",
+        "published": "2026-04-01T16:00:00+00:00"
+      },
+      {
+        "id": "0756943e8928",
+        "title": "巴基斯坦与阿富汗在中国举行和平会谈",
+        "summary": "此次和平会谈是在巴基斯坦与其曾经支持的塔利班之间紧张局势升级、并于今年2月爆发公开冲突之后进行的。",
+        "url": "https://www.ftchinese.com/story/001109363",
+        "source": "FTChinese RSS - News",
         "published": "2026-04-01T16:00:00+00:00"
       },
       {
@@ -1045,6 +1157,38 @@
         "published": "2026-03-31T16:00:00+00:00"
       },
       {
+        "id": "3f27eb91a84e",
+        "title": "中国国债成为伊朗战争阴霾下的“避风港”",
+        "summary": "自伊朗战争爆发以来，中国国债收益率略有下跌，而美英等其他主要经济体的国债收益率则出现上涨。",
+        "url": "https://www.ftchinese.com/story/001109344",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-31T16:00:00+00:00"
+      },
+      {
+        "id": "e0897e6c0c35",
+        "title": "查尔斯国王4月下旬将对美国进行国事访问",
+        "summary": "白金汉宫证实此次访问前，特朗普再次大骂英国首相斯塔默，并暗示美国将扔下霍尔木兹海峡不管，让英国等国“自己去获得你们的石油”。",
+        "url": "https://www.ftchinese.com/story/001109336",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-31T16:00:00+00:00"
+      },
+      {
+        "id": "b32cf146d7f0",
+        "title": "俄罗斯油轮抵达古巴",
+        "summary": "美国放松能源禁运后，古巴收到1月9日以来首批约70万桶原油。但对于一个日均原油需求量约为10万桶的国家，这很可能只能暂时缓解困难。",
+        "url": "https://www.ftchinese.com/story/001109334",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-31T16:00:00+00:00"
+      },
+      {
+        "id": "76f109fe8b4c",
+        "title": "日本首次部署远程导弹",
+        "summary": "日本首次部署的远程巡航导弹“12式”射程达到1000公里，可以打到中国沿海地区，意味着日本由此拥有自己的“防区外”打击能力。",
+        "url": "https://www.ftchinese.com/story/001109335",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-31T16:00:00+00:00"
+      },
+      {
         "id": "aa801ef5eee0",
         "title": "Claude Code源代码意外泄露：512K行代码曝光，内含大量未发布功能",
         "summary": "就在几个小时前，一个名为 Chaofan Shou 的用户在 X 平台上披露，Anthropic 旗下 AI 编程工具 Claude Code 的完整源代码通过 npm 包中的 source map 文件意外暴露。（来源：X）Chaofan Shou 是 Web3 安全公司 FuzzLand 的实习研究员。他在检查 Claude Code 的 npm 包时发现，包内的一个体积为 57MB 的 cli.js.map 文件指向了一个 R2 存储桶链接，其中包含 1,900 个 TypeScript 文件，共计 512,000 余行未经混淆的完整源代码。不需要反编译、反混淆，便可轻松还原。(来源：X...",
@@ -1133,6 +1277,22 @@
         "published": "2026-03-30T16:00:00+00:00"
       },
       {
+        "id": "f66670eaef57",
+        "title": "中国新兴的REITs市场为全球投资者提供退出房地产投资的渠道",
+        "summary": "新加坡凯德集团成为首家在中国推出REITs的国际发起人。在中国低利率环境下，REITs受到投资者的青睐。",
+        "url": "https://www.ftchinese.com/story/001109330",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-30T16:00:00+00:00"
+      },
+      {
+        "id": "f762f5685d3b",
+        "title": "AI卫星初创公司获风投支持",
+        "summary": "马斯克的SpaceX准备上市之际，风险投资家向计划将AI数据中心送入轨道的美国初创公司Starcloud和Aetherflux投入数亿美元。",
+        "url": "https://www.ftchinese.com/story/001109322",
+        "source": "FTChinese RSS - News",
+        "published": "2026-03-30T16:00:00+00:00"
+      },
+      {
         "id": "fe9fa80d7c50",
         "title": "Lost on the ice: The 1897 hydrogen balloon attempt to reach the North Pole",
         "summary": "Only traces remain of Salomon August Andrée’s 1897 attempt to reach the North Pole. From a base on the Svalbard archipelago, the engineer and his two companions had hoped to float a hydrogen balloon gracefully over the pole, drop a Swedish flag and claim the glory of first discovery. Their friends n...",
@@ -1173,14 +1333,6 @@
         "published": "2026-03-30T06:20:42+00:00"
       },
       {
-        "id": "1f71443e5500",
-        "title": "話題》飢餓、垃圾屋、性騷擾與死亡，救貓人的真實手記：《詩人廣場的貓》",
-        "summary": "如果你入住一間房子，卻發現這間房子附帶30隻浪貓，你會怎麼做？\n寇特妮・古斯塔夫森（Courtney Gustafson）被迫面對這個問題時，她經濟狀況拮据，正與憂鬱、焦慮和生活壓力纏鬥。然而她知道，如果什麼都不做，這些貓咪會在她眼前一隻隻生病、衰弱、死去。於是，她開始餵養這30隻貓。\n這個看似單純、如今卻可能引發爭議的決定，徹底改變了她的人生。短短幾年內，她從絕育重要性都半知半解的普通人，變成受大家信賴的救貓能手，走入垃圾屋、低收入社區，與各種「不可理喻」的人周旋，也不斷面對生命的脆弱與消逝。\n這一切經過，都記錄在回憶錄《詩人廣場的貓》。古斯塔夫森真誠、詳實記錄下她與30隻貓的磨合、貓影片一...",
-        "url": "https://www.openbook.org.tw/article/p-72456",
-        "source": "Openbook閱讀誌",
-        "published": "2026-03-30T03:00:59+00:00"
-      },
-      {
         "id": "ea12c6741867",
         "title": "祖克柏示好馬斯克私訊曝光，Meta 曾考慮投資 OpenAI",
         "summary": "根據最新解封的法庭文件，Meta 執行長馬克·祖克柏曾在 2025 年 2 月 3 日與馬斯克私訊互動，先表示 [&#8230;]",
@@ -1202,6 +1354,14 @@
         "summary": "愈來愈多極端氣候帶來意想不到的災害，但農業保險為何仍難以普及？在推動過程中，保險公司、農會與農民各自遇到哪些挑戰？還有哪些方式能讓農業更有復原韌性？",
         "url": "https://www.twreporter.org/a/taiwan-agricultural-insurance-decade-of-struggles",
         "source": "報導者",
+        "published": "2026-03-29T16:00:00+00:00"
+      },
+      {
+        "id": "48e6611b13ce",
+        "title": "中国打击“骨灰房”",
+        "summary": "许多年轻租客并不介意邻居是“逝者”，只要这能降低整栋楼的租金。",
+        "url": "https://www.ftchinese.com/story/001109319",
+        "source": "FTChinese RSS - News",
         "published": "2026-03-29T16:00:00+00:00"
       },
       {
@@ -2140,7 +2300,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T23:39:22.494597+00:00"
+        "published": "2026-04-05T03:27:38.603221+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2148,7 +2308,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T23:39:22.494586+00:00"
+        "published": "2026-04-05T03:27:38.603208+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2156,7 +2316,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T23:39:22.494576+00:00"
+        "published": "2026-04-05T03:27:38.603177+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2164,7 +2324,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T23:39:22.494566+00:00"
+        "published": "2026-04-05T03:27:38.603167+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2172,7 +2332,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T23:39:22.494556+00:00"
+        "published": "2026-04-05T03:27:38.603156+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2180,7 +2340,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T23:39:22.494546+00:00"
+        "published": "2026-04-05T03:27:38.603145+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2188,7 +2348,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T23:39:22.494536+00:00"
+        "published": "2026-04-05T03:27:38.603135+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2196,7 +2356,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T23:39:22.494526+00:00"
+        "published": "2026-04-05T03:27:38.603123+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2204,7 +2364,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T23:39:22.494516+00:00"
+        "published": "2026-04-05T03:27:38.603112+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2212,7 +2372,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-04T23:39:22.494506+00:00"
+        "published": "2026-04-05T03:27:38.603102+00:00"
       },
       {
         "id": "0d84ac0a58d1",
