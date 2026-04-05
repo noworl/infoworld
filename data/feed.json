@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-05T07:19:06.709303+00:00",
+  "updated_at": "2026-04-05T08:56:49.188581+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "37725822689c",
+        "title": "台鐵電力設備故障　三貂嶺至四腳亭、蘇澳新至東澳延誤",
+        "summary": "（中央社記者余曉涵台北5日電）台鐵東部幹線今天有兩處電力設備故障，下午1時50分起三貂嶺至四腳亭間以西正線單線雙向運轉，蘇澳新到東澳下午2時20分起東正線封鎖，列車均有延誤，預計今晚6時排除。",
+        "url": "https://www.cna.com.tw/news/ahel/202604050103.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-05T07:08:40+00:00"
+      },
+      {
+        "id": "57c355e95c9c",
+        "title": "清大生邊緣運算衛星系統　國際太空黑客松獲獎",
+        "summary": "（中央社記者許秩維台北5日電）清華大學學生團隊參加國際太空創新創業黑客松總決賽，透過訓練AI模型，將邊緣運算應用於雙軌道衛星系統，提升衛星覆蓋率，獲得歐洲天使投資人峰會頒發的「女性創業家獎」。",
+        "url": "https://www.cna.com.tw/news/ahel/202604050102.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-05T07:07:38+00:00"
+      },
+      {
+        "id": "ef0d93177132",
+        "title": "長庚研究：質子合併免疫治療提升中晚期肝癌存活率",
+        "summary": "（中央社記者陳婕翎台北5日電）長庚醫療團隊最新研究證實，質子合併免疫治療提升中晚期肝癌存活率，更有60歲女性15公分肝腫瘤縮至6公分，追蹤2年未復發，反轉過去僅靠免疫治療平均存活期恐僅約1年半困境。",
+        "url": "https://www.cna.com.tw/news/ahel/202604050082.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-05T06:17:55+00:00"
+      },
       {
         "id": "986867ab8ef1",
         "title": "秘克琳神父辭世  文化部將呈請總統明令褒揚",
@@ -57,30 +81,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604050036.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-05T03:20:14+00:00"
-      },
-      {
-        "id": "9a84d4d6b27e",
-        "title": "玉山4日晚間飄雪　積雪約2公分[影]",
-        "summary": "（中央社記者張雄風台北5日電）中央氣象署表示，玉山氣象站昨天下午5時55分下雪，昨晚8時45分呈現雨夾雪，今天清晨停止，截至上午9時積雪約2公分。",
-        "url": "https://www.cna.com.tw/news/ahel/202604050035.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-05T03:17:12+00:00"
-      },
-      {
-        "id": "638cfc584339",
-        "title": "代客掃墓祭祖崛起　台語念祭文、悼念寵物都能外包",
-        "summary": "（中央社記者高華謙台北5日電）清明節代客掃墓祭祖崛起，有人指定以台語念祭文，也有人強調墓碑要擦乾淨，以免家中長輩前往檢查，連代理祭祀寵物都出現需求。業者分析，年輕世代更重視彈性與效率，而在少子化與高齡化挑戰下，過去負責掃墓的長輩逐漸凋零，也曾遇客戶委託找墓。",
-        "url": "https://www.cna.com.tw/news/ahel/202604050032.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-05T02:58:05+00:00"
-      },
-      {
-        "id": "070e3689d3e7",
-        "title": "叛逆少年變師鐸獎得主　黃俊程以情感連結教學",
-        "summary": "（中央社記者許秩維台北5日電）台北市南港高工冷凍空調科教師黃俊程在國中時曾是叛逆少年，擔任教職後透過情感連結、分組競賽等方式，引導學生投入學習、良性競爭，獲113年師鐸獎，也獲選教育家人物典範。",
-        "url": "https://www.cna.com.tw/news/ahel/202604050030.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-05T02:43:01+00:00"
       },
       {
         "id": "97107a5dd481",
@@ -417,6 +417,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -2140,7 +2220,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-05T07:19:06.708797+00:00"
+        "published": "2026-04-05T08:56:49.188076+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2148,7 +2228,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-05T07:19:06.708787+00:00"
+        "published": "2026-04-05T08:56:49.188066+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2156,7 +2236,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-05T07:19:06.708776+00:00"
+        "published": "2026-04-05T08:56:49.188055+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2164,7 +2244,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-05T07:19:06.708766+00:00"
+        "published": "2026-04-05T08:56:49.188045+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2172,7 +2252,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-05T07:19:06.708755+00:00"
+        "published": "2026-04-05T08:56:49.188035+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2180,7 +2260,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-05T07:19:06.708745+00:00"
+        "published": "2026-04-05T08:56:49.188025+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2188,7 +2268,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-05T07:19:06.708734+00:00"
+        "published": "2026-04-05T08:56:49.188014+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2196,7 +2276,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-05T07:19:06.708724+00:00"
+        "published": "2026-04-05T08:56:49.188005+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2204,7 +2284,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-05T07:19:06.708714+00:00"
+        "published": "2026-04-05T08:56:49.187995+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2212,7 +2292,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-05T07:19:06.708703+00:00"
+        "published": "2026-04-05T08:56:49.187984+00:00"
       },
       {
         "id": "0d84ac0a58d1",
