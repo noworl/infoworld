@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-04-06T13:27:44.594642+00:00",
+  "updated_at": "2026-04-06T14:57:49.204694+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "cf00ef16010d",
+        "title": "GRIEG Sämtliche Klavierwerke",
+        "summary": "GRIEG  Sämtliche Klavierwerke (1/2) Geir Henning Braaten (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/gnxhfgx",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-06T14:04:08+00:00"
+      },
+      {
+        "id": "ea4c7735bae9",
+        "title": "J. SOM A MAJESTOSA FENIX DO MARAJO ( SAO CAETANO DE ODIVELAS) PARTE 2 DJ GABRIEL SOUND 04 04 2026",
+        "summary": "DFD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/j.-som-a-majestosa-fenix-do-marajo-sao-caetano-de-odivelas-parte-2-dj-gabriel-sound-04-04-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-06T13:48:45+00:00"
+      },
+      {
+        "id": "fb0205618042",
+        "title": "J. SOM A MAJESTOSA FENIX DO MARAJO ( SAO CAETANO DE ODIVELAS) PARTE 1 DJ GABRIEL SOUND 04 04 2026",
+        "summary": "DFF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/j.-som-a-majestosa-fenix-do-marajo-sao-caetano-de-odivelas-parte-1-dj-gabriel-sound-04-04-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-06T13:48:36+00:00"
+      },
+      {
+        "id": "5aa0d8d54f16",
+        "title": "DJ GABRIEL SOUND AO VIVO NO MADRID PUB EM MOJU 02 03 2026",
+        "summary": "DFF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/dj-gabriel-sound-ao-vivo-no-madrid-pub-em-moju-02-03-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-06T13:48:30+00:00"
+      },
+      {
+        "id": "d517668f4760",
+        "title": "Take On Me Deejay BF TECNOBREGA 2026",
+        "summary": "df.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/take-on-me-deejay-bf-tecnobrega-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-06T13:41:17+00:00"
+      },
+      {
+        "id": "e479a1d258e4",
+        "title": "Semeone Like You DEEJAY BF TECNO BREGA 2026",
+        "summary": "dfd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/semeone-like-you-deejay-bf-tecno-brega-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-06T13:41:15+00:00"
+      },
+      {
+        "id": "bac03be3b0a6",
+        "title": "Gotta Feeling DEEJAY BF TECNO BREGA 2026",
+        "summary": "fdd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/gotta-feeling-deejay-bf-tecno-brega-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-06T13:41:02+00:00"
+      },
+      {
+        "id": "c7cd44bc9c6a",
+        "title": "Scar Tissue DEEJAY BF TECNO BREGA 2026",
+        "summary": "fd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/scar-tissue-deejay-bf-tecno-brega-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-06T13:41:01+00:00"
+      },
+      {
+        "id": "6d61bf73a2c8",
+        "title": "DJ MÉ URY E MC BIEL BH LEVARAM A MOLECA DO ABACATUDO",
+        "summary": "fd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/dj-me-ury-e-mc-biel-bh-levaram-a-moleca-do-abacatudo",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-06T13:40:52+00:00"
+      },
+      {
+        "id": "1348f041a063",
+        "title": "Aitbar Nahi Karna",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/aitbar-nahi-karna",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-06T13:21:52+00:00"
+      },
       {
         "id": "a31e751ab1b0",
         "title": "春捲患者檢出沙門氏菌　醫：雞蛋清潔加熱要完全",
@@ -81,86 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604060112.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-06T07:08:26+00:00"
-      },
-      {
-        "id": "937f4a286a4d",
-        "title": "IRODORI (彩-イロドリ-) - JunsuiNARU・・・ 純粋ナル・・・",
-        "summary": "IRODORI was a visual kei band in Kansai. They were active from 2005 to 2009 and are now disbanded. 1. JunsuiNARU・・・ 純粋ナル・・・ 2. Shitsujin 失人 https://vk.gy/artists/irodori/ https://orientaluniverse.blogspot.com/.This item belongs to: audio/folksoundomy_japaneserock.This item has files of the following...",
-        "url": "https://archive.org/details/irodori-junsui-naru-01-junsui-naru...",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-06T06:44:10+00:00"
-      },
-      {
-        "id": "2ed0606b3c26",
-        "title": "Irodori (彩~イロドリ~) - Saite Chiru 咲いて散る",
-        "summary": "IRODORI was a visual kei band in Kansai. They were active from 2005 to 2009 and are now disbanded. 1. Saite Chiru 咲いて散る 2. Tsuki ni Terasareta Kimi no Zanzou 月に照らされた君の残像 3....This item belongs to: audio/folksoundomy_japaneserock.This item has files of the following types: Archive BitTorrent, Item Ti...",
-        "url": "https://archive.org/details/irodori-saite-chiru-01-saite-chiru",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-06T06:41:53+00:00"
-      },
-      {
-        "id": "70f6697377d1",
-        "title": "Irodori (彩~イロドリ~) - Itsuwari no Kokoro Ame 偽りの心雨",
-        "summary": "IRODORI was a visual kei band in Kansai. They were active from 2005 to 2009 and are now disbanded. 1. Itsuwari no Kokoro Ame 偽りの心雨 2. Aya Sakikura 彩咲くら 3. JunsuiNARU・・・ 純粋ナル・・・ https://vk.gy/artists/irodori/ https://orientaluniverse.blogspot.com/.This item belongs to: audio/folksoundomy_japaneserock...",
-        "url": "https://archive.org/details/irodori-itsuwari-no-kokoroame-03-junsui-naru",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-06T06:38:49+00:00"
-      },
-      {
-        "id": "a0bd4c41d132",
-        "title": "RED universe - BUTTERFLY EFFECT",
-        "summary": "RED universe was a visual kei band. They were active from 2007 to 2011 and are now disbanded. 1. worm[HOLE] 2. FINAL CLOSURE 3. uncontrol 4. Fuyuu Tsuki 浮遊月 5. I FEEL BLUE 6. CODE BLUE https://vk.gy/artists/red-universe/ https://orientaluniverse.blogspot.com/.This item belongs to: audio/folksoundomy...",
-        "url": "https://archive.org/details/04.-fuyuuzuki",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-06T06:34:44+00:00"
-      },
-      {
-        "id": "1bf67ff40706",
-        "title": "RED universe - Lover's Lane / ALONE",
-        "summary": "RED universe was a visual kei band. They were active from 2007 to 2011 and are now disbanded. 1. Lover's Lane 2. ALONE https://vk.gy/artists/red-universe/ https://orientaluniverse.blogspot.com/.This item belongs to: audio/folksoundomy_japaneserock.This item has files of the following types: Archive ...",
-        "url": "https://archive.org/details/01-lovers-lane",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-06T06:31:32+00:00"
-      },
-      {
-        "id": "68751e8e7057",
-        "title": "RED universe - I FEEL BLUE",
-        "summary": "RED universe was a visual kei band. They were active from 2007 to 2011 and are now disbanded. 1. I FEEL BLUE 2. ice age https://vk.gy/artists/red-universe/ https://orientaluniverse.blogspot.com/.This item belongs to: audio/folksoundomy_japaneserock.This item has files of the following types: Archive...",
-        "url": "https://archive.org/details/02.-ice-age",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-06T06:29:14+00:00"
-      },
-      {
-        "id": "e3c9794d85b7",
-        "title": "SUGAR FORKFUL シュガーフォークフル - Ame to Muchi 雨と無知",
-        "summary": "SUGAR FORKFUL (シュガーフォークフル) was a visual kei band in Osaka. They were active from 2002 to 2005 and are now disbanded. 1. Ondosa Jijou 温度差事情 2. YUUUTSU ユウウツ 3. Keshoushitsu no Jikoanji 化粧室の自己暗示 4....This item belongs to: audio/folksoundomy_japaneserock.This item has files of the following types: Archi...",
-        "url": "https://archive.org/details/sugar-folkfull-04-ame-to-muchi.",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-06T06:26:53+00:00"
-      },
-      {
-        "id": "ba1083d9d8b7",
-        "title": "SUGAR FORKFUL シュガーフォークフル - Shojosaku 処女作",
-        "summary": "SUGAR FORKFUL (シュガーフォークフル) was a visual kei band in Osaka. They were active from 2002 to 2005 and are now disbanded. 1. Toho, Ippunmiman。 徒歩、一分未満。 2. Uramijou 恨み帖 3....This item belongs to: audio/folksoundomy_japaneserock.This item has files of the following types: Archive BitTorrent, Item Tile, JPE...",
-        "url": "https://archive.org/details/04_20260406",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-06T06:19:59+00:00"
-      },
-      {
-        "id": "d7fce1c0b2a0",
-        "title": "Femi Kuti - Fillmore - 7/27/02",
-        "summary": "Femi Kuti - Fillmore - 7/27/02.This item belongs to: audio/roiocollection.This item has files of the following types: AIFF, Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/femi-kuti-fillmore-72702",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-06T03:54:22+00:00"
-      },
-      {
-        "id": "20f5833a1cbf",
-        "title": "GRIEG Sämtliche Kammermusik",
-        "summary": "GRIEG  Sämtliche Kammermusik.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
-        "url": "https://archive.org/details/b-ngnxf",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-05T23:06:53+00:00"
       },
       {
         "id": "d23a20f61278",
@@ -645,6 +645,14 @@
     ],
     "破(day)": [
       {
+        "id": "a073db00277b",
+        "title": "柏林愛樂鋼琴四重奏訪台　傳遞布拉姆斯未竟之言",
+        "summary": "（中央社記者趙靜瑜台北6日電）由柏林愛樂成員組成的柏林愛樂鋼琴四重奏將以「微型交響樂團」之姿訪台，演繹作曲家布拉姆斯（Johannes Brahms）3首鋼琴四重奏，透過精彩樂音，傳遞布拉姆斯未竟之言。",
+        "url": "https://www.cna.com.tw/news/acul/202604060204.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-06T12:54:47+00:00"
+      },
+      {
         "id": "e801cdef38f3",
         "title": "Aisling Bea review – glamourpuss meets accidental mum in a scatty show that revels in immaturity",
         "summary": "Hammersmith Apollo, LondonThe sitcom star and Taskmaster stalwart is on commanding form as she embarks on Older Than Jesus, her first – and deeply daft – standup tourThat staple realisation of early midlife, that one has now lived longer than Jesus did, usually hits around aged 33. Aisling Bea is 42...",
@@ -859,14 +867,6 @@
         "url": "https://www.mittrchina.com/news/detail/16197",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-04-04T04:06:52+00:00"
-      },
-      {
-        "id": "7e4d4ac1f589",
-        "title": "蘭陽舞蹈團創辦人秘克琳神父辭世　享壽91歲",
-        "summary": "（中央社記者沈如峰宜蘭縣4日電）宜蘭羅東聖母醫院表示，來自義大利、1935年出生的秘克琳神父，一生奉獻於文化藝術與蘭陽平原，創辦蘭陽舞蹈團，也是宜蘭童玩節重要推手，今天安詳辭世，享耆壽91歲。",
-        "url": "https://www.cna.com.tw/news/acul/202604040041.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-04T02:56:09+00:00"
       },
       {
         "id": "4989013dc5b4",
@@ -2220,7 +2220,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-06T13:27:44.594131+00:00"
+        "published": "2026-04-06T14:57:49.204141+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2228,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-06T13:27:44.594121+00:00"
+        "published": "2026-04-06T14:57:49.204131+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2236,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-06T13:27:44.594111+00:00"
+        "published": "2026-04-06T14:57:49.204121+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2244,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-06T13:27:44.594101+00:00"
+        "published": "2026-04-06T14:57:49.204111+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2252,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-06T13:27:44.594092+00:00"
+        "published": "2026-04-06T14:57:49.204100+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2260,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-06T13:27:44.594082+00:00"
+        "published": "2026-04-06T14:57:49.204090+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2268,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-06T13:27:44.594072+00:00"
+        "published": "2026-04-06T14:57:49.204080+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2276,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-06T13:27:44.594062+00:00"
+        "published": "2026-04-06T14:57:49.204070+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2284,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-06T13:27:44.594052+00:00"
+        "published": "2026-04-06T14:57:49.204060+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2292,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-06T13:27:44.594042+00:00"
+        "published": "2026-04-06T14:57:49.204050+00:00"
       },
       {
         "id": "0d84ac0a58d1",
