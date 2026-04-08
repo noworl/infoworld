@@ -1,22 +1,86 @@
 {
-  "updated_at": "2026-04-08T15:20:47.160879+00:00",
+  "updated_at": "2026-04-08T17:15:32.063115+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "3a359c1ffec8",
-        "title": "HINDEMITH Übung in drei Stücken op. 37/1",
-        "summary": "HINDEMITH  Übung in drei Stücken op. 37/1 Georg Friedrich Schenck (Klavier) (1987).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/ghst_20260408",
+        "id": "43b37c5801d7",
+        "title": "NuaDemAcMongTH",
+        "summary": "NuaDemAcMongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/NuaDemAcMongTH",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-08T13:49:53+00:00"
+        "published": "2026-04-08T16:15:53+00:00"
       },
       {
-        "id": "f96a777bdcee",
-        "title": "HINDEMITH Tanz der Holzpuppen",
-        "summary": "HINDEMITH  Tanz der Holzpuppen Georg Friedrich Schenck (Klavier) (1987).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/gbxg_20260408",
+        "id": "c011f53a1f79",
+        "title": "PITBULL SOUND AO VIVO NO BAR DO FERNANDO 2026 DJ TARCISO]",
+        "summary": "FD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/pitbull-sound-ao-vivo-no-bar-do-fernando-2026-dj-tarciso",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-08T13:40:40+00:00"
+        "published": "2026-04-08T15:58:32+00:00"
+      },
+      {
+        "id": "384c23ae9282",
+        "title": "PhaAnTaCoTheNgheDuocToiPhamTiengLongTH",
+        "summary": "PhaAnTaCoTheNgheDuocToiPhamTiengLongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/PhaAnTaCoTheNgheDuocToiPhamTiengLongTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-08T15:57:37+00:00"
+      },
+      {
+        "id": "d0d748f0e064",
+        "title": "NuongChieuTrumPhanDienTH",
+        "summary": "NuongChieuTrumPhanDienTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/NuongChieuTrumPhanDienTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-08T15:48:52+00:00"
+      },
+      {
+        "id": "f123f30ae42f",
+        "title": "J. SOM Á FÊ NIX DO MARAJÓ AO VIVO NA VILA CAMAPU SANCA 2026 DJ THIAGUINHO TOP",
+        "summary": "DFDF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/j.-som-a-fe-nix-do-marajo-ao-vivo-na-vila-camapu-sanca-2026-dj-thiaguinho-top_202604",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-08T15:46:09+00:00"
+      },
+      {
+        "id": "4605439ebd6d",
+        "title": "SET AO VIVO DJ MICKAEL NO DOMINGO DE PÁ SCOA NO FLORESTA CLUBE 2026",
+        "summary": "FD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-mickael-no-domingo-de-pa-scoa-no-floresta-clube-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-08T15:45:57+00:00"
+      },
+      {
+        "id": "e78fa5684934",
+        "title": "SET AO VIVO DJ FELIPE KOBIÇ ADO ( MARCANTES ) NA UNITY PUB 27 03 2026",
+        "summary": "FDD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-felipe-kobic-ado-marcantes-na-unity-pub-27-03-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-08T15:45:41+00:00"
+      },
+      {
+        "id": "7a1c3c7ebde0",
+        "title": "SET AO VIVO DJ FELIPE KOBIÇ ADO NO PARADA OBRIGATORIA 22 03 2026",
+        "summary": "DDF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-felipe-kobic-ado-no-parada-obrigatoria-22-03-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-08T15:45:08+00:00"
+      },
+      {
+        "id": "fd4d30f6df2b",
+        "title": "SET AO VIVO DJ FELIPE KOBIÇ ADO NA STADIUM BOLICHE 22 03 2026",
+        "summary": "DFFD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-felipe-kobic-ado-na-stadium-boliche-22-03-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-08T15:45:02+00:00"
+      },
+      {
+        "id": "777149c441fd",
+        "title": "J. SOM Á FÊ NIX DO MARAJÓ AO VIVO NA VILA CAMAPU SANCA 2026 DJ THIAGUINHO TOP",
+        "summary": "FDDF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/j.-som-a-fe-nix-do-marajo-ao-vivo-na-vila-camapu-sanca-2026-dj-thiaguinho-top",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-08T15:44:47+00:00"
       },
       {
         "id": "311112c2f5be",
@@ -25,14 +89,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604080383.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-08T13:32:42+00:00"
-      },
-      {
-        "id": "37298ea83e9c",
-        "title": "BEETHOVEN Missa solemnis op. 123",
-        "summary": "BEETHOVEN  Missa solemnis op. 123.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
-        "url": "https://archive.org/details/byg_20260408",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-08T13:05:25+00:00"
       },
       {
         "id": "7557b6c7812a",
@@ -75,30 +131,6 @@
         "published": "2026-04-08T11:28:16+00:00"
       },
       {
-        "id": "656c73985901",
-        "title": "NuoiCaLamRuongCheTaoToiCuongTuTienGiaTocTH",
-        "summary": "NuoiCaLamRuongCheTaoToiCuongTuTienGiaTocTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
-        "url": "https://archive.org/details/NuoiCaLamRuongCheTaoToiCuongTuTienGiaTocTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-08T10:22:32+00:00"
-      },
-      {
-        "id": "f09fb1ee6958",
-        "title": "OnePieceThienLongNhanBanThanTuDuongTH",
-        "summary": "OnePieceThienLongNhanBanThanTuDuongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
-        "url": "https://archive.org/details/OnePieceThienLongNhanBanThanTuDuongTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-08T10:16:58+00:00"
-      },
-      {
-        "id": "c37a0d045f24",
-        "title": "OnePieceTheGamerTaiSouthBlueTH",
-        "summary": "OnePieceTheGamerTaiSouthBlueTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
-        "url": "https://archive.org/details/OnePieceTheGamerTaiSouthBlueTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-08T10:11:21+00:00"
-      },
-      {
         "id": "6ee4ed0d6e88",
         "title": "心理諮商找回力量　朱芯儀談抗癌夫妻心靈重建",
         "summary": "（中央社記者陳婕翎台北8日電）「很多時候，我們只是裝作很勇敢。」抗癌藝人朱芯儀說，她的病不只是個人的痛苦，丈夫也籠罩在恐懼中，還要支撐家庭，幸好丈夫接受心理諮商，讓心理更強壯，夫妻攜手成長。",
@@ -129,38 +161,6 @@
         "url": "https://www.cna.com.tw/news/acul/202604080299.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-08T09:49:36+00:00"
-      },
-      {
-        "id": "029cbfced130",
-        "title": "BatDauThuHoachDuocThanChieuCongTH",
-        "summary": "BatDauThuHoachDuocThanChieuCongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
-        "url": "https://archive.org/details/BatDauThuHoachDuocThanChieuCongTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-08T09:32:21+00:00"
-      },
-      {
-        "id": "d7d444fbd0e1",
-        "title": "BatDauMaxCapThaiHuyenKinhTH",
-        "summary": "BatDauMaxCapThaiHuyenKinhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
-        "url": "https://archive.org/details/BatDauMaxCapThaiHuyenKinhTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-08T09:24:23+00:00"
-      },
-      {
-        "id": "f2d6620348c2",
-        "title": "VoHanQuyDiTroChoiTH",
-        "summary": "VoHanQuyDiTroChoiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
-        "url": "https://archive.org/details/VoHanQuyDiTroChoiTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-08T09:19:46+00:00"
-      },
-      {
-        "id": "df6828bed2d7",
-        "title": "DeuTrungSinhAiConLamCacNguoiThuHoThanTH",
-        "summary": "DeuTrungSinhAiConLamCacNguoiThuHoThanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
-        "url": "https://archive.org/details/DeuTrungSinhAiConLamCacNguoiThuHoThanTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-08T09:13:57+00:00"
       },
       {
         "id": "8a332383e20b",
@@ -417,6 +417,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -861,6 +941,46 @@
         "published": "2026-04-08T00:21:00+00:00"
       },
       {
+        "id": "18e3a8c5037a",
+        "title": "#報導者十週年OPEN講｜撐起台灣餐桌的人，為何變透明家庭？李雪莉 × 盧昱瑞：談移工異域的傷與殤",
+        "summary": "這集，《報導者》營運長李雪莉邀請紀錄片導演盧昱瑞對談，從《水路-遠洋記行》、《血淚漁場-三部曲》與《異域生養》的田野現場出發，一起討論台灣移工如何在遠洋漁船、高山農場與仲介體制之間，被推進隱身的勞動與生活現場。",
+        "url": "https://www.twreporter.org/a/podcast-2026-04-08",
+        "source": "報導者",
+        "published": "2026-04-07T16:00:00+00:00"
+      },
+      {
+        "id": "0cd0125990f1",
+        "title": "「台北網紅節」為何連結到「大陸尋奇」：一條潛行的中國統戰宣傳鏈",
+        "summary": "網紅不只是接案者，更成為內容擴散的節點，將中國城市形象轉譯為美食、旅遊等可親的日常，看似去政治化、卻鑲嵌進「兩岸一家親」的文化敘事，潤物細無聲地悄悄滲進台灣的各類社群。",
+        "url": "https://www.twreporter.org/a/united-front-work-kol-taipei-festival",
+        "source": "報導者",
+        "published": "2026-04-07T16:00:00+00:00"
+      },
+      {
+        "id": "4ca5ac04eba8",
+        "title": "暫時停止的中東大戰？在川普最後通牒的最後一刻，美伊休兵談判兩週",
+        "summary": "在開打39天後，這場衝擊全球經濟的戰爭，因美國和伊朗的「短暫休兵」，暫時得到脆弱且充滿不確定性的喘息空間。",
+        "url": "https://www.twreporter.org/a/hello-world-2026-04-08",
+        "source": "報導者",
+        "published": "2026-04-07T16:00:00+00:00"
+      },
+      {
+        "id": "0c3940bcd302",
+        "title": "剖析統戰同心圓：館長中國行，與圍繞身後的「網紅」們",
+        "summary": "透過爬梳館長的中國直播完整影像、比對公開資料與人物背景，發現圍繞在館長身旁、以「網紅」之名現身的陪同者，多具媒體與統戰系統連結，彼此亦早已形成穩定合作網絡⋯⋯",
+        "url": "https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers",
+        "source": "報導者",
+        "published": "2026-04-07T16:00:00+00:00"
+      },
+      {
+        "id": "181fc1c0fb77",
+        "title": "一名中國網紅的「世界觀」，如何跨境滲入台灣",
+        "summary": "在「館長」陳之漢2025年首次中國行裡現身的網紅李翔，表面上是評論國際局勢的創作者，背後卻同時連結媒體平台、統戰組織與跨境內容網絡。《報導者》發現，以他為核心的「世界觀」媒體與社群體系，正進一步與部分台灣媒體內容合作，企圖擴散影響力。",
+        "url": "https://www.twreporter.org/a/united-front-work-powered-by-influencers-china-cognitive-warfare",
+        "source": "報導者",
+        "published": "2026-04-07T16:00:00+00:00"
+      },
+      {
         "id": "cd7984820662",
         "title": "长和就巴拿马港口纠纷对马士基提起仲裁",
         "summary": "在被迫退出巴拿马运河码头后，这家香港企业集团进一步升级了其法律攻势。",
@@ -1301,14 +1421,6 @@
         "published": "2026-04-01T16:00:00+00:00"
       },
       {
-        "id": "5c9c57a2006a",
-        "title": "韓幸紋／當小吃店要開發票：真正該問的不光是物價，還有租稅課徵的合理、公平性",
-        "summary": "查定課徵營業人制度的討論，不應再停留在門檻調整或短期物價影響，而應回到更根本的問題：在當前的經濟與資訊環境下，我們是否還需要一個以「推定課稅」為基礎、且與整體加值型營業稅體系脫節的制度？",
-        "url": "https://www.twreporter.org/a/opinion-business-entity-exempted-from-filing-sales-amounts",
-        "source": "報導者",
-        "published": "2026-04-01T16:00:00+00:00"
-      },
-      {
         "id": "0756943e8928",
         "title": "巴基斯坦与阿富汗在中国举行和平会谈",
         "summary": "此次和平会谈是在巴基斯坦与其曾经支持的塔利班之间紧张局势升级、并于今年2月爆发公开冲突之后进行的。",
@@ -1413,14 +1525,6 @@
         "published": "2026-03-31T17:00:05+00:00"
       },
       {
-        "id": "9e4800e0f065",
-        "title": "林育立／獨裁者有用的白癡：看德國總理如何成為普丁侵略的幫凶",
-        "summary": "《直通莫斯科》作者發現，「與克里姆林宮合作、歐洲安全才有保障」的思維，並未隨著冷戰落幕告終，反而繼續主宰德國政壇；這也與普丁深知德國民情、懂得利用其對美國的疑慮和對二戰的罪惡感有關。本書對台灣來說，應是一大警惕。",
-        "url": "https://www.twreporter.org/a/bookreview-die-moskau-connection",
-        "source": "報導者",
-        "published": "2026-03-31T16:00:00+00:00"
-      },
-      {
         "id": "41d098f6236b",
         "title": "牯嶺街小劇場跨越1/4世紀系列講座｜【第12號計畫：不便之藝術宣言】",
         "summary": "牯嶺街小劇場跨越 1/4世紀系列講座｜【第12號計畫：不便之藝術宣言】 / 【講座介紹】 / 【第12號計畫： [&#8230;]",
@@ -1443,30 +1547,6 @@
         "url": "https://www.glt.org.tw/?p=13822",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-03-31T06:40:01+00:00"
-      },
-      {
-        "id": "b09a7608e2e1",
-        "title": "誰來修電動車？產業轉型下，因升學主義、資源受限而停滯的技職教育現場",
-        "summary": "曾經依賴感官與經驗的車輛診斷方式，已隨技術進展過渡至高精度與智慧化，挑戰著既有汽修體系。如今電動車保修又加上高電壓風險，稍有不慎就會釀成災禍。牽動台灣未來汽修人才質與量的技職教育現場，正撞上一道新門檻。",
-        "url": "https://www.twreporter.org/a/auto-repair-industry-under-eletric-vehicles-trend-2",
-        "source": "報導者",
-        "published": "2026-03-30T16:00:00+00:00"
-      },
-      {
-        "id": "8d4028236e2b",
-        "title": "洪惠芬／不是不會養，而是制度未能協助：單親媽媽貧窮背後的制度真相",
-        "summary": "問題不只是「誰比較容易跌倒」，而是跌倒時，國家是否願意透過制度去協助人重新站起、前行。當一個社會的制度能夠接住最脆弱的育兒者，也才能為其他家庭提供更穩固的支持。",
-        "url": "https://www.twreporter.org/a/column-gender-trouble-2026-03-31",
-        "source": "報導者",
-        "published": "2026-03-30T16:00:00+00:00"
-      },
-      {
-        "id": "81df7d3539a5",
-        "title": "怎麼告白與分手？情人施暴怎麼辦？性平教育20年後，一門學校師生都還沒修完的戀愛學分",
-        "summary": "2004年《性別平等教育法》通過，明定性平教育課程應涵蓋情感教育等內容，國民中小學每學期應實施至少4小時性平教育課程或活動。然而20多年後，成長於「性平教育」的大學生卻還是不懂怎麼告白、分手，甚至將權力控制誤以為愛。",
-        "url": "https://www.twreporter.org/a/podcast-2026-03-31",
-        "source": "報導者",
-        "published": "2026-03-30T16:00:00+00:00"
       },
       {
         "id": "fe9fa80d7c50",
@@ -2220,7 +2300,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-08T15:20:47.160340+00:00"
+        "published": "2026-04-08T17:15:32.062584+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2308,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-08T15:20:47.160330+00:00"
+        "published": "2026-04-08T17:15:32.062574+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2316,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-08T15:20:47.160320+00:00"
+        "published": "2026-04-08T17:15:32.062564+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2324,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-08T15:20:47.160309+00:00"
+        "published": "2026-04-08T17:15:32.062554+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2332,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-08T15:20:47.160299+00:00"
+        "published": "2026-04-08T17:15:32.062543+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2340,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-08T15:20:47.160288+00:00"
+        "published": "2026-04-08T17:15:32.062533+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2348,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-08T15:20:47.160278+00:00"
+        "published": "2026-04-08T17:15:32.062523+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2356,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-08T15:20:47.160267+00:00"
+        "published": "2026-04-08T17:15:32.062513+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2364,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-08T15:20:47.160257+00:00"
+        "published": "2026-04-08T17:15:32.062501+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2372,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-08T15:20:47.160246+00:00"
+        "published": "2026-04-08T17:15:32.062491+00:00"
       },
       {
         "id": "0d84ac0a58d1",
