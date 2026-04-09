@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-04-09T16:25:29.326437+00:00",
+  "updated_at": "2026-04-09T18:03:23.434878+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "fc9a0853f05a",
+        "title": "DuongThanhTroChoiTroThanhSuThatCacNangMuonTaPhuTrachToiCungTH",
+        "summary": "DuongThanhTroChoiTroThanhSuThatCacNangMuonTaPhuTrachToiCungTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/DuongThanhTroChoiTroThanhSuThatCacNangMuonTaPhuTrachToiCungTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-09T16:04:36+00:00"
+      },
+      {
+        "id": "c66eaf7d8a73",
+        "title": "ThaiThuongVoTinhTH",
+        "summary": "ThaiThuongVoTinhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/ThaiThuongVoTinhTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-09T15:54:29+00:00"
+      },
       {
         "id": "bda4ce9a7c6e",
         "title": "HENZE Voices",
@@ -19,76 +35,60 @@
         "published": "2026-04-09T15:47:08+00:00"
       },
       {
+        "id": "e89fd22cd0bf",
+        "title": "GiaTocTuTienTuTuoiGiaLaoToBatDauTH",
+        "summary": "GiaTocTuTienTuTuoiGiaLaoToBatDauTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/GiaTocTuTienTuTuoiGiaLaoToBatDauTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-09T15:43:37+00:00"
+      },
+      {
+        "id": "1b5b2caa2c99",
+        "title": "TaiCaoVoKhongLamNguoiDoaKhocTrungSinhGiaoHoaNuDeTH",
+        "summary": "TaiCaoVoKhongLamNguoiDoaKhocTrungSinhGiaoHoaNuDeTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/TaiCaoVoKhongLamNguoiDoaKhocTrungSinhGiaoHoaNuDeTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-09T15:43:06+00:00"
+      },
+      {
+        "id": "536445c57e0c",
+        "title": "HanMonKhoaCuChapButVeGiangSonTH",
+        "summary": "HanMonKhoaCuChapButVeGiangSonTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/HanMonKhoaCuChapButVeGiangSonTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-09T15:35:12+00:00"
+      },
+      {
+        "id": "ced4e59bcd3e",
+        "title": "TaTaiXeChoThueDanChuongTrinhDaiTyLenXeLienNgungPhatSongTH",
+        "summary": "TaTaiXeChoThueDanChuongTrinhDaiTyLenXeLienNgungPhatSongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/TaTaiXeChoThueDanChuongTrinhDaiTyLenXeLienNgungPhatSongTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-09T15:32:45+00:00"
+      },
+      {
+        "id": "68d7caf33e1f",
+        "title": "HaoMotCaiKhiVanNhanGianTH",
+        "summary": "HaoMotCaiKhiVanNhanGianTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/HaoMotCaiKhiVanNhanGianTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-09T15:28:39+00:00"
+      },
+      {
+        "id": "9e409a1a2128",
+        "title": "TaKhaiThacTienVucNhungNamKiaTH",
+        "summary": "TaKhaiThacTienVucNhungNamKiaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/TaKhaiThacTienVucNhungNamKiaTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-09T15:23:15+00:00"
+      },
+      {
         "id": "7ae4856c6e9a",
         "title": "KOREA (NORTH) – Musique de Corée – Folklores et Musiques de l’Univers – BAM LD 5738",
         "summary": "KOREA (NORTH)Musique de Corée&nbsp;–&nbsp;Folklores et Musiques de l’Univers&nbsp;–&nbsp;BAM LD 5738, recorded by the National Radio of Pyongyang in the late 1950s, released in 1970&nbsp;(LP)This album is a 1970 reissue of two outstanding 7-inch 33 RPM discs released between 1958 and 1960. The album...",
         "url": "https://music-republic-world-traditional.blogspot.com/2026/04/korea-north-musique-de-coree-folklores.html",
         "source": "MusicRepublic - World Traditional Music from LPs and Cassettes",
         "published": "2026-04-09T15:16:00+00:00"
-      },
-      {
-        "id": "487d80633897",
-        "title": "(Netlabel) _ _ Discography",
-        "summary": "Bandcamp Discogs Latest Release 260410:  empty carnivals - torn heaven Contained Releases (28) dagger, claw - \"looks like a really intense flute solo\" dagger, claw - aquamarine dub dagger, claw - flatlands my spirit dagger, claw - focus, my sky dagger, claw - jadeite dagger, claw - reaches inwards ....",
-        "url": "https://archive.org/details/fallen-label-discography",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-09T15:14:30+00:00"
-      },
-      {
-        "id": "4221deebe453",
-        "title": "HAYDN Klaviersonaten",
-        "summary": "HAYDN  Klaviersonaten 1   Sonate g-moll Hob. XVI:44 2   Sonate G-Dur Hob. XVI:40 3   Sonate e-moll Hob. XVI:34 4   Sonate C-Dur Hob. XVI:48 5   Sonate c-moll Hob. XVI:20 6   Sonate Es-Dur Hob....This item belongs to: audio/russian_classical_collection.This item has files of the following types: Arch...",
-        "url": "https://archive.org/details/nvhnfhx",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-09T15:09:52+00:00"
-      },
-      {
-        "id": "a7c58ed0b630",
-        "title": "HENZE Sinfonie Nr. 6",
-        "summary": "HENZE  Sinfonie Nr. 6 London Symphony Orchestra Hans Werner Henze.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nhg_20260409",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-09T15:06:43+00:00"
-      },
-      {
-        "id": "ee1fb5b502d7",
-        "title": "HENZE Die Bassariden",
-        "summary": "HENZE  Die Bassariden Chor der Wiener Staatsoper Wiener Philharmoniker Christoph von Dohnányi Salzburg, 6. 8. 1966 (UA).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogr...",
-        "url": "https://archive.org/details/bvngfxn",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-09T15:04:54+00:00"
-      },
-      {
-        "id": "4e2413c7ce46",
-        "title": "HAYDN Fantasie C-Dur Hob. XVII:4",
-        "summary": "HAYDN  Fantasie C-Dur Hob. XVII:4 András Schiff (Klavier) (1998).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nhfh_20260409",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-09T15:02:40+00:00"
-      },
-      {
-        "id": "44d666a2bbb8",
-        "title": "SET AO VIVO DJ MATHEUS CIBERNETICO BALNEARIO CONCEIÇÃ O PARTE 1 ( 06 04 2026)",
-        "summary": "gf.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-dj-matheus-cibernetico-balneario-conceica-o-parte-1-06-04-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-09T14:59:19+00:00"
-      },
-      {
-        "id": "26011357267a",
-        "title": "SET AO VIVO DJ MATHEUS CIBERNETICO ( SÓ SAUDADE ) BALNEARIO CONCEIÇÃ O ( 06 04 2026)",
-        "summary": "gffg.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-dj-matheus-cibernetico-so-saudade-balneario-conceica-o-06-04-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-09T14:59:06+00:00"
-      },
-      {
-        "id": "2e582c6a4f13",
-        "title": "SET AO VIVO DJ MATHEUS CIBERNETICO OURO NEGRO ( SAUDADE X MARCANTE ) FLOR DA NATUREZA RIO PIQUIARANA ( 05 04 2026)",
-        "summary": "fg.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-dj-matheus-cibernetico-ouro-negro-saudade-x-marcante-flor-da-naturez",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-09T14:58:47+00:00"
       },
       {
         "id": "11d6e22092ab",
@@ -427,86 +427,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -725,6 +645,22 @@
     ],
     "破(day)": [
       {
+        "id": "c94f555cbf17",
+        "title": "Pink to host 2026 Tony awards: ‘It’s the honor of an entire lifetime’",
+        "summary": "The artist will follow in the footsteps of Ariana DeBose, Cynthia Erivo and Kevin Spacey this JuneThe Tony awards have turned to a singer with a reputation for a high-energy, physical live show to be the next telecast host – Pink.The three-time Grammy award winner will make her debut as emcee for th...",
+        "url": "https://www.theguardian.com/stage/2026/apr/09/pink-2026-tony-awards-host",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-09T17:40:33+00:00"
+      },
+      {
+        "id": "fc749e534112",
+        "title": "Keith Hodiak obituary",
+        "summary": "Dancer with Ballet Rambert who later worked as a model and performed in musicals for the Royal Shakespeare CompanyKeith Hodiak, who has died aged 75, danced with Ballet Rambert from 1972 until 1975; he was one of the first Black dancers to perform with a UK national dance company.He joined the compa...",
+        "url": "https://www.theguardian.com/stage/2026/apr/09/keith-hodiak-obituary",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-09T16:39:45+00:00"
+      },
+      {
         "id": "05dcb9a604b9",
         "title": "A Doll’s House review – sex, drugs and Romola Garai in a heroic Ibsen update",
         "summary": "Almeida theatre, LondonAnya Reiss packs the marriage scandal plot with inspired ideas, from convincing talk of Instagram to a look at sexual dynamics in the crosshairs of contemporary capitalismWho would Henrik Ibsen’s Nora be in 21st-century Britain? Would her husband, Torvald still be a bank manag...",
@@ -851,6 +787,14 @@
         "url": "https://technews.tw/2026/04/09/tokenmaxxing-has-techies-debating-if-leaderboards-tracking-ai-token-use-are-a-good-idea/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-04-09T01:45:29+00:00"
+      },
+      {
+        "id": "0c401388da71",
+        "title": "Making Claude Cowork ready for enterprise",
+        "summary": "Making Claude Cowork ready for enterprise",
+        "url": "https://claude.com/blog/cowork-for-enterprise",
+        "source": "Claude Blog",
+        "published": "2026-04-09T00:00:00+00:00"
       },
       {
         "id": "00ef97278d60",
@@ -1013,14 +957,6 @@
         "published": "2026-04-08T11:45:17+00:00"
       },
       {
-        "id": "9ad3a621b7f4",
-        "title": "‘Coming out in the 90s? You might as well say ‘I love cock!’’ Nathan Lane on gay life, Broadway and defying stereotypes",
-        "summary": "The brassy actor’s performance in Death of a Salesman is the crown jewel in a life spent on stage. He says it could be his last Broadway role“It’s, like, 10 minutes. I pee, I have a cup of tea, I put the jacket back on and I go out and fight my way to the death.”The way Nathan Lane describes spendin...",
-        "url": "https://www.theguardian.com/stage/ng-interactive/2026/apr/08/nathan-lane-interview",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-08T09:00:27+00:00"
-      },
-      {
         "id": "01b4f6a51a5c",
         "title": "買一間房，掏空六個錢包：清大沈秀華談中國都會青年的婚姻與買房",
         "summary": "2008年的中國像一場炙熱的盛宴。北京奧運的璀璨煙火劃過8月夜空，向世界宣告一個政治與經濟強權崛起。無數青年湧 [&#8230;]\nThe post 買一間房，掏空六個錢包：清大沈秀華談中國都會青年的婚姻與買房 appeared first on 人文．島嶼.",
@@ -1035,6 +971,14 @@
         "url": "https://www.openbook.org.tw/article/p-72476",
         "source": "Openbook閱讀誌",
         "published": "2026-04-08T02:00:00+00:00"
+      },
+      {
+        "id": "b0505f169084",
+        "title": "Cats: The Jellicle Ball review – ingenious musical revival goes full queer ball",
+        "summary": "Broadhurst Theatre, New YorkAfter a disastrous 2019 movie, Andrew Lloyd Webber’s easily ridiculed 80s smash hit has now been transformed into something thrillingly newOne criticism lobbied at the 2019 film version of Andrew Lloyd Webber’s musical Cats was that it tried to dress the show up in too mu...",
+        "url": "https://www.theguardian.com/stage/2026/apr/07/cats-the-jellicle-ball-musical-review",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-08T01:00:11+00:00"
       },
       {
         "id": "31f779d28091",
@@ -1131,14 +1075,6 @@
         "url": "https://www.theguardian.com/stage/2026/apr/07/circus-the-greatest-showman-stage-spectacular-pt-barnum",
         "source": "Stage | The Guardian",
         "published": "2026-04-07T15:11:45+00:00"
-      },
-      {
-        "id": "eba2eacbc700",
-        "title": "‘Just so cheeky!’ Kemah Bob on FOC Fest, the celebration for femmes of colour in comedy",
-        "summary": "The standup is taking their club night to new heights with an all-day extravaganza. They talk about new talent, learning to laugh in hard times and ‘performative activism’Kemah Bob’s face lights up when they tell me about their “passion project that has got really out of hand”. In 2018, the Texan st...",
-        "url": "https://www.theguardian.com/stage/2026/apr/07/kemah-bob-foc-fest-comedy",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-07T13:52:21+00:00"
       },
       {
         "id": "be7761d97d8e",
@@ -1261,6 +1197,14 @@
         "published": "2026-04-06T04:00:43+00:00"
       },
       {
+        "id": "dd22e0675c02",
+        "title": "Those Who Walk Away – Afterlife Requiem",
+        "summary": "THOSE WHO WALK AWAY - AFTERLIFE REQUIEM\n\n\nIn 2017 - so almost ten years ago (!) - I wrote about The Infected Mass, the debut album of Those Who Walk Away (Andrew Patton). An impressive album that I still heartily recommend - but not without warning: it is a dark and haunting album, especially becaus...",
+        "url": "https://www.ambientblog.net/blog/afterlife_requiem/",
+        "source": "Ambientblog",
+        "published": "2026-04-05T19:32:20+00:00"
+      },
+      {
         "id": "102675ddc738",
         "title": "《高雄有顆藍寶石》崛起：蔡有望盡攬「群星會」歌星下高雄",
         "summary": "在電視有第四台、隨選視訊時代來臨之前，演藝江湖流傳這句話：「沒來過藍寶石大歌廳的藝人不算紅」。歌聲、笑聲、槍聲，這場大秀是怎麼開始的？得要從屏東望族出身的蔡有望，在1967年成立高雄第一家歌廳說起。",
@@ -1283,14 +1227,6 @@
         "url": "https://cdm.link/nel-incline-echo-update/",
         "source": "CDM Create Digital Music",
         "published": "2026-04-05T13:32:07+00:00"
-      },
-      {
-        "id": "4bd3e332dc5e",
-        "title": "Victoria: A Queen Unbound review – darkness lurks beneath the myth of a model royal marriage",
-        "summary": "Watermill theatre, NewburyScreenwriter Daisy Goodwin imagines the old queen revisiting her diaries and reveals a tale of control and coercion behind Albert’s dutiful devotionWhen screenwriter Daisy Goodwin read that Prince Albert liked to choose Victoria’s bonnets, she wondered: was this an act of d...",
-        "url": "https://www.theguardian.com/stage/2026/apr/05/victoria-a-queen-unbound-review-watermill-theatre-newbury",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-05T11:33:55+00:00"
       },
       {
         "id": "3270d12a3f71",
@@ -1573,6 +1509,14 @@
         "published": "2026-03-30T13:00:49+00:00"
       },
       {
+        "id": "dd071938477b",
+        "title": "Spring Clearance",
+        "summary": "So much music, not enough time.... Unfortunately, there are always more albums waiting than I can write about. And sometimes the queue only gets bigger. Below are some albums that have been waiting in vain for me to find the time to write about them but are definitely worth checking out!\n\n\n\n\n\nVARIOU...",
+        "url": "https://www.ambientblog.net/blog/spring-clearance/",
+        "source": "Ambientblog",
+        "published": "2026-03-30T11:23:42+00:00"
+      },
+      {
         "id": "93e631284ffd",
         "title": "Audit Claude Platform activity with the Compliance API",
         "summary": "Audit Claude Platform activity with the Compliance API",
@@ -1717,6 +1661,14 @@
         "published": "2026-03-24T16:37:30+00:00"
       },
       {
+        "id": "0bc709e0f72f",
+        "title": "Isabel Pine * Dobrawa Czocher",
+        "summary": "ISABEL PINE - FABLES\n\n\nAfter a few self-released EP-releases in 2021-2023 and a self-released album ('Where The Flowers Grow') in 2024, classical-trained violinist Isabel Pine now gets her well-deserved recognition with this album release. On no less than the legendary Kranky label, mind you! \n\n\nPin...",
+        "url": "https://www.ambientblog.net/blog/pine-czocher/",
+        "source": "Ambientblog",
+        "published": "2026-03-24T07:46:09+00:00"
+      },
+      {
         "id": "92c0a8ec6071",
         "title": "Auto mode for Claude Code",
         "summary": "Auto mode for Claude Code",
@@ -1763,6 +1715,14 @@
         "url": "https://claude.com/blog/product-management-on-the-ai-exponential",
         "source": "Claude Blog",
         "published": "2026-03-19T00:00:00+00:00"
+      },
+      {
+        "id": "d102ec96407c",
+        "title": "Clariloops * Robert Scott Thompson",
+        "summary": "CLARILOOPS - THE QUIET BELOW\n\n\nClariloops is the alias of Ruby (Ester Mae) Lulham, a classically trained clarinetist from Melbourne who merges her clarinet with immersive ambient music to create 'anbient works that fuse wood and wire, breath and signal'.\n\n\nThe Quiet Below was recorded at home wile p...",
+        "url": "https://www.ambientblog.net/blog/clariloops-thompson/",
+        "source": "Ambientblog",
+        "published": "2026-03-18T18:55:29+00:00"
       },
       {
         "id": "7d9818ac5a59",
@@ -1813,6 +1773,14 @@
         "published": "2026-03-17T08:00:00+00:00"
       },
       {
+        "id": "7562619e5af7",
+        "title": "Myllykoski & Äijälä * Herden & IT904",
+        "summary": "ALEKSI MYLLYKOSKI &amp; VELI-MATTI O ÄIJÄLÄ - HUMANITY\n\n\n\"We live in a world where the everyday life of war is closer to us westerners than ever before.\" Humanity was released on February 20, only a few days before the USA/Israel attack on Iran. Truer words are hardly spoken.\n\n\n'How can we change th...",
+        "url": "https://www.ambientblog.net/blog/humanity-travelogue/",
+        "source": "Ambientblog",
+        "published": "2026-03-13T19:46:52+00:00"
+      },
+      {
         "id": "bc85577215b2",
         "title": "Meriwether Lewis, William Clark … and Robert Frazer?",
         "summary": "Pvt. Robert Frazer was one of the members of the Lewis and Clark expedition and his hand-drawn map of their route was one of the first to be published. However, his plans to publish the (error filled) map and his journal of the trip never came to anything. Today, his map resides in the Geography and...",
@@ -1827,14 +1795,6 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251933",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-03-13T10:00:00+00:00"
-      },
-      {
-        "id": "5ee0f49e73fa",
-        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-        "summary": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-        "url": "https://claude.com/blog/1m-context-ga",
-        "source": "Claude Blog",
-        "published": "2026-03-13T00:00:00+00:00"
       },
       {
         "id": "05d76e3fbf3c",
@@ -1901,6 +1861,14 @@
         "published": "2026-03-09T00:39:00+00:00"
       },
       {
+        "id": "1e717f67fc3a",
+        "title": "DreamScenes – March 2026",
+        "summary": "A Place Where Silence Feels Safe\n\n\n\n&nbsp;\n\n\nTracklist:\n\n\n\n00:00 DreamScenes - Intro (Susanna)\n\n\n00:47 Reibung - Burdon To CarryChrysanthemen, 2026\n\n\n02:56 Clariloops - Slowly I WakeShades, 2026, Whitelabrecs\n\n\n06:29 Miles Lee - Charcoal Tide (edit)The Sound Of Dreams, 2026, Inspired By Breathing\n\n\n...",
+        "url": "https://www.ambientblog.net/blog/dreamscenes-march-2026/",
+        "source": "Ambientblog",
+        "published": "2026-03-08T18:55:00+00:00"
+      },
+      {
         "id": "e93814826cf0",
         "title": "NO.80－牯嶺街小劇場文化報",
         "summary": "NO.80－牯嶺街小劇場文化報 2026.03-2026.05 / 專題｜2025年度節目選拔計畫 專文｜復活 [&#8230;]",
@@ -1923,6 +1891,14 @@
         "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
         "source": "Google DeepMind",
         "published": "2026-03-05T16:30:00+00:00"
+      },
+      {
+        "id": "99523ceab6ed",
+        "title": "Machinefabriek * Meredith Bates",
+        "summary": "MACHINEFABRIEK - LIJNVERKENNING\n\n\nWith the ever increasing roster of artist releasing albums on the Quiet Details label it is no surprise to find that Machinefabriek (Rutger Zuydervelt) was invited to contribute an album to the series. His music perfectly fits the label because it is usually full of...",
+        "url": "https://www.ambientblog.net/blog/machinefabriek-bates/",
+        "source": "Ambientblog",
+        "published": "2026-03-04T18:49:30+00:00"
       },
       {
         "id": "1c2e501eb61b",
@@ -1963,6 +1939,14 @@
         "url": "https://www.transglobalwmc.com/charts/march-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-02-28T23:06:44+00:00"
+      },
+      {
+        "id": "a992f8790179",
+        "title": "Andreas Voelk & Scott Monteith * Deadbeat",
+        "summary": "ANDREAS VOELK &amp; SCOTT MONTEITH - AND ALL THE CLOCKS RAN DRY\n\n\nUntil now I never heard of Andreas Voelk (from Berlin) or from his bands Das Ende Der Liebe and Center For Mind And Brain. Canadian Scott Monteith, on the other hand, is of course well known from his Deadbeat alias.\n\n\nAnd All The Cloc...",
+        "url": "https://www.ambientblog.net/blog/voelkmonteith-deadbeat/",
+        "source": "Ambientblog",
+        "published": "2026-02-28T18:12:33+00:00"
       },
       {
         "id": "41fd99be8d4e",
@@ -2011,6 +1995,22 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251197",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-02-24T08:45:00+00:00"
+      },
+      {
+        "id": "efbfa794b124",
+        "title": "Isobel Waller-Bridge * Bolton / Cordero",
+        "summary": "ISOBEL WALLER-BRIDGE - OBJECTS\n\n\nHer name may ring a distant bell: Isobel Waller-Bridge is the sister of Phoebe Waller-Bridge, who you may remember from the Fleabag series. Isobel composed the music for Fleabag, as well as many other scores for film, television, theatre and ballet. \n\n\nBut apart from...",
+        "url": "https://www.ambientblog.net/blog/wallerbridge-boltoncordero/",
+        "source": "Ambientblog",
+        "published": "2026-02-23T18:31:37+00:00"
+      },
+      {
+        "id": "9b120dd01b07",
+        "title": "Clara Brea & Menhir * Kult Masek & Petr Vrba",
+        "summary": "CLARA BREA &amp; MENHIR - GROWING FORESTS IN THE CITY\n\n\nIn 2022, the Astral Industries label released The Wetland Remixes - a collaboration project of Son Of Chi (Hanyo van Oosterom, from Holland) and Spanish artist Clara Brea. The original stems of the 'Wetland Project' were remixed by Son Of Chi a...",
+        "url": "https://www.ambientblog.net/blog/cbreamenhir-kultmasek-vrba/",
+        "source": "Ambientblog",
+        "published": "2026-02-18T19:37:40+00:00"
       },
       {
         "id": "ce430890dc55",
@@ -2220,7 +2220,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-09T16:25:29.325980+00:00"
+        "published": "2026-04-09T18:03:23.434400+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2228,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-09T16:25:29.325970+00:00"
+        "published": "2026-04-09T18:03:23.434389+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2236,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-09T16:25:29.325960+00:00"
+        "published": "2026-04-09T18:03:23.434379+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2244,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-09T16:25:29.325950+00:00"
+        "published": "2026-04-09T18:03:23.434368+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2252,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-09T16:25:29.325940+00:00"
+        "published": "2026-04-09T18:03:23.434357+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2260,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-09T16:25:29.325929+00:00"
+        "published": "2026-04-09T18:03:23.434346+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2268,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-09T16:25:29.325919+00:00"
+        "published": "2026-04-09T18:03:23.434336+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2276,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-09T16:25:29.325909+00:00"
+        "published": "2026-04-09T18:03:23.434326+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2284,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-09T16:25:29.325899+00:00"
+        "published": "2026-04-09T18:03:23.434315+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2292,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-09T16:25:29.325889+00:00"
+        "published": "2026-04-09T18:03:23.434305+00:00"
       },
       {
         "id": "acbcf2bd5517",
