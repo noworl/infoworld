@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-04-10T19:06:38.983093+00:00",
+  "updated_at": "2026-04-10T20:49:53.056568+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "0d3a790321b8",
+        "title": "HAYDN Streichquartett F-Dur Hob. III:82",
+        "summary": "HAYDN  Streichquartett F-Dur Hob. III:82 Alban-Berg-Quartett.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/cngxf",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-10T19:52:59+00:00"
+      },
+      {
+        "id": "406be71a3572",
+        "title": "HAYDN Streichquartett G-Dur Hob. III:81",
+        "summary": "HAYDN  Streichquartett G-Dur Hob. III:81 Alban-Berg-Quartett.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nhf_20260410",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-10T19:51:26+00:00"
+      },
+      {
+        "id": "f7925d639726",
+        "title": "BERIO Notturno (Quartetto III)",
+        "summary": "BERIO  Notturno (Quartetto III) Alban-Berg-Quartett London, 12. 5. 1994.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nxgf_20260410",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-10T19:38:19+00:00"
+      },
+      {
+        "id": "811d33b8d1e9",
+        "title": "SET AO VIVO DJ GIGIO BOY EM SOURE ( MARAJÓ ) 04 04 2026",
+        "summary": "FD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-gigio-boy-em-soure-marajo-04-04-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-10T19:34:23+00:00"
+      },
+      {
+        "id": "8a94eacf2d14",
+        "title": "SET AO VIVO DJ GIGIO BOY NA VIA SHOW 02 04 2026",
+        "summary": "FD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-gigio-boy-na-via-show-02-04-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-10T19:34:12+00:00"
+      },
+      {
+        "id": "b6c71f3f7043",
+        "title": "SET AO VIVO DJ GIGIO BOY NO BOLE BOLE 02 04 2026",
+        "summary": "FD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-gigio-boy-no-bole-bole-02-04-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-10T19:34:06+00:00"
+      },
+      {
+        "id": "e89c27f78b96",
+        "title": "SET AO VIVO DJ GIGIO BOY NO PALACIO DOS BARES 06 04 2026",
+        "summary": "FD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-gigio-boy-no-palacio-dos-bares-06-04-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-10T19:33:58+00:00"
+      },
+      {
+        "id": "3fd3d946206f",
+        "title": "CoGioiTuTienChiNgoaiDaoMaTonTH",
+        "summary": "CoGioiTuTienChiNgoaiDaoMaTonTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/CoGioiTuTienChiNgoaiDaoMaTonTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-10T19:18:56+00:00"
+      },
+      {
+        "id": "135d0d8758e9",
+        "title": "DaoGiaMuonTruongSinhTH",
+        "summary": "DaoGiaMuonTruongSinhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Text, VBR MP3",
+        "url": "https://archive.org/details/DaoGiaMuonTruongSinhTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-10T19:17:38+00:00"
+      },
+      {
         "id": "84a679f5f2d9",
         "title": "HAUER Werke für Violine und Orchester",
-        "summary": "HAUER  Werke für Violine und Orchester Thomas Christian (Violine) Radio-Symphonieorchester Wien Gottfried Rabl (2004/05).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata, VBR MP3",
+        "summary": "HAUER  Werke für Violine und Orchester Thomas Christian (Violine) Radio-Symphonieorchester Wien Gottfried Rabl (2004/05).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadat...",
         "url": "https://archive.org/details/nh_20260410",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-10T17:34:59+00:00"
-      },
-      {
-        "id": "7c0f11415b5d",
-        "title": "CauDaoTruongSinhThemDiemQuetNgangTienThanKiepTH",
-        "summary": "CauDaoTruongSinhThemDiemQuetNgangTienThanKiepTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/CauDaoTruongSinhThemDiemQuetNgangTienThanKiepTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-10T17:11:10+00:00"
-      },
-      {
-        "id": "b3c7c41c8aa0",
-        "title": "TuHopVienTaChinhLaHaVuTruTH",
-        "summary": "TuHopVienTaChinhLaHaVuTruTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/TuHopVienTaChinhLaHaVuTruTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-10T17:00:05+00:00"
-      },
-      {
-        "id": "7a46797337eb",
-        "title": "HAYDN Die sieben letzten Worte unseres Erlösers am Kreuze",
-        "summary": "HAYDN  Die sieben letzten Worte unseres Erlösers am Kreuze Juilliard Quartet Benita Valente (Sopran) Jan DeGaetani (Mezzosopran) Jon Humphrey (Tenor) Thmoas Paul (Baß) (1987).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac...",
-        "url": "https://archive.org/details/hzf_20260410",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-10T16:56:02+00:00"
-      },
-      {
-        "id": "796605699a7e",
-        "title": "DJ JOSUE E CAROL PRADO VEM CURTIR O ICÔ NICO TUPINAMBA ( TECNOBREGA)",
-        "summary": "gh.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/dj-josue-e-carol-prado-vem-curtir-o-ico-nico-tupinamba-tecnobrega",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-10T16:33:04+00:00"
-      },
-      {
-        "id": "a506bd1be26a",
-        "title": "ALLANZINHO & BANDA 007 ARROCHA 2026 ATUALIZADO ( Macaxeira Produções)",
-        "summary": "hgg.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/allanzinho-banda-007-arrocha-2026-atualizado-macaxeira-producoes",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-10T16:32:17+00:00"
-      },
-      {
-        "id": "374531d1c7b0",
-        "title": "HAYDN Sämtliche Klaviersonaten",
-        "summary": "HAYDN  Sämtliche Klaviersonaten (1/2) Walter Olbertz (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
-        "url": "https://archive.org/details/nmjf_20260410",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-10T16:27:06+00:00"
-      },
-      {
-        "id": "e805765b90b9",
-        "title": "26-04-10",
-        "summary": "András Hamary: 24 Préludes, Hefte 1 und 2 (Markus Bellheim, Klavier); Tobias Giesen: \"... denkt er an Schumann ...\" (Hába Quartett Frankfurt); Claus Kühnl: \"Zeitfülle\" (Julia Okruashvili, Klavier; Niklas Liepe, Violine; Peijun Xu, Viola; Gabriel Schwabe, Violoncello).This item belongs to: audio/russ...",
-        "url": "https://archive.org/details/26-04-10",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-10T15:18:24+00:00"
-      },
-      {
-        "id": "10c7e249bb75",
-        "title": "26-04-08",
-        "summary": "Rainer Rubbert: Concertino (Ulrich Krieger, Saxofon; Universal Ensemble Berlin: Gerald Humel); Jürgen Schmitt: \"Vil Sturm & linde Zeit\" (Toscana Ensemble für Neue Musik); Rainer Pezolt: \"Elegia metallica\" (Antje Gerlof, Flöte; Anne-Kathrein Jordan, Klavier); Bernhard Weidner: \"Miniatur\" (Ensemble......",
-        "url": "https://archive.org/details/26-04-08",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-10T15:12:54+00:00"
-      },
-      {
-        "id": "a1cd9b0ab1ad",
-        "title": "26-04-09",
-        "summary": "Dorothee Eberhardt: \"Kymata\" (Trio Tricolor); Klaus K. Hübler: \"Arie dissolute\" (Barbara Maurer, Viola; Ensemble Köln: Robert HP Platz); Oskar Sigmund: Toccata, Canon, Fuge und Hymnus (Eberhard Kraus, Orgel); Steffen Schorn: \"Three Pictures\" (Roger Hanschel, Steffen Schorn, Christine Rall, Elliot .....",
-        "url": "https://archive.org/details/26-04-09",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-10T15:11:19+00:00"
       },
       {
         "id": "f942b7d8aeef",
@@ -645,6 +645,14 @@
     ],
     "破(day)": [
       {
+        "id": "eb43ebcd7296",
+        "title": "Good Golly Miss Molly! review – people power with a joyous rock’n’roll spin",
+        "summary": "New Vic theatre, Newcastle-under-LymeA residents’ association fights to save its housing in Bob Eaton’s jolly slice of social history, with a live band belting out the songsAt some point in the middle of the second half, you notice how insinuatingly Bob Eaton’s show has taken a hold of you. Until th...",
+        "url": "https://www.theguardian.com/stage/2026/apr/10/good-golly-miss-molly-review-new-vic-bob-eaton",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-10T19:00:26+00:00"
+      },
+      {
         "id": "22060d527266",
         "title": "Flyby review – interstellar musical is a voyage of epic strangeness",
         "summary": "Southwark Playhouse Borough, LondonThe songs soar and blast in this inventive tale of a toxic romance – though it needs a few tweaks to be truly brilliantThe scope and ambition of this dark musical by Theo Jamieson and Adam Lenson are boundless. A jagged, time- and space-travelling drama about the e...",
@@ -709,14 +717,6 @@
         "published": "2026-04-10T03:07:32+00:00"
       },
       {
-        "id": "c551ff0c77b1",
-        "title": "Bronwyn Kuss: Bronwyn & Sons review – parchingly dry comedy about success in your late 30s",
-        "summary": "Melbourne international comedy festivalA show about coming to terms with the fact that you might not have children, delivered with a deadpan humour that feels specifically AustralianGet our weekend culture and lifestyle emailA drunk witch once told Bronwyn Kuss to have a baby. She didn’t. But she’s ...",
-        "url": "https://www.theguardian.com/stage/2026/apr/10/bronwyn-kuss-melbourne-comedy-festival-review",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-10T02:07:14+00:00"
-      },
-      {
         "id": "fcdbbb5bebee",
         "title": "Death of a Salesman review – Nathan Lane and Laurie Metcalf hypnotize in revival",
         "summary": "Winter Garden Theatre, New YorkArthur Miller’s 1949 autopsy of the American dream finds new urgency in a stripped-back productionSomewhere in New York, in the middle of the night, a tired man returns home from work. His shoulders are hunched, his gait shuffling and weary. Given the retro coupe he dr...",
@@ -745,6 +745,14 @@
         "title": "Multi-agent coordination patterns: Five approaches and when to use them",
         "summary": "Multi-agent coordination patterns: Five approaches and when to use them",
         "url": "https://claude.com/blog/multi-agent-coordination-patterns",
+        "source": "Claude Blog",
+        "published": "2026-04-10T00:00:00+00:00"
+      },
+      {
+        "id": "f7606c6bf1ab",
+        "title": "Seeing like an agent: how we design tools in Claude Code",
+        "summary": "Seeing like an agent: how we design tools in Claude Code",
+        "url": "https://claude.com/blog/seeing-like-an-agent",
         "source": "Claude Blog",
         "published": "2026-04-10T00:00:00+00:00"
       },
@@ -1461,6 +1469,14 @@
         "published": "2026-04-01T10:05:53+00:00"
       },
       {
+        "id": "1ea76644fb6f",
+        "title": "外臺戲明日之星「變身・超進化」！ 2026民間戲曲劇藝提升計畫聯演 4/10起連三週熱鬧登場",
+        "summary": "春暖花開的四月天，最適合相揪來到戲棚下，重溫廟口野臺看戲、逛市集的熱鬧日常！國立傳統藝術中心將於4月10日至4月26日，在臺灣戲曲中心戶外廣場及小舞台盛大舉行「民間戲曲劇藝提升計畫」進階成果展演，現場不僅有連續三週的免費外臺好戲可欣賞，更同步結合「藝食市集」與深度戲曲體驗活動，邀請民眾走進練功場親身參與。這項兩年制的培訓計畫，初衷在於傳承並提升外臺戲班演藝人員的專業品質，透過專業課程強化培訓人員的技藝功底。在去年初階培訓累積的扎實基礎下，今年特別以「變身・超進化」為核心精神，為各團客製專屬的精進課程，期許這群新秀在歷經各專業領域名師的傾囊相授與精實課程打磨後，能超越自我，在舞臺上綻放光芒，變身...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=253089",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-04-01T08:35:00+00:00"
+      },
+      {
         "id": "6314030d2335",
         "title": "會是愚人節玩笑嗎？伊朗威脅攻擊包括輝達、微軟、蘋果等 18 家跨國企業",
         "summary": "中東地緣政治衝突已正式延燒至全球科技與人工智慧（AI）產業的核心地帶！伊朗伊斯蘭革命衛隊（IRGC）以通訊軟體 [&#8230;]",
@@ -1629,6 +1645,14 @@
         "published": "2026-03-27T09:30:10+00:00"
       },
       {
+        "id": "4388909d2fea",
+        "title": "「藝起守護．世代傳承」 戲曲功夫不失傳　歌仔戲藝師技藝保存暨影音教學宣告上線",
+        "summary": "為保存及傳承傳統表演藝術珍貴技藝，國立傳統藝術中心持續系統性地針對不同行當藝師的拿手劇目進行數位技藝保存及示範解說，發揮紀錄、保存、觀賞、教學與研究等多重功能。繼首期完成小咪、孫榮輝、許亞芬、張孟逸四位藝師的技藝紀錄後，第二期續完成林美香、陳昭香、張秀琴三位歌仔戲資深藝師之技藝保存紀錄，傳藝中心於3月27日舉辦藝師技藝數位保存上線宣告記者會，林美香、陳昭香、張秀琴三位藝師親臨記者會現場，演示教學戲齣精華，展現藝師們技藝亮點及教學影音特色，最後由傳藝中心陳悅宜主任、三位藝師及計畫顧問一同拉下象徵傳承的卷軸，宣告三位藝師技藝數位保存影音正式上線！傳藝中心主任陳悅宜表示，感謝三位藝師投入大量心力及時...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252692",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-27T08:21:00+00:00"
+      },
+      {
         "id": "01b1d48dfdc6",
         "title": "Marion Post Wolcott: Documenting America",
         "summary": "Marion Post Wolcott was an unknown 28-year-old photographer when she first picked up her cameras for the Farm Security Administration in the autumn of 1938. What followed was a remarkable four years of near constant travel and photography that would elevate her, over time, into being regarded as one...",
@@ -1643,6 +1667,14 @@
         "url": "https://humanityisland.nccu.edu.tw/weichangshann_a/",
         "source": "人文．島嶼",
         "published": "2026-03-25T02:00:33+00:00"
+      },
+      {
+        "id": "0841c8296da6",
+        "title": "2026臺灣戲曲藝術節 旗艦製作《金銀天狗》及《紅蝴蝶追香》聲音特展　 向歌仔戲黃金內台時期致敬",
+        "summary": "2026臺灣戲曲藝術節以「純棉與混種@繁花世代」為策展主題，匯聚21個團隊推出20齣精彩節目。為能呈現歌仔戲最繁盛內臺時期的藝術風華，今年旗艦製作特別委託國立臺灣戲曲學院，將當時全台最具規模團隊「拱樂社」的經典連台大戲《金銀天狗》，以上下本形式重現舞台。除了精彩系列演出，今年更首度於臺灣音樂館3樓特展室推出為期近3個月的「紅蝴蝶追香──從內臺到劇場的聲音特展」，藉由珍貴的歷史影音，重溯1950至70年代商業內臺的多聲腔聲景。邀請觀眾透過本屆藝術節「系列演出」及「聲音特展」的雙重規劃，更深刻的品味臺灣戲曲發展歷程的豐姿百態，見證永不停止變異的強韌生命力。傳藝中心主任陳悅宜表示，2026年臺灣戲曲...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252516",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-25T01:48:00+00:00"
       },
       {
         "id": "70ec4a7df70e",
@@ -1669,12 +1701,12 @@
         "published": "2026-03-24T00:00:00+00:00"
       },
       {
-        "id": "cdf4b94ba640",
-        "title": "Put Claude to work on your computer",
-        "summary": "Put Claude to work on your computer",
-        "url": "https://claude.com/blog/dispatch-and-computer-use",
-        "source": "Claude Blog",
-        "published": "2026-03-23T00:00:00+00:00"
+        "id": "03ec3b93fd1e",
+        "title": "115年度傳藝Go Young 校園巡演計畫 即日起開始徵件 歡迎傳統演藝團隊共展魅力 推動兒童戲曲",
+        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;為推廣傳統表演藝術、深化國小學生對傳統戲曲與國家語言的認識，國立傳統藝術中心啟動「115年度傳藝Go Young校園巡演計畫」，自即日起受理團隊申請，邀請傳統演藝團隊共襄盛舉，一同將多元的傳統藝術帶入校園，培養新世代的欣賞人口。&nbsp; &nbsp; &nbsp; 「傳藝Go Young校園巡演計畫」於112年首次辦理，由傳藝中心主辦、文化部、教育部指導，112至114年已累計98個演藝團隊參與，內容涵蓋布袋戲、歌仔戲、客家戲、傳統古謠與樂舞、說唱、傀儡及皮影戲等多元國家語言傳統表演形式。計畫執行期間，巡演足跡遍布全臺696所學校，共計...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252411",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-23T06:50:00+00:00"
       },
       {
         "id": "ec0ef74bcc92",
@@ -1757,6 +1789,14 @@
         "published": "2026-03-13T13:00:01+00:00"
       },
       {
+        "id": "350bfd879573",
+        "title": "陸森寶生命史與歌謠全新修訂出版 傳承部落音樂文化",
+        "summary": "為保存與重現臺灣原住民族重要音樂資產，國立傳統藝術中心臺灣音樂館今（13）日於臺灣戲曲中心舉辦「卑南族音樂家陸森寶生命史暨音樂創作專輯發表會」，針對陸森寶的生命史與音樂創作進行全面修訂與出版，推出專書《Baliwakes：風的速度，祖先的旋律&mdash;卑南族音樂家陸森寶的生平與創作》與音樂創作專輯《Baliwakes：風的速度，祖先的旋律&mdash;卑南族音樂家陸森寶的創作歌謠》，透過文字與聲音兩種媒介重新呈現其生命歷程與創作軌跡，並以標準族語符號系統重新標註歌詞，完整收錄46首作品，讓部落音樂文化得以持續傳承。陸森寶（1910－1988）為戰後臺灣原住民族重要音樂創作者與教育者，一生創...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251933",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-13T10:00:00+00:00"
+      },
+      {
         "id": "05d76e3fbf3c",
         "title": "Platform 37 and The AI Exchange: new spaces for AI innovation and discovery",
         "summary": "Platform 37 building",
@@ -1771,6 +1811,14 @@
         "url": "https://www.glt.org.tw/?p=13791",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-03-12T08:53:22+00:00"
+      },
+      {
+        "id": "e36612a9578a",
+        "title": "傳藝工坊邁入十週年，累積近80萬人參觀！ 新工種首度亮相，邀您親睹接班好手路",
+        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;由國立傳統藝術中心主辦的「傳統藝術接班人－傳統工藝推廣計畫」，自106年開辦至今，已邁入第十年，累積8項工種工藝師進駐宜蘭園區傳藝工坊，展現接班人好手路。辦理至今，駐園創作時數突破5萬小時、辦理推廣活動場次超過3千場、吸引近80萬人次造訪參觀，成果豐碩！本年度自115年3月5日起至12月16日，則由6項工種、12位工藝師進駐現場，不只展示手上真功夫，更要帶領民眾體驗傳統工藝走進日常的迷人魅力。&nbsp; &nbsp; &nbsp; &nbsp;傳藝中心表示，為協助傳統藝術人才傳承與發展，推廣傳統藝術，透過本計畫提供文化部文化資產局「重要傳...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251817",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-12T05:58:00+00:00"
       },
       {
         "id": "adede8686702",
@@ -1803,6 +1851,14 @@
         "url": "https://www.glt.org.tw/?p=13785",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-03-10T11:23:39+00:00"
+      },
+      {
+        "id": "d48d7b4f7c98",
+        "title": "韓國盤索里跨界鉅作《看・見沈清》5月盛大登台！",
+        "summary": "國立傳統藝術中心主辦「2026臺灣戲曲藝術節」即將迎來韓國跨界重量級鉅獻！韓國頂尖製作團隊MUTO與IPKOASON，帶來融合傳統戲曲、電子音樂與多媒體影像的科技藝術傑作《看・見沈清》（原文：두개의눈/THE TWO EYES）。本節目將於5月1日至5月3日於臺灣戲曲中心大表演廳連續演出三場，為觀眾呈現韓國經典傳統藝術與創新舞台科技的精彩對話。《看・見沈清》改編自韓國傳統說唱藝術「盤索里」最具代表性的傳世作品《沈清歌》。原作以孝女沈清為主角，描繪她為使失明父親重見光明而犧牲自身的感人傳說，而《看・見沈清》則跳脫既有敘事框架，將焦點轉向父親「沈學奎」的生命歷程，以多重視角呈現一位父親在失去與抉擇...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251668",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-09T00:39:00+00:00"
       },
       {
         "id": "1e717f67fc3a",
@@ -1869,6 +1925,14 @@
         "published": "2026-03-03T17:00:00+00:00"
       },
       {
+        "id": "7aa3b71f3fad",
+        "title": "樂聲啟程，繪夢寶島！臺灣國樂團2026【國樂頻道】系列節目啟動  打造0到99歲共賞的藝術時光",
+        "summary": "國立傳統藝術中心臺灣國樂團（NCO）深受大眾喜愛的推廣系列節目【國樂頻道】，於2026年正式啟航！本年度系列節目特別規劃《NCO火車出發！》、《白賊七》及《寶島海洋大探險！》三大主題，透過在地文化、民間傳說與環境教育等多元視角，打造「0到99歲」皆可自在參與、共享藝術樂趣的音樂空間，具體落實國樂教育向下紮根的品牌理念。臺灣國樂團團長吳定哲表示，NCO長年致力於人才培育與傳統文化推廣，希望透過【國樂頻道】活潑且具親和力的演出形式，讓國樂跨越年齡藩籬。今年度演出不僅以臺灣戲曲中心為基地，更將分別於5月及9月前往高雄衛武營與新北市淡水，邀請全國大小朋友在音樂中探尋土地的故事。捷克繪本大師跨界合作，聽...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251611",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-02T01:12:00+00:00"
+      },
+      {
         "id": "b523b391813e",
         "title": "March 2026 Chart",
         "summary": "1. Neba Solo &#38; Benego Diakité · A Djinn and a Hunter Went Walking · Nonesuch [2] 2. Canzoniere Grecanico Salentino · Il Mito · Ponderosa Music [1] 3. Stelios Petrakis · Lyric / Lyrikon · Buda Musique [11] 4. Altın Gün · Garip · Glitterbeat [-] 5. Catrin Finch · Notes to Self · [&#8230;]",
@@ -1923,6 +1987,14 @@
         "url": "https://aseanplusjournal.com/2026/02/24/foreigners-investment-in-thailand/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-02-24T14:21:25+00:00"
+      },
+      {
+        "id": "a318fa604baa",
+        "title": "「接班人好戲台」邁入第十年　累計近40萬人次觀賞 2月27日起16組團隊、376場演出　持續展現傳統藝術經典魅力",
+        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;由國立傳統藝術中心主辦的「傳統藝術接班人－駐園演出計畫」（「接班人好戲台」），自民國106年開辦至今即將邁入第10年。歷年來該計畫已累積23組表演團隊、73位結業藝生參與，共完成3,516場演出，吸引近40萬人次觀賞，成果豐碩。115年度將自2月27日起於傳藝中心宜蘭園區展開，辦理188天、376場次的演出，推出內容多元、形式豐富的演出節目，邀請民眾一同感受臺灣傳統表演藝術的深厚底蘊與動人魅力。&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; 傳藝中心表示，「傳統藝術接班人－駐園演出計畫」自10...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251197",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-02-24T08:45:00+00:00"
       },
       {
         "id": "efbfa794b124",
@@ -2027,6 +2099,14 @@
         "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
         "source": "Google DeepMind",
         "published": "2026-02-04T16:55:00+00:00"
+      },
+      {
+        "id": "46b3fb2c4252",
+        "title": "臺灣音樂館出版原住民族流行音樂研究成果　兩本新書完整呈現發展軌跡",
+        "summary": "國立傳統藝術中心臺灣音樂館於今（4）日舉辦「臺灣原住民族流行音樂研究暨口述歷史」系列新書發表會，正式對外發表臺灣音樂館於2025年推動之研究與出版計畫成果。本次出版計畫延續去（114）年於華山文創園區及花蓮文創園區舉辦的原住民流行音樂主題特展。當時透過唱片、影像與相關史料的呈現，帶領觀眾回顧戰後原住民族流行音樂的發展軌跡，也讓許多曾經在生活中被反覆聆聽的歌聲，再次被聽見、被討論。此次將研究成果整理成書，正是希望讓這些音樂不只停留在展場中，而能以出版的形式長久保存，成為未來持續使用與理解的重要素材。本次發表的兩本專書，分別從學術研究與口述歷史兩個角度切入。第一本《原音重現：從傳統到流行的音樂軌跡...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=250523",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-02-04T10:00:00+00:00"
       },
       {
         "id": "8e9adde52743",
@@ -2140,7 +2220,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-10T19:06:38.982589+00:00"
+        "published": "2026-04-10T20:49:53.056041+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2148,7 +2228,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-10T19:06:38.982579+00:00"
+        "published": "2026-04-10T20:49:53.056030+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2156,7 +2236,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-10T19:06:38.982569+00:00"
+        "published": "2026-04-10T20:49:53.056020+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2164,7 +2244,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-10T19:06:38.982559+00:00"
+        "published": "2026-04-10T20:49:53.056010+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2172,7 +2252,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-10T19:06:38.982549+00:00"
+        "published": "2026-04-10T20:49:53.056000+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2180,7 +2260,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-10T19:06:38.982539+00:00"
+        "published": "2026-04-10T20:49:53.055989+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2188,7 +2268,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-10T19:06:38.982529+00:00"
+        "published": "2026-04-10T20:49:53.055979+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2196,7 +2276,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-10T19:06:38.982519+00:00"
+        "published": "2026-04-10T20:49:53.055969+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2204,7 +2284,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-10T19:06:38.982509+00:00"
+        "published": "2026-04-10T20:49:53.055959+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2212,7 +2292,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-10T19:06:38.982498+00:00"
+        "published": "2026-04-10T20:49:53.055949+00:00"
       },
       {
         "id": "4ffee64138fc",
