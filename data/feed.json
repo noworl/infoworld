@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T22:57:22.794118+00:00",
+  "updated_at": "2026-04-14T23:54:20.077797+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -13,7 +13,7 @@
       {
         "id": "35be43578f73",
         "title": "Мелодия",
-        "summary": "BEETHOVEN BRAHMS.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, Metadata",
+        "summary": "BEETHOVEN BRAHMS.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/nbv_20260414",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-14T21:50:59+00:00"
@@ -45,7 +45,7 @@
       {
         "id": "3432252ca446",
         "title": "Мелодия",
-        "summary": "VIEUXTEMPS PAGANINI SCHUMANN LISZT.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, Metadata",
+        "summary": "VIEUXTEMPS PAGANINI SCHUMANN LISZT.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/bngf_20260414",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-14T21:18:22+00:00"
@@ -724,6 +724,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "db6023a24630",
+        "title": "博通與 Meta 合作協議延長至 2029 年，雙方合作 MTIA 晶片將擴大部屬",
+        "summary": "科技大廠 Meta 與晶片廠商博通（Broadcom）宣布達成一項重大協議，內容是將雙方在 Meta 內部客製 [&#8230;]",
+        "url": "https://technews.tw/2026/04/15/broadcom-extends-its-partnership-agreement-with-meta-until-2029/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-04-14T23:30:08+00:00"
+      },
       {
         "id": "721782472223",
         "title": "Intellijel made Swells a playable reverb with faders, rise, fall, ebb, and flow",
@@ -1605,14 +1613,6 @@
         "published": "2026-04-03T13:00:18+00:00"
       },
       {
-        "id": "d0d686776e60",
-        "title": "Meta 收購 Manus，北京：必須遵守法律法規",
-        "summary": "Meta 去年 12 月宣布將收購 AI 新創公司 Manus，中國政府關切交易案。中國商務部發言人何亞東 2 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/04/03/meta-manus/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-04-03T01:45:48+00:00"
-      },
-      {
         "id": "8d4eeac5b13c",
         "title": "Sea Stars Can Lose an Arm and Soldier On. What If Robots Could Do the Same?",
         "summary": "Bioinspiration looks to nature for clues on how to build more efficient, resilient robots",
@@ -2292,7 +2292,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-14T22:57:22.793547+00:00"
+        "published": "2026-04-14T23:54:20.077259+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2300,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-14T22:57:22.793537+00:00"
+        "published": "2026-04-14T23:54:20.077249+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2308,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-14T22:57:22.793527+00:00"
+        "published": "2026-04-14T23:54:20.077238+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2316,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-14T22:57:22.793517+00:00"
+        "published": "2026-04-14T23:54:20.077228+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2324,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-14T22:57:22.793507+00:00"
+        "published": "2026-04-14T23:54:20.077217+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2332,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-14T22:57:22.793497+00:00"
+        "published": "2026-04-14T23:54:20.077207+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2340,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-14T22:57:22.793488+00:00"
+        "published": "2026-04-14T23:54:20.077196+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2348,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-14T22:57:22.793478+00:00"
+        "published": "2026-04-14T23:54:20.077186+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2356,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-14T22:57:22.793468+00:00"
+        "published": "2026-04-14T23:54:20.077176+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2364,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-14T22:57:22.793459+00:00"
+        "published": "2026-04-14T23:54:20.077165+00:00"
       },
       {
         "id": "4ffee64138fc",
