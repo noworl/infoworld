@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-04-15T08:49:49.488487+00:00",
+  "updated_at": "2026-04-15T10:23:16.682667+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "8280d1f98760",
+        "title": "基隆北海岸晚間防雨　18日全台有雨北部降溫",
+        "summary": "（中央社記者張雄風台北15日電）氣象署表示，今晚受鋒面影響，基隆北海岸留意較大雨勢，明天水氣仍偏多；18日鋒面通過，加上東北季風增強，是未來一週降雨最顯著的一天，幾乎全台有雨，北部、宜花高溫略降。",
+        "url": "https://www.cna.com.tw/news/ahel/202604150261.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-15T09:37:47+00:00"
+      },
+      {
+        "id": "bf3efffb33b5",
+        "title": "勞動部就業博覽會開跑 500廠商釋出逾1.5萬個職缺",
+        "summary": "（中央社記者吳欣紜台北15日電）因應產業用人需求持續升溫及勞動市場加速轉型，勞動部5場年度大型就業博覽會開跑，總計超過500家廠商參與、釋出1.5萬個職缺，並提供多項職涯服務，幫助民眾順利求職。",
+        "url": "https://www.cna.com.tw/news/ahel/202604150251.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-15T09:26:26+00:00"
+      },
+      {
+        "id": "313b51adb4f9",
+        "title": "訂房網站資安外洩　Booking.com：重設訂單PIN碼",
+        "summary": "（中央社記者余曉涵台北15日電）知名訂房網站Booking.com證實資安外洩，業者表示，在發現此情況時，已立即採取行動，更新訂單的PIN碼，並通知相關消費者。",
+        "url": "https://www.cna.com.tw/news/ahel/202604150237.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-15T09:19:57+00:00"
+      },
+      {
+        "id": "745f460cae52",
+        "title": "農業部：鼓勵洗選蛋強化溯源　確保食安",
+        "summary": "（中央社記者汪淑芬台北15日電）農業部1月預告修正洗選蛋規定，7月起一定規模餐飲業納入洗選蛋溯源對象。農業部今天說，強化雞蛋溯源，採非強制的鼓勵性質，食安辦也將請衛福部與農業部聯合稽查，確保食安。",
+        "url": "https://www.cna.com.tw/news/ahel/202604150227.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-15T09:06:36+00:00"
+      },
+      {
+        "id": "0332ca087067",
+        "title": "苗栗大鵬風機更新環評過初審 環委盼拆濕地4機組",
+        "summary": "（中央社記者張雄風台北15日電）苗栗後龍大鵬風機於2006年商轉，近期提出更新改建計畫，擬減少5座機組、更新16座，今天進行第3次環評初審。環委雖同意補充修正通過，但也建議開發單位評估拆除西湖濕地內4座風機。",
+        "url": "https://www.cna.com.tw/news/ahel/202604150225.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-15T09:03:31+00:00"
+      },
+      {
+        "id": "d24a41831cfd",
+        "title": "寵物缺藥　石崇良：應回歸動保法、不宜修藥事法",
+        "summary": "（中央社記者沈佩瑤台北15日電）多名立委質疑人藥用於寵物的管理辦法不夠貼近動物醫療現場。衛福部長石崇良強調，不宜修藥事法，應回歸動保法處理；農業部說，暫緩的管理辦法將註銷，新辦法上路暫無時間表。",
+        "url": "https://www.cna.com.tw/news/ahel/202604150218.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-15T08:49:17+00:00"
+      },
+      {
+        "id": "9041de58a762",
+        "title": "主婦頻忘瑣事非正常老化　錯過防失智關鍵10年",
+        "summary": "（中央社記者曾以寧台北15日電）1名67歲的家庭主婦開始頻繁忘記瑣事，家人以為是正常老化，沒想到10年後，腦部影像顯示大腦已顯著萎縮。醫師表示，等失智影響生活才就醫，神經網絡損傷恐，已難挽回。",
+        "url": "https://www.cna.com.tw/news/ahel/202604150211.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-15T08:31:02+00:00"
+      },
+      {
+        "id": "e7d9201ad42d",
+        "title": "中大團隊研發抗擾機器手臂　提升精確度、適應力",
+        "summary": "（中央社記者許秩維台北15日電）中央大學電機工程系副教授吳俊緯帶領團隊，將強化學習、傳統控制與先進控制技術進行深度整合，打造出高穩定度的「抗擾」機器手臂，可提升機器手臂的精確度與適應力。",
+        "url": "https://www.cna.com.tw/news/ahel/202604150183.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-15T07:31:02+00:00"
+      },
       {
         "id": "a4725283a979",
         "title": "澎湖花火節5/4登場  旅遊業者推東北海秘境",
@@ -33,14 +97,6 @@
         "url": "https://archive.org/details/BatDauDanhDauTamPhanQuyNguyenKhiTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-15T06:17:57+00:00"
-      },
-      {
-        "id": "7c208b482a40",
-        "title": "國教盟：性平法造成校園集體焦慮　3大方向修法",
-        "summary": "（中央社記者陳至中台北15日電）立法院研修性別平等教育法，國教盟說，現行規範造成校園集體焦慮，包括邊界模糊、程序傷人及教育缺位，調查單位承載過度；呼籲修法3大方向為定義釐清、案件分流及回歸教育。",
-        "url": "https://www.cna.com.tw/news/ahel/202604150148.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-15T06:01:45+00:00"
       },
       {
         "id": "ccefe17649fd",
@@ -75,14 +131,6 @@
         "published": "2026-04-15T05:19:52+00:00"
       },
       {
-        "id": "21fd321d28f7",
-        "title": "父母各捐罕病兒1器官 台大首度完成童肝腎雙重移植",
-        "summary": "（中央社記者曾以寧台北15日電）今年12歲的許姓男童罹罕疾先天性肝臟纖維化與先天性膽管擴張症等疾病，肝臟及腎臟先後惡化，1年內先後接受父母捐贈肝腎，由台大醫院完成院內首例兒童肝腎雙器官移植。",
-        "url": "https://www.cna.com.tw/news/ahel/202604150136.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-15T05:18:19+00:00"
-      },
-      {
         "id": "0b953a31f05e",
         "title": "VoThanhTuVutBoTheGioiBatDauTH",
         "summary": "VoThanhTuVutBoTheGioiBatDauTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
@@ -91,52 +139,12 @@
         "published": "2026-04-15T05:08:13+00:00"
       },
       {
-        "id": "ea6107ec3a28",
-        "title": "歐洲女子數學奧林匹亞競賽　台摘2銀1銅國際排13",
-        "summary": "（中央社記者陳至中台北15日電）台灣學子參加第15屆歐洲女子數學奧林匹亞競賽，今天傳來捷報，總計獲得2銀1銅，國際排名並列第13名。個人最佳成績為台南一中盧芃恩、台北市私立復興高中常貽媗並列第36名。",
-        "url": "https://www.cna.com.tw/news/ahel/202604150132.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-15T05:08:10+00:00"
-      },
-      {
-        "id": "beeb3497be60",
-        "title": "美國馬鈴薯發芽腐爛可進口？石崇良：斷章取義",
-        "summary": "（中央社記者沈佩瑤台北15日電）衛生福利部長石崇良今天表示，「美國馬鈴薯發芽或腐爛也可進口」說法是斷章取義，輸入前應符合檢疫證明、施用發芽抑制劑，加上邊境、加工場所等把關，並非未經篩選就能進口。",
-        "url": "https://www.cna.com.tw/news/ahel/202604150130.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-15T05:06:06+00:00"
-      },
-      {
         "id": "ed81c888af3a",
         "title": "BatDauTruongSinhBatLaoCungConTraiDiaChuTuTienTH",
         "summary": "BatDauTruongSinhBatLaoCungConTraiDiaChuTuTienTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
         "url": "https://archive.org/details/BatDauTruongSinhBatLaoCungConTraiDiaChuTuTienTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-15T04:49:16+00:00"
-      },
-      {
-        "id": "7ebfd69170ed",
-        "title": "看海美術館推新展　台日藝術家雕塑「日常偏移」",
-        "summary": "（中央社記者黃郁菁屏東縣15日電）屏東車城看海美術館18日推出新展「日常偏移」，透過台灣藝術家蔡潔莘與日本雕塑家佐野美里雕塑作品，展現不同文化視角日常，佐野特為屏東創作3件作品，手稿同步展出。",
-        "url": "https://www.cna.com.tw/news/acul/202604150122.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-15T04:45:49+00:00"
-      },
-      {
-        "id": "2eea0ffbe4bc",
-        "title": "農糧署東區分署：肥料庫存足  實名制購買勿囤積",
-        "summary": "（中央社記者李先鳳花蓮縣15日電）中東衝突，農糧署監控國際原料價格，協助國內肥料業者吸收部分漲幅，穩定供應。農糧署東區分署指出，東部1期化肥至3月底還有300公噸陸續釋出並持續進儲，農友不必囤積。",
-        "url": "https://www.cna.com.tw/news/ahel/202604150120.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-15T04:42:45+00:00"
-      },
-      {
-        "id": "c8b955a1a84f",
-        "title": "交通部：公路客運基本運價估5月達調漲門檻",
-        "summary": "（中央社記者余曉涵台北15日電）中東戰火推升油價飆漲，交通部表示，公路客運預計在5月基本運價會達到調漲門檻，5月到12月估將補貼1.2億元，計程車部分若照過去補助金額，估經費約15億元；但票價不會調整。",
-        "url": "https://www.cna.com.tw/news/ahel/202604150114.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-15T04:36:32+00:00"
       },
       {
         "id": "e21101414bb4",
@@ -153,14 +161,6 @@
         "url": "https://archive.org/details/DNALOUNGE-2026-04-05",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-15T04:30:17+00:00"
-      },
-      {
-        "id": "04f5da2506bd",
-        "title": "寵物用藥新制爭議多　農業部：將註銷、另推新辦法",
-        "summary": "（中央社記者沈佩瑤台北15日電）原訂今年7月上路的動物用藥新制配套不足引起爭議，農業部日前表決通過暫緩實施，將註銷、另訂新辦法。多名立委今天質疑做法粗糙，要求一年內完成管理辦法、建置更周全系統。",
-        "url": "https://www.cna.com.tw/news/ahel/202604150105.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-15T04:21:13+00:00"
       },
       {
         "id": "e54eb7deeb45",
@@ -435,86 +435,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -733,6 +653,14 @@
         "published": "2026-04-15T08:02:11+00:00"
       },
       {
+        "id": "e296517ef73f",
+        "title": "屏菸「花花caucau」特展　聚焦性別平權與文化認同",
+        "summary": "（中央社記者李卉婷屏東縣15日電）屏菸1936文化基地原民館舉辦「花花caucau」特展今天開幕，屏東縣長周春米與3名藝術家出席，期望引領觀眾感受性別平權議題與傳統織布工藝文化。",
+        "url": "https://www.cna.com.tw/news/acul/202604150192.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-15T07:50:21+00:00"
+      },
+      {
         "id": "28ad878f41a7",
         "title": "北市大龍峒保安宮保生文化祭將登場　演繹廟埕文化",
         "summary": "（中央社記者楊淑閔台北15日電）北市民政局今天宣布，國定古蹟大龍峒保安宮的「保生文化祭」19日起登場，傳統演藝放火獅、家姓戲等與美展、音樂交織，為期1個半月，歡迎海內外人士到廟埕共享古今文化盛宴。",
@@ -813,6 +741,14 @@
         "published": "2026-04-14T18:45:44+00:00"
       },
       {
+        "id": "90e2864c2d88",
+        "title": "中方要求马士基和地中海航运从巴拿马港口撤出",
+        "summary": "在巴拿马当局裁定香港长江和记实业运营这些港口违宪后，这两家欧洲航运巨头成为临时的运营商。",
+        "url": "https://www.ftchinese.com/story/001109457",
+        "source": "FTChinese RSS - News",
+        "published": "2026-04-14T16:00:00+00:00"
+      },
+      {
         "id": "699487d1cd1c",
         "title": "“英国将是受能源危机影响最大的G7成员国”",
         "summary": "IMF将英国今年经济增长预测下调0.5个百分点，至0.8%，称高度依赖天然气的英国将受到能源危机的“严重负面影响”。",
@@ -835,6 +771,14 @@
         "url": "https://www.ftchinese.com/story/001109453",
         "source": "FTChinese RSS - News",
         "published": "2026-04-14T16:00:00+00:00"
+      },
+      {
+        "id": "46f2fd91cdb2",
+        "title": "‘Cheers, Timmy!’ Royal Ballet and Opera head thanks Chalamet for ‘fantastic’ boost to sales",
+        "summary": "Actor Timothée Chalamet was credited by RBO’s chief exec with inadvertently boosting ticket sales through his high-profile critique of the art formsThe head of the UK’s Royal Ballet and Opera has thanked Hollywood actor Timothée Chalamet for inadvertently boosting ticket sales and engagement through...",
+        "url": "https://www.theguardian.com/film/2026/apr/14/royal-ballet-and-opera-head-thanks-timothee-chalamet-boost-to-sales",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-14T15:16:12+00:00"
       },
       {
         "id": "4e60aa4d4161",
@@ -899,14 +843,6 @@
         "url": "https://www.cna.com.tw/news/acul/202604140257.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-04-14T09:54:33+00:00"
-      },
-      {
-        "id": "ea04a1e60d18",
-        "title": "迎端午節 故宮「獨騷」書畫展探討經典楚辭文化意象",
-        "summary": "（中央社記者王寶兒台北14日電）6月將迎來端午節，故宮北院今天起推出書畫新展「獨騷－楚辭文化意象與龍舟」，除探討文學經典「楚辭」，也從屈原生命結局延伸，呈現不同作品中的節慶民俗文化樣貌。",
-        "url": "https://www.cna.com.tw/news/acul/202604140231.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-14T09:28:36+00:00"
       },
       {
         "id": "b823f41bee2c",
@@ -1155,22 +1091,6 @@
         "url": "https://www.ftchinese.com/story/001109430",
         "source": "FTChinese RSS - News",
         "published": "2026-04-12T16:00:00+00:00"
-      },
-      {
-        "id": "ba40eb58b669",
-        "title": "波兰议长：特朗普是“混乱状态的领导者”",
-        "summary": "波兰新左翼党领导人恰扎斯蒂指责特朗普政府干预欧洲的选举。在普遍亲美的波兰，这是针对美国总统的罕见批评。",
-        "url": "https://www.ftchinese.com/story/001109429",
-        "source": "FTChinese RSS - News",
-        "published": "2026-04-12T16:00:00+00:00"
-      },
-      {
-        "id": "cb278ba243b4",
-        "title": "Joz Norris: You Wait. Time Passes review – weird, unhinged, inadequate, and other pointers to artistic character",
-        "summary": "Soho theatre, London In his latest show, the comedian energetically distils his approach to pursuing futile creative choices with philosophy and silly jokes thrown inHow do you know that you’re an artist? Have you made the right choices in life? Pertinent questions, these, especially if you’ve spent...",
-        "url": "https://www.theguardian.com/stage/2026/apr/12/joz-norris-review-soho-theatre-you-wait-time-passes",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-12T14:53:29+00:00"
       },
       {
         "id": "25928394e2bc",
@@ -2292,7 +2212,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-15T08:49:49.487946+00:00"
+        "published": "2026-04-15T10:23:16.682256+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2220,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-15T08:49:49.487936+00:00"
+        "published": "2026-04-15T10:23:16.682246+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2228,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-15T08:49:49.487926+00:00"
+        "published": "2026-04-15T10:23:16.682236+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2236,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-15T08:49:49.487916+00:00"
+        "published": "2026-04-15T10:23:16.682226+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2244,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-15T08:49:49.487906+00:00"
+        "published": "2026-04-15T10:23:16.682216+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2252,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-15T08:49:49.487896+00:00"
+        "published": "2026-04-15T10:23:16.682206+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2260,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-15T08:49:49.487886+00:00"
+        "published": "2026-04-15T10:23:16.682197+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2268,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-15T08:49:49.487876+00:00"
+        "published": "2026-04-15T10:23:16.682187+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2276,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-15T08:49:49.487866+00:00"
+        "published": "2026-04-15T10:23:16.682177+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2284,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-15T08:49:49.487855+00:00"
+        "published": "2026-04-15T10:23:16.682167+00:00"
       },
       {
         "id": "a73d6198e372",
