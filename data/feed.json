@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-04-16T21:55:44.509639+00:00",
+  "updated_at": "2026-04-16T22:53:21.562845+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "8707c71b7bec",
+        "title": "HAYDN Sämtliche Sinfonien",
+        "summary": "HAYDN  Sämtliche Sinfonien (3/6) Philharmonia Hungarica Antal Dorati.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/vbbvc",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-16T22:00:45+00:00"
+      },
+      {
+        "id": "efd873b04b80",
+        "title": "اغنية صابرين النجيلي شكلك كداب MP 3",
+        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mp-3_20260416_20260416_2152",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-16T21:54:16+00:00"
+      },
+      {
+        "id": "02f0e838cc23",
+        "title": "اغنية مش فارق لي علي الحجار MP 3",
+        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mp-3_20260416_20260416_2146",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-16T21:48:55+00:00"
+      },
+      {
+        "id": "68b9c303e861",
+        "title": "اغنية وفاء عماد أصاحب صمتي MP 3",
+        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mp-3_20260416_20260416_2138",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-16T21:40:27+00:00"
+      },
+      {
+        "id": "e3139f3c153a",
+        "title": "اغنية عود غزال احمد نافع بسكوت حوده ميمو MP 3",
+        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mp-3_20260416_20260416",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-16T21:33:23+00:00"
+      },
+      {
+        "id": "8d17efd0356e",
+        "title": "HINDEMITH Sancta Susanna op. 21",
+        "summary": "HINDEMITH  Sancta Susanna op. 21 Susanna: Helen Donath (Sopran) Klementia: Gabriele Schnaut (Alt) Alte Nonne: Gabriele Schreckenbach (Alt) Damen des RIAS-Kammerchors Radio-Symphonie-Orchester Berlin Gerd Albrecht (1984).This item belongs to: audio/russian_classical_collection.This item has files of ...",
+        "url": "https://archive.org/details/1_20260416_20260416_2040",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-16T21:33:09+00:00"
+      },
+      {
+        "id": "972c2431c6f7",
+        "title": "اغنية ماجد المهندس أبشر بعزك",
+        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/20260416_20260416_2127",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-16T21:30:46+00:00"
+      },
+      {
+        "id": "510823d62413",
+        "title": "HINDEMITH Drei Gesänge op. 9",
+        "summary": "HINDEMITH  Drei Gesänge op. 9 Janis Martin (Sopran) Radio-Symphonie-Orchester Berlin Gerd Albrecht (1984).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nbnv_20260416",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-16T21:22:53+00:00"
+      },
+      {
+        "id": "cb8f0ea0ed23",
+        "title": "اغنية علي صابر طاقة إيجابية MP 3",
+        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mp-3_20260416_202604",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-16T21:18:36+00:00"
+      },
+      {
+        "id": "64e7695c27bc",
+        "title": "اغنية نور الدين الطيار امتي هتفوق MP 3",
+        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mp-3_20260416",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-16T21:12:36+00:00"
+      },
       {
         "id": "14462cf64926",
         "title": "因應中東情勢 日本擬釋出5000萬副醫療手套供應需求",
@@ -11,76 +91,12 @@
         "published": "2026-04-16T17:02:18+00:00"
       },
       {
-        "id": "d6c414e0909f",
-        "title": "BANDA KPRICHO VAI VIRA ROTINA",
-        "summary": "GFGF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/banda-kpricho-vai-vira-rotina",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-16T16:38:46+00:00"
-      },
-      {
-        "id": "4c9a111b21d1",
-        "title": "ALLANZINHO E KART LOVE VIDA ( ARROCHA ) 2026",
-        "summary": "FG.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/allanzinho-e-kart-love-vida-arrocha-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-16T16:38:30+00:00"
-      },
-      {
-        "id": "bffa14bebd5a",
-        "title": "DJ JOSUE E LUCAS SANTHIAGO EU ME APAIXONEI ( TECNOMELODY)",
-        "summary": "gf.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/dj-josue-e-lucas-santhiago-eu-me-apaixonei-tecnomelody",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-16T16:32:36+00:00"
-      },
-      {
-        "id": "a77bf7364f1f",
-        "title": "AÊ DIEGO EVOLUTION FEAT. DAVI PRODUÇÕ ES GAUCHINHA ( EXCLUSIVA) 2026",
-        "summary": "fg.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/ae-diego-evolution-feat.-davi-produco-es-gauchinha-exclusiva-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-16T16:32:31+00:00"
-      },
-      {
         "id": "956bb6c3ee13",
         "title": "台灣果凍藝術國際發光  1198顆果凍花寫金氏世界紀錄",
         "summary": "（中央社記者曾婷瑄河內16日專電）台灣果凍藝術代表隊15日在胡志明市世界烘焙暨甜品藝術大賽中，以連續3天、每天8小時順利挑戰「1198顆藝術果凍花」金氏世界紀錄獲得成功。藝術家表示，台灣團隊長期深耕，專業影響力在國際備受肯定。",
         "url": "https://www.cna.com.tw/news/ahel/202604160385.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-16T15:03:59+00:00"
-      },
-      {
-        "id": "4048924a8bda",
-        "title": "SET AO VIVO BAILE DO PATRESE NO BALADA CITY 12 04 2026",
-        "summary": "j.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-baile-do-patrese-no-balada-city-12-04-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-16T14:57:00+00:00"
-      },
-      {
-        "id": "c0151de9ca3b",
-        "title": "DNA Lounge: Sorry Ghost (2026-04-15d)",
-        "summary": "Performing Live: SORRY GHOST THADEUS GONZALEZ LOLAH Sorry Ghost is an indie rock band from Los Angeles formed by 2 childhood best friends. Their tunes are a potent blend of optimism and frustration, loud and soft edges, encouragement and rejection....This item belongs to: movies/dnalounge-video.This...",
-        "url": "https://archive.org/details/DNALOUNGE-VIDEO-2026-04-15d",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-16T14:51:53+00:00"
-      },
-      {
-        "id": "f2ada8491888",
-        "title": "SET AO VIVO ULTRA OURO NEGRO NO RIO PANACAUERA ( SEDE DO SAPO) 2026 DJ GILVANILSON CARISMATICO",
-        "summary": "fdd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-ultra-ouro-negro-no-rio-panacauera-sede-do-sapo-2026-dj-gilvanilson-carismatico",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-16T14:14:10+00:00"
-      },
-      {
-        "id": "e354abc9159a",
-        "title": "DJ THIAGO FARIAS AO VIVO EM SÃ O PAULO ( FESTA PARAENSE) ( 11 Abril 2026)",
-        "summary": "df.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/dj-thiago-farias-ao-vivo-em-sa-o-paulo-festa-paraense-11-abril-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-16T14:13:34+00:00"
       },
       {
         "id": "eb437c8c2723",
@@ -97,22 +113,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604160379.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-16T14:03:44+00:00"
-      },
-      {
-        "id": "7994374d3856",
-        "title": "Adlene Barhouch",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/adlene-barhouch",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-16T14:03:10+00:00"
-      },
-      {
-        "id": "4d5d449113e7",
-        "title": "MOZART Sonate c-moll KV 457",
-        "summary": "MOZART  Sonate c-moll KV 457 Annie Fischer (Klavier) (1971).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mnjhfx",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-16T13:50:06+00:00"
       },
       {
         "id": "07e095f9f2eb",
@@ -724,6 +724,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "c6443525b66f",
+        "title": "Absynth 6.1: Audio modulator, LFO retrigger, sound content, more",
+        "summary": "If you need an excuse to suit up for an extravehicular activity in the cosmos of sound, Absynth is back again. Native Instruments quietly pushed Absynth 6.1, with oft-requested LFO retrigger and undo/redo, plus a surprise: a new audio modulator.\nThe post Absynth 6.1: Audio modulator, LFO retrigger, ...",
+        "url": "https://cdm.link/absynth-6-1-audio-modulator-lfo-retrigger/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-04-16T22:41:44+00:00"
+      },
       {
         "id": "206443ec0c8a",
         "title": "Luca Formentini * Galán, Spieth, Guentner",
@@ -1597,14 +1605,6 @@
         "published": "2026-04-08T13:19:18+00:00"
       },
       {
-        "id": "b241cda0ef13",
-        "title": "Elektron is the latest firm to be acquired by private investment capital",
-        "summary": "Swedish manufacturer Elektron is no longer independent; Bonnier Capital has bought a controlling stake.\nThe post Elektron is the latest firm to be acquired by private investment capital appeared first on CDM Create Digital Music.",
-        "url": "https://cdm.link/elektron-acquired/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-04-08T13:17:07+00:00"
-      },
-      {
         "id": "94472260e2d1",
         "title": "A (tiny) recording of Amelia Earhart’s 1932 London speech, played for the first time",
         "summary": "A reference librarian stumbled across a tiny recording of a speech by Amelia Earhart tucked inside a copy of her 1932 memoir, published soon after she became the first woman (and the second person) to fly solo nonstop across the Atlantic. The record was just a promotional gimmick at the time; could ...",
@@ -2300,7 +2300,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T21:55:44.509070+00:00"
+        "published": "2026-04-16T22:53:21.562349+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2308,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T21:55:44.509061+00:00"
+        "published": "2026-04-16T22:53:21.562339+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2316,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T21:55:44.509051+00:00"
+        "published": "2026-04-16T22:53:21.562328+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2324,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T21:55:44.509040+00:00"
+        "published": "2026-04-16T22:53:21.562317+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2332,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T21:55:44.509030+00:00"
+        "published": "2026-04-16T22:53:21.562304+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2340,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T21:55:44.509020+00:00"
+        "published": "2026-04-16T22:53:21.562273+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2348,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T21:55:44.509011+00:00"
+        "published": "2026-04-16T22:53:21.562262+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2356,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T21:55:44.509001+00:00"
+        "published": "2026-04-16T22:53:21.562252+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2364,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T21:55:44.508991+00:00"
+        "published": "2026-04-16T22:53:21.562242+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2372,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T21:55:44.508981+00:00"
+        "published": "2026-04-16T22:53:21.562232+00:00"
       },
       {
         "id": "5eb71fad1a54",
