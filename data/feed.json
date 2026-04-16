@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-16T08:50:24.676353+00:00",
+  "updated_at": "2026-04-16T10:22:36.250285+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "dc283296e150",
+        "title": "消基會：網路冒名家電維修站氾濫　盼跨部會嚴查",
+        "summary": "（中央社記者汪淑芬台北16日電）消費者文教基金會發現，網路冒名家電維修站氾濫，出現許多維修糾紛。今天召開記者會，呼籲政府跨部會合作，加強平台管理與查處。",
+        "url": "https://www.cna.com.tw/news/ahel/202604160241.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-16T08:44:42+00:00"
+      },
       {
         "id": "162184718ebe",
         "title": "北市增1例境外移入麻疹　頻出入文化大學、麥當勞",
@@ -73,14 +81,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604160165.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-16T06:28:01+00:00"
-      },
-      {
-        "id": "04b820aef026",
-        "title": "翻轉學生衝動迴路　獲選社會情緒學習優秀教案",
-        "summary": "（中央社記者陳至中台北16日電）教育部今天頒發114學年度3大議題優秀教案，新竹縣六家高中國中部教師簡羽謙針對有情緒困擾的學生設計活動，透過辨識生理警訊、「五指呼吸」等，教導「社會情緒學習」知識。",
-        "url": "https://www.cna.com.tw/news/ahel/202604160153.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-16T05:57:35+00:00"
       },
       {
         "id": "9da31225b6b0",
@@ -645,6 +645,46 @@
     ],
     "破(day)": [
       {
+        "id": "28722b5c9afc",
+        "title": "公視總經理徐秋華請辭　職務由謝玒玲代理",
+        "summary": "（中央社記者洪素津台北16日電）公視總經理徐秋華今天在「第7屆第49次董事會」表達因個人健康因素辭去總經理職務，董事會慰留不成勉予同意，總經理職務由副總經理謝玒玲自今年5月11日起代理。",
+        "url": "https://www.cna.com.tw/news/acul/202604160264.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-16T09:32:33+00:00"
+      },
+      {
+        "id": "9e230636753c",
+        "title": "時間層理、新摩登時代　國際首映後返台展演",
+        "summary": "（中央社記者王寶兒台北16日電）台灣當代文化實驗場的實驗展演計畫「FUTURE VISION LAB」，邁入第7屆，在國美館展演受矚的作品「虛迷山」，及日前於國際首映的作品「時間層理」與「新摩登時代」都將登場。",
+        "url": "https://www.cna.com.tw/news/acul/202604160263.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-16T09:30:31+00:00"
+      },
+      {
+        "id": "8c0ee16b34ec",
+        "title": "Struggling theatres must ‘programme their way out’, says Young Vic director",
+        "summary": "Nadia Fall calls for bold thinking as she announces new shows including anti-Trump version of Thelma &amp; LouiseTheatres facing financial difficulty can only prosper by “programming their way out of it”, according to the Young Vic artistic director, Nadia Fall, who has announces her new slate of sh...",
+        "url": "https://www.theguardian.com/stage/2026/apr/16/struggling-theatres-must-programme-their-way-out-says-young-vic-artistic-director-nadia-fall",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-16T09:15:53+00:00"
+      },
+      {
+        "id": "bc1b9735a403",
+        "title": "8審委請辭  第8屆公視董監事第二次審查會議流會",
+        "summary": "（中央社記者趙靜瑜台北16日電）「第八屆公共電視董事及監察人審查委員會」第二次審查會議預計今天下午舉行，由於8名審委9日請辭，今天會議未達法定人數，無法實質審查而流會。",
+        "url": "https://www.cna.com.tw/news/acul/202604160214.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-16T07:51:45+00:00"
+      },
+      {
+        "id": "12ba43036f81",
+        "title": "南科奇美醫院工程挖出史前遺留　初判大湖文化",
+        "summary": "（中央社記者張榮祥台南16日電）南科奇美醫院新建工程3月挖出史前文化遺留，考古團隊初判是大湖文化（3300~1800年前）遺物，已依文化資產保存法規定停工及通報，且採取緊急搶救發掘措施。",
+        "url": "https://www.cna.com.tw/news/acul/202604160203.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-16T07:32:21+00:00"
+      },
+      {
         "id": "7ff9d6b36bcf",
         "title": "OB短評》#575直面閃爍生命的極品好書懶人包",
         "summary": "●高雄有顆藍寶石\n邱祖胤著，莊永新繪，遠流出版，500元\n推薦原因： 知   議   樂  \n一趟朝聖台灣秀場聖地的時光之旅。將藍寶石歌廳與由此發跡的巨星生命疊合，再現了那個經濟奔騰年代生猛的庶民生活。鏡頭從華麗舞臺延伸至後臺，揭示娛樂產業複雜的社會網絡，更透視庶民勞動者們的集體宣洩。藉由鏡頭般的的敘事，將一段轟動一時的江湖演義轉化為文化史的議題。【內容簡介➤】\n●五色之舟\n五色の舟\n津原泰水，近藤ようこ（ Tsuhara Yasumi，Kondo Yoko）著，黃鴻硯譯，獨步文化，320元\n推薦原因： 樂  \n二戰末，一群畸形而被排擠至邊緣的人，依附於「被觀看」而生，隨流浪輾轉釀成脆弱的共同...",
@@ -707,6 +747,14 @@
         "url": "https://www.theguardian.com/society/2026/apr/15/sexual-harassment-is-rife-on-comedy-circuit-and-women-lack-protections-mps-told",
         "source": "Stage | The Guardian",
         "published": "2026-04-15T17:28:37+00:00"
+      },
+      {
+        "id": "b734341cfdfb",
+        "title": "日产与奇瑞就出让桑德兰工厂产能进行谈判",
+        "summary": "老牌汽车制造商们为了保护欧洲的就业岗位拼命努力，甚至不惜与那些中国竞争对手展开合作。",
+        "url": "https://www.ftchinese.com/story/001109471",
+        "source": "FTChinese RSS - News",
+        "published": "2026-04-15T16:00:00+00:00"
       },
       {
         "id": "439ebd327a74",
@@ -773,44 +821,12 @@
         "published": "2026-04-15T10:38:04+00:00"
       },
       {
-        "id": "158925830c29",
-        "title": "加拿大繪本作家庸．卡拉森  獲林格倫紀念文學獎",
-        "summary": "（中央社記者辜泳秝斯德哥爾摩15日專電）有兒童文學諾貝爾獎之稱的瑞典林格倫紀念文學獎（Astrid Lindgren Memorial Award）14日揭曉，由加拿大知名繪本作家庸．卡拉森（Jon Klassen）獲獎。",
-        "url": "https://www.cna.com.tw/news/acul/202604150279.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-15T09:59:27+00:00"
-      },
-      {
         "id": "ee5419f769bf",
         "title": "社團法人台灣摩訶瑜伽行者真理實踐會《不死甘露》（Amrita）戲劇公演",
         "summary": "社團法人台灣摩訶瑜伽行者真理實踐會《不死甘露》（Amrita）戲劇公演 / 【節目介紹】 / Amrita在梵 [&#8230;]",
         "url": "https://www.glt.org.tw/?p=13835",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-04-15T08:02:11+00:00"
-      },
-      {
-        "id": "e296517ef73f",
-        "title": "屏菸「花花caucau」特展　聚焦性別平權與文化認同",
-        "summary": "（中央社記者李卉婷屏東縣15日電）屏菸1936文化基地原民館舉辦「花花caucau」特展今天開幕，屏東縣長周春米與3名藝術家出席，期望引領觀眾感受性別平權議題與傳統織布工藝文化。",
-        "url": "https://www.cna.com.tw/news/acul/202604150192.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-15T07:50:21+00:00"
-      },
-      {
-        "id": "28ad878f41a7",
-        "title": "北市大龍峒保安宮保生文化祭將登場　演繹廟埕文化",
-        "summary": "（中央社記者楊淑閔台北15日電）北市民政局今天宣布，國定古蹟大龍峒保安宮的「保生文化祭」19日起登場，傳統演藝放火獅、家姓戲等與美展、音樂交織，為期1個半月，歡迎海內外人士到廟埕共享古今文化盛宴。",
-        "url": "https://www.cna.com.tw/news/acul/202604150163.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-15T06:42:19+00:00"
-      },
-      {
-        "id": "7ebfd69170ed",
-        "title": "看海美術館推新展　台日藝術家雕塑「日常偏移」",
-        "summary": "（中央社記者黃郁菁屏東縣15日電）屏東車城看海美術館18日推出新展「日常偏移」，透過台灣藝術家蔡潔莘與日本雕塑家佐野美里雕塑作品，展現不同文化視角日常，佐野特為屏東創作3件作品，手稿同步展出。",
-        "url": "https://www.cna.com.tw/news/acul/202604150122.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-15T04:45:49+00:00"
       },
       {
         "id": "afcec9471c9f",
@@ -997,14 +1013,6 @@
         "published": "2026-04-14T00:00:00+00:00"
       },
       {
-        "id": "1da775df460d",
-        "title": "Cultural venues in England to share £130m under Arts Everywhere scheme",
-        "summary": "Galleries, theatres, museums and libraries to benefit from largest cash injection into the arts for a decadeMore than 100 cultural venues, museums, and libraries will share £130m extra funding as part of the largest cash injection into the arts for a decade, ministers have announced.The investment f...",
-        "url": "https://www.theguardian.com/culture/2026/apr/14/cultural-venues-in-england-to-share-130m-under-arts-everywhere-scheme",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-13T23:01:53+00:00"
-      },
-      {
         "id": "1a2cb6489ebc",
         "title": "[東南亞週報317] 敏昂萊就任緬總統承諾推動民主與重建對外關係、日自衛隊首次參與菲美「肩並肩」聯合軍演、柬法探討建立戰略夥伴關係",
         "summary": "[東南亞週報317] 敏昂萊就任緬總統承諾推動民主與重建對外關係、日自衛隊首次參與菲美「肩並肩」聯合軍演、柬法 [&#8230;]",
@@ -1049,14 +1057,6 @@
         "title": "中东局势拖累中国贸易出口增速",
         "summary": "3月份中国出口增速大幅放缓，燃料价格上涨和科技产品进口增加推动进口大幅增长。",
         "url": "https://www.ftchinese.com/story/001109449",
-        "source": "FTChinese RSS - News",
-        "published": "2026-04-13T16:00:00+00:00"
-      },
-      {
-        "id": "f158cfee3d4a",
-        "title": "高盛报告五年来最高季度利润",
-        "summary": "这家华尔街投行的股票交易部门受益于地缘政治冲击引发的市场剧烈波动，首季营收达到53亿美元，但固定收益部门营收意外下降。",
-        "url": "https://www.ftchinese.com/story/001109441",
         "source": "FTChinese RSS - News",
         "published": "2026-04-13T16:00:00+00:00"
       },
@@ -2212,7 +2212,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T08:50:24.675815+00:00"
+        "published": "2026-04-16T10:22:36.249791+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2220,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T08:50:24.675805+00:00"
+        "published": "2026-04-16T10:22:36.249784+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2228,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T08:50:24.675795+00:00"
+        "published": "2026-04-16T10:22:36.249776+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2236,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T08:50:24.675785+00:00"
+        "published": "2026-04-16T10:22:36.249768+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2244,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T08:50:24.675775+00:00"
+        "published": "2026-04-16T10:22:36.249761+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2252,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T08:50:24.675765+00:00"
+        "published": "2026-04-16T10:22:36.249753+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2260,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T08:50:24.675755+00:00"
+        "published": "2026-04-16T10:22:36.249745+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2268,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T08:50:24.675745+00:00"
+        "published": "2026-04-16T10:22:36.249738+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2276,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T08:50:24.675735+00:00"
+        "published": "2026-04-16T10:22:36.249730+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2284,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T08:50:24.675725+00:00"
+        "published": "2026-04-16T10:22:36.249723+00:00"
       },
       {
         "id": "5eb71fad1a54",
