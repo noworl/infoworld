@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T22:53:21.562845+00:00",
+  "updated_at": "2026-04-16T23:52:20.692057+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -92,7 +92,7 @@
       },
       {
         "id": "956bb6c3ee13",
-        "title": "台灣果凍藝術國際發光  1198顆果凍花寫金氏世界紀錄",
+        "title": "台灣果凍藝術國際發光　1198顆果凍花寫金氏世界紀錄",
         "summary": "（中央社記者曾婷瑄河內16日專電）台灣果凍藝術代表隊15日在胡志明市世界烘焙暨甜品藝術大賽中，以連續3天、每天8小時順利挑戰「1198顆藝術果凍花」金氏世界紀錄獲得成功。藝術家表示，台灣團隊長期深耕，專業影響力在國際備受肯定。",
         "url": "https://www.cna.com.tw/news/ahel/202604160385.aspx",
         "source": "中央社即時新聞 生活醫藥",
@@ -725,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "5445cb986353",
+        "title": "Avenue Q review – provocative puppets return for a feast of filth and fun",
+        "summary": "Shaftesbury theatre, LondonTwenty years since its West End debut, the sweetly subversive musical returns with a few tweaks and a lot of heartThe trigger warning “puppet nudity” does not begin to cover it. You will also see puppets having sex, singing about being “a little bit racist” and gleefully o...",
+        "url": "https://www.theguardian.com/stage/2026/apr/17/avenue-q-review-shatesbury-theatre-london-west-end-musical-puppets",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-16T23:01:13+00:00"
+      },
+      {
         "id": "c6443525b66f",
         "title": "Absynth 6.1: Audio modulator, LFO retrigger, sound content, more",
         "summary": "If you need an excuse to suit up for an extravehicular activity in the cosmos of sound, Absynth is back again. Native Instruments quietly pushed Absynth 6.1, with oft-requested LFO retrigger and undo/redo, plus a surprise: a new audio modulator.\nThe post Absynth 6.1: Audio modulator, LFO retrigger, ...",
@@ -770,6 +778,14 @@
         "summary": "「『移民帶來治安問題』是一個在情感上具有強烈動員力的論述，但在實證上缺乏支撐。」中正經濟系助理教授洪以儒在本篇投書中，透過國際犯罪經濟學文獻與我國警政署資料，檢視移民／工與犯罪之間的關係。",
         "url": "https://www.twreporter.org/a/opinion-taiwan-migrant-crime-myth",
         "source": "報導者",
+        "published": "2026-04-16T16:00:00+00:00"
+      },
+      {
+        "id": "cf20decf4384",
+        "title": "俄罗斯对乌克兰发起今年最大规模空袭",
+        "summary": "此次轰炸发生在俄乌复活节短暂停火四天后，美国主导的和平谈判陷入停滞。",
+        "url": "https://www.ftchinese.com/story/001109476",
+        "source": "FTChinese RSS - News",
         "published": "2026-04-16T16:00:00+00:00"
       },
       {
@@ -1101,28 +1117,12 @@
         "published": "2026-04-14T16:00:00+00:00"
       },
       {
-        "id": "5fef933a40b0",
-        "title": "IMF：中东战火将显著压低全球经济增速",
-        "summary": "国际货币基金组织警告，如果油价在今年剩余时间维持在每桶100美元左右，今年全球经济增速将仅为2.5%，为2020年以来最弱，而通胀率将高达5.4%。",
-        "url": "https://www.ftchinese.com/story/001109453",
-        "source": "FTChinese RSS - News",
-        "published": "2026-04-14T16:00:00+00:00"
-      },
-      {
         "id": "4e60aa4d4161",
         "title": "Gemini Robotics ER-1.6 enhances reasoning to help robots navigate real-world tasks.",
         "summary": "An overview of Gemini Robotics-ER 1.6, an upgrade to our reasoning-first model that helps robots to understand their environment.",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-1-6/",
         "source": "Google DeepMind",
         "published": "2026-04-14T15:00:00+00:00"
-      },
-      {
-        "id": "66ee40575edb",
-        "title": "Naked puppets! Having sex! Lusty, foul-mouthed musical Avenue Q is back",
-        "summary": "The taboo-busting, Tony-award-winning show has returned. But how will its 00s attitudes land today? Will they still sing Everyone’s a Little Bit Racist and If You Were Gay?There are certain problems you might expect when rehearsing a West End musical. Then there are the problems arising today, regar...",
-        "url": "https://www.theguardian.com/stage/2026/apr/14/naked-puppets-sex-lusty-foul-mouthed-avenue-q-",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-14T13:51:26+00:00"
       },
       {
         "id": "3a14bb7dc2b4",
@@ -2300,7 +2300,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T22:53:21.562349+00:00"
+        "published": "2026-04-16T23:52:20.691526+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2308,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T22:53:21.562339+00:00"
+        "published": "2026-04-16T23:52:20.691517+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2316,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T22:53:21.562328+00:00"
+        "published": "2026-04-16T23:52:20.691507+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2324,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T22:53:21.562317+00:00"
+        "published": "2026-04-16T23:52:20.691498+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2332,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T22:53:21.562304+00:00"
+        "published": "2026-04-16T23:52:20.691488+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2340,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T22:53:21.562273+00:00"
+        "published": "2026-04-16T23:52:20.691479+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2348,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T22:53:21.562262+00:00"
+        "published": "2026-04-16T23:52:20.691469+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2356,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T22:53:21.562252+00:00"
+        "published": "2026-04-16T23:52:20.691460+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2364,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T22:53:21.562242+00:00"
+        "published": "2026-04-16T23:52:20.691451+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2372,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-16T22:53:21.562232+00:00"
+        "published": "2026-04-16T23:52:20.691441+00:00"
       },
       {
         "id": "5eb71fad1a54",
