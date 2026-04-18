@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T16:55:39.109429+00:00",
+  "updated_at": "2026-04-18T17:44:33.561036+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -101,7 +101,7 @@
       {
         "id": "e0fc9fd55854",
         "title": "HAYDN Sämtliche Sinfonien",
-        "summary": "HAYDN  Sämtliche Sinfonien   (6/6) Philharmonia Hungarica Antal Dorati.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "HAYDN  Sämtliche Sinfonien   (6/6) Philharmonia Hungarica Antal Dorati.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/b-nxgnf",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-18T12:40:00+00:00"
@@ -725,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "350668ceb3fb",
+        "title": "從邊緣到核心：美國國家藝廊的攝影定位與記憶實踐",
+        "summary": "在2025年台灣國際攝影節中，美國國家藝廊（NGA）攝影部主任暨資深策展人格林諾詳述了該部門從無到有、跨越30年的發展歷程。她也以攝影大師羅伯．法蘭克《美國人》的典藏為例，討論攝影如何闡明人們對文化與國家歷史的理解。",
+        "url": "https://www.twreporter.org/a/photo-national-gallery-of-art-photography-sarah-greenough",
+        "source": "報導者",
+        "published": "2026-04-18T16:00:00+00:00"
+      },
+      {
         "id": "55bb06cf1b57",
         "title": "百老匯星光演唱會  This Is Me原唱激昂感動全場",
         "summary": "（中央社台北18日電）百老匯星光演唱會今晚在北流登場，由電影「大娛樂家」主角賽特爾（Keala Settle）演唱「This Is Me」壓軸，激昂歌聲將現場感動情緒推到最高點。",
@@ -811,6 +819,14 @@
         "url": "https://www.cna.com.tw/news/acul/202604180032.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-04-18T02:42:53+00:00"
+      },
+      {
+        "id": "ce2b5b6ba85c",
+        "title": "誰來接住每個人？剴剴案社工被定罪，第一線助人者「不再信任」的憂慮和危機",
+        "summary": "我們該如何解讀一個社工被定罪的判決意義？當此案帶來巨大的社會情緒過後，關心兒保人士與社工之間能對話、共同思考如何建構更健全的社會安全網嗎？",
+        "url": "https://www.twreporter.org/a/podcast-2026-04-18",
+        "source": "報導者",
+        "published": "2026-04-17T16:00:00+00:00"
       },
       {
         "id": "e4079e39a736",
@@ -941,18 +957,18 @@
         "published": "2026-04-16T16:38:38+00:00"
       },
       {
-        "id": "38fc0ed53bee",
-        "title": "父、女和曾被奪走聲音的家族──《傳奇女伶高菊花》續唱時代之音",
-        "summary": "「『那個東西』在他們身上的威力，我覺得陰影是非常、非常大的。」在轉型正義的框架之內，高菊花的掙扎無所依歸。盧元奇、熊儒賢等人只好尋找出口，不停講述，讓這個故事更加完整地被傳頌下去。",
-        "url": "https://www.twreporter.org/a/tidf-2026-la-paloma",
-        "source": "報導者",
-        "published": "2026-04-16T16:00:00+00:00"
-      },
-      {
         "id": "29b1586baeb0",
         "title": "【投書】被誤解的移民犯罪風險：台灣移工政策與論述的再思考方向",
         "summary": "「『移民帶來治安問題』是一個在情感上具有強烈動員力的論述，但在實證上缺乏支撐。」中正經濟系助理教授洪以儒在本篇投書中，透過國際犯罪經濟學文獻與我國警政署資料，檢視移民／工與犯罪之間的關係。",
         "url": "https://www.twreporter.org/a/opinion-taiwan-migrant-crime-myth",
+        "source": "報導者",
+        "published": "2026-04-16T16:00:00+00:00"
+      },
+      {
+        "id": "38fc0ed53bee",
+        "title": "父、女和曾被奪走聲音的家族──《傳奇女伶高菊花》續唱時代之音",
+        "summary": "「『那個東西』在他們身上的威力，我覺得陰影是非常、非常大的。」在轉型正義的框架之內，高菊花的掙扎無所依歸。盧元奇、熊儒賢等人只好尋找出口，不停講述，讓這個故事更加完整地被傳頌下去。",
+        "url": "https://www.twreporter.org/a/tidf-2026-la-paloma",
         "source": "報導者",
         "published": "2026-04-16T16:00:00+00:00"
       },
@@ -1357,14 +1373,6 @@
         "published": "2026-04-12T17:55:00+00:00"
       },
       {
-        "id": "aadd44aad8c6",
-        "title": "是誰在「為你推薦」？《抖音帝國》掀起防衛性民主和言論自由新論戰",
-        "summary": "近年來，各國陸續發生社群媒體疑遭蓄意操控而引發介選的政治事件。限制潛在外國對手的平台如TikTok，是否還符合言論自由的核心價值？左右派對此看法不一，但歐盟和美國當局都傾向警告，若允許獨裁政權掌控平台，將會導致民主倒退。",
-        "url": "https://www.twreporter.org/a/bookreview-every-screen-on-the-planet-the-war-over-tiktok",
-        "source": "報導者",
-        "published": "2026-04-12T16:00:00+00:00"
-      },
-      {
         "id": "a1d4a0385f80",
         "title": "1.25兆的拔河：全球「再武裝」浪潮下，台灣軍購現況、預算僵局卡在哪？",
         "summary": "全球因動盪掀起「再武裝」浪潮，但美國軍工產能衰退，各國軍購都面臨供不應求。台灣身處多重窘境的夾攻下，如何發展以小搏大的不對稱戰力，並尋求有社會共識的生存之道？",
@@ -1411,14 +1419,6 @@
         "url": "https://www.openbook.org.tw/article/p-72503",
         "source": "Openbook閱讀誌",
         "published": "2026-04-12T02:00:00+00:00"
-      },
-      {
-        "id": "ca407a8f586e",
-        "title": "當逃離家園是3年戰火下的唯一選擇──蘇丹前線醫護在廢墟中守護生命",
-        "summary": "軍權整合與資源爭奪點燃的蘇丹內戰，已持續近3年，造成1,858人死亡、490人受傷，當地被國際評為全球人道危機最嚴重的國家。馬格蘭攝影師莫伊塞斯．薩曼與無國界醫生，以照片與文字記錄這場仍未結束的戰爭。",
-        "url": "https://www.twreporter.org/a/photo-sudan-civil-war-three-years-medical-aid-witness",
-        "source": "報導者",
-        "published": "2026-04-11T16:00:00+00:00"
       },
       {
         "id": "4e0579a7d7c0",
@@ -2292,7 +2292,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T16:55:39.108869+00:00"
+        "published": "2026-04-18T17:44:33.560550+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2300,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T16:55:39.108859+00:00"
+        "published": "2026-04-18T17:44:33.560539+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2308,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T16:55:39.108850+00:00"
+        "published": "2026-04-18T17:44:33.560527+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2316,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T16:55:39.108840+00:00"
+        "published": "2026-04-18T17:44:33.560512+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2324,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T16:55:39.108830+00:00"
+        "published": "2026-04-18T17:44:33.560501+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2332,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T16:55:39.108821+00:00"
+        "published": "2026-04-18T17:44:33.560491+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2340,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T16:55:39.108811+00:00"
+        "published": "2026-04-18T17:44:33.560477+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2348,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T16:55:39.108801+00:00"
+        "published": "2026-04-18T17:44:33.560460+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2356,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T16:55:39.108789+00:00"
+        "published": "2026-04-18T17:44:33.560445+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2364,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T16:55:39.108778+00:00"
+        "published": "2026-04-18T17:44:33.560434+00:00"
       },
       {
         "id": "be5988a969ed",
