@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-18T14:50:47.462703+00:00",
+  "updated_at": "2026-04-18T15:48:49.623327+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "55bb06cf1b57",
+        "title": "百老匯星光演唱會  This Is Me原唱激昂感動全場",
+        "summary": "（中央社台北18日電）百老匯星光演唱會今晚在北流登場，由電影「大娛樂家」主角賽特爾（Keala Settle）演唱「This Is Me」壓軸，激昂歌聲將現場感動情緒推到最高點。",
+        "url": "https://www.cna.com.tw/news/acul/202604180214.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-18T14:50:36+00:00"
+      },
+      {
+        "id": "56f7fe80db12",
+        "title": "Бруштейн Александра - Вечерние огни",
+        "summary": "Автор: Бруштейн Александра Произведение: Вечерние огни Читает: Жукова Саша Издательство: Аудиокнига своими руками Размер: 612 MB Время воспроизведения: 14 час....This item belongs to: audio/studiosimsim.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, Metadata, Text, ...",
+        "url": "https://archive.org/details/018-brushtejn-aleksandra-vechernie-ogni",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-18T14:46:11+00:00"
+      },
+      {
+        "id": "876343ca1f4c",
+        "title": "今彩539第115096期　頭獎4注中獎",
+        "summary": "（中央社台北18日電）今彩539第115096期開獎，中獎號碼29、07、25、26、31；派彩結果，頭獎4注中獎，各得獎金新台幣600萬元。",
+        "url": "https://www.cna.com.tw/news/ahel/202604180210.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-18T14:10:27+00:00"
+      },
       {
         "id": "137d359108c1",
         "title": "Куваев Олег - Избранное. Повести (1969-1971)",
@@ -107,14 +131,6 @@
         "published": "2026-04-18T10:26:13+00:00"
       },
       {
-        "id": "0a98a1cf3836",
-        "title": "Mr Garmin’s Funeral",
-        "summary": "\" Mr Garmin’s Funeral\".This item belongs to: audio/tedjonespiano.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/776-1_202604",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-18T10:17:26+00:00"
-      },
-      {
         "id": "eb3d4107c32c",
         "title": "東北季風減弱降雨趨緩　23日鋒面到全台都可能下雨",
         "summary": "（中央社記者吳欣紜台北18日電）氣象署表示，明天東北季風減弱、降雨趨緩，除花東、恆春半島有局部短暫陣雨，其他地區多雲到晴；23日將有鋒面通過，全台都有可能下雨，中部以北將有顯著陣雨或雷雨。",
@@ -145,22 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604180132.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-18T08:36:31+00:00"
-      },
-      {
-        "id": "0387387232ce",
-        "title": "台科大男籃奪UBA二級冠軍　明年重返一級",
-        "summary": "（中央社記者陳至中台北18日電）台灣科技大學男籃隊於17日晚間，在大專籃球運動聯賽（UBA）男二級冠亞軍戰中，以70比62擊敗台北市立大學，順利奪冠，明年重返男一級，目標進入前8強。",
-        "url": "https://www.cna.com.tw/news/ahel/202604180128.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-18T08:13:23+00:00"
-      },
-      {
-        "id": "0176e73bb7c3",
-        "title": "作家周芬伶李欣倫對談 從「鹹菜街」出發與心魔對話",
-        "summary": "（中央社記者邱祖胤台北18日電）作家、台灣文學金典獎得主周芬伶，近期出版最新長篇小說「鹹菜街」；今天，她與作家李欣倫以「心魔與女神的對話」為題對談，暢談創作心路。",
-        "url": "https://www.cna.com.tw/news/acul/202604180124.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-18T08:07:14+00:00"
       },
       {
         "id": "27ed410bff6c",
@@ -645,6 +645,14 @@
     ],
     "破(day)": [
       {
+        "id": "55bb06cf1b57",
+        "title": "百老匯星光演唱會  This Is Me原唱激昂感動全場",
+        "summary": "（中央社台北18日電）百老匯星光演唱會今晚在北流登場，由電影「大娛樂家」主角賽特爾（Keala Settle）演唱「This Is Me」壓軸，激昂歌聲將現場感動情緒推到最高點。",
+        "url": "https://www.cna.com.tw/news/acul/202604180214.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-18T14:50:36+00:00"
+      },
+      {
         "id": "5627816dbf4b",
         "title": "紀州庵老派生活節開幕　帶讀者重拾慢時光",
         "summary": "（中央社記者邱祖胤台北18日電）紀州庵文學森林主辦2026老派生活節，今天在台北紀州庵戶外庭園開幕，現場集結書市、爵士朗讀演出及生活閱讀講座，帶領讀者及民眾重拾慢時光。",
@@ -779,14 +787,6 @@
         "url": "https://www.theguardian.com/stage/2026/apr/17/movement-directors-choreographers-olivier-awards-theatre-industry",
         "source": "Stage | The Guardian",
         "published": "2026-04-17T10:36:51+00:00"
-      },
-      {
-        "id": "297d250bbed6",
-        "title": "為何建築人愛穿黑衣　公視「藝術很有事」揭祕",
-        "summary": "（中央社記者邱祖胤台北17日電）公視最新一集「藝術很有事」節目，將播出「為何建築人愛穿黑衣？從衣櫥到城市的減法日常」，探討建築人長年偏好黑衣的文化現象。",
-        "url": "https://www.cna.com.tw/news/acul/202604170178.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-17T07:55:36+00:00"
       },
       {
         "id": "5b3d3e787b55",
@@ -2212,7 +2212,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T14:50:47.462299+00:00"
+        "published": "2026-04-18T15:48:49.622842+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2220,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T14:50:47.462289+00:00"
+        "published": "2026-04-18T15:48:49.622832+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2228,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T14:50:47.462279+00:00"
+        "published": "2026-04-18T15:48:49.622822+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2236,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T14:50:47.462269+00:00"
+        "published": "2026-04-18T15:48:49.622812+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2244,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T14:50:47.462259+00:00"
+        "published": "2026-04-18T15:48:49.622801+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2252,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T14:50:47.462249+00:00"
+        "published": "2026-04-18T15:48:49.622791+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2260,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T14:50:47.462239+00:00"
+        "published": "2026-04-18T15:48:49.622781+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2268,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T14:50:47.462230+00:00"
+        "published": "2026-04-18T15:48:49.622771+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2276,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T14:50:47.462220+00:00"
+        "published": "2026-04-18T15:48:49.622760+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2284,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-18T14:50:47.462210+00:00"
+        "published": "2026-04-18T15:48:49.622740+00:00"
       },
       {
         "id": "be5988a969ed",
@@ -2695,22 +2695,6 @@
         "published": "2026-01-30T19:26:48+00:00"
       },
       {
-        "id": "3752ead9da29",
-        "title": "2025 in numbers",
-        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2347",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T16:19:39+00:00"
-      },
-      {
-        "id": "d32f0a5eed31",
-        "title": "Freesound Day video recordings available online",
-        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2352",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T11:10:55+00:00"
-      },
-      {
         "id": "61649d92d6e6",
         "title": "[知音分享會]02.11 在春節前找到幸福！《一女兩聘》最終回",
         "summary": "年關將近，不知道各位知音朋友是正忙著採辦 [&#8230;]\nSource",
@@ -2797,14 +2781,6 @@
         "url": "https://www.caa-ins.org/archives/13268",
         "source": "网络社会研究所",
         "published": "2025-12-28T14:46:48+00:00"
-      },
-      {
-        "id": "5fb9d9aee29c",
-        "title": "Preserving the sound of San Fermín in Pamplona/Iruña",
-        "summary": "This year, Freesound celebrates its 20th anniversary, and Intangible Heritage has been chosen as the main theme of the celebration. Intangible heritage encompasses the ephemeral and immaterial elements that shape our world, whether rooted in human culture, natural environments, or &#8230; Continue r...",
-        "url": "https://blog.freesound.org/?p=2329",
-        "source": "The Freesound Blog",
-        "published": "2025-12-22T09:23:20+00:00"
       },
       {
         "id": "7abdb22dfb2b",
@@ -3039,14 +3015,6 @@
         "published": "2025-10-30T03:28:47+00:00"
       },
       {
-        "id": "1fa067108080",
-        "title": "“Sounds to Be Protected: 20 Years of Freesound” installation @ CCCB, Barcelona",
-        "summary": "(text adapted from the CCCB website) The collaborative digital platform Freesound, created in 2005 by the Music Technology Group at Pompeu Fabra University, is celebrating its 20th anniversary, having become one of the largest databases of creative-commons licensed sounds in &#8230; Continue reading...",
-        "url": "https://blog.freesound.org/?p=2302",
-        "source": "The Freesound Blog",
-        "published": "2025-10-21T12:48:21+00:00"
-      },
-      {
         "id": "ea8c3d6514dd",
         "title": "MaSC Director Carlos Guedes Co-Announces ISMIR 2026 at ISMIR 2025 in South Korea",
         "summary": "MaSC Director Carlos Guedes, together with other general chairs Kaustuv Ganguli and Gus Xia, officially announced the upcoming 27th International Society for Music Information Retrieval Conference (ISMIR 2026) at this [&#8230;]",
@@ -3077,22 +3045,6 @@
         "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/09/30/masc-at-the-abu-dhabi-mangrove-initiative-admi-partners-meeting-2025/",
         "source": "Music and Sound Cultures",
         "published": "2025-09-30T16:30:19+00:00"
-      },
-      {
-        "id": "371a22eaf3ba",
-        "title": "Freesound Day programme, October 28th, Barcelona and online",
-        "summary": "EDIT 30/1/2026: the video recordings of the Freesound Day talks are now available at https://fs20.freesound.org/freesound-day/ Hi everyone! The Freesound Day is getting closer, and we are now able to announce the programme. For those who don&#8217;t know, the Freesound Day &#8230; Continue reading &...",
-        "url": "https://blog.freesound.org/?p=2290",
-        "source": "The Freesound Blog",
-        "published": "2025-09-30T13:37:40+00:00"
-      },
-      {
-        "id": "5453a59e4cf6",
-        "title": "Results of the Freesound 20th Anniversary Composition Contest",
-        "summary": "Earlier this year, we launched the Freesound 20th Anniversary Composition contest to celebrate two decades of Freesound. Now, we are thrilled to announce the results! The contest invited sound artists, composers, and explorers from around the world to create works &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2282",
-        "source": "The Freesound Blog",
-        "published": "2025-09-24T10:39:20+00:00"
       },
       {
         "id": "a61196bb9012",
@@ -3167,28 +3119,12 @@
         "published": "2025-08-01T07:00:00+00:00"
       },
       {
-        "id": "989d36798072",
-        "title": "Sensing the Forest: Two Ongoing Datasets from DIY Streamers at Alice Holt Forest, UK",
-        "summary": "[Guest blog post by Anna Xambó on behalf of the Sensing the Forest Team] Sensing the Forest (StF) is a project funded by the UKRI Arts and Humanities Research Council. Our goal is to raise awareness among forest visitors, artists, &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2248",
-        "source": "The Freesound Blog",
-        "published": "2025-07-02T12:36:09+00:00"
-      },
-      {
         "id": "d041f8db200f",
         "title": "Introducing:  Syntə",
         "summary": "I was recently able to finish the process of porting (ability to run on different operating systems) so we&#8217;re now &#8230; More",
         "url": "https://blog.toplap.org/2025/06/08/introducing-synt%c9%99/",
         "source": "TOPLAP",
         "published": "2025-06-08T21:28:27+00:00"
-      },
-      {
-        "id": "a32c959ec3d4",
-        "title": "“BAR-CEL-ONA” by the group Ekho and “Soundsystem for Silence” by Myubio Collective, a performance and a sound installation that celebrate Freesound",
-        "summary": "Dear Freesounders, As part of the 20th anniversary celebration program, there are two very exciting events that will take place next week in Barcelona, so be sure to check them out if you are around. The first event consists of &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2234",
-        "source": "The Freesound Blog",
-        "published": "2025-06-03T13:24:36+00:00"
       },
       {
         "id": "78bbc5e1b154",
@@ -3207,14 +3143,6 @@
         "published": "2025-05-21T14:28:31+00:00"
       },
       {
-        "id": "80eb7b888c07",
-        "title": "Call for talks for the “Freesound Day”, October 28th 2025",
-        "summary": "Hi everyone! As part of the celebrations of the 20th Anniversary of Freesound, we are organising a &#8220;Freesound Day&#8221; event that will happen on the 28th of October of 2025. The Freesound Day will include talks from members of the Freesound &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2228",
-        "source": "The Freesound Blog",
-        "published": "2025-05-16T14:22:09+00:00"
-      },
-      {
         "id": "1d37e671a255",
         "title": "New Release: The Songs of Shihuh Women",
         "summary": "The Shihuh (plural for Al Shehhi) is an Arab tribe that currently resides in the United Arab Emirates and Oman, dominating the territory of Ru’us al-Jibal and the Musandam peninsula. [&#8230;]",
@@ -3229,14 +3157,6 @@
         "url": "https://100r.ca/site/log.html#june2025",
         "source": "Hundred Rabbits",
         "published": "2025-05-02T07:00:00+00:00"
-      },
-      {
-        "id": "c01739412e2a",
-        "title": "Introducing the Broad Sound Taxonomy",
-        "summary": "Hi freesounders, We are happy to announce that we have just released a new feature for organising sounds in Freesound. Following recent research at the MTG, we reached to the definition of a sound taxonomy named &#8220;Broad Sound Taxonomy&#8221; (BST). &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2206",
-        "source": "The Freesound Blog",
-        "published": "2025-04-11T11:29:45+00:00"
       },
       {
         "id": "499cb5af49b3",
