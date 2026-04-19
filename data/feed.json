@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-19T08:11:23.313978+00:00",
+  "updated_at": "2026-04-19T09:57:32.482812+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "3dbc2f8c433b",
+        "title": "高鐵延伸屏東土方運輸　鐵道局：分流3措施降衝擊",
+        "summary": "（中央社記者黃巧雯台北19日電）外界關切高鐵延伸屏東施工期間土方運輸，恐增台1線及台17線負荷。鐵道局今天說，規劃設計及施工階段將納入評估，透過分期分區調度、運輸分流及全程監測等措施，降交通衝擊。",
+        "url": "https://www.cna.com.tw/news/ahel/202604190107.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-19T08:01:55+00:00"
+      },
+      {
+        "id": "a5c7b6409dc3",
+        "title": "工程師堅持不進疫區　26年如一日捐血救人一命",
+        "summary": "（中央社記者陳婕翎台北19日電）26年如一日捐血，是40多歲工程師呂紹旭的熱血故事，因為爸爸捐血救人事蹟上新聞，泛黄剪報開啟父子跨時空熱血接棒，呂紹旭至今堅持不進疫區，只為了持續不間斷「救人一命」。",
+        "url": "https://www.cna.com.tw/news/ahel/202604190103.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-19T07:39:46+00:00"
+      },
+      {
+        "id": "f92c95ab3928",
+        "title": "長榮新機將陸續交付　評估開航德里、波士頓等",
+        "summary": "（中央社記者余曉涵維也納19日電）長榮航空將在6月開航華盛頓，長榮航空總經理孫嘉明指出，未來隨著新機陸續交付，新航點評估包含西班牙巴塞隆納、芬蘭赫爾辛基、美國波士頓與印度德里等。",
+        "url": "https://www.cna.com.tw/news/ahel/202604190098.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-19T07:35:36+00:00"
+      },
       {
         "id": "9ac1cd2208ed",
         "title": "中東戰火油價飆漲　長榮航：第1季沒有太大影響",
@@ -59,36 +83,12 @@
         "published": "2026-04-19T04:33:30+00:00"
       },
       {
-        "id": "3708ea05b22c",
-        "title": "王崇憲翻轉台語教學　逛市場布袋戲融入生活場域",
-        "summary": "（中央社記者許秩維台北19日電）高雄市五福國中主任王崇憲全力投入台語教學與推廣，帶學生演布袋戲、分組朗讀、走訪菜市場，在真實場域中學習語言，提高學生學習意願，獲選教育家人物典範。",
-        "url": "https://www.cna.com.tw/news/ahel/202604190034.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-19T02:32:15+00:00"
-      },
-      {
         "id": "a2a6e3c7a7fb",
         "title": "DNA Lounge: Why 2K (2026-04-17)",
         "summary": "WHY 2K Main Room: Lazyboy MarcNado John Stamps Andy Throw it back to the best of the '90s and 2000s at our Throwback Dance Party! From Britney and Nsync to the Spice Girls and MC Hammer, we're spinning all the hits that defined a generation....This item belongs to: audio/dnalounge.This item has file...",
         "url": "https://archive.org/details/DNALOUNGE-2026-04-17",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-19T01:09:49+00:00"
-      },
-      {
-        "id": "ed14de89b7a9",
-        "title": "淡江大橋通車前　2500自行車友樂打卡",
-        "summary": "（中央社記者王鴻國新北19日電）淡江大橋即將於5月12日通車，交通部公路局今天上午舉辦自行車活動，2500名車友在晨曦中前行，不少車友除感受難得在橋上奔馳快感，也有人忍不住停下車打卡自拍。",
-        "url": "https://www.cna.com.tw/news/ahel/202604190016.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-19T00:40:35+00:00"
-      },
-      {
-        "id": "592782c5357c",
-        "title": "吳德榮：20日前防日夜溫差　24日起全台轉雨",
-        "summary": "（中央社記者張雄風台北19日電）氣象專家吳德榮表示，今明兩天各地天氣穩定，日夜溫差大；21日北台灣氣溫稍降，22、23日水氣增，山區午後偶有局部短暫降雨；24、25日鋒面南下影響，全台留意局部陣雨或雷雨，北台灣轉涼。",
-        "url": "https://www.cna.com.tw/news/ahel/202604190014.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-19T00:38:31+00:00"
       },
       {
         "id": "9bd972376b1f",
@@ -725,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "d3fee3d9eeb8",
+        "title": "漫射計畫》漫畫家里約、卓芭子在腦中小劇場預演「漫畫現場的誕生」 ft.【產業現場】延伸書單",
+        "summary": "➤ 「做漫畫的人」：漫畫家里約在鏡前模擬筆下角色的姿態與心境\n「雨把棧橋洗得發亮，像殯儀館的地板。\n我伏在貨箱後，看著福勒踩著水光走來，藍道跟在她身後，笑意薄得像刀。\n『你說過他們不會追來。』她聲音發緊。\n『不會的，親愛的。』他低聲，鋼索在掌心慢慢繞緊。\n福勒退了一步，鞋跟打滑。藍道逼近。\n我不喜歡巧合，巧合總帶著棺材味。\n我不再等，手探入外套，握住冰冷的槍柄。」\n\n\n\n漫畫家簡介：里約（Rio）\n喜歡牛仔、小鬍子和黑色喜劇，對正向的東西過敏，想活在70年代，當個笑話；一直在等某個博士乘著藍盒子來帶我逃離人生。\nhttps://bloodybarbrawl.tumblr.com\n\n➤ 「做漫畫...",
+        "url": "https://www.openbook.org.tw/article/p-72507",
+        "source": "Openbook閱讀誌",
+        "published": "2026-04-19T09:00:00+00:00"
+      },
+      {
         "id": "a3465f5e7eff",
         "title": "王船文化館「念念之間」開展 引導民眾思考人生抉擇",
         "summary": "（中央社記者黃郁菁屏東縣19日電）屏東王船文化館推出七角頭系列特展第3檔「念念之間」，聚焦下頭角城隍信仰；今天開展儀式，東港東福殿城隍爺與二十四司出陣入館見證，透過展覽引導民眾思考人生抉擇。",
@@ -1347,14 +1355,6 @@
         "url": "https://www.mittrchina.com/news/detail/16236",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-04-13T05:03:00+00:00"
-      },
-      {
-        "id": "4dd71e7f6224",
-        "title": "話題》揮出那把名為「她」的劍──讀《火焰鍛造之女》",
-        "summary": "不知道各位讀者是否曾有過這樣的心情：帶著激動與喜悅觀賞一部電影、一套漫畫或者一本小說，跟隨主角斬妖除魔，最終成為萬人景仰的英雄，卻在最後發現，你一直代入自身、全心投入的主角乃至於整段英雄旅程，實際上都不存在你的位置。\n如此刺痛幽微的情緒，和我們習以為常的傳統敘事有關，諸多經典文學作品因其誕生的歷史與文化使然，以特定性別、種族與外貌形塑主角，於是我們習慣將自身投射，卻在過程中感到無法容身。\n《火焰鍛造之女》便在開頭產生一種後設的趣味──與父親火麻呂相依為命的沙耶在16歲前以砂野琉的少年身分生活，並繼承父親的衣缽成為一名鍛造師傅。做為讀者，我們理所當然期待能在作者的引導下喜愛沙耶、了解沙耶甚至「成...",
-        "url": "https://www.openbook.org.tw/article/p-72500",
-        "source": "Openbook閱讀誌",
-        "published": "2026-04-13T03:30:54+00:00"
       },
       {
         "id": "7b85188d6885",
@@ -2204,7 +2204,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T08:11:23.313462+00:00"
+        "published": "2026-04-19T09:57:32.482330+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2212,7 +2212,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T08:11:23.313452+00:00"
+        "published": "2026-04-19T09:57:32.482320+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2220,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T08:11:23.313442+00:00"
+        "published": "2026-04-19T09:57:32.482310+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2228,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T08:11:23.313432+00:00"
+        "published": "2026-04-19T09:57:32.482299+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2236,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T08:11:23.313422+00:00"
+        "published": "2026-04-19T09:57:32.482289+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2244,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T08:11:23.313411+00:00"
+        "published": "2026-04-19T09:57:32.482278+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2252,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T08:11:23.313401+00:00"
+        "published": "2026-04-19T09:57:32.482267+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2260,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T08:11:23.313391+00:00"
+        "published": "2026-04-19T09:57:32.482256+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2268,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T08:11:23.313381+00:00"
+        "published": "2026-04-19T09:57:32.482245+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2276,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T08:11:23.313371+00:00"
+        "published": "2026-04-19T09:57:32.482235+00:00"
       },
       {
         "id": "be5988a969ed",
@@ -3261,14 +3261,6 @@
         "url": "https://blog.toplap.org/2024/11/12/creating-a-livecoding-workshop-for-kids/",
         "source": "TOPLAP",
         "published": "2024-11-12T20:00:24+00:00"
-      },
-      {
-        "id": "007ed2ed05b8",
-        "title": "Hello world!",
-        "summary": "WordPress へようこそ。こちらは最初の投稿です。編集または削除し、コンテンツ作成を始めてください。",
-        "url": "https://journals.acoustics.jp/ast/uncategorized/hello-world/",
-        "source": "Acoustical Science and Technology edited by the Acoustical Society of Japan",
-        "published": "2022-03-07T06:53:02+00:00"
       }
     ]
   }
