@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T17:43:11.245763+00:00",
+  "updated_at": "2026-04-19T19:05:11.466449+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -725,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "72381200323a",
+        "title": "Adafruit Weekly Editorial Round-Up: CircuitPython 10.2.0-rc.0, ESP-NOW Walkie Talkies, One Key QT Py ESP32 demo and more!",
+        "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ Circuit...",
+        "url": "https://blog.adafruit.com/2026/04/19/adafruit-weekly-editorial-round-up-circuitpython-10-2-0-rc-0-esp-now-walkie-talkies-one-key-qt-py-esp32-demo-and-more/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-19T18:20:18+00:00"
+      },
+      {
+        "id": "c5b8d240bbe8",
+        "title": "Use MicroPython to Add a Custom Sensor to a Robot Kit",
+        "summary": "Give an HP Robots Otto Kit the gift of hearing. With two ears (microphones) the bot will turn towards a noise. This project shows how to design some parts to 3d print, and then use MicroPython and Thonny with the board, and some circuit design, to make a robot that listens for a loud sound [&#8230;]",
+        "url": "https://blog.adafruit.com/2026/04/19/use-micropython-to-add-a-custom-sensor-to-a-robot-kit/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-19T17:30:53+00:00"
+      },
+      {
         "id": "507d530d33b9",
         "title": "The Center Will Not Hold review – a compelling conversation between US dance styles",
         "summary": "Sadler’s Wells, LondonTap, waacking, jookin’, footwork and jit are among the traditional, street and club styles that come together as Michelle Dorrance showcases a startling array of forms and talentThe last big US tap dance star to make a splash in the UK was Savion Glover, whose performances cent...",
@@ -957,28 +973,12 @@
         "published": "2026-04-17T16:00:00+00:00"
       },
       {
-        "id": "391e066ff6e4",
-        "title": "Making an ESP32 device which connects to Claude over Bluetooth",
-        "summary": "Claude for macOS and Windows can now connect Claude Cowork and Claude Code to maker devices over Bluetooth Low Energy (BLE), so developers and makers can build hardware that displays permission prompts, recent messages, and other interactions. We&#8217;ve been impressed by the creativity of the make...",
-        "url": "https://blog.adafruit.com/2026/04/17/making-an-esp32-device-which-connects-to-claude-over-bluetooth/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-17T15:14:39+00:00"
-      },
-      {
         "id": "c222f364a0ec",
         "title": "‘Packaging evil into something funny’: is making fun of Trump now just ‘clownwashing’?",
         "summary": "As the president’s second term has wrought new horrors, comedians reflect on whether humor can still ‘deflate the strongman’s image’During Donald Trump’s first term, as his lies distorted reality and gaslighted Americans, Stephen Colbert said his goal was to remind his audience: “Hey, you’re not cra...",
         "url": "https://www.theguardian.com/culture/2026/apr/17/trump-comedy-political-humor-clownwashing",
         "source": "Stage | The Guardian",
         "published": "2026-04-17T15:00:49+00:00"
-      },
-      {
-        "id": "8a73086ad142",
-        "title": "How to Display the Weather",
-        "summary": "Ah, spring. The in between season when it could be 40°F, 60°F or hey let&#8217;s throw 80°F into the mix like this week just did. At least there are flowers blooming and birds chirping. Help your future self get out the door with the perfect amount of layers by building a weather display with help [...",
-        "url": "https://blog.adafruit.com/2026/04/17/how-to-display-the-weather/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-17T14:00:20+00:00"
       },
       {
         "id": "f03d549818a9",
@@ -2284,7 +2284,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T17:43:09.202855+00:00"
+        "published": "2026-04-19T19:05:10.453034+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2292,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T17:43:09.202845+00:00"
+        "published": "2026-04-19T19:05:10.453024+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2300,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T17:43:09.202835+00:00"
+        "published": "2026-04-19T19:05:10.453014+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2308,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T17:43:09.202825+00:00"
+        "published": "2026-04-19T19:05:10.453004+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2316,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T17:43:09.202814+00:00"
+        "published": "2026-04-19T19:05:10.452993+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2324,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T17:43:09.202804+00:00"
+        "published": "2026-04-19T19:05:10.452983+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2332,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T17:43:09.202793+00:00"
+        "published": "2026-04-19T19:05:10.452973+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2340,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T17:43:09.202782+00:00"
+        "published": "2026-04-19T19:05:10.452962+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2348,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T17:43:09.202768+00:00"
+        "published": "2026-04-19T19:05:10.452952+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2356,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T17:43:09.202714+00:00"
+        "published": "2026-04-19T19:05:10.452942+00:00"
       },
       {
         "id": "7f1297c1cfb0",
