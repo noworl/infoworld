@@ -11,7 +11,8 @@
       "https://www.tmaroc.org.tw/category/latestnews/books/feed/",
       "https://www.tmaroc.org.tw/category/latestnews/feed/",
       "https://feeds.feedburner.com/TheMusicOfSound",
-      "https://archive.org/services/collection-rss.php?collection=folksoundomy"
+      "https://archive.org/services/collection-rss.php?collection=folksoundomy",
+      "https://tdritw.medium.com/feed"
     ],
     "破(day)": [
       "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/rss/",
@@ -35,13 +36,13 @@
       "https://www.glt.org.tw/?feed=rss2&#038;cat=8",
       "https://www.ncfta.gov.tw/OpenData.aspx?SN=E81DC2F252BA30BD",
       "https://www.openbook.org.tw/rss.xml",
-      "https://indiepublisher.tw/zh-hant/rss.xml"
+      "https://indiepublisher.tw/zh-hant/rss.xml",
+      "https://blog.adafruit.com/feed/"
     ],
     "序(month)": [
       "https://rss.app/feeds/TQ2sakrpGJ547cI6.xml",
       "https://www.ethanhein.com/wp/feed/",
       "https://writings.stephenwolfram.com/feed/",
-      "https://journals.acoustics.jp/ast/feed/",
       "https://blog.freesound.org/?feed=rss2",
       "https://www.ruanyifeng.com/blog/atom.xml",
       "https://blog.toplap.org/feed/",
@@ -54,7 +55,10 @@
       "https://audio.nmth.gov.tw/news/feed",
       "https://www.caa-ins.org/feed",
       "https://100r.ca/links/rss.xml",
-      "https://about.pts.org.tw/rss/XML/monthly.xml"
+      "https://about.pts.org.tw/rss/XML/monthly.xml",
+      "https://syntaur.com/blog/?feed=rss2",
+      "https://museumofportablesound.com/feed/",
+      "https://www.miltonline.com/feed/"
     ]
   },
   "max_items_per_category": 20
