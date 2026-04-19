@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-19T13:19:29.959825+00:00",
+  "updated_at": "2026-04-19T14:27:09.010148+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "2c16f7387e52",
+        "title": "紙風車劇團前進宜蘭　獻暖心驚喜為民眾慶生",
+        "summary": "（中央社記者王寶兒台北19日電）紙風車劇團本週末前進宜蘭礁溪與羅東帶來「台灣幻想曲」，其中礁溪場演出特別融入巧思，為支持劇團的民眾慶生，其他觀眾直呼是電視、手機體驗不到的感動。",
+        "url": "https://www.cna.com.tw/news/acul/202604190179.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-19T12:52:33+00:00"
+      },
       {
         "id": "6a7f083b7203",
         "title": "ALGERIA – ALGÉRIE Mohamed Tahar Fergani محمد طهار الفرڤاني  – El Boughi – Sawt El Menyar 1001",
@@ -81,14 +89,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604190107.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-19T08:01:55+00:00"
-      },
-      {
-        "id": "a5c7b6409dc3",
-        "title": "工程師堅持不進疫區　26年如一日捐血救人一命",
-        "summary": "（中央社記者陳婕翎台北19日電）26年如一日捐血，是40多歲工程師呂紹旭的熱血故事，因為爸爸捐血救人事蹟上新聞，泛黄剪報開啟父子跨時空熱血接棒，呂紹旭至今堅持不進疫區，只為了持續不間斷「救人一命」。",
-        "url": "https://www.cna.com.tw/news/ahel/202604190103.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-19T07:39:46+00:00"
       },
       {
         "id": "a2a6e3c7a7fb",
@@ -443,6 +443,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -645,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "2c16f7387e52",
+        "title": "紙風車劇團前進宜蘭　獻暖心驚喜為民眾慶生",
+        "summary": "（中央社記者王寶兒台北19日電）紙風車劇團本週末前進宜蘭礁溪與羅東帶來「台灣幻想曲」，其中礁溪場演出特別融入巧思，為支持劇團的民眾慶生，其他觀眾直呼是電視、手機體驗不到的感動。",
+        "url": "https://www.cna.com.tw/news/acul/202604190179.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-19T12:52:33+00:00"
+      },
+      {
         "id": "c87b17c522bb",
         "title": "伊藤潤二原畫展「誘惑」　海外首站6月登台",
         "summary": "（中央社記者王寶兒台北19日電）漫畫家伊藤潤二過去在日本推出個人大型原畫展「伊藤潤二展 誘惑」，海外首站選在台灣，6月將在台北松山文創園區展出，粉絲熟悉的「富江」、「漩渦」等作品都在展出之列。",
@@ -779,14 +867,6 @@
         "url": "https://www.openbook.org.tw/article/p-72511",
         "source": "Openbook閱讀誌",
         "published": "2026-04-18T03:30:58+00:00"
-      },
-      {
-        "id": "ba29c706e5bf",
-        "title": "公視董事會陷僵局　李遠：假消息充斥更需要公媒",
-        "summary": "（中央社記者邱祖胤台北18日電）第8屆公共電視董監事審查委員會，日前有8名審查委員集體請辭，文化部長李遠今天表示，假消息充斥的媒體時代，公共媒體就愈重要，文化部一定不會放棄。",
-        "url": "https://www.cna.com.tw/news/acul/202604180032.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-18T02:42:53+00:00"
       },
       {
         "id": "ce2b5b6ba85c",
@@ -2124,7 +2204,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T13:19:29.959399+00:00"
+        "published": "2026-04-19T14:27:09.009640+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2132,7 +2212,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T13:19:29.959391+00:00"
+        "published": "2026-04-19T14:27:09.009630+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2140,7 +2220,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T13:19:29.959384+00:00"
+        "published": "2026-04-19T14:27:09.009620+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2148,7 +2228,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T13:19:29.959376+00:00"
+        "published": "2026-04-19T14:27:09.009611+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2156,7 +2236,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T13:19:29.959368+00:00"
+        "published": "2026-04-19T14:27:09.009600+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2164,7 +2244,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T13:19:29.959361+00:00"
+        "published": "2026-04-19T14:27:09.009591+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2172,7 +2252,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T13:19:29.959353+00:00"
+        "published": "2026-04-19T14:27:09.009579+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2180,7 +2260,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T13:19:29.959346+00:00"
+        "published": "2026-04-19T14:27:09.009569+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2188,7 +2268,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T13:19:29.959338+00:00"
+        "published": "2026-04-19T14:27:09.009559+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2196,7 +2276,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T13:19:29.959330+00:00"
+        "published": "2026-04-19T14:27:09.009550+00:00"
       },
       {
         "id": "be5988a969ed",
