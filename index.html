@@ -193,8 +193,8 @@
     </div>
     <nav>
       <a href="new_videos.html" target="_blank">New Videos</a>
-      <a href="#" id="reddit-tech" target="_blank">Reddit Tech Weekly</a>
-      <a href="#" id="reddit-music" target="_blank">Reddit Music Weekly</a>
+      <a href="reddit/tech_index.html" target="_blank">Reddit Tech Weekly</a>
+      <a href="reddit/music_index.html" target="_blank">Reddit Music Weekly</a>
     </nav>
   </header>
   <!-- BANDCAMP_SECTION_START (temporarily disabled)
@@ -232,32 +232,6 @@
     const CATEGORY_ORDER = ["急(hr)", "破(day)", "序(month)"];
     const CATEGORY_LABELS = {"急(hr)": "急", "破(day)": "破", "序(month)": "序"};
     let currentOpen = null;
-
-    // Find latest Reddit weekly file
-    async function findLatestReddit(type) {
-      const today = new Date();
-      for (let i = 0; i < 14; i++) {
-        const d = new Date(today);
-        d.setDate(d.getDate() - i);
-        const yyyy = d.getFullYear();
-        const mm = String(d.getMonth() + 1).padStart(2, '0');
-        const dd = String(d.getDate()).padStart(2, '0');
-        const url = `reddit/reddit_${type}_weekly_${yyyy}-${mm}-${dd}.html`;
-        try {
-          const res = await fetch(url, { method: 'HEAD' });
-          if (res.ok) return url;
-        } catch (e) {}
-      }
-      return null;
-    }
-
-    async function setRedditLinks() {
-      const techUrl = await findLatestReddit('tech');
-      const musicUrl = await findLatestReddit('music');
-      if (techUrl) document.getElementById('reddit-tech').href = techUrl;
-      if (musicUrl) document.getElementById('reddit-music').href = musicUrl;
-    }
-    setRedditLinks();
 
     let trendingKeywords = [];
 
