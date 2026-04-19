@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-04-19T09:57:32.482812+00:00",
+  "updated_at": "2026-04-19T10:51:27.508450+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "ec71015540a0",
+        "title": "「白沙聖域 天空之丘」　苗縣打造濱海觀光新軸線",
+        "summary": "百年媽祖進香路3（中央社記者管瑞平苗栗縣19日電）苗栗通霄白沙屯拱天宮媽祖進香，因獨特宗教文化魅力帶動周邊觀光，縣府以「白沙聖域‧天空之丘」整體廊帶計畫，整合串聯後龍好望角至通霄白沙屯，營造全新濱海旅遊軸線。",
+        "url": "https://www.cna.com.tw/news/ahel/202604190150.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-19T10:10:29+00:00"
+      },
+      {
+        "id": "af0251a46276",
+        "title": "「媽祖請客」廣結善緣　吃飯擔進化超狂點心站",
+        "summary": "百年媽祖進香路2（中央社記者管瑞平苗栗縣19日電）白沙屯媽祖進香人數連年攀升，沿途物資餐點、結緣品發送，堪稱古早「吃飯擔」的超狂升級版。翁秀蓁連續11年在進香期間設點心站，她說「媽祖請客」廣結善緣，是此生最開心的事。",
+        "url": "https://www.cna.com.tw/news/ahel/202604190148.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-19T10:08:25+00:00"
+      },
+      {
+        "id": "0fc6263468a8",
+        "title": "46萬人跟著媽祖徒步進香　百年白沙屯的變與不變",
+        "summary": "百年媽祖進香路1（中央社記者管瑞平苗栗縣19日電）白沙屯媽祖徒步進香擁有逾百年歷史，近年因網路科技傳播迅速，發展成全國宗教盛事，為白沙屯帶來人潮、錢潮，拱天宮與在地居民期待時代變動之下，持續守護「媽祖帶路」的信仰核心。",
+        "url": "https://www.cna.com.tw/news/ahel/202604190147.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-19T10:08:23+00:00"
+      },
+      {
+        "id": "bff1f87ce028",
+        "title": "台南屏東20日防36度以上高溫　後半週全台轉雨",
+        "summary": "（中央社記者張雄風台北19日電）氣象署今天表示，明天白天偏熱，台南、屏東地區防局部攝氏36度以上的高溫，各地留意日夜溫差大；本週後半有鋒面、東北季風及華南雲雨區接力，逐漸轉為全台有雨的天氣型態。",
+        "url": "https://www.cna.com.tw/news/ahel/202604190146.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-19T10:04:21+00:00"
+      },
+      {
+        "id": "ca58f30f06db",
+        "title": "醫界籲急性白血病給付解限制　健保署：滾動式研修",
+        "summary": "（中央社記者陳婕翎台北19日電）急性白血病惡化迅速，中華民國血液病學會今天建議，打破健保給付限制與互斥、擴大次世代基因定序給付癌別等；健保署表示，將依據實證滾動式研修給付規定，積極接軌國際。",
+        "url": "https://www.cna.com.tw/news/ahel/202604190122.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-19T09:20:30+00:00"
+      },
       {
         "id": "3dbc2f8c433b",
         "title": "高鐵延伸屏東土方運輸　鐵道局：分流3措施降衝擊",
@@ -41,46 +81,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604190085.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-19T06:16:07+00:00"
-      },
-      {
-        "id": "0a7cd79b098a",
-        "title": "淡江大橋機車道寬2.5公尺引過窄疑慮　公路局：符合規範、檢視優化",
-        "summary": "（中央社記者黃巧雯台北19日電）淡江大橋5月12日將通車，有民眾質疑機車道過窄，若發生車禍恐易造成連環碰撞事故。公路局今天說，寬度2.5公尺符合規範，已成立通車前安全諮詢小組，並邀請專家學者檢視優化作業。",
-        "url": "https://www.cna.com.tw/news/ahel/202604190079.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-19T06:02:54+00:00"
-      },
-      {
-        "id": "91cc919171b9",
-        "title": "彭啓明擬推「都市林」　盼捷運站到辦公室全樹蔭",
-        "summary": "（中央社記者張雄風台北19日電）環境部長彭啓明表示，正規劃「都市林」計畫，以雙北為例，希望現在開始種樹、10年後從捷運站到辦公室都有樹蔭，並將因應颱風季設計樹倒預測系統；擬於30日氣候委員會報告。",
-        "url": "https://www.cna.com.tw/news/ahel/202604190077.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-19T05:29:50+00:00"
-      },
-      {
-        "id": "282bc6890c3f",
-        "title": "急性白血病來勢洶洶　醫界籲打破給付限制",
-        "summary": "（中央社記者陳婕翎台北19日電）急性骨髓性白血病治療進入全方位、個人化標靶的時代，醫界今天呼籲穩健接軌國際治療指引，健保應優化給付、擴大次世代基因定序給付，讓治療與時間賽跑，搶救病患且減少復發。",
-        "url": "https://www.cna.com.tw/news/ahel/202604190075.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-19T05:12:43+00:00"
-      },
-      {
-        "id": "ef77ea272998",
-        "title": "沈玉琳挺過白血病風暴　預告準備重啟錄製返幕前",
-        "summary": "（中央社記者陳婕翎台北19日電）藝人沈玉琳今天分享抗癌歷程，因誤認急性骨髓性白血病徵兆是疲勞，拖延就醫，幸好在良好醫病溝通「敢賭」的決心，與家人陪伴，挺過病魔猛烈攻擊，預計近期將重返錄製節目。",
-        "url": "https://www.cna.com.tw/news/ahel/202604190070.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-19T04:39:32+00:00"
-      },
-      {
-        "id": "cb93d5e70083",
-        "title": "郵局跨界聯名　Q版媽祖零錢包、令旗鑰匙圈受歡迎",
-        "summary": "（中央社記者黃巧雯台北19日電）媽祖遶境活動引發關注，中華郵政展現跨域創新嘗試，攜手媽祖信仰重鎮，苗栗、台中和雲林郵局接力推出聯名商品，令旗鑰匙圈、「波波鴿」結合Q版媽祖零錢包等，掀起收藏熱潮。",
-        "url": "https://www.cna.com.tw/news/ahel/202604190069.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-19T04:33:30+00:00"
       },
       {
         "id": "a2a6e3c7a7fb",
@@ -435,86 +435,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -724,6 +644,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "8d417cdf7ff6",
+        "title": "Ronin review – Yukiko Masui’s swordplay choreography is exhilarating in its cut and thrust",
+        "summary": "The Place, LondonThis audiovisually immersive, anime-inspired dance piece is full of stylishly fluid movement and thrilling fights and face-offs Some contemporary dance can make you feel like you need a master’s degree to even enter its zone. Yukiko Masui’s Ronin is not at all of that ilk. Take the ...",
+        "url": "https://www.theguardian.com/stage/2026/apr/19/ronin-review-yukiko-masui-the-place-swordplay-anime",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-19T10:01:06+00:00"
+      },
       {
         "id": "d3fee3d9eeb8",
         "title": "漫射計畫》漫畫家里約、卓芭子在腦中小劇場預演「漫畫現場的誕生」 ft.【產業現場】延伸書單",
@@ -1075,14 +1003,6 @@
         "url": "https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code",
         "source": "Claude Blog",
         "published": "2026-04-16T00:00:00+00:00"
-      },
-      {
-        "id": "114b01e98d5a",
-        "title": "Sexual harassment is rife on comedy circuit and women lack protections, MPs told",
-        "summary": "Women using informal warning systems to protect themselves and others, comedian tells equalities committeeSexual harassment and abuse on the comedy circuit is persistent and under-reported, with protections available to women often limited or absent, a comedian has told MPs.Performers and campaigner...",
-        "url": "https://www.theguardian.com/society/2026/apr/15/sexual-harassment-is-rife-on-comedy-circuit-and-women-lack-protections-mps-told",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-15T17:28:37+00:00"
       },
       {
         "id": "2c731f9caff7",
@@ -2204,7 +2124,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T09:57:32.482330+00:00"
+        "published": "2026-04-19T10:51:27.507991+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2212,7 +2132,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T09:57:32.482320+00:00"
+        "published": "2026-04-19T10:51:27.507980+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2220,7 +2140,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T09:57:32.482310+00:00"
+        "published": "2026-04-19T10:51:27.507970+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2228,7 +2148,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T09:57:32.482299+00:00"
+        "published": "2026-04-19T10:51:27.507960+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2156,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T09:57:32.482289+00:00"
+        "published": "2026-04-19T10:51:27.507950+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2164,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T09:57:32.482278+00:00"
+        "published": "2026-04-19T10:51:27.507939+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2172,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T09:57:32.482267+00:00"
+        "published": "2026-04-19T10:51:27.507929+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2180,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T09:57:32.482256+00:00"
+        "published": "2026-04-19T10:51:27.507918+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2188,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T09:57:32.482245+00:00"
+        "published": "2026-04-19T10:51:27.507908+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2196,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-19T09:57:32.482235+00:00"
+        "published": "2026-04-19T10:51:27.507897+00:00"
       },
       {
         "id": "be5988a969ed",
@@ -3261,6 +3181,14 @@
         "url": "https://blog.toplap.org/2024/11/12/creating-a-livecoding-workshop-for-kids/",
         "source": "TOPLAP",
         "published": "2024-11-12T20:00:24+00:00"
+      },
+      {
+        "id": "007ed2ed05b8",
+        "title": "Hello world!",
+        "summary": "WordPress へようこそ。こちらは最初の投稿です。編集または削除し、コンテンツ作成を始めてください。",
+        "url": "https://journals.acoustics.jp/ast/uncategorized/hello-world/",
+        "source": "Acoustical Science and Technology edited by the Acoustical Society of Japan",
+        "published": "2022-03-07T06:53:02+00:00"
       }
     ]
   }
