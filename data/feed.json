@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T18:03:29.285286+00:00",
+  "updated_at": "2026-04-20T20:05:36.934403+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -17,6 +17,14 @@
         "url": "https://archive.org/details/DNALOUNGE-2026-04-19a",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-20T17:18:43+00:00"
+      },
+      {
+        "id": "79e159a9f988",
+        "title": "nagrania radiowe z 13-19 kwietnia 2026",
+        "summary": "radio.This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nagrania-radiowe-z-13-19-kwietnia-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-20T15:14:56+00:00"
       },
       {
         "id": "09ed94886c54",
@@ -153,14 +161,6 @@
         "url": "https://archive.org/details/DNALOUNGE-2026-04-18",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-20T05:03:29+00:00"
-      },
-      {
-        "id": "0381741d387f",
-        "title": "Angelique Kidjo - Fillmore - 8/23/02",
-        "summary": "Angelique Kidjo - Fillmore - 8/23/02.This item belongs to: audio/roiocollection.This item has files of the following types: AIFF, Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/angelique-kidjo-fillmore-82302",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-19T23:43:13+00:00"
       },
       {
         "id": "6a7f083b7203",
@@ -451,86 +451,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -805,6 +725,30 @@
     ],
     "破(day)": [
       {
+        "id": "df1c1f02bac3",
+        "title": "A complete transformer neural network implemented entirely in HyperTalk, trained on a Macintosh SE/30",
+        "summary": "MacMind is a 1,216-parameter single-layer single-head transformer that learns the bit-reversal permutation &#8212; the opening step of the Fast Fourier Transform &#8212; from random examples. Every line of the neural network is written in HyperTalk, a scripting language from 1987 designed for making...",
+        "url": "https://blog.adafruit.com/2026/04/20/a-complete-transformer-neural-network-implemented-entirely-in-hypertalk-trained-on-a-macintosh-se-30/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-20T19:47:51+00:00"
+      },
+      {
+        "id": "f362d389734c",
+        "title": "Let’s talk space toilet history",
+        "summary": "The Mars For The Rest of Us blog states that the traditional astronaut’s ‘low residue’ breakfast of steak and eggs pays tribute to the oldest and wisest strategy for going to the bathroom in space, which is to do everything possible to avoid it. The article goes over the history of using the bathroo...",
+        "url": "https://blog.adafruit.com/2026/04/20/lets-talk-space-toilets/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-20T19:30:16+00:00"
+      },
+      {
+        "id": "af02400ed3a5",
+        "title": "Franklin’s bad ads for Apple II clones",
+        "summary": "Over on Such Bad Tech Ads, they write about how a beloved hometown impersonator had no idea what he was signing up for with a photoshoot. Franklin Computer Corporation’s hardware, software, and ad concepts were stolen intellectual property, which, I think, qualifies as “bad.” Franklin was focused on...",
+        "url": "https://blog.adafruit.com/2026/04/20/franklins-bad-ads-for-apple-ii-clones/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-20T18:55:34+00:00"
+      },
+      {
         "id": "a4f73305f57d",
         "title": "An LED controller for the RPi 500+ RGB keyboard",
         "summary": "The Raspberry Pi 500+ keyboard with LED support already provides lighting control via rpi-keyboard-config, but configuration is currently still mostly terminal-based. Ernst has written software to put users in control: This started as a small tool for my own Raspberry Pi OS GNOME setup, but it has g...",
@@ -859,30 +803,6 @@
         "url": "https://blog.adafruit.com/2026/04/20/running-a-minecraft-server-and-more-on-a-1960s-univac-computer/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-04-20T15:31:48+00:00"
-      },
-      {
-        "id": "ca78093dd4df",
-        "title": "The electromechanical angle computer inside the B-52 bomber’s star tracker",
-        "summary": "Ken Shirriff looks at the amazing electromechanical angle computer inside the B-52 bomber aircraft&#8217;s star tracker. Before GPS, how did aircraft navigate? One important technique was celestial navigation: navigating from the positions of the stars, planets, or the sun. While celestial navigatio...",
-        "url": "https://blog.adafruit.com/2026/04/20/the-electromechanical-angle-computer-inside-the-b-52-bombers-star-tracker/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-20T14:51:55+00:00"
-      },
-      {
-        "id": "4f140eb0cb74",
-        "title": "Floating point fun on Cortex-M processors",
-        "summary": "Daniel Mangum discusses using floating point Application Binary Interface on Arm Cortex-M processors. Arm defines three floating point Application Binary Interface (ABI) options, which are controlled by the -mfloat-abi compiler flag. soft: Soft ABI without FPU hardware: All floating-point operations...",
-        "url": "https://blog.adafruit.com/2026/04/20/floating-point-fun-on-cortex-m-processors/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-20T14:19:15+00:00"
-      },
-      {
-        "id": "db0a81568121",
-        "title": "Make a Paper Gold Chain",
-        "summary": "image via DAZMAKER on Instructables &#160; In this Instructable, DAZMAKER shows how they used left over gold party plates to make a chain: For the design, I was inspired by the Cuban style of chunky retro chains, characterized by thick, tightly intertwined links that lie flat. These chains come in h...",
-        "url": "https://blog.adafruit.com/2026/04/20/make-a-paper-gold-chain/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-20T14:00:50+00:00"
       },
       {
         "id": "f81414ec7e63",
@@ -2364,7 +2284,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T18:03:27.092876+00:00"
+        "published": "2026-04-20T20:05:35.904803+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2292,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T18:03:27.092866+00:00"
+        "published": "2026-04-20T20:05:35.904793+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2300,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T18:03:27.092856+00:00"
+        "published": "2026-04-20T20:05:35.904782+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2308,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T18:03:27.092845+00:00"
+        "published": "2026-04-20T20:05:35.904772+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2316,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T18:03:27.092835+00:00"
+        "published": "2026-04-20T20:05:35.904762+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2324,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T18:03:27.092824+00:00"
+        "published": "2026-04-20T20:05:35.904751+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2332,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T18:03:27.092814+00:00"
+        "published": "2026-04-20T20:05:35.904741+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2340,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T18:03:27.092804+00:00"
+        "published": "2026-04-20T20:05:35.904731+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2348,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T18:03:27.092794+00:00"
+        "published": "2026-04-20T20:05:35.904721+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2356,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T18:03:27.092784+00:00"
+        "published": "2026-04-20T20:05:35.904711+00:00"
       },
       {
         "id": "6718227ae0bf",
