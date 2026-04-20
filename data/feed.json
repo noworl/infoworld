@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-04-20T16:17:39.793452+00:00",
+  "updated_at": "2026-04-20T18:03:29.285286+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "d36127d50a8f",
+        "title": "DNA Lounge: Parabellum: Record Release (2026-04-19d)",
+        "summary": "Performing Live: PARABELLUM HARALDBELLUM BACK STABBATH JESUS CRISIS oin us for a full night of Bay Area thrash metal as we celebrate the release of Parabellum's new album! Parabellum is a rising thrash metal band from Lincoln, California, delivering precision, intensity, and a modern edge on classic...",
+        "url": "https://archive.org/details/DNALOUNGE-2026-04-19d",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-20T17:19:07+00:00"
+      },
+      {
+        "id": "36bf363b9c36",
+        "title": "DNA Lounge: Hubba Hubba Revue: Cyberpunk (2026-04-19a)",
+        "summary": "HUBBA HUBBA REVUE: CYBERPUNK Featuring performances by: Vicomte Harbourg (Paris) Daphne Moon (Long Beach) The She Creature & Musty Rusty Wednesday Malfaz Aerialist Joanna Animal Aerialist Medusa Sting Evangeline Laveau Luke DuLac Gucci Gyatt AdrianaX Dame Special guests from Flux Vertical Theatre .....",
+        "url": "https://archive.org/details/DNALOUNGE-2026-04-19a",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-20T17:18:43+00:00"
+      },
       {
         "id": "09ed94886c54",
         "title": "DJ RAFAEL CASSIANO AO VIVO NO SENADOR CANEDO GO 18 04 2026",
@@ -145,22 +161,6 @@
         "url": "https://archive.org/details/angelique-kidjo-fillmore-82302",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-19T23:43:13+00:00"
-      },
-      {
-        "id": "99b6f2c954eb",
-        "title": "DNA Lounge: Exhorder (2026-02-10)",
-        "summary": "Performing Live: EXHORDER LUICIDAL PHOBIA SLOWHOLE DEMONSMOKE Exhorder is a pioneering American thrash/groove metal band from New Orleans, formed in 1985, credited with creating the chugging, groove-oriented sound later popularized by Pantera....This item belongs to: movies/dnalounge-video.This item...",
-        "url": "https://archive.org/details/DNALOUNGE-VIDEO-2026-02-10",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-19T23:20:30+00:00"
-      },
-      {
-        "id": "97a85bb95f2c",
-        "title": "DNA Lounge: Monday Night Hubba: Peepshow (2026-02-09d)",
-        "summary": "Hubba Hubba Revue presents MONDAY NIGHT HUBBA: PEEPSHOW Featuring performances by: Wicked Dollia Shannon Burla Bobby Ashton Luma Jaquar Ashanti Altovese Pearl E. Gates Jill Parker Hosted by: Sophilya Leggz & Red Bettie Monday Night Hubba is the perfect way to start your week sexy: with cocktails, te...",
-        "url": "https://archive.org/details/DNALOUNGE-VIDEO-2026-02-09d",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-19T23:16:54+00:00"
       },
       {
         "id": "6a7f083b7203",
@@ -805,6 +805,54 @@
     ],
     "破(day)": [
       {
+        "id": "a4f73305f57d",
+        "title": "An LED controller for the RPi 500+ RGB keyboard",
+        "summary": "The Raspberry Pi 500+ keyboard with LED support already provides lighting control via rpi-keyboard-config, but configuration is currently still mostly terminal-based. Ernst has written software to put users in control: This started as a small tool for my own Raspberry Pi OS GNOME setup, but it has g...",
+        "url": "https://blog.adafruit.com/2026/04/20/an-led-controller-for-the-rpi-500-rgb-keyboard/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-20T17:13:01+00:00"
+      },
+      {
+        "id": "35dcc0a4a993",
+        "title": "Free Archive of 10,000 Live Concerts #Music #MusicMonday",
+        "summary": "&#160; Starting in the mid-80&#8217;s with a pocket cassette recorder, Aadam Jacobs began his journey. Over the next 4+ decades Jacobs would amass a personal collection of clandestine concert recordings. The one-of-a-kind cassettes hold a chronicle of Chicago&#8217;s music scene and now the boxes an...",
+        "url": "https://blog.adafruit.com/2026/04/20/free-archive-of-10000-live-concerts-music-musicmonday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-20T17:11:48+00:00"
+      },
+      {
+        "id": "0f0838e47feb",
+        "title": "CAD Mouse MK2",
+        "summary": "Salim Benbouziyane is working on the second iteration of a DIY CAD Mouse, rebuilt to behave like a real 6DoF controller. There are still some motion processing issues, but it&#8217;s much better than the previous version. It uses a custom PCB with three magnetic sensors, a 3D printed spring, and a r...",
+        "url": "https://blog.adafruit.com/2026/04/20/cad-mouse-mk2/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-20T17:04:39+00:00"
+      },
+      {
+        "id": "392ecec5883f",
+        "title": "Fits on a floppy",
+        "summary": "Many of Matt Sephton&#8217;s apps are small enough to fit on a 1.44MB floppy drive. Why go small? A Manifesto for Small Software Software has lost its way. Apps that once shipped on a single floppy disk now demand gigabytes of your storage, minutes of your time, and far too much of your patience. We...",
+        "url": "https://blog.adafruit.com/2026/04/20/fits-on-a-floppy/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-20T16:48:15+00:00"
+      },
+      {
+        "id": "4ce03fb42236",
+        "title": "BeagleConnect Zepto: a $1 microcontroller board",
+        "summary": "BeagleConnect Zepto is based around a low-cost Texas Instruments MSPM0L1117 microcontroller that includes an Arm Cortex-M0 running at 32MHz, 128kB flash and 16kB of RAM. The friction-fit mikroBUS-compatible through-holes makes it possible to prototype with nearly 2,000 off-the-shelf sensor, actuator...",
+        "url": "https://blog.adafruit.com/2026/04/20/beagleconnect-zepto-a-1-microcontroller-board/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-20T16:32:24+00:00"
+      },
+      {
+        "id": "f826359d055b",
+        "title": "An open source Arduino library for the ESP32-P4 LP (Low Power) core",
+        "summary": "Xorlent on Github has released an MIT open source licence library for using the ESP32-P4 LP (Low Power) core. The ESP32-P4 includes a dedicated LP (Low Power) core &#8211; a full RISC-V processor that runs independently while the main dual-core CPU is in deep sleep. It has access to LP peripherals (...",
+        "url": "https://blog.adafruit.com/2026/04/20/an-open-source-arduino-library-for-the-esp32-p4-lp-low-power-core/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-20T16:18:54+00:00"
+      },
+      {
         "id": "5a7316fa5e05",
         "title": "Running a Minecraft Server and more on a 1960s UNIVAC computer",
         "summary": "Nathan Farlow has accomplished something few other people might have imagined: running a Minecraft game server on a 1960s UNIVAC 1219B computer. The UNIVAC 1219B is a super weird machine and is hostile to modern programming in almost every way: 18 bit words, ones’ complement arithmetic, kinda, just ...",
@@ -835,46 +883,6 @@
         "url": "https://blog.adafruit.com/2026/04/20/make-a-paper-gold-chain/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-04-20T14:00:50+00:00"
-      },
-      {
-        "id": "27d13e975cdb",
-        "title": "Piranha Plant bowl #3DPrinting #3DThursday",
-        "summary": "SouthLab shares: 🌱 Piranha Plant Bowl – the most fun snack (NO AMS REQUIRED) I knew I wanted something practical for snacking… but also something cool to have on the table 😄 So I designed this retro-style piranha plant which is actually a dual-function bowl download the files on: https://makerworld....",
-        "url": "https://blog.adafruit.com/2026/04/20/piranha-plant-bowl-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-20T13:48:38+00:00"
-      },
-      {
-        "id": "fc857912a037",
-        "title": "Skadis Milk Crate #3DPrinting #3DThursday",
-        "summary": "diru shares: I made this version because it&#8217;s better and more stable than the previous one, which always broke download the files on: https://makerworld.com/en/models/2636182-skadis-milk-crate Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedicat...",
-        "url": "https://blog.adafruit.com/2026/04/20/skadis-milk-crate-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-20T13:47:21+00:00"
-      },
-      {
-        "id": "2522f0ea1a59",
-        "title": "Raspberry Pi GPIO Overlay – Pinout Cheat Sheet #3DPrinting #3DThursday",
-        "summary": "nicehatthanks shares: A clean, no-nonsense GPIO reference plate for Raspberry Pi users. This is a desk-friendly cheat sheet for the full 40-pin header — designed to be readable at a glance without opening yet another browser tab. download the files on: https://makerworld.com/en/models/2618336-raspbe...",
-        "url": "https://blog.adafruit.com/2026/04/20/raspberry-pi-gpio-overlay-pinout-cheat-sheet-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-20T13:46:40+00:00"
-      },
-      {
-        "id": "1d24ceac7592",
-        "title": "Organizer assortment box with lid #3DPrinting #3DThursday",
-        "summary": "Printkaas shares: This is a small organizer assortment box with 20 compartments. -Hinged lid, snapped shut with a clip/lip. -Size 174x150x33mm download the files on: https://www.thingiverse.com/thing:7318043 Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion an...",
-        "url": "https://blog.adafruit.com/2026/04/20/organizer-assortment-box-with-lid-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-20T13:43:44+00:00"
-      },
-      {
-        "id": "e813769d71cb",
-        "title": "Cyber Gotchi: From Tamagotchi to Modern Digital Life",
-        "summary": "This fun project from Thai maker Yakroo will speak to anyone who grew up in the 90s: In this project, we will build Cyber Gotchi, a digital life system that evolves from a simple virtual pet concept into a physical interactive device. The system simulates a living digital creature with real-time int...",
-        "url": "https://blog.adafruit.com/2026/04/20/cyber-gotchi-from-tamagotchi-to-modern-digital-life/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-20T13:35:05+00:00"
       },
       {
         "id": "f81414ec7e63",
@@ -949,12 +957,28 @@
         "published": "2026-04-20T03:30:12+00:00"
       },
       {
+        "id": "ae3961b94c7c",
+        "title": "研究了30年的镜像生命，为什么科学家自己喊了停",
+        "summary": "（来源：麻省理工科技评论）2019 年 2 月，大约 30 位合成生物学家和伦理学家聚集在北弗吉尼亚一处会议中心，集思广益，思考那些高风险、前沿、诱人到难以拒绝的研究方向，以及确定美国国家科学基金会（NSF）应该资助哪些这类项目。会议结束时，他们锁定了一个极具吸引力的候选方向：制造“镜像”细菌。如果这些实验室合成的微生物真能造出来，它们的结构和组织方式会和普通细菌一样，只有一个重要区别：像蛋白质、糖类和脂质这类关键生物分子，会是自然界中对应分子的镜像形态。DNA、RNA 和许多其他构成生命细胞的组件都是“手性”的——它们的结构天生带有固定的旋转方向，就像左手和右手互为镜像却无法重合，它们的镜像...",
+        "url": "https://www.mittrchina.com/news/detail/16265",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-20T02:04:58+00:00"
+      },
+      {
         "id": "2ad5d9b788a9",
         "title": "Fallen Angels review – Rose Byrne is utterly delightful in Noël Coward comedy revival",
         "summary": "Todd Haimes Theatre, New YorkRose Byrne and Kelli O’Hara are comic gems in a pitch-perfect revival that sparkles like champagneFallen Angels has appeared only twice on Broadway since its stateside premiere in 1927, two years after the lustful comedy’s London premiere cemented Noël Coward as England’...",
         "url": "https://www.theguardian.com/stage/2026/apr/19/fallen-angels-review-broadway",
         "source": "Stage | The Guardian",
         "published": "2026-04-20T00:00:56+00:00"
+      },
+      {
+        "id": "168489b4e1b1",
+        "title": "Meet the winners of our Built with Opus 4.6 Claude Code hackathon",
+        "summary": "Meet the winners of our Built with Opus 4.6 Claude Code hackathon",
+        "url": "https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon",
+        "source": "Claude Blog",
+        "published": "2026-04-20T00:00:00+00:00"
       },
       {
         "id": "1127badb56b9",
@@ -965,12 +989,12 @@
         "published": "2026-04-19T23:40:37+00:00"
       },
       {
-        "id": "72381200323a",
-        "title": "Adafruit Weekly Editorial Round-Up: CircuitPython 10.2.0-rc.0, ESP-NOW Walkie Talkies, One Key QT Py ESP32 demo and more!",
-        "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ Circuit...",
-        "url": "https://blog.adafruit.com/2026/04/19/adafruit-weekly-editorial-round-up-circuitpython-10-2-0-rc-0-esp-now-walkie-talkies-one-key-qt-py-esp32-demo-and-more/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-19T18:20:18+00:00"
+        "id": "fa09e0cae584",
+        "title": "書、店、人的告別與新生：《書店裡的影像詩》十年見證，希望從來不在他方",
+        "summary": "「書店是一個裡面時間的流速跟外面時間的流速不一樣的空間⋯⋯每一本書都給了我一種想像『我可以怎麼樣』⋯⋯在書店裡的自己，好像是一個更好的自己。我們可以在書店裡去想像，還沒有被實現出來的那個更像自己的自己。」",
+        "url": "https://www.twreporter.org/a/interview-hou-chi-jan-poetries-from-the-bookstores-here-i-belong",
+        "source": "報導者",
+        "published": "2026-04-19T16:00:00+00:00"
       },
       {
         "id": "104685080f9a",
@@ -1029,12 +1053,28 @@
         "published": "2026-04-19T12:52:33+00:00"
       },
       {
+        "id": "5490b702b186",
+        "title": "10美元破解机器人触觉难题！斯坦福开源方案让机械手拥有人类手感",
+        "summary": "数据是具身智能的燃料。然而生活中随处会用到的力信息的采集，却是现有诸多大规模数采系统普遍面临的一大难点。传统的力传感器（Force-torque sensor）昂贵，沉重且脆弱，动辄上万元成本的设备在遇到冲击时极易永久损坏；更灵活的触觉传感器（Tactile Sensor）仍不成熟，短暂的使用寿命和校准的困难都极大限制了其应用规模。为了解决力反馈的难题，斯坦福大学团队开发了名为 UMI-FT 的系统，他们在手持式数采设备 UMI 的每个手指上安装了一个硬币大小的六维力觉传感器 -- CoinFT。它能感知到每个手指受到的全部六个方向的力和力矩。这个传感器只有 2 克重，当机器人拿着灯泡去找插座...",
+        "url": "https://www.mittrchina.com/news/detail/16264",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-19T11:42:01+00:00"
+      },
+      {
         "id": "c87b17c522bb",
         "title": "伊藤潤二原畫展「誘惑」　海外首站6月登台",
         "summary": "（中央社記者王寶兒台北19日電）漫畫家伊藤潤二過去在日本推出個人大型原畫展「伊藤潤二展 誘惑」，海外首站選在台灣，6月將在台北松山文創園區展出，粉絲熟悉的「富江」、「漩渦」等作品都在展出之列。",
         "url": "https://www.cna.com.tw/news/acul/202604190165.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-04-19T11:35:02+00:00"
+      },
+      {
+        "id": "de1566a90390",
+        "title": "中国科学家造出三项全能铜箔，破解行业难题，手机电池芯片都将受益",
+        "summary": "铜箔是铜金属的薄片，由于其优良的导电性、延展性等性能，用途广泛，包括智能手机、电脑等电子设备、家用电器、汽车和建筑等，是支撑我们日常生活的重要材料之一。随着芯片越做越小、电池追求更长续航、设备朝着轻薄化升级，铜箔面临的要求也越来越苛刻。在实际使用中，铜箔不仅要承受卷绕、冲压、弯折等复杂力学压力，还必须同时满足三个指标：强度够高、导电够好、热稳定性好。然而，传统铜箔难以同时兼顾高强度、高导电性和高热稳定性，成为相关产业发展的主要瓶颈。近日，中国科学院金属研究所卢磊研究员团队与合作者在 Science 期刊发表成果，他们通过一种全新的梯度序构微观结构设计，成功研发出兼具超高强度、高导电性与优异热稳...",
+        "url": "https://www.mittrchina.com/news/detail/16262",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-19T11:22:19+00:00"
       },
       {
         "id": "8d417cdf7ff6",
@@ -1093,6 +1133,22 @@
         "published": "2026-04-18T14:50:36+00:00"
       },
       {
+        "id": "dd284fbf435c",
+        "title": "零能耗降温6.1℃！新型透明车窗膜让汽车在烈日下自动散热",
+        "summary": "炎炎夏日，经过阳光长时间暴晒的汽车座舱往往会变成一个“大烤箱”，打开车门瞬间涌出的热浪是许多驾驶者避之不及的“痛苦”体验。为了快速降温，车载空调往往需要满负荷运转，这不仅消耗大量燃油或电量，也严重缩短了电动汽车的续航里程。图 | 看到照片都感觉身上热热的（来源：Unsplash）现有的降温汽车贴膜或镀膜技术，大多停留在“阻挡”外部热量进入的阶段，却对车内已经积聚的热量束手无策。近期，一种新型“零能耗”车窗薄膜技术或将为解决这一夏日出行痛点提供全新的物理学方案。近日，韩国首尔大学（SNU）机械工程系的 Seung Hwan Ko 教授团队、美国麻省理工学院（MIT）陈刚（Gang Chen）教授...",
+        "url": "https://www.mittrchina.com/news/detail/16261",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-18T12:46:35+00:00"
+      },
+      {
+        "id": "6e5cf5fc41d8",
+        "title": "颠覆无线电常识！新技术把干扰信号变算力，自动驾驶掉线难题有望解决",
+        "summary": "传统无线网络将通信与计算的运行方式，是先传输数据再进行处理。然而，当自动驾驶汽车行驶在高速公路上，突然遭遇暴风雪，如何实时共享路面湿滑、紧急制动和路况变化等大量数据？一项名为空中计算（OAC，Over-the-Air Computation）的新技术有望颠覆无线网络的系统设计标准。OAC 能将无线信号间的干扰转化成计算能力，实现多台设备同时传输，信号在空中直接叠加完成求和、求平均值等运算，并根据实际情况承担部分网络计算任务，不仅大幅降低拥塞和能耗，还帮助无线系统支持大规模增长。近年来，全球已有多个研究团队进行开发和原型验证。目前，已有原型机实现 95% 图像识别准确率。该技术有望应用于自动驾驶...",
+        "url": "https://www.mittrchina.com/news/detail/16260",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-18T12:38:47+00:00"
+      },
+      {
         "id": "5627816dbf4b",
         "title": "紀州庵老派生活節開幕　帶讀者重拾慢時光",
         "summary": "（中央社記者邱祖胤台北18日電）紀州庵文學森林主辦2026老派生活節，今天在台北紀州庵戶外庭園開幕，現場集結書市、爵士朗讀演出及生活閱讀講座，帶領讀者及民眾重拾慢時光。",
@@ -1133,6 +1189,30 @@
         "published": "2026-04-18T03:30:58+00:00"
       },
       {
+        "id": "2629be397ccf",
+        "title": "打印“脑细胞”成真：这款人工神经元成功刺激活体小鼠脑神经",
+        "summary": "随着人工智能的飞速发展，以及算力需求的攀升，传统硅基芯片早已暴露出难以克服的局限，而现有人工神经元技术同样问题重重，无法真正满足类脑计算与脑机交互的现实需求。现有人工神经元因功能单一，难以模拟整合、连续及簇状爆发等复杂神经行为，被迫依靠堆砌器件实现功能，导致系统臃肿且能耗极高；同时，其制造高度依赖高温工艺与严苛环境，成本高昂且缺乏柔性，难以适配可穿戴或植入式场景；最关键的是，其放电特征与生物信号不匹配，形成了脑机接口与神经修复领域难以逾越的交流瓶颈。近日，来自美国西北大学马克·赫萨姆（Mark Hersam）教授带领的研究团队在 Nature Nanotechnology 发表成果，他们成功打...",
+        "url": "https://www.mittrchina.com/news/detail/16259",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-18T03:28:50+00:00"
+      },
+      {
+        "id": "6e944c75cd8a",
+        "title": "编程智能体的隐藏bug，被上交IPADS团队用数学逻辑给揪出来了",
+        "summary": "从一键生成操作系统内核，到从零手搓一个 C 编译器，编程智能体（Coding Agent）的能力边界正在疯狂扩张。但一个更棘手的问题是：这些代码，真的对吗？当自动生成的代码规模迅速膨胀，一个幽灵般的挑战始终挥之不去：代码能跑，但逻辑深处的 bug 多到令人头皮发麻。对于大语言模型（LLM）来说，写出语法正确的“砖块”轻而易举，但距离用这些砖块搭建一座安全稳固的“摩天大楼”仍有显著的差距。因此，如何更好地保障大规模代码的正确性，正成为一个日益重要的问题。近日，上海交通大学 IPADS 研究团队打造了形式化方法智能体 FM-Agent，首次实现了面向大规模系统的全自动正确性推理。在 Anthrop...",
+        "url": "https://www.mittrchina.com/news/detail/16258",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-18T03:22:33+00:00"
+      },
+      {
+        "id": "bdf49263aa6a",
+        "title": "π0.7的泛化能力有多强？零样本纯靠口述就能用空气炸锅，演示完换个机械臂也能叠衣服",
+        "summary": "当你在电商平台下单购入一台全新的空气炸锅，快递到了，拆开包装，你随手把说明书扔在一边，转头告诉家里的服务机器人，“把那个红薯放进空气炸锅里烤一下。”放在之前，机器人从未见过这款炸锅，没有对应的操作程序，最可能的结局就是系统报错，任务失败。想让它学会用新电器，工程师必须重新收集演示数据、重新训练模型，一个完整的流程将耗费数周乃至数月。但现在，这个困局正在被打破。2026 年 4 月 16 日，总部位于美国旧金山的明星机器人 AI 公司 Physical Intelligence（简称 PI 或 π）发布了其最新模型 π0.7。在一段令研发团队成员都感到意外的演示视频中，这个从未被明确训练过“如何...",
+        "url": "https://www.mittrchina.com/news/detail/16257",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-18T01:59:47+00:00"
+      },
+      {
         "id": "ce2b5b6ba85c",
         "title": "誰來接住每個人？剴剴案社工被定罪，第一線助人者「不再信任」的憂慮和危機",
         "summary": "我們該如何解讀一個社工被定罪的判決意義？當此案帶來巨大的社會情緒過後，關心兒保人士與社工之間能對話、共同思考如何建構更健全的社會安全網嗎？",
@@ -1157,20 +1237,28 @@
         "published": "2026-04-17T15:00:49+00:00"
       },
       {
+        "id": "57d72caa92b7",
+        "title": "谷歌招了一个“全职哲学家”：算力解决不了的难题，交给了文科生",
+        "summary": "这几天，一条推文在 X 上掀起了不小的水花。剑桥大学学者 Henry Shevlin 宣布，他即将加入 Google DeepMind，职位名称是“Philosopher”——哲学家，一个白纸黑字写在录用通知书上的正式头衔。截至目前，这条推文被浏览了超过 160 万次，点赞逾 1.6 万。评论区的情绪从惊讶到困惑再到兴奋都有，大家基本都在发出同样的疑问：等等，AI 公司真的在招哲学家？答案是肯定的，而且这还不是 AI 公司们第一次这么做。要理解 DeepMind 为何选中这位哲学家，不妨先看看 Shevlin 的研究方向。他在剑桥大学莱弗休姆未来智能中心（Leverhulme Centre f...",
+        "url": "https://www.mittrchina.com/news/detail/16256",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-17T09:40:23+00:00"
+      },
+      {
+        "id": "5b5f8563b7b1",
+        "title": "机械手成精了：能变形、能爬行、自己抓东西，全程无人操控",
+        "summary": "一只机械手从机器人手臂上脱落，自己爬到桌子对面抓起一块积木，再爬回来重新装上手臂。这是武汉大学高霄和合作者最近发在《自然·通讯》上的一项真实成果。他们设计了一种可拆卸的爬行机械手，既能像普通机械手一样抓取物体，又能从手臂上脱落，进而变成一只五条腿或六条腿的爬行机器人，自己去够那些原本够不到的东西。它能够完成人类手部 33 种标准抓取模式中的全部，可以稳稳地抓起重达 2 公斤的物体。在一组多物体抓取实验中，它一次性同时抓起了四个物体，这在传统机械手中非常罕见。它还能实现非拟人形抓取，使用任意两根手指组合完成精细的指尖捏合，甚至能够使用六根手指的版本完成单手拧瓶盖的动作。它还完成了完整的取物任务。...",
+        "url": "https://www.mittrchina.com/news/detail/16255",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-17T09:35:00+00:00"
+      },
+      {
         "id": "dc4c27e12971",
         "title": "記憶體成本壓力擴散  Meta 調漲 Quest VR 裝置售價",
         "summary": "科技巨頭 Meta 16 日宣布調漲旗下虛擬實境（VR）頭戴裝置售價，以因應記憶體晶片採購成本持續攀升。此次調 [&#8230;]",
         "url": "https://technews.tw/2026/04/17/meta-to-raise-quest-vr-headset-prices-in-us-on-rising-component-costs/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-04-17T04:30:13+00:00"
-      },
-      {
-        "id": "b54564689b1c",
-        "title": "科学家证实磁场真的能改变基因表达，但它的要求非常严苛",
-        "summary": "科学家把一组被基因改造的早衰症（progeroid）小鼠放进一套磁通密度 2.0 mT、频率 60 Hz 的极低频电磁场（ELF-EMF）里，按“开 3 天、关 4 天”的节奏循环曝照 90 天。实验结束时，这只本该在几个月内死于加速衰老的小鼠比对照组多活了十几周，毛发由稀疏变得密实，血管外膜变薄，肝脏和肾脏里 p21、Atf3、Il6、Ccl2 这些衰老标志基因的表达被压下一半以上。但如果调整参数，不再采用“开 3 天、关 4 天”的节律，而是连续打开 14 天不休息，同样的小鼠会表现出很差的耐受性，死亡和体重下降都明显增加。这组对比来自韩国东国大学 Jongpil Kim 团队近期发表于《...",
-        "url": "https://www.mittrchina.com/news/detail/16251",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-17T02:01:20+00:00"
       },
       {
         "id": "6a63f7b9ba4e",
@@ -1437,22 +1525,6 @@
         "published": "2026-04-14T12:58:36+00:00"
       },
       {
-        "id": "0fc441f3639b",
-        "title": "训练AI只需要跑完前10%，剩下的90%都能在小模型上跑",
-        "summary": "（来源：麻省理工科技评论）训练一个大型 AI 模型的代价很高，不只是钱，还包括时间、能源和算力。要得到一个更小、更快的模型，传统做法要么是先训练一个庞大的模型再削减它，要么是直接从头训练一个小模型，但接受性能上的妥协。MIT 计算机科学与人工智能实验室（CSAIL）、马克斯·普朗克智能系统研究所、欧洲学习与智能系统实验室（ELLIS）、苏黎世联邦理工学院（ETH）和 Liquid AI 的研究人员共同提出了一种新方法，直接绕过了这个二选一的难题：在训练过程中就对模型进行压缩，而不是在训练之后。这项技术叫 CompreSSM，针对的是一类叫做“状态空间模型”（state-space models...",
-        "url": "https://www.mittrchina.com/news/detail/16241",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-14T09:06:24+00:00"
-      },
-      {
-        "id": "6009b296f814",
-        "title": "马斯克脑机接口团队成员出走，他们想把“清醒梦”变成消费电子产品",
-        "summary": "历史上，梦境曾是无数天才的灵感自留地。从玛丽·雪莱（Mary Shelley）梦见《科学怪人》，到爱因斯坦在梦中构思相对论的雏形，再到萨尔瓦多·达利（Salvador Dali）从半梦半醒间捕获超现实主义画面，“清醒梦”一直被视为一种极具潜力的极限认知状态。所谓“清醒梦”，是指做梦者在睡眠过程中，突然意识到自己正处于梦境之中。人类的睡眠周期分为入睡期、浅睡期、深睡期和快速眼动（REM）睡眠期。清醒梦往往就潜伏在 REM 阶段。此时，大脑的活跃度飙升至接近清醒时的水平。一旦触发，个体不仅拥有主观意识，甚至能像导演一样操控梦境中的事件、人物与环境。然而，由于潜意识冲动、外界影响以及梦境本身的不可预...",
-        "url": "https://www.mittrchina.com/news/detail/16240",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-14T09:05:12+00:00"
-      },
-      {
         "id": "b823f41bee2c",
         "title": "AI 資料中心逐電力而居，現階段正從美國沿海往內陸地區發展聚集",
         "summary": "隨著人工智慧 (AI) 基礎設施需求的急遽攀升，美國下一波超大規模資料中心 的發展正出現顯著的地理轉移。由於傳 [&#8230;]",
@@ -1533,14 +1605,6 @@
         "published": "2026-04-13T08:30:07+00:00"
       },
       {
-        "id": "fc07035b3856",
-        "title": "断腿也能跑！97小伙研发乐高式机器人，每个模块独立自主，断臂后秒变三脚怪兽继续狂奔",
-        "summary": "近日，美国西北大学博士生余琛和所在团队研发出一种全新的模块化机器人，由一个个独立的智能腿模块组成，每个模块都自带电池、芯片、传感器和电机，单个模块就能跳跃、翻滚和转弯。他告诉 DeepTech，这些模块可以像乐高积木一样自由组合，拼出三条腿、四条腿甚至五条“腿”的机器人，而且它们能在草地、沙地、碎石路等复杂户外环境里敏捷奔跑，还能在翻倒之后自己翻身，甚至能在被砍掉多条腿的情况下继续前进。研究团队所打造的通用策略面对从未见过的损伤场景，比如随机切掉一条腿或者随机切掉两条后退，甚至只剩下一个孤零零的模块，都能迅速适应并继续移动。在物理机器人上，这个通用策略在未受损时的移动速度达到了原专家策略的 1...",
-        "url": "https://www.mittrchina.com/news/detail/16236",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-13T05:03:00+00:00"
-      },
-      {
         "id": "7b85188d6885",
         "title": "Synth Days in Kyiv: inside the wartime Ukrainian modular scene",
         "summary": "The prolific Kaximia of Tembra Modular and the series \"Let's explore modular synthesis\" transports us to a Synth Days holiday weekend event in Kyiv. Let's welcome her CDM writing debut, as she gives us a window into a Ukrainian modular scene that's thriving, despite everything. \nThe post Synth Days ...",
@@ -1549,68 +1613,12 @@
         "published": "2026-04-12T21:07:33+00:00"
       },
       {
-        "id": "a1d4a0385f80",
-        "title": "1.25兆的拔河：全球「再武裝」浪潮下，台灣軍購現況、預算僵局卡在哪？",
-        "summary": "全球因動盪掀起「再武裝」浪潮，但美國軍工產能衰退，各國軍購都面臨供不應求。台灣身處多重窘境的夾攻下，如何發展以小搏大的不對稱戰力，並尋求有社會共識的生存之道？",
-        "url": "https://www.twreporter.org/a/special-military-procurement-budget-in-deadlock",
-        "source": "報導者",
-        "published": "2026-04-12T16:00:00+00:00"
-      },
-      {
-        "id": "25928394e2bc",
-        "title": "MIT团队用AI检验AI：AI给出的“最优解”真的公平吗？",
-        "summary": "（来源：麻省理工科技评论）AI 正越来越多地被用于辅助高风险场景下的决策。比如一个自主系统可以找出一种电力分配策略，在保持电压稳定的前提下把成本降到最低。这些由 AI 给出的方案虽然在技术上可能是最优的，它们真的公平吗？如果一个低成本的电力分配策略让条件不佳的社区比高收入地区更容易遭遇停电，这算不算问题？为了帮助相关方在 AI 系统部署之前就能快速发现潜在的伦理困境，MIT 的研究人员开发了一套自动化评估方法。这套方法的目标是在可量化指标（比如成本或稳定性）与那些定性或主观的价值（比如公平性）之间找到平衡。该系统把客观评估与用户定义的人类价值观分开处理，使用一个大语言模型作为“人类代理”来捕捉...",
-        "url": "https://www.mittrchina.com/news/detail/16235",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-12T08:58:54+00:00"
-      },
-      {
-        "id": "d091296c76b1",
-        "title": "解剖7年人体，这只手复刻了人类肌肉结构！单指抓7公斤，成本仅2800美元",
-        "summary": "在具身智能圈，一家名为 Clone Robotics 的波兰初创公司走了一条不寻常之路，他们打造了一台拥有血肉之躯般柔软手臂的机器人。这家公司认为，目前由特斯拉 Optimus 或波士顿动力 Atlas 主导的电机加齿轮以及加金属刚性结构的路线，在实现真正的人类灵活性和成本控制方面已经碰到了天花板。他们的做法是回归生物本身，用人造肌肉和骨骼来构建机器人，让机器像人类一样运动。Clone Robotics 的诞生源于两位创始人的狂热。Łukasz Kozlik 是公司的联合创始人、CTO 和技术灵魂，在正式创办公司之前花了整整 7 年时间研究人体解剖学，专门琢磨如何使用低成本的材料模拟人类肌肉和...",
-        "url": "https://www.mittrchina.com/news/detail/16234",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-12T08:54:16+00:00"
-      },
-      {
-        "id": "b59a0f6747ca",
-        "title": "YC掌门人开源了他的“第二大脑”：13年记忆，15000份文件，可接入龙虾",
-        "summary": "如果你今天问任何一个 AI Agent：“昨天你帮我做了什么？”不用说，它大概率会“一脸茫然”，然后开始胡言乱语。这是因为绝大多数基于 LLM 的智能体都受困于“无状态困境”（Stateless Dilemma）：会话一旦结束，记忆即刻清零。下一次对话，永远是从零开始的冷启动。你反复解释过的项目背景、合作伙伴的性格偏好、你曾经表达过的观点，对 Agent 而言都是一片虚无。这也是阻挡 Agent 从“好用的工具”进化为“真正的助手”的障碍之一。近日，Y Combinator（以下简称 YC）总裁兼 CEO Garry Tan 宣布将自己日常使用的个人知识系统 “GBrain” 开源。他在 X ...",
-        "url": "https://www.mittrchina.com/news/detail/16233",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-12T08:50:13+00:00"
-      },
-      {
         "id": "33148f7d6d75",
         "title": "Meta 的 AI 相關職位能領多少錢？PM 底薪逼近 35 萬美元，完整薪資表一次看",
         "summary": "若你在 Meta AI 相關部門工作，可以領到多少薪資？ 2025 年，全球科技巨頭為了爭奪 AI 領域的頂尖 [&#8230;]",
         "url": "https://finance.technews.tw/2026/04/12/metas-ai-salaries-highlight-rising-competition-for-global-talent/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-04-12T03:00:17+00:00"
-      },
-      {
-        "id": "4e0579a7d7c0",
-        "title": "塑料草皮铺进校园和公园：一场关于健康与便利的拉锯战",
-        "summary": "（来源：麻省理工科技评论）在美国伊萨卡，1 月一次罕见的暖潮融化了足够多的积雪，康奈尔大学最新一块为曲棍球修建的运动场露了出来。几个月前，这里还是一片生机盎然的草地，鸟飞虫鸣；现在它成了一块一英亩多的合成草皮，颜色接近台球桌绒布的那种绿，饱和度高得有点像电脑里的数字颜色。那天我沿着附近一条小溪爬上山去看时，运动场周围的金属围栏是锁着的，但有人把一大片新型模拟草皮留在了围栏外面，差不多走廊那么长。草皮摸上去又硬又扎，但脚踩上去却有弹性，还会发出吱吱声。我能想象人在上面奔跑的感觉，但肯定得适应一阵子。陪我来的朋友对这块草皮更无好感。当地环保倡导者小泉弥生（Yayoi Koizumi）自 2023 ...",
-        "url": "https://www.mittrchina.com/news/detail/16231",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-11T11:42:47+00:00"
-      },
-      {
-        "id": "dd43b8ee0795",
-        "title": "AI失忆症有了新解法，哈佛团队开发海马体仿生技术，要用AI终结人类“遗忘史”",
-        "summary": "遗忘是人类共有的经历，无论是对话、事件还是转瞬即逝的瞬间，我们终究会遗忘。但如果遗忘变成一个可选的选项，如果人类能够拥有完美且无限的记忆，世界会变成怎样？近日，一家名为 Engramme 的 AI 初创公司被曝正与投资者接洽，计划融资约 1 亿美元。彭博社援引知情人士消息称，潜在投资者已讨论过给该公司开出高达&nbsp;10 亿美元的估值。目前谈判仍在进行中，最终条款仍可能发生变化。Engramme 的前身是成立于 2025 年的 Memorious，初期便获得了硅谷老牌风投 Mayfield Fund 领投的 300 万美元种子前轮融资。该公司的目标是赋予人类“完美、无限的记忆”，解决遗忘问...",
-        "url": "https://www.mittrchina.com/news/detail/16230",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-11T11:38:40+00:00"
-      },
-      {
-        "id": "1e5886b90e19",
-        "title": "阿尔忒弥斯2号成功溅落，隔热罩惊险过关",
-        "summary": "北京时间 4 月 11 日上午 8 点左右，阿尔忒弥斯 2 号（Artemis II）成功溅落在圣地亚哥海岸附近，结束了为期 10 天的飞行任务。宇航员克里斯蒂娜·科赫（Christina Koch）、维克多·格洛弗（Victor Glover）、杰里米·汉森（Jeremy Hansen）以及指令长里德·怀斯曼（Reid Wiseman）将陆续被营救出舱。机组人员将在两小时内飞抵“约翰·P·默萨号”两栖船坞运输舰，在那里接受任务后的首次全面医疗评估。怀斯曼报告称，四名船员身体状况良好。“我们情况稳定”。（来源：NASA）事实上，在飞船平安归来之前，外界曾对猎户座飞船的隔热罩捏了一把汗，NASA...",
-        "url": "https://www.mittrchina.com/news/detail/16228",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-11T01:51:43+00:00"
       },
       {
         "id": "576e2e8409f5",
@@ -1771,14 +1779,6 @@
         "url": "https://humanityisland.nccu.edu.tw/shenxiuhua_a/",
         "source": "人文．島嶼",
         "published": "2026-04-08T02:37:49+00:00"
-      },
-      {
-        "id": "31f779d28091",
-        "title": "How Carta Healthcare gets AI to reason like a clinical abstractor",
-        "summary": "How Carta Healthcare gets AI to reason like a clinical abstractor",
-        "url": "https://claude.com/blog/carta-healthcare-clinical-abstractor",
-        "source": "Claude Blog",
-        "published": "2026-04-08T00:00:00+00:00"
       },
       {
         "id": "1e8ec9ff4fee",
@@ -2364,7 +2364,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T16:17:37.771414+00:00"
+        "published": "2026-04-20T18:03:27.092876+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2372,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T16:17:37.771403+00:00"
+        "published": "2026-04-20T18:03:27.092866+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2380,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T16:17:37.771392+00:00"
+        "published": "2026-04-20T18:03:27.092856+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2388,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T16:17:37.771382+00:00"
+        "published": "2026-04-20T18:03:27.092845+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2396,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T16:17:37.771370+00:00"
+        "published": "2026-04-20T18:03:27.092835+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2404,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T16:17:37.771359+00:00"
+        "published": "2026-04-20T18:03:27.092824+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2412,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T16:17:37.771348+00:00"
+        "published": "2026-04-20T18:03:27.092814+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2420,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T16:17:37.771335+00:00"
+        "published": "2026-04-20T18:03:27.092804+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2428,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T16:17:37.771302+00:00"
+        "published": "2026-04-20T18:03:27.092794+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2436,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-20T16:17:37.771292+00:00"
+        "published": "2026-04-20T18:03:27.092784+00:00"
       },
       {
         "id": "6718227ae0bf",
