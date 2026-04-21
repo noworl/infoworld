@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-21T08:57:25.840618+00:00",
+  "updated_at": "2026-04-21T10:25:40.056028+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "f416032eb7d5",
+        "title": "16座新站邁向淨零　台南地下化車站年底通車",
+        "summary": "（中央社記者黃巧雯台北21日電）交通部鐵道局今天表示，已全面啟動鐵道建設碳管理制度，目標2050年減碳50%，未來10年將有16座新建車站陸續啟用，朝淨零車站推進，其中，台南地下化車站將於今年底率先通車。",
+        "url": "https://www.cna.com.tw/news/ahel/202604210260.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-21T08:56:33+00:00"
+      },
       {
         "id": "d0c756a8f114",
         "title": "【中華民國博物館學會公告徵才錄取結果】",
@@ -11,36 +19,84 @@
         "published": "2026-04-21T08:49:33+00:00"
       },
       {
-        "id": "cc6e9011b2ff",
-        "title": "台師大運動教練頻傳霸凌　教部組專案輔導小組",
-        "summary": "（中央社記者陳至中台北21日電）繼女足案後，台師大體操教練翁士航也涉及霸凌。教育部今天表示，事件接連發生，顯示教學訓練與管理文化須進一步檢視精進，將組專案輔導小組入校，協助檢視訓練文化與制度。",
-        "url": "https://www.cna.com.tw/news/aspt/202604210174.aspx",
+        "id": "e7352b52c7ef",
+        "title": "職場霸凌防治準則出爐　不當行為含社交排斥等",
+        "summary": "（中央社記者吳欣紜台北21日電）勞動部職業安全衛生法增訂職場霸凌專章，由於職場霸凌行爲樣態多元，勞動部擬定防治準則，並提供5類不當行為樣態，包含社交排斥、言語暴力及職務干預等，提供雇主綜合審酌。",
+        "url": "https://www.cna.com.tw/news/ahel/202604210252.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-21T06:18:32+00:00"
+        "published": "2026-04-21T08:48:16+00:00"
       },
       {
-        "id": "a6d1c3789988",
-        "title": "體操教練翁士航涉霸凌遭停聘2年　台師大：不護短",
-        "summary": "（中央社記者陳至中台北21日電）多名立委今天召開記者會，關注台師大體操教練翁士航涉霸凌案。台師大校方今天表示，經過調查，已做成將翁士航停聘2年的決議，重申對霸凌「零容忍」、不護短。",
-        "url": "https://www.cna.com.tw/news/aspt/202604210173.aspx",
+        "id": "b2ebf23bf176",
+        "title": "腸病毒就診人次增　疾管署估6月中下旬進入流行",
+        "summary": "（中央社記者曾以寧台北21日電）衛福部疾管署今天表示，時序已進入腸病毒好發季節，上週腸病毒門急診就診人次計3526人次，較前1週上升16.5%；預估未來幾週將每週增1000人次就診，6月中下旬進入流行。",
+        "url": "https://www.cna.com.tw/news/ahel/202604210242.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-21T06:18:30+00:00"
+        "published": "2026-04-21T08:27:57+00:00"
       },
       {
-        "id": "f370eac381c7",
-        "title": "新加坡食品展  黃敏惠黃偉哲現身台灣館推廣農特產",
-        "summary": "（中央社記者吳昇鴻新加坡21日專電）新加坡國際食品展今天登場，貿協設立台灣館精選台灣食品與農特產參展。嘉義市長黃敏惠、台南市長黃偉哲等人到場與業者交流，期待將台灣農產品外銷至東南亞等國際市場。",
-        "url": "https://www.cna.com.tw/news/ahel/202604210155.aspx",
+        "id": "8570fad2decd",
+        "title": "淡江大橋機車道引議　公路局：單車道兼顧順暢安全",
+        "summary": "（中央社記者黃巧雯台北21日電）淡江大橋機車專用道為單車道遭質疑過窄，公路局今天說，寬度符合規定，依目標年交通量，單車道達C級順暢，另考量強風，避免並行風險；若有事故，可由鄰近主線車道救援。",
+        "url": "https://www.cna.com.tw/news/ahel/202604210240.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-21T05:45:51+00:00"
+        "published": "2026-04-21T08:23:52+00:00"
       },
       {
-        "id": "70d356044a09",
-        "title": "推動永續　蕭副總統：台灣是世界可信賴夥伴",
-        "summary": "（中央社記者汪淑芬台北21日電）2026「地球解方 永續設計行動年會」今天開幕，副總統蕭美琴表示，在永續的道路上，台灣是世界可信賴的夥伴；應善用台灣自豪的科技與AI實力，推動數位與淨零雙軸轉型。",
-        "url": "https://www.cna.com.tw/news/ahel/202604210151.aspx",
+        "id": "455f460bb768",
+        "title": "華航馬拉松夜跑10/31登場 網路報名開跑",
+        "summary": "（中央社記者江明晏台北21日電）中華航空今天宣布「2026華航馬拉松 星光夜跑」將於10月31日登場，董事長高星潢受訪時表示，去年的賽事半天內網路報名就額滿，預期今年會更快。去年華航馬拉松帶動日本、泰國還有菲律賓的跑者來參加，華航也時常載國人赴海外參賽。",
+        "url": "https://www.cna.com.tw/news/ahel/202604210239.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-21T05:40:43+00:00"
+        "published": "2026-04-21T08:22:50+00:00"
+      },
+      {
+        "id": "840381e394c7",
+        "title": "環團與總統有約　能源、動保議題納入討論",
+        "summary": "（中央社記者張雄風台北21日電）環團與總統有約今天下午舉辦。環團表示，今年進入第23屆，在面對氣候變遷與開發壓力，能源政策與核電風險、動保議題等，盼政府更積極把握民間建言並轉化為政策。",
+        "url": "https://www.cna.com.tw/news/ahel/202604210238.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-21T08:19:48+00:00"
+      },
+      {
+        "id": "ad95d78f0d55",
+        "title": "M痘確診近4月累積12例　不乏男性約砲性交易感染",
+        "summary": "（中央社記者曾以寧台北21日電）疾管署今天公布，今年以來M痘累積確診數12例，是去年同期2倍；其中4月份新增的2例M痘患者，分別為30多歲及40多歲男性，皆自述3月份曾與不特定異性有性交易或相約性行為。",
+        "url": "https://www.cna.com.tw/news/ahel/202604210224.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-21T07:58:18+00:00"
+      },
+      {
+        "id": "5411587c124c",
+        "title": "午後對流旺盛　嘉義以南山區防大雨",
+        "summary": "（中央社記者張雄風台北21日電）中央氣象署今天下午發布大雨特報，午後對流雲系發展旺盛，易有短延時強降雨，嘉義以南山區防局部大雨發生，注意雷擊及溪水暴漲，山區慎防坍方及落石；預估大雨持續至晚間。",
+        "url": "https://www.cna.com.tw/news/ahel/202604210218.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-21T07:48:06+00:00"
+      },
+      {
+        "id": "d95b8c0a2213",
+        "title": "P113 - Abstract geometric landscape - Spring Collection 2026 - April 21st",
+        "summary": "An abstract geometric landscape painting featuring bold shapes, vibrant colors, and a sense of depth, evoking a modern and dynamic natural scene..This item belongs to: data/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Unknown",
+        "url": "https://archive.org/details/p113-abstract-geometric-landscape-2026-04-21",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-21T07:26:35+00:00"
+      },
+      {
+        "id": "4bc8ecea91f2",
+        "title": "里昂國際插畫藝術節9月登場　邀台灣創作者駐村",
+        "summary": "（中央社記者邱祖胤台北21日電）法國里昂國際插畫藝術節將於9月登場，今年邀請台灣擔任主題國，展現台灣插畫創作能量，文化部即日起啟動「2026台法插畫駐村計畫」，將選出代表前往交流。",
+        "url": "https://www.cna.com.tw/news/acul/202604210201.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-21T07:15:29+00:00"
+      },
+      {
+        "id": "dee9485f2a7f",
+        "title": "研究：熬夜僅睡5.5小時　易暴食500大卡害減重破功",
+        "summary": "（中央社記者陳婕翎台北21日電）研究指出，睡眠不足的人每天總能量攝取平均增加200到500大卡，進一步觀察發現，當受試者每日僅睡5.5小時，零食攝取顯著增加，且多集中在晚間7時至隔日清晨7時之間。",
+        "url": "https://www.cna.com.tw/news/ahel/202604210195.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-21T07:12:17+00:00"
       },
       {
         "id": "8518630273de",
@@ -49,14 +105,6 @@
         "url": "https://archive.org/details/ConCoTheCuDiQuaiVatNgheNghiepHocVienTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-21T05:40:22+00:00"
-      },
-      {
-        "id": "b3cc1b95e7fb",
-        "title": "環團憂楠梓園區「用光高雄的電」　籲積極發展綠電",
-        "summary": "（中央社記者張雄風台北21日電）南科楠梓園區今天進行二階環評範疇界定會議。環團表示，本案可能會「用光高雄的電」，呼籲高市府、台積電協力發展綠電。開發單位說明，進駐廠商皆承諾會設屋頂光電，並積極與綠電供應者合作。",
-        "url": "https://www.cna.com.tw/news/ahel/202604210149.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-21T05:32:38+00:00"
       },
       {
         "id": "e08541674627",
@@ -91,22 +139,6 @@
         "published": "2026-04-21T04:40:53+00:00"
       },
       {
-        "id": "6987371fc46f",
-        "title": "深化國際影響力　國衛院與美癌症研究協會簽MOU",
-        "summary": "（中央社記者曾以寧台北21日電）為深化台灣癌症研究在國際間的影響力，國家衛生研究院與美國癌症研究協會簽署合作備忘錄（MOU），透過6大合作方針，建立長達5年策略夥伴關係，共推癌症領域研究與專業發展。",
-        "url": "https://www.cna.com.tw/news/ahel/202604210121.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-21T04:33:36+00:00"
-      },
-      {
-        "id": "2c7dd4593f57",
-        "title": "北亞4國教師工會代表匯集台北　共商氣候變遷衝擊",
-        "summary": "（中央社記者陳至中台北21日電）台灣、日本、韓國、蒙古等多個北亞教師工會組織今天匯集台北，透過「教育者的氣候正義與公正轉型」，討論氣候變遷對教育系統的影響。",
-        "url": "https://www.cna.com.tw/news/ahel/202604210116.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-21T04:25:26+00:00"
-      },
-      {
         "id": "9b541d7a6dc2",
         "title": "ThatNghiepSauTaThucTinhThanCapBaiRacTH",
         "summary": "ThatNghiepSauTaThucTinhThanCapBaiRacTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
@@ -115,28 +147,12 @@
         "published": "2026-04-21T04:21:46+00:00"
       },
       {
-        "id": "f97593a7bf5b",
-        "title": "源頭預防重大職災  勞動部列管高職災高風險廠商",
-        "summary": "（中央社記者吳欣紜台北21日電）營建工程等台灣重大職災數據呈下降趨勢，但減災幅度趨於平緩，勞動部啟動全國職場健康週，強調以預防全面化為減災核心，除列管高職災工廠及國營事業，也將加強輔導地方政府。",
-        "url": "https://www.cna.com.tw/news/ahel/202604210111.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-21T04:17:15+00:00"
-      },
-      {
         "id": "2902ba731192",
         "title": "ThatNghiepCungNgayTaKhoaLaiKhoaiHoatThanHaoHeThongTH",
         "summary": "ThatNghiepCungNgayTaKhoaLaiKhoaiHoatThanHaoHeThongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
         "url": "https://archive.org/details/ThatNghiepCungNgayTaKhoaLaiKhoaiHoatThanHaoHeThongTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-21T04:15:31+00:00"
-      },
-      {
-        "id": "625f5cf42658",
-        "title": "珍奶名店進口中國蒸籠紙不合格　300公斤邊境攔截",
-        "summary": "（中央社記者沈佩瑤台北21日電）食藥署今天公布邊境檢驗不合格名單，西門町珍珠奶茶人氣店家從中國進口的蒸籠紙，被抓包溶出試驗不符規定，共300公斤須依規定退運或銷毀，並將針對業者加強邊境抽批查驗。",
-        "url": "https://www.cna.com.tw/news/ahel/202604210104.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-21T04:11:00+00:00"
       },
       {
         "id": "8f8736a7a01c",
@@ -153,22 +169,6 @@
         "url": "https://archive.org/details/ThanTrieuHoangTuDauTuUcVanLanIchLoiTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-21T04:04:17+00:00"
-      },
-      {
-        "id": "6475f64b992b",
-        "title": "DenCuaThuDienThoaiBatDauBaoKichTinhThanTieuMuoiTH",
-        "summary": "DenCuaThuDienThoaiBatDauBaoKichTinhThanTieuMuoiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/DenCuaThuDienThoaiBatDauBaoKichTinhThanTieuMuoiTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-21T04:03:45+00:00"
-      },
-      {
-        "id": "90391fd8f0e9",
-        "title": "腫瘤不斷長6度拆彈手術　罕病婦籲加速引進救命藥",
-        "summary": "（中央社記者陳婕翎台北21日電）63歲林秀枝自28歲起全身不斷長腫瘤，不是傳統癌症，而是罕病逢希伯-林道症候群（VHL），幾乎每10年就要開刀，她今天勇敢站出來籲政府盡快引進新藥，為腫瘤復發按下暫停鍵。",
-        "url": "https://www.cna.com.tw/news/ahel/202604210085.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-21T03:38:20+00:00"
       },
       {
         "id": "4880ce586e5f",
@@ -725,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "0257778a32d7",
+        "title": "現場》曾經的噤聲，今日的發聲──《謊言．真相：陳欽生生命故事》新書分享會側記",
+        "summary": "2026年1月17日下午，國家人權博物館景美紀念園區舉行《謊言．真相：陳欽生生命故事》新書分享會。活動現場氣氛嚴肅而安靜，一方面緣於書名帶著沉重的力量，另一方面也因為人們所身處之地，正是威權時期曾經關押政治受難者的歷史現場。\n主持人在開場時提及，這本書的出版，是一段歷史的公開見證。對許多人而言，這場分享會既是新書發表，也是重回受難現場的證言。那些曾被遮蔽、扭曲甚至強行抹去的生命經驗，如今在同一片空間裡，被重新說出、重新聽見。\n➤一本書，從個人生命走向歷史證言\n《謊言．真相：陳欽生生命故事》寫的是陳欽生的一生。1967年，來自馬來西亞的他懷抱求學夢想來到台灣，進入成功大學就讀，原本的人生正要展開...",
+        "url": "https://www.openbook.org.tw/article/p-72521",
+        "source": "Openbook閱讀誌",
+        "published": "2026-04-21T10:00:09+00:00"
+      },
+      {
+        "id": "ce53b0e6c1f8",
+        "title": "高市圖好繪芽獎「砰！」出版　世界閱讀日前亮相",
+        "summary": "（中央社記者林巧璉高雄21日電）4月23日是世界閱讀日，高雄市立圖書館第3屆「好繪芽獎」獲獎作品繪本「砰！」近日出版，總館邀請作者瑞瑞和大小讀者分享創作歷程，透過故事與手作引導兒童認識情緒與自我。",
+        "url": "https://www.cna.com.tw/news/acul/202604210214.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-21T07:39:57+00:00"
+      },
+      {
         "id": "4bc8ecea91f2",
         "title": "里昂國際插畫藝術節9月登場　邀台灣創作者駐村",
         "summary": "（中央社記者邱祖胤台北21日電）法國里昂國際插畫藝術節將於9月登場，今年邀請台灣擔任主題國，展現台灣插畫創作能量，文化部即日起啟動「2026台法插畫駐村計畫」，將選出代表前往交流。",
@@ -1101,14 +1117,6 @@
         "published": "2026-04-19T07:38:44+00:00"
       },
       {
-        "id": "c4e9ca83f4f4",
-        "title": "花蓮豐濱出版品獲美大學典藏 原民飲食文化躍國際",
-        "summary": "（中央社記者李先鳳花蓮19日電）花蓮原住民族公共事務促進會日前赴美參與聯合國原民議題論壇，並捐贈「豐濱製造—山海之間的在地食材與文化記憶食譜」一書給華盛頓大學東亞圖書館，讓原民飲食文化躍上國際學術舞台。",
-        "url": "https://www.cna.com.tw/news/acul/202604190081.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-19T06:05:59+00:00"
-      },
-      {
         "id": "88524a47df3a",
         "title": "東亞書房》白皙的、貌美的、服從的？遠野遙新作反烏托邦小說《吸血鬼》，及其他藝文短訊",
         "summary": "【業界新聞】\n➤2019年以文藝獎得獎作《改良》踏入文壇，隔年便以《破局》奪下芥川獎的新銳作家遠野遙，上個月底推出令人震撼的反烏托邦小說《吸血鬼》（集英社）。在本書設定中，女性升上國中後，便會依照年輕與美貌，被分為「牡羊」到「雙魚」共12等級。她們一旦被高社經地位男性相中，就必須在15歲結婚，而若拒絕，便會被冠以「弄蛇人」之名遭到迫害。故事以女中學生有紗，以及出身政治世家的富裕醫師白井兩條視角推進。有紗就讀於為政商權貴培養配偶的菁英女子學院，女孩們為維持肌膚白皙而盡量避免日曬，她們的學校因而被戲稱為吸血鬼學院。\n《吸血鬼》所刻畫的女性早婚、男性主導，特權階級掌控一切的社會，巧妙呼應加拿大女作家...",
@@ -1331,14 +1339,6 @@
         "url": "https://www.openbook.org.tw/article/p-72514",
         "source": "Openbook閱讀誌",
         "published": "2026-04-16T07:00:00+00:00"
-      },
-      {
-        "id": "b4229ec3766a",
-        "title": "影迷必讀》在鏡頭之外閱讀：2026 TIDF台灣競賽入圍導演延伸書單",
-        "summary": "➤《雲過無雨》｜蘇郁心 \n《雲過無雨》是追蹤台積電（TSMC）海外設廠的三部曲之二，從新竹出發，延伸至美國鳳凰城。當台積電生產全球90%以上的最先進晶片，並成為人工智慧產業的關鍵基礎，身為創作者，我感受到迫切需要去追索其供應鏈背後被忽視的環境代價，這些代價往往與地方的自然資源擷取緊密相連。\n成長於台灣，我身處在文化與技術基礎設施長期支撐此產業的社會，其產業環境成本經常被國安與經濟發展的敘事所掩蓋。影片拍攝於亞利桑那州，這片沙漠歷經百年河川治理、引水工程與殖民式開發，其水利設施被整合至人工智慧與半導體產業生產中。鏡頭沿著鹽河流域，從水壩走向演算地景，提問在長期乾旱的地區建立高度耗水產業意味著什麼...",
-        "url": "https://www.openbook.org.tw/article/p-72512",
-        "source": "Openbook閱讀誌",
-        "published": "2026-04-16T02:00:00+00:00"
       },
       {
         "id": "fc257554da82",
@@ -2284,7 +2284,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T08:57:24.787414+00:00"
+        "published": "2026-04-21T10:25:37.747942+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2292,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T08:57:24.787404+00:00"
+        "published": "2026-04-21T10:25:37.747932+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2300,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T08:57:24.787393+00:00"
+        "published": "2026-04-21T10:25:37.747922+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2308,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T08:57:24.787383+00:00"
+        "published": "2026-04-21T10:25:37.747913+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2316,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T08:57:24.787373+00:00"
+        "published": "2026-04-21T10:25:37.747903+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2324,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T08:57:24.787362+00:00"
+        "published": "2026-04-21T10:25:37.747893+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2332,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T08:57:24.787352+00:00"
+        "published": "2026-04-21T10:25:37.747883+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2340,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T08:57:24.787342+00:00"
+        "published": "2026-04-21T10:25:37.747873+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2348,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T08:57:24.787332+00:00"
+        "published": "2026-04-21T10:25:37.747864+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2356,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T08:57:24.787322+00:00"
+        "published": "2026-04-21T10:25:37.747854+00:00"
       },
       {
         "id": "6718227ae0bf",
