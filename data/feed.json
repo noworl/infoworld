@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T16:17:19.222521+00:00",
+  "updated_at": "2026-04-21T18:05:30.510191+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -91,6 +91,14 @@
         "published": "2026-04-21T08:49:33+00:00"
       },
       {
+        "id": "5c5677acbc07",
+        "title": "CaoVoMotBaiHiepKhachHanhBatDauLinhNgoThaiHuyenKinhTH",
+        "summary": "CaoVoMotBaiHiepKhachHanhBatDauLinhNgoThaiHuyenKinhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/CaoVoMotBaiHiepKhachHanhBatDauLinhNgoThaiHuyenKinhTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-21T08:14:04+00:00"
+      },
+      {
         "id": "d95b8c0a2213",
         "title": "P113 - Abstract geometric landscape - Spring Collection 2026 - April 21st",
         "summary": "An abstract geometric landscape painting featuring bold shapes, vibrant colors, and a sense of depth, evoking a modern and dynamic natural scene..This item belongs to: data/audiobook_viet.This item has files of the following types: Archive BitTorrent, Metadata, Unknown",
@@ -161,14 +169,6 @@
         "url": "https://archive.org/details/CaoVoMaThePhongAnThoiDaiTH",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-21T04:52:29+00:00"
-      },
-      {
-        "id": "6439611149ab",
-        "title": "ThatXinLoiCucAmDaoLamViecChinhLaNhuVayTH",
-        "summary": "ThatXinLoiCucAmDaoLamViecChinhLaNhuVayTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThatXinLoiCucAmDaoLamViecChinhLaNhuVayTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-21T04:40:53+00:00"
       },
       {
         "id": "4880ce586e5f",
@@ -805,6 +805,14 @@
     ],
     "破(day)": [
       {
+        "id": "c585231e1fcf",
+        "title": "The Bic 4 Color Pen #IndustrialDesign",
+        "summary": "The Bic 4 Color Pen came out in 1970 and is still going strong with only modest iteration. I remember getting one in middle school and loving it; green and red ink were exotic on their own, but 4 colors on one pen?! Of course eventually curiosity or boredom got the better of me&#8230;What if&#8230;w...",
+        "url": "https://blog.adafruit.com/2026/04/21/the-bic-4-color-pen-industrialdesign/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-21T17:22:09+00:00"
+      },
+      {
         "id": "eb768714e049",
         "title": "The dangers of California’s legislation to censor 3D printing",
         "summary": "The EFF lays out the case against California&#8217;s legislation to restrict 3D printing: California’s bill, A.B. 2047, will not only mandate censorware — software which exists to bluntly block your speech as a user — on all 3D printers; it will also criminalize the use of open-source alternatives. ...",
@@ -989,20 +997,20 @@
         "published": "2026-04-20T22:18:18+00:00"
       },
       {
-        "id": "614c1e902155",
-        "title": "Byte Magazine Volume 00 Number 01 – The World’s Greatest Toy",
-        "summary": "Byte Magazine was the pinnacle publication of early computing. It didn&#8217;t focus on one company or one segment of the market. It looked at the broad computing scene and provided readers the right information at the right time (and even looked into future tech). Early editions were focused more o...",
-        "url": "https://blog.adafruit.com/2026/04/20/byte-magazine-volume-00-number-01-the-worlds-greatest-toy/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-20T21:58:24+00:00"
-      },
-      {
         "id": "e88fed7019f4",
         "title": "George Hall obituary",
         "summary": "George Hall, who has died aged 101, was an extraordinary life force – a composer, performer, teacher, director and raconteur, with an encyclopedic knowledge of cabaret and musical theatre.From 1964 until 1987, George was head of acting at the Central School of Speech and Drama. Working with many the...",
         "url": "https://www.theguardian.com/stage/2026/apr/20/george-hall-obituary",
         "source": "Stage | The Guardian",
         "published": "2026-04-20T17:15:01+00:00"
+      },
+      {
+        "id": "9d0485289d6d",
+        "title": "台灣資料中心用電壓力大？全球AI熱潮下的區域電網新挑戰",
+        "summary": "儘管台灣的AI資料中心並非以超大型為主，直接用電需求不是目前電力供應最迫切壓力來源，但因台灣相關設置多集中於北部都會區，已對既有電網形成新的壓力。",
+        "url": "https://www.twreporter.org/a/data-center-electricity-demand",
+        "source": "報導者",
+        "published": "2026-04-20T16:00:00+00:00"
       },
       {
         "id": "68363e48eaa8",
@@ -1043,6 +1051,14 @@
         "url": "https://www.theguardian.com/stage/2026/apr/20/david-haig-houdini-arthur-conan-doyle-magic-play-spiritualism",
         "source": "Stage | The Guardian",
         "published": "2026-04-20T13:16:51+00:00"
+      },
+      {
+        "id": "bf3d41b29825",
+        "title": "用AI复制人脑可行！MIT论文估算500亿美元、10到25年可实现",
+        "summary": "近日，美国麻省理工学院（MIT）研究生艾萨克·弗里曼（Isaak Freeman）和所在团队写了一篇长达 100 多页的论文，标题是《从蠕虫到人类：大脑仿真如何规模化》。艾萨克等人系统梳理了大脑仿真技术的最新进展，并通过大量访谈和文献综述得出这样一个结论：大脑仿真正在从一个遥不可及的梦想成为一个可以量化的工程问题。也就是说，这件事虽然难如登天，但比我们想象得要近得多。目前，一些关键技术正在非线性加速，重塑单个神经元的成本已经从几十年前的 1.6 万美元降到了现在的 100 美元左右，高端 AI 集群的算力更是已经接近人脑实时仿真的需求。这意味着也许未来有一天，医生能够像查询天气预报一样，只需通...",
+        "url": "https://www.mittrchina.com/news/detail/16267",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-20T12:15:26+00:00"
       },
       {
         "id": "90f77df0ab2a",
@@ -1197,6 +1213,14 @@
         "published": "2026-04-19T11:42:01+00:00"
       },
       {
+        "id": "edd1055a1ff5",
+        "title": "投资AI的钱靠什么赚回来？高盛预言自动驾驶是十年内AI最大利润池",
+        "summary": "过去几年，科技圈的话题几乎全被庞大的算力集群和不断增长的模型参数占据。全球科技巨头在 AI 数据中心上的投资已接近 7,000 亿美元，是 2020 年水平的十倍。巨额投入换来了大语言模型能力的飞跃，但也给投资者们留下了一个现实难题：这笔钱究竟能不能赚回来？如果仅靠软件订阅、API 调用费和云服务租金，似乎很难在短期内覆盖千亿美元级别的电费与芯片折旧。资本急需一个能容纳巨大商业价值、且门槛够高的实体应用场景。最近，高盛分析师 Mark Delaney 在近期关于“AI 利润池”的报告中给出了明确答案：自动驾驶正在加速商业化，它将是 AI 投资回报最重要、最直接的来源之一。预期大幅上调：从保守到...",
+        "url": "https://www.mittrchina.com/news/detail/16263",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-19T11:32:15+00:00"
+      },
+      {
         "id": "de1566a90390",
         "title": "中国科学家造出三项全能铜箔，破解行业难题，手机电池芯片都将受益",
         "summary": "铜箔是铜金属的薄片，由于其优良的导电性、延展性等性能，用途广泛，包括智能手机、电脑等电子设备、家用电器、汽车和建筑等，是支撑我们日常生活的重要材料之一。随着芯片越做越小、电池追求更长续航、设备朝着轻薄化升级，铜箔面临的要求也越来越苛刻。在实际使用中，铜箔不仅要承受卷绕、冲压、弯折等复杂力学压力，还必须同时满足三个指标：强度够高、导电够好、热稳定性好。然而，传统铜箔难以同时兼顾高强度、高导电性和高热稳定性，成为相关产业发展的主要瓶颈。近日，中国科学院金属研究所卢磊研究员团队与合作者在 Science 期刊发表成果，他们通过一种全新的梯度序构微观结构设计，成功研发出兼具超高强度、高导电性与优异热稳...",
@@ -1285,22 +1309,6 @@
         "published": "2026-04-18T03:22:33+00:00"
       },
       {
-        "id": "bdf49263aa6a",
-        "title": "π0.7的泛化能力有多强？零样本纯靠口述就能用空气炸锅，演示完换个机械臂也能叠衣服",
-        "summary": "当你在电商平台下单购入一台全新的空气炸锅，快递到了，拆开包装，你随手把说明书扔在一边，转头告诉家里的服务机器人，“把那个红薯放进空气炸锅里烤一下。”放在之前，机器人从未见过这款炸锅，没有对应的操作程序，最可能的结局就是系统报错，任务失败。想让它学会用新电器，工程师必须重新收集演示数据、重新训练模型，一个完整的流程将耗费数周乃至数月。但现在，这个困局正在被打破。2026 年 4 月 16 日，总部位于美国旧金山的明星机器人 AI 公司 Physical Intelligence（简称 PI 或 π）发布了其最新模型 π0.7。在一段令研发团队成员都感到意外的演示视频中，这个从未被明确训练过“如何...",
-        "url": "https://www.mittrchina.com/news/detail/16257",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-18T01:59:47+00:00"
-      },
-      {
-        "id": "ce2b5b6ba85c",
-        "title": "誰來接住每個人？剴剴案社工被定罪，第一線助人者「不再信任」的憂慮和危機",
-        "summary": "我們該如何解讀一個社工被定罪的判決意義？當此案帶來巨大的社會情緒過後，關心兒保人士與社工之間能對話、共同思考如何建構更健全的社會安全網嗎？",
-        "url": "https://www.twreporter.org/a/podcast-2026-04-18",
-        "source": "報導者",
-        "published": "2026-04-17T16:00:00+00:00"
-      },
-      {
         "id": "e4079e39a736",
         "title": "林孟皇／大霧散去後，從《大濛》與《世紀血案》省思台灣如何「處理過去」",
         "summary": "唯有當我們願意像《大濛》裡的趙公道與阿月那樣，在歷史的傷痕中看見彼此的痛楚，台灣方能真正彌合社會分歧，重塑一個堅韌且包容的道德共同體。這是對過去受難靈魂的告慰，也是確保共同體永續生存的唯一道路。",
@@ -1309,12 +1317,12 @@
         "published": "2026-04-17T16:00:00+00:00"
       },
       {
-        "id": "57d72caa92b7",
-        "title": "谷歌招了一个“全职哲学家”：算力解决不了的难题，交给了文科生",
-        "summary": "这几天，一条推文在 X 上掀起了不小的水花。剑桥大学学者 Henry Shevlin 宣布，他即将加入 Google DeepMind，职位名称是“Philosopher”——哲学家，一个白纸黑字写在录用通知书上的正式头衔。截至目前，这条推文被浏览了超过 160 万次，点赞逾 1.6 万。评论区的情绪从惊讶到困惑再到兴奋都有，大家基本都在发出同样的疑问：等等，AI 公司真的在招哲学家？答案是肯定的，而且这还不是 AI 公司们第一次这么做。要理解 DeepMind 为何选中这位哲学家，不妨先看看 Shevlin 的研究方向。他在剑桥大学莱弗休姆未来智能中心（Leverhulme Centre f...",
-        "url": "https://www.mittrchina.com/news/detail/16256",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-17T09:40:23+00:00"
+        "id": "ce2b5b6ba85c",
+        "title": "誰來接住每個人？剴剴案社工被定罪，第一線助人者「不再信任」的憂慮和危機",
+        "summary": "我們該如何解讀一個社工被定罪的判決意義？當此案帶來巨大的社會情緒過後，關心兒保人士與社工之間能對話、共同思考如何建構更健全的社會安全網嗎？",
+        "url": "https://www.twreporter.org/a/podcast-2026-04-18",
+        "source": "報導者",
+        "published": "2026-04-17T16:00:00+00:00"
       },
       {
         "id": "dc4c27e12971",
@@ -1611,14 +1619,6 @@
         "url": "https://cdm.link/mpc-sample-updates/",
         "source": "CDM Create Digital Music",
         "published": "2026-04-13T16:50:30+00:00"
-      },
-      {
-        "id": "5958123225b3",
-        "title": "海量通報、咎責文化、社工出走──剴剴案後，社安網崩解成防禦孤島？",
-        "summary": "為因應10年前小燈泡案等重大社會事件衝擊，政府建構社會安全網、增聘社工。然而剴剴案突顯制度漏洞重重，許多社工更不堪壓力和蔓延的咎責文化而離職，實務經驗無法傳承。一個為了「接住」每個人的政策，何以至此？",
-        "url": "https://www.twreporter.org/a/kaikai-case-aftermath-social-safety-net-crisis",
-        "source": "報導者",
-        "published": "2026-04-13T16:00:00+00:00"
       },
       {
         "id": "0ab41daed715",
@@ -2364,7 +2364,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T16:17:18.225007+00:00"
+        "published": "2026-04-21T18:05:28.641548+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2372,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T16:17:18.224997+00:00"
+        "published": "2026-04-21T18:05:28.641538+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2380,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T16:17:18.224986+00:00"
+        "published": "2026-04-21T18:05:28.641528+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2388,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T16:17:18.224976+00:00"
+        "published": "2026-04-21T18:05:28.641518+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2396,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T16:17:18.224965+00:00"
+        "published": "2026-04-21T18:05:28.641508+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2404,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T16:17:18.224955+00:00"
+        "published": "2026-04-21T18:05:28.641498+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2412,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T16:17:18.224944+00:00"
+        "published": "2026-04-21T18:05:28.641488+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2420,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T16:17:18.224934+00:00"
+        "published": "2026-04-21T18:05:28.641478+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2428,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T16:17:18.224924+00:00"
+        "published": "2026-04-21T18:05:28.641468+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2436,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T16:17:18.224913+00:00"
+        "published": "2026-04-21T18:05:28.641458+00:00"
       },
       {
         "id": "6718227ae0bf",
