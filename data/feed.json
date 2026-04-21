@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T22:51:43.848057+00:00",
+  "updated_at": "2026-04-21T23:45:43.080468+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -451,6 +451,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -725,6 +805,14 @@
     ],
     "破(day)": [
       {
+        "id": "6ec66198917f",
+        "title": "Smackdowns and showtunes: wrestling biopic Fighting With My Family inspires stage musical",
+        "summary": "Adaptation of Stephen Merchant’s 2019 film about WWE champ Saraya-Jade Bevis ‘will be an absolute blast’, says one of the film’s stars, Dwayne ‘The Rock’ JohnsonStephen Merchant’s wrestling film Fighting With My Family has inspired a stage musical. The new adaptation of the 2019 biopic about Saraya-...",
+        "url": "https://www.theguardian.com/stage/2026/apr/22/wrestling-biopic-fighting-with-my-family-inspires-stage-musical-stephen-merchant-saraya-jade-bevis-dwayne-the-rock-johnson",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-21T23:01:02+00:00"
+      },
+      {
         "id": "4a30356644cc",
         "title": "Map serial string commands to function addresses without using the heap",
         "summary": "The SerialCommandCoordinator is a zero-heap, non-blocking serial command dispatcher for Arduino. This makes it ideal for memory-constrained environments like the ATmega328P, ESP32 and SAMD21. Unlike previous versions that relied on dynamic memory, this revamped library uses C++ Templates to allocate...",
@@ -803,6 +891,22 @@
         "url": "https://blog.adafruit.com/2026/04/21/holoduck-is-a-browser-game-built-on-picotron/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-04-21T18:55:29+00:00"
+      },
+      {
+        "id": "fde5569840cb",
+        "title": "中国出台新规保护供应链安全并反制外国制裁",
+        "summary": "本月宣布的新规旨在保护中国的供应链免受干扰和外国制裁，其范围“不止于经贸”，并且“只是起点”。",
+        "url": "https://www.ftchinese.com/story/001109523",
+        "source": "FTChinese RSS - News",
+        "published": "2026-04-21T16:00:00+00:00"
+      },
+      {
+        "id": "1a6fd792f04c",
+        "title": "“伊朗战火已造成石油市场损失10亿桶供应”",
+        "summary": "资深石油交易员和分析师纷纷在FT全球大宗商品峰会上就巨大的供应损失拉响警报。他们称，亚洲、非洲和大洋洲受到最严重影响。",
+        "url": "https://www.ftchinese.com/story/001109522",
+        "source": "FTChinese RSS - News",
+        "published": "2026-04-21T16:00:00+00:00"
       },
       {
         "id": "74bf749c0fd6",
@@ -1051,14 +1155,6 @@
         "url": "https://www.mittrchina.com/news/detail/16265",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-04-20T02:04:58+00:00"
-      },
-      {
-        "id": "2ad5d9b788a9",
-        "title": "Fallen Angels review – Rose Byrne is utterly delightful in Noël Coward comedy revival",
-        "summary": "Todd Haimes Theatre, New YorkRose Byrne and Kelli O’Hara are comic gems in a pitch-perfect revival that sparkles like champagneFallen Angels has appeared only twice on Broadway since its stateside premiere in 1927, two years after the lustful comedy’s London premiere cemented Noël Coward as England’...",
-        "url": "https://www.theguardian.com/stage/2026/apr/19/fallen-angels-review-broadway",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-20T00:00:56+00:00"
       },
       {
         "id": "168489b4e1b1",
@@ -1313,22 +1409,6 @@
         "title": "百事：伊朗战争可能推高价格",
         "summary": "但这家美国食品巨头指出，对于投入品成本的波动，其大宗商品对冲操作将在未来6至12个月提供一定程度的保护。",
         "url": "https://www.ftchinese.com/story/001109478",
-        "source": "FTChinese RSS - News",
-        "published": "2026-04-16T16:00:00+00:00"
-      },
-      {
-        "id": "dce0513ebba6",
-        "title": "备战中期选举 美国AI行业掷重金支持候选人",
-        "summary": "根据FT对竞选财务记录的分析，美国加密货币和AI行业在过去一年捐赠约2.5亿美元，以支持对本行业有利的中期选举国会候选人。",
-        "url": "https://www.ftchinese.com/story/001109477",
-        "source": "FTChinese RSS - News",
-        "published": "2026-04-16T16:00:00+00:00"
-      },
-      {
-        "id": "cf20decf4384",
-        "title": "俄罗斯对乌克兰发起今年最大规模空袭",
-        "summary": "此次轰炸发生在俄乌复活节短暂停火四天后，美国主导的和平谈判陷入停滞。",
-        "url": "https://www.ftchinese.com/story/001109476",
         "source": "FTChinese RSS - News",
         "published": "2026-04-16T16:00:00+00:00"
       },
@@ -2284,7 +2364,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T22:51:42.028691+00:00"
+        "published": "2026-04-21T23:45:41.081118+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2372,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T22:51:42.028682+00:00"
+        "published": "2026-04-21T23:45:41.081108+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2380,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T22:51:42.028672+00:00"
+        "published": "2026-04-21T23:45:41.081098+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2388,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T22:51:42.028663+00:00"
+        "published": "2026-04-21T23:45:41.081087+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2396,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T22:51:42.028652+00:00"
+        "published": "2026-04-21T23:45:41.081076+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2404,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T22:51:42.028642+00:00"
+        "published": "2026-04-21T23:45:41.081065+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2412,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T22:51:42.028633+00:00"
+        "published": "2026-04-21T23:45:41.081055+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2420,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T22:51:42.028623+00:00"
+        "published": "2026-04-21T23:45:41.081044+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2428,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T22:51:42.028614+00:00"
+        "published": "2026-04-21T23:45:41.081030+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2436,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T22:51:42.028604+00:00"
+        "published": "2026-04-21T23:45:41.081000+00:00"
       },
       {
         "id": "6718227ae0bf",
@@ -2783,22 +2863,6 @@
         "published": "2026-01-30T19:26:48+00:00"
       },
       {
-        "id": "3752ead9da29",
-        "title": "2025 in numbers",
-        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2347",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T16:19:39+00:00"
-      },
-      {
-        "id": "d32f0a5eed31",
-        "title": "Freesound Day video recordings available online",
-        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2352",
-        "source": "The Freesound Blog",
-        "published": "2026-01-30T11:10:55+00:00"
-      },
-      {
         "id": "61649d92d6e6",
         "title": "[知音分享會]02.11 在春節前找到幸福！《一女兩聘》最終回",
         "summary": "年關將近，不知道各位知音朋友是正忙著採辦 [&#8230;]\nSource",
@@ -2885,14 +2949,6 @@
         "url": "https://www.caa-ins.org/archives/13268",
         "source": "网络社会研究所",
         "published": "2025-12-28T14:46:48+00:00"
-      },
-      {
-        "id": "5fb9d9aee29c",
-        "title": "Preserving the sound of San Fermín in Pamplona/Iruña",
-        "summary": "This year, Freesound celebrates its 20th anniversary, and Intangible Heritage has been chosen as the main theme of the celebration. Intangible heritage encompasses the ephemeral and immaterial elements that shape our world, whether rooted in human culture, natural environments, or &#8230; Continue r...",
-        "url": "https://blog.freesound.org/?p=2329",
-        "source": "The Freesound Blog",
-        "published": "2025-12-22T09:23:20+00:00"
       },
       {
         "id": "7abdb22dfb2b",
@@ -3175,14 +3231,6 @@
         "published": "2025-10-30T03:28:47+00:00"
       },
       {
-        "id": "1fa067108080",
-        "title": "“Sounds to Be Protected: 20 Years of Freesound” installation @ CCCB, Barcelona",
-        "summary": "(text adapted from the CCCB website) The collaborative digital platform Freesound, created in 2005 by the Music Technology Group at Pompeu Fabra University, is celebrating its 20th anniversary, having become one of the largest databases of creative-commons licensed sounds in &#8230; Continue reading...",
-        "url": "https://blog.freesound.org/?p=2302",
-        "source": "The Freesound Blog",
-        "published": "2025-10-21T12:48:21+00:00"
-      },
-      {
         "id": "ea8c3d6514dd",
         "title": "MaSC Director Carlos Guedes Co-Announces ISMIR 2026 at ISMIR 2025 in South Korea",
         "summary": "MaSC Director Carlos Guedes, together with other general chairs Kaustuv Ganguli and Gus Xia, officially announced the upcoming 27th International Society for Music Information Retrieval Conference (ISMIR 2026) at this [&#8230;]",
@@ -3213,22 +3261,6 @@
         "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/09/30/masc-at-the-abu-dhabi-mangrove-initiative-admi-partners-meeting-2025/",
         "source": "Music and Sound Cultures",
         "published": "2025-09-30T16:30:19+00:00"
-      },
-      {
-        "id": "371a22eaf3ba",
-        "title": "Freesound Day programme, October 28th, Barcelona and online",
-        "summary": "EDIT 30/1/2026: the video recordings of the Freesound Day talks are now available at https://fs20.freesound.org/freesound-day/ Hi everyone! The Freesound Day is getting closer, and we are now able to announce the programme. For those who don&#8217;t know, the Freesound Day &#8230; Continue reading &...",
-        "url": "https://blog.freesound.org/?p=2290",
-        "source": "The Freesound Blog",
-        "published": "2025-09-30T13:37:40+00:00"
-      },
-      {
-        "id": "5453a59e4cf6",
-        "title": "Results of the Freesound 20th Anniversary Composition Contest",
-        "summary": "Earlier this year, we launched the Freesound 20th Anniversary Composition contest to celebrate two decades of Freesound. Now, we are thrilled to announce the results! The contest invited sound artists, composers, and explorers from around the world to create works &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2282",
-        "source": "The Freesound Blog",
-        "published": "2025-09-24T10:39:20+00:00"
       },
       {
         "id": "a61196bb9012",
@@ -3303,28 +3335,12 @@
         "published": "2025-08-01T07:00:00+00:00"
       },
       {
-        "id": "989d36798072",
-        "title": "Sensing the Forest: Two Ongoing Datasets from DIY Streamers at Alice Holt Forest, UK",
-        "summary": "[Guest blog post by Anna Xambó on behalf of the Sensing the Forest Team] Sensing the Forest (StF) is a project funded by the UKRI Arts and Humanities Research Council. Our goal is to raise awareness among forest visitors, artists, &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2248",
-        "source": "The Freesound Blog",
-        "published": "2025-07-02T12:36:09+00:00"
-      },
-      {
         "id": "d041f8db200f",
         "title": "Introducing:  Syntə",
         "summary": "I was recently able to finish the process of porting (ability to run on different operating systems) so we&#8217;re now &#8230; More",
         "url": "https://blog.toplap.org/2025/06/08/introducing-synt%c9%99/",
         "source": "TOPLAP",
         "published": "2025-06-08T21:28:27+00:00"
-      },
-      {
-        "id": "a32c959ec3d4",
-        "title": "“BAR-CEL-ONA” by the group Ekho and “Soundsystem for Silence” by Myubio Collective, a performance and a sound installation that celebrate Freesound",
-        "summary": "Dear Freesounders, As part of the 20th anniversary celebration program, there are two very exciting events that will take place next week in Barcelona, so be sure to check them out if you are around. The first event consists of &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2234",
-        "source": "The Freesound Blog",
-        "published": "2025-06-03T13:24:36+00:00"
       },
       {
         "id": "78bbc5e1b154",
@@ -3343,14 +3359,6 @@
         "published": "2025-05-21T14:28:31+00:00"
       },
       {
-        "id": "80eb7b888c07",
-        "title": "Call for talks for the “Freesound Day”, October 28th 2025",
-        "summary": "Hi everyone! As part of the celebrations of the 20th Anniversary of Freesound, we are organising a &#8220;Freesound Day&#8221; event that will happen on the 28th of October of 2025. The Freesound Day will include talks from members of the Freesound &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2228",
-        "source": "The Freesound Blog",
-        "published": "2025-05-16T14:22:09+00:00"
-      },
-      {
         "id": "1d37e671a255",
         "title": "New Release: The Songs of Shihuh Women",
         "summary": "The Shihuh (plural for Al Shehhi) is an Arab tribe that currently resides in the United Arab Emirates and Oman, dominating the territory of Ru’us al-Jibal and the Musandam peninsula. [&#8230;]",
@@ -3365,14 +3373,6 @@
         "url": "https://100r.ca/site/log.html#june2025",
         "source": "Hundred Rabbits",
         "published": "2025-05-02T07:00:00+00:00"
-      },
-      {
-        "id": "c01739412e2a",
-        "title": "Introducing the Broad Sound Taxonomy",
-        "summary": "Hi freesounders, We are happy to announce that we have just released a new feature for organising sounds in Freesound. Following recent research at the MTG, we reached to the definition of a sound taxonomy named &#8220;Broad Sound Taxonomy&#8221; (BST). &#8230; Continue reading &#8594;",
-        "url": "https://blog.freesound.org/?p=2206",
-        "source": "The Freesound Blog",
-        "published": "2025-04-11T11:29:45+00:00"
       },
       {
         "id": "891c2c02906c",
