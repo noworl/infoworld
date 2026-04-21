@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T20:12:03.713378+00:00",
+  "updated_at": "2026-04-21T21:55:54.902403+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -451,86 +451,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -805,12 +725,52 @@
     ],
     "破(day)": [
       {
+        "id": "4a30356644cc",
+        "title": "Map serial string commands to function addresses without using the heap",
+        "summary": "The SerialCommandCoordinator is a zero-heap, non-blocking serial command dispatcher for Arduino. This makes it ideal for memory-constrained environments like the ATmega328P, ESP32 and SAMD21. Unlike previous versions that relied on dynamic memory, this revamped library uses C++ Templates to allocate...",
+        "url": "https://blog.adafruit.com/2026/04/21/map-serial-string-commands-to-function-addresses-without-using-the-heap/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-21T21:05:51+00:00"
+      },
+      {
+        "id": "93c53044408a",
+        "title": "LTT Screwdrivers: a hands-on review",
+        "summary": "Les Pounder provides a hands-on review of LTT screwdrivers, from full-size to precision. I follow the mantra of Captain Montgomery &#8220;Scotty&#8221; Scott. You should always have &#8220;the right tool for the right job&#8221;, and the right tool can be all that separates a project from failure. Y...",
+        "url": "https://blog.adafruit.com/2026/04/21/ltt-screwdrivers-a-hands-on-review/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-21T20:53:32+00:00"
+      },
+      {
+        "id": "e69be1157959",
+        "title": "TFTGraph, a data visualizing Arduino library for TFT displays",
+        "summary": "TFTGraph is a data visualizing library for TFT displays, based on the Adafruit TFTLCD library. It allows you to automatically insert a fully drawn graph of your choosing into a TFT screen wired into an Arduino Uno, ESP8266 and ESP32. Currently available graphs: Bar chart Box plot Gauge chart Line di...",
+        "url": "https://blog.adafruit.com/2026/04/21/tftgraph-a-data-visualizing-arduino-library-for-tft-displays/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-21T20:37:05+00:00"
+      },
+      {
+        "id": "a1e1ff837a42",
+        "title": "The 80386 memory pipeline",
+        "summary": "nand2mario on The Small Things Retro blog discusses the 80386 microprocessor memory pipeline: The FPGA 386 core I&#8217;ve been building now boots DOS, runs applications like Norton Commander, and plays games like Doom. On DE10-Nano it currently runs at 75 MHz. With the core now far enough along to ...",
+        "url": "https://blog.adafruit.com/2026/04/21/the-80386-memory-pipeline/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-21T20:19:14+00:00"
+      },
+      {
         "id": "3c1e39995a5d",
         "title": "CageMaker PRCG makes custom rack mount cages",
         "summary": "CageMaker PRCG by WebMaka allow one to quickly create a 3D-printable object file for a rack cage for any device of a given size that can fit into practically any size rack or rack system. Simply provide the device&#8217;s dimensions, and optionally tweak a few settings, then press F6 then F7 to gene...",
         "url": "https://blog.adafruit.com/2026/04/21/cagemaker-prcg-makes-custom-rack-mount-cages/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-04-21T20:07:38+00:00"
+      },
+      {
+        "id": "44283700cfba",
+        "title": "The 2026 Macy’s Flower Show",
+        "summary": "Macy&#8217;s Flower Show is back! While the holiday window displays are more widely-known, the flower show is definitely a must see when in Midtown. Check out what&#8217;s blooming this year April 23rd through May 10th. Discover spring renewal in every direction at our 2026 Flower Show in NYC. Tower...",
+        "url": "https://blog.adafruit.com/2026/04/21/the-2026-macys-flower-show/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-21T20:00:24+00:00"
       },
       {
         "id": "8abafe2f1c06",
@@ -843,46 +803,6 @@
         "url": "https://blog.adafruit.com/2026/04/21/holoduck-is-a-browser-game-built-on-picotron/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-04-21T18:55:29+00:00"
-      },
-      {
-        "id": "4ca13b925146",
-        "title": "CadQuery – a Python module for building parametric 3D CAD models",
-        "summary": "CadQuery is an intuitive, easy-to-use Python module for building parametric 3D CAD models. Using CadQuery, you can write short, simple scripts that produce high quality CAD models. It is easy to make many different objects using a single script that can be customized. CadQuery is often compared to O...",
-        "url": "https://blog.adafruit.com/2026/04/21/cadquery-a-python-module-for-building-parametric-3d-cad-models/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-21T18:34:08+00:00"
-      },
-      {
-        "id": "e416c3457884",
-        "title": "An agentic project flying probe automation suite",
-        "summary": "AutoProber is the hardware hacker&#8217;s flying probe automation stack. It provides a LLM (AI) agent everything it needs to go from &#8220;there&#8217;s a new target on the plate&#8221; to probing individual pins in a safe way. Project flow: Tell the agent to ingest the project. Connect all the har...",
-        "url": "https://blog.adafruit.com/2026/04/21/an-agentic-project-flying-probe-automation-suite/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-21T18:15:16+00:00"
-      },
-      {
-        "id": "c585231e1fcf",
-        "title": "The Bic 4 Color Pen #IndustrialDesign",
-        "summary": "The Bic 4 Color Pen came out in 1970 and is still going strong with only modest iteration. I remember getting one in middle school and loving it; green and red ink were exotic on their own, but 4 colors on one pen?! Of course eventually curiosity or boredom got the better of me&#8230;What if&#8230;w...",
-        "url": "https://blog.adafruit.com/2026/04/21/the-bic-4-color-pen-industrialdesign/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-21T17:22:09+00:00"
-      },
-      {
-        "id": "eb768714e049",
-        "title": "The dangers of California’s legislation to censor 3D printing",
-        "summary": "The EFF lays out the case against California&#8217;s legislation to restrict 3D printing: California’s bill, A.B. 2047, will not only mandate censorware — software which exists to bluntly block your speech as a user — on all 3D printers; it will also criminalize the use of open-source alternatives. ...",
-        "url": "https://blog.adafruit.com/2026/04/21/the-dangers-of-californias-legislation-to-censor-3d-printing/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-21T16:16:55+00:00"
-      },
-      {
-        "id": "cca9e739bddd",
-        "title": "The TFW8b SX-20, a portable VIC20?!",
-        "summary": "Rod Hull is working on an impossible thing: a portable VIC20, the SX20. Most folks know about the SX64, the portable Commodore 64. But was the VIC20, the C64&#8217;s older brother, ever made into a portable? No, not officially. But Rod and Tynemouth Software are working in their spare time (which is...",
-        "url": "https://blog.adafruit.com/2026/04/21/the-tfw8b-sx-20-a-portable-vic20/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-21T16:06:37+00:00"
       },
       {
         "id": "74bf749c0fd6",
@@ -2364,7 +2284,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T20:12:01.442638+00:00"
+        "published": "2026-04-21T21:55:53.007190+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2292,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T20:12:01.442631+00:00"
+        "published": "2026-04-21T21:55:53.007181+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2300,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T20:12:01.442623+00:00"
+        "published": "2026-04-21T21:55:53.007171+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2308,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T20:12:01.442615+00:00"
+        "published": "2026-04-21T21:55:53.007161+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2316,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T20:12:01.442608+00:00"
+        "published": "2026-04-21T21:55:53.007151+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2324,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T20:12:01.442600+00:00"
+        "published": "2026-04-21T21:55:53.007142+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2332,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T20:12:01.442593+00:00"
+        "published": "2026-04-21T21:55:53.007132+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2340,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T20:12:01.442586+00:00"
+        "published": "2026-04-21T21:55:53.007123+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2348,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T20:12:01.442578+00:00"
+        "published": "2026-04-21T21:55:53.007113+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2356,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-21T20:12:01.442570+00:00"
+        "published": "2026-04-21T21:55:53.007104+00:00"
       },
       {
         "id": "6718227ae0bf",
