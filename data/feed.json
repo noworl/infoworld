@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-04-23T17:42:13.506260+00:00",
+  "updated_at": "2026-04-23T19:24:58.539398+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "13e7f0110d32",
+        "title": "HINDEMITH Sämtliche Sonaten",
+        "summary": "HINDEMITH  Sämtliche Sonaten (1/2).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/bcdf_20260423",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-23T17:07:26+00:00"
+      },
+      {
+        "id": "4dff40608a57",
+        "title": "HINDEMITH Violin- und Violawerke",
+        "summary": "HINDEMITH  Violin- und Violawerke 1   Violinsonate Es-Dur op. 11/1 2   Sonate für Viola solo op. 11/5 3   Violasonate F-Dur op. 11/4 4   Kleine Sonate für Viola d'amore und Klavier op. 25/2 5   Sonate für Violine solo g-moll op....This item belongs to: audio/russian_classical_collection.This item ha...",
+        "url": "https://archive.org/details/b-nf_20260423",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-23T16:21:06+00:00"
+      },
       {
         "id": "0e4e96039620",
         "title": "Bruce Springsteen - 2012-06-03, Bela Vista Park, Lisbon",
@@ -65,22 +81,6 @@
         "url": "https://archive.org/details/bs2012-03-19.aud.earlmv.flac16",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-23T15:24:01+00:00"
-      },
-      {
-        "id": "412e1e9cd047",
-        "title": "Bruce Springsteen - 2012-03-14, Austin Music Hall, Austin",
-        "summary": "2012-03-14 Austin (Kokomo007 Version) Label: None Format: 1CD Catalog #: None Source: Webcast Total Time: 30:20 Sound: ?.? Date: March 14, 2012 Performance: ?.? Location: Austin Music Hall, Overall: ?.? Austin, Texas This Upload will include an infofile, checksum, artwork, frequency & spectral analy...",
-        "url": "https://archive.org/details/bs2012-03-14.aud.kokomo007.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-23T15:22:25+00:00"
-      },
-      {
-        "id": "8f10bc3ceb6f",
-        "title": "Bruce Springsteen - 2012-03-09, Apollo Theater, New York City",
-        "summary": "Bruce Springsteen Apollo Radio Broadcast: Celebrating 10 years fo SiriusXM Crystal Cat Records - CC 990-92 - 2012 2012-03-09 The Apollo Theater Harlem - New York City NY (USA) Silver discs > EAC > FLAC level 8 Total length: 3:55:56 CD1 (1:19:02) 101 Intro Mel Karmazin (02:24) 102 Hosts Meg Griffin &...",
-        "url": "https://archive.org/details/bs2012-03-09.fm.cc990-92.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-23T14:59:26+00:00"
       },
       {
         "id": "a3317d87811a",
@@ -725,6 +725,38 @@
     ],
     "破(day)": [
       {
+        "id": "949f3a0946b9",
+        "title": "Ableton has a rare flash sale with 25% off for a week, including upgrades",
+        "summary": "Ableton tends to discount its products only a couple of times a year, so this flash sale is worth noting. They're offering 25% off Live 12 Suite and Standard, upgrades, and all Packs, now through Wednesday, April 29. So if you've fallen behind on Live versions, or been eyeing those Max for Live Devi...",
+        "url": "https://cdm.link/ableton-has-a-rare-flash-sale-with-25-off-for-a-week-including-upgrades/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-04-23T19:03:34+00:00"
+      },
+      {
+        "id": "6ec59e298ef4",
+        "title": "Caroline: A New Musical review – hearty hits in pirate radio jukebox tale",
+        "summary": "New Wolsey theatre, Ipswich                             Vikki Stone’s freely adapted version of the once notorious seafaring broadcaster’s history is a terrrific premise for delivering a string of 60s hitsA pirate radio station is a clever subject for a jukebox musical. And there’s none more famous ...",
+        "url": "https://www.theguardian.com/stage/2026/apr/23/caroline-a-new-musical-review-new-wolsey-theatre-ipswich",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-23T19:00:18+00:00"
+      },
+      {
+        "id": "606cd6581180",
+        "title": "Golnden Retriever bookmark #3DPrinting #3DThursday",
+        "summary": "Real_Prints shares: Add a cheerful and lovable companion to your reading with the Golden Retriever Bookmark — a charming page marker styled as the happy head of a Golden Retriever peeking out from the top of your book, tongue playfully out 😛🐶 download the files on: https://makerworld.com/en/models/2...",
+        "url": "https://blog.adafruit.com/2026/04/23/golnden-retriever-bookmark-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-23T18:00:45+00:00"
+      },
+      {
+        "id": "a28d1d984af0",
+        "title": "LEGOs flexi legs #3Dprinting #3DThursday",
+        "summary": "Cayouche shared this post on MakerWorld! Bring your minifigures to life with these articulated Flexi Legs, designed specifically for LEGOs-like figures! 🔧 Perfect Compatibility These legs snap directly into original minifigures with no modification required. Tight fit for stability while maintaining...",
+        "url": "https://blog.adafruit.com/2026/04/23/655672/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-23T17:30:47+00:00"
+      },
+      {
         "id": "49b6678d376d",
         "title": "TPU Coffepot Table cover #3DPrinting #3DThursday",
         "summary": "Kaski93 shares: Hario V60 Coffeepot TPU Table Cover made with PETG and TPU. Cover Your table from heat and your coffee to get cold too fast download the files on: https://makerworld.com/en/models/2684093-tpu-coffepot-table-cover Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing com...",
@@ -805,14 +837,6 @@
         "published": "2026-04-23T11:00:09+00:00"
       },
       {
-        "id": "1f493e990441",
-        "title": "Taraji P Henson: ‘It’s exhausting to have to fight for my worth’",
-        "summary": "The Oscar-nominee on Hollywood burnout, Black resilience and her Broadway debut in August Wilson’s Joe Turner’s Come and GoneOn a Wednesday evening in midtown New York, generations X through Z spill out of the Ethel Barrymore Theatre to cluster around the venue’s side stage door. They’re waiting for...",
-        "url": "https://www.theguardian.com/culture/ng-interactive/2026/apr/23/taraji-p-henson-august-wilson-joe-turners-come-and-gone-interview",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-23T11:00:08+00:00"
-      },
-      {
         "id": "3b3615d9bc47",
         "title": "Double Indemnity review – leaden drama turns crime classic into a very cold case",
         "summary": "Churchill theatre, Bromley James M Cain’s hard-bitten novella gained bleak power on screen but this version, giving Mischa Barton her UK stage debut, loses its flinty edgeThe West End’s woeful High Noon showed how hard it is to put a western on stage. How about another rugged American genre, the fil...",
@@ -851,14 +875,6 @@
         "url": "https://www.theguardian.com/culture/2026/apr/23/michael-sheen-salieri-amadeus-welsh-national-theatre-mozart-amadeus",
         "source": "Stage | The Guardian",
         "published": "2026-04-23T08:01:04+00:00"
-      },
-      {
-        "id": "881c944db29a",
-        "title": "Modular Plant Trellis #3DPrinting #3DThursday",
-        "summary": "papu shares: This is a modular plant trellis that can be infinitely assembled, combining practicality and aesthetics. I&#8217;m currently using it to help my Pothos grow more beautifully and make my desktop more interesting. download the files on: https://makerworld.com/en/models/2684284-modular-pla...",
-        "url": "https://blog.adafruit.com/2026/04/23/modular-plant-trellis-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-23T08:00:35+00:00"
       },
       {
         "id": "8ac3b4643859",
@@ -923,14 +939,6 @@
         "url": "https://madrasmusings.com/vol-36-no-1/our-readers-write-195/",
         "source": "Madras Musings",
         "published": "2026-04-23T07:37:41+00:00"
-      },
-      {
-        "id": "6d34edc57c02",
-        "title": "NASA Rise Plushie #3DPrinting #3DThursday",
-        "summary": "alexkapellakis shares: inspired by the official NASA Artemis II zero-gravity indicator (ZGI) &#8220;Rise&#8221;, the plush companion traveling aboard the Orion spacecraft. download the files on: https://makerworld.com/en/models/2635680-nasa-rise-plushie-multicolor-print-artemis2zgi Every Thursday is...",
-        "url": "https://blog.adafruit.com/2026/04/23/nasa-rise-plushie-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-23T07:00:12+00:00"
       },
       {
         "id": "9f9ab2dead2c",
@@ -1645,14 +1653,6 @@
         "published": "2026-04-13T19:52:16+00:00"
       },
       {
-        "id": "f27d75fb1d86",
-        "title": "Liquid and hypnotic, Sinevibes’ Duality is a different breed of vibrato",
-        "summary": "By separating frequency spectrum emphasis from phase modulation, the &#8220;hybrid vibrato&#8221; Duality can create unique, clean, stereo-spinning pitch modulation. It&#8217;s one of Sinevibes&#8217; most nuanced &#8212; but also most compelling &#8212; effects. I&#8217;ve been working with prerele...",
-        "url": "https://cdm.link/sinevibes-duality/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-04-13T18:56:27+00:00"
-      },
-      {
         "id": "07887457a24c",
         "title": "Multi-agent coordination patterns: Five approaches and when to use them",
         "summary": "Multi-agent coordination patterns: Five approaches and when to use them",
@@ -2284,7 +2284,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T17:42:11.385377+00:00"
+        "published": "2026-04-23T19:24:56.635410+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2292,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T17:42:11.385368+00:00"
+        "published": "2026-04-23T19:24:56.635399+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2300,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T17:42:11.385358+00:00"
+        "published": "2026-04-23T19:24:56.635389+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2308,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T17:42:11.385347+00:00"
+        "published": "2026-04-23T19:24:56.635378+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2316,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T17:42:11.385337+00:00"
+        "published": "2026-04-23T19:24:56.635368+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2324,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T17:42:11.385327+00:00"
+        "published": "2026-04-23T19:24:56.635357+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2332,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T17:42:11.385317+00:00"
+        "published": "2026-04-23T19:24:56.635347+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2340,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T17:42:11.385307+00:00"
+        "published": "2026-04-23T19:24:56.635337+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2348,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T17:42:11.385297+00:00"
+        "published": "2026-04-23T19:24:56.635327+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2356,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T17:42:11.385287+00:00"
+        "published": "2026-04-23T19:24:56.635316+00:00"
       },
       {
         "id": "0ab1998b4fb5",
