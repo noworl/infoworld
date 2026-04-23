@@ -1,11 +1,59 @@
 {
-  "updated_at": "2026-04-23T19:24:58.539398+00:00",
+  "updated_at": "2026-04-23T21:01:41.404718+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "007f16f26dd2",
+        "title": "HINDEMITH Klarinettenquartett",
+        "summary": "HINDEMITH  Klarinettenquartett Spectrum Concerts Berlin (2009).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bng_20260423",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-23T19:25:39+00:00"
+      },
+      {
+        "id": "20018612d500",
+        "title": "HINDEMITH Klarinettenquintett op. 30",
+        "summary": "HINDEMITH  Klarinettenquintett op. 30 Spectrum Concerts Berlin (2009).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nbhg_20260423",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-23T19:16:15+00:00"
+      },
+      {
+        "id": "2b68558a7c94",
+        "title": "HINDEMITH 3 leichte Stücke",
+        "summary": "HINDEMITH  3 leichte Stücke Frank Dodge (Violoncello) Yu-Fei Chuang (Klavier) (2009).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nhfx_20260423",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-23T19:16:01+00:00"
+      },
+      {
+        "id": "e790e91a92f8",
+        "title": "HINDEMITH Klarinettensonate",
+        "summary": "HINDEMITH  Klarinettensonate Lars Wouters van den Oudenweijer (Klarinette) Ya-Fei Chuang (Klavier) (2009).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bngxn_20260423",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-23T19:05:22+00:00"
+      },
+      {
+        "id": "86e15b7149f3",
+        "title": "SET AO VIVO DJ GIGIO BOY NA QUADRA DA PREFEITA ( SAUDADE E MARCANTE ) 19 04 2026",
+        "summary": "er.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-gigio-boy-na-quadra-da-prefeita-saudade-e-marcante-19-04-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-23T18:33:41+00:00"
+      },
+      {
+        "id": "13bca3cbf2c2",
+        "title": "HINDEMITH Sämtliche Sonaten",
+        "summary": "HINDEMITH  Sämtliche Sonaten (2/2).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/gfxgh_202604",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-23T18:10:34+00:00"
+      },
+      {
         "id": "13e7f0110d32",
         "title": "HINDEMITH Sämtliche Sonaten",
-        "summary": "HINDEMITH  Sämtliche Sonaten (1/2).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "HINDEMITH  Sämtliche Sonaten (1/2).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/bcdf_20260423",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-23T17:07:26+00:00"
@@ -33,54 +81,6 @@
         "url": "https://archive.org/details/bs2012-05-28.aud.zimmy21.flac16",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-23T16:14:11+00:00"
-      },
-      {
-        "id": "2732965ab37f",
-        "title": "Bruce Springsteen - 2012-05-27, Rheinenergiestadion, Cologne",
-        "summary": "Bruce Springsteen Rhein Energie Stadion Cologne 27 may 2012 A zimmy21 recording ! Sound quality : Very good recording. 3 samples in comment. Source : Sp-CMC-10 > battery SP-SPSB-1 > Edirol R-09HR (24 bit-48 kHZ) > PC > EAC > Wav > Traders Little Helper > Flac 8 Note : This is a different recording, ...",
-        "url": "https://archive.org/details/bs2012-05-27.aud.zimmy21.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-23T16:08:35+00:00"
-      },
-      {
-        "id": "25c872f6238a",
-        "title": "Bruce Springsteen - 2012-05-18, Estadi Olímpic Lluís Companys, Barcelona",
-        "summary": "Bruce Springsteen & The E Street Band Estadi Olímpic LLuis Companys, Barcelona May 18, 2012 Taper: javichun Equipment: CMC-8 (cardioid) > Boostbox > PCM-M10 (16bit-44.1kHz) > Adobe Audition (boost levels) > CD Wave > TLH Location: recorded from the back side of the pit, left of the stage Setlist: 0....",
-        "url": "https://archive.org/details/bs2012-05-18.aud.javichun.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-23T15:58:25+00:00"
-      },
-      {
-        "id": "1b4684ecea21",
-        "title": "Bruce Springsteen - 2012-05-17, Estadi Olímpic Lluís Companys, Barcelona",
-        "summary": "Bruce Springsteen & The E Street Band Estadi Olimpic Lluis Companys, Barcelona, Spain May 17, 2012 Taper: javichun Equipment: CMC-8 (cardioid) > Boostbox > PCM-M10 (16bit-44.1kHz) > Adobe Audition (boost levels) > CD Wave > TLH Location: recorded from the pit, left of the stage Setlist: 01 - Badland...",
-        "url": "https://archive.org/details/bs2012-05-17.aud.javichun.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-23T15:46:43+00:00"
-      },
-      {
-        "id": "9c9c8e25f9aa",
-        "title": "Bruce Springsteen - 2012-04-24, HP Pavilion At San Jose, San Jose",
-        "summary": "Bruce Springsteen and The E Street Band HP Pavillion San Jose, Ca April 24, 2012 source : Nakamichi cm100/cp1 (busman audio mod) > Hi Ho Silver cables > AT8531 > Sony PCM-M10 (24/96 > 16/44.1) taper : markp 01 crowd 02 introduction 03 We Take Care of Our Own 04 Wrecking Ball 05 Badlands 06 Death to ...",
-        "url": "https://archive.org/details/bs2012-04-24.aud.markp.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-23T15:35:34+00:00"
-      },
-      {
-        "id": "1aba690182bc",
-        "title": "Bruce Springsteen - 2012-03-26, TD Garden, Boston",
-        "summary": "01- Intro 02- WE TAKE CARE OF OUR OWN 03- WRECKING BALL 04- BADLANDS 05- DEATH TO MY HOMETOWN 06- MY CITY OF RUINS 07- THUNDERCRACK 08- Intro 09- JACK OF ALL TRADES 10- JACKSON CAGE 11- SHE'S THE ONE 12- EASY MONEY 13- WAITIN' ON A SUNNY DAY 14- THE PROMISED LAND 15- THE WAY YOU DO THE THINGS YOU DO...",
-        "url": "https://archive.org/details/bs2012-03-26.aud.hobbes4444.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-23T15:29:54+00:00"
-      },
-      {
-        "id": "4a02eb9ec8df",
-        "title": "Bruce Springsteen - 2012-03-19, Greensboro Coliseum, Greensboro",
-        "summary": "Bruce Springsteen & The E Street Band Titel: With the Dancin' Shoes In Greensboro 'Label': Earlmv Format: 3CDR Source: IEM-AUD-Mix Brucebase: http://brucebase.wikispaces.com/2012#190312 Storyteller: http://brucebase.wikispaces.com/2012-03-19+-+GREENSBORO+COLISEUM%2C+GREENSBORO%2C+NC Date: 19th March...",
-        "url": "https://archive.org/details/bs2012-03-19.aud.earlmv.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-23T15:24:01+00:00"
       },
       {
         "id": "a3317d87811a",
@@ -451,6 +451,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -725,6 +805,38 @@
     ],
     "破(day)": [
       {
+        "id": "03817c7b08d0",
+        "title": "Rope Lamp #3DPrinting #3DThursday",
+        "summary": "jll8 shares: This decorative lamp shaped like a spool wrapped with rope combines modern 3D printing with a rustic look. The model is designed to be easy to print, stable, and compatible with a standard E14 socket. I used a 200 lm LED bulb, but you can choose another light source – for example, an [&...",
+        "url": "https://blog.adafruit.com/2026/04/23/rope-lamp-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-23T20:00:48+00:00"
+      },
+      {
+        "id": "2563453faeee",
+        "title": "UPDATED GUIDE: Adafruit AS7331 UV / UVA / UVB / UVC Sensor #AdafruitLearningSystem @Adafruit #WipperSnapper",
+        "summary": "UPDATED GUIDE: Adafruit AS7331 UVA / UVB / UVC Sensor Breakout The Adafruit AS7331 UVA / UVB / UVC Sensor Breakout is a perfect solution to UV sensing, no matter what &#8216;type&#8217; you&#8217;re sensing. Most UV sensors do just UVA, maybe ambient light too. But the AS7331 can read and differenti...",
+        "url": "https://blog.adafruit.com/2026/04/23/updated-guide-adafruit-as7331-uv-uva-uvb-uvc-sensor-wippersnapper/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-23T20:00:00+00:00"
+      },
+      {
+        "id": "0a86c81025b3",
+        "title": "John Park’s Workshop — LIVE TODAY 4/23/26",
+        "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Project CircuitPython Parsec Tool Tips  Learn Guides Retro Gear  Unmeasurable levels of Lars and more! The live video will be on Youtube LIVE, Twitch, Periscope (...",
+        "url": "https://blog.adafruit.com/2026/04/23/john-parks-workshop-live-today-4-23-26/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-23T19:55:08+00:00"
+      },
+      {
+        "id": "459ea3bc3f2e",
+        "title": "UPDATED GUIDE: Adafruit APDS9999 Proximity, Lux Light & Color Sensor #Adafruit Products #AdafruitLearningSystem #WipperSnapper",
+        "summary": "UPDATED GUIDE: Adafruit APDS9999 Proximity, Lux Light, and Color Sensor If you want a sensor that&#8217;s a 3-in-1, the Adafruit APDS9999 Proximity, Lux Light, and Color Sensor has RGB color, lux light level as well as infrared proximity all built into one device. When connected to your microcontrol...",
+        "url": "https://blog.adafruit.com/2026/04/23/updated-guide-adafruit-apds9999-proximity-lux-light-color-sensor-wippersnapper/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-23T19:30:00+00:00"
+      },
+      {
         "id": "949f3a0946b9",
         "title": "Ableton has a rare flash sale with 25% off for a week, including upgrades",
         "summary": "Ableton tends to discount its products only a couple of times a year, so this flash sale is worth noting. They're offering 25% off Live 12 Suite and Standard, upgrades, and all Packs, now through Wednesday, April 29. So if you've fallen behind on Live versions, or been eyeing those Max for Live Devi...",
@@ -813,28 +925,12 @@
         "published": "2026-04-23T13:11:26+00:00"
       },
       {
-        "id": "3454559296ac",
-        "title": "Orion spacecraft #3DPrinting #3DThursday",
-        "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Orion Spacecraft By RynosaurusRex https://makerworld.com/en/models/750377-orion Bambu X1C PolyMaker PLA 12hr 34mins X:256 Y:256 Z:86mm .2mm layer / .4mm Nozzle 10...",
-        "url": "https://blog.adafruit.com/2026/04/23/orion-spacecraft-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-23T13:00:39+00:00"
-      },
-      {
         "id": "d558f4e8d2f0",
         "title": "金繪獎頒獎　李遠：文化部當後盾、陪創作者畫一輩子",
         "summary": "（中央社記者邱祖胤台北23日電）第1屆金繪獎頒獎典禮今天在台北松山文創園區誠品表演廳舉行，文化部長李遠宣布「2026年是台灣的繪本元年」，期許所有創作者「畫一輩子」，文化部將當大家的後盾。",
         "url": "https://www.cna.com.tw/news/acul/202604230299.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-04-23T11:06:43+00:00"
-      },
-      {
-        "id": "1a51a2206227",
-        "title": "Parametric Twist-Lock Secure Cylinder Box #3DPrinting #3DThursday",
-        "summary": "kawaz3d shares: A sleek, robust, and fully parametric cylindrical box featuring a secure twist-lock mechanism. Perfect for safely storing anything from small parts to everyday carry items. Design it exactly how you want with customizable textures, grips, and patterns download the files on: https://m...",
-        "url": "https://blog.adafruit.com/2026/04/23/parametric-twist-lock-secure-cylinder-box-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-23T11:00:09+00:00"
       },
       {
         "id": "3b3615d9bc47",
@@ -851,22 +947,6 @@
         "url": "https://www.cna.com.tw/news/acul/202604230290.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-04-23T10:38:24+00:00"
-      },
-      {
-        "id": "c897d816b8aa",
-        "title": "Foldable Raspberry Pi 5 Cyberdeck (with camera) #3DPrinting #3DThursday",
-        "summary": "ndejongh shares: Here is a brand new Raspberry Pi 5 foldable cyberdeck for a 3.5 inch touch display, camera module (optional) and a Rii Miniture keyboard. download the files on: https://makerworld.com/en/models/2684140-foldable-raspberry-pi-5-cyberdeck-with-camera Every Thursday is #3dthursday here ...",
-        "url": "https://blog.adafruit.com/2026/04/23/foldable-raspberry-pi-5-cyberdeck-with-camera-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-23T10:00:47+00:00"
-      },
-      {
-        "id": "c395aa4e2974",
-        "title": "Toy Radio Model #3DPrinting #3DThursday",
-        "summary": "user_2330680106 shares: This articulated assembly toy radio is designed for fun interaction and educational entertainment. Its colorful design is inspired by vintage radios, optimized for child-friendly play and easy operation download the files on: https://makerworld.com/en/models/2684145-articulat...",
-        "url": "https://blog.adafruit.com/2026/04/23/toy-radio-model-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-23T09:00:45+00:00"
       },
       {
         "id": "c55a6140813d",
@@ -987,6 +1067,14 @@
         "url": "https://www.openbook.org.tw/article/p-72522",
         "source": "Openbook閱讀誌",
         "published": "2026-04-23T02:30:44+00:00"
+      },
+      {
+        "id": "117bb4cd08dd",
+        "title": "Built-in memory for Claude Managed Agents",
+        "summary": "Built-in memory for Claude Managed Agents",
+        "url": "https://claude.com/blog/claude-managed-agents-memory",
+        "source": "Claude Blog",
+        "published": "2026-04-23T00:00:00+00:00"
       },
       {
         "id": "b9b6f90f29cf",
@@ -1669,14 +1757,6 @@
         "published": "2026-04-10T00:00:00+00:00"
       },
       {
-        "id": "5d1f441c8ff8",
-        "title": "Preparing your security program for AI-accelerated offense",
-        "summary": "Preparing your security program for AI-accelerated offense",
-        "url": "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense",
-        "source": "Claude Blog",
-        "published": "2026-04-10T00:00:00+00:00"
-      },
-      {
         "id": "4a122935e032",
         "title": "Freebie Time",
         "summary": "The elections have been announced and with it has begun campaigning. There was of course the matter of releasing manifestos and with that having been completed, the finalising of candidates for each constituency is ongoing. Campaigning will begin in right earnest after that. In a sense, this has alr...",
@@ -2284,7 +2364,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T19:24:56.635410+00:00"
+        "published": "2026-04-23T21:01:40.356826+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2372,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T19:24:56.635399+00:00"
+        "published": "2026-04-23T21:01:40.356816+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2380,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T19:24:56.635389+00:00"
+        "published": "2026-04-23T21:01:40.356806+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2388,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T19:24:56.635378+00:00"
+        "published": "2026-04-23T21:01:40.356796+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2396,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T19:24:56.635368+00:00"
+        "published": "2026-04-23T21:01:40.356786+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2404,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T19:24:56.635357+00:00"
+        "published": "2026-04-23T21:01:40.356775+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2412,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T19:24:56.635347+00:00"
+        "published": "2026-04-23T21:01:40.356765+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2420,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T19:24:56.635337+00:00"
+        "published": "2026-04-23T21:01:40.356756+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2428,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T19:24:56.635327+00:00"
+        "published": "2026-04-23T21:01:40.356746+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2436,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-23T19:24:56.635316+00:00"
+        "published": "2026-04-23T21:01:40.356736+00:00"
       },
       {
         "id": "0ab1998b4fb5",
