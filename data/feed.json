@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T22:50:31.785021+00:00",
+  "updated_at": "2026-04-25T23:48:55.953744+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -1109,6 +1109,14 @@
         "published": "2026-04-23T13:14:27+00:00"
       },
       {
+        "id": "23bee86d3d96",
+        "title": "创办AI公司来革自己的命，前OpenAI推理模型负责人自立门户",
+        "summary": "4 月 22 日，一家名为 Core Automation 的新公司在 X 上发了第一条推文：“我们的目标：优化并自动化工作的系统，从研究本身开始。”CEO Jerry Tworek 是前 OpenAI 研究副总裁、o1 和 o3 推理模型的主导者，今年 1 月刚从 OpenAI 离开。几小时内，Anthropic 研究员 Rohan Anil、Google DeepMind 的 Gemini 研究员 Anmol Gulati，以及前 OpenAI 产品经理、GPT-4o 之母 Joanne Jang 相继宣布加入。一家同时从三个前沿实验室挖人的新公司，以这种方式进入公众视野。今年 1 月 5...",
+        "url": "https://www.mittrchina.com/news/detail/16282",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-23T10:27:58+00:00"
+      },
+      {
         "id": "8ac3b4643859",
         "title": "Campaigning in a Digital Age",
         "summary": "You must hand it to our politicians. Once every five years they have to battle it out and they don’t hesitate to do so. Electoral campaigning is gruelling and there is no alternative to it. And you must hand it to our electoral system – it demands this of our political class almost with the [&#8230;...",
@@ -1323,14 +1331,6 @@
         "url": "https://www.mittrchina.com/news/detail/16278",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-04-22T09:00:02+00:00"
-      },
-      {
-        "id": "517f9ad84eb9",
-        "title": "硅谷AI巨头越来越像重工业公司",
-        "summary": "4 月 20 日，Meta 和房地产与基建服务公司 CBRE 联合宣布推出 LevelUp，一个四周、完全免费的光纤技术员培训项目。今年夏天起，它将为 Meta 的美国数据中心工地培养 “数千名” 没有任何行业经验的新手。由 CBRE 承办全美训练中心，学员毕业后直接送进 Meta 合同商工厂。Meta 的动因非常简单：美国建筑业目前缺口约 34.9 万人，光纤工尤其稀缺，而它 2026 年的资本开支将从 2025 年的 722 亿美元冲到 1,150 至 1,350 亿美元。钱不是问题，人、电、光纤、海缆才是。（来源：Meta）资本市场仍按软件公司给 Meta 估值，高毛利、高 ROE、轻资...",
-        "url": "https://www.mittrchina.com/news/detail/16276",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-22T05:21:42+00:00"
       },
       {
         "id": "15f7b456814a",
@@ -2284,7 +2284,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T22:50:30.674496+00:00"
+        "published": "2026-04-25T23:48:54.844383+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2292,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T22:50:30.674486+00:00"
+        "published": "2026-04-25T23:48:54.844372+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2300,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T22:50:30.674476+00:00"
+        "published": "2026-04-25T23:48:54.844362+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2308,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T22:50:30.674465+00:00"
+        "published": "2026-04-25T23:48:54.844351+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2316,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T22:50:30.674454+00:00"
+        "published": "2026-04-25T23:48:54.844340+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2324,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T22:50:30.674444+00:00"
+        "published": "2026-04-25T23:48:54.844326+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2332,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T22:50:30.674433+00:00"
+        "published": "2026-04-25T23:48:54.844294+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2340,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T22:50:30.674423+00:00"
+        "published": "2026-04-25T23:48:54.844284+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2348,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T22:50:30.674412+00:00"
+        "published": "2026-04-25T23:48:54.844274+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2356,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T22:50:30.674402+00:00"
+        "published": "2026-04-25T23:48:54.844264+00:00"
       },
       {
         "id": "d870bf0e2804",
@@ -2791,6 +2791,22 @@
         "published": "2026-01-30T19:26:48+00:00"
       },
       {
+        "id": "3752ead9da29",
+        "title": "2025 in numbers",
+        "summary": "Dear Freesounders, It looks like 2025 is already over, and many things have happened this year. We celebrated the 20th anniversary of Freesound with a composition contest, a sound installation, and the Freesound Day, which featured talks from people from &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2347",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T16:19:39+00:00"
+      },
+      {
+        "id": "d32f0a5eed31",
+        "title": "Freesound Day video recordings available online",
+        "summary": "Hi everyone, As most of you know, on the 28th of October 2025 we celebrated the Freesound Day. The Freesound Day brought together members of the Freesound community for a full day of talks, listening, and exchange around sound practices &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2352",
+        "source": "The Freesound Blog",
+        "published": "2026-01-30T11:10:55+00:00"
+      },
+      {
         "id": "61649d92d6e6",
         "title": "[知音分享會]02.11 在春節前找到幸福！《一女兩聘》最終回",
         "summary": "年關將近，不知道各位知音朋友是正忙著採辦 [&#8230;]\nSource",
@@ -2869,6 +2885,14 @@
         "url": "https://www.caa-ins.org/archives/13268",
         "source": "网络社会研究所",
         "published": "2025-12-28T14:46:48+00:00"
+      },
+      {
+        "id": "5fb9d9aee29c",
+        "title": "Preserving the sound of San Fermín in Pamplona/Iruña",
+        "summary": "This year, Freesound celebrates its 20th anniversary, and Intangible Heritage has been chosen as the main theme of the celebration. Intangible heritage encompasses the ephemeral and immaterial elements that shape our world, whether rooted in human culture, natural environments, or &#8230; Continue r...",
+        "url": "https://blog.freesound.org/?p=2329",
+        "source": "The Freesound Blog",
+        "published": "2025-12-22T09:23:20+00:00"
       },
       {
         "id": "7abdb22dfb2b",
@@ -3151,6 +3175,14 @@
         "published": "2025-10-30T03:28:47+00:00"
       },
       {
+        "id": "1fa067108080",
+        "title": "“Sounds to Be Protected: 20 Years of Freesound” installation @ CCCB, Barcelona",
+        "summary": "(text adapted from the CCCB website) The collaborative digital platform Freesound, created in 2005 by the Music Technology Group at Pompeu Fabra University, is celebrating its 20th anniversary, having become one of the largest databases of creative-commons licensed sounds in &#8230; Continue reading...",
+        "url": "https://blog.freesound.org/?p=2302",
+        "source": "The Freesound Blog",
+        "published": "2025-10-21T12:48:21+00:00"
+      },
+      {
         "id": "ea8c3d6514dd",
         "title": "MaSC Director Carlos Guedes Co-Announces ISMIR 2026 at ISMIR 2025 in South Korea",
         "summary": "MaSC Director Carlos Guedes, together with other general chairs Kaustuv Ganguli and Gus Xia, officially announced the upcoming 27th International Society for Music Information Retrieval Conference (ISMIR 2026) at this [&#8230;]",
@@ -3181,6 +3213,22 @@
         "url": "https://wp.nyu.edu/music_and_sound_cultures/2025/09/30/masc-at-the-abu-dhabi-mangrove-initiative-admi-partners-meeting-2025/",
         "source": "Music and Sound Cultures",
         "published": "2025-09-30T16:30:19+00:00"
+      },
+      {
+        "id": "371a22eaf3ba",
+        "title": "Freesound Day programme, October 28th, Barcelona and online",
+        "summary": "EDIT 30/1/2026: the video recordings of the Freesound Day talks are now available at https://fs20.freesound.org/freesound-day/ Hi everyone! The Freesound Day is getting closer, and we are now able to announce the programme. For those who don&#8217;t know, the Freesound Day &#8230; Continue reading &...",
+        "url": "https://blog.freesound.org/?p=2290",
+        "source": "The Freesound Blog",
+        "published": "2025-09-30T13:37:40+00:00"
+      },
+      {
+        "id": "5453a59e4cf6",
+        "title": "Results of the Freesound 20th Anniversary Composition Contest",
+        "summary": "Earlier this year, we launched the Freesound 20th Anniversary Composition contest to celebrate two decades of Freesound. Now, we are thrilled to announce the results! The contest invited sound artists, composers, and explorers from around the world to create works &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2282",
+        "source": "The Freesound Blog",
+        "published": "2025-09-24T10:39:20+00:00"
       },
       {
         "id": "a61196bb9012",
@@ -3255,12 +3303,28 @@
         "published": "2025-08-01T07:00:00+00:00"
       },
       {
+        "id": "989d36798072",
+        "title": "Sensing the Forest: Two Ongoing Datasets from DIY Streamers at Alice Holt Forest, UK",
+        "summary": "[Guest blog post by Anna Xambó on behalf of the Sensing the Forest Team] Sensing the Forest (StF) is a project funded by the UKRI Arts and Humanities Research Council. Our goal is to raise awareness among forest visitors, artists, &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2248",
+        "source": "The Freesound Blog",
+        "published": "2025-07-02T12:36:09+00:00"
+      },
+      {
         "id": "d041f8db200f",
         "title": "Introducing:  Syntə",
         "summary": "I was recently able to finish the process of porting (ability to run on different operating systems) so we&#8217;re now &#8230; More",
         "url": "https://blog.toplap.org/2025/06/08/introducing-synt%c9%99/",
         "source": "TOPLAP",
         "published": "2025-06-08T21:28:27+00:00"
+      },
+      {
+        "id": "a32c959ec3d4",
+        "title": "“BAR-CEL-ONA” by the group Ekho and “Soundsystem for Silence” by Myubio Collective, a performance and a sound installation that celebrate Freesound",
+        "summary": "Dear Freesounders, As part of the 20th anniversary celebration program, there are two very exciting events that will take place next week in Barcelona, so be sure to check them out if you are around. The first event consists of &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2234",
+        "source": "The Freesound Blog",
+        "published": "2025-06-03T13:24:36+00:00"
       },
       {
         "id": "78bbc5e1b154",
@@ -3279,6 +3343,14 @@
         "published": "2025-05-21T14:28:31+00:00"
       },
       {
+        "id": "80eb7b888c07",
+        "title": "Call for talks for the “Freesound Day”, October 28th 2025",
+        "summary": "Hi everyone! As part of the celebrations of the 20th Anniversary of Freesound, we are organising a &#8220;Freesound Day&#8221; event that will happen on the 28th of October of 2025. The Freesound Day will include talks from members of the Freesound &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2228",
+        "source": "The Freesound Blog",
+        "published": "2025-05-16T14:22:09+00:00"
+      },
+      {
         "id": "1d37e671a255",
         "title": "New Release: The Songs of Shihuh Women",
         "summary": "The Shihuh (plural for Al Shehhi) is an Arab tribe that currently resides in the United Arab Emirates and Oman, dominating the territory of Ru’us al-Jibal and the Musandam peninsula. [&#8230;]",
@@ -3293,6 +3365,14 @@
         "url": "https://100r.ca/site/log.html#june2025",
         "source": "Hundred Rabbits",
         "published": "2025-05-02T07:00:00+00:00"
+      },
+      {
+        "id": "c01739412e2a",
+        "title": "Introducing the Broad Sound Taxonomy",
+        "summary": "Hi freesounders, We are happy to announce that we have just released a new feature for organising sounds in Freesound. Following recent research at the MTG, we reached to the definition of a sound taxonomy named &#8220;Broad Sound Taxonomy&#8221; (BST). &#8230; Continue reading &#8594;",
+        "url": "https://blog.freesound.org/?p=2206",
+        "source": "The Freesound Blog",
+        "published": "2025-04-11T11:29:45+00:00"
       },
       {
         "id": "891c2c02906c",
