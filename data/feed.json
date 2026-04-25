@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-04-25T09:04:29.973433+00:00",
+  "updated_at": "2026-04-25T10:53:23.144487+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "47a207b02606",
+        "title": "Mutoh",
+        "summary": "A recent retro tech is better than modern acquisition&#8230; I was tipped off to the idea of this, by a friend who had recently started working with a small scale metal lathe &#038; mill. He mentioned he&#8217;d picked up a&#8230;",
+        "url": "https://www.musicofsound.co.nz/blog/mutoh",
+        "source": "Music of Sound",
+        "published": "2026-04-25T09:56:30+00:00"
+      },
+      {
+        "id": "dd791d411388",
+        "title": "4/26起水氣減各地多雲到晴　4/29迎鋒面短暫陣雨",
+        "summary": "（中央社記者吳欣紜台北25日電）氣象署表示，明天起至下週一（27日）白天水氣減少，各地多雲到晴，僅東半部、恆春半島零星降雨，29、30日鋒面通過，各地短暫陣雨，5月1日勞動節水氣減，天氣恢復為多雲到晴。",
+        "url": "https://www.cna.com.tw/news/ahel/202604250156.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-25T09:53:49+00:00"
+      },
+      {
+        "id": "644fc22d4c08",
+        "title": "「台灣族大滿足」活動   在韓國也能體驗原住民文化",
+        "summary": "（中央社記者楊啟芳首爾25日專電）台灣交通部觀光署於今、明2天在首爾聖水洞舉辦「2026台灣觀光Roadshow－24小時台灣族大滿足」活動，現場有台灣原住民族舞團帶來演出，也有滿滿台灣小吃、手作活動可體驗。",
+        "url": "https://www.cna.com.tw/news/ahel/202604250154.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-25T09:44:45+00:00"
+      },
+      {
+        "id": "4babffd24067",
+        "title": "小小議長體驗營霧峰登場 彰化偏鄉學童闖關沉浸民主",
+        "summary": "（中央社記者郝雪卿台中25日電）立法院中南部服務中心，今天在台中霧峰區民主議政園區舉辦「民主領航員－小小議長體驗營」公益活動，邀彰化偏鄉小學生參與，闖關輕鬆氛圍中認識民主制度與公共參與。",
+        "url": "https://www.cna.com.tw/news/ahel/202604250150.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-25T09:27:34+00:00"
+      },
+      {
+        "id": "d3d3031d0627",
+        "title": "桐花祭接力開跑  古秀妃籲地方合作推動客庄建設",
+        "summary": "（中央社記者魯鋼駿苗栗縣25日電）「2026桐花祭」系列活動於全台13縣市接力展開，客委會主委古秀妃今赴苗栗獅潭出席活動表示，花季山林展現自然療癒力，雖財劃法修法使經費比例調整，仍盼與地方攜手成就客庄觀光發展。",
+        "url": "https://www.cna.com.tw/news/ahel/202604250137.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-25T09:16:07+00:00"
+      },
+      {
+        "id": "b6af58b68698",
+        "title": "衛福部部定專科增列重症醫學、感染科　可望調給付",
+        "summary": "（中央社記者曾以寧台北25日電）衛福部長石崇良今天表示，已正式將重症醫學科與感染科列入部定專科，使部定專科增至25科；未來2科人力訓練、考照將標準化，並將挹注人力培育，健保給付也可望調整。",
+        "url": "https://www.cna.com.tw/news/ahel/202604250136.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-25T09:14:05+00:00"
+      },
+      {
+        "id": "f6f233d9a743",
+        "title": "宜蘭縣近海規模4.8地震　氣象署：3天內留意餘震",
+        "summary": "（中央社記者黃巧雯台北25日電）宜蘭縣近海今天下午3時16分發生芮氏規模4.8地震。中央氣象署表示，屬獨立事件，留意未來3天內可能會有規模4至4.5左右的餘震。",
+        "url": "https://www.cna.com.tw/news/ahel/202604250135.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-25T09:11:02+00:00"
+      },
       {
         "id": "d94953345507",
         "title": "農業、衛福部長吃洋芋片　重申雙重把關進口馬鈴薯",
@@ -33,54 +89,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604250118.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-25T07:35:25+00:00"
-      },
-      {
-        "id": "eec14c9533ca",
-        "title": "宜蘭縣近海規模4.8地震　最大震度3級",
-        "summary": "（中央社台北25日電）根據中央氣象署最新資訊，25日15時16分發生芮氏規模4.8地震，地震深度69公里，震央位於宜蘭縣政府北北東方15.1公里(位於宜蘭縣近海)，最大震度宜蘭縣3級。（編輯：李亨山）1150425",
-        "url": "https://www.cna.com.tw/news/ahel/202604250113.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-25T07:25:15+00:00"
-      },
-      {
-        "id": "0754b999cc54",
-        "title": "旅遊方案創意可行 台東專科餐旅一年級生獲全國佳作",
-        "summary": "（中央社記者盧太城台東縣25日電）國立台東專科學校餐旅管理科一年級學生組成的「東征北討旅行團」，參加全國觀旅行銷企劃競賽，以從城市到產地為主題，拿下全國佳作，初試啼聲即獲佳績肯定。",
-        "url": "https://www.cna.com.tw/news/ahel/202604250102.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-25T06:34:51+00:00"
-      },
-      {
-        "id": "76e086380583",
-        "title": "柯文哲夜赴醫院要求解釋病情　石崇良：不好的示範",
-        "summary": "（中央社記者曾以寧台北25日電）民眾黨前主席柯文哲遭指晚上去新光醫院要求解釋病情。衛福部長石崇良今天表示，這是很不好的示範，醫護人員都相當辛苦，呼籲不要獵巫發文護理師，並已交代醫院勿追究。",
-        "url": "https://www.cna.com.tw/news/ahel/202604250101.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-25T06:31:49+00:00"
-      },
-      {
-        "id": "54e8db172386",
-        "title": "勞動部特展呈現職災勞工生命故事　盼關注職安",
-        "summary": "（中央社記者吳欣紜台北25日電）職場安全是勞工安心工作關鍵，勞動部在勞動節前夕舉辦「與光同行-職災勞工重建特展」，盼透過職災勞工真實故事分享，喚起各界對職場安全與重建服務的關注。",
-        "url": "https://www.cna.com.tw/news/ahel/202604250099.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-25T06:21:44+00:00"
-      },
-      {
-        "id": "859b6be1c0b4",
-        "title": "中油：下週汽柴油價格凍漲　累計吸收124億元",
-        "summary": "（中央社記者蘇思云台北25日電）台灣中油公司今天宣布，自4月27日凌晨零時起至5月3日晚上12時止，汽、柴油價格維持不調整，分別為每公升92無鉛汽油新台幣32.4元、95無鉛汽油33.9元、98無鉛汽油35.9元、超級柴油31元。累計2月28日至4月26日止，中油吸收金額約124億元。",
-        "url": "https://www.cna.com.tw/news/ahel/202604250096.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-25T06:14:38+00:00"
-      },
-      {
-        "id": "8eb5ceebf462",
-        "title": "學子過度用3C　「關機也幸福」教部培訓種子教師",
-        "summary": "（中央社記者陳至中台北25日電）青年學子過度使用3C產品，讓許多父母困擾，教育部近期舉辦「關機也幸福」研習，透過專題講授、案例分享，培訓全國各地學務、輔導種子教師。",
-        "url": "https://www.cna.com.tw/news/ahel/202604250095.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-25T06:03:36+00:00"
       },
       {
         "id": "bba114036bbd",
@@ -339,14 +347,6 @@
         "published": "2026-04-04T22:15:28+00:00"
       },
       {
-        "id": "69a028c749c9",
-        "title": "nuzic 332",
-        "summary": "&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;",
-        "url": "https://www.musicofsound.co.nz/blog/nuzic-332",
-        "source": "Music of Sound",
-        "published": "2026-04-04T08:35:47+00:00"
-      },
-      {
         "id": "b4ed3cad8213",
         "title": "TWMC April 2026 Chart",
         "summary": "1. Souad Massi · Zagate · BackingTrack Production [-] 2. Neba Solo &#38; Benego Diakité · A Djinn and a Hunter Went Walking · Nonesuch [1] 3. Canzoniere Grecanico Salentino · Il Mito · Ponderosa Music [2] 4. Altın Gün · Garip · Glitterbeat [4] 5. Constantinople: Kiya Tabassian, Ablaye Cissoko, Patri...",
@@ -449,86 +449,6 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
-      },
-      {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -877,6 +797,14 @@
         "published": "2026-04-24T19:00:24+00:00"
       },
       {
+        "id": "647a282d9184",
+        "title": "Susan Chlopicki obituary",
+        "summary": "My colleague and friend Susan Chlopicki, who has died aged 59 of lung cancer, was a comedian, activist and charity worker. As a standup she performed across the UK and her written work was featured on the BBC.Sue started standup in Manchester in the 1990s, a time when there were very few women on th...",
+        "url": "https://www.theguardian.com/stage/2026/apr/24/susan-chlopicki-obituary",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-24T18:23:42+00:00"
+      },
+      {
         "id": "1790c59a0937",
         "title": "John Park’s CircuitPython Parsec: External Monitor Rotation",
         "summary": "Set your DVI/HDMI monitor rotation in the settings.toml file in CircuitPython. Vertical &#8216;tate&#8217; mode here we come! code example To learn about CircuitPython: https://circuitpython.org &#160;",
@@ -1171,14 +1099,6 @@
         "url": "https://cdm.link/casios-sxc-1-coming-to-japan/",
         "source": "CDM Create Digital Music",
         "published": "2026-04-23T13:14:27+00:00"
-      },
-      {
-        "id": "3b3615d9bc47",
-        "title": "Double Indemnity review – leaden drama turns crime classic into a very cold case",
-        "summary": "Churchill theatre, Bromley James M Cain’s hard-bitten novella gained bleak power on screen but this version, giving Mischa Barton her UK stage debut, loses its flinty edgeThe West End’s woeful High Noon showed how hard it is to put a western on stage. How about another rugged American genre, the fil...",
-        "url": "https://www.theguardian.com/stage/2026/apr/23/double-indemnity-review-churchill-theatre-bromley-mischa-barton",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-23T10:41:45+00:00"
       },
       {
         "id": "8ac3b4643859",
@@ -2364,7 +2284,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T09:04:28.851784+00:00"
+        "published": "2026-04-25T10:53:21.118692+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2292,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T09:04:28.851774+00:00"
+        "published": "2026-04-25T10:53:21.118681+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2300,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T09:04:28.851764+00:00"
+        "published": "2026-04-25T10:53:21.118671+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2308,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T09:04:28.851754+00:00"
+        "published": "2026-04-25T10:53:21.118660+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2316,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T09:04:28.851744+00:00"
+        "published": "2026-04-25T10:53:21.118649+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2324,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T09:04:28.851733+00:00"
+        "published": "2026-04-25T10:53:21.118638+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2332,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T09:04:28.851722+00:00"
+        "published": "2026-04-25T10:53:21.118628+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2340,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T09:04:28.851706+00:00"
+        "published": "2026-04-25T10:53:21.118618+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2348,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T09:04:28.851674+00:00"
+        "published": "2026-04-25T10:53:21.118607+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2356,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T09:04:28.851635+00:00"
+        "published": "2026-04-25T10:53:21.118596+00:00"
       },
       {
         "id": "d870bf0e2804",
