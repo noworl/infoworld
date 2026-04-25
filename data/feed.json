@@ -1,11 +1,27 @@
 {
-  "updated_at": "2026-04-25T19:05:58.785654+00:00",
+  "updated_at": "2026-04-25T20:51:06.398566+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "160169263df7",
+        "title": "Cheba Souad X Hichem Smati Twahachtek Grave",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/cheba-souad-x-hichem-smati-twahachtek-grave",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-25T18:24:46+00:00"
+      },
+      {
+        "id": "c4750de1e2fc",
+        "title": "A Serhani Meglouba Glib",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/a-serhani-meglouba-glib",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-25T18:15:44+00:00"
+      },
+      {
         "id": "66a78834aaf8",
         "title": "HINDEMITH Sämtliche Violawerke",
-        "summary": "HINDEMITH  Sämtliche Violawerke Paul Cortese (Viola) Jordi Vilaprinyo Del Perugia (Klavier) Philharmonia Orchestra Martyn Brabbins.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "HINDEMITH  Sämtliche Violawerke Paul Cortese (Viola) Jordi Vilaprinyo Del Perugia (Klavier) Philharmonia Orchestra Martyn Brabbins.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/bxxf_20260425",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-25T17:53:03+00:00"
@@ -153,22 +169,6 @@
         "url": "https://archive.org/details/bnchgd_202604",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-24T21:39:11+00:00"
-      },
-      {
-        "id": "3a8ee0dbbb65",
-        "title": "HINDEMITH Konzertmusik op. 48",
-        "summary": "HINDEMITH  Konzertmusik op. 48 Raphael Hillyer (Viola) The Louisville Orchestra Jorge Mester, Lawrence Leighton Smith (1969).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/vngf_20260424",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-24T21:37:41+00:00"
-      },
-      {
-        "id": "744d135aff75",
-        "title": "HINDEMITH Kammermusik Nr. 2 op. 36/1",
-        "summary": "HINDEMITH  Kammermusik Nr. 2 op. 36/1 The Louisville Orchestra Jorge Mester, Lawrence Leighton Smith (1968).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/hfx_20260424",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-24T21:34:34+00:00"
       },
       {
         "id": "c2b78aba4178",
@@ -451,6 +451,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -724,6 +804,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "48fe53ce3f78",
+        "title": "A  Six-Servo Robot Dog",
+        "summary": "James Bruton built this cool robot dog using an Arduino Uno and R/C servos. Check out the repository on GitHub! This is the first in a series of designs that you can build. All of my projects are open source, but most people don’t actually build things like the AT-AT you can ride on, or [&#8230;]",
+        "url": "https://blog.adafruit.com/2026/04/25/a-six-servo-robot-dog/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-25T20:00:16+00:00"
+      },
       {
         "id": "c893227dab90",
         "title": "《不馴之森》：砍樹的人、種樹的人，恆春「山林劇場」裡的人物紀事",
@@ -1021,14 +1109,6 @@
         "published": "2026-04-23T23:00:32+00:00"
       },
       {
-        "id": "e819b80e02f7",
-        "title": "Flower Tulip Lamp E27 – Multi Part #3DPrinting #3DThursday",
-        "summary": "DSCMakerco shares: A mini Wi‑Fi or Zigbee Tuya smart switch (for example: link &#8211; try to get a module size 404020) – used as a button, and it lets you connect your lamp without any soldering or programming with Wemos, ESP or other ways…. An E27 cable An E27 bulb (a mini bulb looks nicer) [&#823...",
-        "url": "https://blog.adafruit.com/2026/04/23/flower-tulip-lamp-e27-multi-part-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-23T22:00:39+00:00"
-      },
-      {
         "id": "949f3a0946b9",
         "title": "Ableton has a rare flash sale with 25% off for a week, including upgrades",
         "summary": "Ableton tends to discount its products only a couple of times a year, so this flash sale is worth noting. They're offering 25% off Live 12 Suite and Standard, upgrades, and all Packs, now through Wednesday, April 29. So if you've fallen behind on Live versions, or been eyeing those Max for Live Devi...",
@@ -1213,6 +1293,14 @@
         "published": "2026-04-23T02:30:44+00:00"
       },
       {
+        "id": "d119bba08fc8",
+        "title": "谷歌第八代TPU双舰齐发，终结AI推理延迟，让智能体真正实现随叫随到",
+        "summary": "今天，谷歌在 Cloud Next '26 峰会上发布了其第八代 TPU 架构（TPU 8t 与 TPU 8i），TPU 8t 主攻训练，TPU 8i 主攻推理，将在 2026 年晚些时候上市。第八代 TPU 采用申请制，Google Cloud 用户如需使用，需要在官网提交登记需求。原生 PyTorch 对于 TPU 的支持等软件栈功能，目前也处于 Preview 阶段。眼下，谷歌是在小范围内开放给特定合作伙伴和早期客户进行测试，旨在管理早期算力资源的分配。TPU 8t 凭借 SparseCore 核心与 Virgo 网络拓扑，将大规模预训练效能推向极致，以 2.7 倍的单位成本算力改写了模...",
+        "url": "https://www.mittrchina.com/news/detail/16280",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-23T02:18:18+00:00"
+      },
+      {
         "id": "117bb4cd08dd",
         "title": "Built-in memory for Claude Managed Agents",
         "summary": "Built-in memory for Claude Managed Agents",
@@ -1285,6 +1373,14 @@
         "published": "2026-04-22T14:47:05+00:00"
       },
       {
+        "id": "4a2fc8977f37",
+        "title": "外国科学家从汉字中找到了设计超强材料的灵感！“天”字形材料最坚固",
+        "summary": "折纸艺术曾启发工程师设计出可折叠的航天结构，伊斯兰几何图案曾为材料学家提供抗振骨架的灵感。凡是人类文化中出现过的几何形式，似乎都有可能成为新一代功能材料的结构源泉。但你是否想过，中华文明书写了数千年的文字，其形状也会成为高性能材料的设计蓝图？4 月 21 日，爱丁堡大学（The University of Edinburgh）的研究人员在《应用物理学杂志》（Journal of Applied Physics）上发表了一篇颇为新颖的论文，他们将汉字“人”“大”“天”“夫”的字形转化为超材料的结构单元，并通过压缩实验探究其机械性能，最终发现，汉字中特有的弧线、横撇和方形框架中，蕴藏着可以为工程材...",
+        "url": "https://www.mittrchina.com/news/detail/16279",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-22T14:16:15+00:00"
+      },
+      {
         "id": "a27b01c431b7",
         "title": "文學社會學到台灣 3》什麼是世界文學？台灣的位置在哪裡？ ft.史書美、夏苾洛、張誦聖",
         "summary": "夏苾洛（Gisèle Sapiro）現身「文學社會學到台灣」系列活動的第三場，是文化研究學會年會的「圓桌論壇」。論壇主持人為美國加州大學洛杉磯分校教授史書美、與談人則是美國德州大學奧斯汀分校教授張誦聖。史書美的華語語系研究、張誦聖的當代台灣文學場域研究，皆是台灣研究與世界對話的重要橋梁，此次齊聚一堂別有意義。\n主持人特別從兩位與談人的著作談起，聯結台灣因緣：張誦聖《現代主義與鄉土對峙：當代台灣小說》及《台灣文學生態：戒嚴法到市場律》都在美國重要大學出版社出版，是台灣文學研究躍進英語學圈的重要成就。夏苾洛有9本法文論著，《文學社會學》被譯成9種語言，最新的由台灣翻譯出版中文版，彰顯台灣有不同於中...",
@@ -1301,12 +1397,36 @@
         "published": "2026-04-22T10:30:00+00:00"
       },
       {
+        "id": "d114fd4b18a1",
+        "title": "专为青光眼设计！科学家开发智能隐形眼镜，24小时监控眼压，超标自动滴药",
+        "summary": "青光眼是全球导致不可逆失明的主要原因之一，其核心致病因素是眼内压的异常升高。在传统治疗中存在两大痛点：首先，眼压会在一天中不断波动，在医院的单次测量很难捕捉到危险的眼压峰值；其次，患者通常需要每天自行滴眼药水来控制眼压，但很多人由于遗忘或觉得麻烦，导致用药依从性很差，致使病情恶化。2016 年，美国 FDA 曾批准了一种名为 Triggerfish 的设备，该设备将电子元件嵌入镜片中，可实现持续的眼压监测；2022 年，韩国浦项科技大学研究团队也曾开发新型智能隐形眼镜技术，为青光眼患者提供监测、治疗的一体化解决方案。但这些方案都面临难题，坚硬的微电子元件和外部电源系统与娇嫩的角膜组织之间存在严...",
+        "url": "https://www.mittrchina.com/news/detail/16278",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-22T09:00:02+00:00"
+      },
+      {
+        "id": "517f9ad84eb9",
+        "title": "硅谷AI巨头越来越像重工业公司",
+        "summary": "4 月 20 日，Meta 和房地产与基建服务公司 CBRE 联合宣布推出 LevelUp，一个四周、完全免费的光纤技术员培训项目。今年夏天起，它将为 Meta 的美国数据中心工地培养 “数千名” 没有任何行业经验的新手。由 CBRE 承办全美训练中心，学员毕业后直接送进 Meta 合同商工厂。Meta 的动因非常简单：美国建筑业目前缺口约 34.9 万人，光纤工尤其稀缺，而它 2026 年的资本开支将从 2025 年的 722 亿美元冲到 1,150 至 1,350 亿美元。钱不是问题，人、电、光纤、海缆才是。（来源：Meta）资本市场仍按软件公司给 Meta 估值，高毛利、高 ROE、轻资...",
+        "url": "https://www.mittrchina.com/news/detail/16276",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-22T05:21:42+00:00"
+      },
+      {
         "id": "15f7b456814a",
         "title": "Meta 在員工電腦安裝追蹤軟體，抓滑鼠鍵盤數據訓練模型",
         "summary": "《路透社》取得 Meta 內部備忘錄顯示，Meta 在美國員工的電腦上安裝新的追蹤軟體，以捕捉滑鼠移動和點擊、 [&#8230;]",
         "url": "https://technews.tw/2026/04/22/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-04-22T05:04:54+00:00"
+      },
+      {
+        "id": "76befe8205ea",
+        "title": "从嬉皮士到硅谷教父，他写了一本关于“维修”的书",
+        "summary": "（来源：麻省理工科技评论）修摩托车、保养房子、维护桥梁公路、照料我们的星球——这些事有什么共同点？在斯图尔特·布兰德（Stewart Brand）看来，它们都是“维护”：让事物持续运转所需的一切工作。布兰德是科技文化的传奇人物，曾创办影响了一整代人的《全球概览》（Whole Earth Catalog），被视为从嬉皮士运动到硅谷崛起之间的关键桥梁。如今 87 岁的他出了一本新书《维护：万事万物·第一部》（Maintenance: Of Everything, Part One），想论证一件事：对某样东西承担起“维护”责任，对维持人类文明的重要性。“维护者”（the Maintainers）的概...",
+        "url": "https://www.mittrchina.com/news/detail/16275",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-22T03:08:57+00:00"
       },
       {
         "id": "bd90101a7dc2",
@@ -1357,6 +1477,22 @@
         "published": "2026-04-21T16:00:00+00:00"
       },
       {
+        "id": "3897b294538c",
+        "title": "空壳AI公司骗走投资人4亿美元，还上市了",
+        "summary": "一家打着 AI 旗号的公司，被指控涉及 4.2 亿美元商业诈骗，更引人关注的是，它还是一家在纳斯达克上市的公司，市值曾达 15 亿美元。近日，美国布鲁克林联邦法院公布了一份起诉书，揭开了 iLearningEngines（简称 iLearning）公司精心编织数年的谎言：主要客户关系和 90% 年收入竟然都是伪造的。该公司创始人兼 CEO Puthugramam Chidambaran 以及该公司 CFO Sayyed Farhan Ali Naqvi 被起诉多达 10 项罪名，包括经营持续性金融犯罪活动、串谋证券欺诈、证券欺诈、串谋电信欺诈和电信欺诈等。（来源：https://www.jus...",
+        "url": "https://www.mittrchina.com/news/detail/16274",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-21T13:21:41+00:00"
+      },
+      {
+        "id": "9170ede2bf25",
+        "title": "辛顿警告AI将取代人类工作，杨立昆反对：应该先听这5个人怎么说",
+        "summary": "过去半年，关于“AI 会不会抢走我们的工作”的讨论愈演愈烈。几乎每隔几周，就会有新的研究报告、行业预测或焦虑故事被推上舆论场。科技公司一边喊着“AI 将赋能每一个人”，一边悄悄收紧招聘甚至大规模裁员；白领群体中，“我的岗位还能撑几年”的担忧悄然蔓延…最近，“AI 教父”杰弗里·辛顿（Geoffrey Hinton）在接受采访时也聊及这个话题。作为深度学习的奠基人之一、2024 年诺贝尔物理学奖得主，辛顿自离开谷歌后，便持续为 AI 潜在风险发出警示。图 | 辛顿接受采访（来源：Youtube）辛顿指出，回顾人类历史，每一次重大技术革命都遵循相似的节奏：淘汰一类劳动，同时开辟新的就业空间。农业机...",
+        "url": "https://www.mittrchina.com/news/detail/16273",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-04-21T13:20:22+00:00"
+      },
+      {
         "id": "67103d66acc6",
         "title": "Rafael Anton Irisarri on the architecture of loneliness and the physics of sound",
         "summary": "For over two decades, Rafael Anton Irisarri has been carving out a space that exists somewhere between the tectonic weight of modern classical and the vaporous drift of ambient music. Whether recording under his own name or as The Sight Below, Irisarri’s work is characterized by a physical sense of ...",
@@ -1381,14 +1517,6 @@
         "published": "2026-04-21T03:29:38+00:00"
       },
       {
-        "id": "dfaaf64c06c6",
-        "title": "库克继任者确定！50岁约翰·特纳斯9月1日接任CEO，苹果AI将成上任最大挑战之一",
-        "summary": "传言终于坐实，苹果即将迎来一位新的掌舵者。2026年4月20日，苹果正式宣布硬件工程高级副总裁约翰·特努斯将于9月1日接替库克，成为苹果第八任CEO。库克将转任执行董事长，继续留在苹果。这场备受关注的交接，结束了外界多年关于谁将接替库克的猜测。特努斯现年50岁，在苹果工作了25年，这几乎是其职业生涯的全部。他成长于美国加州，从小喜欢游泳，后在宾夕法尼亚大学攻读机械工程，并代表校男子游泳队参加比赛。1997年本科毕业后他先在一家名为Virtual Research Systems的小公司设计虚拟现实头盔，积累了几年硬件经验。2001年，他加入苹果产品设计团队，从此再也没有离开。在苹果内部，特努斯...",
-        "url": "https://www.mittrchina.com/news/detail/16269",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-21T03:08:45+00:00"
-      },
-      {
         "id": "309f536582ca",
         "title": "WhatsApp 禁第三方 AI 助理接入遭歐盟拒絕，Meta 恐面臨全球營收 10% 罰款",
         "summary": "歐盟委員會日前發出補充異議聲明，初步認定 Meta「以收費代替禁令」策略實質上仍封鎖第三方 AI 助理接入 W [&#8230;]",
@@ -1411,22 +1539,6 @@
         "url": "https://cdm.link/imageplot-vintage-2010s-tool-for-image-visualization-is-back-free/",
         "source": "CDM Create Digital Music",
         "published": "2026-04-20T13:20:12+00:00"
-      },
-      {
-        "id": "bf3d41b29825",
-        "title": "用AI复制人脑可行！MIT论文估算500亿美元、10到25年可实现",
-        "summary": "近日，美国麻省理工学院（MIT）研究生艾萨克·弗里曼（Isaak Freeman）和所在团队写了一篇长达 100 多页的论文，标题是《从蠕虫到人类：大脑仿真如何规模化》。艾萨克等人系统梳理了大脑仿真技术的最新进展，并通过大量访谈和文献综述得出这样一个结论：大脑仿真正在从一个遥不可及的梦想成为一个可以量化的工程问题。也就是说，这件事虽然难如登天，但比我们想象得要近得多。目前，一些关键技术正在非线性加速，重塑单个神经元的成本已经从几十年前的 1.6 万美元降到了现在的 100 美元左右，高端 AI 集群的算力更是已经接近人脑实时仿真的需求。这意味着也许未来有一天，医生能够像查询天气预报一样，只需通...",
-        "url": "https://www.mittrchina.com/news/detail/16267",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-20T12:15:26+00:00"
-      },
-      {
-        "id": "61522d67eb2b",
-        "title": "机器人是怎么学会干活的：一部当代简史",
-        "summary": "（来源：麻省理工科技评论）机器人学家过去的特点是：梦做得很大，东西造得很小。他们满怀壮志要匹敌甚至超越人体的惊人复杂度，然后把整个职业生涯花在给汽车工厂打磨机械臂上；目标是 C-3PO（《星球大战》里的人形机器人，能说六百多万种语言，会走路、会社交、有情感反应，是科幻电影中最经典的“像人一样的机器人”形象），做出来的是扫地机器人 Roomba。这些研究者中许多人的真正野心，是科幻片里的那种机器人——能在世界中自由移动、适应不同环境、安全而有益地与人互动。对有社会使命感的人来说，这样的机器可以帮助行动不便的人、缓解孤独感、承担对人类来说太危险的工作。对更看重商业前景的人来说，它意味着一种取之不尽...",
-        "url": "https://www.mittrchina.com/news/detail/16266",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-20T05:37:38+00:00"
       },
       {
         "id": "ae3961b94c7c",
@@ -1469,14 +1581,6 @@
         "published": "2026-04-19T11:42:01+00:00"
       },
       {
-        "id": "de1566a90390",
-        "title": "中国科学家造出三项全能铜箔，破解行业难题，手机电池芯片都将受益",
-        "summary": "铜箔是铜金属的薄片，由于其优良的导电性、延展性等性能，用途广泛，包括智能手机、电脑等电子设备、家用电器、汽车和建筑等，是支撑我们日常生活的重要材料之一。随着芯片越做越小、电池追求更长续航、设备朝着轻薄化升级，铜箔面临的要求也越来越苛刻。在实际使用中，铜箔不仅要承受卷绕、冲压、弯折等复杂力学压力，还必须同时满足三个指标：强度够高、导电够好、热稳定性好。然而，传统铜箔难以同时兼顾高强度、高导电性和高热稳定性，成为相关产业发展的主要瓶颈。近日，中国科学院金属研究所卢磊研究员团队与合作者在 Science 期刊发表成果，他们通过一种全新的梯度序构微观结构设计，成功研发出兼具超高强度、高导电性与优异热稳...",
-        "url": "https://www.mittrchina.com/news/detail/16262",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-19T11:22:19+00:00"
-      },
-      {
         "id": "350668ceb3fb",
         "title": "從邊緣到核心：美國國家藝廊的攝影定位與記憶實踐",
         "summary": "在2025年台灣國際攝影節中，美國國家藝廊（NGA）攝影部主任暨資深策展人格林諾詳述了該部門從無到有、跨越30年的發展歷程。她也以攝影大師羅伯．法蘭克《美國人》的典藏為例，討論攝影如何闡明人們對文化與國家歷史的理解。",
@@ -1485,36 +1589,12 @@
         "published": "2026-04-18T16:00:00+00:00"
       },
       {
-        "id": "dd284fbf435c",
-        "title": "零能耗降温6.1℃！新型透明车窗膜让汽车在烈日下自动散热",
-        "summary": "炎炎夏日，经过阳光长时间暴晒的汽车座舱往往会变成一个“大烤箱”，打开车门瞬间涌出的热浪是许多驾驶者避之不及的“痛苦”体验。为了快速降温，车载空调往往需要满负荷运转，这不仅消耗大量燃油或电量，也严重缩短了电动汽车的续航里程。图 | 看到照片都感觉身上热热的（来源：Unsplash）现有的降温汽车贴膜或镀膜技术，大多停留在“阻挡”外部热量进入的阶段，却对车内已经积聚的热量束手无策。近期，一种新型“零能耗”车窗薄膜技术或将为解决这一夏日出行痛点提供全新的物理学方案。近日，韩国首尔大学（SNU）机械工程系的 Seung Hwan Ko 教授团队、美国麻省理工学院（MIT）陈刚（Gang Chen）教授...",
-        "url": "https://www.mittrchina.com/news/detail/16261",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-18T12:46:35+00:00"
-      },
-      {
-        "id": "6e5cf5fc41d8",
-        "title": "颠覆无线电常识！新技术把干扰信号变算力，自动驾驶掉线难题有望解决",
-        "summary": "传统无线网络将通信与计算的运行方式，是先传输数据再进行处理。然而，当自动驾驶汽车行驶在高速公路上，突然遭遇暴风雪，如何实时共享路面湿滑、紧急制动和路况变化等大量数据？一项名为空中计算（OAC，Over-the-Air Computation）的新技术有望颠覆无线网络的系统设计标准。OAC 能将无线信号间的干扰转化成计算能力，实现多台设备同时传输，信号在空中直接叠加完成求和、求平均值等运算，并根据实际情况承担部分网络计算任务，不仅大幅降低拥塞和能耗，还帮助无线系统支持大规模增长。近年来，全球已有多个研究团队进行开发和原型验证。目前，已有原型机实现 95% 图像识别准确率。该技术有望应用于自动驾驶...",
-        "url": "https://www.mittrchina.com/news/detail/16260",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-18T12:38:47+00:00"
-      },
-      {
         "id": "253880680664",
         "title": "Meta 著重 AI 輔助效率！傳 5 月裁員 8,000 人、下半年還有第二波",
         "summary": "Facebook 和 Instagram 母公司 Meta 又傳大裁員，根據消息人士指出，Meta 計劃今年  [&#8230;]",
         "url": "https://finance.technews.tw/2026/04/18/additional-cuts-later-in-2026/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-04-18T07:21:43+00:00"
-      },
-      {
-        "id": "2629be397ccf",
-        "title": "打印“脑细胞”成真：这款人工神经元成功刺激活体小鼠脑神经",
-        "summary": "随着人工智能的飞速发展，以及算力需求的攀升，传统硅基芯片早已暴露出难以克服的局限，而现有人工神经元技术同样问题重重，无法真正满足类脑计算与脑机交互的现实需求。现有人工神经元因功能单一，难以模拟整合、连续及簇状爆发等复杂神经行为，被迫依靠堆砌器件实现功能，导致系统臃肿且能耗极高；同时，其制造高度依赖高温工艺与严苛环境，成本高昂且缺乏柔性，难以适配可穿戴或植入式场景；最关键的是，其放电特征与生物信号不匹配，形成了脑机接口与神经修复领域难以逾越的交流瓶颈。近日，来自美国西北大学马克·赫萨姆（Mark Hersam）教授带领的研究团队在 Nature Nanotechnology 发表成果，他们成功打...",
-        "url": "https://www.mittrchina.com/news/detail/16259",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-04-18T03:28:50+00:00"
       },
       {
         "id": "ce2b5b6ba85c",
@@ -2284,7 +2364,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T19:05:57.835938+00:00"
+        "published": "2026-04-25T20:51:05.464602+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2372,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T19:05:57.835931+00:00"
+        "published": "2026-04-25T20:51:05.464592+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2380,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T19:05:57.835924+00:00"
+        "published": "2026-04-25T20:51:05.464582+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2388,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T19:05:57.835916+00:00"
+        "published": "2026-04-25T20:51:05.464571+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2396,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T19:05:57.835908+00:00"
+        "published": "2026-04-25T20:51:05.464561+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2404,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T19:05:57.835901+00:00"
+        "published": "2026-04-25T20:51:05.464550+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2412,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T19:05:57.835893+00:00"
+        "published": "2026-04-25T20:51:05.464539+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2420,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T19:05:57.835885+00:00"
+        "published": "2026-04-25T20:51:05.464529+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2428,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T19:05:57.835877+00:00"
+        "published": "2026-04-25T20:51:05.464518+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2436,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-25T19:05:57.835870+00:00"
+        "published": "2026-04-25T20:51:05.464508+00:00"
       },
       {
         "id": "d870bf0e2804",
