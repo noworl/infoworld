@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-26T20:50:48.299843+00:00",
+  "updated_at": "2026-04-26T21:49:58.353102+00:00",
   "categories": {
     "急(hr)": [
       {
         "id": "a3685bdddb36",
         "title": "JANACEK Die Exkursionen des Herrn Broucek",
-        "summary": "JANACEK  Die Exkursionen des Herrn Broucek BBC Singers BBC Symphony Orchestra Jiri Belohlavek.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "JANACEK  Die Exkursionen des Herrn Broucek BBC Singers BBC Symphony Orchestra Jiri Belohlavek.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/fbgf_20260426",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-26T19:59:46+00:00"
@@ -13,7 +13,7 @@
       {
         "id": "1c81917bfd52",
         "title": "JANACEK Das schlaue Füchslein",
-        "summary": "JANACEK  Das schlaue Füchslein Chor der Tschechischen Philharmonie Kühn-Kinderchor Tschechische Philharmonie Václav Neumann (1981).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "JANACEK  Das schlaue Füchslein Chor der Tschechischen Philharmonie Kühn-Kinderchor Tschechische Philharmonie Václav Neumann (1981).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/nbghd_202604",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-26T19:33:47+00:00"
@@ -27,12 +27,36 @@
         "published": "2026-04-26T19:27:37+00:00"
       },
       {
+        "id": "d2d38606f639",
+        "title": "chuong-542",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_27861_1777230800",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-26T19:13:57+00:00"
+      },
+      {
         "id": "14f61e513518",
         "title": "chuong-10580-nuoc-len-thi-thuyen-len-truc-tiep-thang-cap",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/audio_doc-truyen-online_chap_12316_1777230582",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-04-26T19:10:23+00:00"
+      },
+      {
+        "id": "903ec91b2f85",
+        "title": "quyen-1-chuong-33-ngu-truc-so-mot",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_24089_1777230244",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-26T19:04:45+00:00"
+      },
+      {
+        "id": "c1dc265b8835",
+        "title": "chuong-188-hoi-han",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_23876_1777230130",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-26T19:02:52+00:00"
       },
       {
         "id": "3ecb7f1d4497",
@@ -43,6 +67,14 @@
         "published": "2026-04-26T18:57:34+00:00"
       },
       {
+        "id": "75fdc87ed052",
+        "title": "chuong-3420",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_20979_1777229465",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-26T18:51:54+00:00"
+      },
+      {
         "id": "a451ba3dddd7",
         "title": "chuong-29-lap-thanh-doi-quan-du-tru",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
@@ -51,36 +83,12 @@
         "published": "2026-04-26T18:46:55+00:00"
       },
       {
-        "id": "0aaa03bd0569",
-        "title": "chuong-8803-chang-le-ta-se-hai-nang-ta-sao",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_10638_1777228959",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-26T18:43:23+00:00"
-      },
-      {
-        "id": "a6e7a3031180",
-        "title": "chuong-10379-v-duong-nhien-la-co-y",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_12115_1777228382",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-26T18:33:40+00:00"
-      },
-      {
-        "id": "b619c66d1537",
-        "title": "JANACEK Glagolitische Messe",
-        "summary": "JANACEK  Glagolitische Messe Libuse Domaninská (Sopran) Vera Soukupová (Alt) Beno Blachut (Tenor) Eduard Haken (Baß) Tschechische Philharmonie Karel Ancerl.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metada...",
-        "url": "https://archive.org/details/cbgdtyg",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-26T18:15:48+00:00"
-      },
-      {
-        "id": "2234544d0feb",
-        "title": "chuong-38-chuong-38",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_16462_1777224556",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-26T17:30:00+00:00"
+        "id": "5cf15731f710",
+        "title": "信眾熱情簇擁鑽轎底　大甲媽祖凌晨回鑾安座",
+        "summary": "（中央社記者蘇木春台中27日電）台中大甲鎮瀾宮媽祖遶境活動原定昨天晚間11時回廟安座，但因沿途信眾簇擁，整個大甲鎮越晚越熱鬧，今天凌晨1時多才回到廟內安座，讓進香活動劃下句點。",
+        "url": "https://www.cna.com.tw/news/ahel/202604270009.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-26T18:43:32+00:00"
       },
       {
         "id": "8c4e1883e854",
@@ -153,14 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202604260129.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-26T08:43:17+00:00"
-      },
-      {
-        "id": "3ad847d133f4",
-        "title": "民航局：兩岸直航已開放28個航點",
-        "summary": "（中央社記者余曉涵台北26日電）民航局今天表示，至今兩岸直航已開放15個定期航班航點以及13個包機航班航點，在當前兩岸情勢及客觀環境下，迄今開放28個航點，幾乎涵蓋所有熱門及預估有經常性需求的航點。",
-        "url": "https://www.cna.com.tw/news/ahel/202604260125.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-26T08:35:08+00:00"
       },
       {
         "id": "47a207b02606",
@@ -2284,7 +2284,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-26T20:50:47.170202+00:00"
+        "published": "2026-04-26T21:49:56.151715+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2292,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-26T20:50:47.170195+00:00"
+        "published": "2026-04-26T21:49:56.151705+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2300,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-26T20:50:47.170187+00:00"
+        "published": "2026-04-26T21:49:56.151695+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2308,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-26T20:50:47.170179+00:00"
+        "published": "2026-04-26T21:49:56.151684+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2316,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-26T20:50:47.170171+00:00"
+        "published": "2026-04-26T21:49:56.151674+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2324,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-26T20:50:47.170163+00:00"
+        "published": "2026-04-26T21:49:56.151664+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2332,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-26T20:50:47.170156+00:00"
+        "published": "2026-04-26T21:49:56.151654+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2340,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-26T20:50:47.170149+00:00"
+        "published": "2026-04-26T21:49:56.151644+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2348,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-26T20:50:47.170141+00:00"
+        "published": "2026-04-26T21:49:56.151634+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2356,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-26T20:50:47.170133+00:00"
+        "published": "2026-04-26T21:49:56.151624+00:00"
       },
       {
         "id": "d870bf0e2804",
