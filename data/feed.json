@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-04-27T18:12:15.377212+00:00",
+  "updated_at": "2026-04-27T20:14:29.253380+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "3b356592b45e",
+        "title": "JANACEK Sämtliche Klavierwerke",
+        "summary": "JANACEK  Sämtliche Klavierwerke 1   Sonate \"1. X. 1905\" 2   Auf verwachsenem Pfade 3   Eine Erinnerung 4   Im Nebel Rudolf Firkusny (Klavier) (1989).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG...",
+        "url": "https://archive.org/details/nbcgdyh",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-27T16:48:39+00:00"
+      },
+      {
+        "id": "d2a206ce780f",
+        "title": "JANACEK Auf verwachsenem Pfade",
+        "summary": "JANACEK  Auf verwachsenem Pfade Leif Ove Andsnes (Klavier) (1991).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/vnhgf",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-27T16:36:12+00:00"
+      },
+      {
+        "id": "ec4621ec0ce6",
+        "title": "JANACEK Im Nebel",
+        "summary": "JANACEK  Im Nebel Leif Ove Andsnes (Klavier) (1991).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/fnghtd",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-27T16:23:27+00:00"
+      },
+      {
+        "id": "309ea01eef7e",
+        "title": "JANACEK Sonate \"1. X. 1905\"",
+        "summary": "JANACEK  Sonate \"1. X. 1905\" Leif Ove Andsnes (Klavier) (1991).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bngcxn",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-27T16:17:37+00:00"
+      },
       {
         "id": "ede488ed5b9b",
         "title": "JENKINS J. Late Consort Music",
@@ -75,44 +107,12 @@
         "published": "2026-04-27T13:30:59+00:00"
       },
       {
-        "id": "2e5eaa441915",
-        "title": "JOLIVET Klavierkonzert",
-        "summary": "JOLIVET  Klavierkonzert Lucette Descaves (Klavier) Orchestre Radio-Symphonique de Strasbourg Ernest Bour Strasbourg, 22. 1. 1968.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR M...",
-        "url": "https://archive.org/details/jhthsr",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-27T13:29:43+00:00"
-      },
-      {
         "id": "95e64b6ded96",
         "title": "美國花生零關稅　農業部：已做準備提升國產價值",
         "summary": "（中央社記者汪淑芬台北27日電）根據台美對等貿易協定（ART），美國花生將可零關稅進口，外界關心可能大舉入侵。農業部今晚表示，已做好準備，協助產業轉型，提升台灣花生附加價值。",
         "url": "https://www.cna.com.tw/news/ahel/202604270311.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-04-27T13:24:31+00:00"
-      },
-      {
-        "id": "d935c9d9143d",
-        "title": "JOLIVET Sinfonie Nr. 3",
-        "summary": "JOLIVET  Sinfonie Nr. 3 Orchestre National de France André Jolivet Paris, 19. 4. 1966.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/gbcydy",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-27T13:20:21+00:00"
-      },
-      {
-        "id": "b213f4b251a0",
-        "title": "BANDA 007 TELEPATIA ( Arrocha)",
-        "summary": "fd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/banda-007-telepatia-arrocha",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-27T13:02:58+00:00"
-      },
-      {
-        "id": "714417e0a315",
-        "title": "DJ ROBSON MAFRA LEMBREI DE TU",
-        "summary": "df.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/dj-robson-mafra-lembrei-de-tu",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-27T13:02:58+00:00"
       },
       {
         "id": "f1926836ed12",
@@ -347,6 +347,14 @@
         "published": "2026-04-05T22:56:28+00:00"
       },
       {
+        "id": "3dc0485c949d",
+        "title": "Ashley Maher’s Music of Hope and Beauty",
+        "summary": "In the midst of stressful times, why not take a break, relax, sip some tea, and listen to Tree to Tree.&#160; This is Ashley Maher’s&#8230;\nThe post Ashley Maher’s Music of Hope and Beauty first appeared on World Music Central.",
+        "url": "https://worldmusiccentral.org/ashley-mahers-music-of-hope-and-beauty/",
+        "source": "Interviews | World Music Central",
+        "published": "2026-04-04T08:06:00+00:00"
+      },
+      {
         "id": "b4ed3cad8213",
         "title": "TWMC April 2026 Chart",
         "summary": "1. Souad Massi · Zagate · BackingTrack Production [-] 2. Neba Solo &#38; Benego Diakité · A Djinn and a Hunter Went Walking · Nonesuch [1] 3. Canzoniere Grecanico Salentino · Il Mito · Ponderosa Music [2] 4. Altın Gün · Garip · Glitterbeat [4] 5. Constantinople: Kiya Tabassian, Ablaye Cissoko, Patri...",
@@ -451,86 +459,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -553,6 +481,14 @@
         "url": "https://www.transglobalwmc.com/charts/december-2025-chart/",
         "source": "Charts – Transglobal World Music Chart",
         "published": "2025-11-30T22:53:09+00:00"
+      },
+      {
+        "id": "fd36bb394930",
+        "title": "Be The Sky: Interview with Tibetan Artist Tenzin Choegyal",
+        "summary": "Australian-based Tibetan artist, Tenzin Choegyal has enjoyed many highlights across his decades-long career. The latest is a collaboration with his friend Philip Glass and a&#8230;\nThe post Be The Sky: Interview with Tibetan Artist Tenzin Choegyal first appeared on World Music Central.",
+        "url": "https://worldmusiccentral.org/be-the-sky-interview-with-tibetan-artist-tenzin-choegyal/",
+        "source": "Interviews | World Music Central",
+        "published": "2025-11-25T09:48:13+00:00"
       },
       {
         "id": "d2f8847b5f1b",
@@ -595,6 +531,14 @@
         "published": "2025-09-15T14:37:57+00:00"
       },
       {
+        "id": "ee496ca38b4b",
+        "title": "Kulin Ban: Between Sevdah, Rock, and the Eternal Flow of the Drina",
+        "summary": "Nearly twenty years after its inception, the project Kulin Ban continues to defy categorization. Founded by musician and writer Vladimir Savić, it began as a&#8230;\nThe post Kulin Ban: Between Sevdah, Rock, and the Eternal Flow of the Drina first appeared on World Music Central.",
+        "url": "https://worldmusiccentral.org/kulin-ban-between-sevdah-rock-and-the-eternal-flow-of-the-drina/",
+        "source": "Interviews | World Music Central",
+        "published": "2025-09-05T11:43:35+00:00"
+      },
+      {
         "id": "45e4767a2274",
         "title": "《新北市立鶯歌陶瓷博物館館刊》第12期",
         "summary": "發行人：張啟文 出版社：新北市立鶯歌陶瓷博物館 出版日期：2025年3月 GPN：4811400007 網址： [&#8230;]",
@@ -609,6 +553,14 @@
         "url": "https://www.transglobalwmc.com/charts/september-2025-chart/",
         "source": "Charts – Transglobal World Music Chart",
         "published": "2025-08-31T21:54:07+00:00"
+      },
+      {
+        "id": "14b9ca0997ce",
+        "title": "Interview with Borneo’s Sapé Player Alena Murang",
+        "summary": "(headline image: Alena-Murang &#8211; Photo by Yu Chung Chen) Nothing conjures the essence of Sarawak quite as eloquently as the sound of the sapé. The&#8230;\nThe post Interview with Borneo’s Sapé Player Alena Murang first appeared on World Music Central.",
+        "url": "https://worldmusiccentral.org/interview-with-borneos-sape-player-alena-murang/",
+        "source": "Interviews | World Music Central",
+        "published": "2025-08-27T09:02:13+00:00"
       },
       {
         "id": "6fcc451897b5",
@@ -667,12 +619,28 @@
         "published": "2025-02-27T04:10:00+00:00"
       },
       {
+        "id": "a136796607f4",
+        "title": "Dogo Du Togo and the Alagaa Beat Band Bring you to Togo!",
+        "summary": "From its start, the title track Avoudé is high energy and upbeat. You want to dance, but also to take time to listen. The sound&#8230;\nThe post Dogo Du Togo and the Alagaa Beat Band Bring you to Togo! first appeared on World Music Central.",
+        "url": "https://worldmusiccentral.org/dogo-du-togo-and-the-alagaa-beat-band-bring-you-to-togo/",
+        "source": "Interviews | World Music Central",
+        "published": "2025-02-26T12:01:15+00:00"
+      },
+      {
         "id": "9a35745cb4b9",
         "title": "新北市立十三行博物館：《遺址十三》【第三期】",
         "summary": "出版單位：新北市立十三行博物館 出版日期：2024年10月 ISSN：2958-0773 網址：https:/ [&#8230;]",
         "url": "https://www.tmaroc.org.tw/1140211/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-02-11T09:37:47+00:00"
+      },
+      {
+        "id": "d1e9cbf86c15",
+        "title": "Interview with Flamenco Guitarist José Almarcha",
+        "summary": "Spanish flamenco guitarist José Almarcha recently released an album titled Un Nuevo Paseo (a new walk). Notably, Almarcha seamlessly intertwines traditional flamenco roots with elegant&#8230;\nThe post Interview with Flamenco Guitarist José Almarcha first appeared on World Music Central.",
+        "url": "https://worldmusiccentral.org/interview-with-flamenco-guitarist-jose-almarcha/",
+        "source": "Interviews | World Music Central",
+        "published": "2025-01-06T12:10:33+00:00"
       },
       {
         "id": "58d1c9c633e7",
@@ -691,12 +659,44 @@
         "published": "2024-11-30T09:15:42+00:00"
       },
       {
+        "id": "b9f6d57043ff",
+        "title": "Interview with Rita Pina, PR Manager of Festival MED",
+        "summary": "In just a few days, Festival MED will return. This annual festival has become one of the hotspots for world music in Europe during the&#8230;\nThe post Interview with Rita Pina, PR Manager of Festival MED first appeared on World Music Central.",
+        "url": "https://worldmusiccentral.org/interview-with-rita-pina-pr-manager-of-festival-med/",
+        "source": "Interviews | World Music Central",
+        "published": "2024-06-12T21:52:38+00:00"
+      },
+      {
         "id": "946adec2f716",
         "title": "設計思考驅動未來想像 — Lucy Kimbell教授「未來設計工作坊」深入報導",
         "summary": "設計思考驅動未來想像 — Lucy Kimbell教授「未來設計工作坊」深入報導當代生活所遭遇的政治、數位、科技、氣候、能源等問題瞬息萬變，思考和預測組織、政府與社會如何適應這些不確定性是十分重要的。設計和未來思考方法能夠協助人們體驗、洞察潛在的未來，並將其具象化，提供新見解，這些見解可能很難由當權機構的專家，或是大規模的資料分析而來(1)。設計領域中的「未來思考(Futures Thinking)」(2)和「集體智慧(Collective Intelligence)」(3)可以作為思考的啟發工具，使人們能夠更深入地探索未來，彌補當下缺乏願景或有效解決方案的問題，使得大眾在面對高度模糊、複雜與...",
         "url": "https://tdritw.medium.com/%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83%E9%A9%85%E5%8B%95%E6%9C%AA%E4%BE%86%E6%83%B3%E5%83%8F-lucy-kimbell%E6%95%99%E6%8E%88-%E6%9C%AA%E4%BE%86%E8%A8%AD%E8%A8%88%E5%B7%A5%E4%BD%9C%E5%9D%8A-%E6%B7%B1%E5%85%A5%E5%A0%B1%E5%B0%8E-4878f8a71e12?source=rss-9e6fbf109c5b------2",
         "source": "Stories by 台灣設計研究院 on Medium",
         "published": "2024-03-26T02:20:43+00:00"
+      },
+      {
+        "id": "24561ea07a4c",
+        "title": "The First Interview with Cardamom Trio",
+        "summary": "Cardamom Trio is a new project consisting of Kaveh Sarvarian, a composer and musician of Iranian origin (ney, percussion, vocals); Hames Bitar, a Syrian oud&#8230;\nThe post The First Interview with Cardamom Trio first appeared on World Music Central.",
+        "url": "https://worldmusiccentral.org/the-first-interview-with-cardamom-trio/",
+        "source": "Interviews | World Music Central",
+        "published": "2024-03-16T14:59:55+00:00"
+      },
+      {
+        "id": "d3a585b90087",
+        "title": "A Chat with Ali Doğan Gönültaş",
+        "summary": "(headline image: Ali Dogan Gönültas performing live at Polirítmia, 2023 &#8211; Photo by María Carbonell) In May 2022, the first album of Ali Doğan Gönültaş&#8230;\nThe post A Chat with Ali Doğan Gönültaş first appeared on World Music Central.",
+        "url": "https://worldmusiccentral.org/a-chat-with-ali-dogan-gonultas/",
+        "source": "Interviews | World Music Central",
+        "published": "2024-03-15T11:00:02+00:00"
+      },
+      {
+        "id": "ecd9af81cd82",
+        "title": "Interview with Mostar Sevdah Reunion",
+        "summary": "(headline image: Dragi Sestic and Antonija Batinic &#8211; Courtesy of Snail Records) Mostar (Bosnia), 1993. In the midst of the Balkans War, at the age&#8230;\nThe post Interview with Mostar Sevdah Reunion first appeared on World Music Central.",
+        "url": "https://worldmusiccentral.org/interview-with-mostar-sevdah-reunion/",
+        "source": "Interviews | World Music Central",
+        "published": "2024-02-15T09:08:00+00:00"
       },
       {
         "id": "651de109ae7b",
@@ -805,6 +805,46 @@
     ],
     "破(day)": [
       {
+        "id": "e72409d5afac",
+        "title": "A browser-based disk image editor for Commodore 8-bit computers",
+        "summary": "CBM Disk Editor is a browser-based disk image editor for Commodore 8-bit computers. No installation required &#8211; runs entirely in the browser as a single HTML file with zero dependencies. An online, cross-platform alternative to desktop tools like DirMaster, CBMXfer and c64tools — works the same...",
+        "url": "https://blog.adafruit.com/2026/04/27/a-browser-based-disk-image-editor-for-commodore-8-bit-computers/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-27T20:07:34+00:00"
+      },
+      {
+        "id": "c08040f00c84",
+        "title": "Making printed circuit boards with wild clay",
+        "summary": "The feminist hacking site posts that it is an open secret that the hardware in our smart devices contains not only plastics but also conflict minerals such as tungsten, tin, tantalum, silver and gold. We are investigating alternative hardware from locally sourced materials, so-called ethical hardwar...",
+        "url": "https://blog.adafruit.com/2026/04/27/making-printed-circuit-boards-with-wild-clay/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-27T19:34:06+00:00"
+      },
+      {
+        "id": "54bce48aaaed",
+        "title": "Using flipdisc / flipdot displays",
+        "summary": "Flipdiscs (or flip dots) are a display type that utilizes electromagnetic pulses to flip a small disc between two colors. Despite being invented over 80 years ago, the underlying technology is mostly the same today. Kathy Korevec dives into these devices: I chose them because I wanted to design a la...",
+        "url": "https://blog.adafruit.com/2026/04/27/using-flipdisc-flipdot-displays/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-27T19:22:26+00:00"
+      },
+      {
+        "id": "240e1521d614",
+        "title": "5×5 and smaller pixel fonts for tiny screens",
+        "summary": "maurycyz.com looks at tiny fonts for small screens: All characters fit within a 5 pixel square, and are safe to draw on a 6&#215;6 grid. The design is based off of lcamtuf&#8217;s 5&#215;6 font-inline.h, which is itself inspired by the ZX Spectrum&#8217;s 8&#215;8 font. 5&#215;5 is the smallest size...",
+        "url": "https://blog.adafruit.com/2026/04/27/5x5-and-smaller-pixel-fonts-for-tiny-screens/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-27T18:47:38+00:00"
+      },
+      {
+        "id": "daa255220a31",
+        "title": "ESP32Synth v2.4.0 is an ultra-fast bare-metal synth engine for maximum polyphony",
+        "summary": "Danilo Gabriel&#8217;s ESP32Synth v2.4.0 is a high-performance, polyphonic audio synthesis library for the ESP32. It has been engineered for applications requiring extreme optimization, zero-latency audio, massive polyphony (up to 350+ voices), custom DSP hooks, and direct SD card audio streaming. W...",
+        "url": "https://blog.adafruit.com/2026/04/27/esp32synth-v2-4-0-is-an-ultra-fast-bare-metal-synth-engine-for-maximum-polyphony/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-27T18:33:04+00:00"
+      },
+      {
         "id": "19df9aa6a920",
         "title": "Learning something old every day: 8087 emulation on 8086 systems",
         "summary": "Michal Necasek had a recent opportunity to get reacquainted with the mechanism used for software emulation of the 8087 FPU on 8086/8088 machines. The 8086 CPU (1978) had a generic co-processor interface utilized by the Intel 8087 FPU (1980), initially called the Numeric Processor Extension or NPX. A...",
@@ -853,22 +893,6 @@
         "published": "2026-04-27T15:32:39+00:00"
       },
       {
-        "id": "846741effa5f",
-        "title": "Making the “Next-Level” camera",
-        "summary": "Niccolò Venerandi writes about maximum camera aperture and field of view. And how to make a camera that gives both. What if we want a giant aperture but with a wider field of view too? Well, we can&#8217;t. The bigger the lens is, the bigger the cone of light is too. But also: the wider [&#8230;]",
-        "url": "https://blog.adafruit.com/2026/04/27/making-the-next-level-camera/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-27T15:24:00+00:00"
-      },
-      {
-        "id": "6068fd67209f",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/04/27/the-python-on-microcontrollers-newsletter-subscribe-for-free-4-27/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-27T15:08:19+00:00"
-      },
-      {
         "id": "fc5e66370b4b",
         "title": "The Lost Boys review – 80s vampire musical lacks Broadway bite",
         "summary": "Palace Theatre, New YorkJoel Schumacher’s much-loved movie gets a splashy stage transfer which might be technically impressive but the songs never come to lifeBrand-dependent mega-musicals aren’t hitting Broadway any less often. But they might be getting a little more respectable. Maybe it helps tha...",
@@ -885,28 +909,12 @@
         "published": "2026-04-27T14:00:40+00:00"
       },
       {
-        "id": "12394ec44e40",
-        "title": "Zach Wally Recreates Tokyo DisneySea’s Tower of Terror Vanishing Illusion",
-        "summary": "Don&#8217;t miss this video from Zach Wally if you want to learn about the history of disappearing acts and how combining 19th century stage tricks with modern technology can lead to some very cool results. In the mood for a Disney inspired build of your own? Make NeoPixel LED Mickey Ears with NeoPi...",
-        "url": "https://blog.adafruit.com/2026/04/27/zach-wally-recreates-tokyo-disneyseas-tower-of-terror-vanishing-illusion/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-27T14:00:17+00:00"
-      },
-      {
         "id": "29488e13238b",
         "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
         "summary": "A web next to a laptop",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
         "source": "Google DeepMind",
         "published": "2026-04-27T13:00:00+00:00"
-      },
-      {
-        "id": "dbc2b18bdccd",
-        "title": "Amaze! Amaze! Speak with Rocky #piday #raspberrypi #ProjectHailMary",
-        "summary": "&#160; **Spoilers for Project Hail Mary*** I was surprised when the promotional material for Project Hail Mary heavily featured Rocky. I haven&#8217;t seen the film yet, but in the novel, the revelation of the alien companion is suspenseful and unexpected. Regardless, if you&#8217;re a fan of either...",
-        "url": "https://blog.adafruit.com/2026/04/27/amaze-amaze-speak-with-rocky-piday-raspberrypi-projecthailmary/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-27T12:11:57+00:00"
       },
       {
         "id": "4ab18889dfa1",
@@ -971,14 +979,6 @@
         "url": "https://www.theguardian.com/stage/2026/apr/27/harvey-fierstein-kinky-boots-cage-aux-folles-quilting-interview",
         "source": "Stage | The Guardian",
         "published": "2026-04-27T04:00:32+00:00"
-      },
-      {
-        "id": "3fca3395eb30",
-        "title": "Raspberry Pi Pico Mechanical Keyboard",
-        "summary": "taifur shares how they built their ClickPico, a customer mechanical keyboard based on a Raspberry Pi Pico.Check out their project on instructables. From the very beginning of my journey with computers, membrane keyboards were the only type of keyboard I had ever used. Over time, I noticed a common p...",
-        "url": "https://blog.adafruit.com/2026/04/26/raspberry-pi-pico-mechanical-keyboard/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-26T20:00:01+00:00"
       },
       {
         "id": "aef09644a2df",
@@ -2364,7 +2364,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-27T18:12:13.721253+00:00"
+        "published": "2026-04-27T20:14:27.942350+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2372,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-27T18:12:13.721242+00:00"
+        "published": "2026-04-27T20:14:27.942340+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2380,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-27T18:12:13.721232+00:00"
+        "published": "2026-04-27T20:14:27.942331+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2388,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-27T18:12:13.721222+00:00"
+        "published": "2026-04-27T20:14:27.942321+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2396,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-27T18:12:13.721211+00:00"
+        "published": "2026-04-27T20:14:27.942312+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2404,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-27T18:12:13.721201+00:00"
+        "published": "2026-04-27T20:14:27.942302+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2412,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-27T18:12:13.721191+00:00"
+        "published": "2026-04-27T20:14:27.942292+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2420,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-27T18:12:13.721180+00:00"
+        "published": "2026-04-27T20:14:27.942283+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2428,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-27T18:12:13.721170+00:00"
+        "published": "2026-04-27T20:14:27.942274+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2436,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-27T18:12:13.721160+00:00"
+        "published": "2026-04-27T20:14:27.942264+00:00"
       },
       {
         "id": "17877ddbf798",
