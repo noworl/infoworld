@@ -1,102 +1,166 @@
 {
-  "updated_at": "2026-04-30T11:47:44.669512+00:00",
+  "updated_at": "2026-04-30T14:17:49.960862+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "8f78b57da006",
-        "title": "chuong-1",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_27243_1777546227",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T10:51:14+00:00"
-      },
-      {
-        "id": "734e9d1a8f68",
-        "title": "chuong-9622-minh-thuy-tuyen-bi-giet-roi",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_11357_1777546062",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T10:48:25+00:00"
-      },
-      {
-        "id": "b01ca7f8bbe1",
-        "title": "chuong-4-chuong-4",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_1626_1777545940",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T10:46:24+00:00"
-      },
-      {
-        "id": "c7452547dbc7",
-        "title": "chuong-176",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_7893_1777545914",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T10:45:57+00:00"
-      },
-      {
-        "id": "ddcbe753c526",
-        "title": "chuong-72-phien-ngoai-2-ngay-vui",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_43076_1777545814",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T10:44:17+00:00"
-      },
-      {
-        "id": "93503ee93223",
-        "title": "chuong-1317-phien-toai-cua-dai-quang-minh-tu-2",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_75173_1777545624",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T10:41:03+00:00"
-      },
-      {
-        "id": "1472dba695ed",
-        "title": "chuong-9850-huyen-duong-thanh-hoa",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_11585_1777545494",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T10:38:58+00:00"
-      },
-      {
-        "id": "73a3871e3231",
-        "title": "chuong-1242-ba-nu-mot-ran-mot-nam-3",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_81815_1777545387",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T10:37:11+00:00"
-      },
-      {
-        "id": "c11d0263fb22",
-        "title": "chuong-1059-khi-than-bien-thanh-ma-quy-con-cuu-roi-ai",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_77314_1777545343",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T10:36:24+00:00"
-      },
-      {
-        "id": "6c7c130d6a96",
-        "title": "勞動節前夕幼教工會呼籲  研習應安排上班時間",
-        "summary": "（中央社記者陳至中台北30日電）明天是五一勞動節，全國幼教產業工會今天提出訴求，呼籲教保人員的研習活動，應優先安排於上班時間，避免在經歷一週緊湊的工作後，還要在本應休息的假日參加研習。",
-        "url": "https://www.cna.com.tw/news/ahel/202604300313.aspx",
+        "id": "8a9f0a429fc3",
+        "title": "今彩539第115106期　頭獎槓龜",
+        "summary": "（中央社台北30日電）今彩539第115106期開獎，中獎號碼15、31、30、06、27；派彩結果，頭獎槓龜。",
+        "url": "https://www.cna.com.tw/news/ahel/202604300394.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-30T10:36:03+00:00"
+        "published": "2026-04-30T14:05:01+00:00"
       },
       {
-        "id": "491da28120dc",
-        "title": "推動都市林  彭啓明：1人認養1棵樹、1公里1綠帶",
-        "summary": "（中央社記者汪淑芬台北30日電）環境部長彭啓明今天在「總統府氣候變遷對策委員會第7次會議」，報告「氣候調適綠蔭倍增計畫」有推動都市林目標，希望達到1個人在都市認養1棵樹、1社區1綠蔭、1公里1綠帶。",
-        "url": "https://www.cna.com.tw/news/ahel/202604300312.aspx",
+        "id": "acef7ea1418f",
+        "title": "威力彩第115035期　頭獎槓龜",
+        "summary": "（中央社台北30日電）威力彩第115035期今晚開獎，第一區中獎號碼為01、13、27、30、04、19，第二區中獎號碼為08號。派彩結果，頭獎、貳獎都槓龜。",
+        "url": "https://www.cna.com.tw/news/ahel/202604300393.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-30T10:35:00+00:00"
+        "published": "2026-04-30T14:03:59+00:00"
       },
       {
-        "id": "cea27a28997c",
-        "title": "chuong-722-chung-ta-cung-di-xe-giong-nhau",
+        "id": "ad469bd5ed15",
+        "title": "台電文創年度特展　退役電表化身餐具當主角",
+        "summary": "（中央社記者王寶兒台北30日電）將退役材料化為生活用品，台電文創將推出特展「60Hz STEREO/RETRO」，展出退役變電箱、日月潭底泥等過往再製成果，也展示將退役電表化為餐具的最新成品。",
+        "url": "https://www.cna.com.tw/news/acul/202604300391.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-30T13:59:55+00:00"
+      },
+      {
+        "id": "60cf9ac2c7fb",
+        "title": "威力彩第115035期開獎",
+        "summary": "（中央社台北30日電）威力彩第115035期今晚開獎，第一區中獎號碼為01、13、27、30、04、19，第二區中獎號碼為08。",
+        "url": "https://www.cna.com.tw/news/ahel/202604300364.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-30T12:52:52+00:00"
+      },
+      {
+        "id": "809609f4a025",
+        "title": "北美館「物質世界」展  商品到灰塵堆砌生活思辨",
+        "summary": "（中央社記者王寶兒台北30日電）從琳瑯滿目的商品到無所不在的灰塵，北美館明天起推出新展「物質世界」，自館內典藏品出發，探討物件、物質如何影響人們生活，走進展間入口如步入超市，以生活視角展開思辨。",
+        "url": "https://www.cna.com.tw/news/acul/202604300363.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-30T12:51:50+00:00"
+      },
+      {
+        "id": "1b3bfb99c6c1",
+        "title": "chuong-355",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_89512_1777545238",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_41344_1777553454",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T10:34:37+00:00"
+        "published": "2026-04-30T12:51:41+00:00"
+      },
+      {
+        "id": "661dcd339932",
+        "title": "chuong-608-do-loi",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_56867_1777553427",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T12:51:08+00:00"
+      },
+      {
+        "id": "0fd2a5a91177",
+        "title": "chuong-3112-vai-dan-minh-xui-xeo-vay-a",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_32140_1777553338",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T12:49:44+00:00"
+      },
+      {
+        "id": "d74bffb758d8",
+        "title": "chuong-939",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_18585_1777553214",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T12:47:39+00:00"
+      },
+      {
+        "id": "6edabd6b30e1",
+        "title": "chuong-91",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_26428_1777553201",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T12:47:24+00:00"
+      },
+      {
+        "id": "9144943bcf91",
+        "title": "chuong-149",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_64047_1777553106",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T12:45:46+00:00"
+      },
+      {
+        "id": "c18386828ce1",
+        "title": "今彩539第115106期開獎",
+        "summary": "（中央社台北30日電）今彩539第115106期開獎，中獎號碼15、31、30、06、27。3星彩中獎號碼596，4星彩中獎號碼0402。",
+        "url": "https://www.cna.com.tw/news/ahel/202604300360.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-30T12:44:44+00:00"
+      },
+      {
+        "id": "a48fdc144746",
+        "title": "chuong-10-lat-mem-buoc-chat",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_26178_1777552962",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T12:43:23+00:00"
+      },
+      {
+        "id": "cbc54387c4e3",
+        "title": "chuong-175-thi-truong-chung-khoan",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_57879_1777552900",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T12:42:24+00:00"
+      },
+      {
+        "id": "f9536df9d5db",
+        "title": "chuong-62-den-kinh",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_69607_1777552735",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T12:39:38+00:00"
+      },
+      {
+        "id": "98dc0895ba87",
+        "title": "chuong-3540",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_21099_1777552653",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T12:38:19+00:00"
+      },
+      {
+        "id": "aa209646bf6a",
+        "title": "「看．見沈清」保留韓傳統  展戲曲與科技藝術交融",
+        "summary": "（中央社記者趙靜瑜台北30日電）2026台灣戲曲藝術節重頭戲韓國戲劇「看．見沈清」舉行彩排記者會，現場保留傳統盤索里的歌者與鼓者演出，結合LED影像感應歌唱，展現戲曲與科技藝術的自然交融。",
+        "url": "https://www.cna.com.tw/news/acul/202604300352.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-30T12:11:26+00:00"
+      },
+      {
+        "id": "a770a954ed84",
+        "title": "作家梁莉姿前進美國世界之聲文藝節　見證壓迫與反抗",
+        "summary": "（中央社記者邱祖胤台北30日電）自香港移民台灣的作家梁莉姿，受邀赴紐約參與第21屆「美國筆會世界之聲文藝節」，並將與哈金及多位國際作家同台，透過文學對話，探討專制壓迫下的抵抗與見證。",
+        "url": "https://www.cna.com.tw/news/acul/202604300351.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-30T12:11:24+00:00"
+      },
+      {
+        "id": "4df306ad003c",
+        "title": "魯賓執導「不過就是世界末日」 呈現斷裂家庭關係",
+        "summary": "（中央社記者趙靜瑜台北30日電）睽違7年，德國劇場重量級導演魯賓將帶來代表作之一「不過就是世界末日」，透過舞台帶領觀眾叩問關於家庭、記憶與斷裂的關係。",
+        "url": "https://www.cna.com.tw/news/acul/202604300341.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-30T11:48:03+00:00"
+      },
+      {
+        "id": "bd278ba906e9",
+        "title": "勞動節連假首日　高公局估國道10路段壅塞",
+        "summary": "（中央社記者余曉涵台北30日電）勞動節連假明天展開，高公局預估，明天國道壅塞路段包括國1南向高架機場系統-楊梅端等10路段。",
+        "url": "https://www.cna.com.tw/news/ahel/202604300339.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-04-30T11:39:58+00:00"
       },
       {
         "id": "1a7aba54dcf4",
@@ -107,76 +171,12 @@
         "published": "2026-04-30T10:25:55+00:00"
       },
       {
-        "id": "ff4d5e919d95",
-        "title": "台中賣場邀導演李崗談飲食文化　分享家宴料理記憶",
-        "summary": "（中央社記者蘇木春台中30日電）台中一家賣場後天將邀請導演李崗，分享成長記憶中的家常料理，並於現場示範兩道經典家宴菜色。業者表示，期盼讓民眾從味覺中感受傳統飲食文化的魅力。",
-        "url": "https://www.cna.com.tw/news/ahel/202604300302.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-30T10:01:39+00:00"
-      },
-      {
-        "id": "f1dbab281428",
-        "title": "海外留遊學契約查核結果公告　7業者未依規定上傳",
-        "summary": "（中央社記者陳至中台北30日電）教育部今天公告海外留遊學契約查核結果，今年共查核193家業者，其中有7家未依規定上傳，資訊已公告於「海外留遊學資訊萬花筒」網站，提醒學子選擇合規的業者。",
-        "url": "https://www.cna.com.tw/news/ahel/202604300292.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-30T09:47:18+00:00"
-      },
-      {
-        "id": "b760110a3f86",
-        "title": "護理團體批三班護病比入法延宕 5/5赴衛福部抗議",
-        "summary": "（中央社記者沈佩瑤台北30日電）三班護病比去向成焦點，衛福部拋修訂醫療機構設置標準規劃，但護理師團體不滿質疑時程延宕，揚言5月5日到衛福部前抗議，要求政府在5月20日前讓三班護病比實質入法。",
-        "url": "https://www.cna.com.tw/news/ahel/202604300286.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-30T09:34:05+00:00"
-      },
-      {
-        "id": "e40cc62f533d",
-        "title": "晚間起水氣減少　5/3前天氣穩定各地多雲到晴",
-        "summary": "（中央社記者余曉涵台北30日電）中央氣象署表示，晚間起水氣減少，明天起到5月3日白天天氣穩定，各地多雲到晴為主，5月4日鋒面及東北季風增強，各地都有下雨的狀況。",
-        "url": "https://www.cna.com.tw/news/ahel/202604300275.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-30T09:14:39+00:00"
-      },
-      {
-        "id": "a1abe956f2dd",
-        "title": "衛福部5月新制　健保擴大給付估患者年省216萬",
-        "summary": "（中央社記者陳婕翎台北30日電）衛福部今天公布5月新制，健保擴大給付7項藥品，其中4項是癌症用藥，每名病人每年最高可省新台幣216萬元，還有符合特定條件用於治療肺動脈高血壓、乾癬、黃斑部水腫等藥品。",
-        "url": "https://www.cna.com.tw/news/ahel/202604300272.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-30T09:08:33+00:00"
-      },
-      {
-        "id": "6e2cde7047c4",
-        "title": "台大分發入學3系採計數學有變　僅人類系未參採",
-        "summary": "（中央社記者陳至中台北30日電）大學招聯會今天開放117學年度3大招生管道參採數學考科查詢系統，台灣大學在「分發入學」管道，有3系採計數學方式有變，且全校僅人類系未參採，其餘各系都有採計數學考科。",
-        "url": "https://www.cna.com.tw/news/ahel/202604300254.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-30T08:55:55+00:00"
-      },
-      {
         "id": "4512a0140edb",
         "title": "國立中正紀念堂管理處：2026/5/10-5/12 【臺北市立大學視覺藝術學系115級畢業展 示藝圖 Signal to art】",
         "summary": "主辦單位臺北市立大學視覺藝術學系115級表示，畢業班同學們將四年來的學習、觀察與情感轉化為一段段獨特的「訊號」 [&#8230;]",
         "url": "https://www.tmaroc.org.tw/1150430-3/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-04-30T08:40:17+00:00"
-      },
-      {
-        "id": "0aa81d823897",
-        "title": "星宇航空攜手百年老店  機上餐食多元體驗",
-        "summary": "（中央社記者余曉涵台北30日電）星宇航空今天宣布，今年第二季機上餐點與百年老店「度小月」及日式燒肉丼品牌「開丼 燒肉vs丼飯」展開全新合作，旅客即日起可以在空中吃到知名的度小月料理。",
-        "url": "https://www.cna.com.tw/news/ahel/202604300243.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-30T08:39:32+00:00"
-      },
-      {
-        "id": "afc16b570c57",
-        "title": "民團護橋頭糖廠森林　籲納入國家級都市林計畫",
-        "summary": "（中央社記者汪淑芬台北30日電）多個民間團體今天到總統府前陳情，呼籲將180公頃的橋頭糖廠螢火蟲森林納入「國家級都市林計畫」保留，停止新市鎮開發。",
-        "url": "https://www.cna.com.tw/news/ahel/202604300242.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-04-30T08:38:30+00:00"
       },
       {
         "id": "113529e83e65",
@@ -449,6 +449,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "6aedf035e9be",
@@ -725,6 +805,86 @@
     ],
     "破(day)": [
       {
+        "id": "0a99fad0298f",
+        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
+        "url": "https://blog.adafruit.com/2026/04/30/the-python-on-microcontrollers-newsletter-subscribe-for-free-4-30-2/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-30T14:08:32+00:00"
+      },
+      {
+        "id": "7d1ddc711615",
+        "title": "Happy 13th Birthday MicroPython",
+        "summary": "Thirteen years ago, Damien George launched a Kickstarter for a strange little board called the PyBoard, with an even stranger idea — to run a full Python interpreter on a tiny microcontroller. People backed it. The board shipped. And from those modest beginnings grew MicroPython — the language that ...",
+        "url": "https://blog.adafruit.com/2026/04/30/happy-13th-birthday-micropython/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-30T14:06:43+00:00"
+      },
+      {
+        "id": "ef437a8a689f",
+        "title": "NASA Rise Plushie #3DPrinting #3DThursday",
+        "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: NASA Rise Plushie By 3DCraftWorld https://makerworld.com/en/models/2635680-nasa-rise-plushie-multicolor-print-artemis2zgi Bambu X1C PolyMaker PLA 5hr 36mins X:100...",
+        "url": "https://blog.adafruit.com/2026/04/30/nasa-rise-plushie-3dprinting-3dthursday-2/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-30T13:00:33+00:00"
+      },
+      {
+        "id": "ac4013479acb",
+        "title": "Mass review – forgiveness doesn’t come easily in masterly school-shooter drama",
+        "summary": "Donmar Warehouse, LondonTwo couples, both of whom have lost sons, meet in Fran Kranz’s unflinching look at restorative justiceFran Kranz’s 2021 film Mass, featuring two sets of parents whose sons have died in a high-school massacre, was originally written as a play. Restored as such, in Carrie Crack...",
+        "url": "https://www.theguardian.com/stage/2026/apr/30/mass-review-donmar-warehouse-london",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-30T12:46:54+00:00"
+      },
+      {
+        "id": "aa209646bf6a",
+        "title": "「看．見沈清」保留韓傳統  展戲曲與科技藝術交融",
+        "summary": "（中央社記者趙靜瑜台北30日電）2026台灣戲曲藝術節重頭戲韓國戲劇「看．見沈清」舉行彩排記者會，現場保留傳統盤索里的歌者與鼓者演出，結合LED影像感應歌唱，展現戲曲與科技藝術的自然交融。",
+        "url": "https://www.cna.com.tw/news/acul/202604300352.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-30T12:11:26+00:00"
+      },
+      {
+        "id": "a770a954ed84",
+        "title": "作家梁莉姿前進美國世界之聲文藝節　見證壓迫與反抗",
+        "summary": "（中央社記者邱祖胤台北30日電）自香港移民台灣的作家梁莉姿，受邀赴紐約參與第21屆「美國筆會世界之聲文藝節」，並將與哈金及多位國際作家同台，透過文學對話，探討專制壓迫下的抵抗與見證。",
+        "url": "https://www.cna.com.tw/news/acul/202604300351.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-30T12:11:24+00:00"
+      },
+      {
+        "id": "b5e0cc06a3c6",
+        "title": "Unnatural Harmony: Sounds of Lee Alexander McQueen review – MOR tribute to a fashion maverick",
+        "summary": "Royal Festival Hall, LondonFeaturing music that inspired the designer, this show brings together Le Gateau Chocolat, dancers in body stockings and a formal orchestra to mild effectThe small print tells us this show has no connection to the fashion house of McQueen, nor does it feature any of Alexand...",
+        "url": "https://www.theguardian.com/stage/2026/apr/30/unnatural-harmony-sounds-of-lee-alexander-mcqueen-review-royal-festival-hall-london",
+        "source": "Stage | The Guardian",
+        "published": "2026-04-30T12:03:58+00:00"
+      },
+      {
+        "id": "1c5cd052f579",
+        "title": "Coil Over Desk Light (Automotive Suspension Lamp) #3DPrinting #3DThursday",
+        "summary": "KristenForge shares: Coil Over Desk Light – Automotive Collection We’ve put together another one for the car lovers out there — the Coil Over Desk Light. Inspired by real suspension coilovers, this lamp adds a clean, modern touch to any desk, shelf, or side table. A wall-mount version is also includ...",
+        "url": "https://blog.adafruit.com/2026/04/30/coil-over-desk-light-automotive-suspension-lamp-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-30T12:00:37+00:00"
+      },
+      {
+        "id": "21a40e70f484",
+        "title": "Could Underwater Autonomous Robots Save Coral Reefs?",
+        "summary": "Reef restoration is a slow process, with divers planting coral fragments one at a time by hand. But roboticists are now developing automated planters that could change the game",
+        "url": "https://www.smithsonianmag.com/innovation/could-underwater-autonomous-robots-save-coral-reefs-180988626/",
+        "source": "Innovation | smithsonianmag.com",
+        "published": "2026-04-30T12:00:00+00:00"
+      },
+      {
+        "id": "4df306ad003c",
+        "title": "魯賓執導「不過就是世界末日」 呈現斷裂家庭關係",
+        "summary": "（中央社記者趙靜瑜台北30日電）睽違7年，德國劇場重量級導演魯賓將帶來代表作之一「不過就是世界末日」，透過舞台帶領觀眾叩問關於家庭、記憶與斷裂的關係。",
+        "url": "https://www.cna.com.tw/news/acul/202604300341.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-04-30T11:48:03+00:00"
+      },
+      {
         "id": "06cb7d3df61a",
         "title": "Voronoi ‘Poops’ Lamp (Upcycle Filament Waste) #3DPrinting #3DThursday",
         "summary": "MalmoToy shares: Tired of throwing away your 3D printing waste? This modern, Voronoi-inspired lamp is specifically designed to turn your filament purges (poops) into a unique, colorful light diffuser. The sleek, organic outer shell provides a sophisticated look, while the interior acts as a &#8220;c...",
@@ -829,22 +989,6 @@
         "published": "2026-04-30T06:00:53+00:00"
       },
       {
-        "id": "1e535a312e15",
-        "title": "From the mail bag…",
-        "summary": "From the mail bag! Hello &#8211; I came to your site to buy an Adafruit OV5640 Camera Breakout &#8211; 160 for a project I am working on. I poked around a little and caught a couple of your videos and I just wanted to say you are inspiring on so many levels &#8211; thank you! [&#8230;]",
-        "url": "https://blog.adafruit.com/2026/04/30/from-the-mail-bag-787/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-30T05:30:45+00:00"
-      },
-      {
-        "id": "bf8bb6bef869",
-        "title": "Sleek Case for Adafruit MacroPad RP2040 #3DPrinting #3DThursday",
-        "summary": "MStefan99_327078 shares: A sleek and modern case to make your Adafruit macropad look professional download the files on: https://www.printables.com/model/1695194-adafruit-macropad-case Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for making...",
-        "url": "https://blog.adafruit.com/2026/04/30/sleek-case-for-adafruit-macropad-rp2040-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-30T05:00:15+00:00"
-      },
-      {
         "id": "147fa44ec1d2",
         "title": "It once hosted Eric and Ernie and a boxing kangaroo – now it’s all pigeons and decay. How did Hulme Hippodrome fall so low?",
         "summary": "It showcased the biggest stars of the day, including Stan Laurel, Harry Houdini, Morecambe and Wise and Shirley Bassey, before becoming a bingo hall, a church and a squat. It was almost turned into flats. What next for Manchester’s forgotten music hall?It doesn’t look like much from the outside. An ...",
@@ -925,22 +1069,6 @@
         "published": "2026-04-30T00:44:45+00:00"
       },
       {
-        "id": "78cbff4f64bc",
-        "title": "Glitch Image Generator",
-        "summary": "&#160; Software Engineer &#38; Visual Artist Adam Fuhrer made this fun tool for glitchifying an image. Quickly add that distorted or cyberpunk feel to any image. a generative tool which allows you to create and save unique glitchy images Try it for yourself and check it out on GitHub For some bonus ...",
-        "url": "https://blog.adafruit.com/2026/04/29/glitch-image-generator/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-30T00:00:58+00:00"
-      },
-      {
-        "id": "d7086972159f",
-        "title": "LIVE NOW! SHOW and TELL 4/29/2026 with @blitzcitydiy #ShowandTell @adafruit",
-        "summary": "The biggest and longest running worldwide online Show and Tell LIVE! Right now! 4/29/2026 at 7:30pm Eastern. – video. Hosted this week by Liz Clark",
-        "url": "https://blog.adafruit.com/2026/04/29/live-now-show-and-tell-4-29-2026-with-blitzcitydiy-showandtell-adafruit/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-29T23:30:44+00:00"
-      },
-      {
         "id": "5a9ff3c313c2",
         "title": "Driftwood review – emotions dialled up to 11 in Trinidadian tale of longing",
         "summary": "The Other Place, Stratford-upon-AvonA 1950s Port of Spain setting simmers with political change and family tension in Martina Laird’s debut playThe air hangs heavy in Alma, a drinking club in 1950s Port of Spain, Trinidad. Heat and rum bring their own kind of languor – but in Martina Laird’s play, c...",
@@ -954,6 +1082,14 @@
         "summary": "台灣《人工生殖法》正迎向大幅修法，包括納入身世／血緣知悉權。日本近年類似修法的主要爭點，包括有限的身世告知資訊與揭露方式、由政府集中管理捐贈者資訊，以及考量「親子關係認定」而限定法律婚夫妻使用，引發民團抗議，最終撤案。這能給我國立法者哪些啟發？",
         "url": "https://www.twreporter.org/a/column-gender-trouble-2026-04-30",
         "source": "報導者",
+        "published": "2026-04-29T16:00:00+00:00"
+      },
+      {
+        "id": "b1c2be123a81",
+        "title": "英国威雅公学关闭一所中国分校",
+        "summary": "南京威雅学校的关停标志着，寻求在中国扩张的国际学校集团遭遇挫折。中国家长和学生越来越倾向于选择本国教育机构。",
+        "url": "https://www.ftchinese.com/story/001109608",
+        "source": "FTChinese RSS - News",
         "published": "2026-04-29T16:00:00+00:00"
       },
       {
@@ -1005,14 +1141,6 @@
         "published": "2026-04-29T15:29:56+00:00"
       },
       {
-        "id": "e0991acda8c8",
-        "title": "台北戲劇獎入圍名單揭曉  吳靜吉獲特別貢獻獎",
-        "summary": "（中央社記者趙靜瑜台北29日電）第2屆「台北戲劇獎」今天公布入圍名單，選出30件入圍作品，包括22齣戲劇、8齣音樂劇共70項提名；特別貢獻獎則頒給對台灣劇場與藝術教育影響深遠的吳靜吉博士。",
-        "url": "https://www.cna.com.tw/news/acul/202604290312.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-29T11:19:09+00:00"
-      },
-      {
         "id": "8082c133cb5f",
         "title": "漫射計畫》讓漫畫成為「夠好的工作」：專訪MOJOIN資深漫畫編輯侯名晏",
         "summary": "侯名晏的編輯工作現場。圖片提供／侯名晏\n\n\n2024年，橘子集團將旗下兩個數位內容品牌「漫畫星」與「文學星」合併，更名為MOJOIN，定位為推動臺灣原創IP與跨域改編的重要網路漫畫平臺，並與漫畫家攜手推出多部知名作品，頗具代表性的，例如延伸自電影的《關於我和鬼變成家人的那件事：在我變成鬼之前》、與遊戲公司「赤燭」合作的《九日－李耳傳：序》、漫畫家謝東霖的《妖怪五星好評》，以及與霹靂布袋戲合作的《肥羊重生後：無慾．無敵》等。其中後兩部作品，就是資深編輯侯名晏的編輯手筆。\n支撐這些作品運轉的編輯臺，其實規模並不龐大──目前MOJOIN的漫畫編輯僅有4位。在以商業成功為前提的平臺策略下，MOJOIN...",
@@ -1037,44 +1165,12 @@
         "published": "2026-04-29T10:42:58+00:00"
       },
       {
-        "id": "d8b0b1751ae2",
-        "title": "慶紐文中心35週年  推台灣上奅展現多元文化",
-        "summary": "（中央社記者趙靜瑜台北29日電）慶祝駐紐約辦事處台北文化中心成立35週年，文化部推出「Taiwan POP台灣上奅—曼哈頓台灣文化黑潮」計畫，文化部長李遠表示，期盼讓更多的美國人看見台灣文化的多元。",
-        "url": "https://www.cna.com.tw/news/acul/202604290286.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-29T10:26:13+00:00"
-      },
-      {
         "id": "6aa84eaa24c9",
         "title": "Stand & Deliver: The Lee Jeans Sit-In review – galvanising story of landmark factory occupation",
         "summary": "Tron theatre, Glasgow Frances Poet’s music-driven drama reconstructs the Greenock dispute that saw 240 workers square up to bosses It was the early days of the Thatcher project. At the start of 1981, the free-market chill was about to lay waste to the Linwood car plant, Bobby Sands was beginning his...",
         "url": "https://www.theguardian.com/stage/2026/apr/29/stand-deliver-the-lee-jeans-sit-in-review-tron-theatre-glasgow",
         "source": "Stage | The Guardian",
         "published": "2026-04-29T10:25:18+00:00"
-      },
-      {
-        "id": "39c964a69cc2",
-        "title": "A peace process thriller, the DUP opera and countless cuppas: Belfast’s Lyric theatre at 75",
-        "summary": "What began as a tiny space above the founder’s stables became the beating heart of the city’s performing arts. Its leader Jimmy Fay reflects on recent hits and reveals what audiences can expect from the theatre’s anniversary year‘The Lyric gives voice to everyone in Northern Ireland,” says the theat...",
-        "url": "https://www.theguardian.com/stage/2026/apr/29/northern-ireland-75-years-of-belfast-lyric-theatre-jimmy-fay",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-29T10:05:17+00:00"
-      },
-      {
-        "id": "03d1d6fc86df",
-        "title": "藉書法致力推動台日交流　張炳煌獲日本敘勛",
-        "summary": "（中央社東京29日綜合外電報導）日本今天公布今年「春季敘勳」（敘勛）的獲勛者名單。日本台灣交流協會表示，台灣書法家張炳煌因為長年透過書法致力推動台日交流，貢獻卓著，成為「旭日小綬章」的獲勛者。",
-        "url": "https://www.cna.com.tw/news/acul/202604290246.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-04-29T09:06:44+00:00"
-      },
-      {
-        "id": "1bbf91e42643",
-        "title": "Keira Knightley returns to West End in adaptation of Oscar winner The Lives of Others",
-        "summary": "Stephen Dillane and Bridgerton’s Luke Thompson set to co-star in Robert Icke’s production based on the German film this autumnKeira Knightley will return to the West End stage for the first time in 15 years in an adaptation of the Oscar-winning German film The Lives of Others.The play, adapted and d...",
-        "url": "https://www.theguardian.com/stage/2026/apr/29/keira-knightley-returns-to-west-end-the-lives-of-others-stephen-dillane-luke-thompson-adelphi-theatre-robert-icke",
-        "source": "Stage | The Guardian",
-        "published": "2026-04-29T08:00:49+00:00"
       },
       {
         "id": "a2312ab1509c",
@@ -1361,14 +1457,6 @@
         "title": "中国叫停Meta对人工智能公司Manus的收购交易",
         "summary": "在中美博弈新兴技术主导权的背景下，中国监管机构在调查Meta以20亿美元收购Manus的交易是否违反投资规定后，表示已要求当事人撤销该收购。",
         "url": "https://www.ftchinese.com/story/001109573",
-        "source": "FTChinese RSS - News",
-        "published": "2026-04-26T16:00:00+00:00"
-      },
-      {
-        "id": "a68bec56d6c0",
-        "title": "英国承认严重低估AI数据中心碳排放",
-        "summary": "英国政府承认，人工智能数据中心对气候的破坏程度可能比之前估计的高出逾100倍。",
-        "url": "https://www.ftchinese.com/story/001109564",
         "source": "FTChinese RSS - News",
         "published": "2026-04-26T16:00:00+00:00"
       },
@@ -2292,7 +2380,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T11:47:43.672516+00:00"
+        "published": "2026-04-30T14:17:48.068291+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2388,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T11:47:43.672506+00:00"
+        "published": "2026-04-30T14:17:48.068281+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2308,7 +2396,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T11:47:43.672496+00:00"
+        "published": "2026-04-30T14:17:48.068271+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2316,7 +2404,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T11:47:43.672487+00:00"
+        "published": "2026-04-30T14:17:48.068261+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2412,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T11:47:43.672477+00:00"
+        "published": "2026-04-30T14:17:48.068251+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2420,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T11:47:43.672466+00:00"
+        "published": "2026-04-30T14:17:48.068242+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2428,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T11:47:43.672456+00:00"
+        "published": "2026-04-30T14:17:48.068231+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2436,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T11:47:43.672446+00:00"
+        "published": "2026-04-30T14:17:48.068221+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2444,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T11:47:43.672436+00:00"
+        "published": "2026-04-30T14:17:48.068212+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2452,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T11:47:43.672427+00:00"
+        "published": "2026-04-30T14:17:48.068202+00:00"
       },
       {
         "id": "20ea57f6b4fd",
