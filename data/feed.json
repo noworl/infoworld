@@ -1,7 +1,87 @@
 {
-  "updated_at": "2026-04-30T20:14:20.038425+00:00",
+  "updated_at": "2026-04-30T22:02:45.502828+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "e2728223cfc0",
+        "title": "chuong-1064-sao-lai-nhu-the-duoc",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_29927_1777581585",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T20:40:31+00:00"
+      },
+      {
+        "id": "b902f73b2a12",
+        "title": "chuong-2105",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_83919_1777581467",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T20:38:35+00:00"
+      },
+      {
+        "id": "6f370ccd1027",
+        "title": "chuong-330-qua-nhien-khong-ho",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_63836_1777581438",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T20:38:05+00:00"
+      },
+      {
+        "id": "fe1b34290a62",
+        "title": "chuong-326",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_66785_1777581283",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T20:35:30+00:00"
+      },
+      {
+        "id": "971986ce9a3c",
+        "title": "chuong-562",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_38827_1777581266",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T20:35:10+00:00"
+      },
+      {
+        "id": "84df10267b8b",
+        "title": "chuong-19",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_42016_1777580972",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T20:30:27+00:00"
+      },
+      {
+        "id": "0c0ba7b16608",
+        "title": "chuong-414",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_66873_1777580912",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T20:29:15+00:00"
+      },
+      {
+        "id": "0c70197bfa35",
+        "title": "chuong-153-sat-than-dai-thanh-1",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_42854_1777580840",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T20:28:12+00:00"
+      },
+      {
+        "id": "4b11ea6c8422",
+        "title": "chuong-173",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_53179_1777580698",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T20:25:44+00:00"
+      },
+      {
+        "id": "75e10f8ffef8",
+        "title": "chuong-9",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_54300_1777580556",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-04-30T20:23:22+00:00"
+      },
       {
         "id": "c3a4157f92c1",
         "title": "TWMC May 2026 Chart",
@@ -9,86 +89,6 @@
         "url": "https://www.transglobalwmc.com/charts/twmc-may-2026-chart/",
         "source": "Charts – Transglobal World Music Chart",
         "published": "2026-04-30T19:49:37+00:00"
-      },
-      {
-        "id": "2aaeaabc2477",
-        "title": "chuong-33",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_75446_1777574956",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T18:50:13+00:00"
-      },
-      {
-        "id": "82d7c4572cff",
-        "title": "chuong-8-chuong-8-hoan",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_45748_1777574646",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T18:44:49+00:00"
-      },
-      {
-        "id": "b6cb0f31a723",
-        "title": "chuong-97",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_6456_1777574572",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T18:43:35+00:00"
-      },
-      {
-        "id": "fcd3227af20e",
-        "title": "chuong-284-ngoa-ho-tang-long",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_66127_1777574513",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T18:42:35+00:00"
-      },
-      {
-        "id": "331cf5dbb634",
-        "title": "chuong-1135-anh-hung-thien-co-4",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_81708_1777574388",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T18:40:32+00:00"
-      },
-      {
-        "id": "32c606c0922e",
-        "title": "chuong-40",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_27283_1777574378",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T18:40:21+00:00"
-      },
-      {
-        "id": "c17204e819e7",
-        "title": "chuong-42",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_58540_1777574086",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T18:35:32+00:00"
-      },
-      {
-        "id": "926e45fbc9a4",
-        "title": "chuong-3816-thich-lam-gi-thi-lam",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_21374_1777574087",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T18:35:29+00:00"
-      },
-      {
-        "id": "a12a19112521",
-        "title": "chuong-87-ngoai-truyen-3-thang-nhoc-pha-hoai",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_28009_1777573921",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T18:32:43+00:00"
-      },
-      {
-        "id": "9a1e50b36de9",
-        "title": "chuong-155",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_58162_1777573896",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-04-30T18:32:35+00:00"
       },
       {
         "id": "2ab57e1450a2",
@@ -355,14 +355,6 @@
         "published": "2026-04-09T15:16:00+00:00"
       },
       {
-        "id": "3dc0485c949d",
-        "title": "Ashley Maher’s Music of Hope and Beauty",
-        "summary": "In the midst of stressful times, why not take a break, relax, sip some tea, and listen to Tree to Tree.&#160; This is Ashley Maher’s&#8230;\nThe post Ashley Maher’s Music of Hope and Beauty first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/ashley-mahers-music-of-hope-and-beauty/",
-        "source": "Interviews | World Music Central",
-        "published": "2026-04-04T08:06:00+00:00"
-      },
-      {
         "id": "b4ed3cad8213",
         "title": "TWMC April 2026 Chart",
         "summary": "1. Souad Massi · Zagate · BackingTrack Production [-] 2. Neba Solo &#38; Benego Diakité · A Djinn and a Hunter Went Walking · Nonesuch [1] 3. Canzoniere Grecanico Salentino · Il Mito · Ponderosa Music [2] 4. Altın Gün · Garip · Glitterbeat [4] 5. Constantinople: Kiya Tabassian, Ablaye Cissoko, Patri...",
@@ -491,14 +483,6 @@
         "published": "2025-11-30T22:53:09+00:00"
       },
       {
-        "id": "fd36bb394930",
-        "title": "Be The Sky: Interview with Tibetan Artist Tenzin Choegyal",
-        "summary": "Australian-based Tibetan artist, Tenzin Choegyal has enjoyed many highlights across his decades-long career. The latest is a collaboration with his friend Philip Glass and a&#8230;\nThe post Be The Sky: Interview with Tibetan Artist Tenzin Choegyal first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/be-the-sky-interview-with-tibetan-artist-tenzin-choegyal/",
-        "source": "Interviews | World Music Central",
-        "published": "2025-11-25T09:48:13+00:00"
-      },
-      {
         "id": "d2f8847b5f1b",
         "title": "ALGERIA – Rythmes et Chants du Sahara Central (Hoggar) – Les Disques ICEM-CEL",
         "summary": "ALGERIA –&nbsp;ALGÉRIERythmes et Chants du Sahara Central (Hoggar) –&nbsp;Les Disques ICEM-CEL – Documents Sonores de la BT nº3, released in 1972, recorded by Pierre Augier&nbsp;(Vinyl 7 inch, 33 RPM)With an area of 2.4 million square kilometers, Algeria is the largest country in Africa. Over 80% pe...",
@@ -539,14 +523,6 @@
         "published": "2025-09-15T14:37:57+00:00"
       },
       {
-        "id": "ee496ca38b4b",
-        "title": "Kulin Ban: Between Sevdah, Rock, and the Eternal Flow of the Drina",
-        "summary": "Nearly twenty years after its inception, the project Kulin Ban continues to defy categorization. Founded by musician and writer Vladimir Savić, it began as a&#8230;\nThe post Kulin Ban: Between Sevdah, Rock, and the Eternal Flow of the Drina first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/kulin-ban-between-sevdah-rock-and-the-eternal-flow-of-the-drina/",
-        "source": "Interviews | World Music Central",
-        "published": "2025-09-05T11:43:35+00:00"
-      },
-      {
         "id": "45e4767a2274",
         "title": "《新北市立鶯歌陶瓷博物館館刊》第12期",
         "summary": "發行人：張啟文 出版社：新北市立鶯歌陶瓷博物館 出版日期：2025年3月 GPN：4811400007 網址： [&#8230;]",
@@ -561,14 +537,6 @@
         "url": "https://www.transglobalwmc.com/charts/september-2025-chart/",
         "source": "Charts – Transglobal World Music Chart",
         "published": "2025-08-31T21:54:07+00:00"
-      },
-      {
-        "id": "14b9ca0997ce",
-        "title": "Interview with Borneo’s Sapé Player Alena Murang",
-        "summary": "(headline image: Alena-Murang &#8211; Photo by Yu Chung Chen) Nothing conjures the essence of Sarawak quite as eloquently as the sound of the sapé. The&#8230;\nThe post Interview with Borneo’s Sapé Player Alena Murang first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/interview-with-borneos-sape-player-alena-murang/",
-        "source": "Interviews | World Music Central",
-        "published": "2025-08-27T09:02:13+00:00"
       },
       {
         "id": "b77b491f2205",
@@ -619,28 +587,12 @@
         "published": "2025-02-27T04:10:00+00:00"
       },
       {
-        "id": "a136796607f4",
-        "title": "Dogo Du Togo and the Alagaa Beat Band Bring you to Togo!",
-        "summary": "From its start, the title track Avoudé is high energy and upbeat. You want to dance, but also to take time to listen. The sound&#8230;\nThe post Dogo Du Togo and the Alagaa Beat Band Bring you to Togo! first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/dogo-du-togo-and-the-alagaa-beat-band-bring-you-to-togo/",
-        "source": "Interviews | World Music Central",
-        "published": "2025-02-26T12:01:15+00:00"
-      },
-      {
         "id": "9a35745cb4b9",
         "title": "新北市立十三行博物館：《遺址十三》【第三期】",
         "summary": "出版單位：新北市立十三行博物館 出版日期：2024年10月 ISSN：2958-0773 網址：https:/ [&#8230;]",
         "url": "https://www.tmaroc.org.tw/1140211/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-02-11T09:37:47+00:00"
-      },
-      {
-        "id": "d1e9cbf86c15",
-        "title": "Interview with Flamenco Guitarist José Almarcha",
-        "summary": "Spanish flamenco guitarist José Almarcha recently released an album titled Un Nuevo Paseo (a new walk). Notably, Almarcha seamlessly intertwines traditional flamenco roots with elegant&#8230;\nThe post Interview with Flamenco Guitarist José Almarcha first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/interview-with-flamenco-guitarist-jose-almarcha/",
-        "source": "Interviews | World Music Central",
-        "published": "2025-01-06T12:10:33+00:00"
       },
       {
         "id": "58d1c9c633e7",
@@ -659,44 +611,12 @@
         "published": "2024-11-30T09:15:42+00:00"
       },
       {
-        "id": "b9f6d57043ff",
-        "title": "Interview with Rita Pina, PR Manager of Festival MED",
-        "summary": "In just a few days, Festival MED will return. This annual festival has become one of the hotspots for world music in Europe during the&#8230;\nThe post Interview with Rita Pina, PR Manager of Festival MED first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/interview-with-rita-pina-pr-manager-of-festival-med/",
-        "source": "Interviews | World Music Central",
-        "published": "2024-06-12T21:52:38+00:00"
-      },
-      {
         "id": "946adec2f716",
         "title": "設計思考驅動未來想像 — Lucy Kimbell教授「未來設計工作坊」深入報導",
         "summary": "設計思考驅動未來想像 — Lucy Kimbell教授「未來設計工作坊」深入報導當代生活所遭遇的政治、數位、科技、氣候、能源等問題瞬息萬變，思考和預測組織、政府與社會如何適應這些不確定性是十分重要的。設計和未來思考方法能夠協助人們體驗、洞察潛在的未來，並將其具象化，提供新見解，這些見解可能很難由當權機構的專家，或是大規模的資料分析而來(1)。設計領域中的「未來思考(Futures Thinking)」(2)和「集體智慧(Collective Intelligence)」(3)可以作為思考的啟發工具，使人們能夠更深入地探索未來，彌補當下缺乏願景或有效解決方案的問題，使得大眾在面對高度模糊、複雜與...",
         "url": "https://tdritw.medium.com/%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83%E9%A9%85%E5%8B%95%E6%9C%AA%E4%BE%86%E6%83%B3%E5%83%8F-lucy-kimbell%E6%95%99%E6%8E%88-%E6%9C%AA%E4%BE%86%E8%A8%AD%E8%A8%88%E5%B7%A5%E4%BD%9C%E5%9D%8A-%E6%B7%B1%E5%85%A5%E5%A0%B1%E5%B0%8E-4878f8a71e12?source=rss-9e6fbf109c5b------2",
         "source": "Stories by 台灣設計研究院 on Medium",
         "published": "2024-03-26T02:20:43+00:00"
-      },
-      {
-        "id": "24561ea07a4c",
-        "title": "The First Interview with Cardamom Trio",
-        "summary": "Cardamom Trio is a new project consisting of Kaveh Sarvarian, a composer and musician of Iranian origin (ney, percussion, vocals); Hames Bitar, a Syrian oud&#8230;\nThe post The First Interview with Cardamom Trio first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/the-first-interview-with-cardamom-trio/",
-        "source": "Interviews | World Music Central",
-        "published": "2024-03-16T14:59:55+00:00"
-      },
-      {
-        "id": "d3a585b90087",
-        "title": "A Chat with Ali Doğan Gönültaş",
-        "summary": "(headline image: Ali Dogan Gönültas performing live at Polirítmia, 2023 &#8211; Photo by María Carbonell) In May 2022, the first album of Ali Doğan Gönültaş&#8230;\nThe post A Chat with Ali Doğan Gönültaş first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/a-chat-with-ali-dogan-gonultas/",
-        "source": "Interviews | World Music Central",
-        "published": "2024-03-15T11:00:02+00:00"
-      },
-      {
-        "id": "ecd9af81cd82",
-        "title": "Interview with Mostar Sevdah Reunion",
-        "summary": "(headline image: Dragi Sestic and Antonija Batinic &#8211; Courtesy of Snail Records) Mostar (Bosnia), 1993. In the midst of the Balkans War, at the age&#8230;\nThe post Interview with Mostar Sevdah Reunion first appeared on World Music Central.",
-        "url": "https://worldmusiccentral.org/interview-with-mostar-sevdah-reunion/",
-        "source": "Interviews | World Music Central",
-        "published": "2024-02-15T09:08:00+00:00"
       },
       {
         "id": "651de109ae7b",
@@ -804,6 +724,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "4eb86fcd3011",
+        "title": "Survivalist Fishing Reel (2026 update) #3DThursday #3DPrinting",
+        "summary": "Shared by Baeoniq on Thingiverse: A complete fishing kit including live bait and hook storage, easy-attach weighable bobber, and more. This 2026 update includes several enhancements over my older models; it is built to be extremely sturdy and can be printed entirely without supports. This hobo fishi...",
+        "url": "https://blog.adafruit.com/2026/04/30/survivalist-fishing-reel-2026-update-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-04-30T21:00:16+00:00"
+      },
       {
         "id": "c3a4157f92c1",
         "title": "TWMC May 2026 Chart",
@@ -923,14 +851,6 @@
         "url": "https://www.cna.com.tw/news/acul/202604300397.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-04-30T14:33:08+00:00"
-      },
-      {
-        "id": "0a99fad0298f",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/04/30/the-python-on-microcontrollers-newsletter-subscribe-for-free-4-30-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-04-30T14:08:32+00:00"
       },
       {
         "id": "ad469bd5ed15",
@@ -1137,6 +1057,14 @@
         "title": "Claude Security is now in public beta",
         "summary": "Claude Security is now in public beta",
         "url": "https://claude.com/blog/claude-security-public-beta",
+        "source": "Claude Blog",
+        "published": "2026-04-30T00:00:00+00:00"
+      },
+      {
+        "id": "46ffd2ef4971",
+        "title": "Building AI agents for the enterprise",
+        "summary": "Building AI agents for the enterprise",
+        "url": "https://claude.com/blog/building-ai-agents-for-the-enterprise",
         "source": "Claude Blog",
         "published": "2026-04-30T00:00:00+00:00"
       },
@@ -1765,14 +1693,6 @@
         "published": "2026-04-22T02:00:23+00:00"
       },
       {
-        "id": "d17e13a7ceb3",
-        "title": "Building agents that reach production systems with MCP",
-        "summary": "Building agents that reach production systems with MCP",
-        "url": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
-        "source": "Claude Blog",
-        "published": "2026-04-22T00:00:00+00:00"
-      },
-      {
         "id": "d44481f4087b",
         "title": "在南洋小城蕩來蕩去",
         "summary": "★ 本書入選 2022 年「聯合早報書選」，入圍 2024 年「新加坡文學獎」\n\n余雲融合南洋遊歷經驗與深厚文學涵養，構築成一部富有詩意的人文書寫。\n她以戲劇、繪畫、電影與文學為經緯，將藝術家取材南洋的創作靈感交織層疊，經歲月淘洗仍鮮活躍動的文化記憶，在其筆下靈巧重現；同時深入鄉野與城市之間走訪踏查，開展豐沛而細膩的感官體驗，讓人流連於熱帶雨林的氣息之中。\n藉由她的記敘與詮釋，南洋超越了地理座標的囿限，轉化為收羅多元視角的人文場域，進而輝映深邃動人且意蘊豐盈的文化匯流。\n\n透過她的文字，我看見文人、藝術家或浪蕩子，與新加坡枝幹纏繞，藤葉蔓生，織成一座人文意象豐富、藝術油彩濃烈的文化雨林...",
@@ -2380,7 +2300,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T20:14:18.931803+00:00"
+        "published": "2026-04-30T22:02:44.202033+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2308,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T20:14:18.931793+00:00"
+        "published": "2026-04-30T22:02:44.202024+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2316,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T20:14:18.931783+00:00"
+        "published": "2026-04-30T22:02:44.202014+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2324,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T20:14:18.931772+00:00"
+        "published": "2026-04-30T22:02:44.202005+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2332,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T20:14:18.931762+00:00"
+        "published": "2026-04-30T22:02:44.201995+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2340,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T20:14:18.931751+00:00"
+        "published": "2026-04-30T22:02:44.201985+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2348,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T20:14:18.931741+00:00"
+        "published": "2026-04-30T22:02:44.201976+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2356,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T20:14:18.931730+00:00"
+        "published": "2026-04-30T22:02:44.201966+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2364,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T20:14:18.931720+00:00"
+        "published": "2026-04-30T22:02:44.201957+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2372,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-04-30T20:14:18.931710+00:00"
+        "published": "2026-04-30T22:02:44.201948+00:00"
       },
       {
         "id": "20ea57f6b4fd",
