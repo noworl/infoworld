@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-02T19:16:33.052181+00:00",
+  "updated_at": "2026-05-02T20:53:27.809082+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "6f7d4f79a3ee",
+        "title": "NguoiTaiHuyenHuyenTaTuViKhoaLaiToanBoQuocGiaTH",
+        "summary": "NguoiTaiHuyenHuyenTaTuViKhoaLaiToanBoQuocGiaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/NguoiTaiHuyenHuyenTaTuViKhoaLaiToanBoQuocGiaTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-02T19:14:02+00:00"
+      },
+      {
+        "id": "dab145cc633c",
+        "title": "SieuPhamDaiPhaHeTH",
+        "summary": "SieuPhamDaiPhaHeTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/SieuPhamDaiPhaHeTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-02T19:13:30+00:00"
+      },
       {
         "id": "35ab14ed2294",
         "title": "chuong-20",
@@ -65,22 +81,6 @@
         "url": "https://archive.org/details/audio_doc-truyen-online_chap_55766_1777746921",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-05-02T18:36:10+00:00"
-      },
-      {
-        "id": "106258ba6bef",
-        "title": "chuong-359-ke-hoach-tuong-lai",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_29174_1777746836",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-02T18:34:51+00:00"
-      },
-      {
-        "id": "11fc868e4a25",
-        "title": "chuong-65",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_52228_1777746725",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-02T18:33:03+00:00"
       },
       {
         "id": "9097181a8da1",
@@ -459,6 +459,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -724,6 +804,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "edd64b74783d",
+        "title": "RFID Jukebox with ESP32",
+        "summary": "Tech Talkies designed a functional RFID Jukebox using an ESP32.",
+        "url": "https://blog.adafruit.com/2026/05/02/rfid-jukebox-with-esp32/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-02T20:00:15+00:00"
+      },
       {
         "id": "344508664866",
         "title": "羅苡珊／如行幽谷與稜脊的寫作──讀《河人：一場山難，自由、暴水與生命的流向》",
@@ -1005,14 +1093,6 @@
         "published": "2026-05-01T04:00:36+00:00"
       },
       {
-        "id": "daf6e3836af2",
-        "title": "John Park’s CircuitPython Parsec: Smooth Noise Road",
-        "summary": "#circuitpythonparsec Create smooooth noise with the CircuitPython_Noise library. code example Todbot&#8217;s noise library To learn about CircuitPython: https://circuitpython.org &#160;",
-        "url": "https://blog.adafruit.com/2026/04/30/john-parks-circuitpython-parsec-smooth-noise-road/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-01T01:10:52+00:00"
-      },
-      {
         "id": "3b95472e46e3",
         "title": "閱讀通信 vol.379》台灣人，台灣兵",
         "summary": "台灣人對台灣自己的歷史熟悉嗎？前陣子的補課潮，或許正好可以讓大家回顧一下二戰時期的台灣。\n在二戰結束之際，台灣人一夕之間從日本帝國的子民，變成國民黨政權接管下的「中華民國」同胞。許多戰爭時期的記憶因此被錯置、遺忘。比如，你知道台灣人曾經替日本參戰，攻打過東南亞地區嗎？而這些台籍日本兵，卻在日本戰敗後旋即被日本帝國切割，既無法領到撫恤金，在日本郵局內的薪資也被凍結。而接手的國民黨政權，也急著將日治時期的記憶驅趕。台籍日本兵的記憶，在戰後又該如何被安置？\n在本次的「一時一地」專欄中，作家阿潑就帶領我們重返這段記憶，也搭配本週開幕的TIDF國際紀錄片影展片單，認識不同導演看待這段歷史的視角。片單相當...",
@@ -1107,6 +1187,14 @@
         "url": "https://aseanplusjournal.com/2026/04/30/aseanweekly318/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-04-30T09:19:51+00:00"
+      },
+      {
+        "id": "49673607c25b",
+        "title": "韓國科技與傳統的火花！《看．見沈清》彩排亮相 5/1-5/3震撼登場",
+        "summary": "國立傳統藝術中心主辦的「2026&nbsp;臺灣戲曲藝術節」國際重頭戲&mdash;韓國跨界鉅作《The Two Eyes&nbsp;看．見沈清》，於今日在臺灣戲曲中心大表演廳舉行彩排記者會&nbsp;。這部由韓國國立亞洲文化殿堂（ACC）與亞洲文化殿堂財團（ACCF）策劃，集結MUTO與IPKOASON團隊共同打造的科技藝術傑作，將在5月1日起於臺灣戲曲中心大表演廳一連三天與臺灣觀眾見面。彩排記者會現場，舞台景象令出席貴賓倍感震撼。傳藝中心副主任王逸群指出，這檔國際節目對於臺灣戲曲藝術節而言非常重要，它完美地結合了傳統與未來，展現出符合今年策展主題「純棉與混種」的多樣風貌。其實，傳統藝術如何...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=254519",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-04-30T09:14:00+00:00"
       },
       {
         "id": "15d811940661",
@@ -1645,6 +1733,14 @@
         "published": "2026-04-24T13:00:29+00:00"
       },
       {
+        "id": "3204a972579e",
+        "title": "【免費索票】全臺首辦三弦比賽 NCO《樂然指上》 5/2移師嘉義，與在地名團共賞藝術饗宴！",
+        "summary": "三弦以其獨特粗獷的音色與極具張力的表現力，在國樂合奏中佔有鮮明且不可取代的地位。由國立傳統藝術中心臺灣國樂團舉辦的「2026《樂然指上》三弦新秀選拔」，是國內首度針對「三弦」辦理的器樂比賽。為了讓更多民眾感受國樂新秀的活力，複選音樂會特別安排於5月2日（星期六）下午2時30分，在嘉義縣表演藝術中心演藝廳舉行。本屆選拔報名情況極為熱烈，在歷經激烈的初賽評選後，共有10&nbsp;位實力頂尖的三弦演奏家晉級複選。為了給予選手最堅實的音樂後盾，本次音樂會特別邀請嘉義在地、榮獲2025年「Taiwan Tops演藝團隊」肯定的「嘉義民族管弦樂團」擔綱演奏團隊，並由本團培育的優秀青年指揮家林亦輝執棒。這...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=254233",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-04-24T09:29:00+00:00"
+      },
+      {
         "id": "17ff00e2aea5",
         "title": "Meta 大裁員 10%、近 8,000 人失業，加碼投資 AI 拚競爭",
         "summary": "Meta 計劃裁減 10% 員工、人數接近 8,000 人，並計劃持續加碼對 AI 的投資。 《彭博社》取得  [&#8230;]",
@@ -1805,6 +1901,14 @@
         "published": "2026-04-14T12:58:36+00:00"
       },
       {
+        "id": "073deb7d96b6",
+        "title": "國樂「春之生」力量震撼心靈！ 臺灣國樂團《春吶》 4/18 磅礡登場",
+        "summary": "當萬物在春雷中甦醒，國樂也將以最奔放的姿態馳騁聲域！國立傳統藝術中心所屬臺灣國樂團將於4月18日（六）下午2點30分，在臺灣戲曲中心大表演廳隆重推出《春吶》音樂會。本場演出由首席客席指揮許瀞心親自領軍，攜手享譽國際的嗩吶名家郭雅志、樂團笛首席劉貞伶，共同編織一場融合傳統戲曲、西洋經典與當代想像的音樂饗宴。本場音樂會的一大藝術焦點，在於重新塑造當代國樂的詮釋框架。由作曲家王辰威移植自西洋音樂史巨作史特拉汶斯基的《春之祭》國樂版，此次將透過國樂獨特的演奏語法，賦予這部經典截然不同的聲響色彩。在細緻的樂聲中蘊含無限張力，展現國樂如「春之生」般、在融合與再生間迸發的強大動能。在經典之外，樂團持續推動創...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=253601",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-04-14T07:46:00+00:00"
+      },
+      {
         "id": "1a2cb6489ebc",
         "title": "[東南亞週報317] 敏昂萊就任緬總統承諾推動民主與重建對外關係、日自衛隊首次參與菲美「肩並肩」聯合軍演、柬法探討建立戰略夥伴關係",
         "summary": "[東南亞週報317] 敏昂萊就任緬總統承諾推動民主與重建對外關係、日自衛隊首次參與菲美「肩並肩」聯合軍演、柬法 [&#8230;]",
@@ -1877,6 +1981,14 @@
         "published": "2026-04-01T13:00:00+00:00"
       },
       {
+        "id": "1ea76644fb6f",
+        "title": "外臺戲明日之星「變身・超進化」！ 2026民間戲曲劇藝提升計畫聯演 4/10起連三週熱鬧登場",
+        "summary": "春暖花開的四月天，最適合相揪來到戲棚下，重溫廟口野臺看戲、逛市集的熱鬧日常！國立傳統藝術中心將於4月10日至4月26日，在臺灣戲曲中心戶外廣場及小舞台盛大舉行「民間戲曲劇藝提升計畫」進階成果展演，現場不僅有連續三週的免費外臺好戲可欣賞，更同步結合「藝食市集」與深度戲曲體驗活動，邀請民眾走進練功場親身參與。這項兩年制的培訓計畫，初衷在於傳承並提升外臺戲班演藝人員的專業品質，透過專業課程強化培訓人員的技藝功底。在去年初階培訓累積的扎實基礎下，今年特別以「變身・超進化」為核心精神，為各團客製專屬的精進課程，期許這群新秀在歷經各專業領域名師的傾囊相授與精實課程打磨後，能超越自我，在舞臺上綻放光芒，變身...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=253089",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-04-01T08:35:00+00:00"
+      },
+      {
         "id": "b4ed3cad8213",
         "title": "TWMC April 2026 Chart",
         "summary": "1. Souad Massi · Zagate · BackingTrack Production [-] 2. Neba Solo &#38; Benego Diakité · A Djinn and a Hunter Went Walking · Nonesuch [1] 3. Canzoniere Grecanico Salentino · Il Mito · Ponderosa Music [2] 4. Altın Gün · Garip · Glitterbeat [4] 5. Constantinople: Kiya Tabassian, Ablaye Cissoko, Patri...",
@@ -1941,6 +2053,14 @@
         "published": "2026-03-27T09:30:10+00:00"
       },
       {
+        "id": "4388909d2fea",
+        "title": "「藝起守護．世代傳承」 戲曲功夫不失傳　歌仔戲藝師技藝保存暨影音教學宣告上線",
+        "summary": "為保存及傳承傳統表演藝術珍貴技藝，國立傳統藝術中心持續系統性地針對不同行當藝師的拿手劇目進行數位技藝保存及示範解說，發揮紀錄、保存、觀賞、教學與研究等多重功能。繼首期完成小咪、孫榮輝、許亞芬、張孟逸四位藝師的技藝紀錄後，第二期續完成林美香、陳昭香、張秀琴三位歌仔戲資深藝師之技藝保存紀錄，傳藝中心於3月27日舉辦藝師技藝數位保存上線宣告記者會，林美香、陳昭香、張秀琴三位藝師親臨記者會現場，演示教學戲齣精華，展現藝師們技藝亮點及教學影音特色，最後由傳藝中心陳悅宜主任、三位藝師及計畫顧問一同拉下象徵傳承的卷軸，宣告三位藝師技藝數位保存影音正式上線！傳藝中心主任陳悅宜表示，感謝三位藝師投入大量心力及時...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252692",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-27T08:21:00+00:00"
+      },
+      {
         "id": "01b1d48dfdc6",
         "title": "Marion Post Wolcott: Documenting America",
         "summary": "Marion Post Wolcott was an unknown 28-year-old photographer when she first picked up her cameras for the Farm Security Administration in the autumn of 1938. What followed was a remarkable four years of near constant travel and photography that would elevate her, over time, into being regarded as one...",
@@ -1957,12 +2077,28 @@
         "published": "2026-03-25T02:00:33+00:00"
       },
       {
+        "id": "0841c8296da6",
+        "title": "2026臺灣戲曲藝術節 旗艦製作《金銀天狗》及《紅蝴蝶追香》聲音特展　 向歌仔戲黃金內台時期致敬",
+        "summary": "2026臺灣戲曲藝術節以「純棉與混種@繁花世代」為策展主題，匯聚21個團隊推出20齣精彩節目。為能呈現歌仔戲最繁盛內臺時期的藝術風華，今年旗艦製作特別委託國立臺灣戲曲學院，將當時全台最具規模團隊「拱樂社」的經典連台大戲《金銀天狗》，以上下本形式重現舞台。除了精彩系列演出，今年更首度於臺灣音樂館3樓特展室推出為期近3個月的「紅蝴蝶追香──從內臺到劇場的聲音特展」，藉由珍貴的歷史影音，重溯1950至70年代商業內臺的多聲腔聲景。邀請觀眾透過本屆藝術節「系列演出」及「聲音特展」的雙重規劃，更深刻的品味臺灣戲曲發展歷程的豐姿百態，見證永不停止變異的強韌生命力。傳藝中心主任陳悅宜表示，2026年臺灣戲曲...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252516",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-25T01:48:00+00:00"
+      },
+      {
         "id": "70ec4a7df70e",
         "title": "Marie Tharp, the scientist who mapped the ocean floor",
         "summary": "Marie Tharp was an American geologist and marine cartographer whose groundbreaking studies into ocean floors and discovery of the mid-Atlantic rift valley challenged the widely accepted geological views of the time. Her papers are preserved at the Library, a window into the thinking of a scientist w...",
         "url": "https://blogs.loc.gov/loc/2026/03/marie-tharp-the-scientist-who-mapped-the-ocean-floor/",
         "source": "Timeless",
         "published": "2026-03-24T16:37:30+00:00"
+      },
+      {
+        "id": "03ec3b93fd1e",
+        "title": "115年度傳藝Go Young 校園巡演計畫 即日起開始徵件 歡迎傳統演藝團隊共展魅力 推動兒童戲曲",
+        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;為推廣傳統表演藝術、深化國小學生對傳統戲曲與國家語言的認識，國立傳統藝術中心啟動「115年度傳藝Go Young校園巡演計畫」，自即日起受理團隊申請，邀請傳統演藝團隊共襄盛舉，一同將多元的傳統藝術帶入校園，培養新世代的欣賞人口。&nbsp; &nbsp; &nbsp; 「傳藝Go Young校園巡演計畫」於112年首次辦理，由傳藝中心主辦、文化部、教育部指導，112至114年已累計98個演藝團隊參與，內容涵蓋布袋戲、歌仔戲、客家戲、傳統古謠與樂舞、說唱、傀儡及皮影戲等多元國家語言傳統表演形式。計畫執行期間，巡演足跡遍布全臺696所學校，共計...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252411",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-23T06:50:00+00:00"
       },
       {
         "id": "ec0ef74bcc92",
@@ -2005,6 +2141,14 @@
         "published": "2026-03-17T08:00:00+00:00"
       },
       {
+        "id": "350bfd879573",
+        "title": "陸森寶生命史與歌謠全新修訂出版 傳承部落音樂文化",
+        "summary": "為保存與重現臺灣原住民族重要音樂資產，國立傳統藝術中心臺灣音樂館今（13）日於臺灣戲曲中心舉辦「卑南族音樂家陸森寶生命史暨音樂創作專輯發表會」，針對陸森寶的生命史與音樂創作進行全面修訂與出版，推出專書《Baliwakes：風的速度，祖先的旋律&mdash;卑南族音樂家陸森寶的生平與創作》與音樂創作專輯《Baliwakes：風的速度，祖先的旋律&mdash;卑南族音樂家陸森寶的創作歌謠》，透過文字與聲音兩種媒介重新呈現其生命歷程與創作軌跡，並以標準族語符號系統重新標註歌詞，完整收錄46首作品，讓部落音樂文化得以持續傳承。陸森寶（1910－1988）為戰後臺灣原住民族重要音樂創作者與教育者，一生創...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251933",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-13T10:00:00+00:00"
+      },
+      {
         "id": "05d76e3fbf3c",
         "title": "Platform 37 and The AI Exchange: new spaces for AI innovation and discovery",
         "summary": "Platform 37 building",
@@ -2019,6 +2163,14 @@
         "url": "https://www.glt.org.tw/?p=13791",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-03-12T08:53:22+00:00"
+      },
+      {
+        "id": "e36612a9578a",
+        "title": "傳藝工坊邁入十週年，累積近80萬人參觀！ 新工種首度亮相，邀您親睹接班好手路",
+        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;由國立傳統藝術中心主辦的「傳統藝術接班人－傳統工藝推廣計畫」，自106年開辦至今，已邁入第十年，累積8項工種工藝師進駐宜蘭園區傳藝工坊，展現接班人好手路。辦理至今，駐園創作時數突破5萬小時、辦理推廣活動場次超過3千場、吸引近80萬人次造訪參觀，成果豐碩！本年度自115年3月5日起至12月16日，則由6項工種、12位工藝師進駐現場，不只展示手上真功夫，更要帶領民眾體驗傳統工藝走進日常的迷人魅力。&nbsp; &nbsp; &nbsp; &nbsp;傳藝中心表示，為協助傳統藝術人才傳承與發展，推廣傳統藝術，透過本計畫提供文化部文化資產局「重要傳...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251817",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-12T05:58:00+00:00"
       },
       {
         "id": "adede8686702",
@@ -2043,6 +2195,14 @@
         "url": "https://www.glt.org.tw/?p=13785",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-03-10T11:23:39+00:00"
+      },
+      {
+        "id": "d48d7b4f7c98",
+        "title": "韓國盤索里跨界鉅作《看・見沈清》5月盛大登台！",
+        "summary": "國立傳統藝術中心主辦「2026臺灣戲曲藝術節」即將迎來韓國跨界重量級鉅獻！韓國頂尖製作團隊MUTO與IPKOASON，帶來融合傳統戲曲、電子音樂與多媒體影像的科技藝術傑作《看・見沈清》（原文：두개의눈/THE TWO EYES）。本節目將於5月1日至5月3日於臺灣戲曲中心大表演廳連續演出三場，為觀眾呈現韓國經典傳統藝術與創新舞台科技的精彩對話。《看・見沈清》改編自韓國傳統說唱藝術「盤索里」最具代表性的傳世作品《沈清歌》。原作以孝女沈清為主角，描繪她為使失明父親重見光明而犧牲自身的感人傳說，而《看・見沈清》則跳脫既有敘事框架，將焦點轉向父親「沈學奎」的生命歷程，以多重視角呈現一位父親在失去與抉擇...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251668",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-09T00:39:00+00:00"
       },
       {
         "id": "e93814826cf0",
@@ -2228,7 +2388,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-02T19:16:32.131823+00:00"
+        "published": "2026-05-02T20:53:25.741368+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2396,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-02T19:16:32.131813+00:00"
+        "published": "2026-05-02T20:53:25.741358+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2404,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-02T19:16:32.131802+00:00"
+        "published": "2026-05-02T20:53:25.741348+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2412,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-02T19:16:32.131792+00:00"
+        "published": "2026-05-02T20:53:25.741338+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2420,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-02T19:16:32.131782+00:00"
+        "published": "2026-05-02T20:53:25.741327+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2428,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-02T19:16:32.131772+00:00"
+        "published": "2026-05-02T20:53:25.741316+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2436,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-02T19:16:32.131762+00:00"
+        "published": "2026-05-02T20:53:25.741306+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2444,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-02T19:16:32.131751+00:00"
+        "published": "2026-05-02T20:53:25.741296+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2452,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-02T19:16:32.131740+00:00"
+        "published": "2026-05-02T20:53:25.741285+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2460,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-02T19:16:32.131730+00:00"
+        "published": "2026-05-02T20:53:25.741275+00:00"
       },
       {
         "id": "fc52eb0dfe9e",
