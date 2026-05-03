@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-03T19:16:24.401344+00:00",
+  "updated_at": "2026-05-03T20:58:15.498517+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "f749e5c7520f",
+        "title": "HOLST The Collector's Edition",
+        "summary": "HOLST  The Collector's Edition (2/2).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/gcjghc",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-03T19:14:31+00:00"
+      },
       {
         "id": "c159408a50a1",
         "title": "chuong-3026-dung-o-vi-tri-bac-thu-1086",
@@ -61,26 +69,18 @@
       {
         "id": "2a42677b367e",
         "title": "HOLST The Collector's Edition",
-        "summary": "HOLST  The Collector's Edition (1/2).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "HOLST  The Collector's Edition (1/2).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/hxfj_20260503",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-05-03T17:46:03+00:00"
       },
       {
-        "id": "4b39d6a1ac2e",
-        "title": "chuong-1530-uy-luc-cua-than-thong",
+        "id": "38bb96b60b5d",
+        "title": "chuong-291-gong-xieng",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_75383_1777829989",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_52727_1777829960",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-03T17:40:14+00:00"
-      },
-      {
-        "id": "85e51435c84e",
-        "title": "chuong-180-2-kinh-thanh-phon-hoa-2",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_76058_1777829947",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-03T17:39:59+00:00"
+        "published": "2026-05-03T17:41:31+00:00"
       },
       {
         "id": "84446cf71ac5",
@@ -805,6 +805,22 @@
     ],
     "破(day)": [
       {
+        "id": "84e7dcae7c9d",
+        "title": "Fro the Adafruit Learning System: EPCOT Spaceship Earth with WLED",
+        "summary": "Build your own IoT NeoPixel lamp inspired by EPCOT Spaceship Earth! Use a QT Py ESP32 PICO, NeoPixel BFF Driver and WLED to make amazing lighting effects! Check out the guide from the Ruiz Brothers to design your own.",
+        "url": "https://blog.adafruit.com/2026/05/03/fro-the-adafruit-learning-system-epcot-spaceship-earth-with-wled/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-03T20:00:42+00:00"
+      },
+      {
+        "id": "2811c9dbddea",
+        "title": "Adafruit Weekly Editorial Round-Up: Asian American, Native Hawaiian and Pacific Islander Heritage Month, Stomp-Reactive Light Up Slippers & More",
+        "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ May is ...",
+        "url": "https://blog.adafruit.com/2026/05/03/adafruit-weekly-editorial-round-up-asian-american-native-hawaiian-and-pacific-islander-heritage-month-stomp-reactive-light-up-slippers-more/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-03T19:00:42+00:00"
+      },
+      {
         "id": "b481b7469fb4",
         "title": "Link Audio, now in Max, Pd, VCV Rack, TouchDesigner, oF, and plug-ins, free",
         "summary": "Ableton Live 12.4 drops on Tuesday, with Link Audio support coming to Live, Move, Note, and Push. But Live Audio can also be about routing audio over a network to other hosts, too. Julien Bayle (VOID) has an early, open-source implementation. If you're ready to start experimenting even while this AP...",
@@ -1125,22 +1141,6 @@
         "published": "2026-05-01T14:00:54+00:00"
       },
       {
-        "id": "bb9cbbf70ad1",
-        "title": "Adafruit’s Top 10 Blog Posts of April 2026 #StateOfTheFruit #AdafruitTopTen",
-        "summary": "1. Asimov’s three laws of robotics survived 82 years, we broke them in 30 minutes, costs 80 cents, and then remade them 2. ESP32-BlueJammer disrupts various devices using ESP32 and nRF24 modules 3. A round ESP32-S3 printer companion for a Bambu Lab 3D printer 4. Claude Code found a Linux vulnerabili...",
-        "url": "https://blog.adafruit.com/2026/05/01/adafruits-top-10-blog-posts-of-april-2026-stateofthefruit-adafruittopten/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-01T13:54:52+00:00"
-      },
-      {
-        "id": "e67dcab9442f",
-        "title": "The 4th is Strong with This One, Star Wars Day Approaches",
-        "summary": "Get ready for May the 4th with some awesome projects. You won’t need to barter with a Jawa scrapper to build these great projects. Whether you’re building your own lightsaber, crafting a custom droid, or just trying to look the part for your next smuggler run, Adafruit has the guides and gear to exp...",
-        "url": "https://blog.adafruit.com/2026/05/01/the-4th-is-strong-with-this-one-star-wars-day-approaches/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-01T13:18:32+00:00"
-      },
-      {
         "id": "3e48ddaac99c",
         "title": "A Midsummer Night’s Dream review – hilarious and heartfelt, from top to Bottom",
         "summary": "Globe theatre, LondonA spunky Helena and an inspired Puck elicit cheers and laughter in Emily Lim’s generous, creative and clever showI can’t remember the last time I got the giggles in the theatre but director Emily Lim’s joyful take on A Midsummer Night’s Dream just about undid me. It’s generous, ...",
@@ -1285,6 +1285,14 @@
         "published": "2026-04-30T09:19:51+00:00"
       },
       {
+        "id": "49673607c25b",
+        "title": "韓國科技與傳統的火花！《看．見沈清》彩排亮相 5/1-5/3震撼登場",
+        "summary": "國立傳統藝術中心主辦的「2026&nbsp;臺灣戲曲藝術節」國際重頭戲&mdash;韓國跨界鉅作《The Two Eyes&nbsp;看．見沈清》，於今日在臺灣戲曲中心大表演廳舉行彩排記者會&nbsp;。這部由韓國國立亞洲文化殿堂（ACC）與亞洲文化殿堂財團（ACCF）策劃，集結MUTO與IPKOASON團隊共同打造的科技藝術傑作，將在5月1日起於臺灣戲曲中心大表演廳一連三天與臺灣觀眾見面。彩排記者會現場，舞台景象令出席貴賓倍感震撼。傳藝中心副主任王逸群指出，這檔國際節目對於臺灣戲曲藝術節而言非常重要，它完美地結合了傳統與未來，展現出符合今年策展主題「純棉與混種」的多樣風貌。其實，傳統藝術如何...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=254519",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-04-30T09:14:00+00:00"
+      },
+      {
         "id": "be5ef6a060d6",
         "title": "AI公司最赚钱的生意，还是卖广告",
         "summary": "Meta 在 2025 年第三季度披露，其 AI 广告工具 Advantage＋ 的年化营收已经超过 600 亿美元。同期，OpenAI 年化收入约 240 亿美元，Anthropic 约 300 亿美元。Meta 只是把 22 年的广告生意接上 AI，赚的钱就已经比两家最炙手可热的 AI 公司加起来还多。4 月 29 日，Google 和 Meta 同日发布 2026 年 Q1 财报。Google 广告收入 770 亿美元，同比增长 16％；Meta 广告收入 563 亿美元，同比增长 33％（公司财报，2026－04－29）。AI 被叙述成人类历史的最大技术拐点。但 2026 年 Q1 的...",
@@ -1301,12 +1309,12 @@
         "published": "2026-04-30T08:06:21+00:00"
       },
       {
-        "id": "15d811940661",
-        "title": "‘Infinite pleasure’: the strip club drama that leaves you horny, vulnerable – and dialling your parents",
-        "summary": "Tender by Dave Harris follows the male strippers at the failing Dancing Bears Club. Its playwright and stars discuss sex, power and their research trip to Magic Mike LiveWhen the LA wildfires burned last year, playwright Dave Harris watched as everyone’s “crisis personalities” emerged. “Mine,” he re...",
-        "url": "https://www.theguardian.com/stage/2026/apr/30/strip-club-drama-tender-dave-harris",
+        "id": "6ddd32fbf6f5",
+        "title": "‘My God, it’s a panic attack to watch’: Giffords Circus on its most dangerous show yet",
+        "summary": "The Gloucestershire-based troupe, created 26 years ago by the late Nell Gifford and her husband Toti, is back with a new performance blending traditional skills with cutting-edge theatrics … and the dreaded Wheel of Death‘Everything you see has been built by us,” Toti Gifford informs me with a sweep...",
+        "url": "https://www.theguardian.com/stage/2026/apr/30/giffords-circus-nell-toti-cal-mccrystal-waterfield",
         "source": "Stage | The Guardian",
-        "published": "2026-04-30T07:00:11+00:00"
+        "published": "2026-04-30T07:00:10+00:00"
       },
       {
         "id": "28b38eb1df1b",
@@ -1467,6 +1475,14 @@
         "url": "https://technews.tw/2026/04/29/implications-behind-china-scrapping-manus-acquisition/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-04-29T00:30:39+00:00"
+      },
+      {
+        "id": "6f64e331ed39",
+        "title": "雙手會「說話」? 北科大林彥良談手勢輔助思考與學習",
+        "summary": "臺北科技大學應用英文系教授林彥良探究如何透過手勢來強化外語教學。 攝影／林俊孝  異國旅客語言不通，靠著比手畫 [&#8230;]\nThe post 雙手會「說話」? 北科大林彥良談手勢輔助思考與學習 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/yen-liang-lin/",
+        "source": "人文．島嶼",
+        "published": "2026-04-29T00:30:22+00:00"
       },
       {
         "id": "f5f77fd32d06",
@@ -1717,6 +1733,14 @@
         "published": "2026-04-24T13:00:29+00:00"
       },
       {
+        "id": "3204a972579e",
+        "title": "【免費索票】全臺首辦三弦比賽 NCO《樂然指上》 5/2移師嘉義，與在地名團共賞藝術饗宴！",
+        "summary": "三弦以其獨特粗獷的音色與極具張力的表現力，在國樂合奏中佔有鮮明且不可取代的地位。由國立傳統藝術中心臺灣國樂團舉辦的「2026《樂然指上》三弦新秀選拔」，是國內首度針對「三弦」辦理的器樂比賽。為了讓更多民眾感受國樂新秀的活力，複選音樂會特別安排於5月2日（星期六）下午2時30分，在嘉義縣表演藝術中心演藝廳舉行。本屆選拔報名情況極為熱烈，在歷經激烈的初賽評選後，共有10&nbsp;位實力頂尖的三弦演奏家晉級複選。為了給予選手最堅實的音樂後盾，本次音樂會特別邀請嘉義在地、榮獲2025年「Taiwan Tops演藝團隊」肯定的「嘉義民族管弦樂團」擔綱演奏團隊，並由本團培育的優秀青年指揮家林亦輝執棒。這...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=254233",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-04-24T09:29:00+00:00"
+      },
+      {
         "id": "17ff00e2aea5",
         "title": "Meta 大裁員 10%、近 8,000 人失業，加碼投資 AI 拚競爭",
         "summary": "Meta 計劃裁減 10% 員工、人數接近 8,000 人，並計劃持續加碼對 AI 的投資。 《彭博社》取得  [&#8230;]",
@@ -1805,6 +1829,14 @@
         "published": "2026-04-23T00:00:00+00:00"
       },
       {
+        "id": "bd90101a7dc2",
+        "title": "政治人物總是「說一套做一套」？中研院林政楠解析民主制度下的政黨競合",
+        "summary": "在許多民主國家，選民經常抱怨政黨「選前信誓旦旦，選後反覆無常」。這種落差，究竟是政治人物的欺騙，還是政治制度運 [&#8230;]\nThe post 政治人物總是「說一套做一套」？中研院林政楠解析民主制度下的政黨競合 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/nicklin_a/",
+        "source": "人文．島嶼",
+        "published": "2026-04-22T02:00:23+00:00"
+      },
+      {
         "id": "d44481f4087b",
         "title": "在南洋小城蕩來蕩去",
         "summary": "★ 本書入選 2022 年「聯合早報書選」，入圍 2024 年「新加坡文學獎」\n\n余雲融合南洋遊歷經驗與深厚文學涵養，構築成一部富有詩意的人文書寫。\n她以戲劇、繪畫、電影與文學為經緯，將藝術家取材南洋的創作靈感交織層疊，經歲月淘洗仍鮮活躍動的文化記憶，在其筆下靈巧重現；同時深入鄉野與城市之間走訪踏查，開展豐沛而細膩的感官體驗，讓人流連於熱帶雨林的氣息之中。\n藉由她的記敘與詮釋，南洋超越了地理座標的囿限，轉化為收羅多元視角的人文場域，進而輝映深邃動人且意蘊豐盈的文化匯流。\n\n透過她的文字，我看見文人、藝術家或浪蕩子，與新加坡枝幹纏繞，藤葉蔓生，織成一座人文意象豐富、藝術油彩濃烈的文化雨林...",
@@ -1837,6 +1869,14 @@
         "published": "2026-04-15T08:02:11+00:00"
       },
       {
+        "id": "afcec9471c9f",
+        "title": "一個人，要怎樣才算活得好？亞大周月清從長照看見「照顧貧窮」",
+        "summary": "當我們說一個人「貧窮」，直覺想到的是收入不足、生活困頓。但如果一個人需要有人協助穿衣、洗澡、外出，但卻得不到資 [&#8230;]\nThe post 一個人，要怎樣才算活得好？亞大周月清從長照看見「照顧貧窮」 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/yuehchingchou_a/",
+        "source": "人文．島嶼",
+        "published": "2026-04-15T03:35:41+00:00"
+      },
+      {
         "id": "f62cd5d9dece",
         "title": "Encore! Arthur Sze reappointed as National Poet Laureate",
         "summary": "Arthur Sze will serve a second term as the nation’s 25th Poet Laureate Consultant in Poetry for 2026-2027, the Library announced today, as we highlight National Poetry Month. His newest book, “Transient Worlds: On Translating Poetry,” features translations from 13 languages and provides a personal g...",
@@ -1859,6 +1899,14 @@
         "url": "https://www.glt.org.tw/?p=13832",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-04-14T12:58:36+00:00"
+      },
+      {
+        "id": "073deb7d96b6",
+        "title": "國樂「春之生」力量震撼心靈！ 臺灣國樂團《春吶》 4/18 磅礡登場",
+        "summary": "當萬物在春雷中甦醒，國樂也將以最奔放的姿態馳騁聲域！國立傳統藝術中心所屬臺灣國樂團將於4月18日（六）下午2點30分，在臺灣戲曲中心大表演廳隆重推出《春吶》音樂會。本場演出由首席客席指揮許瀞心親自領軍，攜手享譽國際的嗩吶名家郭雅志、樂團笛首席劉貞伶，共同編織一場融合傳統戲曲、西洋經典與當代想像的音樂饗宴。本場音樂會的一大藝術焦點，在於重新塑造當代國樂的詮釋框架。由作曲家王辰威移植自西洋音樂史巨作史特拉汶斯基的《春之祭》國樂版，此次將透過國樂獨特的演奏語法，賦予這部經典截然不同的聲響色彩。在細緻的樂聲中蘊含無限張力，展現國樂如「春之生」般、在融合與再生間迸發的強大動能。在經典之外，樂團持續推動創...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=253601",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-04-14T07:46:00+00:00"
       },
       {
         "id": "1a2cb6489ebc",
@@ -1893,6 +1941,14 @@
         "published": "2026-04-08T13:00:01+00:00"
       },
       {
+        "id": "01b4f6a51a5c",
+        "title": "買一間房，掏空六個錢包：清大沈秀華談中國都會青年的婚姻與買房",
+        "summary": "2008年的中國像一場炙熱的盛宴。北京奧運的璀璨煙火劃過8月夜空，向世界宣告一個政治與經濟強權崛起。無數青年湧 [&#8230;]\nThe post 買一間房，掏空六個錢包：清大沈秀華談中國都會青年的婚姻與買房 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/shenxiuhua_a/",
+        "source": "人文．島嶼",
+        "published": "2026-04-08T02:37:49+00:00"
+      },
+      {
         "id": "1e8ec9ff4fee",
         "title": "外資在菲律賓設立子公司的關鍵法律步驟",
         "summary": "外資在菲律賓設立子公司的關鍵法律步驟 作者：TWL Law Group 2026-04-03 菲律賓已成為東南 [&#8230;]",
@@ -1925,12 +1981,28 @@
         "published": "2026-04-01T13:00:00+00:00"
       },
       {
+        "id": "1ea76644fb6f",
+        "title": "外臺戲明日之星「變身・超進化」！ 2026民間戲曲劇藝提升計畫聯演 4/10起連三週熱鬧登場",
+        "summary": "春暖花開的四月天，最適合相揪來到戲棚下，重溫廟口野臺看戲、逛市集的熱鬧日常！國立傳統藝術中心將於4月10日至4月26日，在臺灣戲曲中心戶外廣場及小舞台盛大舉行「民間戲曲劇藝提升計畫」進階成果展演，現場不僅有連續三週的免費外臺好戲可欣賞，更同步結合「藝食市集」與深度戲曲體驗活動，邀請民眾走進練功場親身參與。這項兩年制的培訓計畫，初衷在於傳承並提升外臺戲班演藝人員的專業品質，透過專業課程強化培訓人員的技藝功底。在去年初階培訓累積的扎實基礎下，今年特別以「變身・超進化」為核心精神，為各團客製專屬的精進課程，期許這群新秀在歷經各專業領域名師的傾囊相授與精實課程打磨後，能超越自我，在舞臺上綻放光芒，變身...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=253089",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-04-01T08:35:00+00:00"
+      },
+      {
         "id": "b4ed3cad8213",
         "title": "TWMC April 2026 Chart",
         "summary": "1. Souad Massi · Zagate · BackingTrack Production [-] 2. Neba Solo &#38; Benego Diakité · A Djinn and a Hunter Went Walking · Nonesuch [1] 3. Canzoniere Grecanico Salentino · Il Mito · Ponderosa Music [2] 4. Altın Gün · Garip · Glitterbeat [4] 5. Constantinople: Kiya Tabassian, Ablaye Cissoko, Patri...",
         "url": "https://www.transglobalwmc.com/charts/twmc-april-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-03-31T21:23:03+00:00"
+      },
+      {
+        "id": "f2ea66f3f3ca",
+        "title": "臺師大劉滄龍：在這時代，我們如何跟莊子學習成為一名「旁觀者」？",
+        "summary": "許多人認為莊子（前369年—前286年）的思考缺乏對政治制度的論述，對現代政治生活幫助不大，但臺灣師範大學國文 [&#8230;]\nThe post 臺師大劉滄龍：在這時代，我們如何跟莊子學習成為一名「旁觀者」？ appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/tsang-long-liu_a/",
+        "source": "人文．島嶼",
+        "published": "2026-03-31T17:00:05+00:00"
       },
       {
         "id": "41d098f6236b",
@@ -1981,12 +2053,36 @@
         "published": "2026-03-27T09:30:10+00:00"
       },
       {
+        "id": "4388909d2fea",
+        "title": "「藝起守護．世代傳承」 戲曲功夫不失傳　歌仔戲藝師技藝保存暨影音教學宣告上線",
+        "summary": "為保存及傳承傳統表演藝術珍貴技藝，國立傳統藝術中心持續系統性地針對不同行當藝師的拿手劇目進行數位技藝保存及示範解說，發揮紀錄、保存、觀賞、教學與研究等多重功能。繼首期完成小咪、孫榮輝、許亞芬、張孟逸四位藝師的技藝紀錄後，第二期續完成林美香、陳昭香、張秀琴三位歌仔戲資深藝師之技藝保存紀錄，傳藝中心於3月27日舉辦藝師技藝數位保存上線宣告記者會，林美香、陳昭香、張秀琴三位藝師親臨記者會現場，演示教學戲齣精華，展現藝師們技藝亮點及教學影音特色，最後由傳藝中心陳悅宜主任、三位藝師及計畫顧問一同拉下象徵傳承的卷軸，宣告三位藝師技藝數位保存影音正式上線！傳藝中心主任陳悅宜表示，感謝三位藝師投入大量心力及時...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252692",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-27T08:21:00+00:00"
+      },
+      {
         "id": "01b1d48dfdc6",
         "title": "Marion Post Wolcott: Documenting America",
         "summary": "Marion Post Wolcott was an unknown 28-year-old photographer when she first picked up her cameras for the Farm Security Administration in the autumn of 1938. What followed was a remarkable four years of near constant travel and photography that would elevate her, over time, into being regarded as one...",
         "url": "https://blogs.loc.gov/loc/2026/03/marion-post-wolcott/",
         "source": "Timeless",
         "published": "2026-03-26T13:00:26+00:00"
+      },
+      {
+        "id": "5f803e647fa8",
+        "title": "數學是客觀真理，還是一種文化？——跟著中央單維彰用「文化」理解數學",
+        "summary": "想必多數人都認同，數學是客觀、普世的知識——不論身在何處，只要學的是同一套數學，答案就會相同。長期以來，數學也 [&#8230;]\nThe post 數學是客觀真理，還是一種文化？——跟著中央單維彰用「文化」理解數學 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/weichangshann_a/",
+        "source": "人文．島嶼",
+        "published": "2026-03-25T02:00:33+00:00"
+      },
+      {
+        "id": "0841c8296da6",
+        "title": "2026臺灣戲曲藝術節 旗艦製作《金銀天狗》及《紅蝴蝶追香》聲音特展　 向歌仔戲黃金內台時期致敬",
+        "summary": "2026臺灣戲曲藝術節以「純棉與混種@繁花世代」為策展主題，匯聚21個團隊推出20齣精彩節目。為能呈現歌仔戲最繁盛內臺時期的藝術風華，今年旗艦製作特別委託國立臺灣戲曲學院，將當時全台最具規模團隊「拱樂社」的經典連台大戲《金銀天狗》，以上下本形式重現舞台。除了精彩系列演出，今年更首度於臺灣音樂館3樓特展室推出為期近3個月的「紅蝴蝶追香──從內臺到劇場的聲音特展」，藉由珍貴的歷史影音，重溯1950至70年代商業內臺的多聲腔聲景。邀請觀眾透過本屆藝術節「系列演出」及「聲音特展」的雙重規劃，更深刻的品味臺灣戲曲發展歷程的豐姿百態，見證永不停止變異的強韌生命力。傳藝中心主任陳悅宜表示，2026年臺灣戲曲...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252516",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-25T01:48:00+00:00"
       },
       {
         "id": "70ec4a7df70e",
@@ -1997,12 +2093,28 @@
         "published": "2026-03-24T16:37:30+00:00"
       },
       {
+        "id": "03ec3b93fd1e",
+        "title": "115年度傳藝Go Young 校園巡演計畫 即日起開始徵件 歡迎傳統演藝團隊共展魅力 推動兒童戲曲",
+        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;為推廣傳統表演藝術、深化國小學生對傳統戲曲與國家語言的認識，國立傳統藝術中心啟動「115年度傳藝Go Young校園巡演計畫」，自即日起受理團隊申請，邀請傳統演藝團隊共襄盛舉，一同將多元的傳統藝術帶入校園，培養新世代的欣賞人口。&nbsp; &nbsp; &nbsp; 「傳藝Go Young校園巡演計畫」於112年首次辦理，由傳藝中心主辦、文化部、教育部指導，112至114年已累計98個演藝團隊參與，內容涵蓋布袋戲、歌仔戲、客家戲、傳統古謠與樂舞、說唱、傀儡及皮影戲等多元國家語言傳統表演形式。計畫執行期間，巡演足跡遍布全臺696所學校，共計...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=252411",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-23T06:50:00+00:00"
+      },
+      {
         "id": "ec0ef74bcc92",
         "title": "This High School Student Invented a Filter That Eliminates 96 Percent of Microplastics From Drinking Water",
         "summary": "Virginia teenager Mia Heller’s filtration system harnesses the power of ferrofluid, a magnetic oil that binds to microplastics in flowing water",
         "url": "https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-that-eliminates-96-percent-of-microplastics-from-drinking-water-180988363/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-03-20T17:30:44+00:00"
+      },
+      {
+        "id": "7d9818ac5a59",
+        "title": "幾張紙、塑膠片還有DIY，北商大歐陽芳泉研發「輕教材」搞懂AR是什麼！",
+        "summary": "社群上的有趣濾鏡、轉角遇到的那隻寶可夢、出國時拿起手機對準外文菜單，即時翻譯文字像變魔法……生活在「滑時代」， [&#8230;]\nThe post 幾張紙、塑膠片還有DIY，北商大歐陽芳泉研發「輕教材」搞懂AR是什麼！ appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/ouyangfangquan_a/",
+        "source": "人文．島嶼",
+        "published": "2026-03-18T02:32:34+00:00"
       },
       {
         "id": "a56f1dd9fece",
@@ -2029,6 +2141,14 @@
         "published": "2026-03-17T08:00:00+00:00"
       },
       {
+        "id": "350bfd879573",
+        "title": "陸森寶生命史與歌謠全新修訂出版 傳承部落音樂文化",
+        "summary": "為保存與重現臺灣原住民族重要音樂資產，國立傳統藝術中心臺灣音樂館今（13）日於臺灣戲曲中心舉辦「卑南族音樂家陸森寶生命史暨音樂創作專輯發表會」，針對陸森寶的生命史與音樂創作進行全面修訂與出版，推出專書《Baliwakes：風的速度，祖先的旋律&mdash;卑南族音樂家陸森寶的生平與創作》與音樂創作專輯《Baliwakes：風的速度，祖先的旋律&mdash;卑南族音樂家陸森寶的創作歌謠》，透過文字與聲音兩種媒介重新呈現其生命歷程與創作軌跡，並以標準族語符號系統重新標註歌詞，完整收錄46首作品，讓部落音樂文化得以持續傳承。陸森寶（1910－1988）為戰後臺灣原住民族重要音樂創作者與教育者，一生創...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251933",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-13T10:00:00+00:00"
+      },
+      {
         "id": "05d76e3fbf3c",
         "title": "Platform 37 and The AI Exchange: new spaces for AI innovation and discovery",
         "summary": "Platform 37 building",
@@ -2045,6 +2165,22 @@
         "published": "2026-03-12T08:53:22+00:00"
       },
       {
+        "id": "e36612a9578a",
+        "title": "傳藝工坊邁入十週年，累積近80萬人參觀！ 新工種首度亮相，邀您親睹接班好手路",
+        "summary": "&nbsp; &nbsp; &nbsp; &nbsp;由國立傳統藝術中心主辦的「傳統藝術接班人－傳統工藝推廣計畫」，自106年開辦至今，已邁入第十年，累積8項工種工藝師進駐宜蘭園區傳藝工坊，展現接班人好手路。辦理至今，駐園創作時數突破5萬小時、辦理推廣活動場次超過3千場、吸引近80萬人次造訪參觀，成果豐碩！本年度自115年3月5日起至12月16日，則由6項工種、12位工藝師進駐現場，不只展示手上真功夫，更要帶領民眾體驗傳統工藝走進日常的迷人魅力。&nbsp; &nbsp; &nbsp; &nbsp;傳藝中心表示，為協助傳統藝術人才傳承與發展，推廣傳統藝術，透過本計畫提供文化部文化資產局「重要傳...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251817",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-12T05:58:00+00:00"
+      },
+      {
+        "id": "adede8686702",
+        "title": "AI 也有電車難題？清大林勤富談演算法背後的偏見與風險",
+        "summary": "從什麼時候開始，我們遇到問題，第一反應不再是詢問朋友，也不是上網慢慢找資料，而是直接「問AI」？ AI不僅是輔 [&#8230;]\nThe post AI 也有電車難題？清大林勤富談演算法背後的偏見與風險 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/chingfulin_a/",
+        "source": "人文．島嶼",
+        "published": "2026-03-11T02:10:22+00:00"
+      },
+      {
         "id": "6ce900d36b5e",
         "title": "As the Planet Warms, a Humble Sea Bean Is Proving to Be a Promising Superfood",
         "summary": "Known as samphire, sea beans, glasswort or pickleweed, Salicornia thrives in high-saline environments, like coastal marshes, and has a lot of nutritional and medicinal properties",
@@ -2059,6 +2195,14 @@
         "url": "https://www.glt.org.tw/?p=13785",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-03-10T11:23:39+00:00"
+      },
+      {
+        "id": "d48d7b4f7c98",
+        "title": "韓國盤索里跨界鉅作《看・見沈清》5月盛大登台！",
+        "summary": "國立傳統藝術中心主辦「2026臺灣戲曲藝術節」即將迎來韓國跨界重量級鉅獻！韓國頂尖製作團隊MUTO與IPKOASON，帶來融合傳統戲曲、電子音樂與多媒體影像的科技藝術傑作《看・見沈清》（原文：두개의눈/THE TWO EYES）。本節目將於5月1日至5月3日於臺灣戲曲中心大表演廳連續演出三場，為觀眾呈現韓國經典傳統藝術與創新舞台科技的精彩對話。《看・見沈清》改編自韓國傳統說唱藝術「盤索里」最具代表性的傳世作品《沈清歌》。原作以孝女沈清為主角，描繪她為使失明父親重見光明而犧牲自身的感人傳說，而《看・見沈清》則跳脫既有敘事框架，將焦點轉向父親「沈學奎」的生命歷程，以多重視角呈現一位父親在失去與抉擇...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=251668",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-03-09T00:39:00+00:00"
       },
       {
         "id": "e93814826cf0",
@@ -2083,6 +2227,14 @@
         "url": "https://aseanplusjournal.com/2026/03/04/foreign-investment-guidelines_malaysia/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-03-04T11:04:06+00:00"
+      },
+      {
+        "id": "a100946e6a84",
+        "title": "假新聞長怎樣？文大郭文平藉語料庫分析，破譯「假新聞關鍵字」",
+        "summary": "臺灣已經連續10年蟬聯全球「受境外假消息影響」最嚴重國家。針對這現況，中國文化大學傳播學院院長郭文平長年投入相 [&#8230;]\nThe post 假新聞長怎樣？文大郭文平藉語料庫分析，破譯「假新聞關鍵字」 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/win-ping-kuo_a/",
+        "source": "人文．島嶼",
+        "published": "2026-03-04T00:00:28+00:00"
       },
       {
         "id": "ed07b32904b5",
@@ -2123,6 +2275,14 @@
         "url": "https://blog.google/company-news/inside-google/googlers/ask-a-techspert/what-is-a-world-model-project-genie/",
         "source": "Google DeepMind",
         "published": "2026-02-25T17:00:00+00:00"
+      },
+      {
+        "id": "5438c19d3535",
+        "title": "「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史",
+        "summary": "政大文學院院長陳秀芬從學生時期就對中醫充滿興趣，儘管沒走向懸壺濟世之路，卻成為中國古代醫療史的重要學者。 拍攝 [&#8230;]\nThe post 「人」也能入藥？　政大歷史系陳秀芬開講奇特明清醫療史 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/hsiu-fen-chen_a/",
+        "source": "人文．島嶼",
+        "published": "2026-02-25T00:00:36+00:00"
       },
       {
         "id": "bb14f4af5f85",
@@ -2228,7 +2388,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-03T19:16:23.191416+00:00"
+        "published": "2026-05-03T20:58:13.599349+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2236,7 +2396,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-03T19:16:23.191407+00:00"
+        "published": "2026-05-03T20:58:13.599338+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2244,7 +2404,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-03T19:16:23.191397+00:00"
+        "published": "2026-05-03T20:58:13.599326+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2252,7 +2412,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-03T19:16:23.191388+00:00"
+        "published": "2026-05-03T20:58:13.599315+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2260,7 +2420,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-03T19:16:23.191378+00:00"
+        "published": "2026-05-03T20:58:13.599305+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2268,7 +2428,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-03T19:16:23.191368+00:00"
+        "published": "2026-05-03T20:58:13.599294+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2276,7 +2436,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-03T19:16:23.191359+00:00"
+        "published": "2026-05-03T20:58:13.599284+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2284,7 +2444,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-03T19:16:23.191349+00:00"
+        "published": "2026-05-03T20:58:13.599273+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2292,7 +2452,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-03T19:16:23.191340+00:00"
+        "published": "2026-05-03T20:58:13.599262+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2300,7 +2460,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-03T19:16:23.191330+00:00"
+        "published": "2026-05-03T20:58:13.599252+00:00"
       },
       {
         "id": "701643542aa6",
@@ -2935,6 +3095,22 @@
         "published": "2025-12-08T02:25:16+00:00"
       },
       {
+        "id": "de8670c10d80",
+        "title": "fifteen years of from scratch",
+        "summary": "15 years of From Scratch, streaming live coding performances from around the world, December 6th to 8th 2025. View line &#8230; More",
+        "url": "https://blog.toplap.org/2025/12/05/fifteen-years-of-from-scratch/",
+        "source": "TOPLAP",
+        "published": "2025-12-05T15:27:48+00:00"
+      },
+      {
+        "id": "6076c51c1ff6",
+        "title": "Compassion through algorithms vol III",
+        "summary": "Just released, &#8220;Compassion through algorithms volume III&#8221; &#8211; a huge 55 track album full of really great music and noise &#8230; More",
+        "url": "https://blog.toplap.org/2025/12/05/compassion-through-algorithms-vol-iii/",
+        "source": "TOPLAP",
+        "published": "2025-12-05T10:00:16+00:00"
+      },
+      {
         "id": "3ec3852b8c19",
         "title": "第十届网络社会年会｜黄孙权教授 开幕致辞",
         "summary": "各位朋友好： 欢迎大家参加第十届的网络社会年会。这十年来我们作了很多不同的事情。十年过去了，我们下一步要去哪里？更重要的是，我们要从这里开始，想象未来十年会发生什么事情？ 首先我想跟各位介绍一下我们这十年来做了什么。网络社会研究所是一个独立的研究机构，得到了中国美术学院跨媒体学院的大力支持。我们建立了一个国际化的教学团队，合作伙伴包括众多艺术家、策展人、设计师以及国际知名学者。我们的第一届年会主题为“网络化的力量”（Forces of Reticulation）。每一年，我们都会邀请大约10到12位杰出的学者参与我们的讨论和分享。 第二届叫做“与列斐伏尔同行”(Another Walk wit...",
@@ -3005,6 +3181,14 @@
         "url": "https://www.miltonline.com/2025/11/22/just-ask-the-axis-jimi-hendrix-unpicked/",
         "source": "Miltonline",
         "published": "2025-11-22T22:08:47+00:00"
+      },
+      {
+        "id": "21ea0a56219e",
+        "title": "Live code stream for Palestine",
+        "summary": "In ~ 1 hour for now, a 24 hour stream of 96 performance slots will begin, to make music together &#8230; More",
+        "url": "https://blog.toplap.org/2025/11/21/live-code-stream-for-palestine/",
+        "source": "TOPLAP",
+        "published": "2025-11-21T23:09:18+00:00"
       },
       {
         "id": "e51bc19d39ac",
@@ -3191,6 +3375,14 @@
         "published": "2025-09-15T19:20:59+00:00"
       },
       {
+        "id": "70229ca11e7c",
+        "title": "Alpaca Festival and Conference 2025",
+        "summary": "We’re happy to be hosting Alpaca Festival in Sheffield from 12-14th September 2025, exploring a wide variety of algorithmic patterns &#8230; More",
+        "url": "https://blog.toplap.org/2025/09/06/alpaca-festival-and-conference-2025/",
+        "source": "TOPLAP",
+        "published": "2025-09-06T10:27:23+00:00"
+      },
+      {
         "id": "08d44c362b05",
         "title": "Summary of changes for August 2025",
         "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of August.\n\n\n\n\n  Wiktopher, updated songs.\n  100r.ca, updated cast iron cookware(seasoning oil suggestions).\n  Punk Rabbits, completed 15 new rabbits(#19-34).\n  Orca, pushed a little update that includes the...",
@@ -3205,6 +3397,14 @@
         "url": "https://writings.stephenwolfram.com/2025/08/i-have-a-theory-too-the-challenge-and-opportunity-of-avocational-science/",
         "source": "Stephen Wolfram Writings",
         "published": "2025-08-14T22:05:53+00:00"
+      },
+      {
+        "id": "cbefa7596820",
+        "title": "Click Nilson’s Collected Rewritings (1000th edition)",
+        "summary": "The much expanded 1000th edition of Click Nilson&#8217;s book Collected Rewritings has just been released (free download). As one of &#8230; More",
+        "url": "https://blog.toplap.org/2025/08/12/click-nilsons-collected-rewritings-1000th-edition/",
+        "source": "TOPLAP",
+        "published": "2025-08-12T11:20:03+00:00"
       },
       {
         "id": "c45d2012a0de",
@@ -3229,6 +3429,14 @@
         "url": "https://blog.freesound.org/?p=2248",
         "source": "The Freesound Blog",
         "published": "2025-07-02T12:36:09+00:00"
+      },
+      {
+        "id": "d041f8db200f",
+        "title": "Introducing:  Syntə",
+        "summary": "I was recently able to finish the process of porting (ability to run on different operating systems) so we&#8217;re now &#8230; More",
+        "url": "https://blog.toplap.org/2025/06/08/introducing-synt%c9%99/",
+        "source": "TOPLAP",
+        "published": "2025-06-08T21:28:27+00:00"
       },
       {
         "id": "a32c959ec3d4",
@@ -3287,6 +3495,14 @@
         "published": "2025-03-11T07:58:49+00:00"
       },
       {
+        "id": "499cb5af49b3",
+        "title": "Call for Baltic Live Coders",
+        "summary": "The annual festival Sound Days in Liepāja (Latvia) is calling out to all Baltic live coders, and anyone who is &#8230; More",
+        "url": "https://blog.toplap.org/2025/01/21/call-for-baltic-live-coders/",
+        "source": "TOPLAP",
+        "published": "2025-01-21T11:57:12+00:00"
+      },
+      {
         "id": "770b64eeefe1",
         "title": "Magical Mystery Tour",
         "summary": "A musical theoretical tour of the Beatles and their stylistic, lyrical, rhythmic, harmonic and technological invention.",
@@ -3295,12 +3511,36 @@
         "published": "2025-01-18T17:44:27+00:00"
       },
       {
+        "id": "b24f6cd265d2",
+        "title": "Solstice stream 2024 – Call for live coders!",
+        "summary": "We&#8217;re looking for 100+ live coders to each contribute a live 15 minute performance to the online TOPLAP solstice stream, &#8230; More",
+        "url": "https://blog.toplap.org/2024/12/09/solstice-stream-2024/",
+        "source": "TOPLAP",
+        "published": "2024-12-09T16:15:32+00:00"
+      },
+      {
+        "id": "845159e7f4d4",
+        "title": "Call for hosts: International Conference on Live Coding 2026 – deadline extended",
+        "summary": "Live coding refers to the creation and modification of algorithms with a creative purpose in real time often in the &#8230; More",
+        "url": "https://blog.toplap.org/2024/12/04/call-for-hosts-international-conference-on-live-coding-2026/",
+        "source": "TOPLAP",
+        "published": "2024-12-04T12:05:45+00:00"
+      },
+      {
         "id": "220d99bc854f",
         "title": "Bach’s Invention",
         "summary": "",
         "url": "https://www.miltonline.com/2024/11/19/bachs-invention/",
         "source": "Miltonline",
         "published": "2024-11-19T21:02:55+00:00"
+      },
+      {
+        "id": "e32d30bd4c02",
+        "title": "Creating a Livecoding Workshop for Kids",
+        "summary": "Introduction In September 2024, I embarked on my first major livecoding workshop project in a couple of years, in conjunction &#8230; More",
+        "url": "https://blog.toplap.org/2024/11/12/creating-a-livecoding-workshop-for-kids/",
+        "source": "TOPLAP",
+        "published": "2024-11-12T20:00:24+00:00"
       },
       {
         "id": "ab0f789fb026",
