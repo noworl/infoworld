@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-05-07T22:09:52.710936+00:00",
+  "updated_at": "2026-05-08T00:01:26.197492+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "9539b91f5de7",
+        "title": "KARG-ELERT Klaviersonate Nr. 1 fis-moll op. 50",
+        "summary": "KARG-ELERT  Klaviersonate Nr. 1 fis-moll op. 50 Michael Zieschang (Klavier) (1993).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nbgh_20260507",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-07T22:08:04+00:00"
+      },
+      {
+        "id": "cf22840a7478",
+        "title": "KARG-ELERT Klaviersonate Nr. 3 cis-moll op. 105",
+        "summary": "KARG-ELERT  Klaviersonate Nr. 3 cis-moll op. 105 Michael Zieschang (Klavier) (1993).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nbghf_202605",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-07T22:06:53+00:00"
+      },
+      {
+        "id": "93023b0f4356",
+        "title": "chuong-1402-uoc-hen-tram-nam",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_128049_1778191283",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-07T22:03:53+00:00"
+      },
+      {
+        "id": "a367faacf3a2",
+        "title": "chuong-13-hoan",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_43553_1778191253",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-07T22:02:06+00:00"
+      },
+      {
+        "id": "7ee70c0e82a8",
+        "title": "chuong-36-em-tron-di",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_87812_1778190915",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-07T21:57:47+00:00"
+      },
+      {
+        "id": "5d6d65271ae9",
+        "title": "chuong-1933-deu-nam-trong-du-doan-cua-ta",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_48132_1778190893",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-07T21:55:18+00:00"
+      },
+      {
+        "id": "0440c847e74c",
+        "title": "chuong-150-muonchang-h",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_209146_1778190676",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-07T21:53:24+00:00"
+      },
+      {
+        "id": "46eac325519d",
+        "title": "chuong-11-chuong-11",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_3132_1778190712",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-07T21:52:19+00:00"
+      },
+      {
+        "id": "6759b47e4e07",
+        "title": "chuong-2489-ho-phap-cho-ta",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_47236_1778190462",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-07T21:49:48+00:00"
+      },
       {
         "id": "c3b7cadbc011",
         "title": "chuong-4156-chet-di-cho-tao",
@@ -9,78 +81,6 @@
         "url": "https://archive.org/details/audio_doc-truyen-online_chap_33188_1778190524",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-05-07T21:49:41+00:00"
-      },
-      {
-        "id": "2bbb2e5ccb6f",
-        "title": "chuong-2199-hao-tinh-van-truong",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_73143_1778190381",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-07T21:47:19+00:00"
-      },
-      {
-        "id": "fa42653e2cc2",
-        "title": "chuong-908-dang-cap-tren-quy-toc",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_68465_1778190341",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-07T21:46:44+00:00"
-      },
-      {
-        "id": "bd04ac7ae823",
-        "title": "chuong-556",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_67015_1778190256",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-07T21:45:12+00:00"
-      },
-      {
-        "id": "3a9fc5221dc8",
-        "title": "chuong-81-mo-lo-nho-cho-nhi-ca",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_87242_1778190047",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-07T21:41:49+00:00"
-      },
-      {
-        "id": "2a26409f9817",
-        "title": "chuong-10689-truong-linh-phong-thoang-so-hai",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_12425_1778189955",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-07T21:40:08+00:00"
-      },
-      {
-        "id": "79906d94dba9",
-        "title": "chuong-47-nhan-ha-gap-rac-roi-sao",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_91330_1778189823",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-07T21:38:01+00:00"
-      },
-      {
-        "id": "db47e0e60eb0",
-        "title": "chuong-142-mo-hinh-khong-lo",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_2843_1778189757",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-07T21:36:54+00:00"
-      },
-      {
-        "id": "647c7fdc5029",
-        "title": "chuong-252",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_55928_1778189705",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-07T21:36:00+00:00"
-      },
-      {
-        "id": "69b0716a8e50",
-        "title": "chuong-88",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_44221_1778189202",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-07T21:27:42+00:00"
       },
       {
         "id": "4d57d79b6fd2",
@@ -467,6 +467,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "6aedf035e9be",
         "title": "COLOMBIA – Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002",
         "summary": "COLOMBIA –&nbsp;COLOMBIE&nbsp;Music of the Tukano and Cuna Peoples of Colombia – Rogue Records - FMS/NSA 002, Recorded by Brian Moser and Donald Tayler in 1960-1961, released in 1987 (LP)These unique, great sounding field recordings offer an in-depth glimpse into the sonic universe of the Colombian&...",
@@ -725,6 +805,38 @@
     ],
     "破(day)": [
       {
+        "id": "e332388b6b7f",
+        "title": "公司用你的滑鼠與鍵盤紀錄訓練 AI 沒有問題嗎？",
+        "summary": "Meta 近期揭露以軟體記錄員工的滑鼠移動、鍵盤輸入甚至螢幕畫面，用來訓練人工智慧。表面是提升效率，但也讓人擔 [&#8230;]",
+        "url": "https://infosecu.technews.tw/2026/05/08/meta-to-track-workers-clicks-and-keystrokes-to-train-ai/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-05-08T00:00:02+00:00"
+      },
+      {
+        "id": "40b9ffacb3b8",
+        "title": "記憶體漲勢將繼續？客戶要買單包括 EUV 在內設備給 SK 海力士擴充產能",
+        "summary": "在全球人工智慧（AI）熱潮的推動下，記憶體晶片面臨嚴重短缺，全球大型科技公司正積極拉攏韓國晶片製造商 SK 海 [&#8230;]",
+        "url": "https://technews.tw/2026/05/08/customers-are-purchasing-equipment-including-euv-equipment-to-expand-sk-hynixs-production-capacity/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-05-07T23:45:08+00:00"
+      },
+      {
+        "id": "68b7266516f5",
+        "title": "Articulated Nautilus Flexi Print #3DThursday #3DPrinting",
+        "summary": "One of the most unusual flexi articulated designs around — a nautilus with articulated tentacles, press-fit shell, and a stunning multi-part print-in-place build. Featured model on MakerWorld from Flexi JIMGA Download the files and learn more Every Thursday is #3dthursday here at Adafruit! The DIY 3...",
+        "url": "https://blog.adafruit.com/2026/05/07/articulated-nautilus-flexi-print-3dthursday-3dprinting-2/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-07T23:00:35+00:00"
+      },
+      {
+        "id": "7078b3ee6070",
+        "title": "Energy Core Lamp – Futuristic Sci-Fi LED #3DPrinting #3DThursday",
+        "summary": "katogab10 shares: Bring a true sci-fi atmosphere to your desk or room with the Energy Core Lamp. Inspired by futuristic reactors and power cores, this lamp is built from a fully 3D-printed housing combined with modular electronics, resulting in a clean and professional look. The glowing core is crea...",
+        "url": "https://blog.adafruit.com/2026/05/07/energy-core-lamp-futuristic-sci-fi-led-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-07T22:00:09+00:00"
+      },
+      {
         "id": "3063dafb2d6a",
         "title": "Fourteen Again review – make a new musical out of Victoria Wood’s warmly witty songs? Let’s do it!",
         "summary": "The Victoria Wood theatre, Bowness-on-WindermereMarking 10 years since the late comic’s death, this affectionate show blends her songs with a time-slip tale of friendship, regret and middle ageThis Lake District venue was called the Old Laundry theatre before it was recently renamed in homage to Vic...",
@@ -797,12 +909,12 @@
         "published": "2026-05-07T17:00:01+00:00"
       },
       {
-        "id": "6984f64ad775",
-        "title": "NeoPixel Light Beam Clock (ESP32 + WS2812B WiFi Wall Clock) #3DPrinting #3DThursday",
-        "summary": "schutz shares: This minimalist clock uses light beams from an LED light strip to display the time on the wall, and is a personal adaptation inspired by a project found online. This clock connects to WiFi and sets the time automatically, casting the hour, minute, and seconds onto the wall in the cent...",
-        "url": "https://blog.adafruit.com/2026/05/07/neopixel-light-beam-clock-esp32-ws2812b-wifi-wall-clock-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-07T16:00:44+00:00"
+        "id": "aaacc834b9af",
+        "title": "美股近期涨势仅由少数个股推动，脆弱风险显露",
+        "summary": "分析人士认为，市场表面的韧性，很大程度上只是源于少数几只市值巨大的科技和AI概念股在拉高指数，其他大部分个股的处境并不乐观。",
+        "url": "https://www.ftchinese.com/story/001109644",
+        "source": "FTChinese RSS - News",
+        "published": "2026-05-07T16:00:00+00:00"
       },
       {
         "id": "cdce88f3cfab",
@@ -811,14 +923,6 @@
         "url": "https://www.cna.com.tw/news/acul/202605070413.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-05-07T15:08:10+00:00"
-      },
-      {
-        "id": "23efc4e9acf7",
-        "title": "3D Hangouts – BLE Magic, Prototypes and Tintin Rocket",
-        "summary": "3D Hangouts – BLE Magic, Prototypes and Tintin Rocket https://youtube.com/live/AheQyqZ5-gg?feature=share This week @adafruit we’re chatting about Pedro’s BLE project using CLUE. Checking out prototypes from Noe. This week’s timelapse features a tintin rocket. Adafruit CLUE: https://www.adafruit.com/...",
-        "url": "https://blog.adafruit.com/2026/05/07/3d-hangouts-ble-magic-prototypes-and-tintin-rocket/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-07T15:00:43+00:00"
       },
       {
         "id": "1d2d1b5181d6",
@@ -1629,14 +1733,6 @@
         "published": "2026-04-29T16:00:00+00:00"
       },
       {
-        "id": "d442950e35d2",
-        "title": "德国、西班牙4月通胀率低于预期",
-        "summary": "欧元区最大和第四大经济体4月通胀率分别为2.9%和3.2%，突显中东战火导致的能源价格上涨尚未全面影响欧洲商品和服务价格。",
-        "url": "https://www.ftchinese.com/story/001109600",
-        "source": "FTChinese RSS - News",
-        "published": "2026-04-29T16:00:00+00:00"
-      },
-      {
         "id": "af1cff6ec0c3",
         "title": "長臂管轄發威？中國否決 Manus 收購案後，傳 Meta 準備撤銷交易",
         "summary": "在中國以國家安全為由否決 Meta 對 AI 新創公司 Manus 的收購案後，《華爾街日報》援引知情人士消息 [&#8230;]",
@@ -1691,22 +1787,6 @@
         "url": "https://blogs.loc.gov/loc/2026/04/some-of-the-newest-stuff-at-the-library/",
         "source": "Timeless",
         "published": "2026-04-28T13:00:27+00:00"
-      },
-      {
-        "id": "dbad0935e0ba",
-        "title": "強化新聞議價機制，澳洲擬向 Meta 等社群平台收費",
-        "summary": "澳洲今天公布法律草案，擬向 Meta、Google 與 TikTok 等科技巨頭徵收費用，除非他們自願達成協議 [&#8230;]",
-        "url": "https://technews.tw/2026/04/28/australia-draft-bill-strengthens-news-bargaining-rules/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-04-28T07:00:27+00:00"
-      },
-      {
-        "id": "42f362ca133d",
-        "title": "繼馬斯克後，Meta 宣布進軍太空太陽能",
-        "summary": "繼馬斯克拋出以太空太陽能構想後，Meta 也宣布進軍太空能源。Meta 近日與新創 Overview Ener [&#8230;]",
-        "url": "https://technews.tw/2026/04/28/meta-overview-energy/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-04-28T02:09:33+00:00"
       },
       {
         "id": "29488e13238b",
@@ -2316,7 +2396,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-07T22:09:51.620182+00:00"
+        "published": "2026-05-08T00:01:24.296115+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2324,7 +2404,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-07T22:09:51.620172+00:00"
+        "published": "2026-05-08T00:01:24.296106+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2332,7 +2412,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-07T22:09:51.620162+00:00"
+        "published": "2026-05-08T00:01:24.296096+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2420,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-07T22:09:51.620152+00:00"
+        "published": "2026-05-08T00:01:24.296086+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2428,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-07T22:09:51.620143+00:00"
+        "published": "2026-05-08T00:01:24.296076+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2436,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-07T22:09:51.620133+00:00"
+        "published": "2026-05-08T00:01:24.296065+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2444,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-07T22:09:51.620122+00:00"
+        "published": "2026-05-08T00:01:24.296055+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2452,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-07T22:09:51.620112+00:00"
+        "published": "2026-05-08T00:01:24.296045+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2460,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-07T22:09:51.620103+00:00"
+        "published": "2026-05-08T00:01:24.296035+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2468,15 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-07T22:09:51.620093+00:00"
+        "published": "2026-05-08T00:01:24.296025+00:00"
+      },
+      {
+        "id": "9d331825e22e",
+        "title": "Blackbird singing in the dead of night",
+        "summary": "I have mentioned the Beatles on the podcast before, but this is the first episode entirely about one of their songs. It will probably be the first of many. Blackbird singing in the dead of night by Dr. Ethan Hein Take these broken wings and learn to fly Read on Substack Bonus track: a mashup of &#82...",
+        "url": "https://www.ethanhein.com/wp/2026/blackbird-singing-in-the-dead-of-night/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-05-07T20:15:38+00:00"
       },
       {
         "id": "cbf5c17f2e7f",
@@ -2797,14 +2885,6 @@
         "url": "https://www.ethanhein.com/wp/2026/happy-in-a-silent-way-day-to-all-who-celebrate/",
         "source": "The Ethan Hein Blog",
         "published": "2026-02-18T14:17:42+00:00"
-      },
-      {
-        "id": "459d30ed54b7",
-        "title": "Free improvisation",
-        "summary": "Recently, I went to see a performance by my NYU colleague Ramin Amir Arjomand, whose counterpoint class meets on the opposite side of the wall from my pop theory class. Ramin’s concert was an hour and a half of extremely intense free improvisation on unaccompanied piano. It wasn’t jazz; Ramin is a c...",
-        "url": "https://www.ethanhein.com/wp/2026/free-improvisation/",
-        "source": "The Ethan Hein Blog",
-        "published": "2026-02-16T13:48:34+00:00"
       },
       {
         "id": "7d1d9b580aee",
