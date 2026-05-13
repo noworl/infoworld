@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-13T19:01:17.324716+00:00",
+  "updated_at": "2026-05-13T21:41:27.870222+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "3cc020e56d9d",
+        "title": "Everything You Love 11",
+        "summary": "everything you love lies unbroken 11.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/everything-you-love-11",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-13T20:47:00+00:00"
+      },
+      {
+        "id": "a6c928cdd7bc",
+        "title": "WashU Department of Classics",
+        "summary": "A collection of materials from the WashU Department of Classics.This item belongs to: collection/folksoundomy.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, Metadata, Text",
+        "url": "https://archive.org/details/WashUDepartmentofClassics",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-13T20:44:46+00:00"
+      },
       {
         "id": "de86f22ab19d",
         "title": "chuong-84",
@@ -51,36 +67,20 @@
         "published": "2026-05-13T18:26:11+00:00"
       },
       {
-        "id": "27e05e04402e",
-        "title": "chuong-175",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_58741_1778696440",
+        "id": "607d96340a9a",
+        "title": "KOKKONEN Sinfonie Nr. 2",
+        "summary": "KOKKONEN  Sinfonie Nr. 2 Finnisches Radio-Sinfonieorchester Leof Segerstam.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nfgx_20260513",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-13T18:21:11+00:00"
+        "published": "2026-05-13T18:25:44+00:00"
       },
       {
-        "id": "f8e37d146e2b",
-        "title": "chuong-101-hoang-gia-doc-sung-41",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_160400_1778696254",
+        "id": "6a00bf3f5cd2",
+        "title": "KOKKONEN Sinfonie Nr. 4",
+        "summary": "KOKKONEN  Sinfonie Nr. 4 Finnisches Radio-Sinfonieorchester Okko Kamu.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nxbhgd",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-13T18:19:45+00:00"
-      },
-      {
-        "id": "d6743dea522d",
-        "title": "chuong-1239-mat-co-phon-hoa-tam-huong-tinh-than-4",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_81812_1778696214",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-13T18:17:21+00:00"
-      },
-      {
-        "id": "5ce62017090a",
-        "title": "chuong-1182-chang-thay-nu-chinh-dau-ca",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_45929_1778696069",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-13T18:16:39+00:00"
+        "published": "2026-05-13T18:25:17+00:00"
       },
       {
         "id": "023b01291911",
@@ -725,6 +725,70 @@
     ],
     "破(day)": [
       {
+        "id": "cf1ad15f6af5",
+        "title": "Using ESP-Claw with a Local LLM #AdafruitPlayground #FeaturedNote @Adafruit",
+        "summary": "ESP-Claw is a new tiny AI device for Espressif microcontroller-based boards. Supported boards must have at least 8MB Flash and 8MB PSRAM to run ESP-Claw. ESP-Claw devices require a connection to the real world. This includes: WiFi (local) for communications A Large Language Model (LLM) for reasoning...",
+        "url": "https://blog.adafruit.com/2026/05/13/using-esp-claw-with-a-local-llm-adafruitplayground-featurednote-adafruit/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-13T20:57:36+00:00"
+      },
+      {
+        "id": "233cf9563985",
+        "title": "Meet Doloresaurus: Trevor Mead’s Full-Sized LED Dinosaur Costume",
+        "summary": "What do you get when you combine laser-cut foam, PVC, embedded LEDs, sound effects, and a love of dinosaurs? Doloresaurus — a larger-than-life wearable dinosaur costume created by maker Trevor Mead. In this interview, Trevor gives us a behind-the-scenes look at Doloresaurus&#8217; construction and f...",
+        "url": "https://blog.adafruit.com/2026/05/13/meet-doloresaurus-trevor-meads-full-sized-led-dinosaur-costume/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-13T20:25:00+00:00"
+      },
+      {
+        "id": "ebf502d8418c",
+        "title": "What is PlatformIO?",
+        "summary": "PlatformIO is an open-source, cross-platform ecosystem designed for embedded systems and IoT development. It acts as an advanced alternative to traditional environments like the Arduino IDE, abstracting away complex hardware toolchains and vendor development kits. While it features a standalone Comm...",
+        "url": "https://blog.adafruit.com/2026/05/13/what-is-platformio/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-13T20:01:37+00:00"
+      },
+      {
+        "id": "8164f7c1ca65",
+        "title": "Bioelectronic Sweat Sensor #WearableWednesday",
+        "summary": "Worn as a flexible skin patch and paired with a standard Android smartphone or a custom wrist-watch-like reader, the system simultaneously tracks cortisol, glucose, lactate and urea in sweat. Jerome Rajendran / UC Irvine via UC Irvine Rahim Esfandyar-pour, an assistant professor of electrical engine...",
+        "url": "https://blog.adafruit.com/2026/05/13/bioelectronic-sweat-sensor-wearablewednesday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-13T20:00:03+00:00"
+      },
+      {
+        "id": "23fd6e527ad8",
+        "title": "Reason 14 RV-9 guide: it’s a reverb, a granular and spectral effect, more",
+        "summary": "Reason's RV-9 is a major addition to Reason 14, with algorithmic reverb, spectral and granular effects, and plate, spring, and reverb, plus a ton of extras from shimmer to patchability. Let's take a deep dive and learn how to get the most out of it.\nThe post Reason 14 RV-9 guide: it&#8217;s a reverb...",
+        "url": "https://cdm.link/reason-14-rv-9-guide/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-05-13T19:48:44+00:00"
+      },
+      {
+        "id": "c2053f3b1411",
+        "title": "The best free text-to-speech software of 2026",
+        "summary": "TechRadar lists the best free text-to-speech software, to make it simple and easy to choose a text reader with the features you need. This is not simply useful for personal users, but has also become an important issue in business, where the need for effective communication tools has led to a surge ...",
+        "url": "https://blog.adafruit.com/2026/05/13/the-best-free-text-to-speech-software-of-2026/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-13T19:34:56+00:00"
+      },
+      {
+        "id": "b50f37e6efaa",
+        "title": "Make your Linux desktop look and feel like Windows 95",
+        "summary": "Chicago95 is an XFCE / Xubuntu Windows 95 total conversion. grassmunk on GitHub writes: I was unhappy with the various XFCE/GTK2/GTK3 Windows 95 based themes and decided to make one that was more consistent across the board for theming. Included in this theme: Icons to complete the icon theme starte...",
+        "url": "https://blog.adafruit.com/2026/05/13/make-your-linux-desktop-look-and-feel-like-windows-95/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-13T19:04:26+00:00"
+      },
+      {
+        "id": "c7ef0a45d4a3",
+        "title": "Forgiveness of a Monster review – psychodrama jostles with standup in foggy autofiction",
+        "summary": "Sherman theatre, Cardiff                               Connor Allen’s autobiographical show is a twister that winds in everything from gothic mystery to therapy sessions in an ambitious, rather incoherent mixConnor Allen’s autobiographical show features plenty of smoke and mirrors, literal and figur...",
+        "url": "https://www.theguardian.com/stage/2026/may/13/forgiveness-of-a-monster-review-sherman-theatre-cardiff",
+        "source": "Stage | The Guardian",
+        "published": "2026-05-13T19:00:05+00:00"
+      },
+      {
         "id": "329ca7bf6d64",
         "title": "The longest caves in the world",
         "summary": "The longest caves in the world all sit in areas where soluble rock dissolves under flowing groundwater. The highest concentrations show up in southern Kentucky, the Black Hills of South Dakota, and Mexico’s Yucatan Peninsula. The list keeps growing as exploration teams add new passages. Mammoth Cave...",
@@ -755,54 +819,6 @@
         "url": "https://blog.adafruit.com/2026/05/13/new-product-128x64-rgb-led-matrix-panel-2mm-pitch/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-05-13T17:45:45+00:00"
-      },
-      {
-        "id": "77bd5b619af7",
-        "title": "A radio satellite tracker and pass predictor for Android",
-        "summary": "Arty Bishop&#8217;s Look4Sat is a radio satellite tracker and pass predictor for Android, inspired by Gpredict. Thanks to Celestrak and SatNOGS you have access to over 9000 active satellites. You can search the entire database by NORAD Catalog Number or the satellite&#8217;s name. Orbital positions ...",
-        "url": "https://blog.adafruit.com/2026/05/13/a-radio-satellite-tracker-and-pass-predictor-for-android/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-13T16:46:02+00:00"
-      },
-      {
-        "id": "6686f3cc42ce",
-        "title": "Turn terminal apps into native macOS applications",
-        "summary": "Matt Robenolt&#8217;s appify turns TUI apps into real macOS applications. On Linux, terminal apps are just&#8230; apps. They get their own windows, their own Alt+Tab entries, their own launcher icons. On macOS, they&#8217;re second-class citizens—buried in terminal tabs, invisible to Cmd+Tab, forgot...",
-        "url": "https://blog.adafruit.com/2026/05/13/turn-terminal-apps-into-native-macos-applications/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-13T16:26:01+00:00"
-      },
-      {
-        "id": "9f99d0e8e50f",
-        "title": "EL Wire Animal Masks #WearableWednesday",
-        "summary": "If you’re looking for an easy, fun, and glowing Halloween costume this year (its never too early to start getting started), read on to learn how to make an animal mask with EL wire on a bike helmet. Plain wire supports the glowing design and because the helmet straps securely to your head, you have ...",
-        "url": "https://blog.adafruit.com/2026/05/13/el-wire-animal-masks-wearablewednesday-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-13T16:00:44+00:00"
-      },
-      {
-        "id": "96a610c68c6a",
-        "title": "Scientists create a powerful new form of aluminum that could replace rare earth metals",
-        "summary": "Researchers have uncovered an unusual new form of aluminium that challenges long-held assumptions about how this common metal behaves. Researchers at King’s College London have identified an unusual new form of aluminum, one of the most abundant metals in Earth’s crust. The discovery points to a muc...",
-        "url": "https://blog.adafruit.com/2026/05/13/scientists-create-a-powerful-new-form-of-aluminum-that-could-replace-rare-earth-metals/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-13T15:40:58+00:00"
-      },
-      {
-        "id": "4082d4619b3d",
-        "title": "Turning a toy into a Linux Cyberdeck with Raspberry Pi",
-        "summary": "Kati writes about making a Linux cyberdeck computer using a children&#8217;s toy, a VTech Lern und Musik Laptop, as a computer case. Every time I saw someone with one of those unnecessarily cute mini-laptops, I got extremely jealous. But most of them are a bit too expensive for something I&#8217;d o...",
-        "url": "https://blog.adafruit.com/2026/05/13/turning-a-toy-into-a-linux-cyberdeck-with-raspberry-pi/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-13T15:30:47+00:00"
-      },
-      {
-        "id": "05bdf5a561df",
-        "title": "Bring Your Gramophone Into the 21st Century With a DIY Bluetooth Addon!",
-        "summary": "This project is for all of the vintage audio fans out there. Check it out, from South African maker JGJ Matt: I have an obsession with vintage audio and unfortunately with my newest acquisition, a cabinet style Edison gramophone I&#8217;ve come to a realization that they take up a LOT of space for s...",
-        "url": "https://blog.adafruit.com/2026/05/13/bring-your-gramophone-into-the-21st-century-with-a-diy-bluetooth-addon/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-13T15:27:19+00:00"
       },
       {
         "id": "405824ac9ccf",
@@ -899,6 +915,14 @@
         "url": "https://humanityisland.nccu.edu.tw/lin-su-chuan_a/",
         "source": "人文．島嶼",
         "published": "2026-05-13T00:34:31+00:00"
+      },
+      {
+        "id": "4426d901502a",
+        "title": "Best practices for computer and browser use with Claude",
+        "summary": "Best practices for computer and browser use with Claude",
+        "url": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
+        "source": "Claude Blog",
+        "published": "2026-05-13T00:00:00+00:00"
       },
       {
         "id": "3c7212e7a459",
@@ -1163,14 +1187,6 @@
         "url": "https://cdm.link/schreibmaschine-eurorack-2026/",
         "source": "CDM Create Digital Music",
         "published": "2026-05-11T09:00:41+00:00"
-      },
-      {
-        "id": "300a1bf5081c",
-        "title": "‘Being offended isn’t the worst thing. Being poor is’: how Robby Hoffman became a controversial comedy sensation",
-        "summary": "She has suddenly become one of the world’s most successful comedians, with a hit Netflix special, an Emmy-nominated role in Hacks and another opposite Steve Carell. But many of her jokes raise hackles. Is she a genius – or an edgelord?‘Once in a while, you get to see a legend at the absolute top of ...",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/may/11/robby-hoffman-controversial-comedy-sensation-netflix",
-        "source": "Stage | The Guardian",
-        "published": "2026-05-11T04:00:45+00:00"
       },
       {
         "id": "9cd2222b2a80",
@@ -1621,14 +1637,6 @@
         "published": "2026-05-05T13:00:25+00:00"
       },
       {
-        "id": "ab5bf40b271c",
-        "title": "Buchla Ziggy: the complex oscillator gets a friendly standalone synth",
-        "summary": "It's been decades in coming: what if you took the best parts of the classic Buchla complex oscillator with its, well, ziggy waveshapes, and built a friendly compact synth around it? It's all that modular fun, but in a package that lets you tweak right away without connecting a single patch cord.\nThe...",
-        "url": "https://cdm.link/buchla-ziggy/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-05-05T09:40:58+00:00"
-      },
-      {
         "id": "4eee6946dee0",
         "title": "《私 少年觀察》攝影影像展",
         "summary": "《私 少年觀察》攝影影像展 / 【展覽介紹】 / 本次展覽《私 少年觀察》是我在高中階段的視覺存檔。 / 我將 [&#8230;]",
@@ -1787,14 +1795,6 @@
         "url": "https://finance.technews.tw/2026/04/30/meta-reports-first-quarter-2026-results/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-04-30T02:50:48+00:00"
-      },
-      {
-        "id": "25285fab60b3",
-        "title": "How Kepler built verifiable AI for financial services with Claude",
-        "summary": "How Kepler built verifiable AI for financial services with Claude",
-        "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
-        "source": "Claude Blog",
-        "published": "2026-04-30T00:00:00+00:00"
       },
       {
         "id": "6f64e331ed39",
@@ -2404,7 +2404,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-13T19:01:15.230488+00:00"
+        "published": "2026-05-13T21:41:26.840909+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2412,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-13T19:01:15.230478+00:00"
+        "published": "2026-05-13T21:41:26.840899+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2420,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-13T19:01:15.230468+00:00"
+        "published": "2026-05-13T21:41:26.840888+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2428,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-13T19:01:15.230458+00:00"
+        "published": "2026-05-13T21:41:26.840877+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2436,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-13T19:01:15.230447+00:00"
+        "published": "2026-05-13T21:41:26.840865+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2444,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-13T19:01:15.230437+00:00"
+        "published": "2026-05-13T21:41:26.840855+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2452,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-13T19:01:15.230427+00:00"
+        "published": "2026-05-13T21:41:26.840844+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2460,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-13T19:01:15.230417+00:00"
+        "published": "2026-05-13T21:41:26.840834+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2468,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-13T19:01:15.230407+00:00"
+        "published": "2026-05-13T21:41:26.840822+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2476,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-13T19:01:15.230397+00:00"
+        "published": "2026-05-13T21:41:26.840812+00:00"
       },
       {
         "id": "832aac095aa6",
