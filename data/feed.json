@@ -1,86 +1,94 @@
 {
-  "updated_at": "2026-05-12T22:18:29.705457+00:00",
+  "updated_at": "2026-05-13T00:10:43.480406+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "6d226a5081db",
+        "title": "ProTools ClipMap",
+        "summary": "wowzer!! if you use ProTools check this out: https://clipmapapp.com/openbeta &#160; &#160;",
+        "url": "https://www.musicofsound.co.nz/blog/protools-clipmap",
+        "source": "Music of Sound",
+        "published": "2026-05-12T22:24:53+00:00"
+      },
+      {
+        "id": "fcdf1104f3d8",
+        "title": "chuong-67-67-tam-biet-xuan-nhi",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_28882_1778624633",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-12T22:24:30+00:00"
+      },
+      {
+        "id": "45013f573695",
+        "title": "chuong-353-354",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_239443_1778624468",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-12T22:23:30+00:00"
+      },
+      {
+        "id": "1f4a1387e62f",
+        "title": "chuong-459-lac-thuong-chi-toi",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_56716_1778624441",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-12T22:21:22+00:00"
+      },
+      {
+        "id": "8e451e6d9aa6",
+        "title": "chuong-581-kiem-hai-than-long-dao-3",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_50720_1778623859",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-12T22:11:28+00:00"
+      },
+      {
+        "id": "15a3edd0e82a",
+        "title": "chuong-160-ket-thuc-cua-moi-tinh-tham-lang-da-o-ngay-truoc-mat-2-2",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_153884_1778623728",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-12T22:11:02+00:00"
+      },
+      {
+        "id": "433594651f29",
+        "title": "chuong-948",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_62868_1778623717",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-12T22:09:06+00:00"
+      },
+      {
+        "id": "8a1c2341c6c5",
+        "title": "chuong-43-quy-xuong-va-xin-loi",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_34551_1778623591",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-12T22:07:11+00:00"
+      },
+      {
+        "id": "ca4040162293",
+        "title": "chuong-23-nang",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_50260_1778623412",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-12T22:05:41+00:00"
+      },
+      {
         "id": "d05243b7629a",
         "title": "Everything You Love 09",
-        "summary": "everything you love lies unbroken 9.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, Metadata, VBR MP3",
+        "summary": "everything you love lies unbroken 9.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/everything-you-love-09",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-05-12T22:02:30+00:00"
       },
       {
-        "id": "37ab50eba4b3",
-        "title": "KOMMA Trio lirico",
-        "summary": "KOMMA  Trio lirico Trio adhoc.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/bngcb_202605",
+        "id": "69866974c9ee",
+        "title": "chuong-12-1-tat-nhien-co-se-khong-buong-tha",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_91271_1778623239",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-12T21:38:38+00:00"
-      },
-      {
-        "id": "d7e73736674c",
-        "title": "KRENEK Sämtliche Streichquartette",
-        "summary": "KRENEK  Sämtliche Streichquartette Sonare-Quartett (1987-89).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
-        "url": "https://archive.org/details/bg_20260512",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-12T21:34:57+00:00"
-      },
-      {
-        "id": "eafac69db169",
-        "title": "KOMMA Sonatine",
-        "summary": "KOMMA  Sonatine Matthias Maute (Altblockflöte) Maria Großmann (Cembalo).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nghx_20260512",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-12T21:32:30+00:00"
-      },
-      {
-        "id": "141bf7d650c2",
-        "title": "KOMMA Narkissos",
-        "summary": "KOMMA  Narkissos Karl-Michael Komma (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/dgf_20260512",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-12T21:27:31+00:00"
-      },
-      {
-        "id": "31b5d725207c",
-        "title": "مهرجان محمود معتمد و اسلام كابونجا مُخيف MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260512_20260512_2123",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-12T21:24:29+00:00"
-      },
-      {
-        "id": "5fbb16126a4f",
-        "title": "اغنية عايض صديت متعمد MP 3",
-        "summary": "ت.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260512_20260512_2116",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-12T21:17:56+00:00"
-      },
-      {
-        "id": "d736f39b4388",
-        "title": "اغنية محمد كيلاني يفك النحس MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260512_20260512_2103",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-12T21:04:54+00:00"
-      },
-      {
-        "id": "b8e6cc40091c",
-        "title": "اغنية نور الدين الطيار عاشق محتار MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260512_20260512_2057",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-12T20:58:34+00:00"
-      },
-      {
-        "id": "dc1b154865da",
-        "title": "اغنية حنين حسين المستدام MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260512_20260512_2050",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-12T20:51:07+00:00"
+        "published": "2026-05-12T22:01:11+00:00"
       },
       {
         "id": "c695b45f262a",
@@ -339,14 +347,6 @@
         "published": "2026-04-27T00:03:05+00:00"
       },
       {
-        "id": "38bbb417fd20",
-        "title": "Phase 8",
-        "summary": "Stoked to get this &#8211; Korg Phase 8 &#8211; I&#8217;ve only had a couple of jams with it so far, plugged into my bass rig it sounds great!! Having the tines exposed is the whole point although the attack pop&#8230;",
-        "url": "https://www.musicofsound.co.nz/blog/phase-8",
-        "source": "Music of Sound",
-        "published": "2026-04-26T23:50:38+00:00"
-      },
-      {
         "id": "6a7f083b7203",
         "title": "ALGERIA – ALGÉRIE Mohamed Tahar Fergani محمد طهار الفرڤاني  – El Boughi – Sawt El Menyar 1001",
         "summary": "ALGERIA –&nbsp;ALGÉRIEMohamed Tahar Fergani&nbsp;محمد&nbsp;طهار&nbsp;الفرڤاني&nbsp;&nbsp;–&nbsp;El Boughi – Sawt El Menyar 1001 (LP)&nbsp;Hadj Mohamed Tahar Fergani (1928-2016) was one of the most brilliant Algerian singers and violinists in the later half of the 20th century. Born into a musical fa...",
@@ -473,86 +473,6 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
-      },
-      {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "41985f054415",
@@ -882,6 +802,30 @@
         "summary": "三度擱淺的大翅鯨，該介入救援嗎？德國在網紅與民意狂熱之下，行政單位不顧科學建議，放任民間主導野放「成功」，但其生死無人知曉。如同一名鯨豚專家所說：「大自然是殘酷的，人類總徒勞地以為能有一個完美結局。」",
         "url": "https://www.twreporter.org/a/hello-world-2026-05-13",
         "source": "報導者",
+        "published": "2026-05-12T16:00:00+00:00"
+      },
+      {
+        "id": "1b70b204706c",
+        "title": "俄罗斯下调增长预期 战时经济失去势头",
+        "summary": "尽管眼下能源价格飙升，俄罗斯仍将今年经济增长预期从1.3%大幅下调至0.4%，称原因包括劳动力短缺、政府支出过高以及西方制裁。",
+        "url": "https://www.ftchinese.com/story/001109701",
+        "source": "FTChinese RSS - News",
+        "published": "2026-05-12T16:00:00+00:00"
+      },
+      {
+        "id": "9572caf0c36b",
+        "title": "首相地位不稳，英国借款成本飙升",
+        "summary": "英国长期借款成本升至1998年以来最高水平。斯塔默的首相宝座摇摇欲坠，引发债券抛售潮，使公共财政面临巨大压力。",
+        "url": "https://www.ftchinese.com/story/001109700",
+        "source": "FTChinese RSS - News",
+        "published": "2026-05-12T16:00:00+00:00"
+      },
+      {
+        "id": "ce1af3bc7b3e",
+        "title": "3.8%：中东战火推高美国通胀率",
+        "summary": "美国劳工统计局发布的4月同比价格涨幅高于3月的3.3%和2月的2.4%，凸显中东冲突引发的冲击波逐渐传导至整个美国经济。",
+        "url": "https://www.ftchinese.com/story/001109699",
+        "source": "FTChinese RSS - News",
         "published": "2026-05-12T16:00:00+00:00"
       },
       {
@@ -1221,22 +1165,6 @@
         "published": "2026-05-10T16:00:00+00:00"
       },
       {
-        "id": "69a424e640f2",
-        "title": "沙特阿美首季盈利增长",
-        "summary": "横贯阿拉伯半岛的东-西输油管道使该公司得以从红海港口发运石油，减少了对霍尔木兹海峡的依赖。该公司还受益于油价上涨。",
-        "url": "https://www.ftchinese.com/story/001109670",
-        "source": "FTChinese RSS - News",
-        "published": "2026-05-10T16:00:00+00:00"
-      },
-      {
-        "id": "b967584eab5c",
-        "title": "特朗普关税已对欧洲汽车制造商造成80亿欧元打击",
-        "summary": "该数字基于大众、宝马、梅赛德斯-奔驰、斯泰兰蒂斯和沃尔沃汽车高管的公开声明。欧洲汽车制造业正准备迎接特朗普再度升级对欧贸易战。",
-        "url": "https://www.ftchinese.com/story/001109669",
-        "source": "FTChinese RSS - News",
-        "published": "2026-05-10T16:00:00+00:00"
-      },
-      {
         "id": "0c02f3477b20",
         "title": "The Wasp review – tormented reunion with school bully lacks sting",
         "summary": "Southwark Playhouse, London Morgan Lloyd Malcolm’s revenge drama has plenty of rug-pulling  twists, but stilted presentation leaves little sense of jeopardyAs a revenge fantasy between a former school bully and her victim, Morgan Lloyd Malcolm’s 2015 drama sits squarely at the baroque end of the spe...",
@@ -1338,14 +1266,6 @@
         "summary": "マサ一家雖在殖民地台灣嘗試成為日本人，在日本群體中又受歧視、貶抑，這種夾在殖民地與帝國之間的遭遇，便是《流轉台灣的沖繩人：被帝國烙印的生命之旅》一書的核心敘事。",
         "url": "https://www.twreporter.org/a/bookreview-okinawas-colonial-modernity-imperial-trajectories-of-migrants-to-taiwan",
         "source": "報導者",
-        "published": "2026-05-08T16:00:00+00:00"
-      },
-      {
-        "id": "0d3915bde0b5",
-        "title": "美国制裁三家中国商业卫星公司",
-        "summary": "美国国务院表示，三家公司提供的卫星图像帮助伊朗对驻中东美军发动了军事打击。",
-        "url": "https://www.ftchinese.com/story/001109660",
-        "source": "FTChinese RSS - News",
         "published": "2026-05-08T16:00:00+00:00"
       },
       {
@@ -2396,7 +2316,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-12T22:18:28.687179+00:00"
+        "published": "2026-05-13T00:10:41.311965+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2324,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-12T22:18:28.687169+00:00"
+        "published": "2026-05-13T00:10:41.311955+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2332,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-12T22:18:28.687159+00:00"
+        "published": "2026-05-13T00:10:41.311945+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2340,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-12T22:18:28.687148+00:00"
+        "published": "2026-05-13T00:10:41.311934+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2348,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-12T22:18:28.687115+00:00"
+        "published": "2026-05-13T00:10:41.311924+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2356,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-12T22:18:28.687105+00:00"
+        "published": "2026-05-13T00:10:41.311913+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2364,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-12T22:18:28.687094+00:00"
+        "published": "2026-05-13T00:10:41.311903+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2372,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-12T22:18:28.687085+00:00"
+        "published": "2026-05-13T00:10:41.311893+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2380,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-12T22:18:28.687076+00:00"
+        "published": "2026-05-13T00:10:41.311883+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2388,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-12T22:18:28.687066+00:00"
+        "published": "2026-05-13T00:10:41.311872+00:00"
       },
       {
         "id": "832aac095aa6",
