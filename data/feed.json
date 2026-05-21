@@ -1,30 +1,86 @@
 {
-  "updated_at": "2026-05-21T16:20:57.325885+00:00",
+  "updated_at": "2026-05-21T19:04:45.944503+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "80f0b9810733",
-        "title": "chuong-31-neu-anh-chay-cham-mot-chut-thoi-se-chang-bao-gio-bat-kip-duoc",
+        "id": "70a442a26277",
+        "title": "chuong-47",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_59473_1779375470",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_44819_1779381193",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-21T15:00:17+00:00"
+        "published": "2026-05-21T16:33:39+00:00"
       },
       {
-        "id": "06d481b1cf73",
-        "title": "chuong-140",
+        "id": "e1ee432f12ab",
+        "title": "chuong-225-moi-nguoi-mot-tam-tu-1",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_58706_1779375190",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_79198_1779380899",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-21T14:53:47+00:00"
+        "published": "2026-05-21T16:28:45+00:00"
       },
       {
-        "id": "7c445faaf2c6",
-        "title": "chuong-16-lot-xac",
+        "id": "8a5cb7df84d8",
+        "title": "chuong-273",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_111127_1779375035",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_62187_1779380728",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-21T14:52:46+00:00"
+        "published": "2026-05-21T16:25:59+00:00"
+      },
+      {
+        "id": "7b878df4b861",
+        "title": "chuong-15",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_48913_1779380501",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-21T16:22:08+00:00"
+      },
+      {
+        "id": "1168820024b6",
+        "title": "chuong-626-thang-chuc-tham-phan-3",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_164573_1779380268",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-21T16:20:04+00:00"
+      },
+      {
+        "id": "8b3ea253e05f",
+        "title": "chuong-12-sung-va-hoa-hong-co-deu-khong-cam-noi-nua",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_192523_1779380144",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-21T16:18:13+00:00"
+      },
+      {
+        "id": "be56234ee945",
+        "title": "chuong-1734-gian-diep",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_47815_1779380137",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-21T16:16:02+00:00"
+      },
+      {
+        "id": "e8001c5b3c0b",
+        "title": "chuong-2875-xin-hai-dai-nhan-ra-tay-chem-chet-han",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_31903_1779380030",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-21T16:14:26+00:00"
+      },
+      {
+        "id": "73e8967f88e7",
+        "title": "chuong-60-tran-bong-hoi-h",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_248883_1779379719",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-21T16:11:02+00:00"
+      },
+      {
+        "id": "28725da4957e",
+        "title": "chuong-865",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_39322_1779379711",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-21T16:09:04+00:00"
       },
       {
         "id": "ac62e10af51b",
@@ -33,62 +89,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202605210388.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-05-21T14:49:22+00:00"
-      },
-      {
-        "id": "54e781af0343",
-        "title": "chuong-1327-nguoi-o-sat-ben-2",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_70862_1779374811",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-21T14:47:22+00:00"
-      },
-      {
-        "id": "35885f0d460d",
-        "title": "chuong-795",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_163405_1779374497",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-21T14:43:52+00:00"
-      },
-      {
-        "id": "abd76055fee6",
-        "title": "chuong-1",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_60976_1779374525",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-21T14:42:40+00:00"
-      },
-      {
-        "id": "8175ff7bde85",
-        "title": "chuong-657-toi-chi-noi-vay-thoi",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_29518_1779374251",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-21T14:37:56+00:00"
-      },
-      {
-        "id": "70f677fbc043",
-        "title": "chuong-8618-tran-nhi-con-co-thay-kho-chiu-o-dau-khong",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_10453_1779374134",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-21T14:37:53+00:00"
-      },
-      {
-        "id": "e56ded81dbef",
-        "title": "chuong-257",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_47869_1779374108",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-21T14:35:36+00:00"
-      },
-      {
-        "id": "51d117932cfd",
-        "title": "chuong-59",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_246663_1779373973",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-21T14:35:15+00:00"
       },
       {
         "id": "d5a8db6da690",
@@ -805,6 +805,38 @@
     ],
     "破(day)": [
       {
+        "id": "608adfe750f9",
+        "title": "Mozilla and Adafruit bring Web Serial workflows to Firefox",
+        "summary": "Exciting news just announced: Mozilla and Adafruit bring Web Serial workflows to Firefox As part of this week’s launch, Adafruit, one of the internet’s most beloved open-source hardware communities, is collaborating with us to test and validate what browser-based hardware development can look like i...",
+        "url": "https://blog.adafruit.com/2026/05/21/mozilla-and-adafruit-bring-web-serial-workflows-to-firefox/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-21T18:38:08+00:00"
+      },
+      {
+        "id": "2ab7e5b0794f",
+        "title": "John Park’s Workshop returns next week – 5/28/2026",
+        "summary": "Service outage incoming! No Workshop livestream today. We&#8217;ll be back next week. Join maker John Park in his workshop each week except for when his daughter graduates university! John Park’s Workshop — LIVE” is the place to see creative projects come to life, as John uses a wide variety of tool...",
+        "url": "https://blog.adafruit.com/2026/05/21/john-parks-workshop-returns-next-week-5282026/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-21T18:24:24+00:00"
+      },
+      {
+        "id": "a82716006651",
+        "title": "Mechanical 3×3 Macropad – Arduino Pro Micro + QMK #3DPrinting #3DThursday",
+        "summary": "pocnic_193156 shares: A 3D-printable hand-wired 3×3 mechanical macropad running QMK firmware on an Arduino Pro Micro. Great as a gift, learning project, or first custom HID build download the files on: https://www.printables.com/model/99816-mechanical-3&#215;3-macropad Every Thursday is #3dthursday ...",
+        "url": "https://blog.adafruit.com/2026/05/21/mechanical-3x3-macropad-arduino-pro-micro-qmk-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-21T18:00:44+00:00"
+      },
+      {
+        "id": "dfd8124ab215",
+        "title": "Bento Mechanical Keyboard Macropad – Hand-Wired + QMK #3Dprinting #3DThursday",
+        "summary": "Dwin17 shared this print on Printables! A little handwired macropad that you can take anywhere! Includes a rotary encoder slot perfect for volume control, page scrolling, and more. Note: EC11 rotary encoder is free floating therefore you may want to glue your encoder in or print a support for the bo...",
+        "url": "https://blog.adafruit.com/2026/05/21/bento-mechanical-keyboard-macropad-hand-wired-qmk-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-21T17:00:45+00:00"
+      },
+      {
         "id": "7587b07e6d16",
         "title": "Printed Mini Arcade Machine – Bartop Retro Gaming Cabinet #3DPrinting #3DThursday",
         "summary": "Archer shares: A compact bartop arcade machine for emulating NES/SNES/Genesis/MAME with a 4:3 screen, Sanwa joystick/buttons, customizable LED lighting, and a subwoofer download the files on: https://makerworld.com/en/models/94544-printed-mini-arcade-machine Every Thursday is #3dthursday here at Ada...",
@@ -885,14 +917,6 @@
         "published": "2026-05-21T10:54:52+00:00"
       },
       {
-        "id": "20aad4625c18",
-        "title": "Soldering Cable Holder – Print in Place #3DPrinting #3DThursday",
-        "summary": "Robotobi shares: A print-in-place soldering cable holder with a clip-in spring mechanism for hands-free soldering. Tested with Bambu PLA, PETG, and PETG-CF; includes a calibration test print to verify tolerances download the files on: https://makerworld.com/en/models/1005415-soldering-cable-holder-p...",
-        "url": "https://blog.adafruit.com/2026/05/21/soldering-cable-holder-print-in-place-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-21T10:00:51+00:00"
-      },
-      {
         "id": "3c4685d57423",
         "title": "林志玲婉謝接任文策院董事　董事長王時思：惋惜",
         "summary": "（中央社記者王寶兒、洪素津台北21日電）文策院日前宣布林志玲為新任董事，她今天在臉書說：「未曾想到這個稱謂的重量，比想像中沉重很多很多。」決定不接文策院董事。對此，文策院董事長王時思表示很惋惜。",
@@ -917,14 +941,6 @@
         "published": "2026-05-21T09:25:39+00:00"
       },
       {
-        "id": "8815835ce48a",
-        "title": "Enclosure for Sunton ESP32-2432S028R #3DPrinting #3DThursday",
-        "summary": "mdkendall shares: A 3D-printed enclosure for the popular Sunton &#8220;Cheap Yellow Display&#8221; ESP32 board (2.8&#8243; 320×240 touch screen), with an optional desk stand. A go-to project for ESPHome and Home Assistant dashboard builders download the files on: https://www.printables.com/model/685...",
-        "url": "https://blog.adafruit.com/2026/05/21/enclosure-for-sunton-esp32-2432s028r-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-21T09:00:41+00:00"
-      },
-      {
         "id": "9de0baae8662",
         "title": "Threads 音樂功能在台展開測試，三種視覺風格陪你發串文",
         "summary": "音樂是社群平台 Threads 最熱門的話題之一，因此 Threads 打造全新音樂功能，在台搶先展開測試，讓 [&#8230;]",
@@ -941,14 +957,6 @@
         "published": "2026-05-21T08:10:00+00:00"
       },
       {
-        "id": "b299895d4f67",
-        "title": "Apple Pocket Pi – Retro Handheld Games Console #3DPrinting #3DThursday",
-        "summary": "Applepie shares: A pocket-sized retro handheld built around the Raspberry Pi Zero 2 W with a 2.4&#8243; 320×240 SPI screen, 3000mAh battery, USB-C charging, mono audio, and built-in safe-shutdown hardware. Full Instructables build guide included download the files on: https://makerworld.com/en/model...",
-        "url": "https://blog.adafruit.com/2026/05/21/apple-pocket-pi-retro-handheld-games-console-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-21T08:00:47+00:00"
-      },
-      {
         "id": "daa3d4f4b01b",
         "title": "文策院：台灣原創IP拚國際  提升文化內容影響力",
         "summary": "（中央社記者黃自強吉隆坡21日專電）第2屆台灣IP授權展馬來西亞站登場，文策院副院長楊中天今天表示，台灣圖像IP與角色經營發展成熟，原創IP重視世界觀、情感連結與故事性，盼有更多台灣原創角色走向國際，提升文化內容產業影響力。",
@@ -963,14 +971,6 @@
         "url": "https://www.cna.com.tw/news/acul/202605210204.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-05-21T07:24:36+00:00"
-      },
-      {
-        "id": "697b0a9a9663",
-        "title": "Ambient LED Lamp Magic Cubes RGB (WLED) #3DPrinting #3DThursday",
-        "summary": "BobSonicLab shares: A Wi-Fi-controlled RGB lamp built around the ESP32 Live Mini Kit and WLED, using WS2812 mini LEDs on a narrow strip. USB-C powered with optional microphone or touch switch input download the files on: https://makerworld.com/en/models/720121-ambient-led-lamp-magic-cubes-rgb-wi-fi ...",
-        "url": "https://blog.adafruit.com/2026/05/21/ambient-led-lamp-magic-cubes-rgb-wled-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-21T07:00:22+00:00"
       },
       {
         "id": "5807eb90be1f",
@@ -1029,6 +1029,22 @@
         "published": "2026-05-21T01:00:00+00:00"
       },
       {
+        "id": "25af7ba405b5",
+        "title": "How our partners are putting Opus to work for cybersecurity",
+        "summary": "How our partners are putting Opus to work for cybersecurity",
+        "url": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
+        "source": "Claude Blog",
+        "published": "2026-05-21T00:00:00+00:00"
+      },
+      {
+        "id": "250200a91a05",
+        "title": "Claude now works with more security and compliance tools",
+        "summary": "Claude now works with more security and compliance tools",
+        "url": "https://claude.com/blog/compliance-api-security-partners",
+        "source": "Claude Blog",
+        "published": "2026-05-21T00:00:00+00:00"
+      },
+      {
         "id": "c5a75e863d58",
         "title": "義大利2027年將出版「臺灣漫遊錄」　譯者恰在台駐村",
         "summary": "（中央社記者黃雅詩羅馬20日專電）「臺灣漫遊錄」勇奪國際文學大獎「國際布克獎」，義大利知名出版社Fazi Editore今天宣布已排定在2027年初出版義文版，該書將由義大利知名漢學家傅雪蓮（Silvia Pozzi）翻譯，傅雪蓮目前正在台灣文學基地擔任駐村作家。",
@@ -1051,6 +1067,22 @@
         "url": "https://cdm.link/touchdesigner-intro-to-pops/",
         "source": "CDM Create Digital Music",
         "published": "2026-05-20T16:18:13+00:00"
+      },
+      {
+        "id": "449c769c5690",
+        "title": "故事與現實都環繞著「翻譯」的《臺灣漫遊錄》：文學譯者如何打破「隱形人」的出版體制，在世界為台灣發聲？",
+        "summary": "由台灣作家楊双子著《臺灣漫遊錄》、翻譯家金翎英譯《Taiwan Travelogue》奪下國際布克獎。當翻譯不只是字詞對照，譯者如何轉譯殖民傷痕與在地語境？外譯的突圍，能為台灣開闢出怎樣的國際位置？",
+        "url": "https://www.twreporter.org/a/podcast-2026-05-21",
+        "source": "報導者",
+        "published": "2026-05-20T16:00:00+00:00"
+      },
+      {
+        "id": "cc4b66d3e75d",
+        "title": "50種食材撐起全台半數營養午餐──全面免費後，餐盤菜色會更「精簡」嗎？",
+        "summary": "免費營養午餐雖可降低家長負擔，甚至減少學校催收午餐費的行政壓力；但政策全面上路後，如何在財政壓力下維持午餐品質，餐盤中的有機食材、多樣性與品質的種種細節，會不會發生變化？這些都是免費後的複雜挑戰。",
+        "url": "https://www.twreporter.org/a/data-reporter-free-lunch-policy-for-elementary-and-junior-high-schools",
+        "source": "報導者",
+        "published": "2026-05-20T16:00:00+00:00"
       },
       {
         "id": "8bc449aad0ac",
@@ -1373,18 +1405,18 @@
         "published": "2026-05-18T17:58:25+00:00"
       },
       {
-        "id": "a8969c851c79",
-        "title": "王祖鵬／藝術如何回應政治？評審團全體請辭、抗爭不斷的2026威尼斯雙年展",
-        "summary": "預展前，威尼斯雙年展官方、相關國家單位和藝術家們的對立，是箭在弦上的高度緊張；而以「國家」為單位進行展覽的威尼斯雙年展，其實早就是高度政治化的場域。那麼，我們該問的真正問題是：藝術（家）該如何去回應政治？",
-        "url": "https://www.twreporter.org/a/opinion-2026-venice-biennale-politics",
-        "source": "報導者",
-        "published": "2026-05-18T16:00:00+00:00"
-      },
-      {
         "id": "a1ee2422e729",
         "title": "「一件不留、一字不遮」：5年政治檔案拉鋸戰後，威權體制協力者會現形嗎？",
         "summary": "隨著《世紀血案》的爭議，社會興起「民主補課潮」，也帶起一波要求政治檔案全面解密的聲浪──只是，檔案交出來後，事情就結束了嗎？國安局今年228前將5萬多件政治檔案移交檔案局，宣示「一件不留、一字不遮」有多少可信度？",
         "url": "https://www.twreporter.org/a/political-archives-and-national-security-system-clash",
+        "source": "報導者",
+        "published": "2026-05-18T16:00:00+00:00"
+      },
+      {
+        "id": "a8969c851c79",
+        "title": "王祖鵬／藝術如何回應政治？評審團全體請辭、抗爭不斷的2026威尼斯雙年展",
+        "summary": "預展前，威尼斯雙年展官方、相關國家單位和藝術家們的對立，是箭在弦上的高度緊張；而以「國家」為單位進行展覽的威尼斯雙年展，其實早就是高度政治化的場域。那麼，我們該問的真正問題是：藝術（家）該如何去回應政治？",
+        "url": "https://www.twreporter.org/a/opinion-2026-venice-biennale-politics",
         "source": "報導者",
         "published": "2026-05-18T16:00:00+00:00"
       },
@@ -1437,18 +1469,18 @@
         "published": "2026-05-17T18:00:00+00:00"
       },
       {
-        "id": "e876ac32cf28",
-        "title": "在小說中當翻譯者，寫台灣人獨有的故事──專訪《臺灣漫遊錄》作家楊双子",
-        "summary": "以「虛構偽譯作」的文學形式，掀起文壇波瀾，又以譯本在國際發光發熱，《臺灣漫遊錄》今年更入圍英國國際布克獎決選，創下台灣文學的最佳紀錄。作家楊双子以百合歷史小說「翻譯」日治社會，探索台灣人的身世起源。",
-        "url": "https://www.twreporter.org/a/interview-taiwan-travelogue-a-novel-writer-yang-shuang-zi",
-        "source": "報導者",
-        "published": "2026-05-17T16:00:00+00:00"
-      },
-      {
         "id": "b15497c54730",
         "title": "翻譯讓原作展延生命──《臺灣漫遊錄》英、日、韓譯本，在不同語境開出異花",
         "summary": "《臺灣漫遊錄》的外譯，揭示翻譯的真正重量：日文版重新面對「原文」幻象，英文版把多語殖民情境拆解給世界看，韓文版則在相似殖民記憶中尋找切合今日台灣的語言。翻譯不只是背叛原作，更是讓原作繼續生長的方式。",
         "url": "https://www.twreporter.org/a/taiwan-travelogue-a-novel-english-japanese-korean-translators",
+        "source": "報導者",
+        "published": "2026-05-17T16:00:00+00:00"
+      },
+      {
+        "id": "e876ac32cf28",
+        "title": "在小說中當翻譯者，寫台灣人獨有的故事──專訪《臺灣漫遊錄》作家楊双子",
+        "summary": "以「虛構偽譯作」的文學形式，掀起文壇波瀾，又以譯本在國際發光發熱，《臺灣漫遊錄》今年更入圍英國國際布克獎決選，創下台灣文學的最佳紀錄。作家楊双子以百合歷史小說「翻譯」日治社會，探索台灣人的身世起源。",
+        "url": "https://www.twreporter.org/a/interview-taiwan-travelogue-a-novel-writer-yang-shuang-zi",
         "source": "報導者",
         "published": "2026-05-17T16:00:00+00:00"
       },
@@ -1677,22 +1709,6 @@
         "published": "2026-05-14T00:00:00+00:00"
       },
       {
-        "id": "09e011e281f4",
-        "title": "【淡江大橋通車圖輯】跨越淡水河口的新日常",
-        "summary": "橋是答案，還是下一個問題的開始？淡水河口的天際線、新市鎮的擴張極限、河口兩岸往後的生活樣貌，都還在大橋的影子裡，繼續被牽動。",
-        "url": "https://www.twreporter.org/a/photo-danjiang-bridge-opening",
-        "source": "報導者",
-        "published": "2026-05-13T16:00:00+00:00"
-      },
-      {
-        "id": "f894df04bc88",
-        "title": "失準的「有一孩聘外籍幫傭」政策：家長用錢買服務背後，要的是「時間」",
-        "summary": "政府當初預計讓雙薪育兒家庭「多一個幫手、少一分疲憊」，「多一個選擇」，但由客觀條件看，能「有選擇」的依舊是社經地位高、收入多，資源相對豐厚的家庭。一位媽媽說：「我們需要的，只是幾小時的彈性、一個下午休假，或是能讓我放心開口請假的好主管。」",
-        "url": "https://www.twreporter.org/a/easing-hiring-foreign-domestic-childcare-helpers-time-poor-parents",
-        "source": "報導者",
-        "published": "2026-05-13T16:00:00+00:00"
-      },
-      {
         "id": "7fe4c81e6953",
         "title": "How 'Seabird Sue' Blends Art and Science to Attract Birds Back to Lost Habitat",
         "summary": "For the past decade, Sue Schubel has been making detailed decoys of terns, puffins and other seabirds to entice real ones to restored or new homes",
@@ -1745,22 +1761,6 @@
         "title": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
         "summary": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
         "url": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
-        "source": "Claude Blog",
-        "published": "2026-05-12T00:00:00+00:00"
-      },
-      {
-        "id": "3ee22f46bdf8",
-        "title": "Claude for the legal industry",
-        "summary": "Claude for the legal industry",
-        "url": "https://claude.com/blog/claude-for-the-legal-industry",
-        "source": "Claude Blog",
-        "published": "2026-05-12T00:00:00+00:00"
-      },
-      {
-        "id": "35abbf0c0187",
-        "title": "Code w/ Claude SF 2026 recap: Building on the AI exponential",
-        "summary": "Code w/ Claude SF 2026 recap: Building on the AI exponential",
-        "url": "https://claude.com/blog/code-w-claude-sf-2026-sf",
         "source": "Claude Blog",
         "published": "2026-05-12T00:00:00+00:00"
       },
@@ -2484,7 +2484,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-21T16:20:56.254124+00:00"
+        "published": "2026-05-21T19:04:45.067859+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2492,7 +2492,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-21T16:20:56.254114+00:00"
+        "published": "2026-05-21T19:04:45.067848+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-21T16:20:56.254104+00:00"
+        "published": "2026-05-21T19:04:45.067838+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-21T16:20:56.254094+00:00"
+        "published": "2026-05-21T19:04:45.067828+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-21T16:20:56.254084+00:00"
+        "published": "2026-05-21T19:04:45.067817+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-21T16:20:56.254075+00:00"
+        "published": "2026-05-21T19:04:45.067807+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-21T16:20:56.254065+00:00"
+        "published": "2026-05-21T19:04:45.067796+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-21T16:20:56.254055+00:00"
+        "published": "2026-05-21T19:04:45.067786+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-21T16:20:56.254045+00:00"
+        "published": "2026-05-21T19:04:45.067776+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-21T16:20:56.254035+00:00"
+        "published": "2026-05-21T19:04:45.067765+00:00"
       },
       {
         "id": "8d0b9cba06cf",
