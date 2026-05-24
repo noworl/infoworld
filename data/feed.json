@@ -1,22 +1,86 @@
 {
-  "updated_at": "2026-05-24T14:41:23.940504+00:00",
+  "updated_at": "2026-05-24T16:08:28.657180+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "dfe06a5e2075",
-        "title": "DeNguoiTanTheCauSinhNguoiDuaVaoMyNuDongThanhThanTH",
-        "summary": "DeNguoiTanTheCauSinhNguoiDuaVaoMyNuDongThanhThanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/DeNguoiTanTheCauSinhNguoiDuaVaoMyNuDongThanhThanTH",
+        "id": "cdb05a44d8bc",
+        "title": "chuong-493-con-trai-cua-dai-truong-lao-thien-co-dien",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_68625_1779633530",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-24T14:17:42+00:00"
+        "published": "2026-05-24T14:41:10+00:00"
       },
       {
-        "id": "e5ea780424c2",
-        "title": "ThanThoaiSonTrangBatDauHuongNuMaDauCauLinhChungTH",
-        "summary": "ThanThoaiSonTrangBatDauHuongNuMaDauCauLinhChungTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThanThoaiSonTrangBatDauHuongNuMaDauCauLinhChungTH",
+        "id": "5b890721d46e",
+        "title": "chuong-5956",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_108060_1779633364",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-24T13:38:10+00:00"
+        "published": "2026-05-24T14:38:23+00:00"
+      },
+      {
+        "id": "30aeffeeefee",
+        "title": "chuong-3984-suu-hon",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_21542_1779633377",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-24T14:36:43+00:00"
+      },
+      {
+        "id": "6a3dd701ebb5",
+        "title": "chuong-473-sinh-menh-be-nho",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_29288_1779633209",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-24T14:33:57+00:00"
+      },
+      {
+        "id": "700425abadde",
+        "title": "chuong-2043-dai-dich-dot-kich",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_120878_1779632981",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-24T14:32:02+00:00"
+      },
+      {
+        "id": "58fc4b1bc8ff",
+        "title": "chuong-189",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_236956_1779632831",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-24T14:29:29+00:00"
+      },
+      {
+        "id": "e4af716a732e",
+        "title": "chuong-2363",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_84177_1779632927",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-24T14:29:14+00:00"
+      },
+      {
+        "id": "633c2420fa9b",
+        "title": "chuong-9",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_61506_1779632790",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-24T14:27:03+00:00"
+      },
+      {
+        "id": "6ef56dffcb76",
+        "title": "chuong-780-cung-xong-viec",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_51411_1779632571",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-24T14:23:22+00:00"
+      },
+      {
+        "id": "492a3e9af5e2",
+        "title": "chuong-735",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_134925_1779632456",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-24T14:23:13+00:00"
       },
       {
         "id": "67ce4aa882cb",
@@ -27,14 +91,6 @@
         "published": "2026-05-24T13:33:57+00:00"
       },
       {
-        "id": "2e57502c05c4",
-        "title": "HaiTacDiNguVuongAkainuCauTaChoNguTH",
-        "summary": "HaiTacDiNguVuongAkainuCauTaChoNguTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/HaiTacDiNguVuongAkainuCauTaChoNguTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-24T13:15:07+00:00"
-      },
-      {
         "id": "6ff9b57fb646",
         "title": "客家合唱賽頒獎　客委會盼每個人都成推廣大使",
         "summary": "（中央社記者魯鋼駿苗栗縣24日電）2026客家合唱比賽於苗栗縣苗北藝文中心舉辦2天，客委會主秘吳克能今天出席頒獎表示，只要社會上多一個人開始理解客家文化，客語推動就會更順遂，盼每個人都能成為客語文化推廣大使。",
@@ -43,68 +99,12 @@
         "published": "2026-05-24T13:02:46+00:00"
       },
       {
-        "id": "7f71f5a16411",
-        "title": "ThangTroiHinhTrinhTH",
-        "summary": "ThangTroiHinhTrinhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThangTroiHinhTrinhTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-24T13:00:54+00:00"
-      },
-      {
-        "id": "ccd60655a224",
-        "title": "DaiDuongRaiMoiTienNhanTieuHuyTuSieuCapDangYeuTH",
-        "summary": "DaiDuongRaiMoiTienNhanTieuHuyTuSieuCapDangYeuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/DaiDuongRaiMoiTienNhanTieuHuyTuSieuCapDangYeuTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-24T12:47:07+00:00"
-      },
-      {
-        "id": "a3c58c58207c",
-        "title": "TroChoiTroThanhSuThatTaDuaVaoTinhBaoCongLuocPhongThanTH",
-        "summary": "TroChoiTroThanhSuThatTaDuaVaoTinhBaoCongLuocPhongThanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/TroChoiTroThanhSuThatTaDuaVaoTinhBaoCongLuocPhongThanTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-24T12:44:07+00:00"
-      },
-      {
         "id": "668b139d1693",
         "title": "高雄首例本土登革熱規避疫調　市府重罰18萬",
         "summary": "（中央社記者蔡孟妤高雄24日電）高雄市衛生局今天表示，昨天公布新增今年全國本土首例登革熱確診個案，於啟動疫調時拒絕並規避提供相關活動足跡，且後續仍避重就輕，將從重裁罰新台幣18萬元。",
         "url": "https://www.cna.com.tw/news/ahel/202605240189.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-05-24T12:39:25+00:00"
-      },
-      {
-        "id": "6888f0b5cdc3",
-        "title": "chuong-161-ta-muon-len-nui-1",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_22856_1779626077",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-24T12:34:58+00:00"
-      },
-      {
-        "id": "3ffdc3d7c47f",
-        "title": "DaiDuongMoiNgayLieuChetCanGianLyTheDanPhaPhongTH",
-        "summary": "DaiDuongMoiNgayLieuChetCanGianLyTheDanPhaPhongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/DaiDuongMoiNgayLieuChetCanGianLyTheDanPhaPhongTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-24T12:33:45+00:00"
-      },
-      {
-        "id": "6c452756e369",
-        "title": "chuong-188",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_54963_1779625946",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-24T12:32:48+00:00"
-      },
-      {
-        "id": "9ffe75f0064c",
-        "title": "chuong-57",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_truyen-tinh-yeu-doc-truyen-online_chap_179510_1779625798",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-24T12:32:17+00:00"
       },
       {
         "id": "fb6db9959abc",
@@ -2484,7 +2484,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-24T14:41:21.999236+00:00"
+        "published": "2026-05-24T16:08:26.627956+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2492,7 +2492,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-24T14:41:21.999226+00:00"
+        "published": "2026-05-24T16:08:26.627947+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-24T14:41:21.999215+00:00"
+        "published": "2026-05-24T16:08:26.627938+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-24T14:41:21.999205+00:00"
+        "published": "2026-05-24T16:08:26.627928+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-24T14:41:21.999195+00:00"
+        "published": "2026-05-24T16:08:26.627919+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-24T14:41:21.999185+00:00"
+        "published": "2026-05-24T16:08:26.627909+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-24T14:41:21.999175+00:00"
+        "published": "2026-05-24T16:08:26.627900+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-24T14:41:21.999164+00:00"
+        "published": "2026-05-24T16:08:26.627891+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-24T14:41:21.999154+00:00"
+        "published": "2026-05-24T16:08:26.627881+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-24T14:41:21.999144+00:00"
+        "published": "2026-05-24T16:08:26.627872+00:00"
       },
       {
         "id": "debddd5d63c6",
