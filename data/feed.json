@@ -1,166 +1,182 @@
 {
-  "updated_at": "2026-05-28T05:15:22.488957+00:00",
+  "updated_at": "2026-05-28T10:18:54.006526+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "5d17a5663832",
-        "title": "chuong-122-ngoai-truyen-ha-quan-nhan-van-da-hac-1",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_16047_1779942697",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-28T04:32:08+00:00"
-      },
-      {
-        "id": "d68614bb796b",
-        "title": "chuong-28-sa-hoa-hong-sao-the-toi-khong-o-nha-nen-em-khong-ngu-duoc-hum",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_73497_1779942441",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-28T04:27:53+00:00"
-      },
-      {
-        "id": "add4276c60b9",
-        "title": "chuong-495-tao-co-the-suy-nghi-cho-may-chet-toan-thay",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_28709_1779942110",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-28T04:22:23+00:00"
-      },
-      {
-        "id": "985f2cb73828",
-        "title": "chuong-152",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_55828_1779941907",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-28T04:18:51+00:00"
-      },
-      {
-        "id": "b6ea438cb989",
-        "title": "chuong-89",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_43259_1779941815",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-28T04:17:19+00:00"
-      },
-      {
-        "id": "7e8b4203d669",
-        "title": "chuong-4373-nguoi-la-mong-diem",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_22648_1779941374",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-28T04:10:01+00:00"
-      },
-      {
-        "id": "636d365fe677",
-        "title": "chuong-139",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_66596_1779941221",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-28T04:07:40+00:00"
-      },
-      {
-        "id": "924dbc92c2f8",
-        "title": "chuong-1588-be-duong-lieu-vao-nha-4",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_25540_1779940899",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-28T04:02:09+00:00"
-      },
-      {
-        "id": "54bb3801cf7e",
-        "title": "chuong-96",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_52746_1779940725",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-28T03:59:14+00:00"
-      },
-      {
-        "id": "c3b4fa92a9c9",
-        "title": "chuong-2093-thanh-nguu-dap-phong-4",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_82666_1779940533",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-28T03:55:55+00:00"
-      },
-      {
-        "id": "c7da2e0ce6aa",
-        "title": "人口對策新戰略推18項措施　衛福部盼反轉出生率趨勢",
-        "summary": "（中央社記者曾以寧台北28日電）總統賴清德昨天宣布政府因應少子女化與人口結構挑戰18項戰略。衛生福利部長石崇良今天說，初期盼出生率回到原趨勢甚至反轉，成長津貼則預計透過施政計畫編入116年公務預算。",
-        "url": "https://www.cna.com.tw/news/ahel/202605280049.aspx",
+        "id": "199bed70117c",
+        "title": "涉偷拍醫美診所累計41家違規 衛福部將公布名單",
+        "summary": "（中央社記者沈佩瑤台北28日電）涉偷拍醫美診所又新增6家有問題，包括台北市3家、桃園市2家、嘉義市1家；目前累計稽查1090家，其中41家遭查獲違規。衛福部預計下週在醫美專區公布名單，包括縣市及業者名稱等。",
+        "url": "https://www.cna.com.tw/news/ahel/202605280281.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-28T02:17:27+00:00"
+        "published": "2026-05-28T09:51:48+00:00"
       },
       {
-        "id": "cac8be592056",
-        "title": "李紫彤北歐駐村工作坊　探問暴力與療癒問題",
-        "summary": "（中央社記者辜泳秝斯德哥爾摩28日專電）台灣藝術家李紫彤日前於瑞典駐村，今日將在芬蘭舉辦工作坊，透過對於戰爭的深刻思考，以及對MeToo運動倖存者的關懷；李紫彤透過個展「中陰裡的慈悲與復仇」與工作坊探討肉體不公到後人類戰爭對當代人的影響。",
-        "url": "https://www.cna.com.tw/news/acul/202605280035.aspx",
+        "id": "7d55124e9534",
+        "title": "臺灣漫遊錄首批加印1萬本出貨　書腰加註得獎",
+        "summary": "（中央社記者邱祖胤桃園28日電）「臺灣漫遊錄」獲英國國際布克獎，讀者詢問度高，得獎後首批加印1萬本，今天從桃園裝訂廠出貨，書腰印上醒目的「2026國際布克獎得主」字樣，具有紀念意義，值得讀者珍藏。",
+        "url": "https://www.cna.com.tw/news/acul/202605280269.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-28T01:07:56+00:00"
+        "published": "2026-05-28T09:33:22+00:00"
       },
       {
-        "id": "07091020a6b3",
-        "title": "造山者美東放映　紐約駐處推動台美半導體人才培訓",
-        "summary": "（中央社記者廖漢原紐約27日專電）紀錄片「造山者」近期在美國東岸紐約、紐澤西與賓州等地放映，駐紐約辦事處長李志強指出，駐處近期與區內美國的大學院校研議半導體人才培訓計畫，協助與台灣合作，因應產業人才需求。",
-        "url": "https://www.cna.com.tw/news/ahel/202605280028.aspx",
+        "id": "c81f181f720b",
+        "title": "台肥收益降　陳駿季：肥料凍漲、3年吸收10億元",
+        "summary": "（中央社記者汪淑芬台北28日電）有立委關切台肥公司近年收益下降，農業部長陳駿季今天說明，主要是肥料凍漲，近3年來台肥吸收約新台幣10億元，造成利潤減少。",
+        "url": "https://www.cna.com.tw/news/ahel/202605280268.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-28T00:18:41+00:00"
+        "published": "2026-05-28T09:33:20+00:00"
       },
       {
-        "id": "7b1b69262a7a",
-        "title": "新北台南花蓮防38度高溫　吳德榮：29日轉雨降溫",
-        "summary": "（中央社記者黃巧雯台北28日電）氣象署今天針對大台北等12縣市發布高溫資訊，其中新北、台南及花蓮留意可能連續出現攝氏38度極端高溫。氣象專家吳德榮表示，明天梅雨季第4波鋒面南下，將轉雨降溫。",
-        "url": "https://www.cna.com.tw/news/ahel/202605280025.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-28T00:07:34+00:00"
+        "id": "c3edcb33bbc3",
+        "title": "國立臺灣歷史博物館：2026/04/21-2026/10/18【亞洲在場：臺灣與亞洲運動會特展】",
+        "summary": "2026年，適逢第20屆亞洲運動會（以下簡稱亞運），本展以亞運為題，敘事從「洲際、國家、社會與個人」四種尺度切 [&#8230;]",
+        "url": "https://www.tmaroc.org.tw/1150528-3/",
+        "source": "最新消息 – 中華民國博物館學會",
+        "published": "2026-05-28T09:32:07+00:00"
       },
       {
-        "id": "a7283df79ee7",
-        "title": "台鐵施工致號誌故障　影響7列車、累計延誤118分鐘",
-        "summary": "（中央社記者黃巧雯台北28日電）台鐵中壢至埔心間今晨因施工導致號誌故障，雙線一度不通，台鐵公司表示，經搶修後，已於上午6時5分雙線恢復正常行車，共影響7列、累計延誤118分鐘。",
-        "url": "https://www.cna.com.tw/news/ahel/202605280021.aspx",
+        "id": "b5f7d401d8c7",
+        "title": "鋒面影響入夜中部以北防雷雨　薔蜜最快29日晚間轉中颱",
+        "summary": "（中央社記者黃巧雯台北28日電）氣象署表示，今晚至明天，中部以北和宜蘭地區有陣雨或雷雨，其他地區午後有局部短暫雷陣雨；預估颱風薔蜜明晚至30日增強為中度颱風，5月31日、6月1日將最接近台灣。",
+        "url": "https://www.cna.com.tw/news/ahel/202605280263.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-27T23:50:25+00:00"
+        "published": "2026-05-28T09:28:10+00:00"
       },
       {
-        "id": "c10615f30977",
-        "title": "民主剛果伊波拉疫情蔓延　世衛籲停火、烏干達關邊界",
-        "summary": "（中央社奈洛比27日綜合外電報導）烏干達政府今天表示，為防止伊波拉病毒擴散，烏干達即起關閉與鄰國剛果民主共和國的邊界。世衛秘書長譚德塞今天則呼籲民主剛果東部交戰方立即停火，以利防堵疫情。",
-        "url": "https://www.cna.com.tw/news/aopl/202605270403.aspx",
+        "id": "eb51a5fd65bb",
+        "title": "WHA行動團兩大突破　石崇良：雙部長與智慧醫療展",
+        "summary": "（中央社記者沈佩瑤台北28日電）世界衛生大會（WHA）日前落幕，衛生福利部長石崇良今天表示，此行有兩大突破，一是在外交部助力下，首度於日內瓦召開「雙部長」國際記者會，並首次舉辦台灣智慧醫療展。",
+        "url": "https://www.cna.com.tw/news/ahel/202605280237.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-27T15:57:29+00:00"
+        "published": "2026-05-28T08:53:14+00:00"
       },
       {
-        "id": "c257128e1721",
-        "title": "移民署規劃AI講座 盼提升新住民數位能力",
-        "summary": "（中央社記者黃麗芸台北27日電）為協助新住民提升數位能力，移民署今天表示，近日特別規劃AI講座並邀新住民永續發展策進會理事長蕭千霈開講，帶領新住民了解AI科技如何實際運用在生活中。",
-        "url": "https://www.cna.com.tw/news/ahel/202605270398.aspx",
+        "id": "34700f3d7698",
+        "title": "基隆石垣島渡輪今首航　端午連假航班銷售一空",
+        "summary": "（中央社記者潘欣彤基隆市28日電）基隆-石垣島航線今天舉行首航典禮，航商華岡集團說，首航航班受限於銷售時間較短，銷售4成，人數約為200餘人。但端午節等連假航班已銷售一空，後續航班預定狀況不俗。",
+        "url": "https://www.cna.com.tw/news/ahel/202605280233.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-27T14:21:14+00:00"
+        "published": "2026-05-28T08:48:06+00:00"
       },
       {
-        "id": "c0e71b4309e5",
-        "title": "今彩539第115129期　頭獎2注中獎",
-        "summary": "（中央社台北27日電）今彩539第115129期開獎，中獎號碼21、18、03、19、02；派彩結果，頭獎2注中獎，每注獎金新台幣800萬元。",
-        "url": "https://www.cna.com.tw/news/ahel/202605270396.aspx",
+        "id": "d93880384863",
+        "title": "醫療設置標準修正案將預告　三班護病比分階上路",
+        "summary": "（中央社記者沈佩瑤台北28日電）三班護病比入法，但仍未預告「醫療機構設置標準」修正草案，衛福部長石崇良今天表示，總統賴清德已宣示分階段實施，第1階段明年上路，擬下週預告，包括實施期程等都會納入。",
+        "url": "https://www.cna.com.tw/news/ahel/202605280225.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-27T14:06:10+00:00"
+        "published": "2026-05-28T08:31:48+00:00"
       },
       {
-        "id": "68ef038d05c6",
-        "title": "今彩539第115129期開獎",
-        "summary": "（中央社台北27日電）今彩539第115129期開獎，中獎號碼21、18、03、19、02。3星彩中獎號碼839，4星彩中獎號碼1306。",
-        "url": "https://www.cna.com.tw/news/ahel/202605270379.aspx",
+        "id": "af9a1525b9d7",
+        "title": "台鐵富里至池上設備故障不通　估晚間8時30分修復",
+        "summary": "（中央社記者黃巧雯台北28日電）台鐵池上站今天接連發生事故，先是貨物列車出軌，普悠瑪號出站時又勾斷電車線，富里至池上間暫時不通。台鐵表示，路線中受阻列車已拖離，持續搶修電力設備，估晚間8時30分修復。",
+        "url": "https://www.cna.com.tw/news/ahel/202605280221.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-27T12:43:28+00:00"
+        "published": "2026-05-28T08:22:39+00:00"
       },
       {
-        "id": "40d895d54224",
-        "title": "臺灣漫遊錄獲獎　楊双子感謝「跨國灰姑娘」啟發",
-        "summary": "（中央社記者邱祖胤台北27日電）楊双子「臺灣漫遊錄」獲得「國際布克獎」，她在接受外媒訪問時提到最喜歡的虛構作品是台灣作家藍佩嘉的「跨國灰姑娘」，藍佩嘉今天在臉書貼文表示「很開心，我要送她一本新版」，楊双子也回應感謝對方的啟發。",
-        "url": "https://www.cna.com.tw/news/acul/202605270370.aspx",
+        "id": "92bb584702df",
+        "title": "台師大與越南肯特大學簽約　合作培育AI工程人才",
+        "summary": "（中央社記者陳至中台北28日電）台灣師範大學與越南肯特大學（Can Tho University）簽署合作備忘錄，共同培育AI、半導體、工程科技人才，並期盼拓展台灣與東南亞高教合作契機。",
+        "url": "https://www.cna.com.tw/news/ahel/202605280220.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-27T12:17:08+00:00"
+        "published": "2026-05-28T08:21:37+00:00"
+      },
+      {
+        "id": "68bf6e3976e0",
+        "title": "chuong-387-387-nhap-thien-do",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_90518_1779956437",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-28T08:21:08+00:00"
+      },
+      {
+        "id": "52c22bdf8007",
+        "title": "chuong-348",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_42427_1779956248",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-28T08:17:53+00:00"
+      },
+      {
+        "id": "7dae3f227262",
+        "title": "chuong-1513-bo-lac-hac-la-1",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_75366_1779955979",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-28T08:13:27+00:00"
+      },
+      {
+        "id": "a77da4093bec",
+        "title": "chuong-2203-kiem-doan-long-quet-ngang-qua",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_31135_1779955702",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-28T08:08:55+00:00"
+      },
+      {
+        "id": "6001b1f7b6ec",
+        "title": "chuong-156",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_54899_1779955493",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-28T08:05:20+00:00"
+      },
+      {
+        "id": "b503a7043f67",
+        "title": "chuong-57-can-tro",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_31692_1779955341",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-28T08:02:52+00:00"
+      },
+      {
+        "id": "0903a9c891f2",
+        "title": "chuong-115",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_64464_1779955134",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-28T07:59:16+00:00"
+      },
+      {
+        "id": "68cff3ec309f",
+        "title": "chuong-1092-mot-toa-thanh-co-hung-vi-da-hien-ra-truoc-mat",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_46947_1779954622",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-28T07:51:02+00:00"
+      },
+      {
+        "id": "1b717e4db46d",
+        "title": "chuong-789-vua-roi-sao-nguoi-khong-noi",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_23481_1779954479",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-28T07:48:31+00:00"
+      },
+      {
+        "id": "42d408034a63",
+        "title": "chuong-137-137-nguoi-moi-cua-bo-hung-ti-3",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_80708_1779954271",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-28T07:44:56+00:00"
+      },
+      {
+        "id": "f96c443c5323",
+        "title": "育兒假怎麼請、育兒津貼如何6+3？QA一次看",
+        "summary": "（中央社記者吳欣紜台北28日電）彈性育嬰假未來將升級為「育兒假」，不僅天數翻倍增加為60天，原有育兒留停津貼給付長度也可變6+3個月，誰能申請、如何領到6+3個月，QA一次看。",
+        "url": "https://www.cna.com.tw/news/ahel/202605280199.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-05-28T07:38:52+00:00"
+      },
+      {
+        "id": "5c6dab8a2064",
+        "title": "國立海洋科技博物館：2026/06/05-2027/05/02【極地探險Exploring the Poles特展】",
+        "summary": "一百年來，即使極地氣候惡劣不堪，仍無法阻擋冒險者前仆後繼地跨越180°緯度，來到這個「就像一本歷史書」的未知國 [&#8230;]",
+        "url": "https://www.tmaroc.org.tw/1150528-2/",
+        "source": "最新消息 – 中華民國博物館學會",
+        "published": "2026-05-28T07:25:13+00:00"
       },
       {
         "id": "2faad031bf72",
@@ -305,22 +321,6 @@
         "url": "https://www.tmaroc.org.tw/1150512/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-05-12T07:30:26+00:00"
-      },
-      {
-        "id": "16daaae06d5a",
-        "title": "中央研究院民族學研究所博物館：2026/05/16【2026年518國際博物館日系列活動─走進博物館─遇見跨文化的風景】",
-        "summary": "2026國際博物館日的主題是「博物館聯結歧異的世界：對話、諒解、包容、和平」。中研院民族所博物館致力於促進多元 [&#8230;]",
-        "url": "https://www.tmaroc.org.tw/1150512-2/",
-        "source": "最新消息 – 中華民國博物館學會",
-        "published": "2026-05-12T03:14:06+00:00"
-      },
-      {
-        "id": "d1d3d152b3a9",
-        "title": "國立臺灣文學館：2026/5/15-5/18【國際博物館日展會活動】",
-        "summary": "國際博物館日展會活動——5/15-5/18臺南登場！讓博物館聯結歧異的世界 &#160; &#160; 博物館 [&#8230;]",
-        "url": "https://www.tmaroc.org.tw/1150511/",
-        "source": "最新消息 – 中華民國博物館學會",
-        "published": "2026-05-11T08:12:08+00:00"
       },
       {
         "id": "f8e742cc72b1",
@@ -725,6 +725,94 @@
     ],
     "破(day)": [
       {
+        "id": "43ae9b84ff30",
+        "title": "Magnetic Desk Organizer – Modular Phone & Pen Set #3DPrinting #3DThursday",
+        "summary": "matikkutik shares: A modular magnetic desk organizer with 4 compartments — phone stand, pen holder, and two storage boxes — that snap together using 6×3mm magnets. Configurable layout for left or right-handed setups download the files on: https://makerworld.com/en/models/647758-magnetic-desk-organiz...",
+        "url": "https://blog.adafruit.com/2026/05/28/magnetic-desk-organizer-modular-phone-pen-set-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-28T10:00:30+00:00"
+      },
+      {
+        "id": "3bcd62f2793f",
+        "title": "Succulent pot – planter #3DPrinting #3DThursday",
+        "summary": "@buran.michal shares: An updated multipart articulated octopus where the legs print separately and plug into the body, fixing bed-adhesion issues common to print-in-place designs. Comes with tight and loose connector versions for different scales download the files on: https://makerworld.com/en/mode...",
+        "url": "https://blog.adafruit.com/2026/05/28/succulent-pot-planter-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-28T09:00:05+00:00"
+      },
+      {
+        "id": "6d1779c3a81c",
+        "title": "SD-Card & USB-Stick Holder #3DPrinting #3DThursday",
+        "summary": "MakerDennis shares: An upgraded storage holder for 2 slim USB sticks, 4 SD cards, and 6 micro SD cards. Compact and clean for any maker workspace download the files on: https://makerworld.com/en/models/1714008-sd-card-usb-stick-holder Every Thursday is #3dthursday here at Adafruit! The DIY 3D printi...",
+        "url": "https://blog.adafruit.com/2026/05/28/sd-card-usb-stick-holder-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-28T08:00:23+00:00"
+      },
+      {
+        "id": "95eaec8a8740",
+        "title": "OB短評》#581重組大腦與日常感知的極品好書懶人包",
+        "summary": "●康熙的紅票\n全球化中的清朝\nThe Social Genome: The New Science of Nature and Nurture\n孫立天著，聯經出版，450元\n推薦原因： 知   議   樂   \n以一紙被遺忘的皇帝諭令「紅票」為起點，重建傳教士自順治開始建立與滿人的關係，於康熙朝深入內廷、參與核心政務，至雍正禁教的歷史軌跡。打破傳教士僅為「技術工具」的刻板印象，揭示其既是皇帝倚重的欽差，也捲入清宮權力角力。在層層鋪展的政治博弈中，讀者被帶入早期全球化現場，見證北京與羅馬之間的跨域互動，並重新理解中西文化衝突的歷史面貌。【內容簡介➤】\n●豆腐放洋史\n從東方仙術到西方餐桌的千年旅程...",
+        "url": "https://www.openbook.org.tw/article/p-72629",
+        "source": "Openbook閱讀誌",
+        "published": "2026-05-28T07:40:00+00:00"
+      },
+      {
+        "id": "1700f7026715",
+        "title": "Flexi Octopus – Print-in-Place Articulated Sea Creature #3DPrinting #3DThursday",
+        "summary": "Flexi_Mania shares: A fully articulated flexi octopus designed for fluid tentacle motion and clean joints straight off the build plate. Print-in-place one-piece model, no supports, beginner friendly. Single-color and multicolor ready download the files on: https://makerworld.com/en/models/2149457-fl...",
+        "url": "https://blog.adafruit.com/2026/05/28/flexi-octopus-print-in-place-articulated-sea-creature-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-28T07:00:29+00:00"
+      },
+      {
+        "id": "c9acbd8f4e92",
+        "title": "Meta 大推社群平台＋AI 聊天機器人訂閱制 股價嗨",
+        "summary": "科技巨頭 Meta 宣布推出旗下社群平台 App 與 Meta AI 聊天機器人的訂閱方案，股價聞訊跳高。 B [&#8230;]",
+        "url": "https://technews.tw/2026/05/28/meta-launches-social-ai-subscription-service-shares-surge/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-05-28T06:10:50+00:00"
+      },
+      {
+        "id": "90faeb6055f3",
+        "title": "Adjustable Phone Stand – MagSafe + LED Lamp Convertible #3DPrinting #3DThursday",
+        "summary": "MatthewGhost shares: A foldable circular stand (95mm) that adapts as a MagSafe phone holder or compact LED lamp. Clamp-based system lets you adjust joint stiffness, and the cable wraps around the edge when folded. Includes a custom wrench in the STL files download the files on: https://makerworld.co...",
+        "url": "https://blog.adafruit.com/2026/05/28/adjustable-phone-stand-magsafe-led-lamp-convertible-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-28T06:00:32+00:00"
+      },
+      {
+        "id": "c1c2af6f7a98",
+        "title": "Redcliffe review – beautiful musical gets straight to the heart of forbidden love",
+        "summary": "Southwark Playhouse Borough, London Writer-performer Jordan Luke Gage delivers a charming, funny and devastating story of two gay men in 18th-century BristolQueer history is made up of bad news. The official documents record the raids, the arrests, the executions. The rest – all the raging love and ...",
+        "url": "https://www.theguardian.com/stage/2026/may/28/redcliffe-review-southwark-playhouse-borough-london",
+        "source": "Stage | The Guardian",
+        "published": "2026-05-28T06:00:03+00:00"
+      },
+      {
+        "id": "af36bf5a7c29",
+        "title": "From the mail bag…",
+        "summary": "From the mail bag! Firstly let me say that You Guys are Bloody AWSOME! I Love the way you run your Business, and the innovations and the support you give. I’m a senior Pensioner and it takes me weeks to peel back my order from what I want to what I need (can afford) &#8211; [&#8230;]",
+        "url": "https://blog.adafruit.com/2026/05/28/from-the-mail-bag-791/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-28T05:30:38+00:00"
+      },
+      {
+        "id": "fb4363c9fb0c",
+        "title": "奧地利布雷根茨之春國際舞蹈節  雲門唯一亞洲受邀",
+        "summary": "（中央社記者趙靜瑜台北28日電）雲門舞集「定光」歐洲巡演，將登上奧地利布雷根茨之春國際舞蹈節，成為本屆唯一受邀的亞洲舞團，與侯非胥．謝克特（Hofesh Shechter）等頂尖藝術家同台。",
+        "url": "https://www.cna.com.tw/news/acul/202605280128.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-05-28T05:18:19+00:00"
+      },
+      {
+        "id": "6f6ff39c6a2f",
+        "title": "Lumea – Modern Futuristic Prism Lamp #3DPrinting #3DThursday",
+        "summary": "mike.stl shares: A minimalist futuristic table lamp with pixel-like cutouts revealing a soft ambient glow. Designed for separate-part printing (no AMS needed) and compatible with remote-controlled RGBW puck lights for color and brightness control download the files on: https://makerworld.com/en/mode...",
+        "url": "https://blog.adafruit.com/2026/05/28/lumea-modern-futuristic-prism-lamp-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-28T05:00:18+00:00"
+      },
+      {
         "id": "bc639b1a3814",
         "title": "2026台灣工藝季據點翻倍　百大文化基地助陣",
         "summary": "（中央社記者王寶兒台北28日電）繼去年舉辦首屆台灣工藝季後，工藝中心今天宣布今年活動6月開跑，相較去年共有38處據點，在文化部所選百大文化基地助陣下，今年共有65處以上活動據點，讓工藝走進社區。",
@@ -789,67 +877,27 @@
         "published": "2026-05-27T21:50:42+00:00"
       },
       {
-        "id": "344a2f13081c",
-        "title": "Muxcard is a fully working computer the size of a credit card",
-        "summary": "krauseler on GitHub has developed the Muxcard, a fully working computer that is literally the size of a credit card. I’ve always been interested in extreme space constraints — but this one pushed it to another level. Products like AirTag-style card trackers and similar devices that claim to be &#822...",
-        "url": "https://blog.adafruit.com/2026/05/27/muxcard-is-a-fully-working-computer-the-size-of-a-credit-card/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-27T20:40:18+00:00"
-      },
-      {
-        "id": "82c707bdacf3",
-        "title": "Monitoring High-Risk Pregnancies with a Wearable Ultrasound Patch",
-        "summary": "Researchers have developed a wearable patch to monitor high-risk pregnancies. It connects to a computer that interprets ultrasound data. Sheng Xu via Stanford University Researchers at Stanford Medicine, the University of California San Diego and Oxford University developed a wearable ultrasound pat...",
-        "url": "https://blog.adafruit.com/2026/05/27/monitoring-high-risk-pregnancies-with-a-wearable-ultrasound-patch/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-27T20:00:16+00:00"
-      },
-      {
-        "id": "c95a7d5faa93",
-        "title": "A voice codec for PCMFlow allowing two-way voice over ESP-NOW",
-        "summary": "PCMFlow is a lightweight audio decode and PCM flow library for Arduino. As is, voice audio had too high a bitrate for use in applications like ESP-NOW mesh networking. The G.722 wideband (HD voice) codec add-on for PCMFlow is aimed at real-time two-way voice over packet radio / network — VoIP, ESP-N...",
-        "url": "https://blog.adafruit.com/2026/05/27/a-voice-codec-for-pcmflow-allowing-two-way-voice-over-esp-now/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-27T19:30:09+00:00"
-      },
-      {
-        "id": "f4bcd9a8436b",
-        "title": "An open source project coloring zine",
-        "summary": "Severin Schols of MakerVan Labs has created the open-source hardware OSHW Coloring Zine, a booklet with pictures and descriptions of various open source hardware projects. It&#8217;s perfect to colored in. The projects are: Arduino Uno (Rev3) Novena OpenROV EggBot Makerbot Cupcake Safecast bGeigie N...",
-        "url": "https://blog.adafruit.com/2026/05/27/an-open-source-project-coloring-zine/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-27T19:08:15+00:00"
-      },
-      {
-        "id": "e58dd7628b91",
-        "title": "LUNA – a toolkit for working with USB using FPGA technology",
-        "summary": "LUNA is a toolkit by Great Scott Gadgets for working with USB using FPGA technology, providing gateware and software to enable USB applications. Some things you can use LUNA for, currently: Protocol analysis for Low-, Full-, or High- speed USB. LUNA provides gateware that allow passive USB monitorin...",
-        "url": "https://blog.adafruit.com/2026/05/27/luna-a-toolkit-for-working-with-usb-using-fpga-technology/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-27T18:41:27+00:00"
-      },
-      {
-        "id": "23ffbca11d27",
-        "title": "Move data between two devices via QR codes and an HTML page",
-        "summary": "ShadowCat is a fully offline, single-file HTML page for moving data between two devices via QR codes — intended for old phones whose radios (BLE, NFC, etc.) are dead but whose cameras and browsers still work. Generate — encode text into a single QR code. Scan — decode a single QR via the camera. Sen...",
-        "url": "https://blog.adafruit.com/2026/05/27/move-data-between-two-devices-via-qr-codes-and-an-html-page/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-27T18:32:48+00:00"
-      },
-      {
-        "id": "d7b55a724284",
-        "title": "White Rabbit provides sub-nanosecond accuracy and picoseconds precision of synchronization for large distributed systems",
-        "summary": "White Rabbit provides sub-nanosecond accuracy and picoseconds precision of synchronization for large distributed systems. It also allows for deterministic and reliable data delivery. White Rabbit allows you to precision time-tag measured data and lets you trigger data taking in large installations w...",
-        "url": "https://blog.adafruit.com/2026/05/27/white-rabbit-provides-sub-nanosecond-accuracy-and-picoseconds-precision-of-synchronization-for-large-distributed-systems/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-27T18:14:32+00:00"
-      },
-      {
         "id": "28881d4a9282",
         "title": "找回民族記憶拼圖：被以色列掠奪檔案後，兩位巴勒斯坦導演的文化抵抗",
         "summary": "「記憶是一種包袱，令人痛苦。記憶會騙人，給人虛假的安慰，但記憶也關於歷史、民族。巴勒斯坦並不真正存在，我們唯一擁有的，往往只是記憶中的巴勒斯坦。」",
         "url": "https://www.twreporter.org/a/tidf-2026-kamal-aljafari-and-saeed-taji-farouky",
         "source": "報導者",
+        "published": "2026-05-27T16:00:00+00:00"
+      },
+      {
+        "id": "0c35fc5c7593",
+        "title": "欧盟计划扩大针对中国产品实施进口配额和关税",
+        "summary": "欧盟工业战略专员塞茹尔内表示，欧盟将更加系统地实施进口配额和关税，因为化工、金属和清洁技术等欧洲产业正面临“生死存亡”威胁。",
+        "url": "https://www.ftchinese.com/story/001109867",
+        "source": "FTChinese RSS - News",
+        "published": "2026-05-27T16:00:00+00:00"
+      },
+      {
+        "id": "97f1ccd6a492",
+        "title": "黄仁勋将加入清华经管学院顾问委员会",
+        "summary": "知情人士透露，黄仁勋已接受邀请，同意加入这个由库克担任主席、包括多名美国科技和金融界名人的委员会。",
+        "url": "https://www.ftchinese.com/story/001109862",
+        "source": "FTChinese RSS - News",
         "published": "2026-05-27T16:00:00+00:00"
       },
       {
@@ -859,6 +907,14 @@
         "url": "https://www.ftchinese.com/story/001109858",
         "source": "FTChinese RSS - News",
         "published": "2026-05-27T16:00:00+00:00"
+      },
+      {
+        "id": "7831177df4db",
+        "title": "閱讀隨身聽S14E8》作家温若喬／那些藏在台語裡的豐富情感：用詩為生活的皺褶命名ft.《日花閃爍》",
+        "summary": "作家温若喬近日出版第一本台語詩集《日花閃爍》，此前也曾翻譯泰戈爾《漂鳥集》台語版。今年（2026）世界母語日時，她與總統賴清德分別朗讀台語詩作，讓許多讀者感受到台語細膩而深刻的情感。温若喬是心理師、詩人、作家，也是台語社群「學台語 Ohtaigi」的經營者，透過社群內容，讓更多年輕世代重新靠近台語。\n本集《閱讀隨身聽》，邀請温若喬分享《日花閃爍》的創作歷程，也談台語如何承載情感、記憶與詩意，以及她如何透過社群、心理學與文學，連結讀者與母語之間的距離。內容精彩，請別錯過。\n➤從3國語言重新認識台語\n主持人：有什麼詞彙，特別能讓人感受到台語的豐富？\n溫若喬：以「走路」這個詞來說，「走」在許多使用漢...",
+        "url": "https://www.openbook.org.tw/article/p-72635",
+        "source": "Openbook閱讀誌",
+        "published": "2026-05-27T14:15:17+00:00"
       },
       {
         "id": "40d895d54224",
@@ -1035,14 +1091,6 @@
         "url": "https://www.theguardian.com/stage/2026/may/26/dada-masilos-hamlet-review-dance-sadlers-wells",
         "source": "Stage | The Guardian",
         "published": "2026-05-26T12:16:04+00:00"
-      },
-      {
-        "id": "c249cd32db9e",
-        "title": "葛萊美獎得主、李竺芯加持 兩廳院夏日爵士8月登場",
-        "summary": "（中央社記者邱祖胤台北26日電）連續舉辦24年的國家兩廳院「2026夏日爵士」將於8月登場，除了兩屆葛萊美獎得主茱萊提斯（Nicole Zuraitis）及紐約當紅薩克斯風天后班傑明之外，金曲台語歌后李竺芯也將加入戶外派對演出，星光熠熠。",
-        "url": "https://www.cna.com.tw/news/acul/202605260342.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-05-26T12:06:32+00:00"
       },
       {
         "id": "635797115ca7",
@@ -1269,14 +1317,6 @@
         "published": "2026-05-24T10:27:42+00:00"
       },
       {
-        "id": "6ec8e64105b5",
-        "title": "Isabelle review – a sprawling debut driven by big ideas and family conflict",
-        "summary": "69 Humber Street, HullMarc Graham’s debut stretches from festival short to full-length play, tackling inheritance, class and familial resentment with plenty of theatrical confidenceThere are many reasons to admire Hull’s Middle Child, a small but determined company in Yorkshire’s East Riding.It has ...",
-        "url": "https://www.theguardian.com/stage/2026/may/24/isabelle-review-69-humber-street-hull-marc-graham",
-        "source": "Stage | The Guardian",
-        "published": "2026-05-24T09:47:48+00:00"
-      },
-      {
         "id": "e163d9f28c8c",
         "title": "Heÿkla",
         "summary": "Heÿkla's Echoes Of Loneliness offers 13 tracks to 'drift though invisible places and discover beauty in quiet transformation'.\n--- published on Ambientblog ---",
@@ -1493,36 +1533,12 @@
         "published": "2026-05-22T04:02:59+00:00"
       },
       {
-        "id": "d01a783d545f",
-        "title": "閱讀通信 vol.382》朝山裡走去的屏東",
-        "summary": "前幾天讀到關於周芬伶老師《鹹菜街》的專訪時，通通編馬上傳訊息給那位兒時住在屏東的朋友阿如閒聊（前情提要：大概一年前通通編有分享過他「剖檳榔」的故事，連結在此！），請他讀一下這次的訪談。\n後來阿如興致高昂的分享，他小時候住的地方叫頭溝水，開車下山就能抵達潮州。印象裡那是一個進城吃美食的路，許多美食的氣味隨著時間淡去，唯獨回家彎彎繞繞的山路記憶猶新。\n阿如說，大部分時候他一上車就開始睡，山有時在左，有時在右，飽睏的小腦袋也有時在左，有時在右。「所以大家對屏東的印象都是大海，我是大山啊！」在和通通編閒聊的過程中，阿如說他的記憶朦朦朧朧浮現了：經過廟後往上再過幾個街巷，是鄰居家開的麵店，再往上的拐角，...",
-        "url": "https://www.openbook.org.tw/article/p-72618",
-        "source": "Openbook閱讀誌",
-        "published": "2026-05-22T01:00:00+00:00"
-      },
-      {
         "id": "f4a8cf5520c4",
         "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
         "summary": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
         "url": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
         "source": "Claude Blog",
         "published": "2026-05-22T00:00:00+00:00"
-      },
-      {
-        "id": "bbe3ae878eb0",
-        "title": "美国政府将向9家量子计算公司投资20亿美元",
-        "summary": "获得政府投资的公司包括格芯和IBM两家大公司，也包括由特朗普家族关联公司支持的一家初创公司和由一名五角大楼官员上市的一家公司。",
-        "url": "https://www.ftchinese.com/story/001109807",
-        "source": "FTChinese RSS - News",
-        "published": "2026-05-21T16:00:00+00:00"
-      },
-      {
-        "id": "fd0b6ed19aff",
-        "title": "斯泰兰蒂斯公布新战略",
-        "summary": "这家欧洲汽车集团将在本十年推出60款新车型，并投资600亿欧元研发产品和技术。它还将与零跑和东风等中国竞争对手开展合作以维持旗下品牌。",
-        "url": "https://www.ftchinese.com/story/001109806",
-        "source": "FTChinese RSS - News",
-        "published": "2026-05-21T16:00:00+00:00"
       },
       {
         "id": "5765dfbbd524",
@@ -1539,14 +1555,6 @@
         "url": "https://technews.tw/2026/05/21/meta-begins-testing-threads-music-feature-in-taiwan/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-05-21T08:44:59+00:00"
-      },
-      {
-        "id": "e0968aa1ba03",
-        "title": "OB短評》#580在牢籠中練習發聲的極品好書懶人包",
-        "summary": "●繼續微笑的薛西佛斯\n杜秀娟著，健行文化，400元\n推薦原因： 議   樂   益  \n以小說的形式將個人創傷昇華為戲劇分析，乃至哲學思辨。故事、信件、評論、神話和心理分析多重文本交織，形成了非線性的敘事節奏，巧妙地交織多部經典戲劇文本與心理學論述，辯證古典悲劇英雄到當代個體創傷的演變。擴展了自殺議題與遺族療癒的書寫界域，議題深重，然而卻又帶來生命思索、文化表述的樂趣。【內容簡介➤】\n●蛇頭\n唐人街黑社會與美國夢的史詩故事\n派崔克．拉登．基夫（Patrick Radden Keefe）著，黃煜文譯，黑體文化，600元\n推薦原因： 議   樂 \n唐人街平凡祖母背後的跨國走私帝國。以跨國犯罪與人口...",
-        "url": "https://www.openbook.org.tw/article/p-72617",
-        "source": "Openbook閱讀誌",
-        "published": "2026-05-21T08:10:00+00:00"
       },
       {
         "id": "0d59bfcc9067",
@@ -1763,14 +1771,6 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=255627",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-05-16T08:30:00+00:00"
-      },
-      {
-        "id": "d3a02c510f22",
-        "title": "IG 青少年帳號祭更嚴格瀏覽限制，台灣擴及 Facebook",
-        "summary": "Meta 為 Instagram、Facebook 及 Messenger 設計「青少年帳號」，內建預設適齡保 [&#8230;]",
-        "url": "https://technews.tw/2026/05/15/ig-implements-stricter-browsing-restrictions-teen-accounts-extending-facebook-taiwan/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-05-15T05:50:14+00:00"
       },
       {
         "id": "9c56808d0a5d",
@@ -2404,7 +2404,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-28T05:15:20.656197+00:00"
+        "published": "2026-05-28T10:18:52.143349+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2412,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-28T05:15:20.656187+00:00"
+        "published": "2026-05-28T10:18:52.143340+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2420,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-28T05:15:20.656177+00:00"
+        "published": "2026-05-28T10:18:52.143331+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2428,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-28T05:15:20.656167+00:00"
+        "published": "2026-05-28T10:18:52.143321+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2436,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-28T05:15:20.656157+00:00"
+        "published": "2026-05-28T10:18:52.143311+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2444,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-28T05:15:20.656148+00:00"
+        "published": "2026-05-28T10:18:52.143301+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2452,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-28T05:15:20.656138+00:00"
+        "published": "2026-05-28T10:18:52.143292+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2460,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-28T05:15:20.656128+00:00"
+        "published": "2026-05-28T10:18:52.143282+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2468,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-28T05:15:20.656118+00:00"
+        "published": "2026-05-28T10:18:52.143273+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2476,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-28T05:15:20.656108+00:00"
+        "published": "2026-05-28T10:18:52.143263+00:00"
       },
       {
         "id": "76f6f0cdfb23",
