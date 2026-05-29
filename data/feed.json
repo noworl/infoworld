@@ -1,86 +1,118 @@
 {
-  "updated_at": "2026-05-29T16:50:36.663070+00:00",
+  "updated_at": "2026-05-29T19:38:46.661134+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "bb1c9c35db8d",
-        "title": "VuBaThanHoangTH",
-        "summary": "VuBaThanHoangTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/VuBaThanHoangTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-29T15:55:19+00:00"
-      },
-      {
-        "id": "2bedc18a30a7",
-        "title": "VoThuongThanVuTH",
-        "summary": "VoThuongThanVuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/VoThuongThanVuTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-29T15:50:42+00:00"
-      },
-      {
-        "id": "d7b59d3b56e4",
-        "title": "SieuThanThuCoTH",
-        "summary": "SieuThanThuCoTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/SieuThanThuCoTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-29T15:39:50+00:00"
-      },
-      {
-        "id": "67717d1c7e28",
-        "title": "VanMongCuuThienTH",
-        "summary": "VanMongCuuThienTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/VanMongCuuThienTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-29T15:36:39+00:00"
-      },
-      {
-        "id": "44001f44e4ff",
-        "title": "BatBaiTaThanTH",
-        "summary": "BatBaiTaThanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/BatBaiTaThanTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-29T15:26:03+00:00"
-      },
-      {
-        "id": "79b552eee8ab",
-        "title": "VongDuChiCuongTienTH",
-        "summary": "VongDuChiCuongTienTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/VongDuChiCuongTienTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-29T15:21:23+00:00"
-      },
-      {
-        "id": "d8eb9f1d1143",
-        "title": "ThanNongTH",
-        "summary": "ThanNongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThanNongTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-29T15:11:43+00:00"
-      },
-      {
-        "id": "c9f86f272b9d",
-        "title": "chuong-94",
+        "id": "c891705c5a86",
+        "title": "chuong-164-vuong-thu-xich-muc",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_40071_1780067337",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_61301_1780081623",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-29T15:11:12+00:00"
+        "published": "2026-05-29T19:07:30+00:00"
       },
       {
-        "id": "c8568515e157",
-        "title": "ROOP DI RANI PATI PATNI AUR WOH DO Guru Randhawa Heer",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/roop-di-rani-pati-patni-aur-woh-do-guru-randhawa-heer",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-29T15:10:49+00:00"
-      },
-      {
-        "id": "5caebdaf13bb",
-        "title": "chuong-22",
+        "id": "d90ec98afb01",
+        "title": "chuong-2055-lo-thanh-cong-thi-sao",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_34501_1780066955",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_82628_1780081407",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-05-29T15:03:08+00:00"
+        "published": "2026-05-29T19:03:55+00:00"
+      },
+      {
+        "id": "aed1ed271db2",
+        "title": "chuong-206-trung-hai-la-dia-ban-cua-tao",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_28418_1780081068",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-29T18:58:14+00:00"
+      },
+      {
+        "id": "f45cf95334ad",
+        "title": "chuong-200-200-day-la-the-vip-cua-cua-hang-cac-co-chu",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_78870_1780080859",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-29T18:54:44+00:00"
+      },
+      {
+        "id": "5d1200aa7534",
+        "title": "chuong-125",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_64326_1780080653",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-29T18:51:23+00:00"
+      },
+      {
+        "id": "81b9e09d6938",
+        "title": "chuong-656",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_80218_1780080365",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-29T18:46:37+00:00"
+      },
+      {
+        "id": "6c4431467370",
+        "title": "chuong-444-nam-tu-mang-mat-na",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_56701_1780080169",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-29T18:43:19+00:00"
+      },
+      {
+        "id": "3d48c31aefec",
+        "title": "氣象署發布豪雨特報　屏高台南有局部豪大雨發生機率",
+        "summary": "（中央社台北30日電）中央氣象署發布豪雨特報，對流雲系發展旺盛，易有短延時強降雨，今(30)日屏東縣地區有局部大雨或豪雨，臺南及高雄地區有局部大雨發生的機率，請注意雷擊及強陣風，山區請慎防坍方、落石及溪水暴漲，低窪地區請慎防積水。（編輯：徐睿承）1150530",
+        "url": "https://www.cna.com.tw/news/ahel/202605300006.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-05-29T18:42:16+00:00"
+      },
+      {
+        "id": "26c0acfbeae5",
+        "title": "chuong-1859-tiep-tuc-cong-pha-cho-ta",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_48054_1780080002",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-29T18:40:28+00:00"
+      },
+      {
+        "id": "6436881d5ec6",
+        "title": "chuong-26",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_22487_1780079912",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-29T18:39:00+00:00"
+      },
+      {
+        "id": "17bc9a8674a5",
+        "title": "chuong-5",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_73_1780079500",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-05-29T18:32:05+00:00"
+      },
+      {
+        "id": "22982435c6c6",
+        "title": "氣象署發布豪雨特報　屏東有局部大雨或豪雨發生機率",
+        "summary": "（中央社台北30日電）中央氣象署發布豪雨特報，對流雲系發展旺盛，易有短延時強降雨，今(30)日屏東縣地區有局部大雨或豪雨發生的機率，請注意雷擊及強陣風，山區請慎防坍方、落石及溪水暴漲，低窪地區請慎防積水。（編輯：徐睿承）1150530",
+        "url": "https://www.cna.com.tw/news/ahel/202605300003.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-05-29T17:24:08+00:00"
+      },
+      {
+        "id": "e8bbc845799c",
+        "title": "南投山區豪雨 花東及台中山區等地防大雨",
+        "summary": "（中央社台北29日電）氣象署發布豪雨特報，因對流雲系發展旺盛，易有短延時強降雨，南投縣山區已有豪雨發生，今晚至明天清晨南投縣山區有局部大雨或豪雨，恆春半島、花蓮、台東地區及苗栗、台中山區有局部大雨發生的機率。",
+        "url": "https://www.cna.com.tw/news/ahel/202605290361.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-05-29T15:01:53+00:00"
+      },
+      {
+        "id": "a06ebd00fbd3",
+        "title": "美國西北大學放映造山者　深化台美科技合作",
+        "summary": "（中央社記者廖漢原紐約29日專電）美國西北大學28日放映半導體發展史紀錄片「造山者」，駐芝加哥辦事處長類延峰希望透過影片深化台美合作互補關係，促成台灣與美國中西部科技重鎮交流。",
+        "url": "https://www.cna.com.tw/news/ahel/202605290359.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-05-29T14:44:46+00:00"
       },
       {
         "id": "989726ca0aba",
@@ -129,38 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202605290328.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-05-29T12:50:36+00:00"
-      },
-      {
-        "id": "47d11d86262e",
-        "title": "今彩539第115131期開獎",
-        "summary": "（中央社台北29日電）今彩539第115131期開獎，中獎號碼34、12、35、15、20。3星彩中獎號碼063，4星彩中獎號碼3629。",
-        "url": "https://www.cna.com.tw/news/ahel/202605290326.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-29T12:47:32+00:00"
-      },
-      {
-        "id": "deaf59f40cce",
-        "title": "中央社影音專題「智」少還有你　入圍銀響力新聞獎",
-        "summary": "（中央社記者王心妤台北29日電）弘道老人福利基金會發起的「銀響力新聞獎」，27日公布入圍名單，中央通訊社「『智』少還有你」入圍電視及網路影音類單篇專題報導獎，透過真實故事帶觀眾走進失智症患者的世界。",
-        "url": "https://www.cna.com.tw/news/ahel/202605290309.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-29T11:56:53+00:00"
-      },
-      {
-        "id": "c07eac733746",
-        "title": "「勸世三姊妹」3度回歸票券秒殺　邀粉絲演唱會同樂",
-        "summary": "（中央社記者趙靜瑜台北29日電）台灣原創音樂劇勸世三姊妹今年8月將3度回歸巡演，5月15日早鳥啟售當天北中南共25場票立刻售罄，今天宣布舉辦「勸世祭 三姊妹卡關人生轉運站」感恩活動，邀粉絲免費參加。",
-        "url": "https://www.cna.com.tw/news/acul/202605290303.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-29T11:36:40+00:00"
-      },
-      {
-        "id": "71a840e66cd4",
-        "title": "屏東及高雄山區豪雨　花蓮、南投山區戒備",
-        "summary": "（中央社台北29日電）氣象署今晚表示，因對流雲系發展旺盛，易有短延時強降雨，屏東縣及高雄市山區已有豪雨發生，花蓮縣及南投縣山區有局部大雨或豪雨，嘉義以南、台東及雲林山區有局部大雨發生的機率。",
-        "url": "https://www.cna.com.tw/news/ahel/202605290298.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-05-29T11:14:29+00:00"
       },
       {
         "id": "c3edcb33bbc3",
@@ -725,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "73e6c3a79e62",
+        "title": "This Etch-A-Sketch Camera Now Draws Movies with a RPi Camera #piday #raspberrypi",
+        "summary": "Scope-creep ran away with this project. What started as an Etch-A-Sketch with an undo button spiraled into the Teka-sketch, an Etch-a-Sketch that renders actual video! From Tekavou, they say this is the final form but something tells me they&#8217;ll be back. Thanks for sharing! The project uses: &#...",
+        "url": "https://blog.adafruit.com/2026/05/29/this-etch-a-sketch-camera-now-draws-movies-with-a-rpi-camera-piday-raspberrypi/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-05-29T18:43:39+00:00"
+      },
+      {
+        "id": "6aee6b02d3b5",
+        "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+        "summary": "Gemini Omni & Gemini 3.5 hero",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+        "source": "Google DeepMind",
+        "published": "2026-05-29T17:30:00+00:00"
+      },
+      {
         "id": "c16bfc14a7e4",
         "title": "The Python on Microcontrollers Newsletter: subscribe for free",
         "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
@@ -739,6 +755,14 @@
         "url": "https://blog.adafruit.com/2026/05/29/make-a-3d-printed-camera-led-ring/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-05-29T16:00:45+00:00"
+      },
+      {
+        "id": "8d9004ac2757",
+        "title": "稻田裡長出一甲子電影放映啟示錄──專訪太順鉅業李建成、李建富",
+        "summary": "從維修安裝到土製放映機送往各地影院甚至海外，數位時代來襲前更搶奪先機取得投影機大廠獨家代理權。彷彿總能在時代的歧異點選對路，太順鉅業一甲子傳了李家3個世代，從抵擋大潮的人，一翻而上成為巨浪頂峰的領浪者。",
+        "url": "https://www.twreporter.org/a/saturday-features-film-taishun-lee-chien-cheng-and-lee-chien-fu",
+        "source": "報導者",
+        "published": "2026-05-29T16:00:00+00:00"
       },
       {
         "id": "2fea18c50421",
@@ -885,14 +909,6 @@
         "published": "2026-05-28T21:00:43+00:00"
       },
       {
-        "id": "c3c103aaac76",
-        "title": "PiBerry 2.0 – Portable Cyber Handheld for Pi Zero 2W #3DPrinting #3DThursday",
-        "summary": "CarbonCyber shares: A compact open-source cyber handheld built around the Raspberry Pi Zero 2W featuring a 3.5&#8243; touchscreen, USB keyboard support, and modular design. Great inspiration for portable cyberdeck and Kali Linux fieldwork builds download the files on: https://makerworld.com/en/model...",
-        "url": "https://blog.adafruit.com/2026/05/28/piberry-2-0-portable-cyber-handheld-for-pi-zero-2w-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-05-28T20:00:20+00:00"
-      },
-      {
         "id": "47896e0172e2",
         "title": "Microtonality is the big trend of the 16th century — ask Nicolà Vicentino",
         "summary": "Kids today, with their 31 equal divisions of the octave. Yes, it's the music of Nicolà Vicentino, a Renaissance theorist and composer who built his own microtonal harpsichord to accommodate his experimental tunings. But it's not just a theoretical experiment: there is some connection to musical prac...",
@@ -901,18 +917,18 @@
         "published": "2026-05-28T17:29:03+00:00"
       },
       {
-        "id": "eb343f59b3a7",
-        "title": "譯者的慧眼與才華、小出版社的冒險膽識，帶著《臺灣漫遊錄》踏上世界漫遊",
-        "summary": "一本結構與題材都不易歸類的台灣小說，如何穿越語言、市場與文化差異，抵達國際讀者？斬獲國際布克獎的《臺灣漫遊錄》，超出想像的世界漫遊背後，是一場以才華、機緣、出版勞動、以及對文學的熱情所交織而成的接力賽。",
-        "url": "https://www.twreporter.org/a/taiwan-travelogue-from-taiwan-to-the-world",
-        "source": "報導者",
-        "published": "2026-05-28T16:00:00+00:00"
-      },
-      {
         "id": "e1f6ca598510",
         "title": "從邊界爭議的歷史死結，解讀中印《百年困局》的現在與未來",
         "summary": "2025年，印度國安、國防、外交事務的最重要決策者，前後飛往中國參與高層會議，這代表中印關係正式「回暖」？台灣學者陳牧民在《百年困局》，以「領土爭議」解釋中印關係陷入雙強困局的過去、現在與未來。",
         "url": "https://www.twreporter.org/a/bookreview-a-century-of-predicament",
+        "source": "報導者",
+        "published": "2026-05-28T16:00:00+00:00"
+      },
+      {
+        "id": "eb343f59b3a7",
+        "title": "譯者的慧眼與才華、小出版社的冒險膽識，帶著《臺灣漫遊錄》踏上世界漫遊",
+        "summary": "一本結構與題材都不易歸類的台灣小說，如何穿越語言、市場與文化差異，抵達國際讀者？斬獲國際布克獎的《臺灣漫遊錄》，超出想像的世界漫遊背後，是一場以才華、機緣、出版勞動、以及對文學的熱情所交織而成的接力賽。",
+        "url": "https://www.twreporter.org/a/taiwan-travelogue-from-taiwan-to-the-world",
         "source": "報導者",
         "published": "2026-05-28T16:00:00+00:00"
       },
@@ -1045,18 +1061,18 @@
         "published": "2026-05-27T22:48:07+00:00"
       },
       {
-        "id": "eed56b0087ba",
-        "title": "從國際募資平台到世界咖啡賽，當中國一直抹除Taiwan，台灣如何行動、找到回家的路？",
-        "summary": "【涉己新聞】2026年上半年還未結束，台灣NGO在中國施壓下遭受層層打擊。這集，《報導者》營運長雪莉與人權工作者黃尚卿梳理台灣在國際舞台上被迫失去名字的現實，面對不斷地打壓，身為台灣人的我們該怎麼面對？",
-        "url": "https://www.twreporter.org/a/podcast-2026-05-28",
-        "source": "報導者",
-        "published": "2026-05-27T16:00:00+00:00"
-      },
-      {
         "id": "28881d4a9282",
         "title": "找回民族記憶拼圖：被以色列掠奪檔案後，兩位巴勒斯坦導演的文化抵抗",
         "summary": "「記憶是一種包袱，令人痛苦。記憶會騙人，給人虛假的安慰，但記憶也關於歷史、民族。巴勒斯坦並不真正存在，我們唯一擁有的，往往只是記憶中的巴勒斯坦。」",
         "url": "https://www.twreporter.org/a/tidf-2026-kamal-aljafari-and-saeed-taji-farouky",
+        "source": "報導者",
+        "published": "2026-05-27T16:00:00+00:00"
+      },
+      {
+        "id": "eed56b0087ba",
+        "title": "從國際募資平台到世界咖啡賽，當中國一直抹除Taiwan，台灣如何行動、找到回家的路？",
+        "summary": "【涉己新聞】2026年上半年還未結束，台灣NGO在中國施壓下遭受層層打擊。這集，《報導者》營運長雪莉與人權工作者黃尚卿梳理台灣在國際舞台上被迫失去名字的現實，面對不斷地打壓，身為台灣人的我們該怎麼面對？",
+        "url": "https://www.twreporter.org/a/podcast-2026-05-28",
         "source": "報導者",
         "published": "2026-05-27T16:00:00+00:00"
       },
@@ -1125,14 +1141,6 @@
         "published": "2026-05-27T10:30:31+00:00"
       },
       {
-        "id": "827b604f6232",
-        "title": "Werner Dafeldecker & Lawrence English",
-        "summary": "Lawrence English&#038; Werner Dafeldecker's detailed sound worlds on Fathom Tides remind us that our clocks are not those of the world around us.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dafeldecker-english/",
-        "source": "Ambientblog",
-        "published": "2026-05-27T07:26:44+00:00"
-      },
-      {
         "id": "4336fe3f1b3f",
         "title": "生活在精神病院，遊走瘋狂與現實──詮釋人類學家林徐達以臨床民族誌看到了什麼？",
         "summary": "當記者詢問東華大學族群關係與文化學系林徐達教授：「您覺得這本書的潛在讀者是誰？」 林徐達直覺回道：「一般讀者啊 [&#8230;]\nThe post 生活在精神病院，遊走瘋狂與現實──詮釋人類學家林徐達以臨床民族誌看到了什麼？ appeared first on 人文．島嶼.",
@@ -1197,18 +1205,18 @@
         "published": "2026-05-26T17:13:25+00:00"
       },
       {
-        "id": "7e9c7ff50c9c",
-        "title": "蔡雅琄、李柏翰／超越脆弱處境：障礙女性的自立生活、權利倡議與慾望實踐",
-        "summary": "當社會談論障礙女性時，最常出現的往往是「保護、照顧、風險與脆弱」等語彙，而非「支持和韌性」，忽視了她們作為照顧者、決策者、伴侶、母親，以及擁有情感與慾望的能力，限制了她們身為女人及障礙者的主體性。",
-        "url": "https://www.twreporter.org/a/column-gender-trouble-2026-05-27",
-        "source": "報導者",
-        "published": "2026-05-26T16:00:00+00:00"
-      },
-      {
         "id": "4616e1c5cd8e",
         "title": "當「台灣」被抹去：台灣公民團體面對新地緣政治現實的考驗",
         "summary": "【涉己新聞】5月初，包括報導者文化基金會在內的22個台灣非營利組織，陸續收到註冊於英美的國際公益募資平台GlobalGiving通知，平台上的Taiwan稱謂將被改為Chinese Taipei⋯⋯",
         "url": "https://www.twreporter.org/a/china-pressure-taiwan-ngo-civic-space",
+        "source": "報導者",
+        "published": "2026-05-26T16:00:00+00:00"
+      },
+      {
+        "id": "7e9c7ff50c9c",
+        "title": "蔡雅琄、李柏翰／超越脆弱處境：障礙女性的自立生活、權利倡議與慾望實踐",
+        "summary": "當社會談論障礙女性時，最常出現的往往是「保護、照顧、風險與脆弱」等語彙，而非「支持和韌性」，忽視了她們作為照顧者、決策者、伴侶、母親，以及擁有情感與慾望的能力，限制了她們身為女人及障礙者的主體性。",
+        "url": "https://www.twreporter.org/a/column-gender-trouble-2026-05-27",
         "source": "報導者",
         "published": "2026-05-26T16:00:00+00:00"
       },
@@ -1381,14 +1389,6 @@
         "published": "2026-05-24T10:27:42+00:00"
       },
       {
-        "id": "e163d9f28c8c",
-        "title": "Heÿkla",
-        "summary": "Heÿkla's Echoes Of Loneliness offers 13 tracks to 'drift though invisible places and discover beauty in quiet transformation'.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/heykla/",
-        "source": "Ambientblog",
-        "published": "2026-05-24T08:59:13+00:00"
-      },
-      {
         "id": "7b3a1a0d56c4",
         "title": "漫射計畫》一支陪伴童年的故事畫筆：漫畫家、出版人陳文富的豐富之旅",
         "summary": "1966年底，在出版人蔡焜霖創辦的《王子》雜誌創刊號中，漫畫家陳文富一人就發表了兩篇題材迥異的漫畫作品《小飛龍》（連載第1回）與〈白鶴仙女〉。圖片提供／陳文富\n\n\n➤零食裡隱藏的漫畫萬花筒\n在正式出版體系之外，臺灣漫畫其實曾經存在另一條隱形的生產線。自1960年代末至1970年代，知名零食品牌「乖乖」隨附的連環漫畫小冊，成為許多讀者童年最早接觸圖像敘事的入口。這些漫畫篇幅短小、印製簡單，題材涵蓋歷史故事、世界童話、電影情節、經典改編到動物冒險等，以可在掌中閱讀的迷你尺寸，隨零食一同流通於雜貨店與日常生活之中。\n這些漫畫的重要創作者之一，正是資深漫畫家陳文富。然而，這類兼具廣告功能、須快速大量產...",
@@ -1403,14 +1403,6 @@
         "url": "https://aseanplusjournal.com/2026/05/24/aseanweekly320/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-05-23T22:24:28+00:00"
-      },
-      {
-        "id": "6f4d9d93653f",
-        "title": "黃世澤／在影像與現實邊緣──2026京都國際攝影節「EDGE」的當代詰問",
-        "summary": "在現實備受考驗的時代邊緣，影像究竟能做什麼？又是為了什麼而存在？5月中旬甫落幕的京都國際攝影節，在古都建築與氛圍間，展出各國創作者選在物理現場或歷史現場消失之前，透過相機為當代社會留下的實存見證。",
-        "url": "https://www.twreporter.org/a/photo-kyotographie-2026-photography-edge-reality",
-        "source": "報導者",
-        "published": "2026-05-23T16:00:00+00:00"
       },
       {
         "id": "d0109731925e",
@@ -1605,14 +1597,6 @@
         "published": "2026-05-21T00:00:00+00:00"
       },
       {
-        "id": "5763b125caf1",
-        "title": "Ben Vida",
-        "summary": "Ben Vida's Oblivion Seekers defies existing genre definitions. Nót ambient music, but music with a strong ambient connection - and guaranteed to surprise.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/benvida/",
-        "source": "Ambientblog",
-        "published": "2026-05-20T17:20:13+00:00"
-      },
-      {
         "id": "47b5c72cdf13",
         "title": "TouchDesigner POPs course gets your brain around geometry for visuals",
         "summary": "In a world that's definitely trying to make us dumber and more depressed, let's grow our brains instead. Our friends over at Derivative have a free course that finally makes it easy to start working with POPs -- the Point OPerators that enable all that wild 3D geometry you see in live shows and inst...",
@@ -1757,14 +1741,6 @@
         "published": "2026-05-17T15:20:19+00:00"
       },
       {
-        "id": "6183a8c0d068",
-        "title": "Jinwoo",
-        "summary": "Ambient music from South Korea that you can listen and enjoy, but cannot buy (yet?): Jinwoo's 'Three Soundworks For Tea'.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/jinwoo/",
-        "source": "Ambientblog",
-        "published": "2026-05-17T09:06:41+00:00"
-      },
-      {
         "id": "a20845749b58",
         "title": "南管藝術交流匯演開幕　串聯全臺館閣打造「流動博物館」",
         "summary": "由國立傳統藝術中心與臺南市政府文化局共同主辦的《絃音流轉・禮樂傳心－115年度南管藝術交流匯演》，今（16）日於臺南孔廟大成殿廣場正式登場。來自全臺北、中、南及離島共19個南管團體齊聚府城，透過整絃匯演、戲曲示範、講座及城市快閃等多元形式，展開為期兩天的南管藝術盛會；活動主場地選址於素有「全臺首學」之稱的臺南孔廟，在逾三百年歷史的古蹟場域中，以樂會友、以禮傳心，使南管藝術與府城人文底蘊相互映照。活動上午以「孟府郎君祭」揭開序幕，由臺南市傳統表演藝術保存團體「南聲社」主持，在莊重儀式中呈現南管與禮制文化的深厚連結；下午開幕演出則由臺南孔廟「雅樂十三音」與國家級重要傳統藝術保存者陳嬿朱老師及其藝生...",
@@ -1787,14 +1763,6 @@
         "url": "https://www.glt.org.tw/?p=13853",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-05-14T11:59:52+00:00"
-      },
-      {
-        "id": "1d09bf0b8460",
-        "title": "Abul Mogard & Rafael Anton Irisarri",
-        "summary": "The second studio collaboration of Abul Mogard &#038; Rafael Anton Irisarri feels \"like they were inside a system moving on its own\".\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/mogardirisarri/",
-        "source": "Ambientblog",
-        "published": "2026-05-14T06:50:13+00:00"
       },
       {
         "id": "7fe4c81e6953",
@@ -1827,14 +1795,6 @@
         "url": "https://www.smithsonianmag.com/innovation/this-high-schooler-developed-an-ai-tool-to-diagnose-autism-and-adhd-using-the-retina-180988694/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-05-11T16:22:20+00:00"
-      },
-      {
-        "id": "c612e1f62a6b",
-        "title": "DreamScenes – May 2026",
-        "summary": "\"Echoes of Loneliness\" - DreamScenes for May, 2026\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dreamscenes-may-2026/",
-        "source": "Ambientblog",
-        "published": "2026-05-10T17:55:00+00:00"
       },
       {
         "id": "b9caf93c02b6",
@@ -1875,14 +1835,6 @@
         "url": "https://humanityisland.nccu.edu.tw/chenxiangyun_a/",
         "source": "人文．島嶼",
         "published": "2026-05-06T02:30:16+00:00"
-      },
-      {
-        "id": "421455aa71a3",
-        "title": "Affin Ambient Works * 130.81",
-        "summary": "Two massive label compilations: an overview of ambient music on the Affin label between 2022 and 2026, and a selection of (relatively unknown) artists on Passed Recordings who all contributed a track in the key of C. \n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/affin-ambient-works-130-81/",
-        "source": "Ambientblog",
-        "published": "2026-05-05T17:30:22+00:00"
       },
       {
         "id": "e86936b27b39",
@@ -2037,14 +1989,6 @@
         "published": "2026-04-28T15:39:54+00:00"
       },
       {
-        "id": "9a678878af9b",
-        "title": "Anne Chris Bakker * Ard Bit & Radboud Mens",
-        "summary": "Anne Chris Bakker describes the anxiety and excitement of moving to Norway *** Ard Bit &#038; Radboud Mens drift on an imaginary sea of silence.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/acbakker-bitmens/",
-        "source": "Ambientblog",
-        "published": "2026-04-28T14:18:51+00:00"
-      },
-      {
         "id": "6cf2f5031d1d",
         "title": "(Some of) The newest stuff at the Library!",
         "summary": "The Library's annual new acquisitions showcase last week was a crowded, noisy, upbeat afternoon of discovery and explanation. Conversations buzzed and overlapped; staff experts and curious viewers leaned over display tables from opposite sides, heads together, talking loudly to be heard, gazing down...",
@@ -2093,14 +2037,6 @@
         "published": "2026-04-24T00:00:00+00:00"
       },
       {
-        "id": "14c809e72742",
-        "title": "Deaf Center * Kreng",
-        "summary": "The Miasmah label surprises us with a new Deaf Center release as well as a new Kreng album. I guess you don't need my words to know what to do now ...\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/deafcenter-kreng/",
-        "source": "Ambientblog",
-        "published": "2026-04-22T18:56:02+00:00"
-      },
-      {
         "id": "bd90101a7dc2",
         "title": "政治人物總是「說一套做一套」？中研院林政楠解析民主制度下的政黨競合",
         "summary": "在許多民主國家，選民經常抱怨政黨「選前信誓旦旦，選後反覆無常」。這種落差，究竟是政治人物的欺騙，還是政治制度運 [&#8230;]\nThe post 政治人物總是「說一套做一套」？中研院林政楠解析民主制度下的政黨競合 appeared first on 人文．島嶼.",
@@ -2115,14 +2051,6 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2330",
         "source": "獨立出版聯盟網站",
         "published": "2026-04-17T00:00:00+00:00"
-      },
-      {
-        "id": "55ddfda2e8bd",
-        "title": "Luca Formentini * Galán, Spieth, Guentner",
-        "summary": "Luca Formentini's Angel Lost is a 30-minute addendum to his I Am Ghost album *** Pepo Galán, Joachim Spieth and Markus Guentner join forces on Obreel.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/formentini-gsg/",
-        "source": "Ambientblog",
-        "published": "2026-04-16T18:43:43+00:00"
       },
       {
         "id": "b59e6f176137",
@@ -2285,14 +2213,6 @@
         "published": "2026-03-25T02:00:33+00:00"
       },
       {
-        "id": "a56f1dd9fece",
-        "title": "Measuring progress toward AGI: A cognitive framework",
-        "summary": "Several rectangles in lines diagonally across the image. Each rectangle has swirls.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
-        "source": "Google DeepMind",
-        "published": "2026-03-17T16:00:00+00:00"
-      },
-      {
         "id": "6aa49f2fb667",
         "title": "[東南亞週報315] 印尼禁16歲以下使用社群媒體為東南亞首國、阿努廷完成15黨聯盟組閣掌控約290席穩定執政、中東動盪加劇緬能源危機軍政府遭指秘密從伊朗進口燃油",
         "summary": "[東南亞週報315] 印尼禁16歲以下使用社群媒體為東南亞首國、阿努廷完成15黨聯盟組閣掌控約290席穩定執政 [&#8230;]",
@@ -2404,7 +2324,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-29T16:50:34.848469+00:00"
+        "published": "2026-05-29T19:38:45.511683+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2412,7 +2332,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-29T16:50:34.848459+00:00"
+        "published": "2026-05-29T19:38:45.511672+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2340,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-29T16:50:34.848449+00:00"
+        "published": "2026-05-29T19:38:45.511662+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2348,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-29T16:50:34.848439+00:00"
+        "published": "2026-05-29T19:38:45.511652+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2356,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-29T16:50:34.848429+00:00"
+        "published": "2026-05-29T19:38:45.511642+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2364,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-29T16:50:34.848419+00:00"
+        "published": "2026-05-29T19:38:45.511632+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2372,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-29T16:50:34.848409+00:00"
+        "published": "2026-05-29T19:38:45.511622+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2380,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-29T16:50:34.848399+00:00"
+        "published": "2026-05-29T19:38:45.511612+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2388,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-29T16:50:34.848389+00:00"
+        "published": "2026-05-29T19:38:45.511602+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2396,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-05-29T16:50:34.848379+00:00"
+        "published": "2026-05-29T19:38:45.511592+00:00"
       },
       {
         "id": "7b31c061db56",
