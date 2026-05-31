@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>音樂 Subreddit 週報</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            line-height: 1.8;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            color: #333;
+        }
+        #content {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 { color: #111; font-weight: 600; margin-top: 1.5em; }
+        h1 { font-size: 1.75em; border-bottom: 2px solid #eee; padding-bottom: 0.4em; }
+        h2 { font-size: 1.4em; border-bottom: 1px solid #eee; padding-bottom: 0.3em; }
+        h3 { font-size: 1.15em; }
+        a { color: #0066cc; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        blockquote {
+            border-left: 3px solid #ddd;
+            margin: 1em 0;
+            padding: 0.5em 1em;
+            background: #fafafa;
+            color: #666;
+        }
+        code {
+            background: #f5f5f5;
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+            font-size: 0.9em;
+            color: #555;
+        }
+        pre { background: #f5f5f5; padding: 1em; overflow-x: auto; border-radius: 4px; }
+        table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+        th, td { border: 1px solid #ddd; padding: 10px 14px; text-align: left; }
+        th { background: #fafafa; font-weight: 600; }
+        img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        hr { border: none; border-top: 1px solid #eee; margin: 2em 0; }
+        details {
+            background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+            padding: 1em;
+            border-radius: 8px;
+            margin: 1em 0;
+            border: 1px solid #eee;
+        }
+        summary { cursor: pointer; font-weight: 600; color: #333; }
+    </style>
+</head>
+<body>
+    <div id="content"></div>
+    <script>
+        const md = `# Reddit Music Weekly
+
+> 2026-05-31 16:24:45
+
+---
+
+## r/ableton
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/TidalCycles
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/SFXLibraries
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/Jazz
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/musicsuggestions
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/piano
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/vcvrack
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/AI_Music
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/ambientmusic
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/VocalSynthesis
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/VSTi
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/musictheory
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+## r/Carnatic
+
+*本週無熱門貼文或無法抓取*
+
+---
+
+*此報告由 Reddit Music Weekly 自動生成*
+`;
+        document.getElementById('content').innerHTML = marked.parse(md);
+    </script>
+</body>
+</html>
