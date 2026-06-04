@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-04T17:49:06.837232+00:00",
+  "updated_at": "2026-06-04T20:15:03.509213+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "4572d94d07e8",
+        "title": "Find Me Waiting",
+        "summary": "There was so much warmth..This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/find-me-waiting-v-1",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-04T16:33:55+00:00"
+      },
       {
         "id": "99b5cf831927",
         "title": "今彩539第115136期　頭獎槓龜",
@@ -83,6 +91,14 @@
         "published": "2026-06-04T11:30:08+00:00"
       },
       {
+        "id": "eef541d211c6",
+        "title": "LISZT Sämtliche Klavierwerke",
+        "summary": "LISZT  Sämtliche Klavierwerke (1/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bnxngf",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-04T11:21:35+00:00"
+      },
+      {
         "id": "57dc8bc6d82e",
         "title": "科博館推「和熱共榮」特展　探討人與地熱關聯",
         "summary": "（中央社記者趙麗妍台中4日電）國立自然科學博物館今天推出「和熱共榮：人、環境與地熱的永續對話」特展，從神話傳說、科學探究與生活案例認識「地底深處的熱」，搭配互動裝置，了解生活中人與地熱的關聯。",
@@ -145,22 +161,6 @@
         "url": "https://archive.org/details/see-im-not-lost-ch-4-v-1",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-04T06:15:22+00:00"
-      },
-      {
-        "id": "2ef881d24785",
-        "title": "See I'm Not Lost (chapter 3)",
-        "summary": "Minette revisits the temple where she used to be trained..This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/see-im-not-lost-ch-3",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-04T06:06:55+00:00"
-      },
-      {
-        "id": "746203202e58",
-        "title": "See I'm Not Lost (chapter 2)",
-        "summary": "Minette revisits the temple where she used to be trained..This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/sinl-ch2",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-04T05:57:11+00:00"
       },
       {
         "id": "cb6a55cd9687",
@@ -805,6 +805,14 @@
     ],
     "破(day)": [
       {
+        "id": "25f971daae7c",
+        "title": "John Park’s Workshop — LIVE TODAY 6/4/26",
+        "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects: Attachécade CircuitPython Parsec Tool Tips Learn Guide recap Retro Gear  and more! The live video will be on Youtube LIVE, Twitch, Periscope (Twitter) a...",
+        "url": "https://blog.adafruit.com/2026/06/04/john-parks-workshop-live-today-6-4-26/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-04T19:56:38+00:00"
+      },
+      {
         "id": "2837aa0a1de2",
         "title": "Theatregoers to face phone ‘ban’ when Broadway’s Liberation comes to London",
         "summary": "New York audiences were asked to put phones in sealed pouches, and producer says she hopes to do the same in UKWhen a Pulitzer prize-winning play about a feminist activist opened in New York, audiences had to do something unusual.They were asked to put their phones away – not in their pockets, but i...",
@@ -1235,14 +1243,6 @@
         "url": "https://www.theguardian.com/stage/2026/jun/02/mark-e-smith-the-fall-hey-luciani",
         "source": "Stage | The Guardian",
         "published": "2026-06-02T15:51:30+00:00"
-      },
-      {
-        "id": "d5043de22d3a",
-        "title": "The Raspberry Pi Official Magazine – Issue 166: Make Music With Raspberry Pi @rpimagazine",
-        "summary": "The Raspberry Pi Official Magazine &#8211; Issue 166: Make Music With Raspberry Pi In this issue: You don’t need to hire a production studio any more if you want to record your precious electronic beats – you’ve already got a recording studio in your computer! We run through the software you need to...",
-        "url": "https://blog.adafruit.com/2026/06/02/the-raspberry-pi-official-magazine-issue-166-make-music-with-raspberry-pi-rpimagazine/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-02T15:11:16+00:00"
       },
       {
         "id": "097a912b1973",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-04T17:49:05.893938+00:00"
+        "published": "2026-06-04T20:15:01.243564+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-04T17:49:05.893929+00:00"
+        "published": "2026-06-04T20:15:01.243554+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-04T17:49:05.893919+00:00"
+        "published": "2026-06-04T20:15:01.243545+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-04T17:49:05.893909+00:00"
+        "published": "2026-06-04T20:15:01.243535+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-04T17:49:05.893900+00:00"
+        "published": "2026-06-04T20:15:01.243525+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-04T17:49:05.893890+00:00"
+        "published": "2026-06-04T20:15:01.243516+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-04T17:49:05.893880+00:00"
+        "published": "2026-06-04T20:15:01.243506+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-04T17:49:05.893869+00:00"
+        "published": "2026-06-04T20:15:01.243496+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-04T17:49:05.893859+00:00"
+        "published": "2026-06-04T20:15:01.243487+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-04T17:49:05.893849+00:00"
+        "published": "2026-06-04T20:15:01.243477+00:00"
       },
       {
         "id": "15d8d8f780b0",
