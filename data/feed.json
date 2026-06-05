@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-05T16:33:40.915541+00:00",
+  "updated_at": "2026-06-05T19:01:52.855306+00:00",
   "categories": {
     "急(hr)": [
       {
         "id": "3607522882c5",
         "title": "LISZT Sämtliche Klavierwerke",
-        "summary": "LISZT  Sämtliche Klavierwerke (7/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "LISZT  Sämtliche Klavierwerke (7/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/nhv_20260605",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-05T16:03:17+00:00"
@@ -13,7 +13,7 @@
       {
         "id": "b5e9e47f4033",
         "title": "LISZT Sämtliche Klavierwerke",
-        "summary": "LISZT  Sämtliche Klavierwerke (12/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "LISZT  Sämtliche Klavierwerke (12/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/hnvxjhf",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-05T15:49:59+00:00"
@@ -21,7 +21,7 @@
       {
         "id": "0e3b0797589a",
         "title": "LISZT Sämtliche Klavierwerke",
-        "summary": "LISZT  Sämtliche Klavierwerke (10/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "LISZT  Sämtliche Klavierwerke (10/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/mvjk_20260605",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-05T15:43:37+00:00"
@@ -29,7 +29,7 @@
       {
         "id": "46ab6f68acdb",
         "title": "LISZT Sämtliche Klavierwerke",
-        "summary": "LISZT  Sämtliche Klavierwerke (9/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "LISZT  Sämtliche Klavierwerke (9/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/hxjf_20260605",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-05T15:41:08+00:00"
@@ -37,7 +37,7 @@
       {
         "id": "892dee4ab101",
         "title": "LISZT Sämtliche Klavierwerke",
-        "summary": "LISZT  Sämtliche Klavierwerke (8/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "LISZT  Sämtliche Klavierwerke (8/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/f_20260605",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-05T15:31:56+00:00"
@@ -725,6 +725,38 @@
     ],
     "破(day)": [
       {
+        "id": "689984c83b9c",
+        "title": "Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem",
+        "summary": "﻿ Are you subscribed to the Adafruit Youtube channel? If you&#8217;re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tell ...",
+        "url": "https://blog.adafruit.com/2026/06/05/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-05T18:30:17+00:00"
+      },
+      {
+        "id": "fb18b5ab0b9a",
+        "title": "Abadir’s The Primitivist is a high-energy rhythmic tour of Arabic sound",
+        "summary": "Cairo-born producer ABADIR is back with a four-track gut-punch of Arab rhythm, a foot-stomping, belly-activating powerhouse of an EP. True to its label, The Primitivist is neither fetishized nor repurposed: it&#8217;s Rami speaking in a native musical language that&#8217;s fully rooted and simultane...",
+        "url": "https://cdm.link/abadirs-the-primitivist-is-a-high-energy-rhythmic-tour-of-arabic-sound/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-06-05T16:44:38+00:00"
+      },
+      {
+        "id": "c7f38eb4894b",
+        "title": "John Park’s CircuitPython Parsec: LCD Character Display Animation",
+        "summary": "#circuitpythonparsec Animate eight custom characters for the LCD character display code example To learn about CircuitPython: https://circuitpython.org &#160;",
+        "url": "https://blog.adafruit.com/2026/06/05/john-parks-circuitpython-parsec-lcd-character-display-animation/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-05T16:40:29+00:00"
+      },
+      {
+        "id": "cbad678623c5",
+        "title": "陳子軒／戰爭、病毒、錢潮──濃濃「美式資本主義」風味的2026世界盃",
+        "summary": "2026年美加墨世足賽即將開打，賽前卻已暗潮洶湧。當門票價格、簽證制度、防疫標準與地緣政治，先一步決定誰能在場內外成為世界盃的一部分，今年世足賽便不再只是競技場上的盛會，而是當代世界秩序的縮影。",
+        "url": "https://www.twreporter.org/a/saturday-features-long-game-fifa-world-cup-2026",
+        "source": "報導者",
+        "published": "2026-06-05T16:00:00+00:00"
+      },
+      {
         "id": "84e122ffd27b",
         "title": "Because of a Mathematician From Rural Virginia Work on Global Positioning, You Have No Excuse for Getting Lost",
         "summary": "Gladys West had an “insatiable thirst for knowledge.” She used computers, radars and satellites to make calculations that led to the GPS technology that allows us to pinpoint any spot on the globe",
@@ -739,6 +771,14 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
         "source": "Google DeepMind",
         "published": "2026-06-05T14:45:00+00:00"
+      },
+      {
+        "id": "f93f31e15b2d",
+        "title": "當代台灣酷兒電影專題　馬德里同志月驕傲開跑",
+        "summary": "（中央社記者胡家綺馬德里5日專電）呼應6月同志驕傲月，「當代台灣酷兒電影」專題巡迴影展日前於「馬德里酷兒電影節」開跑，特邀台灣影評人但唐謨與作家紀大偉出席，向西班牙觀眾導覽台灣多元的酷兒文化。",
+        "url": "https://www.cna.com.tw/news/acul/202606050361.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-06-05T14:25:33+00:00"
       },
       {
         "id": "0313d6113fcb",
@@ -851,6 +891,14 @@
         "url": "https://www.openbook.org.tw/article/p-72654",
         "source": "Openbook閱讀誌",
         "published": "2026-06-05T01:00:00+00:00"
+      },
+      {
+        "id": "15f5c9d1d6c0",
+        "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+        "summary": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+        "url": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
+        "source": "Claude Blog",
+        "published": "2026-06-05T00:00:00+00:00"
       },
       {
         "id": "29a27a62878d",
@@ -995,14 +1043,6 @@
         "url": "https://www.openbook.org.tw/article/p-72652",
         "source": "Openbook閱讀誌",
         "published": "2026-06-04T07:00:00+00:00"
-      },
-      {
-        "id": "422c77296336",
-        "title": "豆莢寶寶兒童音樂會  團員挑戰打擊樂還要變魔術",
-        "summary": "（中央社記者趙靜瑜台北4日電）朱宗慶打擊樂團一年一度的「豆莢寶寶兒童音樂會」，即將推出全新製作「咻咻~魔幻擊樂秀」，由朱宗慶打擊樂團2團演出，這次團員演出還要變魔術，帶著大小朋友展開冒險之旅。",
-        "url": "https://www.cna.com.tw/news/acul/202606040190.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-06-04T06:55:48+00:00"
       },
       {
         "id": "6da1f77dfeae",
@@ -1237,26 +1277,18 @@
         "published": "2026-06-02T19:30:40+00:00"
       },
       {
-        "id": "da29224010c8",
-        "title": "Adafruit 24 NeoPixel RGB LED Ring – The Raspberry Pi Official Magazine, Issue 166 @rpimagazine",
-        "summary": "The Raspberry Pi Official Magazine – Issue 166 features the Adafruit 24 NeoPixel RGB LED Ring: As well as on reels or strings, you can get addressable LEDs in other form factors – including straight strips, curves, and rings. Adafruit makes NeoPixel rings in several sizes, controllable with CircuitP...",
-        "url": "https://blog.adafruit.com/2026/06/02/neopixel-ring-24-raspberry-pi-official-magazine-issue-166-rpimagazine/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-02T16:17:52+00:00"
-      },
-      {
-        "id": "102ae52b6b4e",
-        "title": "Triple LED Matrix Bonnet for Raspberry Pi – The Raspberry Pi Official Magazine, Issue 166 @rpimagazine",
-        "summary": "The Raspberry Pi Official Magazine – Issue 166 features the Adafruit Triple LED Matrix Bonnet for Raspberry Pi: A‘Bonnet’ for Raspberry Pi, it lets you control up to three HUB75 panels in parallel (aka an ‘active3’ pinout) – or even three strings of daisy-chained panels. It supports panel sizes of 1...",
-        "url": "https://blog.adafruit.com/2026/06/02/triple-led-matrix-bonnet-for-raspberry-pi-the-raspberry-pi-official-magazine-issue-166-rpimagazine/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-02T16:03:56+00:00"
-      },
-      {
         "id": "8615b7d5e72d",
         "title": "你家議員替你爭取哪些補助？各黨策略有何不同？六都議員提案全解析",
         "summary": "議員的問政方式，正從傳統跑攤與服務政治，逐漸走向政策倡議與即時回應的新階段。《報導者觀測站》從立院延伸至六都議會，透過系統性檢視議員提案，讓選民能看見議員長期關注的議題輪廓，作為理解地方政治的起點。",
         "url": "https://www.twreporter.org/a/data-reporter-municipal-councils-observatory",
+        "source": "報導者",
+        "published": "2026-06-02T16:00:00+00:00"
+      },
+      {
+        "id": "8a6eb3d66085",
+        "title": "從林派到英系，陳明文「嘉義王」之路與派系接班隱憂",
+        "summary": "陳明文當年帶著嘉義國民黨「林派」帶槍投靠民進黨至今，「由藍轉綠」成為最強大的綠營地方派系；年底若能同時將蔡易餘、王美惠送上嘉義縣長與市長，勢將成為勢力跨越嘉義縣市的「嘉義王」，但也須同時面對接班等各項派系發展隱憂。",
+        "url": "https://www.twreporter.org/a/2026-local-elections-chiayi",
         "source": "報導者",
         "published": "2026-06-02T16:00:00+00:00"
       },
@@ -1273,14 +1305,6 @@
         "title": "「花蓮王」夫婦輪流執政17年，「傅家王朝」面臨接班保衛戰",
         "summary": "傅崐萁、徐榛蔚夫婦「共治」花蓮17年，傅更已走向全國，坐穩國民黨立院黨團總召之位，在朝小野大的全國政局中扮演關鍵角色。他們如何壯大地方勢力甚至進行全國布局？為何傳出年底傅崐萁可能回頭再選縣長？",
         "url": "https://www.twreporter.org/a/2026-local-elections-hualien",
-        "source": "報導者",
-        "published": "2026-06-02T16:00:00+00:00"
-      },
-      {
-        "id": "8a6eb3d66085",
-        "title": "從林派到英系，陳明文「嘉義王」之路與派系接班隱憂",
-        "summary": "陳明文當年帶著嘉義國民黨「林派」帶槍投靠民進黨至今，「由藍轉綠」成為最強大的綠營地方派系；年底若能同時將蔡易餘、王美惠送上嘉義縣長與市長，勢將成為勢力跨越嘉義縣市的「嘉義王」，但也須同時面對接班等各項派系發展隱憂。",
-        "url": "https://www.twreporter.org/a/2026-local-elections-chiayi",
         "source": "報導者",
         "published": "2026-06-02T16:00:00+00:00"
       },
@@ -1597,14 +1621,6 @@
         "published": "2026-05-29T17:30:00+00:00"
       },
       {
-        "id": "8d9004ac2757",
-        "title": "稻田裡長出一甲子電影放映啟示錄──專訪太順鉅業李建成、李建富",
-        "summary": "從維修安裝到土製放映機送往各地影院甚至海外，數位時代來襲前更搶奪先機取得投影機大廠獨家代理權。彷彿總能在時代的歧異點選對路，太順鉅業一甲子傳了李家3個世代，從抵擋大潮的人，一翻而上成為巨浪頂峰的領浪者。",
-        "url": "https://www.twreporter.org/a/saturday-features-film-taishun-lee-chien-cheng-and-lee-chien-fu",
-        "source": "報導者",
-        "published": "2026-05-29T16:00:00+00:00"
-      },
-      {
         "id": "dd8f09877bd4",
         "title": "Threads 標註「@meta.ai」即時回覆在台測試，網友頻出招想考倒 AI",
         "summary": "Threads 近日開始在台測試 Threads 整合 Meta AI 的新功能，只要在串文或留言標註「@me [&#8230;]",
@@ -1715,22 +1731,6 @@
         "url": "https://cdm.link/thorn-audio-splines-review/",
         "source": "CDM Create Digital Music",
         "published": "2026-05-26T17:13:25+00:00"
-      },
-      {
-        "id": "8801c109f4ba",
-        "title": "Code w/ Claude London 2026: Rethinking how we build",
-        "summary": "Code w/ Claude London 2026: Rethinking how we build",
-        "url": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
-        "source": "Claude Blog",
-        "published": "2026-05-26T00:00:00+00:00"
-      },
-      {
-        "id": "319157c3169a",
-        "title": "Let’s all watch Piaman cover songs with a joystick and voice synthesis",
-        "summary": "Piaman, aka half of RYOKO2000, formerly Pianoid (bio: \"doesn't play piano at all\") is turning himself into a human Vocaloid, with joysticks and fast reflexes. And this is what you need right now. Linkhole trail begins now:\nThe post Let&#8217;s all watch Piaman cover songs with a joystick and voice s...",
-        "url": "https://cdm.link/piaman-joystick-and-more/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-05-25T17:58:07+00:00"
       },
       {
         "id": "e163d9f28c8c",
@@ -2412,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-05T16:33:38.660012+00:00"
+        "published": "2026-06-05T19:01:51.762010+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-05T16:33:38.660005+00:00"
+        "published": "2026-06-05T19:01:51.762000+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-05T16:33:38.659997+00:00"
+        "published": "2026-06-05T19:01:51.761989+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-05T16:33:38.659989+00:00"
+        "published": "2026-06-05T19:01:51.761979+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-05T16:33:38.659982+00:00"
+        "published": "2026-06-05T19:01:51.761968+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-05T16:33:38.659974+00:00"
+        "published": "2026-06-05T19:01:51.761958+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-05T16:33:38.659967+00:00"
+        "published": "2026-06-05T19:01:51.761947+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-05T16:33:38.659959+00:00"
+        "published": "2026-06-05T19:01:51.761936+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-05T16:33:38.659952+00:00"
+        "published": "2026-06-05T19:01:51.761924+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-05T16:33:38.659943+00:00"
+        "published": "2026-06-05T19:01:51.761892+00:00"
       },
       {
         "id": "b1e417faaef0",
@@ -2541,6 +2541,14 @@
         "url": "https://blog.archive.org/2026/06/01/keep-the-news-in-the-wayback-machine/",
         "source": "Internet Archive Blogs",
         "published": "2026-06-01T13:59:39+00:00"
+      },
+      {
+        "id": "212fbac1bfec",
+        "title": "Summary of changes for May 2026",
+        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of May.\n\n\n\n  Wiki, documented the installation of Pino's water tank, added thermostat to engine care, and updated woodstove installation.\n  Grimgrains, added a solar-roasted kinako recipe.\n  Uxn, added instr...",
+        "url": "https://100r.ca/site/log.html#may2026",
+        "source": "Hundred Rabbits",
+        "published": "2026-05-31T07:00:00+00:00"
       },
       {
         "id": "7b31c061db56",
@@ -2837,14 +2845,6 @@
         "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/04/12/carlos-guedes-presents-masc-research-at-universitat-pompeu-fabras-music-technology-group/",
         "source": "Music and Sound Cultures",
         "published": "2026-04-12T09:42:09+00:00"
-      },
-      {
-        "id": "0d28bf3c207d",
-        "title": "Summary of changes for April 2026",
-        "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of May.\n\n\n\n  Wiki, documented the installation of Pino's water tank, added thermostat to engine care, and updated woodstove installation.\n  Grimgrains, added a solar-roasted kinako recipe.\n  Uxn, added instr...",
-        "url": "https://100r.ca/site/log.html#apr2026",
-        "source": "Hundred Rabbits",
-        "published": "2026-04-01T07:00:00+00:00"
       },
       {
         "id": "0d28bf3c207d",
