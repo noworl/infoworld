@@ -1,7 +1,111 @@
 {
-  "updated_at": "2026-06-07T11:58:11.456951+00:00",
+  "updated_at": "2026-06-07T14:12:16.285731+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "9201b4706765",
+        "title": "BietHayKhongDungNghiHauPhuTieuHauGiaTH",
+        "summary": "BietHayKhongDungNghiHauPhuTieuHauGiaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/BietHayKhongDungNghiHauPhuTieuHauGiaTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-07T12:16:30+00:00"
+      },
+      {
+        "id": "01e555b3efe8",
+        "title": "BatDauTuBocThaiGiamDomNuDeMungNhuDienTH",
+        "summary": "BatDauTuBocThaiGiamDomNuDeMungNhuDienTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/BatDauTuBocThaiGiamDomNuDeMungNhuDienTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-07T12:02:48+00:00"
+      },
+      {
+        "id": "0199b8d98653",
+        "title": "BatDauMotCaiZanpakutoCheTaoToiCuongLangSuongMuTH",
+        "summary": "BatDauMotCaiZanpakutoCheTaoToiCuongLangSuongMuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/BatDauMotCaiZanpakutoCheTaoToiCuongLangSuongMuTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-07T12:00:24+00:00"
+      },
+      {
+        "id": "768885988b05",
+        "title": "BatDauTruSatTieuMiMaThemDiemMaxCapPhucMaChuongTH",
+        "summary": "BatDauTruSatTieuMiMaThemDiemMaxCapPhucMaChuongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/BatDauTruSatTieuMiMaThemDiemMaxCapPhucMaChuongTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-07T11:58:28+00:00"
+      },
+      {
+        "id": "ff9327386a21",
+        "title": "CaoVoTuHaiNhiBatDauTienHoaTH",
+        "summary": "CaoVoTuHaiNhiBatDauTienHoaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/CaoVoTuHaiNhiBatDauTienHoaTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-07T11:56:40+00:00"
+      },
+      {
+        "id": "ffa7eaefdbdf",
+        "title": "台鐵集集線路樹倒　濁水-集集暫停行車",
+        "summary": "（中央社記者余曉涵台北7日電）根據台鐵今晚通報，集集線K18+300處因路樹倒塌，致濁水到集集間路線暫時不通，目前已將旅客利用公路接駁至二水站。",
+        "url": "https://www.cna.com.tw/news/ahel/202606070201.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-07T11:52:54+00:00"
+      },
+      {
+        "id": "59f1b8e46ebd",
+        "title": "CangDaoLaiNoiSongGioTH",
+        "summary": "CangDaoLaiNoiSongGioTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/CangDaoLaiNoiSongGioTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-07T11:41:59+00:00"
+      },
+      {
+        "id": "c422ac9bec8b",
+        "title": "CauDaoLuuThuongDonBatDauPhaPhongNguShyCaTH",
+        "summary": "CauDaoLuuThuongDonBatDauPhaPhongNguShyCaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/CauDaoLuuThuongDonBatDauPhaPhongNguShyCaTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-07T11:41:23+00:00"
+      },
+      {
+        "id": "ca75327778c6",
+        "title": "托雷多美術館典藏將登台　林布蘭、梵谷作品展出",
+        "summary": "（中央社記者王寶兒台北7日電）美國托雷多美術館擁3萬多件典藏，富邦美術館將自7月起以2檔展覽呈現其橫跨16至20世紀的精選典藏，首檔可見林布蘭真跡，第2檔可見梵谷「奧維爾的麥田與收割者」。",
+        "url": "https://www.cna.com.tw/news/acul/202606070198.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-07T11:32:47+00:00"
+      },
+      {
+        "id": "43637b63e5db",
+        "title": "BeHaUongNhanhThuocTH",
+        "summary": "BeHaUongNhanhThuocTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/BeHaUongNhanhThuocTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-07T11:26:00+00:00"
+      },
+      {
+        "id": "73c8301341b1",
+        "title": "BatTuTaThanTH",
+        "summary": "BatTuTaThanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/BatTuTaThanTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-07T11:15:14+00:00"
+      },
+      {
+        "id": "954e71585f87",
+        "title": "新北捷運三鶯線完成履勘　營運前須改善安全標示等4事項",
+        "summary": "（中央社記者余曉涵台北7日電）新北捷運三鶯線今天進行履勘，交通部表示，履勘小組共提出15項改善事項，其中包括頂埔站（LB01）風門測試開關影響旅客動線等4項，必須在營運前完成改善。",
+        "url": "https://www.cna.com.tw/news/ahel/202606070194.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-07T11:12:39+00:00"
+      },
+      {
+        "id": "2e5d209a0fd7",
+        "title": "BatDauQuanRuouDaiThieuGiaThamSonDanhQuyenMuoiTamNamTH",
+        "summary": "BatDauQuanRuouDaiThieuGiaThamSonDanhQuyenMuoiTamNamTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/BatDauQuanRuouDaiThieuGiaThamSonDanhQuyenMuoiTamNamTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-07T11:10:22+00:00"
+      },
       {
         "id": "b45c1abc01e5",
         "title": "對流發展旺盛　台中南投地區及苗栗宜蘭山區防豪雨",
@@ -51,116 +155,12 @@
         "published": "2026-06-07T09:58:55+00:00"
       },
       {
-        "id": "0784a036775e",
-        "title": "ThucGiaoKageyaMakotoThucLucChiThuongPhongHocTH",
-        "summary": "ThucGiaoKageyaMakotoThucLucChiThuongPhongHocTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThucGiaoKageyaMakotoThucLucChiThuongPhongHocTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-07T09:52:24+00:00"
-      },
-      {
-        "id": "1ee2dfb23058",
-        "title": "ThienHangMaChuQuyenTranSonHaTH",
-        "summary": "ThienHangMaChuQuyenTranSonHaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThienHangMaChuQuyenTranSonHaTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-07T09:51:29+00:00"
-      },
-      {
         "id": "80d37d560372",
         "title": "2隻台南野放傷癒黑面琵鷺　鳥友拍到連3年飛返台灣",
         "summary": "（中央社記者楊思瑞台南7日電）台南市生態保育學會配合黑面琵鷺保育季活動，發起尋找台南市長黃偉哲任內野放傷癒個體，編號N44及N49被鳥友拍到連續3年飛返台灣，展現良好適應能力與棲地忠誠度。",
         "url": "https://www.cna.com.tw/news/ahel/202606070173.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-06-07T09:46:53+00:00"
-      },
-      {
-        "id": "78d5bf4cbb81",
-        "title": "ThanThoaiCheTapTuBachCotPhuNhanBatDauTH",
-        "summary": "ThanThoaiCheTapTuBachCotPhuNhanBatDauTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThanThoaiCheTapTuBachCotPhuNhanBatDauTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-07T09:46:12+00:00"
-      },
-      {
-        "id": "5d221564419e",
-        "title": "ThienAHangLamTH",
-        "summary": "ThienAHangLamTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThienAHangLamTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-07T09:45:48+00:00"
-      },
-      {
-        "id": "91dc0371adcd",
-        "title": "長榮航馬拉松幼苗計畫　首站阿里山開跑",
-        "summary": "（中央社記者余曉涵台北7日電）今年長榮航空馬拉松的「幼苗計畫－校園深耕巡迴」首站選擇嘉義阿里山，邀請7所當地學校近百名學生參加，盼透過專業訓練，為台灣長跑運動扎根及培育人才。",
-        "url": "https://www.cna.com.tw/news/ahel/202606070170.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-07T09:34:46+00:00"
-      },
-      {
-        "id": "b98f17e9e285",
-        "title": "ThonPheTinhKhongTuCuoiVoThanhLapManhNhatGiaTocTH",
-        "summary": "ThonPheTinhKhongTuCuoiVoThanhLapManhNhatGiaTocTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThonPheTinhKhongTuCuoiVoThanhLapManhNhatGiaTocTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-07T09:30:41+00:00"
-      },
-      {
-        "id": "a9c47a663b73",
-        "title": "ThieuNienBachMaPhucKhacNhoTienTuViNguyetDaoCauConTH",
-        "summary": "ThieuNienBachMaPhucKhacNhoTienTuViNguyetDaoCauConTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThieuNienBachMaPhucKhacNhoTienTuViNguyetDaoCauConTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-07T09:29:54+00:00"
-      },
-      {
-        "id": "2a13cd24394d",
-        "title": "花紋老海豚擱淺屏東旭海　運往成大鯨豚中心救治",
-        "summary": "（中央社記者李卉婷屏東縣7日電）1隻活體海豚今天中午被發現擱淺在屏東牡丹鄉旭海岸際，經初判為花紋海豚年老個體，活力欠佳，已運往成大鯨豚中心進行救治。",
-        "url": "https://www.cna.com.tw/news/ahel/202606070158.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-07T09:26:21+00:00"
-      },
-      {
-        "id": "a62c1ed37420",
-        "title": "ThanThoaiDuongKichTH",
-        "summary": "ThanThoaiDuongKichTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThanThoaiDuongKichTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-07T09:17:05+00:00"
-      },
-      {
-        "id": "f49ac587a3ad",
-        "title": "ThienLamTienTocTH",
-        "summary": "ThienLamTienTocTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThienLamTienTocTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-07T09:14:51+00:00"
-      },
-      {
-        "id": "a97f1b4000fd",
-        "title": "ThemDiemMotVanLanTaCuTheVoDichTH",
-        "summary": "ThemDiemMotVanLanTaCuTheVoDichTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThemDiemMotVanLanTaCuTheVoDichTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-07T09:07:36+00:00"
-      },
-      {
-        "id": "d943a336f48b",
-        "title": "新北、宜蘭山區防豪雨　南投等地留意大雨",
-        "summary": "（中央社台北7日電）中央氣象署發布豪雨特報，對流雲系發展旺盛，易有短延時強降雨，今天新北市地區及宜蘭縣山區有局部大雨或豪雨，北部、南部、南投、宜蘭地區及中部、花蓮山區有局部大雨發生的機率。",
-        "url": "https://www.cna.com.tw/news/ahel/202606070155.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-07T09:07:12+00:00"
-      },
-      {
-        "id": "ead9a1263977",
-        "title": "ThuaDipGiaoHoaNgayNgoLacLuNangChoTaLamVoTH",
-        "summary": "ThuaDipGiaoHoaNgayNgoLacLuNangChoTaLamVoTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThuaDipGiaoHoaNgayNgoLacLuNangChoTaLamVoTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-07T09:06:50+00:00"
       },
       {
         "id": "11d752b780e7",
@@ -483,6 +483,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,6 +805,22 @@
     ],
     "破(day)": [
       {
+        "id": "25e463752ec1",
+        "title": "Atonement review – guilt and love battle for an unhappy ending",
+        "summary": "Chichester Festival theatre This stage version of Ian McEwan’s devastating class novel shows inspiring touches and the cast play adeptly, yet the tale’s emotional sweep feels underpoweredIan McEwan’s novel begins with a play. It is written by 13-year-old Briony Tallis, who has a gift for telling sto...",
+        "url": "https://www.theguardian.com/stage/2026/jun/07/atonement-review-chichester-festival-theatre-ian-mcewan",
+        "source": "Stage | The Guardian",
+        "published": "2026-06-07T13:22:55+00:00"
+      },
+      {
+        "id": "ca75327778c6",
+        "title": "托雷多美術館典藏將登台　林布蘭、梵谷作品展出",
+        "summary": "（中央社記者王寶兒台北7日電）美國托雷多美術館擁3萬多件典藏，富邦美術館將自7月起以2檔展覽呈現其橫跨16至20世紀的精選典藏，首檔可見林布蘭真跡，第2檔可見梵谷「奧維爾的麥田與收割者」。",
+        "url": "https://www.cna.com.tw/news/acul/202606070198.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-06-07T11:32:47+00:00"
+      },
+      {
         "id": "1f97c3194d48",
         "title": "金門中正國小鼓吹隊捷克演出  展現台灣傳統藝術魅力",
         "summary": "（中央社記者劉郁葶布拉格7日專電）金門中正國小鼓吹隊6日在捷克使館節演出，以嗩吶、哨角及鑼鼓等樂器，搭配變換隊形，帶來「念故鄉」、「台灣尚勇」精彩曲目。現場台灣攤位販售滷肉飯、愛玉等小吃，讓歐洲民眾體驗台灣多元的美食文化。",
@@ -923,14 +1019,6 @@
         "url": "https://www.theguardian.com/stage/2026/jun/05/the-sorcerers-apprentice-review-buxton-opera-house",
         "source": "Stage | The Guardian",
         "published": "2026-06-05T12:40:57+00:00"
-      },
-      {
-        "id": "1bfe33e23536",
-        "title": "中歐作家閱讀月登場　16台作家赴波蘭展開文學對話",
-        "summary": "（中央社記者邱祖胤台北5日電）中歐地區重要文學盛會「作家閱讀月」於6日登場，「台灣主題國」活動將於波蘭弗羅茨瓦夫（Wrocław）及切申（Cieszyn）兩地舉行，邀16位台灣作家以文學和各國作家展開對話。",
-        "url": "https://www.cna.com.tw/news/acul/202606050294.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-06-05T11:01:03+00:00"
       },
       {
         "id": "da2503e01c0c",
@@ -1267,14 +1355,6 @@
         "url": "https://www.mittrchina.com/news/detail/16462",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-06-03T11:04:47+00:00"
-      },
-      {
-        "id": "02e46076670c",
-        "title": "Mrs Dalloway review – Virginia Woolf’s party planner plays all the roles herself",
-        "summary": "Storyhouse, ChesterKit Green takes on all the characters in an imaginative interpretation of the 1925 day-in-the-life novelAs Clarissa Dalloway wafts about the stage, welcoming her audience indiscriminately before instigating party games, the essence of Virginia Woolf’s scrupulous socialite appears ...",
-        "url": "https://www.theguardian.com/stage/2026/jun/03/mrs-dalloway-review-virginia-woolf-party-planner-plays-all-the-roles-herself",
-        "source": "Stage | The Guardian",
-        "published": "2026-06-03T10:38:37+00:00"
       },
       {
         "id": "2576dd1469f3",
@@ -2332,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-07T11:58:10.302778+00:00"
+        "published": "2026-06-07T14:12:15.224082+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-07T11:58:10.302768+00:00"
+        "published": "2026-06-07T14:12:15.224072+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-07T11:58:10.302758+00:00"
+        "published": "2026-06-07T14:12:15.224062+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-07T11:58:10.302748+00:00"
+        "published": "2026-06-07T14:12:15.224052+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-07T11:58:10.302737+00:00"
+        "published": "2026-06-07T14:12:15.224042+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-07T11:58:10.302727+00:00"
+        "published": "2026-06-07T14:12:15.224032+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-07T11:58:10.302717+00:00"
+        "published": "2026-06-07T14:12:15.224022+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-07T11:58:10.302707+00:00"
+        "published": "2026-06-07T14:12:15.224012+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-07T11:58:10.302696+00:00"
+        "published": "2026-06-07T14:12:15.224003+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-07T11:58:10.302686+00:00"
+        "published": "2026-06-07T14:12:15.223993+00:00"
       },
       {
         "id": "b1e417faaef0",
