@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-10T19:41:54.843611+00:00",
+  "updated_at": "2026-06-10T22:11:51.353552+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "281e7221c7c4",
+        "title": "Мелодия",
+        "summary": "LJADOV NAPRAVNIK.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/sdg_20260610",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-10T19:27:14+00:00"
+      },
+      {
+        "id": "a86b471d5410",
+        "title": "AS MARCANTES E ARROCHAS VILA DO CONDE DJ FRAN CONSIDERADO",
+        "summary": "fd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/as-marcantes-e-arrochas-vila-do-conde-dj-fran-considerado",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-10T19:19:36+00:00"
+      },
       {
         "id": "1ebde9eb7fed",
         "title": "Draco Malfoy’s Ledger of Perceived Slights — Entry #17",
@@ -9,6 +25,14 @@
         "url": "https://archive.org/details/entry-17",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-10T17:51:26+00:00"
+      },
+      {
+        "id": "520c40c21194",
+        "title": "LISZT Sämtliche Klavierwerke",
+        "summary": "LISZT  Sämtliche Klavierwerke (99/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bfhy_20260610",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-10T17:16:46+00:00"
       },
       {
         "id": "7fda9efbeb5a",
@@ -51,20 +75,12 @@
         "published": "2026-06-10T14:46:05+00:00"
       },
       {
-        "id": "26284afacaa2",
+        "id": "e0e7b5095bfe",
         "title": "LISZT Sämtliche Klavierwerke",
-        "summary": "LISZT  Sämtliche Klavierwerke (95/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
-        "url": "https://archive.org/details/yfdgfa",
+        "summary": "LISZT  Sämtliche Klavierwerke (93/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bhdgtt",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-10T14:22:47+00:00"
-      },
-      {
-        "id": "27e2002c2495",
-        "title": "LISZT Sämtliche Klavierwerke",
-        "summary": "LISZT  Sämtliche Klavierwerke (91/99) Leslie Howard (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/ydbgtra",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-10T14:21:21+00:00"
+        "published": "2026-06-10T14:40:22+00:00"
       },
       {
         "id": "b7be374a1da6",
@@ -83,14 +99,6 @@
         "published": "2026-06-10T13:32:19+00:00"
       },
       {
-        "id": "46be8942f98f",
-        "title": "PECK 05 SP DE MACAPÁ",
-        "summary": "fgf.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/peck-05-sp-de-macapa",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-10T13:25:16+00:00"
-      },
-      {
         "id": "ffcde2817504",
         "title": "北市鄭州路人行道塌陷　鐵道局：11日灌漿回填",
         "summary": "（中央社記者余曉涵台北10日電）台北市鄭州路一處人行道今天上午塌陷，上方變電箱連帶倒塌，經查該處為鐵道局管轄並提供台北市政府供行人使用。鐵道局今晚指出，明天將灌漿回填，儘速恢復通行。",
@@ -105,14 +113,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202606100387.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-06-10T13:19:12+00:00"
-      },
-      {
-        "id": "933e38e1dc2f",
-        "title": "33 LANÇ AMENTOS HUD O BRABO 2026",
-        "summary": "gf.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/33-lanc-amentos-hud-o-brabo-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-10T13:11:05+00:00"
       },
       {
         "id": "eace8615cc75",
@@ -483,6 +483,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,6 +805,54 @@
     ],
     "破(day)": [
       {
+        "id": "9b819492daa0",
+        "title": "Rust Embassy examples for Raspberry Pi Pico 2",
+        "summary": "The Rust Embassy Examples for Raspberry Pi Pico 2 contains examples for the Raspberry Pi Pico 2 (RP2350) board, written in Rust using the Embassy async framework. There are several examples included including using Matter. See GitHub for the details.",
+        "url": "https://blog.adafruit.com/2026/06/10/rust-embassy-examples-for-raspberry-pi-pico-2/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-10T21:24:55+00:00"
+      },
+      {
+        "id": "5bbf7ce950f8",
+        "title": "A library for turning sensor data into useful motion features",
+        "summary": "Puara Gestures is a lightweight C++ library for turning sensor data into useful motion features. It is designed for embedded systems and real-time projects that need gesture-style signals from accelerometers, IMUs, touch arrays, and buttons. What this library gives you Jab, Jab2D, Jab3D — simple mot...",
+        "url": "https://blog.adafruit.com/2026/06/10/a-library-for-turning-sensor-data-into-useful-motion-features/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-10T21:17:16+00:00"
+      },
+      {
+        "id": "c884a17998c6",
+        "title": "Giving frontier AI coding agents 24 hours to write a complete software GBA emulator",
+        "summary": "Mechanize, Inc. is trying various LLM models to see how well they can make a Game Boy Advance emulator in Webassembly given various time constraints. Above are the May 2026 numbers. Each model gets a Docker container with the Rust + wasm32 toolchain, the ABI specification, a BIOS stub, dev ROMs, and...",
+        "url": "https://blog.adafruit.com/2026/06/10/giving-frontier-ai-coding-agents-24-hours-to-write-a-complete-software-gba-emulator/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-10T20:50:08+00:00"
+      },
+      {
+        "id": "c12c8e5cec44",
+        "title": "Reverse engineering the TI-84 Plus OS",
+        "summary": "Ben Siraphob is currently working on a reproducible Ghidra reverse-engineering project for the TI-84 Plus calculator OS (version 2.55MP), a Zilog Z80 system. A Z80 (64 KiB address space) with hardware paging maps flash page 0 at 0000 (the kernel: RST vectors, the bcall dispatcher, FP/VAT/memory core...",
+        "url": "https://blog.adafruit.com/2026/06/10/reverse-engineering-the-ti-84-plus-os/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-10T20:37:57+00:00"
+      },
+      {
+        "id": "73243c2abd9c",
+        "title": "GPUsnek is Python on nVidia’s CUDA",
+        "summary": "gpusnek answers the question &#8220;What would it look like to be able to inline arbitrary Python code into your high-performance CUDA kernels, with no consideration for why that is a bad idea?&#8221;. The repository implements a full Python interpreter that can run on one GPU thread (or in parallel...",
+        "url": "https://blog.adafruit.com/2026/06/10/gpusnek-is-python-on-nvidias-cuda/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-10T19:47:25+00:00"
+      },
+      {
+        "id": "83d06b0d7cf3",
+        "title": "NEW PRODUCT –  Snap-on Enclosure for Adafruit FeatherWing RP2040 Prop-Maker",
+        "summary": "NEW PRODUCT &#8211; Snap-on Enclosure for Adafruit FeatherWing RP2040 Prop-Maker Here is a cute and minimal enclosure for your Adafruit RP2040 Prop-Maker Feather with I2S Audio Amplifier to keep it safe during use and transport. This case has been custom-designed and 3D printed to accommodate the US...",
+        "url": "https://blog.adafruit.com/2026/06/10/new-product-snap-on-enclosure-for-adafruit-featherwing-rp2040-prop-maker/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-10T19:42:43+00:00"
+      },
+      {
         "id": "e44c2d107dc6",
         "title": "An LLM that reviews your code, challenges your decisions, but never writes code for you",
         "summary": "Socreates is a Socratic coding companion by Serge Zaitsev which reviews your code, challenges your decisions, but never writes code for you. A non-coding coding agent, really. It&#8217;s made with ~1000 lines of Go with zero dependencies. It works with Ollama (local) or any OpenAI-compatible API (De...",
@@ -763,54 +891,6 @@
         "url": "https://blog.adafruit.com/2026/06/10/beam-spring-b104-keyboards-now-for-sale-at-model-f-labs/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-06-10T18:55:26+00:00"
-      },
-      {
-        "id": "b329c41f2221",
-        "title": "The HP 16c Collector’s Edition calculator is being released",
-        "summary": "After more than 35 years, the HP 16c – the legendary programmer’s calculator – returns in a Collector’s Edition version. It preserves the intelligent design and power of the original model while introducing refined improvements for modern users. Engineers, programmers, and enthusiasts will appreciat...",
-        "url": "https://blog.adafruit.com/2026/06/10/the-hp-16c-collectors-edition-calculator-is-being-released/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-10T18:45:40+00:00"
-      },
-      {
-        "id": "c74ff9ee9c39",
-        "title": "Putting a datacenter GPU in a gaming PC for £200 ($268)",
-        "summary": "Oscar Molnar already had an RTX 4080. 16GB of VRAM. Good enough for gaming, not good enough for  LLM models Oscar wanted to run locally. The next step up in GPU land is either spend a fortune on a card with more VRAM, or find another way. I found another way. I bought a datacenter [&#8230;]",
-        "url": "https://blog.adafruit.com/2026/06/10/putting-a-datacenter-gpu-in-a-gaming-pc-for-200-268/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-10T18:35:33+00:00"
-      },
-      {
-        "id": "ac2ef3827540",
-        "title": "Detailed CT scanner images inside BYD products",
-        "summary": "Lumafield looks inside four products from BYD: BYD delivered 4.6 million vehicles in 2025, making it the world&#8217;s largest electric vehicle manufacturer by volume. We got our hands on four components from BYD&#8217;s lineup and put them in our CT scanner: a lithium iron phosphate battery cell, a...",
-        "url": "https://blog.adafruit.com/2026/06/10/detailed-ct-scanner-images-inside-byd-products/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-10T18:21:10+00:00"
-      },
-      {
-        "id": "22d6dd32320c",
-        "title": "Recovering Eric Graham’s 1987 Juggler raytracer source code",
-        "summary": "Chris Hanson writes about how AlphaPixel took a look at Amiga Juggler. The Juggler animation was ground-breaking and Earth-shattering. Even the Amiga&#8217;s creators (Commodore) didn&#8217;t believe it had been made on an Amiga. They thought the actual computation work had been done on a mainframe,...",
-        "url": "https://blog.adafruit.com/2026/06/10/recovering-eric-grahams-1987-juggler-raytracer-source-code/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-10T18:00:28+00:00"
-      },
-      {
-        "id": "7d03fdfd4d09",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/06/10/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-10/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-10T16:07:53+00:00"
-      },
-      {
-        "id": "36a3a7e63906",
-        "title": "Eagle Computer: the rise and fall of an early PC clone",
-        "summary": "Dave Farquhar on The Silicon Underground writes about the rise and fall of the early PC clone company Eagle Computer. When it comes to 80s computer brands, few flew as high as Eagle Computer flew in 1983. The aptly named company was selling 12,000 computers a month and had been doubling sales every ...",
-        "url": "https://blog.adafruit.com/2026/06/10/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-10T16:02:46+00:00"
       },
       {
         "id": "6d01f59d46b9",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-10T19:41:53.828941+00:00"
+        "published": "2026-06-10T22:11:50.272296+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-10T19:41:53.828930+00:00"
+        "published": "2026-06-10T22:11:50.272286+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-10T19:41:53.828920+00:00"
+        "published": "2026-06-10T22:11:50.272276+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-10T19:41:53.828909+00:00"
+        "published": "2026-06-10T22:11:50.272266+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-10T19:41:53.828899+00:00"
+        "published": "2026-06-10T22:11:50.272255+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-10T19:41:53.828888+00:00"
+        "published": "2026-06-10T22:11:50.272245+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-10T19:41:53.828878+00:00"
+        "published": "2026-06-10T22:11:50.272235+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-10T19:41:53.828867+00:00"
+        "published": "2026-06-10T22:11:50.272225+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-10T19:41:53.828857+00:00"
+        "published": "2026-06-10T22:11:50.272214+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-10T19:41:53.828847+00:00"
+        "published": "2026-06-10T22:11:50.272204+00:00"
       },
       {
         "id": "b1e417faaef0",
