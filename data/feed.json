@@ -1,14 +1,118 @@
 {
-  "updated_at": "2026-06-11T00:26:20.153348+00:00",
+  "updated_at": "2026-06-11T05:59:01.599863+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "4e81de20f2bf",
-        "title": "吳德榮：未來一週鋒面南北徘徊　降雨有望逐日減緩",
-        "summary": "（中央社記者張雄風台北11日電）氣象專家吳德榮今天表示，未來一週滯留鋒南北徘徊，局部地區易有強對流發展，要留意雷擊、強風、瞬間強降雨等劇烈天氣；但隨著西南季風逐漸減弱，降雨有逐日減緩的趨勢。",
-        "url": "https://www.cna.com.tw/news/ahel/202606110022.aspx",
+        "id": "1dedd7563cf1",
+        "title": "環境部推涼適點標誌　未消費也可入內休息消暑",
+        "summary": "（中央社記者張雄風台北11日電）環境部今天正式對外發布「CoolMap抗高溫涼適地圖」統一識別標誌，自即日起開放各界自由下載張貼，作為民眾辨識涼適空間的共同標記，沒有消費，也歡迎入內休息、消暑。",
+        "url": "https://www.cna.com.tw/news/ahel/202606110131.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-11T00:07:03+00:00"
+        "published": "2026-06-11T04:27:54+00:00"
+      },
+      {
+        "id": "2d052269306d",
+        "title": "香港作家董啟章的文學實驗　以個體生命實踐區別AI",
+        "summary": "（中央社記者邱祖胤台北11日電）AI的出現，是否影響文學創作？香港作家董啟章最新長篇小說「物種源始・貝貝重生：消失的可能世界」，27萬字中有3萬字以AI協作，他說，想以人類個體生命實踐來跟AI作出區別。",
+        "url": "https://www.cna.com.tw/news/acul/202606110129.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-11T04:24:50+00:00"
+      },
+      {
+        "id": "3367ed94fd26",
+        "title": "水利署：全台供水穩定至9月底",
+        "summary": "（中央社記者游凱翔、賴于榛台北11日電）行政院長卓榮泰今天表示，透過珍珠串調度及節水措施，已達成約11億噸水量效益；水利署指出，公共用水可穩定供應至9月底並保有1個月安全蓄水量，未來將一手抗旱、一手防汛因應極端氣候。",
+        "url": "https://www.cna.com.tw/news/ahel/202606110128.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-11T04:24:48+00:00"
+      },
+      {
+        "id": "e4295886ed94",
+        "title": "故宮南院水舞展演6/26啟動  結合光環境水幕投影",
+        "summary": "（中央社記者蔡智明嘉義縣11日電）故宮南院6月26日起至8月30日止，每週二至週日傍晚進行水舞展演。秉持「文化轉譯」精神，結合水舞、水幕投影、光環境設計，將故宮院藏文物轉化為可感知的展演意象。",
+        "url": "https://www.cna.com.tw/news/acul/202606110120.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-11T04:07:31+00:00"
+      },
+      {
+        "id": "65ba3493f129",
+        "title": "畜試所推動蘭嶼豬保種成功　助地方發展特色料理",
+        "summary": "（中央社記者汪淑芬台北11日電）農業部畜產試驗所推動蘭嶼豬保種計畫成功，多年來主要用於生物醫學研究，近幾年協助地方發展特色料理，在原鄉飼養純種蘭嶼豬，證實能適應環境且族群穩定成長。",
+        "url": "https://www.cna.com.tw/news/ahel/202606110116.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-11T03:58:22+00:00"
+      },
+      {
+        "id": "1db4f272e45c",
+        "title": "免疫不孕2指標　醫：盲目打針反增身體負擔",
+        "summary": "（中央社記者陳婕翎台北11日電）免疫不孕在社群成話題，醫師提醒，自體免疫系統很動態，盲目使用高劑量免疫調節劑等，反增身體負擔；早期流產2次以上、正常胚胎植入仍失敗等是判斷指標，應就醫尋求協助。",
+        "url": "https://www.cna.com.tw/news/ahel/202606110115.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-11T03:58:20+00:00"
+      },
+      {
+        "id": "228f42957cc8",
+        "title": "全國藝術教育論壇　教育部次長籲用AI科技拓展創意",
+        "summary": "（中央社記者陳至中台北11日電）全國藝術教育論壇今天在台北登場，教育部次長張廖萬堅表示，AI（人工智慧）等新科技的發展，無法取代人的感受力、想像力與關懷，未來的藝術教育，須讓科技成為拓展創意的工具。",
+        "url": "https://www.cna.com.tw/news/ahel/202606110087.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-11T03:30:23+00:00"
+      },
+      {
+        "id": "242dd51a1f9f",
+        "title": "愛學網校園微電影徵件　社會情緒學習納年度主題",
+        "summary": "（中央社記者陳至中台北11日電）現代社會充滿各種挑戰，年輕學子的心理韌性受到各界關注。國家教育研究院「愛學網」徵求師生投稿校園微電影，今年度將社會情緒學習（SEL）納入年度主題。",
+        "url": "https://www.cna.com.tw/news/ahel/202606110081.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-11T03:18:10+00:00"
+      },
+      {
+        "id": "6177b9656349",
+        "title": "大學申請入學7823個缺額　外語學群名額使用率最低",
+        "summary": "（中央社記者許秩維台北11日電）115學年大學申請入學管道放榜，共有缺額7823個，缺額較多的前3名為淡江大學446個、銘傳大學421個、嘉義大學325個；名額使用率最低的是外語學群（70.96%）。",
+        "url": "https://www.cna.com.tw/news/ahel/202606110080.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-11T03:17:08+00:00"
+      },
+      {
+        "id": "6626579d8785",
+        "title": "外傭申請新制上路　幼托團體籲嚴查非法托育",
+        "summary": "（中央社記者陳至中台北11日電）政府鬆綁外籍幫傭申請條件，家有未滿12歲孩童即可申請。多個幼托團體代表今天呼籲，應嚴查非法托育和地下收托行為，並檢討資源過度集中於合法機構的監管政策。",
+        "url": "https://www.cna.com.tw/news/ahel/202606110075.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-11T03:06:57+00:00"
+      },
+      {
+        "id": "499dd7b923e8",
+        "title": "09 Tether",
+        "summary": "Wangxian, Podfic.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/09-tether",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-11T02:43:44+00:00"
+      },
+      {
+        "id": "847d0f6f877a",
+        "title": "UB Radio Salon 960 - live experimental sounds... 7 June 2026 on DFM.nu",
+        "summary": "2-hours of live improvised experimental radio sound-art broadcast live from the Chakra Chimp Research Kitchens of Northern California-land.  Netcast on DFM Radio TV International (www.dfm.nu)  DFM RTV INT  7 JUNE 2026....This item belongs to: audio/ubradio_salon.This item has files of the following ...",
+        "url": "https://archive.org/details/ubradio_salon960",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-11T02:21:18+00:00"
+      },
+      {
+        "id": "f24a6d6d3649",
+        "title": "Winter Quarters Ch 02",
+        "summary": "A podfic of the second chapter of \"Winter Quarters\" by AcornsOnTheGround/Teeelsie on Archive of Our Own..This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/winter-quarters-ch-02",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-11T01:46:41+00:00"
+      },
+      {
+        "id": "e141916214f6",
+        "title": "Third Young Master 20",
+        "summary": "The Third Young Master of the Qishan Wen 20.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/third-young-master-20",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-11T00:52:27+00:00"
       },
       {
         "id": "0e46ea8da68f",
@@ -59,116 +163,12 @@
         "published": "2026-06-10T21:14:28+00:00"
       },
       {
-        "id": "725e5fafc8a1",
-        "title": "اغنية محمود السناني أغلى الناس MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260610_20260610_2108",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-10T21:09:43+00:00"
-      },
-      {
-        "id": "4308542beeab",
-        "title": "Мелодия",
-        "summary": "LJAPUNOV.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/hmjh_20260610",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-10T21:08:22+00:00"
-      },
-      {
-        "id": "4e316a4ea364",
-        "title": "اغنية ياما قالوا فينا منال أحمد MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260610_20260610_2102",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-10T21:05:14+00:00"
-      },
-      {
-        "id": "1bc2c1bcaece",
-        "title": "اغنية علي الديك مصيبة MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260610_20260610_2057",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-10T20:58:39+00:00"
-      },
-      {
-        "id": "b7be374a1da6",
-        "title": "今彩539第115141期　頭獎4注中獎",
-        "summary": "（中央社台北10日電）今彩539第115141期開獎，中獎號碼39、32、35、01、04；派彩結果，頭獎4注中獎，各得獎金新台幣600萬元。",
-        "url": "https://www.cna.com.tw/news/ahel/202606100398.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-10T14:04:41+00:00"
-      },
-      {
-        "id": "4b9b58cbe562",
-        "title": "民眾投訴區間車有老鼠  台鐵：已全面消毒",
-        "summary": "（中央社記者余曉涵台北10日電）台鐵今天證實，昨天從新左營開往屏東的區間車的車廂內出現老鼠，研判是停靠車站期間跑入車廂內，已針對該編組進行全面消毒。",
-        "url": "https://www.cna.com.tw/news/ahel/202606100390.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-10T13:32:19+00:00"
-      },
-      {
-        "id": "ffcde2817504",
-        "title": "北市鄭州路人行道塌陷　鐵道局：11日灌漿回填",
-        "summary": "（中央社記者余曉涵台北10日電）台北市鄭州路一處人行道今天上午塌陷，上方變電箱連帶倒塌，經查該處為鐵道局管轄並提供台北市政府供行人使用。鐵道局今晚指出，明天將灌漿回填，儘速恢復通行。",
-        "url": "https://www.cna.com.tw/news/ahel/202606100388.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-10T13:23:15+00:00"
-      },
-      {
-        "id": "b0c653e0f537",
-        "title": "中榮2醫師代刀遭健保署裁罰  院方：未討論是否求償",
-        "summary": "（中央社記者郝雪卿台中10日電）台中榮總神經外科2名主任因容留廠商代刀遭台中地檢署起訴，健保署因而裁罰神外住院業務停約3個月，傳出中榮將向2人求償，院方今晚聲明，目前未討論是否向醫師求償。",
-        "url": "https://www.cna.com.tw/news/ahel/202606100387.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-10T13:19:12+00:00"
-      },
-      {
-        "id": "eace8615cc75",
-        "title": "今彩539第115141期開獎",
-        "summary": "（中央社台北10日電）今彩539第115141期開獎，中獎號碼39、32、35、01、04。3星彩中獎號碼351，4星彩中獎號碼8463。",
-        "url": "https://www.cna.com.tw/news/ahel/202606100378.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-10T12:43:53+00:00"
-      },
-      {
-        "id": "e057f096e6f8",
-        "title": "9早餐店稽查違規　麵包放過期、清漿現腸桿菌",
-        "summary": "（中央社記者陳婕翎台北10日電）食藥署今天公布早餐店稽查結果，共9家違規，包含早安美芝城、拉亞漢堡等連鎖業者，因未投保產品責任險、重組肉現場未標示遭罰，其他業者因麵包放過期、清漿現腸桿菌等違規。",
-        "url": "https://www.cna.com.tw/news/ahel/202606100352.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-10T11:16:56+00:00"
-      },
-      {
-        "id": "e3dfa464a3f0",
-        "title": "豪雨農損318萬元  西瓜受損17公頃最嚴重",
-        "summary": "（中央社記者汪淑芬台北10日電）農業部統計，8日到今天下午5時，估計全台豪雨造農損新台幣318萬元，受損作物主要為西瓜，被害面積17公頃。",
-        "url": "https://www.cna.com.tw/news/ahel/202606100347.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-10T11:06:46+00:00"
-      },
-      {
         "id": "5d07eb0353b5",
         "title": "2C  Birds in the Sixth Mass Extinction | Cyanotype Animation by Edd Carr",
         "summary": "Re-edit of a music video I did to tell a narrative on birds in an era of mass extinction. instagram.com/_eddcarr_ eddcarr.co.uk &#160; &#160;",
         "url": "https://www.musicofsound.co.nz/blog/2c-birds-in-the-sixth-mass-extinction-cyanotype-animation-by-edd-carr",
         "source": "Music of Sound",
         "published": "2026-06-10T10:58:05+00:00"
-      },
-      {
-        "id": "152509884fde",
-        "title": "台中海線停電　台電初判環境潮濕致設備絕緣不良",
-        "summary": "（中央社記者謝怡璇台北10日電）台中市海線地區今天下午2時許，發生大甲、沙鹿、清水等地區停電。台電初步研判，疑因近期豪雨不斷，環境潮濕導致變電所現有匯流排比壓器設備絕緣不良，引發停電。",
-        "url": "https://www.cna.com.tw/news/ahel/202606100341.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-10T10:55:33+00:00"
-      },
-      {
-        "id": "6487fc232904",
-        "title": "牙痛到後腦勺竟是舌癌　北榮助保住言語、飲食功能",
-        "summary": "（中央社記者沈佩瑤台北10日電）年近50歲蕭小姐2年前發現罹患舌癌，接受手術但又復發，讓她陷入沮喪，所幸在北榮「前導化療、精準切除」治療模式下，保住言語與飲食功能，外觀不受影響，有望陪孩子長大。",
-        "url": "https://www.cna.com.tw/news/ahel/202606100338.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-10T10:51:27+00:00"
       },
       {
         "id": "970e431fcd53",
@@ -483,6 +483,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,6 +805,62 @@
     ],
     "破(day)": [
       {
+        "id": "bb1794fe0b6f",
+        "title": "From the mail bag…",
+        "summary": "From the mail bag! As a kid I was massively enabled in my projects by Adafruit and hope what we are building allows creators to take the next step in their projects and make custom circuits that suit their needs. Thanks!",
+        "url": "https://blog.adafruit.com/2026/06/11/from-the-mail-bag-792/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-11T05:30:17+00:00"
+      },
+      {
+        "id": "2d052269306d",
+        "title": "香港作家董啟章的文學實驗　以個體生命實踐區別AI",
+        "summary": "（中央社記者邱祖胤台北11日電）AI的出現，是否影響文學創作？香港作家董啟章最新長篇小說「物種源始・貝貝重生：消失的可能世界」，27萬字中有3萬字以AI協作，他說，想以人類個體生命實踐來跟AI作出區別。",
+        "url": "https://www.cna.com.tw/news/acul/202606110129.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-06-11T04:24:50+00:00"
+      },
+      {
+        "id": "e4295886ed94",
+        "title": "故宮南院水舞展演6/26啟動  結合光環境水幕投影",
+        "summary": "（中央社記者蔡智明嘉義縣11日電）故宮南院6月26日起至8月30日止，每週二至週日傍晚進行水舞展演。秉持「文化轉譯」精神，結合水舞、水幕投影、光環境設計，將故宮院藏文物轉化為可感知的展演意象。",
+        "url": "https://www.cna.com.tw/news/acul/202606110120.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-06-11T04:07:31+00:00"
+      },
+      {
+        "id": "cf2e1640138a",
+        "title": "‘Audiences no longer laugh if you call their town crap’: can Phil Wang heal divided Britain?",
+        "summary": "He’s the perfect comedian to cool down these incendiary times. As Philly Philly takes his Uh Oh standup show on tour, he talks about woke traps, lefty blindspots – and gen Z’s lurch to the right Born in Stoke-on-Trent to a British mother and Chinese-Malaysian father then raised in Borneo and educate...",
+        "url": "https://www.theguardian.com/stage/2026/jun/11/phil-wang-standup-tour-philly-uh-oh-woke-traps",
+        "source": "Stage | The Guardian",
+        "published": "2026-06-11T04:00:06+00:00"
+      },
+      {
+        "id": "30ff9d09d5cb",
+        "title": "話題》我們怎麼愛籃球：作家們的《總有來年》ft.汪正翔、劉揚銘、翁稷安",
+        "summary": "➤汪正翔：LBJ是與我無關的存在\n球迷與球隊、球員沒有任何關係，但是因為熱愛，他們的悲喜也成為我們的悲喜，這種悲喜成為了人生體驗。\n——籃球Youtuber太吾車神\n\n我看LBJ已經超過20年了。我從他高中的時候開始看，那時候我還是個研究所的學生，然後這20年來，我從摸得到板到摸不到板，從研究生變成攝影大哥。我回想有多少個早上，我心滿意足地看完比賽，然後一整天都覺得很開心。對我而言，LBJ就像是你某一段時間持續聽的音樂，因為聽太多次了，所以你的人生某一個片段被記錄在音樂裡，只要你聽到那個旋律，就會想起某一段時光。\n我承認我有這部分的感懷，但同時我覺得也有別的東西。我並不只是透過LBJ回顧我的人...",
+        "url": "https://www.openbook.org.tw/article/p-72671",
+        "source": "Openbook閱讀誌",
+        "published": "2026-06-11T03:00:02+00:00"
+      },
+      {
+        "id": "5b9a43657e77",
+        "title": "台東蘭嶼拼板舟6/15划向巴丹　重現海上古道",
+        "summary": "（中央社記者盧太城台東縣11日電）台東縣蘭嶼達悟（雅美）族打造近代最大艘、20人座拼板舟「黃金友誼號」，15日將離岸出發，頂著黑潮航向菲律賓巴丹群島，重現300年前蘭嶼與巴丹交流的海上古道。",
+        "url": "https://www.cna.com.tw/news/acul/202606110051.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-06-11T02:12:06+00:00"
+      },
+      {
+        "id": "597999dd1957",
+        "title": "臺灣漫遊錄芬蘭電視誤報　社群討論反成新書最強宣傳",
+        "summary": "（中央社記者巫祈麟赫爾辛基10日專電）台灣作家楊双子的「臺灣漫遊錄」5月奪下國際布克獎，隔天芬蘭國家廣播公司（Yle）晨間節目邀請3位文化專家談這本書，斷言芬蘭文版不存在，甚至認為永遠不會有，殊不知譯本3月就已上市。這場烏龍在社群媒體鬧得沸沸揚揚，反成這本書在芬蘭最好的宣傳。",
+        "url": "https://www.cna.com.tw/news/acul/202606110031.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-06-11T00:50:23+00:00"
+      },
+      {
         "id": "92d75042f5d6",
         "title": "[東南亞週報321] 香格里拉對話星國登場聚焦區域安全、越菲升級強化戰略夥伴關係、AWS曼谷峰會聚焦AI未來",
         "summary": "[東南亞週報321] 香格里拉對話星國登場聚焦區域安全、越菲升級強化戰略夥伴關係、AWS曼谷峰會聚焦AI未來  [&#8230;]",
@@ -811,14 +947,6 @@
         "url": "https://blog.adafruit.com/2026/06/10/serial-sdi-12-on-an-avr-with-bitbanging/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-06-10T19:27:51+00:00"
-      },
-      {
-        "id": "3830a448b49f",
-        "title": "Register for North America FreeCAD meetup",
-        "summary": "FreeCAD announces that the 2026 North American FreeCAD Meetup will be happening August the 7th through 9th in Knoxville Tennessee. Hosted by Knox Makers™, this informal gathering will include ad hoc presentations, discussion, tutorials and more. We hope to see a range of the FreeCAD community there,...",
-        "url": "https://blog.adafruit.com/2026/06/10/register-for-north-america-freecad-meetup/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-10T19:14:14+00:00"
       },
       {
         "id": "5537d5eeee7b",
@@ -957,6 +1085,14 @@
         "published": "2026-06-10T02:30:23+00:00"
       },
       {
+        "id": "9da39a09f4cc",
+        "title": "跨越六十年的當代凝視！臺灣國樂團《回眸》音樂會 攜手國樂新秀再現經典與未來 淬鍊國樂當代新視野",
+        "summary": "國立傳統藝術中心臺灣國樂團將於2026年6月27日（六）下午2時30分，於臺灣戲曲中心大表演廳隆重推出《回眸》音樂會。本場演出由樂團副指揮周聖文擔綱，攜手樂團琵琶首席王乙曲，以及NCO器樂大賽中阮新秀選拔優勝者蔡安蕎、孫聿瑩，以國樂作品為時間座標，帶領樂迷穿梭一甲子的聲音長河，聽見臺灣國樂在時代浪潮下的流動、沉澱與新聲。回望，是為了聽見時間留下的聲音；凝視，是為了想像未來將如何被記憶。一甲子前的丙午年，臺灣國樂在時代浪潮與文化思潮的牽動下，逐步走入新的紀元。六十年後的今天，臺灣國樂團再次站在時間的交會點，透過《回眸》音樂會，不僅帶領觀眾回首昨日的經典，更藉由當代青年作曲家的嶄新視角凝望今朝。臺...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=257145",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-06-10T02:27:00+00:00"
+      },
+      {
         "id": "865a40e502e9",
         "title": "書評》越過「不可思議的印度」，看見矛盾、民主與崛起中的真實印度：讀《印度崛起》",
         "summary": "在探討這本書之前，我想先回溯一段長期被忽略的歷史空間。在冷戰時期，台灣與印度之間的交流幾乎處於完全沉默的狀態。當時的地緣政治格局，使得這兩個同樣位於亞洲、同樣在戰後尋求自主的社會，在外交與民間往來上，如同平行線一般，甚少交集。\n直到1991年，印度因應冷戰結束後的全球局勢，推出了重大的「東望政策」（Look East Policy），這顆關係發展的種子才終於在乾涸的土壤中萌芽。然而，即便政策開始有了交集，台灣社會對印度的認知卻始終存在著巨大的鴻溝。這種隔閡並非源於地理距離，而是資訊的偏差。\n\n\n印度、中國和東南亞國家的政治地圖（圖源：wikipedia）\n\n\n長期以來，台灣媒體對印度的報導傾向...",
@@ -1045,6 +1181,14 @@
         "published": "2026-06-09T16:00:00+00:00"
       },
       {
+        "id": "477d591e6323",
+        "title": "Anthéne",
+        "summary": "Reflecting the stillness of natural surroundings in the midst of human made chaos: Anthéne's Air Signs.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/anthene/",
+        "source": "Ambientblog",
+        "published": "2026-06-09T14:49:07+00:00"
+      },
+      {
         "id": "eeb15a828718",
         "title": "閱讀隨身聽S14E9》人生百味羅靖茹／那些堆滿物品的房間，藏著什麼故事？ ft.《從囤積屋開始的重生》",
         "summary": "談到囤積屋，多數人腦中浮現的往往是堆積如山的雜物、難聞的氣味，甚至是難以理解的生活樣貌。在人生百味團隊夥伴羅靖茹的眼中，每一間囤積屋背後，都藏著一段孤獨、關係斷裂的故事。\n6年來，羅靖茹與人生萬事屋的工作隊員走進超過1000戶的家庭，協助整理堆積已久的物品，也陪伴案主重新面對自己的生活。她在新書《從囤積屋開始的重生》裡記錄這些現場：踩過滿地蟑螂的聲響、打開冰箱前的深呼吸、鄰居與住戶之間的張力等故事。\n本集《閱讀隨身聽》，邀請羅靖茹分享她如何走進這份獨特的工作、如何理解囤積現象背後的社會脈絡，以及在一次次的清掃現場中，看見人們努力前進的痕跡。\n➤（非）中文系的訓練\n主持人：中文系的訓練，對這份工...",
@@ -1061,44 +1205,12 @@
         "published": "2026-06-09T12:48:04+00:00"
       },
       {
-        "id": "eab5d78ebfa9",
-        "title": "幾米作品登香港逾萬人次觀展　新企劃展台北登場",
-        "summary": "（中央社記者王寶兒台北9日電）香港藝術家Steven Choi創立「陋室五月」團隊，3月與台灣藝術家幾米合作，在香港舉辦展覽，吸引超過1萬人次觀展，近日在台北也將推出不同的幾米主題企劃展。",
-        "url": "https://www.cna.com.tw/news/acul/202606090341.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-06-09T12:06:29+00:00"
-      },
-      {
         "id": "0d095366d5a0",
         "title": "Unfiltered Audio Battalion drum synth, FX in VCV Rack are a revelation",
         "summary": "At attention! Unfiltered Audio has taken their deep drum synth and favorite effects and remade them as VCV Rack modules. This is instabuy territory ($10-20 a la carte or an intro pricing of $30 for the set, compatible with the free Rack). \nThe post Unfiltered Audio Battalion drum synth, FX in VCV Ra...",
         "url": "https://cdm.link/unfiltered-audio-battalion-for-vcv-rack/",
         "source": "CDM Create Digital Music",
         "published": "2026-06-09T11:54:35+00:00"
-      },
-      {
-        "id": "0af1e6194ab2",
-        "title": "全國文化會議北區登場  共創守護文化價值未來式",
-        "summary": "（中央社記者邱祖胤台北9日電）「2026全國文化會議」第2場分區論壇，今天台北在華山文化創意產業園區展開，文化部政務次長王時思表示，今年會議以「未來式」為主題，盼凝聚共識，讓台灣文化更有力量。",
-        "url": "https://www.cna.com.tw/news/acul/202606090296.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-06-09T10:29:52+00:00"
-      },
-      {
-        "id": "13a1d409fb68",
-        "title": "台灣藝術家陳呈毓捷克駐村　探討二戰蘇台德驅逐歷史",
-        "summary": "（中央社記者劉郁葶布拉格9日專電）台灣藝術家陳呈毓近期赴捷克駐村並舉辦個展Dream of the Eggs，作品探討二戰後捷克蘇台德地區的德裔家族遭驅逐的歷史。策展人哈維爾科娃表示，陳呈毓的作品帶來全新且獨特的觀點，為藝術場域注入新動能。",
-        "url": "https://www.cna.com.tw/news/acul/202606090263.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-06-09T09:35:41+00:00"
-      },
-      {
-        "id": "51d9b5f12f16",
-        "title": "捷克百年蕾絲獲歐盟地理標誌保護  首創工藝品案例",
-        "summary": "（中央社記者劉郁葶布拉格9日專電）捷克傳統手工藝品「萬貝爾克蕾絲」以精緻繁複的鏤空編織聞名，近日獲歐盟「地理標誌保護」，成為捷克首個取得此項資格的手工藝案例，不僅彰顯這項百年工藝的歷史地位，也為產品來源與品質提供官方保障。",
-        "url": "https://www.cna.com.tw/news/acul/202606090255.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-06-09T09:12:24+00:00"
       },
       {
         "id": "e5d7cb5ef212",
@@ -1275,14 +1387,6 @@
         "url": "https://cdm.link/the-latest-on-music-support-for-lebanon-12-hour-fundraiser/",
         "source": "CDM Create Digital Music",
         "published": "2026-06-08T10:38:25+00:00"
-      },
-      {
-        "id": "d915ffc4a5ec",
-        "title": "‘The Epstein files are about more than men and money’: All the Rage, the ‘guerrilla’ play fuelled by 80 furious women",
-        "summary": "Enraged at how the victims of Jeffrey Epstein are being forgotten, more than 80 female and non-binary writers united – to create an epic drama fusing art, activism and anger. How will it work?As the Jeffrey Epstein juggernaut rolled across the media landscape earlier this year, transfixing the world...",
-        "url": "https://www.theguardian.com/stage/2026/jun/08/epstein-files-men-money-all-the-rage-guerrilla-play",
-        "source": "Stage | The Guardian",
-        "published": "2026-06-08T04:00:16+00:00"
       },
       {
         "id": "09b4f4c25477",
@@ -1613,12 +1717,12 @@
         "published": "2026-06-04T12:00:00+00:00"
       },
       {
-        "id": "1a36e72f8a03",
-        "title": "OB短評》#582在標籤與身分迷霧中看見自己的極品好書懶人包",
-        "summary": "●無眠大宅\n林三維著，松鼠文化，420元\n推薦原因： 文   樂  \n這部暗喻香港身世的小說，以跨時空、多重敘事解構國族與其餘的二元視角，將「大宅」作為無法回歸的居所、急欲逃離又被牽引的人們的失所，以及涵納香港社會階級、歷史、未來的容器。例如「丁權」這個特殊的香港產權文化，化身為鬼魂繚繞的大宅，箝制、傷害、賦權並置，挑戰與突破的人們，也還在不遠處。【內容簡介➤】\n●已知用冷\n從存放一年的蘋果到永遠不夠大的冰箱，製冷如何打造我們的飲食、環境與生活日常\nFrostbite: How Refrigeration Changed Our Food, Our Planet, and Ourselves\n...",
-        "url": "https://www.openbook.org.tw/article/p-72652",
-        "source": "Openbook閱讀誌",
-        "published": "2026-06-04T07:00:00+00:00"
+        "id": "307473c32463",
+        "title": "Boduf Songs",
+        "summary": "Boduf Songs' instrumental works are made to be listened to in low light and long shadows. \n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/bodufsongs/",
+        "source": "Ambientblog",
+        "published": "2026-06-04T07:35:00+00:00"
       },
       {
         "id": "6da1f77dfeae",
@@ -1797,6 +1901,14 @@
         "published": "2026-05-31T20:20:17+00:00"
       },
       {
+        "id": "2216a8bdcc45",
+        "title": "Daniel Jolan",
+        "summary": "Daniel Jolan (also known as 't Geruis) presents Sublime Lenteur: 'amazing slowness' as part of Lost Tribe Sounds' 'Moss and Melee' series.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/daniel-jolan/",
+        "source": "Ambientblog",
+        "published": "2026-05-31T06:47:53+00:00"
+      },
+      {
         "id": "6aee6b02d3b5",
         "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
         "summary": "Gemini Omni & Gemini 3.5 hero",
@@ -1811,6 +1923,14 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=256036",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-05-28T01:09:00+00:00"
+      },
+      {
+        "id": "827b604f6232",
+        "title": "Werner Dafeldecker & Lawrence English",
+        "summary": "Lawrence English&#038; Werner Dafeldecker's detailed sound worlds on Fathom Tides remind us that our clocks are not those of the world around us.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dafeldecker-english/",
+        "source": "Ambientblog",
+        "published": "2026-05-27T07:26:44+00:00"
       },
       {
         "id": "4336fe3f1b3f",
@@ -1829,6 +1949,14 @@
         "published": "2026-05-26T18:15:29+00:00"
       },
       {
+        "id": "e163d9f28c8c",
+        "title": "Heÿkla",
+        "summary": "Heÿkla's Echoes Of Loneliness offers 13 tracks to 'drift though invisible places and discover beauty in quiet transformation'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/heykla/",
+        "source": "Ambientblog",
+        "published": "2026-05-24T08:59:13+00:00"
+      },
+      {
         "id": "e8e2a1690318",
         "title": "[東南亞週報320] 星更新AI戰略攜手OpenAI與Google推動應用落地、菲副總統薩拉再次遭彈劾、泰收緊免簽政策逾90國停留期縮短至30天防堵外籍犯罪",
         "summary": "[東南亞週報320] 星更新AI戰略攜手OpenAI與Google推動應用落地、菲副總統薩拉再次遭彈劾、泰收緊 [&#8230;]",
@@ -1843,6 +1971,14 @@
         "url": "https://blogs.loc.gov/loc/2026/05/rosanne-cash-a-family-history-in-the-national-recording-registry/",
         "source": "Timeless",
         "published": "2026-05-22T13:00:17+00:00"
+      },
+      {
+        "id": "5763b125caf1",
+        "title": "Ben Vida",
+        "summary": "Ben Vida's Oblivion Seekers defies existing genre definitions. Nót ambient music, but music with a strong ambient connection - and guaranteed to surprise.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/benvida/",
+        "source": "Ambientblog",
+        "published": "2026-05-20T17:20:13+00:00"
       },
       {
         "id": "2c683fcaa870",
@@ -1941,6 +2077,14 @@
         "published": "2026-05-17T15:20:19+00:00"
       },
       {
+        "id": "6183a8c0d068",
+        "title": "Jinwoo",
+        "summary": "Ambient music from South Korea that you can listen and enjoy, but cannot buy (yet?): Jinwoo's 'Three Soundworks For Tea'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/jinwoo/",
+        "source": "Ambientblog",
+        "published": "2026-05-17T09:06:41+00:00"
+      },
+      {
         "id": "a20845749b58",
         "title": "南管藝術交流匯演開幕　串聯全臺館閣打造「流動博物館」",
         "summary": "由國立傳統藝術中心與臺南市政府文化局共同主辦的《絃音流轉・禮樂傳心－115年度南管藝術交流匯演》，今（16）日於臺南孔廟大成殿廣場正式登場。來自全臺北、中、南及離島共19個南管團體齊聚府城，透過整絃匯演、戲曲示範、講座及城市快閃等多元形式，展開為期兩天的南管藝術盛會；活動主場地選址於素有「全臺首學」之稱的臺南孔廟，在逾三百年歷史的古蹟場域中，以樂會友、以禮傳心，使南管藝術與府城人文底蘊相互映照。活動上午以「孟府郎君祭」揭開序幕，由臺南市傳統表演藝術保存團體「南聲社」主持，在莊重儀式中呈現南管與禮制文化的深厚連結；下午開幕演出則由臺南孔廟「雅樂十三音」與國家級重要傳統藝術保存者陳嬿朱老師及其藝生...",
@@ -1963,6 +2107,14 @@
         "url": "https://www.glt.org.tw/?p=13853",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-05-14T11:59:52+00:00"
+      },
+      {
+        "id": "1d09bf0b8460",
+        "title": "Abul Mogard & Rafael Anton Irisarri",
+        "summary": "The second studio collaboration of Abul Mogard &#038; Rafael Anton Irisarri feels \"like they were inside a system moving on its own\".\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/mogardirisarri/",
+        "source": "Ambientblog",
+        "published": "2026-05-14T06:50:13+00:00"
       },
       {
         "id": "7fe4c81e6953",
@@ -1997,6 +2149,14 @@
         "published": "2026-05-11T16:22:20+00:00"
       },
       {
+        "id": "c612e1f62a6b",
+        "title": "DreamScenes – May 2026",
+        "summary": "\"Echoes of Loneliness\" - DreamScenes for May, 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-may-2026/",
+        "source": "Ambientblog",
+        "published": "2026-05-10T17:55:00+00:00"
+      },
+      {
         "id": "ae7e02324620",
         "title": "《原音如此流行》屏東登場！半世紀原住民流行音樂史首度南下巡展 5/5-9/30震撼開展",
         "summary": "由原發中心與國立傳統藝術中心臺灣音樂館共同主辦的《原音如此流行－從山地歌謠到流行金曲》特展，今（8）日於臺灣原住民族文化園區生態館盛大開幕，展期自5月5日起至9月30日止；另將於7月24日至8月23日移展至嘉義文化創意產業園區Q棟展出。此次展覽除完整呈現傳藝中心臺灣音樂館去年策劃的六大展區內容外，也特別加入原發中心長期推動的多族群創作樂舞、跨族群合作及青年培力成果，展現原住民族音樂文化持續創新的豐沛能量。策展人葉宗哲表示，感謝傳藝中心去年給予策展機會，讓團隊得以從原住民族音樂出發，透過展覽一路梳理從歷史脈絡到當代流行金曲的發展軌跡。他指出，今年很高興能與原發中心合作，加入更多原住民族流行音樂近...",
@@ -2027,6 +2187,14 @@
         "url": "https://humanityisland.nccu.edu.tw/chenxiangyun_a/",
         "source": "人文．島嶼",
         "published": "2026-05-06T02:30:16+00:00"
+      },
+      {
+        "id": "421455aa71a3",
+        "title": "Affin Ambient Works * 130.81",
+        "summary": "Two massive label compilations: an overview of ambient music on the Affin label between 2022 and 2026, and a selection of (relatively unknown) artists on Passed Recordings who all contributed a track in the key of C. \n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/affin-ambient-works-130-81/",
+        "source": "Ambientblog",
+        "published": "2026-05-05T17:30:22+00:00"
       },
       {
         "id": "a07317d3e1eb",
@@ -2181,14 +2349,6 @@
         "published": "2026-04-14T12:58:36+00:00"
       },
       {
-        "id": "073deb7d96b6",
-        "title": "國樂「春之生」力量震撼心靈！ 臺灣國樂團《春吶》 4/18 磅礡登場",
-        "summary": "當萬物在春雷中甦醒，國樂也將以最奔放的姿態馳騁聲域！國立傳統藝術中心所屬臺灣國樂團將於4月18日（六）下午2點30分，在臺灣戲曲中心大表演廳隆重推出《春吶》音樂會。本場演出由首席客席指揮許瀞心親自領軍，攜手享譽國際的嗩吶名家郭雅志、樂團笛首席劉貞伶，共同編織一場融合傳統戲曲、西洋經典與當代想像的音樂饗宴。本場音樂會的一大藝術焦點，在於重新塑造當代國樂的詮釋框架。由作曲家王辰威移植自西洋音樂史巨作史特拉汶斯基的《春之祭》國樂版，此次將透過國樂獨特的演奏語法，賦予這部經典截然不同的聲響色彩。在細緻的樂聲中蘊含無限張力，展現國樂如「春之生」般、在融合與再生間迸發的強大動能。在經典之外，樂團持續推動創...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=253601",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-04-14T07:46:00+00:00"
-      },
-      {
         "id": "1a2cb6489ebc",
         "title": "[東南亞週報317] 敏昂萊就任緬總統承諾推動民主與重建對外關係、日自衛隊首次參與菲美「肩並肩」聯合軍演、柬法探討建立戰略夥伴關係",
         "summary": "[東南亞週報317] 敏昂萊就任緬總統承諾推動民主與重建對外關係、日自衛隊首次參與菲美「肩並肩」聯合軍演、柬法 [&#8230;]",
@@ -2332,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-11T00:26:18.993916+00:00"
+        "published": "2026-06-11T05:59:00.530416+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-11T00:26:18.993905+00:00"
+        "published": "2026-06-11T05:59:00.530409+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-11T00:26:18.993895+00:00"
+        "published": "2026-06-11T05:59:00.530401+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-11T00:26:18.993884+00:00"
+        "published": "2026-06-11T05:59:00.530393+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-11T00:26:18.993874+00:00"
+        "published": "2026-06-11T05:59:00.530386+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-11T00:26:18.993863+00:00"
+        "published": "2026-06-11T05:59:00.530378+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-11T00:26:18.993852+00:00"
+        "published": "2026-06-11T05:59:00.530370+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-11T00:26:18.993842+00:00"
+        "published": "2026-06-11T05:59:00.530363+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-11T00:26:18.993832+00:00"
+        "published": "2026-06-11T05:59:00.530355+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-11T00:26:18.993821+00:00"
+        "published": "2026-06-11T05:59:00.530348+00:00"
       },
       {
         "id": "b1e417faaef0",
