@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-17T22:49:12.473792+00:00",
+  "updated_at": "2026-06-18T00:22:22.538052+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "de352c94cef7",
+        "title": "施工怪手翻覆　台鐵苗栗至竹南暫時單線行車",
+        "summary": "（中央社記者黃巧雯台北18日電）台鐵苗栗至竹南間今晨受工程機具影響，暫單線雙向行車，部分列車延誤。台鐵表示，因工務單位在養護時間施工時，怪手不慎翻覆，已派人搶修；根據官網顯示，估上午9時恢復。",
+        "url": "https://www.cna.com.tw/news/ahel/202606180012.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-17T22:23:26+00:00"
+      },
       {
         "id": "88dededdf21b",
         "title": "اغنية أية عبدالله مصر نمبر وان MP 3",
@@ -153,14 +161,6 @@
         "url": "https://www.cna.com.tw/news/acul/202606170304.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-06-17T10:20:14+00:00"
-      },
-      {
-        "id": "b308dedc959c",
-        "title": "監測屏鵝公路行道樹生態  林試所車載光達掃描建檔",
-        "summary": "（中央社記者汪淑芬台北17日電）政府先前推動的屏鵝公路種樹百里計畫，打造超過百里的綠色景觀。林業試驗所為掌握種樹百里的生態效益，透過車載光達掃描與數位建檔，建立屏鵝公路行道樹科學化的生長資料庫。",
-        "url": "https://www.cna.com.tw/news/ahel/202606170303.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-17T10:19:11+00:00"
       },
       {
         "id": "b42906b4b2af",
@@ -483,6 +483,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,6 +805,14 @@
     ],
     "破(day)": [
       {
+        "id": "00869debd567",
+        "title": "Glengarry Glen Ross review – Mamet’s gender-swapped motormouths fail to close the deal",
+        "summary": "Old Vic theatre, LondonPatrick Marber’s perplexing revival of the salesmen classic amps up the comedy and the performance of masculinity but veers into Bugsy Malone territoryThere are few more masterly portraits of 1980s caveman capitalism than David Mamet’s drama about fast-talking Chicago real est...",
+        "url": "https://www.theguardian.com/stage/2026/jun/18/glengarry-glen-ross-review-old-vic-theatre-david-mamet-patrick-marber",
+        "source": "Stage | The Guardian",
+        "published": "2026-06-17T23:01:47+00:00"
+      },
+      {
         "id": "a6074e0b7642",
         "title": "NEW LEARN GUIDE: Cluetooth Scanner #Bluefruit / BLE #AdafruitLearningSystem @Adafruit",
         "summary": "Want to know what kind of BLE devices are in your vicinity? The Cluetooth Scanner listens for advertising packets from nearby devices and displays info about them. Info can include: Name &#8211;  the device&#8217;s advertised local name if present RSSI (signal strength) &#8211; received signal stren...",
@@ -786,6 +874,22 @@
         "summary": "在極端氣候的加劇與都市熱島效應的影響下，未來幾年，比賽的高溫挑戰、人工草坪等健康與經濟之間的衝突，只會愈來愈頻繁地浮上檯面。仍未參與過世界盃的台灣，也無法置身事外。",
         "url": "https://www.twreporter.org/a/opinion-how-extreme-climate-is-redefining-world-cup-2026",
         "source": "報導者",
+        "published": "2026-06-17T16:00:00+00:00"
+      },
+      {
+        "id": "1e44578f5bc9",
+        "title": "G7法国峰会是斯塔默的“告别演出”吗",
+        "summary": "英国首相在接受记者提问时从容不迫，对他回国后可能面临的领导权挑战似乎淡定。但他的同僚们很清楚，这可能是他最后一次出席重大峰会。",
+        "url": "https://www.ftchinese.com/story/001110076",
+        "source": "FTChinese RSS - News",
+        "published": "2026-06-17T16:00:00+00:00"
+      },
+      {
+        "id": "6228b10ab1c9",
+        "title": "欧盟大国支持创建特朗普式贸易工具",
+        "summary": "法国提议创建欧盟版“301条款”工具，以便对使用“不公平贸易行为”的国家祭出关税或进口配额。德国、波兰、荷兰和比利时支持此举。",
+        "url": "https://www.ftchinese.com/story/001110075",
+        "source": "FTChinese RSS - News",
         "published": "2026-06-17T16:00:00+00:00"
       },
       {
@@ -1221,14 +1325,6 @@
         "published": "2026-06-15T13:00:00+00:00"
       },
       {
-        "id": "2baec6c616a4",
-        "title": "O Romeow … cat steals the show during final scene at Romeo and Juliet ballet - video",
-        "summary": "A cat decided it was the main character during the final scene of a Romeo and Juliet performance by the Imperial Russian Ballet Company in Izmir, Turkey. The cat had a lie down, licked itself and played with Romeo's hair as the performers kept going with their performance undeterred while onlookers ...",
-        "url": "https://www.theguardian.com/lifeandstyle/video/2026/jun/15/o-romeow-cat-steals-the-show-during-final-scene-at-romeo-and-juliet-ballet-video",
-        "source": "Stage | The Guardian",
-        "published": "2026-06-15T12:00:51+00:00"
-      },
-      {
         "id": "1a5b1956eadb",
         "title": "瘫痪小鼠4周重新走路，磁控细胞机器人成功修复受损脊髓",
         "summary": "因脊髓损伤而丧失运动能力的小鼠，能否重新恢复行走？在苏黎世联邦理工学院高级研究员叶皓作为第一作者发表于 Nature Materials 的最新研究中，团队给出了一个令人关注的答案。他告诉 DeepTech，在实验中，脊髓完全横断后的小鼠后肢几乎失去自主运动能力，只能依靠前肢拖动身体。经过 NPCbot 治疗约 4 周后，小鼠开始表现出明显的运动功能恢复。即使它的步态远未达到正常水平，但已经能够重新产生可观察的后肢步进动作。“看到它重新迈出步子的时候，实验室里所有人都安静了下来。”回忆起那一刻，叶皓仍然印象深刻。而这背后得益于他们给这只小鼠注射了一种叫 NPCbot 的微型机器人，这款微型机器...",
@@ -1289,22 +1385,6 @@
         "title": "不满镍矿新规，中方批评印尼投资环境",
         "summary": "中国驻印尼大使馆在4月曾致函印尼能源和矿产资源部，就削减镍矿开采配额和实行新定价机制等政策表达担忧。",
         "url": "https://www.ftchinese.com/story/001110043",
-        "source": "FTChinese RSS - News",
-        "published": "2026-06-14T16:00:00+00:00"
-      },
-      {
-        "id": "01c68b0e516d",
-        "title": "英国首相拟放宽电动汽车销量目标",
-        "summary": "工党政府仍将坚持2030年停止销售新汽油和柴油发动机汽车的承诺，但届时电动汽车的占比下限将只提高至50%，其余50%可以是混合动力汽车。",
-        "url": "https://www.ftchinese.com/story/001110030",
-        "source": "FTChinese RSS - News",
-        "published": "2026-06-14T16:00:00+00:00"
-      },
-      {
-        "id": "90bb7781faca",
-        "title": "调查：能源危机促使企业加快电气化",
-        "summary": "自中东能源危机爆发以来最大规模的企业调查之一发现，地缘政治不稳定使得五分之四的企业高管认为电气化变得更加紧迫。",
-        "url": "https://www.ftchinese.com/story/001110028",
         "source": "FTChinese RSS - News",
         "published": "2026-06-14T16:00:00+00:00"
       },
@@ -2332,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-17T22:49:11.250122+00:00"
+        "published": "2026-06-18T00:22:21.017752+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-17T22:49:11.250112+00:00"
+        "published": "2026-06-18T00:22:21.017742+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-17T22:49:11.250102+00:00"
+        "published": "2026-06-18T00:22:21.017732+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-17T22:49:11.250091+00:00"
+        "published": "2026-06-18T00:22:21.017721+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-17T22:49:11.250059+00:00"
+        "published": "2026-06-18T00:22:21.017711+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-17T22:49:11.250049+00:00"
+        "published": "2026-06-18T00:22:21.017700+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-17T22:49:11.250038+00:00"
+        "published": "2026-06-18T00:22:21.017691+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-17T22:49:11.250028+00:00"
+        "published": "2026-06-18T00:22:21.017681+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-17T22:49:11.250019+00:00"
+        "published": "2026-06-18T00:22:21.017671+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-17T22:49:11.250009+00:00"
+        "published": "2026-06-18T00:22:21.017661+00:00"
       },
       {
         "id": "70b916c20885",
