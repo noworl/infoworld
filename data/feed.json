@@ -1,102 +1,166 @@
 {
-  "updated_at": "2026-06-21T23:23:50.732277+00:00",
+  "updated_at": "2026-06-22T05:17:09.167781+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "4ab813c0660f",
-        "title": "TaDungTheGioiTroChoiLamRuongTH",
-        "summary": "TaDungTheGioiTroChoiLamRuongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/TaDungTheGioiTroChoiLamRuongTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-21T22:18:13+00:00"
-      },
-      {
-        "id": "d68c6019233d",
-        "title": "ToiCuongTrangBiDaiSuTH",
-        "summary": "ToiCuongTrangBiDaiSuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ToiCuongTrangBiDaiSuTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-21T22:13:30+00:00"
-      },
-      {
-        "id": "900d4db07545",
-        "title": "TaCo10VanCaiPhanThanTH",
-        "summary": "TaCo10VanCaiPhanThanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/TaCo10VanCaiPhanThanTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-21T21:47:13+00:00"
-      },
-      {
-        "id": "19685e04d3cf",
-        "title": "ThoiDaiCamTH",
-        "summary": "ThoiDaiCamTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThoiDaiCamTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-21T21:40:54+00:00"
-      },
-      {
-        "id": "e0f6ea090b7c",
-        "title": "CuuThienThanhToTH",
-        "summary": "CuuThienThanhToTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/CuuThienThanhToTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-21T21:14:21+00:00"
-      },
-      {
-        "id": "fb21c6da817a",
-        "title": "DaiDuongChiHoanKhoHoangTuTH",
-        "summary": "DaiDuongChiHoanKhoHoangTuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/DaiDuongChiHoanKhoHoangTuTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-21T21:01:51+00:00"
-      },
-      {
-        "id": "a5871ea95903",
-        "title": "ToTongMayMoPhongTH",
-        "summary": "ToTongMayMoPhongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ToTongMayMoPhongTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-21T20:58:58+00:00"
-      },
-      {
-        "id": "440b23b84215",
-        "title": "HuyenHuyenTaMoRa100NganBiCanhTH",
-        "summary": "HuyenHuyenTaMoRa100NganBiCanhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/HuyenHuyenTaMoRa100NganBiCanhTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-21T20:44:16+00:00"
-      },
-      {
-        "id": "050f12280804",
-        "title": "TongMonCuaTaCoTheXuyenQuaVanGioiTH",
-        "summary": "TongMonCuaTaCoTheXuyenQuaVanGioiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/TongMonCuaTaCoTheXuyenQuaVanGioiTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-21T20:40:36+00:00"
-      },
-      {
-        "id": "c4530ec50ed7",
-        "title": "ViUyLamTrongSachThegioiTH",
-        "summary": "ViUyLamTrongSachThegioiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ViUyLamTrongSachThegioiTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-21T20:39:14+00:00"
-      },
-      {
-        "id": "33c0498b2d04",
-        "title": "花蓮萬里溪上游疑新增堰塞湖暫無危險　林保署籲周邊勿活動",
-        "summary": "（中央社記者李先鳳花蓮縣21日電）林保署花蓮分署今天接獲航拍通報，萬里溪上游疑新增一處堰塞湖，隨即啟動應變小組，並緊急申請空勤支援空勘；初步評估，暫無立即危險，呼籲民眾勿驚慌，近期避免至溪床周邊活動。",
-        "url": "https://www.cna.com.tw/news/ahel/202606210181.aspx",
+        "id": "bdbe57a57998",
+        "title": "肺、胰、卵巢3癌死亡率上升　衛福部揭可能原因",
+        "summary": "（中央社記者沈佩瑤台北22日電）癌症已44年長居國人十大死因之冠，114年多數癌症死亡率下降，肺癌、胰臟癌、卵巢癌死亡率卻上升。除老化因素，衛福部認為也與胰臟癌、卵巢癌缺乏有效篩檢工具、不建議無症狀篩檢等有關。",
+        "url": "https://www.cna.com.tw/news/ahel/202606220103.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-21T12:21:07+00:00"
+        "published": "2026-06-22T04:34:41+00:00"
       },
       {
-        "id": "88a7d8ff337a",
-        "title": "人權故事車到嘉義  姚嘉文分享民主奮鬥歷程",
-        "summary": "（中央社記者王寶兒台北21日電）國家人權博物館近日推動「人權故事車」校園巡迴活動到嘉義高中，邀請白色恐怖政治受難者姚嘉文擔任真人圖書館講師，帶領青年學子回望台灣民主的發展歷程。",
-        "url": "https://www.cna.com.tw/news/acul/202606210172.aspx",
+        "id": "1a5eb4801ef7",
+        "title": "交通部擬禁止車行不當收計程車掛牌費　最快8月上路",
+        "summary": "（中央社記者余曉涵台北22日電）計程車行不當收取靠行牌照費，傳出最高收35萬元，交通部今天預告修法，禁止車行不當收費，違者最高罰9萬元，並可廢止車行營業執照，最快8月上路。",
+        "url": "https://www.cna.com.tw/news/ahel/202606220098.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-21T11:34:47+00:00"
+        "published": "2026-06-22T04:24:30+00:00"
+      },
+      {
+        "id": "f6cdd1aaee8d",
+        "title": "動保團體籲禁山豬吊　發起救救斑斑們、27日上凱道",
+        "summary": "（中央社記者汪淑芬台北22日電）十餘個動保團體組成的台灣動物共生聯盟呼籲，全面禁止使用「山豬吊」，27日將在凱道集會，發起「救救斑斑們」與「解套山林，護佑生靈」活動。",
+        "url": "https://www.cna.com.tw/news/ahel/202606220093.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-22T04:07:19+00:00"
+      },
+      {
+        "id": "62178545c6d3",
+        "title": "南投奧萬大野生動物研習　認識「森林居民」共存",
+        "summary": "（中央社記者蕭博陽南投縣22日電）奧萬大自然教育中心暑假推出3天2夜野生動物調查研習班，包含室內專業講座、實地調查實務、科技資料庫建構及豐富的野外生態實作，帶領學員認識野生動物習性、行為、棲息地。",
+        "url": "https://www.cna.com.tw/news/ahel/202606220085.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-22T03:52:02+00:00"
+      },
+      {
+        "id": "7f04283bcfc2",
+        "title": "DiaNgucQuanChuTaTuThamUyenDenTH",
+        "summary": "DiaNgucQuanChuTaTuThamUyenDenTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/DiaNgucQuanChuTaTuThamUyenDenTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-22T03:45:56+00:00"
+      },
+      {
+        "id": "4a73b8fd284d",
+        "title": "TaLaLichSuULinhTH",
+        "summary": "TaLaLichSuULinhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/TaLaLichSuULinhTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-22T03:45:39+00:00"
+      },
+      {
+        "id": "54eabac6ac55",
+        "title": "HungCaMatTheTH",
+        "summary": "HungCaMatTheTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/HungCaMatTheTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-22T03:42:45+00:00"
+      },
+      {
+        "id": "3e9bff045cd8",
+        "title": "TongChuNhaTaCoChutYeuTH",
+        "summary": "TongChuNhaTaCoChutYeuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/TongChuNhaTaCoChutYeuTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-22T03:39:29+00:00"
+      },
+      {
+        "id": "b19811fe417a",
+        "title": "HackerTH",
+        "summary": "HackerTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/HackerTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-22T03:34:15+00:00"
+      },
+      {
+        "id": "2ac24d6e6cca",
+        "title": "HaiTacChiTienThuongDungChayTH",
+        "summary": "HaiTacChiTienThuongDungChayTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/HaiTacChiTienThuongDungChayTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-22T03:31:04+00:00"
+      },
+      {
+        "id": "518132fee056",
+        "title": "Nappy Roots - Shoreline - 9/8/02",
+        "summary": "Nappy Roots - Shoreline - 9/8/02.This item belongs to: audio/roiocollection.This item has files of the following types: AIFF, Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nappy-roots-shoreline-9802",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-22T03:30:57+00:00"
+      },
+      {
+        "id": "f5e6c42a5040",
+        "title": "KonohaTaCoTheHopThanhNhanThuatTH",
+        "summary": "KonohaTaCoTheHopThanhNhanThuatTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/KonohaTaCoTheHopThanhNhanThuatTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-22T03:28:20+00:00"
+      },
+      {
+        "id": "b91206e61a45",
+        "title": "VongDuBatDauMuoiLienRutTH",
+        "summary": "VongDuBatDauMuoiLienRutTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/VongDuBatDauMuoiLienRutTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-22T03:27:06+00:00"
+      },
+      {
+        "id": "bd2490c387a2",
+        "title": "國際教育網和配對平台優化　助2209校接軌16國",
+        "summary": "（中央社記者許秩維台北22日電）教育部完成「中小學國際教育資訊網」新系統建置與功能優化，並透過「台灣夥伴學校國際配對平台」媒合，至今累積國內2209校、國外410校註冊使用，推動台灣校園與全球16國接軌。",
+        "url": "https://www.cna.com.tw/news/ahel/202606220076.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-22T03:26:43+00:00"
+      },
+      {
+        "id": "ac4ce93ee023",
+        "title": "HuyenHuyenTaLaoBaLaThanhNuTH",
+        "summary": "HuyenHuyenTaLaoBaLaThanhNuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/HuyenHuyenTaLaoBaLaThanhNuTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-22T03:23:46+00:00"
+      },
+      {
+        "id": "6c0c444dd5ce",
+        "title": "環團民調：逾半數民眾憂氣候變遷墊高家庭成本",
+        "summary": "（中央社記者張雄風台北22日電）環團今天公布氣候民調，逾半數民眾憂心未來5年內家庭成本將因氣候變遷而增加；已正式行文各縣市長參選人要求提供氣候政見，並將以六都為優先展開拜會，預計8月底前公布成果。",
+        "url": "https://www.cna.com.tw/news/ahel/202606220060.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-22T03:11:09+00:00"
+      },
+      {
+        "id": "110713fd60aa",
+        "title": "36歲8寶媽又懷第9胎  醫師：陪伴迎接新生命",
+        "summary": "（中央社記者郝雪卿台中22日電）少子化的時代，台中市澄清醫院中港院區產科主任關祥彬今天表示，1名36歲8寶媽又懷第9胎，創下他從醫以來單人多胎次自然產紀錄，將陪伴孕婦安心迎接新生命。",
+        "url": "https://www.cna.com.tw/news/ahel/202606220056.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-22T03:07:00+00:00"
+      },
+      {
+        "id": "6f9f6c372513",
+        "title": "女童狂喝水喘不停 第一型糖尿病合併糖尿病酮酸中毒",
+        "summary": "（中央社記者趙麗妍台中22日電）9歲女童異常口渴，狂喝水，後出現呼吸急促、全身虛弱，就醫發現血糖飆高且併發糖尿病酮酸中毒（DKA）、嚴重代謝性酸中毒及肺炎，確診第一型糖尿病，使用插管與強心藥物搶救。",
+        "url": "https://www.cna.com.tw/news/ahel/202606220052.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-22T03:01:52+00:00"
+      },
+      {
+        "id": "f000bb95e18e",
+        "title": "台中農改場推耐候微生物  提高抗逆境力最高5成",
+        "summary": "（中央社記者汪淑芬台北22日電）農業部台中區農業改良場開發耐候微生物，經溫室與田間試驗，證實農作物在淹水、乾旱、高溫與低溫逆境下的生長表現，可提高2至5成。",
+        "url": "https://www.cna.com.tw/news/ahel/202606220051.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-22T02:59:50+00:00"
+      },
+      {
+        "id": "cf6b32554bb2",
+        "title": "114年十大死因癌症蟬聯榜首　3癌死亡率上升",
+        "summary": "（中央社記者沈佩瑤台北22日電）衛福部公布去年十大死因，整體死亡人數連3年下降，癌症、心臟疾病及肺炎續居前3名；癌症已蟬聯十大死因之首44年，排序與前一年相同，但肺癌、胰臟癌、卵巢癌死亡率上升。",
+        "url": "https://www.cna.com.tw/news/ahel/202606220049.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-22T02:57:45+00:00"
       },
       {
         "id": "778884bf0553",
@@ -105,70 +169,6 @@
         "url": "https://www.musicofsound.co.nz/blog/7bpm",
         "source": "Music of Sound",
         "published": "2026-06-21T11:10:24+00:00"
-      },
-      {
-        "id": "51defec5b472",
-        "title": "國道零星路段壅塞　估晚間9時後陸續紓解",
-        "summary": "（中央社記者余曉涵台北21日電）根據國道即時路況顯示，截至晚間6時國道零星路段壅塞，包含國1竹北-湖口、國5宜蘭-坪林等，高公局預估，要到晚間9時後才會陸續紓解。",
-        "url": "https://www.cna.com.tw/news/ahel/202606210160.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-21T10:11:21+00:00"
-      },
-      {
-        "id": "dee258686f2c",
-        "title": "13縣市22日續防高溫　颱風米克拉估25日距台最近",
-        "summary": "（中央社記者張雄風台北21日電）氣象署表示，24日之前各地炎熱，明天13縣市續防攝氏36度以上高溫；輕颱米克拉最快今晚、明晨增強為中颱，預估25日距台最近，西半部及東北部將轉為有雨天氣。",
-        "url": "https://www.cna.com.tw/news/ahel/202606210154.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-21T09:52:08+00:00"
-      },
-      {
-        "id": "3e24031946b3",
-        "title": "花蓮新堰塞湖將空勘、位置比馬太鞍深山　林保署通知下游注意水位",
-        "summary": "（中央社記者李先鳳花蓮縣21日電）花蓮馬太鞍溪北邊萬里溪上游，林保署航遙測分署發現一處新增堰塞湖，其詳細面積、容量等尚未計算出；花蓮分署表示，將申請空勘及地面隊伍同步進行，並通知下游注意水位計變化。",
-        "url": "https://www.cna.com.tw/news/ahel/202606210152.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-21T09:28:03+00:00"
-      },
-      {
-        "id": "f41d088803bc",
-        "title": "台南部分區域水質黃濁　台水已啟動管線排水作業",
-        "summary": "（中央社記者蘇思云台北21日電）台南部分地區近期水質黃濁，台水公司今天說明，因供水調度時，部分輸配水管線流向及流速改變，管底微量沉積物受擾動揚起，致部分區域短暫出現水質黃濁，已啟動管線排水作業，目前抽驗東區、南區皆符合飲用水水質標準；若用戶用水有零星黃濁狀況，台水接獲通報後，將派人逐案處理。",
-        "url": "https://www.cna.com.tw/news/ahel/202606210138.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-21T08:51:31+00:00"
-      },
-      {
-        "id": "673eb9d36dfa",
-        "title": "台鐵樹林站北端鋼軌魚尾板斷裂搶修恢復正常行車　遭延誤可持票退費",
-        "summary": "（中央社記者余曉涵台北21日電）台鐵指出，今天樹林站北端發生鋼軌魚尾板斷裂，導致軌道接縫處有2-3公分的高低差，下午3時19分搶修完成，樹林-板橋間恢復雙線行駛。",
-        "url": "https://www.cna.com.tw/news/ahel/202606210132.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-21T08:12:18+00:00"
-      },
-      {
-        "id": "047b55d62a81",
-        "title": "專家：病態偷竊靠偷紓壓　網購可降低發生風險",
-        "summary": "（中央社記者陳婕翎台北21日電）「病態偷竊症」近日引議，專家解釋多數患者是在焦慮狀態，透過偷竊低價小物尋求快感，紓解情緒，鮮少主動求醫，隨著網購普及，減少接觸實體商店，可降低病態偷竊風險。",
-        "url": "https://www.cna.com.tw/news/ahel/202606210131.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-21T08:12:16+00:00"
-      },
-      {
-        "id": "785f9a01497b",
-        "title": "龍舟國際友誼賽找李洋當援軍　高雄隊擊敗美日奪冠",
-        "summary": "（中央社記者蔡孟妤高雄21日電）2026高雄端午龍舟國際友誼賽今天登場，由市府及美、日等代表隊同場競技，市府隊還找來運動部長李洋當「援軍」及人氣啦啦隊員安芝儇擔任鼓手，不負眾望以2分04秒70成績奪冠。",
-        "url": "https://www.cna.com.tw/news/ahel/202606210128.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-21T08:00:09+00:00"
-      },
-      {
-        "id": "665758829ca5",
-        "title": "台鐵板橋至樹林間軌道接縫高低差　改單線雙向行車",
-        "summary": "（中央社記者余曉涵台北21日電）台鐵今天下午表示，板橋至樹林間因軌道接縫處有高低差，目前改為單線雙向行車，列車有延誤，已指派公務單位緊急處理中。",
-        "url": "https://www.cna.com.tw/news/ahel/202606210125.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-21T07:49:03+00:00"
       },
       {
         "id": "82803d05ee47",
@@ -725,12 +725,60 @@
     ],
     "破(day)": [
       {
+        "id": "f8f8f1650135",
+        "title": "評論》名為「臺灣感性」的溫柔陷阱：從韓國的對臺迷戀反思臺灣文化輸出策略",
+        "summary": "長期以來，臺灣因複雜的地緣政治糾葛與特殊的國際地位，始終游離於全球外交體系的邊緣，成為國際法與政治現實交織下的例外之地，不僅被迫缺席國際正式場合，在多邊對話中也處於噤聲的邊緣位置。\n這種被忽視與冷落的壓抑，使得臺灣的人們產生了一股極度想被世界看見的集體焦慮。長期以來，臺灣大眾習慣將非外交場域上獲得國際認可的人們稱為「臺灣之光」，奉為國家英雄。近年來這種現象愈發明顯，影響更加寬廣，也轉化為更深刻的認同修辭。\n譬如王齊麟與李洋（麟洋配）在2021年舉辦的東京奧運奪下臺灣羽球史上首面奧運金牌，後於2024年巴黎奧運完成男雙二連霸。「麟洋配」的成功不僅創造了臺灣奧運史上最佳成績，更促使國家層級將體育發...",
+        "url": "https://www.openbook.org.tw/article/p-72688",
+        "source": "Openbook閱讀誌",
+        "published": "2026-06-22T01:00:00+00:00"
+      },
+      {
+        "id": "f4a215794acb",
+        "title": "中歐閱讀月　劉梓潔談文學應衝撞禁忌",
+        "summary": "（中央社記者鄭淨伃華沙22日專電）中歐「作家閱讀月」波蘭場進入尾聲，台灣文學旋風延燒至波捷邊境雙子城切申（Cieszyn）。作家劉梓潔20日晚間登台朗讀，與中歐讀者分享「父後七日」與「親愛的小孩」創作幕後，幽默妙答台式生死觀、繁複民俗與性禁忌，現場笑聲不斷。",
+        "url": "https://www.cna.com.tw/news/acul/202606220011.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-06-21T23:52:22+00:00"
+      },
+      {
         "id": "66e88d7bb5c1",
         "title": "Adafruit Weekly Editorial Round-Up: Dragon Kite Poi, USB Audio in TinyUSB & More!",
         "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ Open fo...",
         "url": "https://blog.adafruit.com/2026/06/21/adafruit-weekly-editorial-round-up-dragon-kite-poi-usb-audio-in-tinyusb-more/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-06-21T19:00:53+00:00"
+      },
+      {
+        "id": "23255820cdb9",
+        "title": "孟加拉国寻求追回从国库消失的巨额资金",
+        "summary": "该国正“加倍努力”追回哈西娜政权及其关系户被指私吞的逾2300亿美元资金。伊朗冲突引发的能源危机使追回资产的工作愈发紧迫。",
+        "url": "https://www.ftchinese.com/story/001110101",
+        "source": "FTChinese RSS - News",
+        "published": "2026-06-21T16:00:00+00:00"
+      },
+      {
+        "id": "9e2eb7d0f0a0",
+        "title": "古巴在美国压力下出台“紧急”改革",
+        "summary": "古巴总统迪亚斯-卡内尔没有照搬该国领导层沿用几十年的言论，而是承认国内经济问题并非完全由美国制裁和封锁造成。",
+        "url": "https://www.ftchinese.com/story/001110100",
+        "source": "FTChinese RSS - News",
+        "published": "2026-06-21T16:00:00+00:00"
+      },
+      {
+        "id": "8cae96dde1ee",
+        "title": "美国前驻日大使：特朗普被伊朗“上了一课”",
+        "summary": "拉姆•伊曼纽尔称，美国总统与伊朗达成的停火协议就像一份“误解备忘录”。与此同时，伊朗宣布再次关闭霍尔木兹海峡。",
+        "url": "https://www.ftchinese.com/story/001110099",
+        "source": "FTChinese RSS - News",
+        "published": "2026-06-21T16:00:00+00:00"
+      },
+      {
+        "id": "bf332ebb084d",
+        "title": "乌克兰施压白俄罗斯拆除境内无人机中继站",
+        "summary": "在限期白俄罗斯一周内拆除其境内为俄罗斯无人机“指路”的中继站后，泽连斯基警告白俄罗斯，拒不合作会有“极其危险的后果”。",
+        "url": "https://www.ftchinese.com/story/001110098",
+        "source": "FTChinese RSS - News",
+        "published": "2026-06-21T16:00:00+00:00"
       },
       {
         "id": "fae819fb5be2",
@@ -1077,20 +1125,12 @@
         "published": "2026-06-19T01:58:51+00:00"
       },
       {
-        "id": "52549a21f154",
-        "title": "阿美族DJ汝妮英國巡演　結合古調、電音與舞蹈",
-        "summary": "（中央社記者陳韻聿倫敦18日專電）阿美族藝術家、DJ與音樂製作人汝妮（Dungi Sapor）19日起將陸續在英格蘭雪菲爾、布里斯托、倫敦等城市巡演，演出融合阿美族傳統吟唱和曲調、實驗電子聲響與舞蹈，另將在大學校園舉行聆賞座談會。",
-        "url": "https://www.cna.com.tw/news/acul/202606190022.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-06-19T01:34:38+00:00"
-      },
-      {
         "id": "a91a6a943357",
         "title": "閱讀通信 vol.386》不只是機智的狗狗",
         "summary": "之前通通編看到有人在社群上分享說，在台北中山的大十字路口看到獨自一「狗」坐在原地，擔心那隻邊牧狗狗走失，下面的網友紛紛留言說「喔是邊牧，那是主人走丟了。」可見邊牧的聰明非常有社會共識🫳🐕\n聰明狗狗在經過訓練後成為人類的幫手屢見不鮮，但大家知道導盲犬也會有自己的小聰明，因為想吹冷氣所以拖拖拉拉不想下車嗎？本期封面故事的訪談邀請到臺灣第一位盲人社工師藍介洲，從他口中我們得知了，導盲犬在工作之餘可愛生動的一面、個性的獨一無二與生命裡無價的羈絆。\n除了滑到聰明狗狗的REELS時停下目光，通通編大推各位一起來聆聽關於聰明狗狗的故事，認識導盲犬Wish、了解機智的視障者生活。\n\n【封面故事】盲人社工師藍介...",
         "url": "https://www.openbook.org.tw/article/p-72686",
         "source": "Openbook閱讀誌",
-        "published": "2026-06-19T01:00:00+00:00"
+        "published": "2026-06-19T01:01:00+00:00"
       },
       {
         "id": "5ec8aff03912",
@@ -1130,7 +1170,7 @@
         "summary": "●才華鑑定人\n唐木厚著，許紋寧譯，新經典文化，350元\n推薦原因： 議   實   樂   \n傳奇編輯的30年職人生涯，讓我們看見抽象存在的「才華」如何成為被看見的故事、具體的書籍。還原了大作家們的出道現場，也展現編輯身為「製作人」的內涵。以直覺辨認異端，信任陪伴冒險，並且在演算法與碎片閱讀主導的如今，指出小說的獨特性與書面語的未來。【內容簡介➤】\n●洗腦，被設計的真相\nThe Instability of Truth: Brainwashing, Mind Control, and Hyper-Persuasion\n蕾貝卡．勒莫夫（Rebecca Lemov）著，張簡守展譯，日出出版，950...",
         "url": "https://www.openbook.org.tw/article/p-72685",
         "source": "Openbook閱讀誌",
-        "published": "2026-06-18T10:50:00+00:00"
+        "published": "2026-06-18T10:51:00+00:00"
       },
       {
         "id": "e12feffeede0",
@@ -1357,22 +1397,6 @@
         "published": "2026-06-16T16:00:00+00:00"
       },
       {
-        "id": "85b97287f886",
-        "title": "SpaceX 600亿美元收购AI初创公司",
-        "summary": "马斯克的火箭公司近日股价强劲上涨，市值有望超越亚马逊。收购“氛围编程”公司Cursor将拓展其Grok模型的能力。",
-        "url": "https://www.ftchinese.com/story/001110061",
-        "source": "FTChinese RSS - News",
-        "published": "2026-06-16T16:00:00+00:00"
-      },
-      {
-        "id": "f3f37f3f3eb4",
-        "title": "欧洲议会批准欧美贸易协议",
-        "summary": "特朗普此前威胁称，如果该协议未在7月4日前获得批准，他将对欧盟输美汽车提高关税。从钢铝关税到数字监管，美欧间仍存在多个冲突点。",
-        "url": "https://www.ftchinese.com/story/001110060",
-        "source": "FTChinese RSS - News",
-        "published": "2026-06-16T16:00:00+00:00"
-      },
-      {
         "id": "5d5133702f1a",
         "title": "This Unsung Black Developer Unlocked the Code to Turning a Video Game Console Into a Virtual Living Room Arcade",
         "summary": "Jerry Lawson’s Channel F system was the first to put games on interchangeable cartridges, paving the way for Atari, Nintendo, Xbox and PlayStation",
@@ -1445,22 +1469,6 @@
         "published": "2026-06-15T16:00:00+00:00"
       },
       {
-        "id": "0864955986f9",
-        "title": "习近平欢迎缅甸总统敏昂莱访华",
-        "summary": "通过发动军事政变上台、现为文职总统的敏昂莱试图争取北京方面的支持，以缓解国际孤立局面。",
-        "url": "https://www.ftchinese.com/story/001110056",
-        "source": "FTChinese RSS - News",
-        "published": "2026-06-15T16:00:00+00:00"
-      },
-      {
-        "id": "1959dfa29e6c",
-        "title": "SpaceX上市第二天延续强劲涨势",
-        "summary": "埃隆•马斯克的AI、卫星和火箭企业虽仍处于亏损状态，但其股票继上市首日强劲上涨19%后，周一进一步上涨19.6%。",
-        "url": "https://www.ftchinese.com/story/001110049",
-        "source": "FTChinese RSS - News",
-        "published": "2026-06-15T16:00:00+00:00"
-      },
-      {
         "id": "2ccf600a5276",
         "title": "With a Few Tweaks, the Country’s Favorite Sports Went From Pastimes to Part of the Fabric of Our Culture",
         "summary": "Can you imagine a football game where there was never a passing play? The forward pass is just one of the innovations that made these contests into events",
@@ -1491,14 +1499,6 @@
         "url": "https://www.openbook.org.tw/article/p-72678",
         "source": "Openbook閱讀誌",
         "published": "2026-06-15T10:07:48+00:00"
-      },
-      {
-        "id": "ea13b524cf88",
-        "title": "現場》看見「內心的他者」：熊婷惠導讀阮越清《拯救與毀滅》",
-        "summary": "阮越清的《拯救與毀滅》絕非一本能輕易讀進去的溫情之書。與自傳《兩張面孔的人》相比，雖然兩者都深刻觸及了相似的難民經驗書寫，卻有著完全不同的訴說對象與語境——後者從內心出發，以感性而赤裸的筆觸勾勒出「前」難民的身心風貌；前者則是身為「前」難民的阮越清，站上哈佛大學諾頓講座的最高殿堂，面對台下頂尖的學者與評論家，展開一場鋒芒畢露的文學思辨。\n本次講座馬可孛羅出版社特別邀請淡江大學英文學系助理教授熊婷惠前來導讀。過去熊婷惠曾推薦過《兩張面孔的人》，這次她雖謙虛表示自己的專長並非越南文學，但她對離散論述的深厚理解，恰恰呼應了阮越清的理論脈絡，也讓這場講座顯得格外立體。\n➤封面的視覺隱喻：難民體內的雙重...",
-        "url": "https://www.openbook.org.tw/article/p-72673",
-        "source": "Openbook閱讀誌",
-        "published": "2026-06-15T03:30:06+00:00"
       },
       {
         "id": "b1e673592a27",
@@ -2412,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-21T23:23:49.433326+00:00"
+        "published": "2026-06-22T05:17:06.961484+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-21T23:23:49.433316+00:00"
+        "published": "2026-06-22T05:17:06.961476+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-21T23:23:49.433306+00:00"
+        "published": "2026-06-22T05:17:06.961469+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-21T23:23:49.433296+00:00"
+        "published": "2026-06-22T05:17:06.961461+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-21T23:23:49.433286+00:00"
+        "published": "2026-06-22T05:17:06.961454+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-21T23:23:49.433276+00:00"
+        "published": "2026-06-22T05:17:06.961446+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-21T23:23:49.433266+00:00"
+        "published": "2026-06-22T05:17:06.961439+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-21T23:23:49.433256+00:00"
+        "published": "2026-06-22T05:17:06.961431+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-21T23:23:49.433246+00:00"
+        "published": "2026-06-22T05:17:06.961423+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-21T23:23:49.433235+00:00"
+        "published": "2026-06-22T05:17:06.961416+00:00"
       },
       {
         "id": "70b916c20885",
