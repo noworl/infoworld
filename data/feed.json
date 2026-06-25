@@ -1,94 +1,166 @@
 {
-  "updated_at": "2026-06-25T08:28:50.474293+00:00",
+  "updated_at": "2026-06-25T11:45:58.921033+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "ea4363b39b45",
-        "title": "DaiXuongTienLaiTH",
-        "summary": "DaiXuongTienLaiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/DaiXuongTienLaiTH",
+        "id": "f009a79c9b72",
+        "title": "XuyenNhanhNguoiQuaDuongHaoQuangSauKhiBienMatNamChinhDeuVayQuanhTaChuyenTH",
+        "summary": "XuyenNhanhNguoiQuaDuongHaoQuangSauKhiBienMatNamChinhDeuVayQuanhTaChuyenTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/XuyenNhanhNguoiQuaDuongHaoQuangSauKhiBienMatNamChinhDeuVayQuanhTaChuyenTH",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T08:07:11+00:00"
+        "published": "2026-06-25T09:55:04+00:00"
       },
       {
-        "id": "905c0942926a",
-        "title": "NuDeChuyenSinhTaSuHuynhLaTuyetTheCaoNhanTH",
-        "summary": "NuDeChuyenSinhTaSuHuynhLaTuyetTheCaoNhanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/NuDeChuyenSinhTaSuHuynhLaTuyetTheCaoNhanTH",
+        "id": "7aeceb2f4802",
+        "title": "CaoVoTrongLinhVucTaVoDichBenNgoaiTaKhongDiTH",
+        "summary": "CaoVoTrongLinhVucTaVoDichBenNgoaiTaKhongDiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/CaoVoTrongLinhVucTaVoDichBenNgoaiTaKhongDiTH",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T08:04:17+00:00"
+        "published": "2026-06-25T09:54:37+00:00"
       },
       {
-        "id": "9f39d0925e9f",
-        "title": "HangMaChiNhanTH",
-        "summary": "HangMaChiNhanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/HangMaChiNhanTH",
+        "id": "4b509fe0a3fa",
+        "title": "DauLaSongXuyenDauPhaDungThanViDucDeTH",
+        "summary": "DauLaSongXuyenDauPhaDungThanViDucDeTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/DauLaSongXuyenDauPhaDungThanViDucDeTH",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T08:02:58+00:00"
+        "published": "2026-06-25T09:54:34+00:00"
       },
       {
-        "id": "50da9075bb9b",
-        "title": "QuyDiNuongTuCuaTaKhongPhaiNguoiTH",
-        "summary": "QuyDiNuongTuCuaTaKhongPhaiNguoiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/QuyDiNuongTuCuaTaKhongPhaiNguoiTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T07:52:08+00:00"
-      },
-      {
-        "id": "960cb70528a0",
-        "title": "HuyenHoacBatDauMuoiTangLongTuongBanNhuocCongTH",
-        "summary": "HuyenHoacBatDauMuoiTangLongTuongBanNhuocCongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/HuyenHoacBatDauMuoiTangLongTuongBanNhuocCongTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T07:51:10+00:00"
-      },
-      {
-        "id": "669d9657b3ee",
-        "title": "HaiTacGodValleyChienTuPhuongHoangNietBanTroVeTH",
-        "summary": "HaiTacGodValleyChienTuPhuongHoangNietBanTroVeTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/HaiTacGodValleyChienTuPhuongHoangNietBanTroVeTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T07:46:40+00:00"
-      },
-      {
-        "id": "6ef0ee21a53f",
-        "title": "BienThanhThanhChuPhoTuongVeSauBiTocTrangLoliTrieuHoanTH",
-        "summary": "BienThanhThanhChuPhoTuongVeSauBiTocTrangLoliTrieuHoanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/BienThanhThanhChuPhoTuongVeSauBiTocTrangLoliTrieuHoanTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T07:36:52+00:00"
-      },
-      {
-        "id": "37fe3b79996e",
-        "title": "NuPhoiTuTienNhungLaVoHanLoadTH",
-        "summary": "NuPhoiTuTienNhungLaVoHanLoadTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/NuPhoiTuTienNhungLaVoHanLoadTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T07:25:18+00:00"
-      },
-      {
-        "id": "45d08c24d137",
-        "title": "HaiTacTyHuuDaiTuongSoThoPhiConCoTheDoatTH",
-        "summary": "HaiTacTyHuuDaiTuongSoThoPhiConCoTheDoatTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/HaiTacTyHuuDaiTuongSoThoPhiConCoTheDoatTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T07:20:59+00:00"
-      },
-      {
-        "id": "32a5f744c454",
-        "title": "TamQuocTuHoaiNamBatDauCheBaThienHaTH",
-        "summary": "TamQuocTuHoaiNamBatDauCheBaThienHaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/TamQuocTuHoaiNamBatDauCheBaThienHaTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T07:20:49+00:00"
-      },
-      {
-        "id": "30261e3d551a",
-        "title": "鐘點移工計畫服務時數破8萬  使用長時數占58%",
-        "summary": "（中央社記者吳欣紜台北25日電）因應民眾臨短急服務照顧需求，勞動部推動鐘點移工計畫，在全台16縣市提供服務，據統計，5月底累計服務時數已破8萬小時，使用長時數服務占58%，為申請最多的樣態。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250191.aspx",
+        "id": "39cf8ea934f7",
+        "title": "高雄旗山暴雨36掛號郵件遺失　中華郵政補償善後",
+        "summary": "（中央社記者黃巧雯台北25日電）高雄旗山今天受強降雨影響，有郵務士連人帶車被沖入灌溉溝渠，所幸平安脫困，但36件掛號郵件遺失。中華郵政表示，信用卡郵件將聯繫銀行，其餘查明寄件資料後婉請補寄並補償。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250288.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T06:44:56+00:00"
+        "published": "2026-06-25T09:45:26+00:00"
+      },
+      {
+        "id": "c22ae147ebf7",
+        "title": "ThienTeTuuTH",
+        "summary": "ThienTeTuuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/ThienTeTuuTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T09:38:32+00:00"
+      },
+      {
+        "id": "53334e6c46f6",
+        "title": "HeThongNoThuongThanhDoVatToanMienPhiTH",
+        "summary": "HeThongNoThuongThanhDoVatToanMienPhiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/HeThongNoThuongThanhDoVatToanMienPhiTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T09:29:28+00:00"
+      },
+      {
+        "id": "4540200e2268",
+        "title": "國家公園夏季157梯次活動多元　金門行軍體驗戰地歲月",
+        "summary": "（中央社記者高華謙台北25日電）內政部今天說，今年夏天國家公園推出體驗營隊、教育講座及多元活動多達157梯次，可供1.3萬人報名。如金門國家公園管理處7月11日將辦理戰地行軍體驗，以步行7.4公里了解戰地過往烽火歲月，目前還有名額。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250266.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T09:23:40+00:00"
+      },
+      {
+        "id": "571e483ab628",
+        "title": "TroLaiTruocKhiNhanVatPhanDienHacHoaTH",
+        "summary": "TroLaiTruocKhiNhanVatPhanDienHacHoaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/TroLaiTruocKhiNhanVatPhanDienHacHoaTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T09:08:18+00:00"
+      },
+      {
+        "id": "ac24b0000ef2",
+        "title": "SuMuoiNangTauHoaNhapMaTH",
+        "summary": "SuMuoiNangTauHoaNhapMaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/SuMuoiNangTauHoaNhapMaTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T09:07:59+00:00"
+      },
+      {
+        "id": "bbc55ec52e64",
+        "title": "眼科醫師進幼兒園篩檢　近半5歲童處近視前期",
+        "summary": "（中央社記者陳婕翎台北25日電）114學年度學齡前兒童視力篩檢試辦計畫，眼科醫師進幼兒園為5歲兒童進行散瞳屈光度數檢查，近視占9.5%、近視前期48.5%，透過篩檢、轉介追蹤及衛教，盼降高度近視風險。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250257.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T09:01:18+00:00"
+      },
+      {
+        "id": "8dcc21e242d0",
+        "title": "勞動部：聘僱逾65歲勞工得簽訂定期或不定期契約",
+        "summary": "（中央社記者吳欣紜台北25日電）為推動中高齡就業，勞動部訂定專法，雇主聘僱65歲以上勞工可簽訂定期契約，卻有企業誤解。勞動部近日發函重申，專法是提供雙方簽訂具彈性工作期間勞動契約的機會，並非只能簽訂定期契約。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250255.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T09:00:14+00:00"
+      },
+      {
+        "id": "31f0acb8b8f8",
+        "title": "北車商場案傳微風通知店家分批撤場　台鐵：擅自關閉營業區域將違約",
+        "summary": "（中央社記者黃巧雯台北25日電）台北車站商場經營權由新光三越拿下，而微風合約7月24日將到期，傳已通知店家分批撤場，恐造成服務空窗期。台鐵說，未經同意不得擅自關閉部分或全部營業區，若提前撤櫃將違約。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250254.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T08:59:12+00:00"
+      },
+      {
+        "id": "cb7d019299fc",
+        "title": "80ChiNhiHonNhuMatTH",
+        "summary": "80ChiNhiHonNhuMatTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/80ChiNhiHonNhuMatTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T08:59:08+00:00"
+      },
+      {
+        "id": "6c105c41cc60",
+        "title": "MemMaiMyNhanOMatTheVanCauSinhTH",
+        "summary": "MemMaiMyNhanOMatTheVanCauSinhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/MemMaiMyNhanOMatTheVanCauSinhTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T08:53:59+00:00"
+      },
+      {
+        "id": "2b8d8bfe647b",
+        "title": "70NienDaiYeuOtNhanVatPhanDienTH",
+        "summary": "70NienDaiYeuOtNhanVatPhanDienTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/70NienDaiYeuOtNhanVatPhanDienTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T08:52:43+00:00"
+      },
+      {
+        "id": "5c8e38c38dfc",
+        "title": "豪雨後防4傳染病 疾管署籲打掃落實防疫3步驟",
+        "summary": "（中央社記者沈佩瑤台北25日電）豪雨造成多處積淹水，疾管署呼籲民眾打掃落實「裝備要齊全、飲食要注意、清除孳生源」防疫三步驟，並佩戴口罩與手套、長靴，防範鉤端螺旋體、類鼻疽、腸道及登革熱等傳染病威脅。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250239.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T08:34:40+00:00"
+      },
+      {
+        "id": "3828c35e0f75",
+        "title": "駕照管理2新制6/30上路　汽車考照筆試改全選擇題",
+        "summary": "（中央社記者黃巧雯台北25日電）繼今年1月底機車駕照筆試取消是非題，改為全選擇題後，公路局今天宣布，6月30日起汽車筆試也將跟進實施；至於吊銷駕照禁考3年以上者，重考前強制到駕訓班上駕訓課程。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250238.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T08:32:38+00:00"
+      },
+      {
+        "id": "0bd2005d0420",
+        "title": "台灣文博會8月登場　探索文創中的未來日常式",
+        "summary": "（中央社記者邱祖胤台北25日電）2026台灣文博會將於8月登場，今年以「未來日常式Future Everyday」為題，集結5大趨勢主題，邀請國內外買家與民眾參與。",
+        "url": "https://www.cna.com.tw/news/acul/202606250236.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T08:29:33+00:00"
+      },
+      {
+        "id": "0f8b806dedd1",
+        "title": "屏東雨量破500毫米　中部以北愈晚降雨愈明顯",
+        "summary": "（中央社記者張雄風台北25日電）氣象署今天表示，受到颱風米克拉北移及西南風增強的影響，南部持續有雨，截至下午3時許，屏東累積雨量已逾500毫米；預估晚間隨著北方鋒面持續南壓，中部以北降雨愈加明顯。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250229.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T08:17:18+00:00"
+      },
+      {
+        "id": "8f7f007e95c5",
+        "title": "電子煙皆違法、加熱菸合法販售在超商　看懂分辨方式與最新規定",
+        "summary": "（中央社記者陳婕翎台北25日電）許多民眾對加熱菸、電子煙傻傻分不清楚，最直觀的區分方式是加熱菸有菸草柱，電子煙是煙彈，不論實體或網路通路的電子煙皆違法，加熱菸則須經審查上市且合法販售通路主要是超商、免稅商店。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250228.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T08:16:16+00:00"
       },
       {
         "id": "25ab105df0fd",
@@ -97,78 +169,6 @@
         "url": "https://www.tmaroc.org.tw/1150624-2/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-06-25T06:41:48+00:00"
-      },
-      {
-        "id": "7dbef4ca39a3",
-        "title": "台東農改場研發小米卡牌  食農教育課程變有趣",
-        "summary": "（中央社記者汪淑芬台北25日電）農業部台東區農業改良場研發並推出「小米卡牌食農教學模組」，先導入4所小學，讓食農教育課程變有趣。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250185.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T06:35:44+00:00"
-      },
-      {
-        "id": "6576755ddaa8",
-        "title": "台鐵集集線恢復全線通車　118年串聯高鐵彰化站",
-        "summary": "（中央社記者蕭博陽南投縣25日電）國營台灣鐵路股份有限公司觀光鐵道「集集支線」今天恢復彰化二水站至南投車埕站全線通車，交通部長陳世凱說，田中支線預計118年完成，未來可從高鐵彰化站進入南投山城。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250184.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T06:34:42+00:00"
-      },
-      {
-        "id": "a41f4a22be4b",
-        "title": "LINE Pay Money用戶數破400萬　合作銀行22家",
-        "summary": "（中央社記者吳家豪台北25日電）電子支付服務LINE Pay Money用戶數於5月突破400萬，為提供更便利的銀行帳戶連結功能，LINE Pay Money陸續新增合作銀行，今天新增開通土地銀行，目前可連結金融機構達22家。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250176.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T06:14:24+00:00"
-      },
-      {
-        "id": "9df5e43b0cce",
-        "title": "偷帶電子煙回台恐被關、罰金100萬元　檢舉有獎勵",
-        "summary": "（中央社記者陳婕翎台北25日電）持續有人自海外偷帶回電子煙，據「菸害防制法」部分條文修正草案，入境旅客少量攜帶，1年再犯不僅可能被關，最高罰金為100萬元，更設置違法製造、輸入行為檢舉獎勵制度。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250172.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T06:03:16+00:00"
-      },
-      {
-        "id": "ea37ced2b189",
-        "title": "必要藥品缺藥風險分級　高風險品項每季申報",
-        "summary": "（中央社記者沈佩瑤台北25日電）避免重演缺藥困境，衛福部食藥署預告必要藥品申報及通報辦法等2項相關草案，要求必要藥品清單中品項，依缺藥風險高低，須定期申報庫存量、製造量、輸入與供應規劃等資訊。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250171.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T06:01:14+00:00"
-      },
-      {
-        "id": "26a217aa83e2",
-        "title": "8旬翁腹主動脈瘤破裂危急　嘉基微創手術順利搶命",
-        "summary": "（中央社記者黃國芳嘉義市25日電）嘉義1名8旬廖姓老翁日前腹部突然劇痛送急診，檢查為「腹主動脈瘤破裂」，病況急遽惡化，一度失去意識，經微創主動脈支架置放手術搶回一命，今天回醫院分享驚險歷程。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250162.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T05:40:54+00:00"
-      },
-      {
-        "id": "ab735047f1cd",
-        "title": "銀髮友善食品頒獎　不黏牙圓仔粿喚起長者飲食記憶",
-        "summary": "（中央社記者汪淑芬台北25日電）農業部今天舉行2026銀髮友善食品頒獎典禮，有18項產品脫穎而出，這些產品不但兼顧銀髮族營養需求及易咀嚼，還能喚起長者飲食記憶，例如不黏牙的圓仔粿。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250155.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T05:20:39+00:00"
-      },
-      {
-        "id": "63a7de36013f",
-        "title": "台灣觀光拓展澳紐市場  盼串聯新加坡掀赴台旅遊熱潮",
-        "summary": "（中央社記者吳昇鴻新加坡25日專電）全球旅遊市場回溫，澳洲與紐西蘭出境旅遊需求攀升，台灣觀光署攜手業者前往澳洲及紐西蘭舉辦台灣觀光推廣會。觀光署駐新加坡辦事處主任施志忠今天指出，將持續串聯新加坡、澳紐等市場，深化與旅行業者合作、擴大台灣觀光品牌能見度。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250145.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T04:56:15+00:00"
-      },
-      {
-        "id": "f2434819ca85",
-        "title": "吳明賢憂內科招人創新低　衛福部研議調整給付",
-        "summary": "（中央社記者沈佩瑤台北25日電）61歲台大醫學院長吳明賢病倒前，心繫今年內科住院醫師全國招收率僅61%創新低。衛福部今天強調，官方統計以8月報到起訓為準，正討論調整健保給付，盼落實「不同工不同酬」。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250129.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T04:26:41+00:00"
       },
       {
         "id": "f14710e22552",
@@ -483,6 +483,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,6 +805,46 @@
     ],
     "破(day)": [
       {
+        "id": "1e1d01259625",
+        "title": "‘Like swimming through the air’: my thrilling role in Giselle with the Royal Ballet’s wheelchair dancers",
+        "summary": "I use a wheelchair and yearn to dance like I did when I was a kid. Could I possibly hold my own in a class run by inspirational disabled dance star Kate Stanforth and the Royal Ballet? From ballroom to hip-hop, I tried many different dance classes growing up, but nothing ever stuck for too long. My ...",
+        "url": "https://www.theguardian.com/stage/2026/jun/25/royal-ballet-school-wheelchair-dance-kate-stanforth",
+        "source": "Stage | The Guardian",
+        "published": "2026-06-25T11:02:32+00:00"
+      },
+      {
+        "id": "1c7f94410af1",
+        "title": "BIG Spiral Lamp (WLED) #3DPrinting #3DThursday",
+        "summary": "Basti85 shares: A large spiral lamp with diffuser segments built for WLED on an ESP32-C3 (or ESP8266 D1 mini fallback). Print the body in Bambu PLA Basic and the diffusers in transparent PLA. Updated v2 includes the full WLED config workflow download the files on: https://makerworld.com/en/models/16...",
+        "url": "https://blog.adafruit.com/2026/06/25/big-spiral-lamp-wled-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-25T10:00:18+00:00"
+      },
+      {
+        "id": "7b1eb6bc32dc",
+        "title": "Pencil Soldering Iron Rugged Case – With Stand and Spool #3DPrinting #3DThursday",
+        "summary": "BlkWgn shares: A fully 3D-printable rugged case for the Pinecil soldering iron combining a tool box, hot-iron stand, and solder spool holder. Uses one 608 bearing, no screws required (printable pins), all in one package. By BlkWgn download the files on: https://makerworld.com/en/models/118986-pineci...",
+        "url": "https://blog.adafruit.com/2026/06/25/pinecil-soldering-iron-rugged-case-with-stand-and-spool-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-25T09:00:27+00:00"
+      },
+      {
+        "id": "0bd2005d0420",
+        "title": "台灣文博會8月登場　探索文創中的未來日常式",
+        "summary": "（中央社記者邱祖胤台北25日電）2026台灣文博會將於8月登場，今年以「未來日常式Future Everyday」為題，集結5大趨勢主題，邀請國內外買家與民眾參與。",
+        "url": "https://www.cna.com.tw/news/acul/202606250236.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-06-25T08:29:33+00:00"
+      },
+      {
+        "id": "c7195fb1fb3d",
+        "title": "Hot Mess and Acid’s Reign: the romcom and queer cabaret spotlighting climate crisis",
+        "summary": "A blooming new wave of musical theatre is exploring the plight of the planet with a playful and hopeful approachEarth is a single woman with a lot to give; Humanity is a charismatic bad boy who turns out to be an inveterate taker. Their toxic relationship is told in Hot Mess, a musical created by Ja...",
+        "url": "https://www.theguardian.com/stage/2026/jun/25/hot-mess-acids-reign-romcom-cabaret-climate-crisis",
+        "source": "Stage | The Guardian",
+        "published": "2026-06-25T08:02:37+00:00"
+      },
+      {
         "id": "91796f37c26e",
         "title": "Flexi Velociraptor Dinosaur – New Articulation Style #3DPrinting #3DThursday",
         "summary": "JIMGA shares: A freshly designed velociraptor with a new articulation style — sits between realistic and animated. Multiple print profiles ranging from filament-saving to AMS-optimized. Includes an optional egg model for hiding surprise dinos. By Flexi JIMGA download the files on: https://makerworld...",
@@ -869,22 +989,6 @@
         "published": "2026-06-24T20:30:54+00:00"
       },
       {
-        "id": "c237b985317e",
-        "title": "Digital Analog Watch #WearableWednesday #RaspberryPi",
-        "summary": "Sahko is rethinking the wristwatch (again). This fun wearable uses an analog meter to create a digital time piece with no traditional screen or ticking hands. Built around a Raspberry Pi Pico and features USB-C Charging with a milled aluminum case. Full details via GitHub: It&#8217;s a watch. Techni...",
-        "url": "https://blog.adafruit.com/2026/06/24/digital-analog-watch-wearablewednesday-raspberrypi/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-24T20:14:57+00:00"
-      },
-      {
-        "id": "f1e2c4bffa1a",
-        "title": "Projecting the aircraft passing overhead onto your ceiling, in real time",
-        "summary": "Skylight decodes ADS-B from a cheap RTL-SDR radio and renders the planes physically flying over you onto a ceiling-pointed projector. A jet you&#8217;d hear overhead glides across your ceiling at the same moment &#8211; labeled with its airline, type, and where it&#8217;s headed. Pure-black backgrou...",
-        "url": "https://blog.adafruit.com/2026/06/24/projecting-the-aircraft-passing-overhead-onto-your-ceiling-in-real-time/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-24T20:12:11+00:00"
-      },
-      {
         "id": "b6c9435c59a1",
         "title": "Anthropic指控阿里巴巴非法访问Claude",
         "summary": "Anthropic称阿里巴巴使用虚假账号非法访问Claude，这家美国公司并未向中国机构开放该人工智能模型。",
@@ -1019,14 +1123,6 @@
         "url": "https://www.cna.com.tw/news/acul/202606240149.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-06-24T05:14:42+00:00"
-      },
-      {
-        "id": "faa7f231d088",
-        "title": "音樂劇「囍宴」9月重返台灣  探討家庭多元樣貌",
-        "summary": "（中央社台北24日電）改編自名導李安經典電影的國際共製音樂劇「囍宴」，9月將重返台北國家戲劇院展開台灣最終章演出。「囍宴」將透過台灣故事與當代觀點，重新探討愛與家庭的多元樣貌。",
-        "url": "https://www.cna.com.tw/news/acul/202606240133.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-06-24T04:31:06+00:00"
       },
       {
         "id": "e7b414e6944f",
@@ -1253,12 +1349,12 @@
         "published": "2026-06-23T09:55:37+00:00"
       },
       {
-        "id": "874bb2b1a452",
-        "title": "Hannah Byczkowski: ‘The Traitors helped me become a better comedian’",
-        "summary": "The Traitors-winning standup talks about quitting palliative care work for the stage and the dangers of mistaking a cockatoo for a cocktailHow did you go from a career in palliative care to standup comedy?I had a bit of a midlife crisis. I was being with people while they were dying, and I kind of l...",
-        "url": "https://www.theguardian.com/stage/2026/jun/23/hannah-byczkowski-the-traitors-comedian",
+        "id": "03f9e4fb72c7",
+        "title": "Piglet, it’s a purple, psychedelic shapeshifter! The wild new creature prowling Winnie-the-Pooh’s wood",
+        "summary": "Is it an alien? A dinosaur? Is it going to kill us all? Our writer hits Ashdown Forest for the Big One Hundred celebrations – and finds its magic enchanting new generationsThe rolling idyll of heath and forest, spinney and stream that gave us the Heffalump, the Woozle and, most famously of all, Winn...",
+        "url": "https://www.theguardian.com/stage/2026/jun/23/piglet-purple-psychedelic-shapeshifter-winnie-the-poohs-wood-ashdown-forest",
         "source": "Stage | The Guardian",
-        "published": "2026-06-23T04:00:31+00:00"
+        "published": "2026-06-23T04:00:32+00:00"
       },
       {
         "id": "d92d683f6d97",
@@ -1349,14 +1445,6 @@
         "published": "2026-06-22T14:08:51+00:00"
       },
       {
-        "id": "07ba8e0b7c5d",
-        "title": "James Phelan: Showman review – an amazing pick’n’mix of telepathy and magic",
-        "summary": "Underbelly Boulevard, LondonAudience members become unsuspecting mind-readers, and numbers disappear from their memory, in this hugely entertaining showAn audience member is on stage, their feet hypnotically glued to the floor. Under the influence of magician and mentalist James Phelan, we’ve just s...",
-        "url": "https://www.theguardian.com/stage/2026/jun/22/james-phelan-showman-review-picknmix-telepathy-magic-underbelly-boulevard-london",
-        "source": "Stage | The Guardian",
-        "published": "2026-06-22T13:00:25+00:00"
-      },
-      {
         "id": "b8daf7fe85fa",
         "title": "Corrado Maria De Santis – Treshold Of Light",
         "summary": "'Night recedes, yet morning remains unseen': Corrado Maria De Santis' Treshold Of Light.\n--- published on Ambientblog ---",
@@ -1443,14 +1531,6 @@
         "url": "https://www.mittrchina.com/news/detail/16536",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-06-21T13:13:56+00:00"
-      },
-      {
-        "id": "2db04ae8e0af",
-        "title": "A to B review – relentless mishaps as nothing goes to plan on blind date",
-        "summary": "Soho theatre, LondonTold through two overlapping monologues, Brianna and Armani prepare for a night that could change the course of their livesAll the nerves, hope and anticipation of getting ready for a date melt together in Tia-Renee Mullings’s coming-of-age play. Told through two separate, overla...",
-        "url": "https://www.theguardian.com/stage/2026/jun/21/a-to-b-review-blind-date-soho-theatre-london",
-        "source": "Stage | The Guardian",
-        "published": "2026-06-21T13:07:31+00:00"
       },
       {
         "id": "08fe982d7a5a",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T08:28:48.149897+00:00"
+        "published": "2026-06-25T11:45:56.749246+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T08:28:48.149888+00:00"
+        "published": "2026-06-25T11:45:56.749237+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T08:28:48.149878+00:00"
+        "published": "2026-06-25T11:45:56.749227+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T08:28:48.149868+00:00"
+        "published": "2026-06-25T11:45:56.749217+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T08:28:48.149858+00:00"
+        "published": "2026-06-25T11:45:56.749207+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T08:28:48.149847+00:00"
+        "published": "2026-06-25T11:45:56.749198+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T08:28:48.149837+00:00"
+        "published": "2026-06-25T11:45:56.749176+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T08:28:48.149827+00:00"
+        "published": "2026-06-25T11:45:56.749166+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T08:28:48.149818+00:00"
+        "published": "2026-06-25T11:45:56.749156+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T08:28:48.149807+00:00"
+        "published": "2026-06-25T11:45:56.749146+00:00"
       },
       {
         "id": "112c0bfbfbe2",
@@ -2525,6 +2605,14 @@
         "url": "https://blog.archive.org/2026/06/22/government-information-belongs-to-everyone-democracys-library-in-2026/",
         "source": "Internet Archive Blogs",
         "published": "2026-06-22T13:00:04+00:00"
+      },
+      {
+        "id": "70b916c20885",
+        "title": "[知音分享會]06.24 風聲雨聲曲盤聲 用媽祖故事遮風擋雨",
+        "summary": "各位知音們好，經歷了剛入梅的一連串風雨， [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8306-24-%e9%a2%a8%e8%81%b2%e9%9b%a8%e8%81%b2%e6%9b%b2%e7%9b%a4%e8%81%b2-%e7%94%a8%e5%aa%bd%e7%a5%96%e6%95%85%e4%ba%8b%e9%81%ae%e9%a2%a8%e6%93%8b%e9%9b%a8/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-06-17T07:11:38+00:00"
       },
       {
         "id": "54b436221e4f",
@@ -2743,6 +2831,14 @@
         "published": "2026-05-06T12:00:00+00:00"
       },
       {
+        "id": "20ea57f6b4fd",
+        "title": "[知音分享會]05.13 來自日治時期的繞境邀約 跟歌仔戲一起「痟」媽祖",
+        "summary": "燃燒整座島嶼的三月媽祖熱漸漸停歇，輪到我 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8305-13-%e4%be%86%e8%87%aa%e6%97%a5%e6%b2%bb%e6%99%82%e6%9c%9f%e7%9a%84%e7%b9%9e%e5%a2%83%e9%82%80%e7%b4%84-%e8%b7%9f%e6%ad%8c%e4%bb%94%e6%88%b2%e4%b8%80/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-04-30T09:31:21+00:00"
+      },
+      {
         "id": "4dec0cbc2fc3",
         "title": "埃及駐日本大使禮節性訪問民音",
         "summary": "2026年4月17日，阿拉伯埃及共和國駐日本特命全權大使拉吉·穆罕默德·穆罕默德·埃萊特雷比閣下，在阿拉伯埃及 [&#8230;]",
@@ -2831,6 +2927,14 @@
         "published": "2026-04-15T07:21:12+00:00"
       },
       {
+        "id": "1b0da56e8ea0",
+        "title": "台南有樂町－臺灣歌謠音樂論壇",
+        "summary": "｡ﾟ♫*台南有樂町－臺灣歌謠音樂論壇♫* [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e5%8f%b0%e5%8d%97%e6%9c%89%e6%a8%82%e7%94%ba%ef%bc%8d%e8%87%ba%e7%81%a3%e6%ad%8c%e8%ac%a0%e9%9f%b3%e6%a8%82%e8%ab%96%e5%a3%87/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-04-15T02:23:53+00:00"
+      },
+      {
         "id": "5c79251d63b8",
         "title": "Carlos Guedes Presents MaSC Research at Universitat Pompeu Fabra’s Music Technology Group",
         "summary": "April, 2026 Online At the invitation of the Music Technology Group at Universitat Pompeu Fabra, Carlos Guedes delivered an online seminar on April 10, 2026, titled “Discovering Unrecorded Music: Challenges [&#8230;]",
@@ -2853,6 +2957,22 @@
         "url": "https://www.ethanhein.com/wp/2026/the-gospel-according-to-aretha/",
         "source": "The Ethan Hein Blog",
         "published": "2026-03-31T14:06:35+00:00"
+      },
+      {
+        "id": "f9d812fe9442",
+        "title": "【2026臺灣音樂學論壇】徵稿啟事",
+        "summary": "音樂的傳統與未來 ─2026臺灣音樂學會 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e3%80%902026%e8%87%ba%e7%81%a3%e9%9f%b3%e6%a8%82%e5%ad%b8%e8%ab%96%e5%a3%87%e3%80%91%e5%be%b5%e7%a8%bf%e5%95%9f%e4%ba%8b/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-03-31T09:04:09+00:00"
+      },
+      {
+        "id": "3ac629916172",
+        "title": "[知音分享會]04.08 春暖花開四月天，分享會的誠摯邀約",
+        "summary": "國曆三月漸漸走到了尾聲，讓台灣全島動起來 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8304-08-%e6%98%a5%e6%9a%96%e8%8a%b1%e9%96%8b%e5%9b%9b%e6%9c%88%e5%a4%a9%ef%bc%8c%e5%88%86%e4%ba%ab%e6%9c%83%e7%9a%84%e8%aa%a0%e6%91%af%e9%82%80%e7%b4%84/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-03-31T07:54:48+00:00"
       },
       {
         "id": "bc3ee037d342",
@@ -2935,6 +3055,14 @@
         "published": "2026-02-26T10:11:32+00:00"
       },
       {
+        "id": "852680d1f6d7",
+        "title": "[知音分享會]03.09 新正年來《千金》到 《萬項事業》好彩頭",
+        "summary": "知音好友們新年快樂，雖然已經開工上班，但 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e6%96%b0%e6%ad%a3%e5%b9%b4%e4%be%86%e3%80%8a%e5%8d%83%e9%87%91%e3%80%8b%e5%88%b0-%e3%80%8a%e8%90%ac%e9%a0%85%e4%ba%8b%e6%a5%ad%e3%80%8b%e5%a5%bd%e5%bd%a9%e9%a0%ad/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-02-26T01:11:32+00:00"
+      },
+      {
         "id": "2271ab213414",
         "title": "Thank You for Joining the MIR Community-Building Workshop",
         "summary": "Last week, the MIR Community-Building Workshop on Music AI at NYU Abu Dhabi brought together students, scholars, and industry professionals for two days of research presentations, hands-on sessions, and forward-looking [&#8230;]",
@@ -2991,12 +3119,28 @@
         "published": "2026-01-30T11:10:55+00:00"
       },
       {
+        "id": "61649d92d6e6",
+        "title": "[知音分享會]02.11 在春節前找到幸福！《一女兩聘》最終回",
+        "summary": "年關將近，不知道各位知音朋友是正忙著採辦 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e5%9c%a8%e6%98%a5%e7%af%80%e5%89%8d%e6%89%be%e5%88%b0%e5%b9%b8%e7%a6%8f%ef%bc%81%e3%80%8a%e4%b8%80%e5%a5%b3%e5%85%a9%e8%81%98%e3%80%8b%e6%9c%80%e7%b5%82%e5%9b%9e/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-01-30T05:41:48+00:00"
+      },
+      {
         "id": "8f74ed474021",
         "title": "遊戲與動漫的轉生術 — — 跨媒介改編中的認知基模",
         "summary": "遊戲與動漫的轉生術 — — 跨媒介改編中的認知基模本集來賓/李政忠（中正大學傳播學系副教授）製作/吳思嬋 楊家瑜https://medium.com/media/3ac6c27738f5ef2070e89767f5ebdf82/href（圖片來源：https://www.pexels.com/zh-tw/photo/31166720/）從漫畫轉為動畫 觀眾期待落差在當代豐富的文化娛樂版圖中，將一個故事從一種媒介形式轉換到另一種形式（例如：漫畫改編為動畫、小說改編為影視、電玩改編為電影）已成為一種常見且重要的創作趨勢。這種「跨媒介敘事」（Transmedia Storytelling）不僅是商業...",
         "url": "https://medium.com/@ccs.popcom/%E9%81%8A%E6%88%B2%E8%88%87%E5%8B%95%E6%BC%AB%E7%9A%84%E8%BD%89%E7%94%9F%E8%A1%93-%E8%B7%A8%E5%AA%92%E4%BB%8B%E6%94%B9%E7%B7%A8%E4%B8%AD%E7%9A%84%E8%AA%8D%E7%9F%A5%E5%9F%BA%E6%A8%A1-d49dc69e9cca?source=rss-17c1c85be06b------2",
         "source": "Stories by 爆米花傳播學 on Medium",
         "published": "2026-01-15T01:00:21+00:00"
+      },
+      {
+        "id": "7c34e92268b0",
+        "title": "臺灣音聲一百年大更新！",
+        "summary": "賀更新、長尾巴！ 要變身為「臺灣音聲一百 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e8%87%ba%e7%81%a3%e9%9f%b3%e8%81%b2%e4%b8%80%e7%99%be%e5%b9%b4%e5%a4%a7%e6%9b%b4%e6%96%b0%ef%bc%81/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-01-05T06:35:48+00:00"
       },
       {
         "id": "38b145d04cc8",
@@ -3013,6 +3157,14 @@
         "url": "https://medium.com/@ccs.popcom/%E5%8C%97%E6%8D%B7%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6%E4%B9%8B%E5%A0%B1%E5%B0%8E%E5%80%AB%E7%90%86-62627d467471?source=rss-17c1c85be06b------2",
         "source": "Stories by 爆米花傳播學 on Medium",
         "published": "2025-12-30T00:49:21+00:00"
+      },
+      {
+        "id": "b5621e21c540",
+        "title": "[知音分享會]01.14  訂婚鬧雙包？《一女兩聘》知音分享會",
+        "summary": "天底下哪有這種事！夫婦兩人感情不睦，居然 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e8%a8%82%e5%a9%9a%e9%ac%a7%e9%9b%99%e5%8c%85%ef%bc%9f%e3%80%8a%e4%b8%80%e5%a5%b3%e5%85%a9%e8%81%98%e3%80%8b%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%83/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-12-29T06:41:42+00:00"
       },
       {
         "id": "1f1184a28740",
@@ -3125,6 +3277,14 @@
         "url": "https://100r.ca/site/log.html#nov2025",
         "source": "Hundred Rabbits",
         "published": "2025-12-02T07:00:00+00:00"
+      },
+      {
+        "id": "87594af89d26",
+        "title": "[知音分享會]12.10 千金譜特輯與《林投姐》最終回",
+        "summary": "「字是隨身寶，財是國家珍，一字值千金，千 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8312-10-%e5%8d%83%e9%87%91%e8%ad%9c%e7%89%b9%e8%bc%af%e8%88%87%e3%80%8a%e6%9e%97%e6%8a%95%e5%a7%90%e3%80%8b%e6%9c%80%e7%b5%82%e5%9b%9e/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-12-01T06:20:24+00:00"
       },
       {
         "id": "74f8297afe08",
