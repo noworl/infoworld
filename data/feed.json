@@ -1,30 +1,158 @@
 {
-  "updated_at": "2026-06-25T11:45:58.921033+00:00",
+  "updated_at": "2026-06-25T14:47:59.275097+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "f009a79c9b72",
-        "title": "XuyenNhanhNguoiQuaDuongHaoQuangSauKhiBienMatNamChinhDeuVayQuanhTaChuyenTH",
-        "summary": "XuyenNhanhNguoiQuaDuongHaoQuangSauKhiBienMatNamChinhDeuVayQuanhTaChuyenTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/XuyenNhanhNguoiQuaDuongHaoQuangSauKhiBienMatNamChinhDeuVayQuanhTaChuyenTH",
+        "id": "02762743f272",
+        "title": "VanChiVuChiBongDemConThapTH",
+        "summary": "VanChiVuChiBongDemConThapTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/VanChiVuChiBongDemConThapTH",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T09:55:04+00:00"
+        "published": "2026-06-25T13:50:07+00:00"
       },
       {
-        "id": "7aeceb2f4802",
-        "title": "CaoVoTrongLinhVucTaVoDichBenNgoaiTaKhongDiTH",
-        "summary": "CaoVoTrongLinhVucTaVoDichBenNgoaiTaKhongDiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/CaoVoTrongLinhVucTaVoDichBenNgoaiTaKhongDiTH",
+        "id": "2d23f69af665",
+        "title": "TuBaoGanTienThuatBatDauTaLaNhanGianChanVoThanTH",
+        "summary": "TuBaoGanTienThuatBatDauTaLaNhanGianChanVoThanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/TuBaoGanTienThuatBatDauTaLaNhanGianChanVoThanTH",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T09:54:37+00:00"
+        "published": "2026-06-25T13:32:39+00:00"
       },
       {
-        "id": "4b509fe0a3fa",
-        "title": "DauLaSongXuyenDauPhaDungThanViDucDeTH",
-        "summary": "DauLaSongXuyenDauPhaDungThanViDucDeTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/DauLaSongXuyenDauPhaDungThanViDucDeTH",
+        "id": "ff85ee2decf6",
+        "title": "XuyenQuaCucDaoDeBinhKhoaLaiToanTocVanLanCungCapNuoiDuongTH",
+        "summary": "XuyenQuaCucDaoDeBinhKhoaLaiToanTocVanLanCungCapNuoiDuongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/XuyenQuaCucDaoDeBinhKhoaLaiToanTocVanLanCungCapNuoiDuongTH",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T09:54:34+00:00"
+        "published": "2026-06-25T13:24:18+00:00"
+      },
+      {
+        "id": "7c742a4b0599",
+        "title": "看準毛孩是寶  業者推寵物冰淇淋還加益生菌",
+        "summary": "（中央社記者汪淑芬台北25日電）夏季來臨，主人享用冰品時，也常會想讓毛孩品嚐，但人用的食品不利毛孩健康。業者看準很多毛孩都是家中寶貝，不但推出寵物專用冰淇淋，還添加可保護腸胃的益生菌。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250360.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T13:24:02+00:00"
+      },
+      {
+        "id": "991496599c56",
+        "title": "ThinhCanCuPhiaDuoiNhacNhoTuTienTH",
+        "summary": "ThinhCanCuPhiaDuoiNhacNhoTuTienTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/ThinhCanCuPhiaDuoiNhacNhoTuTienTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T13:23:41+00:00"
+      },
+      {
+        "id": "d234bf51736e",
+        "title": "26日各地易有劇烈降雨　南部續防豪雨以上等級",
+        "summary": "（中央社記者張雄風台北25日電）氣象署今天表示，受颱風米克拉北移及西南風增強、鋒面南壓的影響，截至晚間8時，屏東九如累積雨量近650毫米；明天各地易有劇烈降雨，南部地區續防豪雨等級以上的降雨。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250359.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T13:21:00+00:00"
+      },
+      {
+        "id": "da380a155f27",
+        "title": "TanTheBatDauThuanPhucTocVangDaiBaLangTH",
+        "summary": "TanTheBatDauThuanPhucTocVangDaiBaLangTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/TanTheBatDauThuanPhucTocVangDaiBaLangTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T13:16:41+00:00"
+      },
+      {
+        "id": "ee841924f1fc",
+        "title": "ThieuHiepDonXeKhongTH",
+        "summary": "ThieuHiepDonXeKhongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/ThieuHiepDonXeKhongTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T13:01:58+00:00"
+      },
+      {
+        "id": "23939d0c2c04",
+        "title": "HieuTruongCoChutCuongQuaVoLyGiaoQuyChanBatPhuongTH",
+        "summary": "HieuTruongCoChutCuongQuaVoLyGiaoQuyChanBatPhuongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/HieuTruongCoChutCuongQuaVoLyGiaoQuyChanBatPhuongTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T13:01:45+00:00"
+      },
+      {
+        "id": "4c19fd07262b",
+        "title": "TramTyNuVuongBaoNuoiTaGiaoHoaNuNhiPhaLonPhongTH",
+        "summary": "TramTyNuVuongBaoNuoiTaGiaoHoaNuNhiPhaLonPhongTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/TramTyNuVuongBaoNuoiTaGiaoHoaNuNhiPhaLonPhongTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T12:58:10+00:00"
+      },
+      {
+        "id": "1916a7eeda83",
+        "title": "DauLaVoHonLaTamPhaoTaChinhLaHacLongDeQuanTH",
+        "summary": "DauLaVoHonLaTamPhaoTaChinhLaHacLongDeQuanTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
+        "url": "https://archive.org/details/DauLaVoHonLaTamPhaoTaChinhLaHacLongDeQuanTH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T12:52:42+00:00"
+      },
+      {
+        "id": "875c1e82b2b8",
+        "title": "威力彩第115051期開獎",
+        "summary": "（中央社台北25日電）威力彩第115051期今晚開獎，第一區中獎號碼為32、06、28、20、25、10，第二區中獎號碼為01。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250352.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T12:51:45+00:00"
+      },
+      {
+        "id": "61f273651031",
+        "title": "chuong-281-thang-cap-vo-dich-27",
+        "summary": "No description available.This item belongs to: movies/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, MPEG4, Metadata, Thumbnail, h.264 IA",
+        "url": "https://archive.org/details/video_truyen-tinh-yeu-doc-truyen-online_chap_375219_1782391514_DBrs",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-25T12:49:31+00:00"
+      },
+      {
+        "id": "e6d29b4a172f",
+        "title": "今彩539第115154期開獎",
+        "summary": "（中央社台北25日電）今彩539第115154期開獎，中獎號碼13、21、29、34、06。3星彩中獎號碼057，4星彩中獎號碼1142。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250350.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T12:43:40+00:00"
+      },
+      {
+        "id": "1f35fcee05bd",
+        "title": "北車商場完成議約程序　台鐵估月底與新光三越簽約",
+        "summary": "（中央社記者黃巧雯台北25日電）台北車站商場經營權由新光三越拿下，台鐵今天表示，已完成議約程序，新光三越正在申請特許公司登記，待取得公司登記後，將辦理後續相關事宜，預計6月底前完成簽約及公證。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250332.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T11:48:01+00:00"
+      },
+      {
+        "id": "fa6f7e880d4a",
+        "title": "看好健康即食　業者把雞胸肉變方便握食營養棒",
+        "summary": "（中央社記者汪淑芬台北25日電）看好消費者對健康即食產品的需求，畜禽業者將愈來愈受運動及養生族群喜好的雞胸肉，推出如營養口糧棒般新造型，方便開封後單手握食。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250316.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T10:47:26+00:00"
+      },
+      {
+        "id": "4e97341b7df0",
+        "title": "台北關通關宣導　說明菸酒藥品動植物入境規定",
+        "summary": "（中央社記者吳睿騏桃園機場25日電）財政部關務署台北關今天舉辦通關服務宣導團，邀集航空公司及旅遊業者參與，說明入境旅客攜帶菸酒、藥品、動植物及其產製品檢疫等通關規定，協助業者掌握法令與實務作業。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250312.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T10:44:18+00:00"
+      },
+      {
+        "id": "fbae95e790f0",
+        "title": "屏東持續超大豪雨警示　26日停班停課",
+        "summary": "（中央社記者黃郁菁屏東縣25日電）屏東縣政府今天宣布，交通部中央氣象署針對屏東縣持續發布超大豪雨警示，預估未來24小時仍可能出現短時大豪雨，有致災之虞，屏東縣明天停止上班、上課。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250302.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T10:15:56+00:00"
+      },
+      {
+        "id": "cf353646b14b",
+        "title": "颱風米克拉影響　26日赴日本航班異動",
+        "summary": "（中央社記者余曉涵台北25日電）受到颱風米克拉影響，26日赴日本航班有所異動，提醒旅客留意航班資訊。",
+        "url": "https://www.cna.com.tw/news/ahel/202606250296.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-25T10:08:43+00:00"
       },
       {
         "id": "39cf8ea934f7",
@@ -33,134 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202606250288.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-06-25T09:45:26+00:00"
-      },
-      {
-        "id": "c22ae147ebf7",
-        "title": "ThienTeTuuTH",
-        "summary": "ThienTeTuuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/ThienTeTuuTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T09:38:32+00:00"
-      },
-      {
-        "id": "53334e6c46f6",
-        "title": "HeThongNoThuongThanhDoVatToanMienPhiTH",
-        "summary": "HeThongNoThuongThanhDoVatToanMienPhiTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/HeThongNoThuongThanhDoVatToanMienPhiTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T09:29:28+00:00"
-      },
-      {
-        "id": "4540200e2268",
-        "title": "國家公園夏季157梯次活動多元　金門行軍體驗戰地歲月",
-        "summary": "（中央社記者高華謙台北25日電）內政部今天說，今年夏天國家公園推出體驗營隊、教育講座及多元活動多達157梯次，可供1.3萬人報名。如金門國家公園管理處7月11日將辦理戰地行軍體驗，以步行7.4公里了解戰地過往烽火歲月，目前還有名額。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250266.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T09:23:40+00:00"
-      },
-      {
-        "id": "571e483ab628",
-        "title": "TroLaiTruocKhiNhanVatPhanDienHacHoaTH",
-        "summary": "TroLaiTruocKhiNhanVatPhanDienHacHoaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/TroLaiTruocKhiNhanVatPhanDienHacHoaTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T09:08:18+00:00"
-      },
-      {
-        "id": "ac24b0000ef2",
-        "title": "SuMuoiNangTauHoaNhapMaTH",
-        "summary": "SuMuoiNangTauHoaNhapMaTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/SuMuoiNangTauHoaNhapMaTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T09:07:59+00:00"
-      },
-      {
-        "id": "bbc55ec52e64",
-        "title": "眼科醫師進幼兒園篩檢　近半5歲童處近視前期",
-        "summary": "（中央社記者陳婕翎台北25日電）114學年度學齡前兒童視力篩檢試辦計畫，眼科醫師進幼兒園為5歲兒童進行散瞳屈光度數檢查，近視占9.5%、近視前期48.5%，透過篩檢、轉介追蹤及衛教，盼降高度近視風險。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250257.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T09:01:18+00:00"
-      },
-      {
-        "id": "8dcc21e242d0",
-        "title": "勞動部：聘僱逾65歲勞工得簽訂定期或不定期契約",
-        "summary": "（中央社記者吳欣紜台北25日電）為推動中高齡就業，勞動部訂定專法，雇主聘僱65歲以上勞工可簽訂定期契約，卻有企業誤解。勞動部近日發函重申，專法是提供雙方簽訂具彈性工作期間勞動契約的機會，並非只能簽訂定期契約。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250255.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T09:00:14+00:00"
-      },
-      {
-        "id": "31f0acb8b8f8",
-        "title": "北車商場案傳微風通知店家分批撤場　台鐵：擅自關閉營業區域將違約",
-        "summary": "（中央社記者黃巧雯台北25日電）台北車站商場經營權由新光三越拿下，而微風合約7月24日將到期，傳已通知店家分批撤場，恐造成服務空窗期。台鐵說，未經同意不得擅自關閉部分或全部營業區，若提前撤櫃將違約。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250254.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T08:59:12+00:00"
-      },
-      {
-        "id": "cb7d019299fc",
-        "title": "80ChiNhiHonNhuMatTH",
-        "summary": "80ChiNhiHonNhuMatTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/80ChiNhiHonNhuMatTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T08:59:08+00:00"
-      },
-      {
-        "id": "6c105c41cc60",
-        "title": "MemMaiMyNhanOMatTheVanCauSinhTH",
-        "summary": "MemMaiMyNhanOMatTheVanCauSinhTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/MemMaiMyNhanOMatTheVanCauSinhTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T08:53:59+00:00"
-      },
-      {
-        "id": "2b8d8bfe647b",
-        "title": "70NienDaiYeuOtNhanVatPhanDienTH",
-        "summary": "70NienDaiYeuOtNhanVatPhanDienTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/70NienDaiYeuOtNhanVatPhanDienTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-25T08:52:43+00:00"
-      },
-      {
-        "id": "5c8e38c38dfc",
-        "title": "豪雨後防4傳染病 疾管署籲打掃落實防疫3步驟",
-        "summary": "（中央社記者沈佩瑤台北25日電）豪雨造成多處積淹水，疾管署呼籲民眾打掃落實「裝備要齊全、飲食要注意、清除孳生源」防疫三步驟，並佩戴口罩與手套、長靴，防範鉤端螺旋體、類鼻疽、腸道及登革熱等傳染病威脅。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250239.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T08:34:40+00:00"
-      },
-      {
-        "id": "3828c35e0f75",
-        "title": "駕照管理2新制6/30上路　汽車考照筆試改全選擇題",
-        "summary": "（中央社記者黃巧雯台北25日電）繼今年1月底機車駕照筆試取消是非題，改為全選擇題後，公路局今天宣布，6月30日起汽車筆試也將跟進實施；至於吊銷駕照禁考3年以上者，重考前強制到駕訓班上駕訓課程。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250238.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T08:32:38+00:00"
-      },
-      {
-        "id": "0bd2005d0420",
-        "title": "台灣文博會8月登場　探索文創中的未來日常式",
-        "summary": "（中央社記者邱祖胤台北25日電）2026台灣文博會將於8月登場，今年以「未來日常式Future Everyday」為題，集結5大趨勢主題，邀請國內外買家與民眾參與。",
-        "url": "https://www.cna.com.tw/news/acul/202606250236.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T08:29:33+00:00"
-      },
-      {
-        "id": "0f8b806dedd1",
-        "title": "屏東雨量破500毫米　中部以北愈晚降雨愈明顯",
-        "summary": "（中央社記者張雄風台北25日電）氣象署今天表示，受到颱風米克拉北移及西南風增強的影響，南部持續有雨，截至下午3時許，屏東累積雨量已逾500毫米；預估晚間隨著北方鋒面持續南壓，中部以北降雨愈加明顯。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250229.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T08:17:18+00:00"
-      },
-      {
-        "id": "8f7f007e95c5",
-        "title": "電子煙皆違法、加熱菸合法販售在超商　看懂分辨方式與最新規定",
-        "summary": "（中央社記者陳婕翎台北25日電）許多民眾對加熱菸、電子煙傻傻分不清楚，最直觀的區分方式是加熱菸有菸草柱，電子煙是煙彈，不論實體或網路通路的電子煙皆違法，加熱菸則須經審查上市且合法販售通路主要是超商、免稅商店。",
-        "url": "https://www.cna.com.tw/news/ahel/202606250228.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-25T08:16:16+00:00"
       },
       {
         "id": "25ab105df0fd",
@@ -483,86 +483,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -805,9 +725,65 @@
     ],
     "破(day)": [
       {
+        "id": "52d04cbe05e1",
+        "title": "NEW PRODUCTS – Pimoroni Badgeware: Blinky Badge / Blinky Badge & STEM KIT",
+        "summary": "NEW PRODUCTS &#8211; Pimoroni Badgeware: Blinky Badge / Blinky Badge &#38; STEM KIT __________________________________________________________________________________________________ Badgeware is Pimoroni&#8217;s smart interactive badge with bright white LED matrix display, powered by Raspberry Pi R...",
+        "url": "https://blog.adafruit.com/2026/06/25/new-products-pimoroni-badgeware-blinky-badge-blinky-badge-stem-kit/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-25T14:25:40+00:00"
+      },
+      {
+        "id": "0156728ba401",
+        "title": "The Truth review – Florian Zeller’s knotty comedy of deceit is a real delight",
+        "summary": "Apollo theatre, LondonStephen Mangan, Sarah Hadland, Ardal O’Hanlon and Janie Dee are seat-shakingly funny in this study of adulteryAlice and Michel must conceal their affair from possibly suspicious spouses Paul and Laurence, sometimes under detective level interrogation. Florian Zeller’s The Truth...",
+        "url": "https://www.theguardian.com/stage/2026/jun/25/the-truth-review-stephen-mangan-sarah-hadland-ardal-ohanlon-janie-dee-florian-zeller-apollo-theatre-london",
+        "source": "Stage | The Guardian",
+        "published": "2026-06-25T14:05:46+00:00"
+      },
+      {
+        "id": "a637e5c12843",
+        "title": "NEW PRODUCTS – Pimoroni Badgeware: Badger Badge / Badger Badge & STEM KIT",
+        "summary": "NEW PRODUCTS &#8211; Pimoroni Badgeware: Badger Badge / Badger Badge &#38; STEM KIT __________________________________________________________________________________________________ Badgeware is Pimoroni&#8217;s smart interactive badge with four-level greyscale 2.7&#8243; E-Paper display, powered b...",
+        "url": "https://blog.adafruit.com/2026/06/25/new-products-pimoroni-badgeware-badger-badge-badger-badge-stem-kit/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-25T14:05:37+00:00"
+      },
+      {
+        "id": "12215fd99933",
+        "title": "NEW PRODUCTS – Pimoroni Badgeware: Tufty Badge / Tufty Badge & STEM KIT",
+        "summary": "NEW PRODUCTS &#8211; Pimoroni Badgeware: Tufty Badge / Tufty Badge &#38; STEM KIT __________________________________________________________________________________________________ Badgeware is Pimoroni&#8217;s smart interactive badge with colour 2.8&#8243; TFT display, powered by Raspberry Pi RP235...",
+        "url": "https://blog.adafruit.com/2026/06/25/new-products-pimoroni-badgeware-tufty-badge-tufty-badge-stem-kit/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-25T14:00:12+00:00"
+      },
+      {
+        "id": "3e1bdc259878",
+        "title": "A 3D-printed book turns its own G-code into raised lettering  #3dThursday",
+        "summary": "Developed by Studio Darius Ou with Benson Chong, Manual is a fully 3D-printed book that carries part of the machine code used to fabricate its own body. The object arrives with a strange directness. Its pages, binding, and raised marks are produced in one printing sequence, so the book comes off the...",
+        "url": "https://blog.adafruit.com/2026/06/25/a-3d-printed-book-turns-its-own-g-code-into-raised-lettering-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-25T13:30:35+00:00"
+      },
+      {
+        "id": "cf2ac51243aa",
+        "title": "高詠婕製作《MONSTER IN YOUR HEART》我們的原始，是被社會認可的精神錯亂",
+        "summary": "高詠婕製作《MONSTER IN YOUR HEART》我們的原始，是被社會認可的精神錯亂 / 【節目介紹】  [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=13934",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-06-25T12:07:31+00:00"
+      },
+      {
+        "id": "07c7bc5e4f37",
+        "title": "The wedding that inspired “Save the Last Dance for Me”",
+        "summary": "\"Save the Last Dance for Me,\" first recorded by The Drifters in 1960, has long been a staple of American pop culture as a love song at weddings, anniversaries and countless other romantic occasions. It's been recorded by more than 500 artists over the decades. The Library recently acquired the colle...",
+        "url": "https://blogs.loc.gov/loc/2026/06/the-wedding-that-inspired-save-the-last-dance-for-me/",
+        "source": "Timeless",
+        "published": "2026-06-25T12:00:58+00:00"
+      },
+      {
         "id": "1e1d01259625",
-        "title": "‘Like swimming through the air’: my thrilling role in Giselle with the Royal Ballet’s wheelchair dancers",
-        "summary": "I use a wheelchair and yearn to dance like I did when I was a kid. Could I possibly hold my own in a class run by inspirational disabled dance star Kate Stanforth and the Royal Ballet? From ballroom to hip-hop, I tried many different dance classes growing up, but nothing ever stuck for too long. My ...",
+        "title": "‘Like swimming through the air’: my thrilling role in Giselle with the Royal Ballet School’s wheelchair dancers",
+        "summary": "I use a wheelchair and yearn to dance like I did when I was a kid. Could I possibly hold my own in a class led by inspirational disabled dance star Kate Stanforth?From ballroom to hip-hop, I tried many different dance classes growing up, but nothing ever stuck for too long. My body never found its r...",
         "url": "https://www.theguardian.com/stage/2026/jun/25/royal-ballet-school-wheelchair-dance-kate-stanforth",
         "source": "Stage | The Guardian",
         "published": "2026-06-25T11:02:32+00:00"
@@ -933,14 +909,6 @@
         "published": "2026-06-25T01:50:50+00:00"
       },
       {
-        "id": "3ec684f7341a",
-        "title": "Chris Young announces his retirement after 14 years and 55+ Show and Tell appearances",
-        "summary": "Chris Young announces his retirement after 14 years and 55+ Show and Tell appearances &#8211; thank you Chris (video).",
-        "url": "https://blog.adafruit.com/2026/06/24/chris-young-announces-his-retirement-after-14-years-and-55-show-and-tell-appearances/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-25T00:15:19+00:00"
-      },
-      {
         "id": "a66b9a90ff8f",
         "title": "鄧卜君、劉文瑄跨界對藝　雙個展登馬德里皇家植物園",
         "summary": "（中央社記者胡家綺馬德里24日專電）台灣歷來在西班牙規模最大的視覺藝術專展「石羽記：台灣當代藝術雙重奏」24日開展，帶來台灣藝術家鄧卜君及劉文瑄多件作品，與「馬德里皇家植物園」展開跨文化藝術對話。",
@@ -963,30 +931,6 @@
         "url": "https://www.theguardian.com/stage/2026/jun/25/sinatra-the-musical-review-aldwych-theatre-london",
         "source": "Stage | The Guardian",
         "published": "2026-06-24T23:01:01+00:00"
-      },
-      {
-        "id": "af24081e4f01",
-        "title": "JLink JTAG access on the Pinecil soldering iron",
-        "summary": "Daniel Mangum bought a Pinecil soldering iron and wrote about soldering the breakout board and accessing the UART. This latest work is on JLink JTAG access. I’ve been doing more work with the Pinecil as of late following the addition of upstream support for the Bouffalo Lab BL706 MCU in Zephyr. Whil...",
-        "url": "https://blog.adafruit.com/2026/06/24/jlink-jtag-access-on-the-pinecil-soldering-iron/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-24T21:23:25+00:00"
-      },
-      {
-        "id": "70b5e00c7414",
-        "title": "The first open-source Linux driver for the ASUS ZenVision lid OLED",
-        "summary": "zenvision-linux is the first open-source Linux driver for the ASUS ZenVision lid OLED display. The the protocol was reverse-engineered from scratch using Ghidra on MyASUS. It is a userspace Linux driver for the ASUS ZenVision lid OLED — the 3.5&#8243;, 256×64 monochrome screen embedded in the lid of...",
-        "url": "https://blog.adafruit.com/2026/06/24/the-first-open-source-linux-driver-for-the-asus-zenvision-lid-oled/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-24T21:09:08+00:00"
-      },
-      {
-        "id": "163f2ef71517",
-        "title": "JP’s Product Pick of the Week 6/23/26 @adafruit @johnedgarpark #adafruit #newproductpick",
-        "summary": "If you missed this week’s livestream of John Park’s Product Pick of the Week, not to worry, here’s the video. This week’s pick is the Sparkle Motion Stick + Enclosure Kit! Watch the video to find out about the Sparkle Motion Stick + Enclosure Kit, how to use it, a live demo, and more. Want [&#8230;]",
-        "url": "https://blog.adafruit.com/2026/06/24/jps-product-pick-of-the-week-6-23-26-adafruit-johnedgarpark-adafruit-newproductpick/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-24T20:30:54+00:00"
       },
       {
         "id": "b6c9435c59a1",
@@ -1347,14 +1291,6 @@
         "url": "https://finance.technews.tw/2026/06/23/meta-taps-indian-startup-founder-to-solve-whatsapps-revenue-puzzle/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-06-23T09:55:37+00:00"
-      },
-      {
-        "id": "03f9e4fb72c7",
-        "title": "Piglet, it’s a purple, psychedelic shapeshifter! The wild new creature prowling Winnie-the-Pooh’s wood",
-        "summary": "Is it an alien? A dinosaur? Is it going to kill us all? Our writer hits Ashdown Forest for the Big One Hundred celebrations – and finds its magic enchanting new generationsThe rolling idyll of heath and forest, spinney and stream that gave us the Heffalump, the Woozle and, most famously of all, Winn...",
-        "url": "https://www.theguardian.com/stage/2026/jun/23/piglet-purple-psychedelic-shapeshifter-winnie-the-poohs-wood-ashdown-forest",
-        "source": "Stage | The Guardian",
-        "published": "2026-06-23T04:00:32+00:00"
       },
       {
         "id": "d92d683f6d97",
@@ -2245,14 +2181,6 @@
         "published": "2026-05-16T08:30:00+00:00"
       },
       {
-        "id": "9c56808d0a5d",
-        "title": "2026 National Recording Registry: You Can “Put a Ring on It”",
-        "summary": "The 2026 National Recording Registry inductees were announced today, bringing everything from Beyoncé’s “Single Ladies (Put a Ring On It),” Weezer’s self-titled debut “Weezer (The Blue Album),” José Feliciano’s “Feliz Navidad” and 22 other recordings into the Library’s catalogue that preserves the n...",
-        "url": "https://blogs.loc.gov/loc/2026/05/2026-national-recording-registry-you-can-put-a-ring-on-it/",
-        "source": "Timeless",
-        "published": "2026-05-14T12:52:24+00:00"
-      },
-      {
         "id": "b1f75c9b6b41",
         "title": "《局部真實》Refracted Realities｜國立臺灣藝術大學 電影學系111級畢業展",
         "summary": "《局部真實》Refracted Realities｜國立臺灣藝術大學 電影學系111級畢業展 劇本組 × 論文 [&#8230;]",
@@ -2405,14 +2333,6 @@
         "published": "2026-03-31T09:20:18+00:00"
       },
       {
-        "id": "f28fff886dc9",
-        "title": "家庭檔案影像的轉生與收納",
-        "summary": "家庭檔案影像的轉生與收納 / 【活動簡介】 / 每個家庭都囤積了許多曾經風行一時的影音媒材，如 16mm、8m [&#8230;]",
-        "url": "https://www.glt.org.tw/?p=13822",
-        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
-        "published": "2026-03-31T06:40:01+00:00"
-      },
-      {
         "id": "234b13b1a5e0",
         "title": "[東南亞週報316] 因應伊朗戰爭菲宣布進入國家能源緊急狀態、星延後開徵永續航空燃料稅、泰下令緊急措施穩定石油供應",
         "summary": "[東南亞週報316] 因應伊朗戰爭菲宣布進入國家能源緊急狀態、星延後開徵永續航空燃料稅、泰下令緊急措施穩定石油 [&#8230;]",
@@ -2492,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T11:45:56.749246+00:00"
+        "published": "2026-06-25T14:47:56.972841+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T11:45:56.749237+00:00"
+        "published": "2026-06-25T14:47:56.972831+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T11:45:56.749227+00:00"
+        "published": "2026-06-25T14:47:56.972821+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T11:45:56.749217+00:00"
+        "published": "2026-06-25T14:47:56.972811+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T11:45:56.749207+00:00"
+        "published": "2026-06-25T14:47:56.972801+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T11:45:56.749198+00:00"
+        "published": "2026-06-25T14:47:56.972791+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T11:45:56.749176+00:00"
+        "published": "2026-06-25T14:47:56.972781+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T11:45:56.749166+00:00"
+        "published": "2026-06-25T14:47:56.972772+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T11:45:56.749156+00:00"
+        "published": "2026-06-25T14:47:56.972762+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-25T11:45:56.749146+00:00"
+        "published": "2026-06-25T14:47:56.972752+00:00"
       },
       {
         "id": "112c0bfbfbe2",
