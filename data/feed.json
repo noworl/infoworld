@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-06-27T04:59:03.426786+00:00",
+  "updated_at": "2026-06-27T07:55:59.434494+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "6b89f7d535e9",
+        "title": "昔日頂級列車承載返鄉回憶　台鐵改點莒光號剩7列次",
+        "summary": "（中央社記者黃巧雯台北27日電）陪伴民眾逾半世紀的莒光號，曾是台鐵最高級列車，有隨車服務員遞送熱毛巾，全盛期最多開行76列次，7月大改點後，減少到剩7列次，乘載無數人旅行和返鄉記憶列車，漸淡出舞台。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270125.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T07:21:34+00:00"
+      },
+      {
+        "id": "1727c86c817f",
+        "title": "汽車駕照筆試6/30改全選擇題　公路養管費7月開徵",
+        "summary": "（中央社記者黃巧雯台北27日電）6月30日起有2項交通新制上路，包括汽車駕照筆試改全選擇題，吊銷駕照禁考3年以上者，重考前須到駕訓班上課；而汽燃費更名公路使用養護安全管理費，今年7月是更名後首度開徵。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270115.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T06:18:12+00:00"
+      },
+      {
+        "id": "eb5e338fb937",
+        "title": "中油宣布　29日起汽油調降1元、柴油降0.8元",
+        "summary": "（中央社記者呂晏慈台北27日電）美伊啟動協商，荷莫茲海峽通航量逐步回升，國際油價下跌。台灣中油公司今天宣布，自29日凌晨零時起至7月5日晚上12時止，汽、柴油各調降新台幣1元及0.8元",
+        "url": "https://www.cna.com.tw/news/ahel/202606270114.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T06:11:10+00:00"
+      },
+      {
+        "id": "c112016c26b1",
+        "title": "推長照3.0  衛福部拚2032年達「一村里一據點」",
+        "summary": "（中央社記者沈佩瑤台北27日電）台灣邁入超高齡化社會又逢少子女化，預估到2070年，負擔1名老人家的生產者，就會從3.6人減少到1人，衛福部推動長照3.0，拚2032年達成「1村里1個據點」，打造照顧共融圈。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270101.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T05:26:42+00:00"
+      },
+      {
+        "id": "deaf69bae81c",
+        "title": "台灣首批芒果出口英國　6/28空運500公斤",
+        "summary": "（中央社記者張榮祥台南27日電）正值台南芒果產季，總量500公斤的台南愛文芒果28日將空運英國，台南市政府今天表示，這是台灣首批出口英國的芒果，透過完善冷鏈物流送達，讓台南農產品深耕英國及歐洲市場。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270089.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T04:29:13+00:00"
+      },
+      {
+        "id": "fd5affda655c",
+        "title": "豪雨農損逾9000萬元　農業部：高屏農產全品項救助",
+        "summary": "（中央社記者吳欣紜台北27日電）據農業部統計，截至今天上午11時，6月下旬豪雨導致全國農業產物及民間設施估損失約新台幣9527萬元，農業部主動公告損失最多高雄市與屏東縣農產業全品項現金救助與低利貸款。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270085.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T04:25:05+00:00"
+      },
+      {
+        "id": "26c6d2123570",
+        "title": "北市婦幼專責醫院揭牌　蔣萬安：育兒友善里程碑",
+        "summary": "（中央社記者陳昱婷台北27日電）台北市長蔣萬安今天為台北市婦幼專責醫院揭牌，他說，這是他上任以來推出的各項育兒友善措施中，最具指標性的里程碑，未來將持續精進，照顧台北市所有孩子及女性。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270083.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T04:18:00+00:00"
+      },
+      {
+        "id": "b3c2d19f5f19",
+        "title": "台鐵7月改點EMU3000成城際主力　E1000型轉備用",
+        "summary": "（中央社記者黃巧雯台北27日電）台鐵7月起大改點，調整653列次，為近年最大調幅，除EMU3000型自強號擔任城際列車主力車種外，莒光號每日開行的班次數從11列次調整至7列次，舊型E1000型PP自強號編組轉為備用。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270079.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T03:59:51+00:00"
+      },
+      {
+        "id": "1c7770bd8413",
+        "title": "台大以「林茂生」命名會議室　紀念二二八受難教授",
+        "summary": "（中央社記者陳至中台北27日電）台灣大學文學院26日為「林茂生紀念會議室」揭牌，紀念這名在二二八事件中受難的教授。文學院學生會期盼這間會議室，成為轉型正義的實踐，讓這段歷史重新被看見、被討論。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270074.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T03:43:41+00:00"
+      },
       {
         "id": "1dd9f09dfa1e",
         "title": "Rumah Sakit - Bottom Of The Hill - 9/11/02",
@@ -25,22 +97,6 @@
         "url": "https://www.musicofsound.co.nz/blog/detritus-832",
         "source": "Music of Sound",
         "published": "2026-06-27T01:57:16+00:00"
-      },
-      {
-        "id": "fbc40e05d573",
-        "title": "豪雨釀災　產險公會：保戶可依颱風洪水保險申請理賠",
-        "summary": "（中央社記者呂晏慈台北27日電）受颱風外圍環流與西南風影響，全台連日豪雨多地傳出災情。產險公會表示，若因颱風或洪水造成財物損失，保戶可逕向承保公司依「颱風洪水補償費用」條款約定申請理賠。",
-        "url": "https://www.cna.com.tw/news/ahel/202606270026.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-27T00:56:57+00:00"
-      },
-      {
-        "id": "1a4e932ab06a",
-        "title": "吳德榮：防劇烈天氣　6/28起鋒面漸北退降雨逐日緩",
-        "summary": "（中央社記者黃巧雯台北27日電）氣象署提醒，雲林防大豪雨，南高屏等7縣市防豪雨。氣象專家吳德榮表示，今天仍需防範劇烈天氣，明天至30日鋒面漸北退，明天仍有較大雨勢，29日、30日降雨以午後對流為主。",
-        "url": "https://www.cna.com.tw/news/ahel/202606270024.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-27T00:38:53+00:00"
       },
       {
         "id": "3fb1c6f755c6",
@@ -99,14 +155,6 @@
         "published": "2026-06-26T21:32:39+00:00"
       },
       {
-        "id": "909fa335b552",
-        "title": "氣象署發布7縣市豪雨特報　雲林縣嚴防局部豪雨或大豪雨",
-        "summary": "（中央社台北27日電）中央氣象署發布豪雨特報，鋒面及西南風影響，易有短延時強降雨，今(27)日雲林縣有局部豪雨或大豪雨，南投縣、臺中市、彰化縣、嘉義縣、臺南市、高雄市、屏東縣有局部大雨或豪雨，苗栗以北、東半部及澎湖地區有局部大雨發生的機率，請注意雷擊及強陣風，低窪地區慎防淹水，山區請慎防坍方、落石、土石流及溪水暴漲。大豪雨地區：雲林縣。（編輯：徐睿承）1150627",
-        "url": "https://www.cna.com.tw/news/ahel/202606270013.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-26T21:31:25+00:00"
-      },
-      {
         "id": "01ff20a6b738",
         "title": "SET AO VIVO ROCK DO JOSIMAR ( ROCK DOIDO E MARCANTES ) EM PARAGOMINAS 21 06 2026",
         "summary": "DF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
@@ -115,60 +163,12 @@
         "published": "2026-06-26T21:27:05+00:00"
       },
       {
-        "id": "bd73aa06a3ce",
-        "title": "氣象署豪雨特報　中彰投雲嘉南高屏有局部大雨或豪雨",
-        "summary": "（中央社台北27日電）中央氣象署發布豪雨特報，鋒面及西南風影響，易有短延時強降雨，今(27)日南投縣、臺中市、彰化縣、雲林縣、嘉義縣、臺南市、高雄市、屏東縣有局部大雨或豪雨，苗栗以北、東半部及澎湖地區有局部大雨發生的機率，請注意雷擊及強陣風，低窪地區慎防淹水，山區請慎防坍方、落石、土石流及溪水暴漲。（編輯：徐睿承）1150627",
-        "url": "https://www.cna.com.tw/news/ahel/202606270011.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-26T21:14:20+00:00"
-      },
-      {
         "id": "3716ce776c04",
         "title": "مهرجان علي روحكو هشرب جيفاز ميسو ميسره حوده ناصر",
         "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/20260626_20260626_2103",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-26T21:07:46+00:00"
-      },
-      {
-        "id": "636d1397c6b9",
-        "title": "氣象署發布豪雨特報　彰雲嘉南高屏有局部大雨或豪雨",
-        "summary": "（中央社台北27日電）中央氣象署發布豪雨特報，鋒面及西南風影響，易有短延時強降雨，今(27)日彰化縣、雲林縣、嘉義縣、臺南市、高雄市、屏東縣有局部大雨或豪雨，臺中以北、東半部及澎湖地區有局部大雨發生的機率，請注意雷擊及強陣風，低窪地區慎防淹水，山區請慎防坍方、落石、土石流及溪水暴漲。（編輯：徐睿承）1150627",
-        "url": "https://www.cna.com.tw/news/ahel/202606270007.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-26T19:30:10+00:00"
-      },
-      {
-        "id": "25cd74965f82",
-        "title": "氣象署發布豪雨特報　嚴防雲嘉南高屏局部大雨或豪雨",
-        "summary": "（中央社台北27日電）中央氣象署發布豪雨特報，鋒面及西南風影響，易有短延時強降雨，今(27)日雲林縣、嘉義縣、臺南市、高雄市、屏東縣有局部大雨或豪雨，彰化以北、東半部及澎湖地區有局部大雨發生的機率，請注意雷擊及強陣風，低窪地區慎防淹水，山區請慎防坍方、落石、土石流及溪水暴漲。（編譯：徐睿承）1150627",
-        "url": "https://www.cna.com.tw/news/ahel/202606270006.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-26T19:27:07+00:00"
-      },
-      {
-        "id": "679eeea98401",
-        "title": "氣象署發布豪雨特報　花蓮縣及臺東縣豪雨發生",
-        "summary": "（中央社記者27日電）中央氣象署發布豪雨特報，鋒面及西南風影響，花蓮縣及臺東縣已有豪雨發生，今(27)日臺南市、高雄市、屏東縣有局部大雨或豪雨，嘉義以北、東半部及澎湖地區有局部大雨發生的機率，請注意雷擊及強陣風，低窪地區慎防淹水，山區請慎防坍方、落石、土石流及溪水暴漲。（編輯：徐睿承）1150627",
-        "url": "https://www.cna.com.tw/news/ahel/202606270002.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-26T16:27:56+00:00"
-      },
-      {
-        "id": "ef8e2805d05e",
-        "title": "今彩539第115155期　頭獎槓龜",
-        "summary": "（中央社台北26日電）今彩539第115155期開獎，中獎號碼10、26、36、08、14；派彩結果，頭獎槓龜。",
-        "url": "https://www.cna.com.tw/news/ahel/202606260367.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-26T14:05:21+00:00"
-      },
-      {
-        "id": "7fd9283e968f",
-        "title": "大樂透第115065期　頭獎槓龜",
-        "summary": "（中央社台北26日電）大樂透第115065期今晚開獎。中獎號碼為29、11、23、41、24、19，特別號01；派彩結果，頭獎槓龜。",
-        "url": "https://www.cna.com.tw/news/ahel/202606260366.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-26T14:04:19+00:00"
       },
       {
         "id": "bca057944909",
@@ -483,86 +483,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -804,6 +724,22 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "fe6bff6b3b58",
+        "title": "Brassed Off review – stirring tale of coal and cornets moves Yorkshire audience to tears",
+        "summary": "Leeds PlayhouseIn a cavernous venue seemingly designed for a colliery-based story, Amy Leach directs Paul Allen’s adaptation of the 1996 filmIt’s odd that this most Yorkshire of stories has never been staged at Leeds Playhouse. That’s remedied with grit and humanity by director Amy Leach and her str...",
+        "url": "https://www.theguardian.com/stage/2026/jun/27/brassed-off-review-leeds-playhouse",
+        "source": "Stage | The Guardian",
+        "published": "2026-06-27T07:00:33+00:00"
+      },
+      {
+        "id": "df970b1dcf73",
+        "title": "童書短評》#170陪孩子在日常魔幻中練習勇氣",
+        "summary": "●父親的背囊\n西西著，周俊輝繪，希望學，390元\n推薦原因：  圖 \n適讀年齡：小學高年級、國中（11-15歲）\n雨衣、餅乾、梯子、動物……只要孩子開口，只要孩子想要，父親的背囊有求必諾，隨時可以拿出超乎想像的東西。西西用簡明的譬喻與超現實的手法，把漫長養育歲月裡的甜蜜與苦勞、疼愛與壓抑、亦步亦趨或叛逆對立的親子關係全都寫進〈父親的背囊〉一詩，那裡頭反覆的滋味與重量啊，道盡多少父母的心。畫成繪本後，圖像強化了魔幻與動感，甚至加入了新的敘事觀點，從長女姊姊的角度去旁觀父親與弟弟的互動，為這首經典闢出更多的詮釋空間。【內容簡介➤】 \n\n\n\n《父親的背囊》內頁，希望學提供\n\n\n●還是要鼓起勇氣\n그래...",
+        "url": "https://www.openbook.org.tw/article/p-72709",
+        "source": "Openbook閱讀誌",
+        "published": "2026-06-27T07:00:00+00:00"
+      },
       {
         "id": "197720766dee",
         "title": "漫射計畫》會心之必要，批判之必要：走進倫敦漫畫博物館，看見漫畫的社會溝通傳統",
@@ -1213,14 +1149,6 @@
         "published": "2026-06-24T14:05:30+00:00"
       },
       {
-        "id": "929797628032",
-        "title": "Warriors come out to Broadway with Lin-Manuel Miranda musical",
-        "summary": "Miranda and Eisa Davis’s concept album based on the 1979 film is to be realised for the stage, co-directed by Jenny Koons and Hamilton’s Andy BlankenbuehlerLin-Manuel Miranda and Eisa Davis’s concept album based on The Warriors, the cult novel and film about warring New York gangs, is to become a Br...",
-        "url": "https://www.theguardian.com/stage/2026/jun/24/the-warriors-broadway-with-lin-manuel-miranda-musical",
-        "source": "Stage | The Guardian",
-        "published": "2026-06-24T13:01:43+00:00"
-      },
-      {
         "id": "1a04f6fad7be",
         "title": "Can Printed 'Skin' Heal Burns and Prevent Scars?",
         "summary": "Inks created with a patient’s own cells may one day help the body regrow tissues",
@@ -1611,14 +1539,6 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=257655",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-06-22T07:03:00+00:00"
-      },
-      {
-        "id": "f8f8f1650135",
-        "title": "評論》名為「臺灣感性」的溫柔陷阱：從韓國的對臺迷戀反思臺灣文化輸出策略",
-        "summary": "長期以來，臺灣因複雜的地緣政治糾葛與特殊的國際地位，始終游離於全球外交體系的邊緣，成為國際法與政治現實交織下的例外之地，不僅被迫缺席國際正式場合，在多邊對話中也處於噤聲的邊緣位置。\n這種被忽視與冷落的壓抑，使得臺灣的人們產生了一股極度想被世界看見的集體焦慮。長期以來，臺灣大眾習慣將非外交場域上獲得國際認可的人們稱為「臺灣之光」，奉為國家英雄。近年來這種現象愈發明顯，影響更加寬廣，也轉化為更深刻的認同修辭。\n在奧運賽事中陷入性別爭議漩渦的林郁婷，則引發臺灣大批網友在網路上和國際輿論場為其發聲，甚至封她「臺灣女兒」。這個修辭背後是臺灣社會在面對國際排擠時，引發的強烈心理防衛機制：一方面透過「女兒」...",
-        "url": "https://www.openbook.org.tw/article/p-72688",
-        "source": "Openbook閱讀誌",
-        "published": "2026-06-22T01:01:00+00:00"
       },
       {
         "id": "b5ac4de280a0",
@@ -2492,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T04:59:01.537188+00:00"
+        "published": "2026-06-27T07:55:57.577965+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T04:59:01.537177+00:00"
+        "published": "2026-06-27T07:55:57.577954+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T04:59:01.537167+00:00"
+        "published": "2026-06-27T07:55:57.577944+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T04:59:01.537157+00:00"
+        "published": "2026-06-27T07:55:57.577933+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T04:59:01.537146+00:00"
+        "published": "2026-06-27T07:55:57.577923+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T04:59:01.537136+00:00"
+        "published": "2026-06-27T07:55:57.577912+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T04:59:01.537125+00:00"
+        "published": "2026-06-27T07:55:57.577901+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T04:59:01.537115+00:00"
+        "published": "2026-06-27T07:55:57.577890+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T04:59:01.537105+00:00"
+        "published": "2026-06-27T07:55:57.577880+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T04:59:01.537093+00:00"
+        "published": "2026-06-27T07:55:57.577869+00:00"
       },
       {
         "id": "a1e92aebb4b0",
