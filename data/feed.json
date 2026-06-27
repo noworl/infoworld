@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-27T16:13:35.956276+00:00",
+  "updated_at": "2026-06-27T18:11:37.855885+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "aa11f9162257",
+        "title": "氣象署提醒宜蘭留意豪雨　新竹以北、花蓮山區防大雨",
+        "summary": "（中央社台北27日電）中央氣象署發布豪雨特報，鋒面影響及對流雲系發展旺盛，易有短延時強降雨，今天晚間至明天宜蘭縣有局部大雨或豪雨，新竹以北地區及花蓮山區有局部大雨發生的機率。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270215.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T15:32:02+00:00"
+      },
       {
         "id": "b478494a0ba8",
         "title": "今彩539第115156期　頭獎1注中獎",
@@ -153,14 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202606270148.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-06-27T09:19:25+00:00"
-      },
-      {
-        "id": "71ada9adaf69",
-        "title": "喪屍煙彈氾濫致醫院缺藥？  食藥署駁斥傳言",
-        "summary": "（中央社記者沈佩瑤台北27日電）依托咪酯原為麻醉藥物，卻遭不肖份子製成「喪屍煙彈」濫用，有醫師質疑毒駕滿街跑，醫院卻缺貨，諷稱「台灣奇觀」。食藥署今天駁斥這項傳言，強調醫療需求供應充足，未見非法使用。",
-        "url": "https://www.cna.com.tw/news/ahel/202606270145.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-27T09:11:18+00:00"
       },
       {
         "id": "af002959cb0b",
@@ -725,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "8122eeff5931",
+        "title": "Spotify Music Display with a RGB LED Matrix",
+        "summary": "@Mewtru makes good use of a RGB Matrix Bonnet with this Spotify CD Spinner. It uses a 64&#215;64 RBG LED Matrix, the Adafruit Matrix Bonnet and a Raspberry Pi Zero to display the album art of the song you are currently playing. Code available on GitHub Shows the current Spotify album art on a 64&#21...",
+        "url": "https://blog.adafruit.com/2026/06/27/spotify-music-display-with-a-rgb-led-matrix/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-27T17:11:14+00:00"
+      },
+      {
         "id": "b35184b8df62",
         "title": "首爾書展談雨傘運動  陳慧：生命裡不能拿走的東西",
         "summary": "（中央社記者楊啟芳首爾27日專電）來自香港、現居於台灣的作家陳慧，今天在首爾書展與韓國作家趙海珍對談，向韓國讀者分享創作心情，也談到2014年雨傘運動對自己的意義，「是我生命裡不能拿走的東西。」",
@@ -947,14 +955,6 @@
         "url": "https://blog.adafruit.com/2026/06/25/scifi-crate-3dthursday-3dprinting/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-06-25T21:00:29+00:00"
-      },
-      {
-        "id": "9ca1cdf84af9",
-        "title": "John Park’s Workshop — LIVE TODAY 6/25/26",
-        "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects &#8212; Attachécade wiring harness KiCad adapter design Tool Tips Retro Gear  PC Engine / TurboGrafx CD games on Fruit Jam and more! The live video will ...",
-        "url": "https://blog.adafruit.com/2026/06/25/john-parks-workshop-live-today-6-25-26/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-25T19:57:01+00:00"
       },
       {
         "id": "26012d81bb2b",
@@ -2412,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T16:13:33.982453+00:00"
+        "published": "2026-06-27T18:11:36.044386+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T16:13:33.982442+00:00"
+        "published": "2026-06-27T18:11:36.044376+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T16:13:33.982432+00:00"
+        "published": "2026-06-27T18:11:36.044353+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T16:13:33.982421+00:00"
+        "published": "2026-06-27T18:11:36.044343+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T16:13:33.982411+00:00"
+        "published": "2026-06-27T18:11:36.044334+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T16:13:33.982400+00:00"
+        "published": "2026-06-27T18:11:36.044324+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T16:13:33.982390+00:00"
+        "published": "2026-06-27T18:11:36.044315+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T16:13:33.982380+00:00"
+        "published": "2026-06-27T18:11:36.044305+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T16:13:33.982369+00:00"
+        "published": "2026-06-27T18:11:36.044296+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T16:13:33.982359+00:00"
+        "published": "2026-06-27T18:11:36.044286+00:00"
       },
       {
         "id": "a1e92aebb4b0",
