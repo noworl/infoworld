@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-06-27T10:18:12.787180+00:00",
+  "updated_at": "2026-06-27T12:12:50.991925+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "48994356c96b",
+        "title": "吳明賢脫離葉克膜  病況審慎樂觀持續進步",
+        "summary": "（中央社記者沈佩瑤台北27日電）前任台大醫院院長、61歲現任台大醫學院院長吳明賢23日傳出OHCA（到院前心肺功能停止）送醫，裝葉克膜搶命。據了解，目前已移除葉克膜，病情「審慎樂觀」、持續「進步中」。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270188.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T11:45:53+00:00"
+      },
+      {
+        "id": "f5776d7fc279",
+        "title": "楊双子：大罷免失敗  凝聚共識是必經過程",
+        "summary": "（中央社記者邱祖胤台北27日電）作家楊双子今天在台北中正紀念堂演藝廳與作家朱宥勳進行對談，楊双子表示，「大罷免」即使失敗，卻是凝聚共識的必要過程；朱宥勳則表示，文學人習慣失敗，經常站在輸的這邊。",
+        "url": "https://www.cna.com.tw/news/acul/202606270182.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T11:20:40+00:00"
+      },
+      {
+        "id": "b005a769f380",
+        "title": "宜蘭縣防豪雨  基隆、西半部及澎湖有局部大雨",
+        "summary": "（中央社台北27日電）中央氣象署發布豪雨特報，鋒面影響及對流雲系發展旺盛，易有短延時強降雨，今日宜蘭縣有局部大雨或豪雨。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270174.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T10:09:22+00:00"
+      },
+      {
+        "id": "d2e83e0e6e21",
+        "title": "The Honeysuckle And The Bindweed",
+        "summary": "Written: https://archiveofourown.org/works/67685601 Podfic: https://archiveofourown.org/works/87473141 By SeriousMoonlightDance This is a very silly gentlebeard meet cute where Ed and Stede are plants....This item belongs to: image/folksoundomy_podfic.This item has files of the following types: Arch...",
+        "url": "https://archive.org/details/the-honeysuckle-and-the-bindweed",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-27T10:06:21+00:00"
+      },
+      {
+        "id": "e533575c4e1e",
+        "title": "28日中部以北留意午後大雨　7/1起天氣轉晴",
+        "summary": "（中央社記者吳欣紜台北27日電）氣象署表示，明天鋒面移動至北部海面，但水氣仍偏多，南部地區整天有局部短暫陣雨或雷雨，中部以北、宜蘭、花蓮及山區午後須留意局部大雨，7月1日各地天氣轉趨穩定。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270168.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T09:50:09+00:00"
+      },
+      {
+        "id": "5c6418264a9c",
+        "title": "動保團體籲立法禁山豬吊  林業署：應從源頭管制",
+        "summary": "（中央社記者吳欣紜台北27日電）多個動保團體今天在凱道集會，訴求立法全面禁止使用山豬吊，農業部則說，山林與農作區陷阱的使用應正視並理解使用族群需求，立法禁絕不是解方，應透過源頭管制改善。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270150.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T09:27:31+00:00"
+      },
+      {
+        "id": "260a0b658e0a",
+        "title": "宜蘭礁溪防豪雨  基宜及澎湖有局部大雨",
+        "summary": "（中央社台北27日電）中央氣象署發布豪雨特報，鋒面影響及對流雲系發展旺盛，易有短延時強降雨，今日宜蘭縣礁溪鄉有局部大雨或豪雨。",
+        "url": "https://www.cna.com.tw/news/ahel/202606270148.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-06-27T09:19:25+00:00"
+      },
       {
         "id": "71ada9adaf69",
         "title": "喪屍煙彈氾濫致醫院缺藥？  食藥署駁斥傳言",
@@ -43,60 +99,12 @@
         "published": "2026-06-27T07:33:35+00:00"
       },
       {
-        "id": "6b89f7d535e9",
-        "title": "昔日頂級列車承載返鄉回憶　台鐵改點莒光號剩7列次",
-        "summary": "（中央社記者黃巧雯台北27日電）陪伴民眾逾半世紀的莒光號，曾是台鐵最高級列車，有隨車服務員遞送熱毛巾，全盛期最多開行76列次，7月大改點後，減少到剩7列次，乘載無數人旅行和返鄉記憶列車，漸淡出舞台。",
-        "url": "https://www.cna.com.tw/news/ahel/202606270125.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-27T07:21:34+00:00"
-      },
-      {
-        "id": "1727c86c817f",
-        "title": "汽車駕照筆試6/30改全選擇題　公路養管費7月開徵",
-        "summary": "（中央社記者黃巧雯台北27日電）6月30日起有2項交通新制上路，包括汽車駕照筆試改全選擇題，吊銷駕照禁考3年以上者，重考前須到駕訓班上課；而汽燃費更名公路使用養護安全管理費，今年7月是更名後首度開徵。",
-        "url": "https://www.cna.com.tw/news/ahel/202606270115.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-27T06:18:12+00:00"
-      },
-      {
-        "id": "eb5e338fb937",
-        "title": "中油宣布　29日起汽油調降1元、柴油降0.8元",
-        "summary": "（中央社記者呂晏慈台北27日電）美伊啟動協商，荷莫茲海峽通航量逐步回升，國際油價下跌。台灣中油公司今天宣布，自29日凌晨零時起至7月5日晚上12時止，汽、柴油各調降新台幣1元及0.8元",
-        "url": "https://www.cna.com.tw/news/ahel/202606270114.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-27T06:11:10+00:00"
-      },
-      {
         "id": "efedd614b285",
         "title": "Sleepytime Gorilla Museum - Bottom Of The Hill - 9/11/02",
         "summary": "Sleepytime Gorilla Museum - Bottom Of The Hill - 9/11/02.This item belongs to: audio/roiocollection.This item has files of the following types: AIFF, Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/sleepytime-gorilla-museum-bottom-of-the-hill-91102",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-27T06:09:34+00:00"
-      },
-      {
-        "id": "c112016c26b1",
-        "title": "推長照3.0  衛福部拚2032年達「一村里一據點」",
-        "summary": "（中央社記者沈佩瑤台北27日電）台灣邁入超高齡化社會又逢少子女化，預估到2070年，負擔1名老人家的生產者，就會從3.6人減少到1人，衛福部推動長照3.0，拚2032年達成「1村里1個據點」，打造照顧共融圈。",
-        "url": "https://www.cna.com.tw/news/ahel/202606270101.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-27T05:26:42+00:00"
-      },
-      {
-        "id": "deaf69bae81c",
-        "title": "台灣首批芒果出口英國　6/28空運500公斤",
-        "summary": "（中央社記者張榮祥台南27日電）正值台南芒果產季，總量500公斤的台南愛文芒果28日將空運英國，台南市政府今天表示，這是台灣首批出口英國的芒果，透過完善冷鏈物流送達，讓台南農產品深耕英國及歐洲市場。",
-        "url": "https://www.cna.com.tw/news/ahel/202606270089.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-27T04:29:13+00:00"
-      },
-      {
-        "id": "fd5affda655c",
-        "title": "豪雨農損逾9000萬元　農業部：高屏農產全品項救助",
-        "summary": "（中央社記者吳欣紜台北27日電）據農業部統計，截至今天上午11時，6月下旬豪雨導致全國農業產物及民間設施估損失約新台幣9527萬元，農業部主動公告損失最多高雄市與屏東縣農產業全品項現金救助與低利貸款。",
-        "url": "https://www.cna.com.tw/news/ahel/202606270085.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-06-27T04:25:05+00:00"
       },
       {
         "id": "1dd9f09dfa1e",
@@ -161,14 +169,6 @@
         "url": "https://archive.org/details/the-standard-fillmore-9902",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-26T21:37:28+00:00"
-      },
-      {
-        "id": "cbad0c2ec6fb",
-        "title": "MarvelChiBienDiVongLinhPhapSuTH",
-        "summary": "MarvelChiBienDiVongLinhPhapSuTH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, Text, VBR MP3",
-        "url": "https://archive.org/details/MarvelChiBienDiVongLinhPhapSuTH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-26T21:32:39+00:00"
       },
       {
         "id": "bca057944909",
@@ -483,6 +483,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -724,6 +804,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "f5776d7fc279",
+        "title": "楊双子：大罷免失敗  凝聚共識是必經過程",
+        "summary": "（中央社記者邱祖胤台北27日電）作家楊双子今天在台北中正紀念堂演藝廳與作家朱宥勳進行對談，楊双子表示，「大罷免」即使失敗，卻是凝聚共識的必要過程；朱宥勳則表示，文學人習慣失敗，經常站在輸的這邊。",
+        "url": "https://www.cna.com.tw/news/acul/202606270182.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-06-27T11:20:40+00:00"
+      },
       {
         "id": "1cdc44aabf92",
         "title": "揮毫奶奶書法個展  逾百件作品匯聚人生體悟",
@@ -1171,14 +1259,6 @@
         "url": "https://www.cna.com.tw/news/acul/202606240329.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-06-24T11:25:11+00:00"
-      },
-      {
-        "id": "08a39c3d4fcf",
-        "title": "葛萊美爵士天后布里姬沃特  台中歌劇院開音樂趴",
-        "summary": "（中央社台北24日電）兩屆葛萊美獎得主、東尼獎爵士歌后布里姬沃特將攜手美國國家青年爵士樂團（NYO Jazz），8月8日及8月9日在台中國家歌劇院開音樂趴，連續帶來兩場演出。",
-        "url": "https://www.cna.com.tw/news/acul/202606240327.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-06-24T11:24:07+00:00"
       },
       {
         "id": "51af2f198c42",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T10:18:11.900444+00:00"
+        "published": "2026-06-27T12:12:49.945379+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T10:18:11.900435+00:00"
+        "published": "2026-06-27T12:12:49.945370+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T10:18:11.900425+00:00"
+        "published": "2026-06-27T12:12:49.945360+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T10:18:11.900415+00:00"
+        "published": "2026-06-27T12:12:49.945350+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T10:18:11.900404+00:00"
+        "published": "2026-06-27T12:12:49.945340+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T10:18:11.900395+00:00"
+        "published": "2026-06-27T12:12:49.945331+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T10:18:11.900385+00:00"
+        "published": "2026-06-27T12:12:49.945321+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T10:18:11.900376+00:00"
+        "published": "2026-06-27T12:12:49.945311+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T10:18:11.900366+00:00"
+        "published": "2026-06-27T12:12:49.945301+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-27T10:18:11.900357+00:00"
+        "published": "2026-06-27T12:12:49.945292+00:00"
       },
       {
         "id": "a1e92aebb4b0",
