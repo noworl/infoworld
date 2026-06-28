@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-06-28T16:21:56.949428+00:00",
+  "updated_at": "2026-06-28T18:11:26.104356+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "56b96969472f",
+        "title": "MARTINU Violinkonzert Nr. 2",
+        "summary": "MARTINU  Violinkonzert Nr. 2 Josef Suk (Violine) Tschechische Philharmonie Václav Neumann (1973).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bgxnj",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-28T17:10:19+00:00"
+      },
+      {
+        "id": "a16ad68e87ce",
+        "title": "MARTINU Violinkonzert Nr. 1",
+        "summary": "MARTINU  Violinkonzert Nr. 1 Josef Suk (Violine) Tschechische Philharmonie Václav Neumann (1973).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nbgx_20260628",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-28T17:05:51+00:00"
+      },
+      {
+        "id": "9b2f6af8d967",
+        "title": "Of Vines And Bondage",
+        "summary": "Summary: \"You've done well, Audric,\" Margot says, coming to stand next to him. Audric turns from surveying the crowd to look at his mother. She's stunning, as usual, the wooden crown of Silaise suiting her in a way he wonders if it ever will him....This item belongs to: audio/folksoundomy_podfic.Thi...",
+        "url": "https://archive.org/details/perilous-courts-of-vines-and-bondage",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-28T16:36:12+00:00"
+      },
+      {
+        "id": "6dbab78cdbeb",
+        "title": "quyen-3-chuong-35-suong-diep-hong-hac-ky-toi",
+        "summary": "No description available.This item belongs to: movies/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, MPEG4, Metadata, Thumbnail, h.264 IA",
+        "url": "https://archive.org/details/video_truyen-tinh-yeu-doc-truyen-online_chap_441311_1782661422_tg7l",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-06-28T15:46:28+00:00"
+      },
       {
         "id": "c1c40aba2bcb",
         "title": "DJ GABRIEL SOUND AO VIVO EM TAILANDIA ( LUCKS CLUB) 27 06 2026",
@@ -49,38 +81,6 @@
         "url": "https://archive.org/details/podfic-parallels-rage-bait-and-zombies",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-06-28T13:41:28+00:00"
-      },
-      {
-        "id": "b6477ee49440",
-        "title": "MARTINU Sämtliche Klavierwerke",
-        "summary": "MARTINU  Sämtliche Klavierwerke (1/2) Giorgio Koukl (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/ngchx",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-28T13:28:39+00:00"
-      },
-      {
-        "id": "6578d16ce712",
-        "title": "Fork In The Road, Fork In The Code",
-        "summary": "Written: https://archiveofourown.org/works/86325196 Podfic: https://archiveofourown.org/works/87538921 By atypicalowl With the level-headed patience cultivated by earning a doctorate degree, serving a lifetime career in planetary politics, and doing both while living with an incredibly large famil.....",
-        "url": "https://archive.org/details/fork-in-the-road-fork-in-the-code",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-28T12:14:54+00:00"
-      },
-      {
-        "id": "ffd99e391a09",
-        "title": "26-06-26",
-        "summary": "-ieter Acker: Septett (Archaeus Ensemble: Liviu Dănceanu); Moritz Eggert: \"Janus\" (Daria Iossifova, Moritz Eggert, Klavier); Burkhard Stangl: \"Mellow\" (Reinhilde Gamper, Leopold Hurt, Martin Mallaun, Zither); Karl Amadeus Hartmann: Sinfonie Nr....This item belongs to: audio/russian_classical_collect...",
-        "url": "https://archive.org/details/26-06-26",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-28T12:13:09+00:00"
-      },
-      {
-        "id": "2cde66da172e",
-        "title": "MARTINU Klavierwerke",
-        "summary": "MARTINU  Klavierwerke Emil Leichnert (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/bnv_20260628",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-06-28T11:25:57+00:00"
       },
       {
         "id": "47340c2d9cce",
@@ -725,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "b00f06c912d9",
+        "title": "Rare Fruits of the World",
+        "summary": "Durian, one of the few from the list that I have tried. image via Wikipedia &#160; Adafruit isn&#8217;t the only rare fruit out there. Luis Morato of Atlas Obscura compiled this list of global fruits that aren&#8217;t as common in your grocery isles. Each entry links to a full article on the fruit: ...",
+        "url": "https://blog.adafruit.com/2026/06/28/rare-fruits-of-the-world/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-06-28T17:22:31+00:00"
+      },
+      {
         "id": "c9c22e357b59",
         "title": "AI破解2000年前庞贝古卷！烧成灰烬的草纸内容，首次被机器学习完整破译",
         "summary": "AI 第一次让人类无需打开卷轴，就完整虚拟展开并阅读了一卷近 2,000 年前的古代卷轴。公元 79 年, 维苏威火山爆发，庞贝毁灭，在十几公里之外的古代海滨城市赫库兰尼姆（Herculaneum），一座私人图书馆被火山灰瞬间掩埋，其中数百卷莎草纸卷轴全部被烧成木炭。几个世纪以来，这些被烧毁的古代卷轴一直是个“未解之谜”。它们曾被埋藏在炽热的岩石、火山灰和熔岩之中，如今已高度碳化。自 1752 年被发现以来，人们曾尝试过各种方法来解读这些卷轴。例如尝试将它们剖开，用刀刮掉每层古老的纸张；或者在纸层间注入水银；又或者将它们浸泡在明胶和醋酸的混合物中……但是没有人敢将它们完全打开，因为这很有可能加...",
@@ -933,6 +941,14 @@
         "published": "2026-06-26T19:52:43+00:00"
       },
       {
+        "id": "8fc0ce7a243f",
+        "title": "Andrew Heath – Airships & Aeronauts",
+        "summary": "Imagine Andrew Heath pulling the leavers and watching the dials on an album dedicated to the early age of powered flight.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/heath-airships/",
+        "source": "Ambientblog",
+        "published": "2026-06-26T18:22:10+00:00"
+      },
+      {
         "id": "073edcde2836",
         "title": "WipperSnapper for Raspberry Pi, Learn Code Element Updates, and more. What’s new with Adafruit IO and the Adafruit Learning System.",
         "summary": "WipperSnapper for Raspberry Pi From Brent: WipperSnapper for Raspberry Pi (and Linux SBCs!) is shaping up to be the fastest way yet to connect a Raspberry Pi to Adafruit IO and start building. We&#8217;re putting the finishing touches on WipperSnapper for Raspberry Pi and Linux SBCs, and we&#8217;ve...",
@@ -963,14 +979,6 @@
         "url": "https://blog.adafruit.com/2026/06/26/the-python-on-microcontrollers-newsletter-subscribe-for-free-6-26/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-06-26T14:19:13+00:00"
-      },
-      {
-        "id": "46eddc533a5c",
-        "title": "What to Make to Bring Camping",
-        "summary": "Whether you&#8217;re in your living room, a backyard or National Park, camping there is definitely an opportunity to have a moment with a DIY build. Take a look at some of our picks for camp builds! LED Campfire Because it&#8217;s not camping without a fire Raspberry Pi Wearable Time Lapse Camera Di...",
-        "url": "https://blog.adafruit.com/2026/06/26/what-to-make-to-bring-camping/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-26T14:00:46+00:00"
       },
       {
         "id": "88853560ddf9",
@@ -1541,6 +1549,14 @@
         "published": "2026-06-22T14:12:06+00:00"
       },
       {
+        "id": "b8daf7fe85fa",
+        "title": "Corrado Maria De Santis – Treshold Of Light",
+        "summary": "'Night recedes, yet morning remains unseen': Corrado Maria De Santis' Treshold Of Light.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/desantis/",
+        "source": "Ambientblog",
+        "published": "2026-06-22T11:40:13+00:00"
+      },
+      {
         "id": "ec739b1f1e98",
         "title": "青春來接棒，新秀挑大樑 傳藝中心「民間戲臺」五檔傳統好戲暑期熱演！",
         "summary": "&nbsp; &nbsp; &nbsp; &nbsp;國立傳統藝術中心今（115）年暑假再度推出「民間戲臺－新秀展演計畫」，精選臺灣戲曲中心113、114年「承功&mdash;新秀舞臺」中5檔膾炙人口的經典劇目，由5位青年新秀演員自7月4日至8月16日於宜蘭園區蔣渭水演藝廳接力演出10場，齣齣兼有戲劇張力並考驗演員功力，劇情含括詼諧鬥智、愛恨情仇、忠肝義膽、英雄豪情以及愛情喜劇等多元風格，透過宜蘭園區豐富的文化觀光資源搭建的展演平臺，展現臺灣戲曲新生代接班人的舞臺實力與藝術活力。&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;國立傳統...",
@@ -1611,6 +1627,14 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2348",
         "source": "獨立出版聯盟網站",
         "published": "2026-06-19T00:00:00+00:00"
+      },
+      {
+        "id": "49f11eeb1aaf",
+        "title": "Variant – When The Universe Sleeps",
+        "summary": "The Quiet Details label celebrates its 50th release with an extended album of spacey 'Echospace-like' ambient music by Variant (Stephen Hitchell).\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/variant/",
+        "source": "Ambientblog",
+        "published": "2026-06-18T18:23:42+00:00"
       },
       {
         "id": "b76cf7218032",
@@ -1781,6 +1805,14 @@
         "published": "2026-06-15T00:00:00+00:00"
       },
       {
+        "id": "dd0ac8f66b00",
+        "title": "DreamScenes – June 2026",
+        "summary": "\"Et Sic In Infinitum\" - DreamScenes for June, 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-june-2026/",
+        "source": "Ambientblog",
+        "published": "2026-06-14T17:55:00+00:00"
+      },
+      {
         "id": "15a9ba016199",
         "title": "How the Hashtag Became the Way to Instantly Invite Literally Everyone Into the Conversation",
         "summary": "In the nascent days of Twitter, users wanted a quick way to cluster posts about a single subject. Someone suggested using a pound sign, and #TheRestIsHistory",
@@ -1835,6 +1867,14 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=257145",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-06-10T02:27:00+00:00"
+      },
+      {
+        "id": "477d591e6323",
+        "title": "Anthéne – Air Signs",
+        "summary": "Reflecting the stillness of natural surroundings in the midst of human made chaos: Anthéne's Air Signs.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/anthene/",
+        "source": "Ambientblog",
+        "published": "2026-06-09T14:49:07+00:00"
       },
       {
         "id": "2ee237854021",
@@ -1909,6 +1949,14 @@
         "published": "2026-06-05T00:00:00+00:00"
       },
       {
+        "id": "307473c32463",
+        "title": "Boduf Songs – Selected Instrumental Works",
+        "summary": "Boduf Songs' instrumental works are made to be listened to in low light and long shadows. \n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/bodufsongs/",
+        "source": "Ambientblog",
+        "published": "2026-06-04T07:35:00+00:00"
+      },
+      {
         "id": "ada69ef07f3e",
         "title": "The Moon map that made history",
         "summary": "The moon always has been an object of fascination for mankind, but once President John F. Kennedy pledged in 1961 that the U.S. would send a manned spacecraft there within a decade, one of the first questions was entirely practical: Where would they land? An extraordinary map, the USAF Lunar Wall Mo...",
@@ -1957,6 +2005,14 @@
         "published": "2026-05-31T20:20:17+00:00"
       },
       {
+        "id": "2216a8bdcc45",
+        "title": "Daniel Jolan – Sublime Lenteur",
+        "summary": "Daniel Jolan (also known as 't Geruis) presents Sublime Lenteur: 'amazing slowness' as part of Lost Tribe Sounds' 'Moss and Melee' series.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/daniel-jolan/",
+        "source": "Ambientblog",
+        "published": "2026-05-31T06:47:53+00:00"
+      },
+      {
         "id": "6aee6b02d3b5",
         "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
         "summary": "Gemini Omni & Gemini 3.5 hero",
@@ -1971,6 +2027,14 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=256036",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-05-28T01:09:00+00:00"
+      },
+      {
+        "id": "827b604f6232",
+        "title": "Werner Dafeldecker & Lawrence English – Fathom Tides",
+        "summary": "Lawrence English&#038; Werner Dafeldecker's detailed sound worlds on Fathom Tides remind us that our clocks are not those of the world around us.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dafeldecker-english/",
+        "source": "Ambientblog",
+        "published": "2026-05-27T07:26:44+00:00"
       },
       {
         "id": "4336fe3f1b3f",
@@ -1989,6 +2053,14 @@
         "published": "2026-05-26T18:15:29+00:00"
       },
       {
+        "id": "e163d9f28c8c",
+        "title": "Heÿkla – Echoes Of Loneliness",
+        "summary": "Heÿkla's Echoes Of Loneliness offers 13 tracks to 'drift though invisible places and discover beauty in quiet transformation'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/heykla/",
+        "source": "Ambientblog",
+        "published": "2026-05-24T08:59:13+00:00"
+      },
+      {
         "id": "e8e2a1690318",
         "title": "[東南亞週報320] 星更新AI戰略攜手OpenAI與Google推動應用落地、菲副總統薩拉再次遭彈劾、泰收緊免簽政策逾90國停留期縮短至30天防堵外籍犯罪",
         "summary": "[東南亞週報320] 星更新AI戰略攜手OpenAI與Google推動應用落地、菲副總統薩拉再次遭彈劾、泰收緊 [&#8230;]",
@@ -2003,6 +2075,14 @@
         "url": "https://blogs.loc.gov/loc/2026/05/rosanne-cash-a-family-history-in-the-national-recording-registry/",
         "source": "Timeless",
         "published": "2026-05-22T13:00:17+00:00"
+      },
+      {
+        "id": "5763b125caf1",
+        "title": "Ben Vida – Oblivion Seekers",
+        "summary": "Ben Vida's Oblivion Seekers defies existing genre definitions. Nót ambient music, but music with a strong ambient connection - and guaranteed to surprise.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/benvida/",
+        "source": "Ambientblog",
+        "published": "2026-05-20T17:20:13+00:00"
       },
       {
         "id": "2c683fcaa870",
@@ -2332,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-28T16:21:55.701153+00:00"
+        "published": "2026-06-28T18:11:24.095003+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-28T16:21:55.701143+00:00"
+        "published": "2026-06-28T18:11:24.094992+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-28T16:21:55.701133+00:00"
+        "published": "2026-06-28T18:11:24.094981+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-28T16:21:55.701123+00:00"
+        "published": "2026-06-28T18:11:24.094971+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-28T16:21:55.701112+00:00"
+        "published": "2026-06-28T18:11:24.094960+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-28T16:21:55.701102+00:00"
+        "published": "2026-06-28T18:11:24.094949+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-28T16:21:55.701091+00:00"
+        "published": "2026-06-28T18:11:24.094939+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-28T16:21:55.701081+00:00"
+        "published": "2026-06-28T18:11:24.094928+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-28T16:21:55.701071+00:00"
+        "published": "2026-06-28T18:11:24.094918+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-06-28T16:21:55.701061+00:00"
+        "published": "2026-06-28T18:11:24.094907+00:00"
       },
       {
         "id": "a1e92aebb4b0",
