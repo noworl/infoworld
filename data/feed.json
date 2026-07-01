@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-01T19:05:46.115321+00:00",
+  "updated_at": "2026-07-01T21:42:56.440694+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "89c8cc1faaf4",
+        "title": "MARTINU Sämtliche Orchesterwerke",
+        "summary": "MARTINU  Sämtliche Orchesterwerke (1/2).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/cb_20260701",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-01T20:09:10+00:00"
+      },
+      {
+        "id": "c51285877cf1",
+        "title": "quyen-6-chuong-73-nang-som-cung-gio-hoa-dai-cung-co-con-co-tien",
+        "summary": "No description available.This item belongs to: movies/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, MPEG4, Metadata, Thumbnail, h.264 IA",
+        "url": "https://archive.org/details/video_truyen-tinh-yeu-doc-truyen-online_chap_441542_1782931676_hR1h",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-01T18:50:50+00:00"
+      },
+      {
+        "id": "8cb8e7002756",
+        "title": "SET AO VIVO DJ GILVANILSON CARISMATICO NA SEGUNDA DO BALNEARIO CONCEIÇÃ O 2026",
+        "summary": "df.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-gilvanilson-carismatico-na-segunda-do-balneario-conceica-o-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-01T18:25:04+00:00"
+      },
       {
         "id": "30bbf95ac815",
         "title": "SET AO VIVO DJ GILVANILSON CARISMATICO NA QUADRA DO STALONE EM ABAETETUBA 2026",
@@ -153,30 +177,6 @@
         "url": "https://archive.org/details/DNALOUNGE-2026-06-29",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-01T05:05:42+00:00"
-      },
-      {
-        "id": "3c865e4ecabd",
-        "title": "UBradio Salon 963 - uB Tales From Beyond: The Sextant & The Windrose... 28 June 2026 on DFM.nu",
-        "summary": "2-hours of live improvised experimental radio sound-art broadcast live on location in Yosemite, CA-USA. Netcast on DFM Radio TV International (www.dfm.nu)  DFM RTV INT  28 JUNE 2026. UB Radio Salon 963 - uB Tales From Beyond: The Sextant & The Windrose......This item belongs to: audio/ubradio_salon....",
-        "url": "https://archive.org/details/ubradio_salon963",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-01T01:55:22+00:00"
-      },
-      {
-        "id": "3d29a6427ec6",
-        "title": "Wire - Fillmore - 9/9/02",
-        "summary": "Wire - Fillmore - 9/9/02.This item belongs to: audio/roiocollection.This item has files of the following types: AIFF, Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/wire-fillmore-9902",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-01T01:24:40+00:00"
-      },
-      {
-        "id": "ca81e11e32c6",
-        "title": "And Having A Marvelous Time 2.1",
-        "summary": "and having a marvelous time 2.1.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/and-having-a-marvelous-time-2.1",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-01T01:06:03+00:00"
       },
       {
         "id": "a15eaa1562c1",
@@ -725,6 +725,54 @@
     ],
     "破(day)": [
       {
+        "id": "04b805bb7692",
+        "title": "smolutils: like coreutils but smaller",
+        "summary": "Daniel Palmer has developed smolutils, &#8220;because for space constrained targets, even uclibc + busybox isn&#8217;t very usable due to space.&#8221; For nommu, every process loads its own copy of everything because there is no virtual addressing to allow sharing of common physical pages. So every...",
+        "url": "https://blog.adafruit.com/2026/07/01/smolutils-like-coreutils-but-smaller/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-01T20:47:49+00:00"
+      },
+      {
+        "id": "49f67d67ed98",
+        "title": "PiZZa: Arduino on the Raspberry Pi Zero 2 W",
+        "summary": "jetpax on GitHub has dropped PiZZa, running Arduino on the Raspberry Pi Zero 2 W. Write sketches in the Arduino IDE and run them on a Raspberry Pi Zero 2 W or the original Raspberry Pi Zero W. A small firmware on the SD card (a Zephyr &#8220;loader&#8221;) loads your compiled sketch as a runtime [&#...",
+        "url": "https://blog.adafruit.com/2026/07/01/pizza-arduino-on-the-raspberry-pi-zero-2-w/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-01T20:10:23+00:00"
+      },
+      {
+        "id": "09e3fd7dd769",
+        "title": "Remembering Victor Willis: How He Wrote the Disco Anthem “Y.M.C.A.”",
+        "summary": "-Victor Willis, the lead vocalist and primary songwriter for the Village People, died yesterday at the age of 74, his wife announced in a statement this morning. The Library inducted \"Y.M.C.A.\" into the National Recording Registry in 2020 and we caught up with him for a delightful phone interview. H...",
+        "url": "https://blogs.loc.gov/loc/2026/07/remembering-victor-willis-how-he-wrote-the-disco-anthem-y-m-c-a/",
+        "source": "Timeless",
+        "published": "2026-07-01T20:03:44+00:00"
+      },
+      {
+        "id": "475d7b8ed1e5",
+        "title": "Building and hiking with Wallace, the 6 inch f/2.8 telescope",
+        "summary": "Lucas Sifoni presents Wallace, a 153mm f/2.8 ultra-wide-field telescope that was built last year and shares more of the “outdoor” part of astronomy. I now spend a lot of time outside with running and hiking, and started to wonder how could I share that, the same question that emerged when I started ...",
+        "url": "https://blog.adafruit.com/2026/07/01/building-and-hiking-with-wallace-the-6-inch-f-2-8-telescope/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-01T19:32:59+00:00"
+      },
+      {
+        "id": "b34a44e1c7e4",
+        "title": "DS1881 – a clickless dual digital attenuator",
+        "summary": "The AUDIODiWHY blog writes: I&#8217;ve breadboarded digital potentiometers before, only to find they make an ugly, audible &#8220;click&#8221; when changing resistance values when used in 30hz-20Khz AC circuits. I recently stumbled upon an IC that purportedly does away with the click&#8211;Analog De...",
+        "url": "https://blog.adafruit.com/2026/07/01/ds1881-a-clickless-dual-digital-attenuator/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-01T19:12:50+00:00"
+      },
+      {
+        "id": "78ed8549c950",
+        "title": "The Adafruit IoT Monthly Newsletter for July 2026 is out NEXT WEEK, Subscribe Now!",
+        "summary": "The IoT Monthly newsletter is the best place to catch up on the latest news about the Internet of Things. We cover everything from projects to new protocols to industry news. 7,200+ readers and growing! This newsletter is only sent to your inbox once per month – don’t miss your chance to catch the J...",
+        "url": "https://blog.adafruit.com/2026/07/01/the-adafruit-iot-monthly-newsletter-for-july-2026-is-out-next-week-subscribe-now/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-01T19:00:22+00:00"
+      },
+      {
         "id": "4280f11b27ef",
         "title": "LAMPy: a connected RGB lantern",
         "summary": "LAMPy is a MicroPython-based RGB lantern controller. It is first and foremost a software project, meaning it can run on many different hardware implementations. The only hard requirements are an ESP32 board with an antenna, a WS2812 (NeopPixel) LED strip, and a push button. Features Adjustable brigh...",
@@ -781,44 +829,12 @@
         "published": "2026-07-01T15:00:50+00:00"
       },
       {
-        "id": "31803e380457",
-        "title": "Sandia National Labs SA3000 8085 CPU",
-        "summary": "The CPUShack Museum writes that back in the late 1970’s and early 1980’s Sandia National Laboratory (in Albuquerque, New Mexico) began building the capacity to design, fab, and test IC’s at scale (packaging was handled by Fairchild and Allied Signal). Why would a National Laboratory need the capacit...",
-        "url": "https://blog.adafruit.com/2026/07/01/sandia-national-labs-sa3000-8085-cpu/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-01T14:37:03+00:00"
-      },
-      {
-        "id": "3ae00997a241",
-        "title": "Adafruit’s Top 10 Blog Posts of June 2026 #StateOfTheFruit #AdafruitTopTen",
-        "summary": "1. Open for Business, Open for the Future 2. Track Planes on Your Ceiling in Real Time https://www.youtube.com/shorts/3j3-6eH3lxY?feature=share 3. Putting a datacenter GPU in a gaming PC for £200 ($268) 4. Plane Spotter — a Tactical ADS-B Desk Radar (ESP8266 + 1 Inch OLED) 5. Detailed CT scanner ima...",
-        "url": "https://blog.adafruit.com/2026/07/01/adafruits-top-10-blog-posts-of-june-2026-stateofthefruit-adafruittopten/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-01T14:30:19+00:00"
-      },
-      {
-        "id": "b01d379449ad",
-        "title": "NYPL and TALEA Present Liberty Lager #4thOfJuly",
-        "summary": "image via Talea Beer Co. &#160; TALEA and NYPL are really giving New Yorkers the chance to celebrate like it&#8217;s 1776 with Liberty Lager, a brew inspired by George Washington&#8217;s hand written small beer recipe in the library&#8217;s archives. Read more from NYPL and use TALEA&#8217;s beer fi...",
-        "url": "https://blog.adafruit.com/2026/07/01/nypl-and-talea-present-liberty-lager-4thofjuly/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-01T14:00:14+00:00"
-      },
-      {
         "id": "b154109029cf",
         "title": "The Guilty review – Russell Tovey is commanding in cop thriller that fills you with dread",
         "summary": "Donmar Warehouse, LondonTovey plays a lone officer in a control room dragged into a mysterious case in this gripping drama directed by Punchdrunk’s Felix BarrettThe Donmar has had mixed results adapting leftfield films such as Force Majeure and The Fear of 13. But this production, based on the 2018 ...",
         "url": "https://www.theguardian.com/stage/2026/jul/01/the-guilty-review-russell-tovey-donmar-warehouse-london",
         "source": "Stage | The Guardian",
         "published": "2026-07-01T12:52:56+00:00"
-      },
-      {
-        "id": "6426e50bb092",
-        "title": "NEW GUIDE: Adafruit ADS7128 8-Channel ADC and GPIO Expander #AdafruitLearningSystem @Adafruit",
-        "summary": "The Adafruit ADS7128 8-Channel ADC and GPIO Expander is a bit of a Platypus of the I2C expander world: hard to categorize as just an ADC or a GPIO expander since it combines the capabilities of both! Featuring the aforementioned ADS7128, it can run on 3.3 or 5V logic and power, and all 8 I/O [&#8230...",
-        "url": "https://blog.adafruit.com/2026/07/01/new-guide-adafruit-ads7128-8-channel-adc-and-gpio-expander-adafruitlearningsystem-adafruit/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-01T12:45:32+00:00"
       },
       {
         "id": "d5bba4169c65",
@@ -955,14 +971,6 @@
         "url": "https://www.transglobalwmc.com/charts/twmc-july-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-06-30T21:57:46+00:00"
-      },
-      {
-        "id": "0c5ab9e30687",
-        "title": "NEW LEARN GUIDE: USB Morse Code Key with CircuitPython #CircuitPython #AdafruitLearningSystem @Adafruit",
-        "summary": "&#160; The TinyUSB library underpins many CircuitPython&#8217;s USB capabilities. It&#8217;s what lets CircuitPython act as a storage drive, CDC, HID, MIDI and more. Starting with version 10.3.0-alpha.3 CircuitPython has added support for USB audio types. This guide demonstrates usage of the USB mic...",
-        "url": "https://blog.adafruit.com/2026/06/30/new-learn-guide-usb-morse-code-key-with-circuitpython-circuitpython-adafruitlearningsystem-adafruit/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-06-30T21:05:54+00:00"
       },
       {
         "id": "089ccdcf096f",
@@ -2133,14 +2141,6 @@
         "published": "2026-05-23T22:24:28+00:00"
       },
       {
-        "id": "e1e298def0ee",
-        "title": "Rosanne Cash: A family history in the National Recording Registry",
-        "summary": "When there’s a statue of your dad on Capitol Hill, it’s probably inevitable that you think about things like history and legacy and preservation, so Rosanne Cash was particularly moved when one of her albums was inducted into the National Recording Registry a few days ago. The singer-songwriter daug...",
-        "url": "https://blogs.loc.gov/loc/2026/05/rosanne-cash-a-family-history-in-the-national-recording-registry/",
-        "source": "Timeless",
-        "published": "2026-05-22T13:00:17+00:00"
-      },
-      {
         "id": "2c683fcaa870",
         "title": "麥藍堤亞Mailantia舞團 2026年 年度製作《UNDER MASK》",
         "summary": "麥藍堤亞Mailantia舞團2026年 年度製作《UNDER MASK》 / 【節目介紹】 / 《UNDER [&#8230;]",
@@ -2412,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-01T19:05:44.972410+00:00"
+        "published": "2026-07-01T21:42:55.267960+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-01T19:05:44.972405+00:00"
+        "published": "2026-07-01T21:42:55.267950+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-01T19:05:44.972399+00:00"
+        "published": "2026-07-01T21:42:55.267940+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-01T19:05:44.972393+00:00"
+        "published": "2026-07-01T21:42:55.267930+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-01T19:05:44.972387+00:00"
+        "published": "2026-07-01T21:42:55.267920+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-01T19:05:44.972381+00:00"
+        "published": "2026-07-01T21:42:55.267909+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-01T19:05:44.972376+00:00"
+        "published": "2026-07-01T21:42:55.267899+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-01T19:05:44.972370+00:00"
+        "published": "2026-07-01T21:42:55.267888+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-01T19:05:44.972365+00:00"
+        "published": "2026-07-01T21:42:55.267878+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-01T19:05:44.972359+00:00"
+        "published": "2026-07-01T21:42:55.267868+00:00"
       },
       {
         "id": "b7e52a26e167",
@@ -2521,7 +2521,7 @@
       {
         "id": "a23b5e32efa2",
         "title": "Introducing the Vanishing Culture Podcast Series: Exploring What We Stand to Lose",
-        "summary": "First episode will be out July 1, 2026! We will update this page as new episodes are released. Vanishing Culture is a special six-part series from the Future Knowledge podcast, [&#8230;]",
+        "summary": "Vanishing Culture is a special six-part series from the Future Knowledge podcast, produced by the Internet Archive and Authors Alliance, exploring what happens when our shared cultural heritage disappears, and [&#8230;]",
         "url": "https://blog.archive.org/2026/06/30/introducing-the-vanishing-culture-podcast-series-exploring-what-we-stand-to-lose/",
         "source": "Internet Archive Blogs",
         "published": "2026-06-30T14:57:28+00:00"
@@ -2613,6 +2613,14 @@
         "url": "https://blog.archive.org/2026/06/22/government-information-belongs-to-everyone-democracys-library-in-2026/",
         "source": "Internet Archive Blogs",
         "published": "2026-06-22T13:00:04+00:00"
+      },
+      {
+        "id": "70b916c20885",
+        "title": "[知音分享會]06.24 風聲雨聲曲盤聲 用媽祖故事遮風擋雨",
+        "summary": "各位知音們好，經歷了剛入梅的一連串風雨， [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8306-24-%e9%a2%a8%e8%81%b2%e9%9b%a8%e8%81%b2%e6%9b%b2%e7%9b%a4%e8%81%b2-%e7%94%a8%e5%aa%bd%e7%a5%96%e6%95%85%e4%ba%8b%e9%81%ae%e9%a2%a8%e6%93%8b%e9%9b%a8/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-06-17T07:11:38+00:00"
       },
       {
         "id": "8ade010001cd",
@@ -2799,6 +2807,14 @@
         "published": "2026-05-07T20:15:38+00:00"
       },
       {
+        "id": "20ea57f6b4fd",
+        "title": "[知音分享會]05.13 來自日治時期的繞境邀約 跟歌仔戲一起「痟」媽祖",
+        "summary": "燃燒整座島嶼的三月媽祖熱漸漸停歇，輪到我 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8305-13-%e4%be%86%e8%87%aa%e6%97%a5%e6%b2%bb%e6%99%82%e6%9c%9f%e7%9a%84%e7%b9%9e%e5%a2%83%e9%82%80%e7%b4%84-%e8%b7%9f%e6%ad%8c%e4%bb%94%e6%88%b2%e4%b8%80/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-04-30T09:31:21+00:00"
+      },
+      {
         "id": "4dec0cbc2fc3",
         "title": "埃及駐日本大使禮節性訪問民音",
         "summary": "2026年4月17日，阿拉伯埃及共和國駐日本特命全權大使拉吉·穆罕默德·穆罕默德·埃萊特雷比閣下，在阿拉伯埃及 [&#8230;]",
@@ -2871,6 +2887,14 @@
         "published": "2026-04-15T17:09:52+00:00"
       },
       {
+        "id": "1b0da56e8ea0",
+        "title": "台南有樂町－臺灣歌謠音樂論壇",
+        "summary": "｡ﾟ♫*台南有樂町－臺灣歌謠音樂論壇♫* [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e5%8f%b0%e5%8d%97%e6%9c%89%e6%a8%82%e7%94%ba%ef%bc%8d%e8%87%ba%e7%81%a3%e6%ad%8c%e8%ac%a0%e9%9f%b3%e6%a8%82%e8%ab%96%e5%a3%87/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-04-15T02:23:53+00:00"
+      },
+      {
         "id": "5c79251d63b8",
         "title": "Carlos Guedes Presents MaSC Research at Universitat Pompeu Fabra’s Music Technology Group",
         "summary": "April, 2026 Online At the invitation of the Music Technology Group at Universitat Pompeu Fabra, Carlos Guedes delivered an online seminar on April 10, 2026, titled “Discovering Unrecorded Music: Challenges [&#8230;]",
@@ -2893,6 +2917,22 @@
         "url": "https://www.ethanhein.com/wp/2026/the-gospel-according-to-aretha/",
         "source": "The Ethan Hein Blog",
         "published": "2026-03-31T14:06:35+00:00"
+      },
+      {
+        "id": "f9d812fe9442",
+        "title": "【2026臺灣音樂學論壇】徵稿啟事",
+        "summary": "音樂的傳統與未來 ─2026臺灣音樂學會 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e3%80%902026%e8%87%ba%e7%81%a3%e9%9f%b3%e6%a8%82%e5%ad%b8%e8%ab%96%e5%a3%87%e3%80%91%e5%be%b5%e7%a8%bf%e5%95%9f%e4%ba%8b/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-03-31T09:04:09+00:00"
+      },
+      {
+        "id": "3ac629916172",
+        "title": "[知音分享會]04.08 春暖花開四月天，分享會的誠摯邀約",
+        "summary": "國曆三月漸漸走到了尾聲，讓台灣全島動起來 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8304-08-%e6%98%a5%e6%9a%96%e8%8a%b1%e9%96%8b%e5%9b%9b%e6%9c%88%e5%a4%a9%ef%bc%8c%e5%88%86%e4%ba%ab%e6%9c%83%e7%9a%84%e8%aa%a0%e6%91%af%e9%82%80%e7%b4%84/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-03-31T07:54:48+00:00"
       },
       {
         "id": "bc3ee037d342",
@@ -2965,6 +3005,14 @@
         "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/26/carlos-guedes-releases-new-album-time-poetries/",
         "source": "Music and Sound Cultures",
         "published": "2026-02-26T10:11:32+00:00"
+      },
+      {
+        "id": "852680d1f6d7",
+        "title": "[知音分享會]03.09 新正年來《千金》到 《萬項事業》好彩頭",
+        "summary": "知音好友們新年快樂，雖然已經開工上班，但 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e6%96%b0%e6%ad%a3%e5%b9%b4%e4%be%86%e3%80%8a%e5%8d%83%e9%87%91%e3%80%8b%e5%88%b0-%e3%80%8a%e8%90%ac%e9%a0%85%e4%ba%8b%e6%a5%ad%e3%80%8b%e5%a5%bd%e5%bd%a9%e9%a0%ad/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-02-26T01:11:32+00:00"
       },
       {
         "id": "f9de4cde9617",
@@ -3047,6 +3095,14 @@
         "published": "2026-01-30T11:10:55+00:00"
       },
       {
+        "id": "61649d92d6e6",
+        "title": "[知音分享會]02.11 在春節前找到幸福！《一女兩聘》最終回",
+        "summary": "年關將近，不知道各位知音朋友是正忙著採辦 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e5%9c%a8%e6%98%a5%e7%af%80%e5%89%8d%e6%89%be%e5%88%b0%e5%b9%b8%e7%a6%8f%ef%bc%81%e3%80%8a%e4%b8%80%e5%a5%b3%e5%85%a9%e8%81%98%e3%80%8b%e6%9c%80%e7%b5%82%e5%9b%9e/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-01-30T05:41:48+00:00"
+      },
+      {
         "id": "8f74ed474021",
         "title": "遊戲與動漫的轉生術 — — 跨媒介改編中的認知基模",
         "summary": "遊戲與動漫的轉生術 — — 跨媒介改編中的認知基模本集來賓/李政忠（中正大學傳播學系副教授）製作/吳思嬋 楊家瑜https://medium.com/media/3ac6c27738f5ef2070e89767f5ebdf82/href（圖片來源：https://www.pexels.com/zh-tw/photo/31166720/）從漫畫轉為動畫 觀眾期待落差在當代豐富的文化娛樂版圖中，將一個故事從一種媒介形式轉換到另一種形式（例如：漫畫改編為動畫、小說改編為影視、電玩改編為電影）已成為一種常見且重要的創作趨勢。這種「跨媒介敘事」（Transmedia Storytelling）不僅是商業...",
@@ -3063,6 +3119,14 @@
         "published": "2026-01-12T23:05:20+00:00"
       },
       {
+        "id": "7c34e92268b0",
+        "title": "臺灣音聲一百年大更新！",
+        "summary": "賀更新、長尾巴！ 要變身為「臺灣音聲一百 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e8%87%ba%e7%81%a3%e9%9f%b3%e8%81%b2%e4%b8%80%e7%99%be%e5%b9%b4%e5%a4%a7%e6%9b%b4%e6%96%b0%ef%bc%81/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2026-01-05T06:35:48+00:00"
+      },
+      {
         "id": "38b145d04cc8",
         "title": "誰逼得張文父母下跪道歉？— 當新聞媒體成了「追殺者」，無冕王良心何在？",
         "summary": "文/W（現任電視新聞主播）(圖片由AI生成)「大家好，我們是張文的爸爸跟媽媽，張文所犯下的滔天大禍，對於社會造成嚴重的損害，以及對受害人及其家屬造成無法彌補的傷害和痛苦，我們想在此向大家說：對不起！對不起！」接連說出多次對不起，北市隨機攻擊事件兇嫌-張文的父親，拿出預先擬好的紙條，在數十家的新聞媒體面前，宣讀道歉內容，接著鞠躬、下跪，公開道歉。身為電視台主播，在鏡頭前播到這條新聞，一字一句都無比揪心，看著現場傳回來的畫面，眼淚不爭氣地掉了下來。究竟是誰逼得他們下跪，是受害者家屬？是社會輿論？還是新聞媒體？此刻的我，彷彿成了共犯⋯⋯當張文父母於台北殯儀館下跪道歉之後，包括公廣集團在內的好幾家電視...",
@@ -3077,6 +3141,14 @@
         "url": "https://medium.com/@ccs.popcom/%E5%8C%97%E6%8D%B7%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6%E4%B9%8B%E5%A0%B1%E5%B0%8E%E5%80%AB%E7%90%86-62627d467471?source=rss-17c1c85be06b------2",
         "source": "Stories by 爆米花傳播學 on Medium",
         "published": "2025-12-30T00:49:21+00:00"
+      },
+      {
+        "id": "b5621e21c540",
+        "title": "[知音分享會]01.14  訂婚鬧雙包？《一女兩聘》知音分享會",
+        "summary": "天底下哪有這種事！夫婦兩人感情不睦，居然 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e8%a8%82%e5%a9%9a%e9%ac%a7%e9%9b%99%e5%8c%85%ef%bc%9f%e3%80%8a%e4%b8%80%e5%a5%b3%e5%85%a9%e8%81%98%e3%80%8b%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%83/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-12-29T06:41:42+00:00"
       },
       {
         "id": "1f1184a28740",
@@ -3159,6 +3231,22 @@
         "published": "2025-12-08T02:25:16+00:00"
       },
       {
+        "id": "de8670c10d80",
+        "title": "fifteen years of from scratch",
+        "summary": "15 years of From Scratch, streaming live coding performances from around the world, December 6th to 8th 2025. View line &#8230; More",
+        "url": "https://blog.toplap.org/2025/12/05/fifteen-years-of-from-scratch/",
+        "source": "TOPLAP",
+        "published": "2025-12-05T15:27:48+00:00"
+      },
+      {
+        "id": "6076c51c1ff6",
+        "title": "Compassion through algorithms vol III",
+        "summary": "Just released, &#8220;Compassion through algorithms volume III&#8221; &#8211; a huge 55 track album full of really great music and noise &#8230; More",
+        "url": "https://blog.toplap.org/2025/12/05/compassion-through-algorithms-vol-iii/",
+        "source": "TOPLAP",
+        "published": "2025-12-05T10:00:16+00:00"
+      },
+      {
         "id": "6868930c6b41",
         "title": "Instant Supercompute: Launching Wolfram Compute Services",
         "summary": "To immediately enable Wolfram Compute Services in Version 14.3 Wolfram Desktop systems, run RemoteBatchSubmissionEnvironment[\"WolframBatch\"]. (The functionality is automatically available in the Wolfram Cloud.) Scaling Up Your Computations Let’s say you’ve done a computation in Wolfram Language. And...",
@@ -3175,12 +3263,28 @@
         "published": "2025-12-02T07:00:00+00:00"
       },
       {
+        "id": "87594af89d26",
+        "title": "[知音分享會]12.10 千金譜特輯與《林投姐》最終回",
+        "summary": "「字是隨身寶，財是國家珍，一字值千金，千 [&#8230;]\nSource",
+        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8312-10-%e5%8d%83%e9%87%91%e8%ad%9c%e7%89%b9%e8%bc%af%e8%88%87%e3%80%8a%e6%9e%97%e6%8a%95%e5%a7%90%e3%80%8b%e6%9c%80%e7%b5%82%e5%9b%9e/",
+        "source": "最新消息 – 臺灣音聲100年",
+        "published": "2025-12-01T06:20:24+00:00"
+      },
+      {
         "id": "74f8297afe08",
         "title": "Just Ask the Axis: Jimi Hendrix Unpicked",
         "summary": "How Jimi Hendrix broke the axes of music.",
         "url": "https://www.miltonline.com/2025/11/22/just-ask-the-axis-jimi-hendrix-unpicked/",
         "source": "Miltonline",
         "published": "2025-11-22T22:08:47+00:00"
+      },
+      {
+        "id": "21ea0a56219e",
+        "title": "Live code stream for Palestine",
+        "summary": "In ~ 1 hour for now, a 24 hour stream of 96 performance slots will begin, to make music together &#8230; More",
+        "url": "https://blog.toplap.org/2025/11/21/live-code-stream-for-palestine/",
+        "source": "TOPLAP",
+        "published": "2025-11-21T23:09:18+00:00"
       },
       {
         "id": "e51bc19d39ac",
@@ -3279,6 +3383,14 @@
         "published": "2025-09-15T19:20:59+00:00"
       },
       {
+        "id": "70229ca11e7c",
+        "title": "Alpaca Festival and Conference 2025",
+        "summary": "We’re happy to be hosting Alpaca Festival in Sheffield from 12-14th September 2025, exploring a wide variety of algorithmic patterns &#8230; More",
+        "url": "https://blog.toplap.org/2025/09/06/alpaca-festival-and-conference-2025/",
+        "source": "TOPLAP",
+        "published": "2025-09-06T10:27:23+00:00"
+      },
+      {
         "id": "08d44c362b05",
         "title": "Summary of changes for August 2025",
         "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of August.\n\n\n\n\n  Wiktopher, updated songs.\n  100r.ca, updated cast iron cookware(seasoning oil suggestions).\n  Punk Rabbits, completed 15 new rabbits(#19-34).\n  Orca, pushed a little update that includes the...",
@@ -3295,12 +3407,28 @@
         "published": "2025-08-14T22:05:53+00:00"
       },
       {
+        "id": "cbefa7596820",
+        "title": "Click Nilson’s Collected Rewritings (1000th edition)",
+        "summary": "The much expanded 1000th edition of Click Nilson&#8217;s book Collected Rewritings has just been released (free download). As one of &#8230; More",
+        "url": "https://blog.toplap.org/2025/08/12/click-nilsons-collected-rewritings-1000th-edition/",
+        "source": "TOPLAP",
+        "published": "2025-08-12T11:20:03+00:00"
+      },
+      {
         "id": "989d36798072",
         "title": "Sensing the Forest: Two Ongoing Datasets from DIY Streamers at Alice Holt Forest, UK",
         "summary": "[Guest blog post by Anna Xambó on behalf of the Sensing the Forest Team] Sensing the Forest (StF) is a project funded by the UKRI Arts and Humanities Research Council. Our goal is to raise awareness among forest visitors, artists, &#8230; Continue reading &#8594;",
         "url": "https://blog.freesound.org/?p=2248",
         "source": "The Freesound Blog",
         "published": "2025-07-02T12:36:09+00:00"
+      },
+      {
+        "id": "d041f8db200f",
+        "title": "Introducing:  Syntə",
+        "summary": "I was recently able to finish the process of porting (ability to run on different operating systems) so we&#8217;re now &#8230; More",
+        "url": "https://blog.toplap.org/2025/06/08/introducing-synt%c9%99/",
+        "source": "TOPLAP",
+        "published": "2025-06-08T21:28:27+00:00"
       },
       {
         "id": "a32c959ec3d4",
@@ -3327,6 +3455,14 @@
         "published": "2025-03-11T07:58:49+00:00"
       },
       {
+        "id": "499cb5af49b3",
+        "title": "Call for Baltic Live Coders",
+        "summary": "The annual festival Sound Days in Liepāja (Latvia) is calling out to all Baltic live coders, and anyone who is &#8230; More",
+        "url": "https://blog.toplap.org/2025/01/21/call-for-baltic-live-coders/",
+        "source": "TOPLAP",
+        "published": "2025-01-21T11:57:12+00:00"
+      },
+      {
         "id": "770b64eeefe1",
         "title": "Magical Mystery Tour",
         "summary": "A musical theoretical tour of the Beatles and their stylistic, lyrical, rhythmic, harmonic and technological invention.",
@@ -3335,12 +3471,36 @@
         "published": "2025-01-18T17:44:27+00:00"
       },
       {
+        "id": "b24f6cd265d2",
+        "title": "Solstice stream 2024 – Call for live coders!",
+        "summary": "We&#8217;re looking for 100+ live coders to each contribute a live 15 minute performance to the online TOPLAP solstice stream, &#8230; More",
+        "url": "https://blog.toplap.org/2024/12/09/solstice-stream-2024/",
+        "source": "TOPLAP",
+        "published": "2024-12-09T16:15:32+00:00"
+      },
+      {
+        "id": "845159e7f4d4",
+        "title": "Call for hosts: International Conference on Live Coding 2026 – deadline extended",
+        "summary": "Live coding refers to the creation and modification of algorithms with a creative purpose in real time often in the &#8230; More",
+        "url": "https://blog.toplap.org/2024/12/04/call-for-hosts-international-conference-on-live-coding-2026/",
+        "source": "TOPLAP",
+        "published": "2024-12-04T12:05:45+00:00"
+      },
+      {
         "id": "220d99bc854f",
         "title": "Bach’s Invention",
         "summary": "",
         "url": "https://www.miltonline.com/2024/11/19/bachs-invention/",
         "source": "Miltonline",
         "published": "2024-11-19T21:02:55+00:00"
+      },
+      {
+        "id": "e32d30bd4c02",
+        "title": "Creating a Livecoding Workshop for Kids",
+        "summary": "Introduction In September 2024, I embarked on my first major livecoding workshop project in a couple of years, in conjunction &#8230; More",
+        "url": "https://blog.toplap.org/2024/11/12/creating-a-livecoding-workshop-for-kids/",
+        "source": "TOPLAP",
+        "published": "2024-11-12T20:00:24+00:00"
       },
       {
         "id": "25dc7a949635",
