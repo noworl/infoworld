@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-02T16:56:33.875687+00:00",
+  "updated_at": "2026-07-02T18:41:27.641924+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "4686d1834925",
+        "title": "MARTINU Orchesterwerke",
+        "summary": "MARTINU  Orchesterwerke.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/nbxvnh",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-02T17:33:43+00:00"
+      },
       {
         "id": "2d0224ad7762",
         "title": "民主剛果伊波拉疫情逾400死　東北部大城爆首例確診",
@@ -13,7 +21,7 @@
       {
         "id": "e79b506d2acc",
         "title": "MARTINU Sämtliche Orchesterwerke",
-        "summary": "MARTINU  Sämtliche Orchesterwerke (2/2).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
+        "summary": "MARTINU  Sämtliche Orchesterwerke (2/2).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/nbnx_20260702",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-02T14:45:30+00:00"
@@ -161,14 +169,6 @@
         "url": "https://archive.org/details/Dance-Department-27.06.2026",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-02T06:07:23+00:00"
-      },
-      {
-        "id": "a1e2f3b164d1",
-        "title": "MDR Sputnik Dein Abend (26.06.2026)",
-        "summary": "Mit Musik von Gustav Chapo 102, Myles Smith, Sonny Fodera & D.O.D Featuring Poppy Baskcomb, Teddy Swims und vielen anderen Hier sind die Musikfreunde zuhause.This item belongs to: audio/saviour1981mixes.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, ...",
-        "url": "https://archive.org/details/mdr-sputnik-dein-abend-26.06.2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-02T06:07:06+00:00"
       },
       {
         "id": "ee5bafb89e4d",
@@ -491,86 +491,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -805,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "37f3512ec1ee",
+        "title": "Blackberry Pi Handheld Cyberdeck #3DPrinting #3DThursday",
+        "summary": "imbalence shares: A retro-style Pi-powered handheld designed by IMBalENce — featured by Tom Nardi on Hackaday — that channels the form factor of a Blackberry. Compact, BlackBerry-keyboard-inspired ergonomics, ideal for portable Linux tinkering. Full project writeup linked from the model page downloa...",
+        "url": "https://blog.adafruit.com/2026/07/02/blackberry-pi-handheld-cyberdeck-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-02T18:00:32+00:00"
+      },
+      {
         "id": "99214cd40267",
         "title": "Cyberdeck Raspberry Pi 4/5 – Mini Music Workstation #3DPrinting #3DThursday",
         "summary": "chrisicksix shares: A Raspberry Pi 4-powered cyberdeck designed as a mini music workstation, with a Teensy 4.1 integrated to run headless M8 tracker. Houses a Pi 4, 10,000mAh battery, 800×480 Waveshare DSI screen, and Rii Mini X1 keyboard. The QWERTY can also function as piano keys. Both easy (no-so...",
@@ -965,14 +893,6 @@
         "published": "2026-07-02T08:40:00+00:00"
       },
       {
-        "id": "4f76a7bef99b",
-        "title": "Soldering Tool Stand #3DPrinting #3DThursday",
-        "summary": "fabianolczakk shares: This 3D-printed organizer and stand is designed specifically for electronics and PCB work, perfect for keeping soldering tools and components neatly organized. It includes designated spaces for various tools, making it an essential addition to any workstation. download the file...",
-        "url": "https://blog.adafruit.com/2026/07/02/soldering-tool-stand-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-02T08:00:17+00:00"
-      },
-      {
         "id": "d8f17ca618e4",
         "title": "現場》當青年唸出白色恐怖裡的名字：北中南讀劇，在演出中靠近受難者生命 ft. 再見1987",
         "summary": "5月17日午後，陽光穿過台博館南門園區，小白宮內聚集了來自北、中、南三地的青年。他們以讀劇形式，輪番演出與白色恐怖歷史相關的多個劇本。\n「開史・讀劇——北中南青年讀劇」演出計畫為「挖掘在地歷史運動」的519白色恐怖記憶日系列活動之一，與公視即將在8月上映的《再見1987》戲劇團隊攜手合作。計畫以培力的方式於北、中、南三地辦理為期2到3個月的工作坊。\n\n北部團隊以東吳大學政治系學生與大安高工學生為主體，中部則以探霧者工作隊為核心組成。北部與中部的參與者，多為缺乏戲劇經驗的素人，而南部團隊為府城「青少年扮戲計畫」的參與者，曾受專業劇團「影響・新劇場」訓練。\n➤從不熟讀劇，到修改無數次劇本 ft. ...",
@@ -1029,6 +949,14 @@
         "published": "2026-07-02T00:10:44+00:00"
       },
       {
+        "id": "a1fcb9f80ec9",
+        "title": "Giving admins more visibility and control over Claude spend",
+        "summary": "Giving admins more visibility and control over Claude spend",
+        "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
+        "source": "Claude Blog",
+        "published": "2026-07-02T00:00:00+00:00"
+      },
+      {
         "id": "09e3fd7dd769",
         "title": "Remembering Victor Willis: How He Wrote the Disco Anthem “Y.M.C.A.”",
         "summary": "-Victor Willis, the lead vocalist and primary songwriter for the Village People, died yesterday at the age of 74, his wife announced in a statement this morning. The Library inducted \"Y.M.C.A.\" into the National Recording Registry in 2020 and we caught up with him for a delightful phone interview. H...",
@@ -1043,6 +971,38 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
         "source": "Google DeepMind",
         "published": "2026-07-01T18:15:00+00:00"
+      },
+      {
+        "id": "0a9b1f608315",
+        "title": "基隆河取水口違法排汙非個案，上游遍布汙染工廠成50萬人飲用水未爆彈",
+        "summary": "去年底基隆河上游發生嚴重油汙事件，環保局清查發現上游保護區內有3家業者違法排汙；《報導者》整理過去5年裁罰資料，保護區內至少發生過10起違規案件，沿岸密布加油站、倉儲、工廠等汙染源，威脅居民用水安全。",
+        "url": "https://www.twreporter.org/a/tracking-pollution-sources-of-drinking-water-keelung",
+        "source": "報導者",
+        "published": "2026-07-01T16:00:00+00:00"
+      },
+      {
+        "id": "e47d2c20c49b",
+        "title": "高雄人不喝自來水？上游劃設全台最大保護區，高屏溪仍陷水質信任危機",
+        "summary": "自來水公司一直強調高雄地區自來水符合飲用水標準，但無論是原水、清水、鳳山水庫水質，都是全國最差。記者比較各地水質監測資訊、爬梳高雄汙染歷史與高屏溪下游利用現況，試圖了解高雄自來水的問題根源。",
+        "url": "https://www.twreporter.org/a/tracking-pollution-sources-of-drinking-water-kaohsiung",
+        "source": "報導者",
+        "published": "2026-07-01T16:00:00+00:00"
+      },
+      {
+        "id": "f751f21f5862",
+        "title": "護國群山下，爭一口乾淨水：新竹居民長年監測，訴求鳳山溪劃保護區",
+        "summary": "供應新竹地區83萬人飲用水的頭前溪，雖早已劃設自來水保護區，但仍持續有工業廢水、民生汙水流入；北側的鳳山溪，全流域更未劃設保護區，近年汙染頻傳。新竹居民積極監測河川，期待鳳山溪盡快劃設保護區，讓水質不再惡化。",
+        "url": "https://www.twreporter.org/a/tracking-pollution-sources-of-drinking-water-hsinchu",
+        "source": "報導者",
+        "published": "2026-07-01T16:00:00+00:00"
+      },
+      {
+        "id": "77bba499e56c",
+        "title": "互動式地圖揭10大風險流域：全台59處取水口上游疑未設保護區、汙染工廠逾300家",
+        "summary": "多數人以為自來水來自水庫，但其實更常取自河川水。隨著氣候變遷加劇，我們更加仰賴河川供水，但《報導者》透過圖資套疊，發現有近四分之一自來水上游未設保護區，就算劃設也未妥善管理。",
+        "url": "https://www.twreporter.org/a/data-reporter-tracking-pollution-sources-of-drinking-water",
+        "source": "報導者",
+        "published": "2026-07-01T16:00:00+00:00"
       },
       {
         "id": "d7057fbcf33b",
@@ -1757,44 +1717,12 @@
         "published": "2026-06-23T16:16:05+00:00"
       },
       {
-        "id": "8571f8901ae6",
-        "title": "10年近200人被伴侶殺害：亞洲第一的保護令28年後，為何仍無法阻絕親密關係暴力？",
-        "summary": "相較於美國以「預防犯罪」的角度看待親密關係暴力，台灣的通報系統卻建立在「民事先行」的制度設計中，手無寸鐵的社工心有餘而力不足，悲劇往往就在空窗期發生⋯⋯",
-        "url": "https://www.twreporter.org/a/intimate-partner-violence-1",
-        "source": "報導者",
-        "published": "2026-06-23T16:00:00+00:00"
-      },
-      {
-        "id": "124c395e2f3c",
-        "title": "被迫噤聲不是你的錯：平均隱忍4.2年，台灣親密關係暴力倖存者的復原之路",
-        "summary": "深陷親密關係暴力循環的J，從噤聲到求助，宛如一場漫長惡夢。近年台大研究團隊針對親密關係暴力通報行為的首度本土實證研究，也證實對外求助普遍需要漫長歷程，「受害者不說」並非個人的責任，而是政策需積極相應調整的結構性困境。",
-        "url": "https://www.twreporter.org/a/intimate-partner-violence-2",
-        "source": "報導者",
-        "published": "2026-06-23T16:00:00+00:00"
-      },
-      {
-        "id": "135daa3ce862",
-        "title": "邊看邊哭女孩、塞錢婆婆、擔任義工的在台港人──香港《蘋果日報》停業5年，前員工在台辦展備份消失的記憶",
-        "summary": "本集你將從《追光者》創辦人李家聰與台灣傳播學者管中祥的對談，認識愛過國、犯過錯、以頭版道過歉等各種面貌的《蘋果日報》，也聽見台港參觀者對香港這份被消失的媒體的看法。",
-        "url": "https://www.twreporter.org/a/podcast-2026-06-24",
-        "source": "報導者",
-        "published": "2026-06-23T16:00:00+00:00"
-      },
-      {
         "id": "3cc06ddc61d1",
         "title": "[東南亞週報322] IMD世界競爭力排名新加坡奪冠、菲防長發表「涉華謬論」遭中國制裁、柬對中國遊客實施免簽試行四個月盼刺激旅遊市場",
         "summary": "[東南亞週報322] IMD世界競爭力排名新加坡奪冠、菲防長發表「涉華謬論」遭中國制裁、柬對中國遊客實施免簽試 [&#8230;]",
         "url": "https://aseanplusjournal.com/2026/06/23/aseanweekly322/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-06-22T20:45:42+00:00"
-      },
-      {
-        "id": "5ff056ca64c2",
-        "title": "告訴我，你為什麼家暴？在暴力與創傷的漩渦，聽見施暴者與受暴者之聲",
-        "summary": "「暴力是一顆小小的種籽，它不斷萌芽、不斷成長，我猜這顆種籽已在我體內深藏許久，是我父母傳承給我，是我從小耳濡目染的東西。我必須說，我覺得自己是個大混蛋。但警察竟然對我很好，彷彿我沒做什麼大不了的事。」",
-        "url": "https://www.twreporter.org/a/bookreview-nos-peres-nos-freres-nos-amis-dans-la-tete-des-hommes-violents",
-        "source": "報導者",
-        "published": "2026-06-22T16:00:00+00:00"
       },
       {
         "id": "f85d3c239118",
@@ -1931,14 +1859,6 @@
         "url": "https://humanityisland.nccu.edu.tw/lin-ming-chao_a/",
         "source": "人文．島嶼",
         "published": "2026-06-17T00:30:34+00:00"
-      },
-      {
-        "id": "bea4846629a2",
-        "title": "Secure access to the Claude Platform with Workload Identity Federation",
-        "summary": "Secure access to the Claude Platform with Workload Identity Federation",
-        "url": "https://claude.com/blog/workload-identity-federation",
-        "source": "Claude Blog",
-        "published": "2026-06-17T00:00:00+00:00"
       },
       {
         "id": "5d5133702f1a",
@@ -2492,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T16:56:31.993349+00:00"
+        "published": "2026-07-02T18:41:26.416606+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T16:56:31.993342+00:00"
+        "published": "2026-07-02T18:41:26.416595+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T16:56:31.993335+00:00"
+        "published": "2026-07-02T18:41:26.416584+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T16:56:31.993327+00:00"
+        "published": "2026-07-02T18:41:26.416574+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T16:56:31.993320+00:00"
+        "published": "2026-07-02T18:41:26.416563+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T16:56:31.993312+00:00"
+        "published": "2026-07-02T18:41:26.416553+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T16:56:31.993304+00:00"
+        "published": "2026-07-02T18:41:26.416542+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T16:56:31.993295+00:00"
+        "published": "2026-07-02T18:41:26.416531+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T16:56:31.993288+00:00"
+        "published": "2026-07-02T18:41:26.416521+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T16:56:31.993278+00:00"
+        "published": "2026-07-02T18:41:26.416510+00:00"
       },
       {
         "id": "b7e52a26e167",
