@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T22:14:04.396310+00:00",
+  "updated_at": "2026-07-03T00:16:32.493139+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -805,6 +805,30 @@
     ],
     "破(day)": [
       {
+        "id": "27f7f7fa88b3",
+        "title": "Flexi Cat – Joint Redesign #3DPrinting #3DThursday",
+        "summary": "Symbiance shares: A fresh redesign of one of the most popular flexi kitty models — stronger joints, smoother rounder design, bigger eyes and ears. Prints in place, no supports, click-and-go. By Symbiance download the files on: https://makerworld.com/en/models/1452423-flexi-cat-new-design Every Thurs...",
+        "url": "https://blog.adafruit.com/2026/07/02/flexi-cat-joint-redesign-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-03T00:00:01+00:00"
+      },
+      {
+        "id": "e664665e11d0",
+        "title": "Desk Lamp – Minimalist Modern Shade #3DThursday #3DPrinting",
+        "summary": "Shared by masseranostephan on Maker World: A minimalist 3D-printed lamp shade compatible with standard E14 and E27 sockets, designed for LED bulbs. Vase-mode print at 0.2mm with 10-20% infill creates a clean modern shape with a subtle diffusion pattern when lit. Great weekend project. Download the f...",
+        "url": "https://blog.adafruit.com/2026/07/02/desk-lamp-3dthursday-3dprinting-2/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-02T23:00:52+00:00"
+      },
+      {
+        "id": "9970121a9689",
+        "title": "Modern Box RGB Lamp – Bambu RGBW Puck Compatible #3DPrinting #3DThursday",
+        "summary": "fifindr shares: A 115mm cube-shaped modern RGB lamp built around the Bambulab Remote Controlled 16-color RGBW Puck (KC007). Stunning RGB ambient effects for nightstand or desk lighting, with full remote control over color and mode download the files on: https://makerworld.com/en/models/986027-modern...",
+        "url": "https://blog.adafruit.com/2026/07/02/modern-box-rgb-lamp-bambu-rgbw-puck-compatible-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-02T22:00:07+00:00"
+      },
+      {
         "id": "41d388bd35bb",
         "title": "Modern Desktop Lamp – Wireless RGB Uplighter #3DThursday #3DPrinting",
         "summary": "Shared by Abstractia Design via Maker World: A minimalist modern uplighter lamp with smooth contours and a textured wave-pattern interior that enhances light diffusion. Compatible with both the wired Bambu lamp kit and the RGB wireless puck. The fit is intentionally loose so either light source slot...",
@@ -843,6 +867,22 @@
         "url": "https://blog.adafruit.com/2026/07/02/cyberdeck-raspberry-pi-4-5-mini-music-workstation-3dprinting-3dthursday/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-07-02T16:00:45+00:00"
+      },
+      {
+        "id": "48de02907ede",
+        "title": "特斯拉二季度销量跃升25%，高油价提振欧洲需求",
+        "summary": "这家美国汽车制造商在第二季度交付480126辆汽车，高于去年同期，也远超分析师们此前的预测。",
+        "url": "https://www.ftchinese.com/story/001110218",
+        "source": "FTChinese RSS - News",
+        "published": "2026-07-02T16:00:00+00:00"
+      },
+      {
+        "id": "d6286b0a4d64",
+        "title": "美国6月新增就业岗位5.7万个，逊于华尔街预期",
+        "summary": "在连续三个月就业增长超预期后，美国雇主放缓招聘步伐，这促使交易员缩减加息预期。",
+        "url": "https://www.ftchinese.com/story/001110217",
+        "source": "FTChinese RSS - News",
+        "published": "2026-07-02T16:00:00+00:00"
       },
       {
         "id": "6b203943b42a",
@@ -885,36 +925,12 @@
         "published": "2026-07-02T14:47:24+00:00"
       },
       {
-        "id": "a636a16b53fe",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/07/02/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-02T14:24:35+00:00"
-      },
-      {
         "id": "9802b392ac84",
         "title": "立院初審文化部115年度預算案  李遠：學習很多",
         "summary": "（中央社記者趙靜瑜台北2日電）經過全天議程，115年度中央政府總預算案文化部主管預算今天晚間將近9時在立法院教育文化委員會完成初審，原編列約新台幣300億元，今天合計刪減1000萬元，凍結3750萬元。",
         "url": "https://www.cna.com.tw/news/acul/202607020370.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-07-02T13:57:43+00:00"
-      },
-      {
-        "id": "b466c9378942",
-        "title": "Diving Penguin #3DPrinting #3DThursday",
-        "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Diving Penguin By kim_kreations makerworld.com/en/models/2699668-penguin-diving-pool-toy Bambu X1C PolyMaker PLA 3hr 35mins X:63 Y:53 Z:104mm .2mm layer / .4mm No...",
-        "url": "https://blog.adafruit.com/2026/07/02/diving-penguin-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-02T13:00:52+00:00"
-      },
-      {
-        "id": "f7944e6baef6",
-        "title": "Duplo Track Storage #3DPrinting #3DThursday",
-        "summary": "Dinopolis shares: This modularly expandable track holder for the Duplo train ensures organization and easy transport. The middle section has a practical carrying handle, making it easy to transport the tracks from A to B. download the files on: https://makerworld.com/en/models/2169108-duplo-track-st...",
-        "url": "https://blog.adafruit.com/2026/07/02/duplo-track-storage-3dprinting-3dthursday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-02T12:00:33+00:00"
       },
       {
         "id": "74d908ac167c",
@@ -1205,14 +1221,6 @@
         "published": "2026-07-01T07:30:37+00:00"
       },
       {
-        "id": "f4a489b311d2",
-        "title": "Robert Henke – Signal To Noise Vol. II",
-        "summary": "\"The signal became the noise\": Robert Henke's follow-up to his 2004 album Signal To Noise.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/henke-signal-ii/",
-        "source": "Ambientblog",
-        "published": "2026-07-01T06:36:41+00:00"
-      },
-      {
         "id": "05585f6996cb",
         "title": "The best theatre to stream this month: all rise for Rosamund Pike’s Inter Alia",
         "summary": "The star delivers a breathtaking performance in Suzie Miller’s play about a judge under pressure, while Paddington gets everyone singing and Peter Shaffer’s Black Comedy is backRosamund Pike rightly won an Olivier award for her restless turn in Prima Facie playwright Suzie Miller’s blistering legal ...",
@@ -1405,14 +1413,6 @@
         "published": "2026-06-29T16:00:00+00:00"
       },
       {
-        "id": "37a13c7eec91",
-        "title": "伯纳姆誓言将大举改革英国政府体系",
-        "summary": "有望于7月20日入主唐宁街的伯纳姆公布一系列宏大计划，拟加大国家对关键公用事业的管控，并实施庞大的地方议会公房建设工程。",
-        "url": "https://www.ftchinese.com/story/001110179",
-        "source": "FTChinese RSS - News",
-        "published": "2026-06-29T16:00:00+00:00"
-      },
-      {
         "id": "fb2fcee96c89",
         "title": "D16 PunchBox 2 is a surprisingly deep sequel to the brutal kick plug-in classic",
         "summary": "D16's kick plug-in PunchBox was already a legendary drum weapons development laboratory, full of layers of crunchy, cruel, wonderful sounds. The Polish developer isn't messing with that formula, but they've packed more than just a few extras into the long-awaited V2 update. It's just in time for us ...",
@@ -1501,14 +1501,6 @@
         "published": "2026-06-28T16:00:00+00:00"
       },
       {
-        "id": "de7cb7bf9558",
-        "title": "中国再将20家日本实体列入出口管制名单",
-        "summary": "中国进一步限制向日本出口军民“两用”物项，标志着这场已将中日关系推向十多年来最糟糕状态的争端出现最新升级。",
-        "url": "https://www.ftchinese.com/story/001110176",
-        "source": "FTChinese RSS - News",
-        "published": "2026-06-28T16:00:00+00:00"
-      },
-      {
         "id": "c9c22e357b59",
         "title": "AI破解2000年前庞贝古卷！烧成灰烬的草纸内容，首次被机器学习完整破译",
         "summary": "AI 第一次让人类无需打开卷轴，就完整虚拟展开并阅读了一卷近 2,000 年前的古代卷轴。公元 79 年, 维苏威火山爆发，庞贝毁灭，在十几公里之外的古代海滨城市赫库兰尼姆（Herculaneum），一座私人图书馆被火山灰瞬间掩埋，其中数百卷莎草纸卷轴全部被烧成木炭。几个世纪以来，这些被烧毁的古代卷轴一直是个“未解之谜”。它们曾被埋藏在炽热的岩石、火山灰和熔岩之中，如今已高度碳化。自 1752 年被发现以来，人们曾尝试过各种方法来解读这些卷轴。例如尝试将它们剖开，用刀刮掉每层古老的纸张；或者在纸层间注入水银；又或者将它们浸泡在明胶和醋酸的混合物中……但是没有人敢将它们完全打开，因为这很有可能加...",
@@ -1563,14 +1555,6 @@
         "url": "https://cdm.link/ekssperimental-sounds-studios-reason-review/",
         "source": "CDM Create Digital Music",
         "published": "2026-06-26T20:20:41+00:00"
-      },
-      {
-        "id": "8fc0ce7a243f",
-        "title": "Andrew Heath – Airships & Aeronauts",
-        "summary": "Imagine Andrew Heath pulling the leavers and watching the dials on an album dedicated to the early age of powered flight.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/heath-airships/",
-        "source": "Ambientblog",
-        "published": "2026-06-26T18:22:10+00:00"
       },
       {
         "id": "1dd98d857ace",
@@ -1813,14 +1797,6 @@
         "published": "2026-06-22T14:30:00+00:00"
       },
       {
-        "id": "b8daf7fe85fa",
-        "title": "Corrado Maria De Santis – Treshold Of Light",
-        "summary": "'Night recedes, yet morning remains unseen': Corrado Maria De Santis' Treshold Of Light.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/desantis/",
-        "source": "Ambientblog",
-        "published": "2026-06-22T11:40:13+00:00"
-      },
-      {
         "id": "ec739b1f1e98",
         "title": "青春來接棒，新秀挑大樑 傳藝中心「民間戲臺」五檔傳統好戲暑期熱演！",
         "summary": "&nbsp; &nbsp; &nbsp; &nbsp;國立傳統藝術中心今（115）年暑假再度推出「民間戲臺－新秀展演計畫」，精選臺灣戲曲中心113、114年「承功&mdash;新秀舞臺」中5檔膾炙人口的經典劇目，由5位青年新秀演員自7月4日至8月16日於宜蘭園區蔣渭水演藝廳接力演出10場，齣齣兼有戲劇張力並考驗演員功力，劇情含括詼諧鬥智、愛恨情仇、忠肝義膽、英雄豪情以及愛情喜劇等多元風格，透過宜蘭園區豐富的文化觀光資源搭建的展演平臺，展現臺灣戲曲新生代接班人的舞臺實力與藝術活力。&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;國立傳統...",
@@ -1859,14 +1835,6 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2348",
         "source": "獨立出版聯盟網站",
         "published": "2026-06-19T00:00:00+00:00"
-      },
-      {
-        "id": "49f11eeb1aaf",
-        "title": "Variant – When The Universe Sleeps",
-        "summary": "The Quiet Details label celebrates its 50th release with an extended album of spacey 'Echospace-like' ambient music by Variant (Stephen Hitchell).\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/variant/",
-        "source": "Ambientblog",
-        "published": "2026-06-18T18:23:42+00:00"
       },
       {
         "id": "d1d1e1ccdb27",
@@ -1973,14 +1941,6 @@
         "published": "2026-06-15T13:00:00+00:00"
       },
       {
-        "id": "dd0ac8f66b00",
-        "title": "DreamScenes – June 2026",
-        "summary": "\"Et Sic In Infinitum\" - DreamScenes for June, 2026\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dreamscenes-june-2026/",
-        "source": "Ambientblog",
-        "published": "2026-06-14T17:55:00+00:00"
-      },
-      {
         "id": "15a9ba016199",
         "title": "How the Hashtag Became the Way to Instantly Invite Literally Everyone Into the Conversation",
         "summary": "In the nascent days of Twitter, users wanted a quick way to cluster posts about a single subject. Someone suggested using a pound sign, and #TheRestIsHistory",
@@ -2035,14 +1995,6 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=257145",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-06-10T02:27:00+00:00"
-      },
-      {
-        "id": "477d591e6323",
-        "title": "Anthéne – Air Signs",
-        "summary": "Reflecting the stillness of natural surroundings in the midst of human made chaos: Anthéne's Air Signs.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/anthene/",
-        "source": "Ambientblog",
-        "published": "2026-06-09T14:49:07+00:00"
       },
       {
         "id": "2ee237854021",
@@ -2109,14 +2061,6 @@
         "published": "2026-06-05T00:00:00+00:00"
       },
       {
-        "id": "307473c32463",
-        "title": "Boduf Songs – Selected Instrumental Works",
-        "summary": "Boduf Songs' instrumental works are made to be listened to in low light and long shadows. \n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/bodufsongs/",
-        "source": "Ambientblog",
-        "published": "2026-06-04T07:35:00+00:00"
-      },
-      {
         "id": "ada69ef07f3e",
         "title": "The Moon map that made history",
         "summary": "The moon always has been an object of fascination for mankind, but once President John F. Kennedy pledged in 1961 that the U.S. would send a manned spacecraft there within a decade, one of the first questions was entirely practical: Where would they land? An extraordinary map, the USAF Lunar Wall Mo...",
@@ -2165,14 +2109,6 @@
         "published": "2026-05-31T20:20:17+00:00"
       },
       {
-        "id": "2216a8bdcc45",
-        "title": "Daniel Jolan – Sublime Lenteur",
-        "summary": "Daniel Jolan (also known as 't Geruis) presents Sublime Lenteur: 'amazing slowness' as part of Lost Tribe Sounds' 'Moss and Melee' series.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/daniel-jolan/",
-        "source": "Ambientblog",
-        "published": "2026-05-31T06:47:53+00:00"
-      },
-      {
         "id": "6aee6b02d3b5",
         "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
         "summary": "Gemini Omni & Gemini 3.5 hero",
@@ -2189,28 +2125,12 @@
         "published": "2026-05-28T01:09:00+00:00"
       },
       {
-        "id": "827b604f6232",
-        "title": "Werner Dafeldecker & Lawrence English – Fathom Tides",
-        "summary": "Lawrence English&#038; Werner Dafeldecker's detailed sound worlds on Fathom Tides remind us that our clocks are not those of the world around us.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dafeldecker-english/",
-        "source": "Ambientblog",
-        "published": "2026-05-27T07:26:44+00:00"
-      },
-      {
         "id": "4336fe3f1b3f",
         "title": "生活在精神病院，遊走瘋狂與現實──詮釋人類學家林徐達以臨床民族誌看到了什麼？",
         "summary": "當記者詢問東華大學族群關係與文化學系林徐達教授：「您覺得這本書的潛在讀者是誰？」 林徐達直覺回道：「一般讀者啊 [&#8230;]\nThe post 生活在精神病院，遊走瘋狂與現實──詮釋人類學家林徐達以臨床民族誌看到了什麼？ appeared first on 人文．島嶼.",
         "url": "https://humanityisland.nccu.edu.tw/linxuda_a/",
         "source": "人文．島嶼",
         "published": "2026-05-27T02:30:26+00:00"
-      },
-      {
-        "id": "e163d9f28c8c",
-        "title": "Heÿkla – Echoes Of Loneliness",
-        "summary": "Heÿkla's Echoes Of Loneliness offers 13 tracks to 'drift though invisible places and discover beauty in quiet transformation'.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/heykla/",
-        "source": "Ambientblog",
-        "published": "2026-05-24T08:59:13+00:00"
       },
       {
         "id": "e8e2a1690318",
@@ -2492,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T22:14:03.165684+00:00"
+        "published": "2026-07-03T00:16:30.151946+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T22:14:03.165674+00:00"
+        "published": "2026-07-03T00:16:30.151936+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T22:14:03.165664+00:00"
+        "published": "2026-07-03T00:16:30.151927+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T22:14:03.165655+00:00"
+        "published": "2026-07-03T00:16:30.151918+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T22:14:03.165645+00:00"
+        "published": "2026-07-03T00:16:30.151908+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T22:14:03.165635+00:00"
+        "published": "2026-07-03T00:16:30.151898+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T22:14:03.165625+00:00"
+        "published": "2026-07-03T00:16:30.151889+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T22:14:03.165614+00:00"
+        "published": "2026-07-03T00:16:30.151879+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T22:14:03.165603+00:00"
+        "published": "2026-07-03T00:16:30.151870+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-02T22:14:03.165592+00:00"
+        "published": "2026-07-03T00:16:30.151860+00:00"
       },
       {
         "id": "b7e52a26e167",
