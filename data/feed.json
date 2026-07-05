@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-05T19:35:59.603755+00:00",
+  "updated_at": "2026-07-05T21:13:47.890941+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "c74b5b36ac50",
+        "title": "MENDELSSOHN-BARTHOLDY Sämtliche Streichquartette",
+        "summary": "MENDELSSOHN-BARTHOLDY  Sämtliche Streichquartette Aurora String Quartet (1993).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/bngh_20260705",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-05T18:54:34+00:00"
+      },
+      {
+        "id": "b7b1b714b1d4",
+        "title": "Amine Amirouche Ft Nassima Ait Ami Ayul",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/amine-amirouche-ft-nassima-ait-ami-ayul_20260705",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-05T18:48:50+00:00"
+      },
+      {
+        "id": "66534fe33151",
+        "title": "Amine Amirouche Ft Nassima Ait Ami Ayul",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/amine-amirouche-ft-nassima-ait-ami-ayul_202607",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-05T18:36:44+00:00"
+      },
       {
         "id": "e8dbc19e1467",
         "title": "Nouaman Belaiachi Mi Amor",
@@ -57,30 +81,6 @@
         "url": "https://archive.org/details/cheb-mami-tzazae",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-05T16:25:32+00:00"
-      },
-      {
-        "id": "0b7916ded08c",
-        "title": "Of Cherry Blossoms And Blood",
-        "summary": "Summary: Lucivar Yaslana watches the man gliding toward him down the garden path, cherry blossoms falling on his elegantly coiffed black hair and the shoulders of his black evening suit. Gliding isn't a word he'd use to describe the way most people move, particularly not men, but it's always suited ...",
-        "url": "https://archive.org/details/black-jewels-of-cherry-blossoms-and-blood",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-05T15:32:47+00:00"
-      },
-      {
-        "id": "0f170fac7d5c",
-        "title": "Cheb Mami Omri Madanite",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/cheb-mami-omri-madanite",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-05T15:26:44+00:00"
-      },
-      {
-        "id": "f6c19a5755ec",
-        "title": "Kader Japonais Ft Kedym Mazal Mazal",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/kader-japonais-ft-kedym-mazal-mazal",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-05T14:51:46+00:00"
       },
       {
         "id": "9726a40b76b7",
@@ -1405,14 +1405,6 @@
         "published": "2026-07-01T07:30:37+00:00"
       },
       {
-        "id": "f4a489b311d2",
-        "title": "Robert Henke – Signal To Noise Vol. II",
-        "summary": "\"The signal became the noise\": Robert Henke's follow-up to his 2004 album Signal To Noise.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/henke-signal-ii/",
-        "source": "Ambientblog",
-        "published": "2026-07-01T06:36:41+00:00"
-      },
-      {
         "id": "0cf9d328d0f8",
         "title": "被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？",
         "summary": "你沒事的時候，會等公車時滑、吃飯時滑、睡前滑，甚至只是發呆幾分鐘，也會忍不住打開社群媒體看看有沒有新通知嗎？  [&#8230;]\nThe post 被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？ appeared first on 人文．島嶼.",
@@ -1613,14 +1605,6 @@
         "published": "2026-06-26T20:20:41+00:00"
       },
       {
-        "id": "8fc0ce7a243f",
-        "title": "Andrew Heath – Airships & Aeronauts",
-        "summary": "Imagine Andrew Heath pulling the leavers and watching the dials on an album dedicated to the early age of powered flight.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/heath-airships/",
-        "source": "Ambientblog",
-        "published": "2026-06-26T18:22:10+00:00"
-      },
-      {
         "id": "1dd98d857ace",
         "title": "Venezuela is reeling from major earthquakes; artists on how to help",
         "summary": "Our friends from Venezuela are facing a horrific reality. Wednesday night, the country was hit by two back-to-back earthquakes, each among the strongest in a century. As I write this, the official confirmed death toll is well over 200 and rising, with thousands injured and many more trapped under ru...",
@@ -1797,14 +1781,6 @@
         "published": "2026-06-22T14:30:00+00:00"
       },
       {
-        "id": "b8daf7fe85fa",
-        "title": "Corrado Maria De Santis – Treshold Of Light",
-        "summary": "'Night recedes, yet morning remains unseen': Corrado Maria De Santis' Treshold Of Light.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/desantis/",
-        "source": "Ambientblog",
-        "published": "2026-06-22T11:40:13+00:00"
-      },
-      {
         "id": "ec739b1f1e98",
         "title": "青春來接棒，新秀挑大樑 傳藝中心「民間戲臺」五檔傳統好戲暑期熱演！",
         "summary": "&nbsp; &nbsp; &nbsp; &nbsp;國立傳統藝術中心今（115）年暑假再度推出「民間戲臺－新秀展演計畫」，精選臺灣戲曲中心113、114年「承功&mdash;新秀舞臺」中5檔膾炙人口的經典劇目，由5位青年新秀演員自7月4日至8月16日於宜蘭園區蔣渭水演藝廳接力演出10場，齣齣兼有戲劇張力並考驗演員功力，劇情含括詼諧鬥智、愛恨情仇、忠肝義膽、英雄豪情以及愛情喜劇等多元風格，透過宜蘭園區豐富的文化觀光資源搭建的展演平臺，展現臺灣戲曲新生代接班人的舞臺實力與藝術活力。&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;國立傳統...",
@@ -1835,14 +1811,6 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2349",
         "source": "獨立出版聯盟網站",
         "published": "2026-06-19T00:00:00+00:00"
-      },
-      {
-        "id": "49f11eeb1aaf",
-        "title": "Variant – When The Universe Sleeps",
-        "summary": "The Quiet Details label celebrates its 50th release with an extended album of spacey 'Echospace-like' ambient music by Variant (Stephen Hitchell).\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/variant/",
-        "source": "Ambientblog",
-        "published": "2026-06-18T18:23:42+00:00"
       },
       {
         "id": "d1d1e1ccdb27",
@@ -1949,14 +1917,6 @@
         "published": "2026-06-15T13:00:00+00:00"
       },
       {
-        "id": "dd0ac8f66b00",
-        "title": "DreamScenes – June 2026",
-        "summary": "\"Et Sic In Infinitum\" - DreamScenes for June, 2026\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dreamscenes-june-2026/",
-        "source": "Ambientblog",
-        "published": "2026-06-14T17:55:00+00:00"
-      },
-      {
         "id": "15a9ba016199",
         "title": "How the Hashtag Became the Way to Instantly Invite Literally Everyone Into the Conversation",
         "summary": "In the nascent days of Twitter, users wanted a quick way to cluster posts about a single subject. Someone suggested using a pound sign, and #TheRestIsHistory",
@@ -2013,14 +1973,6 @@
         "published": "2026-06-10T02:27:00+00:00"
       },
       {
-        "id": "477d591e6323",
-        "title": "Anthéne – Air Signs",
-        "summary": "Reflecting the stillness of natural surroundings in the midst of human made chaos: Anthéne's Air Signs.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/anthene/",
-        "source": "Ambientblog",
-        "published": "2026-06-09T14:49:07+00:00"
-      },
-      {
         "id": "2ee237854021",
         "title": "Geraldine Brooks – on life, love and loss – at the Library",
         "summary": "Geraldine Brooks, the the 2025 recipient of the Library’s Prize for American Fiction, talked about her 10 books, her career as a foreign correspondent and her marriage to the late Tony Horwitz, a fellow reporter, author and Pulitzer Prize winner, during a recent evening at the Library.",
@@ -2035,14 +1987,6 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
         "source": "Google DeepMind",
         "published": "2026-06-05T14:45:00+00:00"
-      },
-      {
-        "id": "307473c32463",
-        "title": "Boduf Songs – Selected Instrumental Works",
-        "summary": "Boduf Songs' instrumental works are made to be listened to in low light and long shadows. \n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/bodufsongs/",
-        "source": "Ambientblog",
-        "published": "2026-06-04T07:35:00+00:00"
       },
       {
         "id": "ada69ef07f3e",
@@ -2093,14 +2037,6 @@
         "published": "2026-05-31T20:20:17+00:00"
       },
       {
-        "id": "2216a8bdcc45",
-        "title": "Daniel Jolan – Sublime Lenteur",
-        "summary": "Daniel Jolan (also known as 't Geruis) presents Sublime Lenteur: 'amazing slowness' as part of Lost Tribe Sounds' 'Moss and Melee' series.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/daniel-jolan/",
-        "source": "Ambientblog",
-        "published": "2026-05-31T06:47:53+00:00"
-      },
-      {
         "id": "6aee6b02d3b5",
         "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
         "summary": "Gemini Omni & Gemini 3.5 hero",
@@ -2117,28 +2053,12 @@
         "published": "2026-05-28T01:09:00+00:00"
       },
       {
-        "id": "827b604f6232",
-        "title": "Werner Dafeldecker & Lawrence English – Fathom Tides",
-        "summary": "Lawrence English&#038; Werner Dafeldecker's detailed sound worlds on Fathom Tides remind us that our clocks are not those of the world around us.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dafeldecker-english/",
-        "source": "Ambientblog",
-        "published": "2026-05-27T07:26:44+00:00"
-      },
-      {
         "id": "4336fe3f1b3f",
         "title": "生活在精神病院，遊走瘋狂與現實──詮釋人類學家林徐達以臨床民族誌看到了什麼？",
         "summary": "當記者詢問東華大學族群關係與文化學系林徐達教授：「您覺得這本書的潛在讀者是誰？」 林徐達直覺回道：「一般讀者啊 [&#8230;]\nThe post 生活在精神病院，遊走瘋狂與現實──詮釋人類學家林徐達以臨床民族誌看到了什麼？ appeared first on 人文．島嶼.",
         "url": "https://humanityisland.nccu.edu.tw/linxuda_a/",
         "source": "人文．島嶼",
         "published": "2026-05-27T02:30:26+00:00"
-      },
-      {
-        "id": "e163d9f28c8c",
-        "title": "Heÿkla – Echoes Of Loneliness",
-        "summary": "Heÿkla's Echoes Of Loneliness offers 13 tracks to 'drift though invisible places and discover beauty in quiet transformation'.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/heykla/",
-        "source": "Ambientblog",
-        "published": "2026-05-24T08:59:13+00:00"
       },
       {
         "id": "e8e2a1690318",
@@ -2412,7 +2332,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T19:35:58.148021+00:00"
+        "published": "2026-07-05T21:13:46.383631+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2340,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T19:35:58.148011+00:00"
+        "published": "2026-07-05T21:13:46.383621+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2348,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T19:35:58.148000+00:00"
+        "published": "2026-07-05T21:13:46.383611+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2356,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T19:35:58.147989+00:00"
+        "published": "2026-07-05T21:13:46.383600+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2364,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T19:35:58.147978+00:00"
+        "published": "2026-07-05T21:13:46.383589+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2372,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T19:35:58.147968+00:00"
+        "published": "2026-07-05T21:13:46.383578+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2380,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T19:35:58.147957+00:00"
+        "published": "2026-07-05T21:13:46.383568+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2388,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T19:35:58.147946+00:00"
+        "published": "2026-07-05T21:13:46.383557+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2396,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T19:35:58.147936+00:00"
+        "published": "2026-07-05T21:13:46.383547+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2404,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T19:35:58.147926+00:00"
+        "published": "2026-07-05T21:13:46.383536+00:00"
       },
       {
         "id": "5b39fc2eb91e",
