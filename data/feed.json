@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-05T21:13:47.890941+00:00",
+  "updated_at": "2026-07-05T23:09:31.573872+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "b82ec721533c",
+        "title": "مهرجان القضا المستعجل اسلام شيندي احمد عبده MP 3",
+        "summary": "ل.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mp-3_20260705",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-05T22:08:15+00:00"
+      },
+      {
+        "id": "b770b5fe1c32",
+        "title": "مهرجان اسلام كابونجا انا بلبس اشيك ماركه",
+        "summary": "ل.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/20260705_20260705_2157",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-05T22:00:10+00:00"
+      },
+      {
+        "id": "9045b1315ea2",
+        "title": "مهرجان امسكي وسطك مع حماده مجدي فارس سكر",
+        "summary": "ل.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/20260705_20260705_2154",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-05T21:56:02+00:00"
+      },
       {
         "id": "c74b5b36ac50",
         "title": "MENDELSSOHN-BARTHOLDY Sämtliche Streichquartette",
@@ -57,30 +81,6 @@
         "url": "https://archive.org/details/didou-kalma-ft-bady-maestro-mayekhla-3niche-mkheyer",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-05T17:13:49+00:00"
-      },
-      {
-        "id": "5ca59cb55f7d",
-        "title": "HAJARx Cheb Mami Omri Ma Danit.m",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/hajarx-cheb-mami-omri-ma-danit.m",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-05T16:54:32+00:00"
-      },
-      {
-        "id": "9569231a6220",
-        "title": "Yaal 3awa",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/yaal-3awa",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-05T16:37:34+00:00"
-      },
-      {
-        "id": "0824889121f5",
-        "title": "Cheb Mami Tzazae",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/cheb-mami-tzazae",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-05T16:25:32+00:00"
       },
       {
         "id": "9726a40b76b7",
@@ -739,6 +739,14 @@
         "url": "https://www.theguardian.com/stage/2026/jul/05/last-goal-wins-review-broadway-theatre-catford",
         "source": "Stage | The Guardian",
         "published": "2026-07-05T18:00:33+00:00"
+      },
+      {
+        "id": "471c17f1dee8",
+        "title": "FT民调：美国选民认为对伊朗开战得不偿失",
+        "summary": "英国《金融时报》民调突显中东冲突继续拖累特朗普的支持率。调查显示，58%的美国选民认为这场战争不值得美国为此付出的代价。",
+        "url": "https://www.ftchinese.com/story/001110233",
+        "source": "FTChinese RSS - News",
+        "published": "2026-07-05T16:00:00+00:00"
       },
       {
         "id": "df625bee4f14",
@@ -1405,6 +1413,14 @@
         "published": "2026-07-01T07:30:37+00:00"
       },
       {
+        "id": "f4a489b311d2",
+        "title": "Robert Henke – Signal To Noise Vol. II",
+        "summary": "\"The signal became the noise\": Robert Henke's follow-up to his 2004 album Signal To Noise.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/henke-signal-ii/",
+        "source": "Ambientblog",
+        "published": "2026-07-01T06:36:41+00:00"
+      },
+      {
         "id": "0cf9d328d0f8",
         "title": "被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？",
         "summary": "你沒事的時候，會等公車時滑、吃飯時滑、睡前滑，甚至只是發呆幾分鐘，也會忍不住打開社群媒體看看有沒有新通知嗎？  [&#8230;]\nThe post 被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？ appeared first on 人文．島嶼.",
@@ -1533,14 +1549,6 @@
         "published": "2026-06-29T16:00:00+00:00"
       },
       {
-        "id": "0f249faa5123",
-        "title": "超微电脑在台办公室遭突击搜查，涉芯片走私调查",
-        "summary": "调查消息传出后，这家服务器制造商股价下跌约8%。",
-        "url": "https://www.ftchinese.com/story/001110186",
-        "source": "FTChinese RSS - News",
-        "published": "2026-06-29T16:00:00+00:00"
-      },
-      {
         "id": "fb2fcee96c89",
         "title": "D16 PunchBox 2 is a surprisingly deep sequel to the brutal kick plug-in classic",
         "summary": "D16's kick plug-in PunchBox was already a legendary drum weapons development laboratory, full of layers of crunchy, cruel, wonderful sounds. The Polish developer isn't messing with that formula, but they've packed more than just a few extras into the long-awaited V2 update. It's just in time for us ...",
@@ -1603,6 +1611,14 @@
         "url": "https://cdm.link/ekssperimental-sounds-studios-reason-review/",
         "source": "CDM Create Digital Music",
         "published": "2026-06-26T20:20:41+00:00"
+      },
+      {
+        "id": "8fc0ce7a243f",
+        "title": "Andrew Heath – Airships & Aeronauts",
+        "summary": "Imagine Andrew Heath pulling the leavers and watching the dials on an album dedicated to the early age of powered flight.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/heath-airships/",
+        "source": "Ambientblog",
+        "published": "2026-06-26T18:22:10+00:00"
       },
       {
         "id": "1dd98d857ace",
@@ -1781,6 +1797,14 @@
         "published": "2026-06-22T14:30:00+00:00"
       },
       {
+        "id": "b8daf7fe85fa",
+        "title": "Corrado Maria De Santis – Treshold Of Light",
+        "summary": "'Night recedes, yet morning remains unseen': Corrado Maria De Santis' Treshold Of Light.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/desantis/",
+        "source": "Ambientblog",
+        "published": "2026-06-22T11:40:13+00:00"
+      },
+      {
         "id": "ec739b1f1e98",
         "title": "青春來接棒，新秀挑大樑 傳藝中心「民間戲臺」五檔傳統好戲暑期熱演！",
         "summary": "&nbsp; &nbsp; &nbsp; &nbsp;國立傳統藝術中心今（115）年暑假再度推出「民間戲臺－新秀展演計畫」，精選臺灣戲曲中心113、114年「承功&mdash;新秀舞臺」中5檔膾炙人口的經典劇目，由5位青年新秀演員自7月4日至8月16日於宜蘭園區蔣渭水演藝廳接力演出10場，齣齣兼有戲劇張力並考驗演員功力，劇情含括詼諧鬥智、愛恨情仇、忠肝義膽、英雄豪情以及愛情喜劇等多元風格，透過宜蘭園區豐富的文化觀光資源搭建的展演平臺，展現臺灣戲曲新生代接班人的舞臺實力與藝術活力。&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;國立傳統...",
@@ -1811,6 +1835,14 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2349",
         "source": "獨立出版聯盟網站",
         "published": "2026-06-19T00:00:00+00:00"
+      },
+      {
+        "id": "49f11eeb1aaf",
+        "title": "Variant – When The Universe Sleeps",
+        "summary": "The Quiet Details label celebrates its 50th release with an extended album of spacey 'Echospace-like' ambient music by Variant (Stephen Hitchell).\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/variant/",
+        "source": "Ambientblog",
+        "published": "2026-06-18T18:23:42+00:00"
       },
       {
         "id": "d1d1e1ccdb27",
@@ -1917,6 +1949,14 @@
         "published": "2026-06-15T13:00:00+00:00"
       },
       {
+        "id": "dd0ac8f66b00",
+        "title": "DreamScenes – June 2026",
+        "summary": "\"Et Sic In Infinitum\" - DreamScenes for June, 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-june-2026/",
+        "source": "Ambientblog",
+        "published": "2026-06-14T17:55:00+00:00"
+      },
+      {
         "id": "15a9ba016199",
         "title": "How the Hashtag Became the Way to Instantly Invite Literally Everyone Into the Conversation",
         "summary": "In the nascent days of Twitter, users wanted a quick way to cluster posts about a single subject. Someone suggested using a pound sign, and #TheRestIsHistory",
@@ -1973,6 +2013,14 @@
         "published": "2026-06-10T02:27:00+00:00"
       },
       {
+        "id": "477d591e6323",
+        "title": "Anthéne – Air Signs",
+        "summary": "Reflecting the stillness of natural surroundings in the midst of human made chaos: Anthéne's Air Signs.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/anthene/",
+        "source": "Ambientblog",
+        "published": "2026-06-09T14:49:07+00:00"
+      },
+      {
         "id": "2ee237854021",
         "title": "Geraldine Brooks – on life, love and loss – at the Library",
         "summary": "Geraldine Brooks, the the 2025 recipient of the Library’s Prize for American Fiction, talked about her 10 books, her career as a foreign correspondent and her marriage to the late Tony Horwitz, a fellow reporter, author and Pulitzer Prize winner, during a recent evening at the Library.",
@@ -1987,6 +2035,14 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
         "source": "Google DeepMind",
         "published": "2026-06-05T14:45:00+00:00"
+      },
+      {
+        "id": "307473c32463",
+        "title": "Boduf Songs – Selected Instrumental Works",
+        "summary": "Boduf Songs' instrumental works are made to be listened to in low light and long shadows. \n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/bodufsongs/",
+        "source": "Ambientblog",
+        "published": "2026-06-04T07:35:00+00:00"
       },
       {
         "id": "ada69ef07f3e",
@@ -2037,6 +2093,14 @@
         "published": "2026-05-31T20:20:17+00:00"
       },
       {
+        "id": "2216a8bdcc45",
+        "title": "Daniel Jolan – Sublime Lenteur",
+        "summary": "Daniel Jolan (also known as 't Geruis) presents Sublime Lenteur: 'amazing slowness' as part of Lost Tribe Sounds' 'Moss and Melee' series.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/daniel-jolan/",
+        "source": "Ambientblog",
+        "published": "2026-05-31T06:47:53+00:00"
+      },
+      {
         "id": "6aee6b02d3b5",
         "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
         "summary": "Gemini Omni & Gemini 3.5 hero",
@@ -2053,12 +2117,28 @@
         "published": "2026-05-28T01:09:00+00:00"
       },
       {
+        "id": "827b604f6232",
+        "title": "Werner Dafeldecker & Lawrence English – Fathom Tides",
+        "summary": "Lawrence English&#038; Werner Dafeldecker's detailed sound worlds on Fathom Tides remind us that our clocks are not those of the world around us.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dafeldecker-english/",
+        "source": "Ambientblog",
+        "published": "2026-05-27T07:26:44+00:00"
+      },
+      {
         "id": "4336fe3f1b3f",
         "title": "生活在精神病院，遊走瘋狂與現實──詮釋人類學家林徐達以臨床民族誌看到了什麼？",
         "summary": "當記者詢問東華大學族群關係與文化學系林徐達教授：「您覺得這本書的潛在讀者是誰？」 林徐達直覺回道：「一般讀者啊 [&#8230;]\nThe post 生活在精神病院，遊走瘋狂與現實──詮釋人類學家林徐達以臨床民族誌看到了什麼？ appeared first on 人文．島嶼.",
         "url": "https://humanityisland.nccu.edu.tw/linxuda_a/",
         "source": "人文．島嶼",
         "published": "2026-05-27T02:30:26+00:00"
+      },
+      {
+        "id": "e163d9f28c8c",
+        "title": "Heÿkla – Echoes Of Loneliness",
+        "summary": "Heÿkla's Echoes Of Loneliness offers 13 tracks to 'drift though invisible places and discover beauty in quiet transformation'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/heykla/",
+        "source": "Ambientblog",
+        "published": "2026-05-24T08:59:13+00:00"
       },
       {
         "id": "e8e2a1690318",
@@ -2332,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T21:13:46.383631+00:00"
+        "published": "2026-07-05T23:09:29.074462+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T21:13:46.383621+00:00"
+        "published": "2026-07-05T23:09:29.074452+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T21:13:46.383611+00:00"
+        "published": "2026-07-05T23:09:29.074442+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T21:13:46.383600+00:00"
+        "published": "2026-07-05T23:09:29.074431+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T21:13:46.383589+00:00"
+        "published": "2026-07-05T23:09:29.074421+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T21:13:46.383578+00:00"
+        "published": "2026-07-05T23:09:29.074411+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T21:13:46.383568+00:00"
+        "published": "2026-07-05T23:09:29.074400+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T21:13:46.383557+00:00"
+        "published": "2026-07-05T23:09:29.074390+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T21:13:46.383547+00:00"
+        "published": "2026-07-05T23:09:29.074380+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-05T21:13:46.383536+00:00"
+        "published": "2026-07-05T23:09:29.074370+00:00"
       },
       {
         "id": "5b39fc2eb91e",
@@ -2421,14 +2501,6 @@
         "url": "https://www.ethanhein.com/wp/2026/the-night-has-a-thousand-eyes/",
         "source": "The Ethan Hein Blog",
         "published": "2026-07-05T12:55:33+00:00"
-      },
-      {
-        "id": "871cef9ef140",
-        "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
-        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-07-02T23:33:49+00:00"
       },
       {
         "id": "7a6f6d567092",
@@ -2487,14 +2559,6 @@
         "published": "2026-06-30T03:17:08+00:00"
       },
       {
-        "id": "c5fd499095c3",
-        "title": "Dario Amodei：AI 开源是伪命题",
-        "summary": "下面是 Anthropic 公司创始人 Dario Amodei 的言论。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/06/anthropic.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-06-30T03:04:08+00:00"
-      },
-      {
         "id": "16f2da005e07",
         "title": "The Declaration of Independence, America at 250 and Past Centennials",
         "summary": "As America celebrates its Semiquincentennial (250th anniversary) this year, explore a curated list of materials preserved at the Internet Archive documenting the nation&#8217;s founding, the Declaration of Independence, past ephemera [&#8230;]",
@@ -2517,14 +2581,6 @@
         "url": "https://www.min-on.org/zh-hant/14814/min-on-music-journey-no-105-republic-of-fiji/",
         "source": "Chinese Traditional – Min-On Website",
         "published": "2026-06-26T02:24:32+00:00"
-      },
-      {
-        "id": "ca9f5852dd81",
-        "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
-        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-06-26T00:05:38+00:00"
       },
       {
         "id": "112c0bfbfbe2",
