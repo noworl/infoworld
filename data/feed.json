@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-11T15:02:34.466855+00:00",
+  "updated_at": "2026-07-11T17:05:49.074550+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "5cc61a415b4e",
+        "title": "颱風及外圍環流影響　氣象署發布豪雨特報",
+        "summary": "（中央社台北11日電）中央氣象署更新豪雨特報指出，台北市、新北市、桃園市、新竹縣、台中市、南投縣、雲林縣、嘉義縣、屏東縣、宜蘭縣的山區及苗栗縣地區已有局部大豪雨或超大豪雨發生。",
+        "url": "https://www.cna.com.tw/news/ahel/202607110225.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-11T15:26:30+00:00"
+      },
+      {
+        "id": "91a0e2e31b83",
+        "title": "華航放大機型赴日韓等地疏運　星宇派加班機飛沖繩",
+        "summary": "（中央社記者陳婕翎台北11日電）許多國際航班受颱風巴威影響異動，華航及華信明天安排放大機型載客赴日、韓、香港、東南亞及廈門等地；星宇航空將於7月13日增派一班「台北-沖繩」往返加班機疏運旅客。",
+        "url": "https://www.cna.com.tw/news/ahel/202607110219.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-11T14:11:14+00:00"
+      },
+      {
+        "id": "b3ab462b17a2",
+        "title": "今彩539第115168期　頭獎1注中獎",
+        "summary": "（中央社台北11日電）今彩539第115168期開獎，中獎號碼10、25、27、35、38；派彩結果，頭獎1注中獎，獎金新台幣800萬元。",
+        "url": "https://www.cna.com.tw/news/ahel/202607110217.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-11T14:06:09+00:00"
+      },
+      {
+        "id": "c6d05f50edd4",
+        "title": "MEDTNER Nikolaj",
+        "summary": "Nikolaj Medtner (Klavier) Sämtliche Aufnahmen.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/bngx_20260711",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-11T14:00:40+00:00"
+      },
       {
         "id": "0d931dcd0380",
         "title": "颱風巴威釀113傷　土石流紅色警戒增至88條",
@@ -99,28 +131,12 @@
         "published": "2026-07-11T12:07:15+00:00"
       },
       {
-        "id": "9204a86c8e7f",
-        "title": "高鐵7/12全線正常營運　警報期間車票1年可退",
-        "summary": "（中央社記者張雄風台北11日電）台灣高鐵公司今天晚間宣布，明天全線正常營運，民眾若於颱風警報發布期間購買車票，可自乘車日起1年內，持未使用的車票至高鐵各車站辦理退費，免收手續費。",
-        "url": "https://www.cna.com.tw/news/ahel/202607110191.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-11T12:00:10+00:00"
-      },
-      {
         "id": "22c1e38a9813",
         "title": "MENDELSSOHN-BARTHOLDY Sämtliche Streichersinfonien",
-        "summary": "MENDELSSOHN-BARTHOLDY  Sämtliche Streichersinfonien Concerto Köln.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "MENDELSSOHN-BARTHOLDY  Sämtliche Streichersinfonien Concerto Köln.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/b-nbn",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-11T11:44:46+00:00"
-      },
-      {
-        "id": "1516fe746861",
-        "title": "颱風小三通7/12多喊停　僅金門五通下午待天氣決定",
-        "summary": "（中央社記者陳婕翎台北11日電）颱風巴威打亂海上交通，航港局統計，今天共有13航線，計116航次停航；明天預估仍有14航線、101航次不開船，多數小三通航程停航，但下午「金門-五通」可能視天氣開船。",
-        "url": "https://www.cna.com.tw/news/ahel/202607110185.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-11T11:25:57+00:00"
       },
       {
         "id": "6578f2737753",
@@ -145,22 +161,6 @@
         "url": "https://archive.org/details/nhfx_20260711",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-11T10:58:50+00:00"
-      },
-      {
-        "id": "55a592ad1d90",
-        "title": "颱風巴威釀災 初估全台農損528萬元",
-        "summary": "（中央社記者吳欣紜台北11日電）農業部今天發布受巴威颱風影響，農業災情第一波報告，截至今天傍晚5時止，全台損失528萬元，主要受損縣市為苗栗縣362萬元；主要受損農作物為棗，金額約288萬元。",
-        "url": "https://www.cna.com.tw/news/ahel/202607110179.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-11T10:54:42+00:00"
-      },
-      {
-        "id": "cfd9fa49936a",
-        "title": "Podfic Toilet Training",
-        "summary": "A podfic of https://archiveofourown.org/works/86622736#main.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/podfic-toilet-training",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-11T06:23:41+00:00"
       },
       {
         "id": "0a9d554f4fb3",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-11T15:02:32.189904+00:00"
+        "published": "2026-07-11T17:05:46.948887+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-11T15:02:32.189894+00:00"
+        "published": "2026-07-11T17:05:46.948877+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-11T15:02:32.189884+00:00"
+        "published": "2026-07-11T17:05:46.948867+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-11T15:02:32.189874+00:00"
+        "published": "2026-07-11T17:05:46.948857+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-11T15:02:32.189863+00:00"
+        "published": "2026-07-11T17:05:46.948846+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-11T15:02:32.189853+00:00"
+        "published": "2026-07-11T17:05:46.948835+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-11T15:02:32.189843+00:00"
+        "published": "2026-07-11T17:05:46.948824+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-11T15:02:32.189832+00:00"
+        "published": "2026-07-11T17:05:46.948813+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-11T15:02:32.189822+00:00"
+        "published": "2026-07-11T17:05:46.948799+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-11T15:02:32.189811+00:00"
+        "published": "2026-07-11T17:05:46.948769+00:00"
       },
       {
         "id": "4781535dc9c4",
