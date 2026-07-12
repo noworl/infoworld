@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-07-12T04:30:07.039230+00:00",
+  "updated_at": "2026-07-12T07:32:28.927319+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "3b271bb2593d",
+        "title": "分科測驗7/13登場　教部：考分區已完成災損復原",
+        "summary": "（中央社記者許秩維台北12日電）受颱風巴威影響，115學年分科測驗延至7月13日、14日舉行，教育部今天表示，經各考區大學今天上午確認，全國各考分區已完成災損復原，並進行試場布置、設備測試等試務準備。",
+        "url": "https://www.cna.com.tw/news/ahel/202607120104.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-12T06:07:30+00:00"
+      },
+      {
+        "id": "50b995d7fcb3",
+        "title": "台鐵內灣線提前搶通　部分海運航線午後復航",
+        "summary": "（中央社記者余曉涵台北12日電）颱風巴威遠離，台鐵今天表示，內灣線提前至下午2時52分恢復通行。交通部航港局指出，基隆-馬祖航線晚間正常開航，金門小三通的水頭-五通午後恢復航駛。",
+        "url": "https://www.cna.com.tw/news/ahel/202607120103.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-12T06:06:28+00:00"
+      },
+      {
+        "id": "d472b21f49c4",
+        "title": "西南風沉降6縣市防高溫　花蓮玉里飆37.6度",
+        "summary": "（中央社記者張雄風台北12日電）氣象署今天表示，西南風沉降影響，新竹至彰化、花東地區防高溫，今天截至下午1時許，花蓮玉里已出現攝氏37.6度高溫。",
+        "url": "https://www.cna.com.tw/news/ahel/202607120102.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-12T06:01:26+00:00"
+      },
+      {
+        "id": "4700da92e283",
+        "title": "紐約退伍軍人病疫情延燒　古根漢美術館檢出病菌",
+        "summary": "（中央社紐約11日綜合外電報導）美國紐約市知名的古根漢美術館冷卻水塔近期被驗出含有可能導致退伍軍人病的細菌，成為曼哈頓最新一波疫情期間，多棟檢出相關細菌的建築物之一。",
+        "url": "https://www.cna.com.tw/news/aopl/202607120099.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-12T05:54:19+00:00"
+      },
+      {
+        "id": "c769a9f3cb45",
+        "title": "40床奇萊山屋8月試營運　科技藝術與環保的高山結晶",
+        "summary": "（中央社記者李先鳳花蓮12日電）攀登奇萊山相當熱門，山屋通常不足以應付所有登山者需求，太管處新建「奇萊山屋」已完工，坐落海拔3345公尺高山，兼具現代化機能、採環保工法的中型山屋，預計8月開始試營運。",
+        "url": "https://www.cna.com.tw/news/ahel/202607120098.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-12T05:53:17+00:00"
+      },
+      {
+        "id": "80b3691b173b",
+        "title": "台塑石化：汽柴油13日起價格不調整",
+        "summary": "（中央社記者鍾榮峰台北12日電）台塑石化今天公布加盟加油站參考零售價，13日凌晨1時起汽油和柴油批售價格不調整，市場零售價格由加油站自行決定。",
+        "url": "https://www.cna.com.tw/news/ahel/202607120094.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-12T05:43:09+00:00"
+      },
+      {
+        "id": "077481c7ca6a",
+        "title": "7成嬰兒1歲前曾感染RSV　醫揭最大破口在家中",
+        "summary": "（中央社記者陳婕翎台北12日電）孩子感染呼吸道融合病毒（RSV）發燒、咳不停，新手爸媽好頭痛，研究顯示，近7成嬰兒在1歲前曾感染，醫揭最大破口在家中，呼籲孕期就應與醫師討論，及早規劃寶寶的保護策略。",
+        "url": "https://www.cna.com.tw/news/ahel/202607120087.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-12T05:23:53+00:00"
+      },
+      {
+        "id": "5355929a1829",
+        "title": "防堵食安漏洞　衛福部擬重罰隱匿、導入專業獨董",
+        "summary": "（中央社記者陳婕翎台北12日電）中聯油品致癌物超標事件，食安漏洞引發關注。衛福部長石崇良今天提出4大精進方向，強制高風險食品原料逐批留樣檢驗、更換原料須試製、重罰隱匿，及設專業獨董強化公司治理。",
+        "url": "https://www.cna.com.tw/news/ahel/202607120085.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-12T05:21:49+00:00"
+      },
+      {
+        "id": "34b3d43cd9d7",
+        "title": "DNA Lounge: Nu Metal vs. Emo (2026-07-10d)",
+        "summary": "Performing Live: THE LAST DECADE NÜ-METAL JACKET Dazzle Room: Apollyon Selena Catwoman Sumkid Fantoms Nu Metal Tribute bands battle it out while Nu Metal World DJs between sets and in the second room all night....This item belongs to: audio/dnalounge.This item has files of the following types: Archi...",
+        "url": "https://archive.org/details/DNALOUNGE-2026-07-10d",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-12T05:20:54+00:00"
+      },
+      {
+        "id": "dcfd8873d5ce",
+        "title": "DNA Lounge: Mortified: Super Sexy Summer Show (2026-07-10a)",
+        "summary": "MORTIFIED: SUPER SEXY SUMMER SHOW Mortified is a comic excavation of adolescent writing, art & media. PS: It totally likes you. Performing: G.J. Echternkamp Jessica Tashker Jacob Russell Snyder Amanda Janik Tess Menzies HEAT UP YOUR SUMMER with our SUPER SEXY SUMMER SHOW! Filled with our best hormon...",
+        "url": "https://archive.org/details/DNALOUNGE-2026-07-10a",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-12T05:19:53+00:00"
+      },
+      {
+        "id": "c825e78f2a48",
+        "title": "DNA Lounge: Club Drake (2026-07-10)",
+        "summary": "CLUB DRAKE Main Room: Baywav BB Cora Alrose Started from the bottom, now we here. A full night of Drake hits, throwbacks, remixes, and late-night energy for the real Ovo fans. Buy tickets: https://www.dnalounge.com/calendar/2026/07-10.html hiphop....This item belongs to: audio/dnalounge.This item ha...",
+        "url": "https://archive.org/details/DNALOUNGE-2026-07-10",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-12T05:18:58+00:00"
+      },
+      {
+        "id": "35e60f3f9ee1",
+        "title": "招牌鐵桿侵入礁溪軌道　台鐵列車撞上、40人換乘",
+        "summary": "（中央社記者王朝鈺宜蘭12日電）台鐵4007次區間快車今天上午7時許從礁溪站開出後，撞上侵入路線的招牌鐵桿，導致列車無法行駛。台鐵指出，40名旅客已換乘，現場於上午7時55分排除障礙，路線恢復正常。",
+        "url": "https://www.cna.com.tw/news/ahel/202607120066.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-12T04:06:05+00:00"
+      },
       {
         "id": "1c99c900cbc8",
         "title": "國際物理奧林匹亞競賽　台灣5生獲5金、國際排名第1",
@@ -9,46 +105,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202607120065.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-07-12T03:53:03+00:00"
-      },
-      {
-        "id": "3ebe29b91812",
-        "title": "颱風遠離　桃機觀景台開放、聯外交通多恢復正常",
-        "summary": "（中央社記者吳睿騏桃園機場12日電）颱風巴威逐漸遠離，桃園國際機場今天恢復正常運作，機場公司表示，第二航廈南北觀景台重新開放，機場捷運、高鐵、台鐵、計程車、停車場及多數客運路線都恢復正常營運。",
-        "url": "https://www.cna.com.tw/news/ahel/202607120061.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-12T03:30:54+00:00"
-      },
-      {
-        "id": "a6d19410a6c3",
-        "title": "觀光署公布非法旅宿1609家　上半年開罰8158萬元",
-        "summary": "（中央社記者余曉涵台北12日電）交通部觀光署公布今年上半年各縣市稽查旅館和民宿狀況，其中非法旅館增加137家，非法民宿則減少18家，總計有1609家非法旅宿，共開罰8158.4萬元。",
-        "url": "https://www.cna.com.tw/news/ahel/202607120060.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-12T03:30:52+00:00"
-      },
-      {
-        "id": "405fbf1c395b",
-        "title": "中聯油品檢驗出現矛盾　衛福部交檢調釐清是否造假",
-        "summary": "（中央社記者陳婕翎台北12日電）衛福部長石崇良今天說，接連發生中聯留樣油合格但下游產品超標，樣本已無法信賴，暫不對外公布中聯4月至6月停工前生產29批號油品樣本檢驗結果，由檢調釐清是否涉及檢體造假。",
-        "url": "https://www.cna.com.tw/news/ahel/202607120046.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-12T03:12:22+00:00"
-      },
-      {
-        "id": "4edf8a21fb51",
-        "title": "分科測驗延至7/13、7/14　啟動金屬探測防電子舞弊",
-        "summary": "（中央社記者許秩維台北12日電）受颱風巴威影響，115學年分科測驗延至7月13日、14日舉行，今天下午4時至6時開放考生查看試場；為防止電子舞弊，分科測驗將於必要時進行電子及金屬探測。",
-        "url": "https://www.cna.com.tw/news/ahel/202607120043.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-12T03:06:16+00:00"
-      },
-      {
-        "id": "982ea12c8b40",
-        "title": "颱風巴威遠離　海運14航線101航次仍停航",
-        "summary": "（中央社記者余曉涵台北12日電）颱風巴威遠離，不過，航港局表示，今天包含基隆-馬祖等14航線，仍有101航次停航。",
-        "url": "https://www.cna.com.tw/news/ahel/202607120037.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-12T02:44:03+00:00"
       },
       {
         "id": "6f75001e3937",
@@ -99,68 +155,12 @@
         "published": "2026-07-12T02:29:38+00:00"
       },
       {
-        "id": "b0aa404f0310",
-        "title": "因應颱風巴威受災戶　6大壽險啟動保戶關懷服務",
-        "summary": "（中央社記者呂晏慈台北12日電）中央災害應變中心統計至今天上午7時，颱風巴威造成全台134人受傷，傷勢多為騎車摔傷等。包括國泰、富邦、南山、新光、凱基及台灣等6大壽險公司，均推出各項保戶關懷措施，包含快速理賠、保費緩繳及預付醫療保險金等服務。",
-        "url": "https://www.cna.com.tw/news/ahel/202607120033.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-12T02:20:54+00:00"
-      },
-      {
-        "id": "366dc9a776b0",
-        "title": "(Podfic) The First Annual PTMC Skeeball Tournament",
-        "summary": "Podfic of: https://archiveofourown.org/works/83403616.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/podfic-the-first-annual-ptmc-skeeball-tournament",
+        "id": "0eed3fe1f689",
+        "title": "(Podfic) Rainbows",
+        "summary": "Podfic of: https://archiveofourown.org/works/84327281.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/podfic-rainbows",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-12T02:11:02+00:00"
-      },
-      {
-        "id": "446ab3dbbe1c",
-        "title": "颱風巴威遠離　澎湖空中交通恢復海運仍停航",
-        "summary": "（中央社澎湖縣12日電）颱風巴威遠離，澎湖對外空中交通今天恢復，全力疏運滯留旅客返台，目前候補旅客逾100人，海運交通仍處停航。",
-        "url": "https://www.cna.com.tw/news/ahel/202607120026.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-12T01:47:39+00:00"
-      },
-      {
-        "id": "dd48afcd519d",
-        "title": "And Having A Marvelous Time 7.2",
-        "summary": "and having a marvelous time 7.2.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/and-having-a-marvelous-time-7.2",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-12T01:39:42+00:00"
-      },
-      {
-        "id": "18a21c3c2baf",
-        "title": "CrANk Dh@t C0bR@",
-        "summary": "SoundCloud track by B00GIE_0N_DAh_B3AT. Original URL: https://soundcloud.com/crystvr/crank-dht-c0br.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Book Cover, Item Tile, Metadata, Text, VBR MP3",
-        "url": "https://archive.org/details/soundcloud-203527624-b00gie_0n_dah_b3at-crank-dh-t-c0br",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-12T01:26:01+00:00"
-      },
-      {
-        "id": "755b36af075b",
-        "title": "LustMagick777",
-        "summary": "SoundCloud track by B00GIE_0N_DAh_B3AT. Original URL: https://soundcloud.com/crystvr/lustmagick777.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Book Cover, Item Tile, Metadata, Text, VBR MP3",
-        "url": "https://archive.org/details/soundcloud-228302314-b00gie_0n_dah_b3at-lustmagick777",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-12T01:25:16+00:00"
-      },
-      {
-        "id": "60610816e636",
-        "title": "颱風巴威竹苗雨量破700毫米　未來一週悶熱南部降雨持續",
-        "summary": "（中央社記者余曉涵台北12日電）颱風巴威減弱為輕度颱風並遠離，氣象署解除颱風警報。根據氣象署統計，累積雨量方面，截至12日上午8時，苗栗及新竹都超過700毫米，台中也破600毫米。",
-        "url": "https://www.cna.com.tw/news/ahel/202607120022.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-12T01:20:30+00:00"
-      },
-      {
-        "id": "07881b6bbf15",
-        "title": "颱風巴威遠離  淡江大橋預計10時恢復通車",
-        "summary": "（中央社記者余曉涵台北12日電）颱風巴威襲台期間，淡江大橋預警性封閉。交通部公路局今天表示，經過巡檢及清理作業後，淡江大橋預計上午10時恢復通車。",
-        "url": "https://www.cna.com.tw/news/ahel/202607120019.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-12T01:15:24+00:00"
+        "published": "2026-07-12T02:26:26+00:00"
       },
       {
         "id": "0a9d554f4fb3",
@@ -507,6 +507,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -724,6 +804,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "c85dfd646fc1",
+        "title": "客家工藝太平藍驚艷洛杉磯　主打「越在地、越國際」",
+        "summary": "（中央社記者林宏翰洛杉磯11日專電）台中太平的客家社區工藝「太平藍」團隊跨越太平洋，今天在洛杉磯展出作品，帶領數十名僑胞參與手作課程，董事長葉晉玉分享核心理念「越在地，越國際」。",
+        "url": "https://www.cna.com.tw/news/acul/202607120086.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-07-12T05:22:51+00:00"
+      },
       {
         "id": "92b9e250e971",
         "title": "防範 Facebook 詐騙陷阱，不可不知的四大警訊與帳號自救指南",
@@ -1259,14 +1347,6 @@
         "url": "https://www.cna.com.tw/news/acul/202607080332.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-07-08T10:36:19+00:00"
-      },
-      {
-        "id": "bb403db5fae5",
-        "title": "南投營北國中舞龍隊將赴波蘭演出　讓世界看見台灣",
-        "summary": "（中央社記者蕭博陽南投縣8日電）南投縣立營北國中舞龍隊將前往波蘭演出，縣府今天授旗表示，學生從地方一路舞向國際，不僅舞出高超技藝，更是追求夢想與對家鄉的認同，更讓世界看見台灣文化的溫度與力量。",
-        "url": "https://www.cna.com.tw/news/acul/202607080299.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-07-08T09:40:09+00:00"
       },
       {
         "id": "f4b1ca8344bb",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-12T04:30:05.692012+00:00"
+        "published": "2026-07-12T07:32:27.111797+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-12T04:30:05.692001+00:00"
+        "published": "2026-07-12T07:32:27.111786+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-12T04:30:05.691991+00:00"
+        "published": "2026-07-12T07:32:27.111776+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-12T04:30:05.691980+00:00"
+        "published": "2026-07-12T07:32:27.111766+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-12T04:30:05.691968+00:00"
+        "published": "2026-07-12T07:32:27.111755+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-12T04:30:05.691946+00:00"
+        "published": "2026-07-12T07:32:27.111745+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-12T04:30:05.691910+00:00"
+        "published": "2026-07-12T07:32:27.111734+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-12T04:30:05.691899+00:00"
+        "published": "2026-07-12T07:32:27.111724+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-12T04:30:05.691889+00:00"
+        "published": "2026-07-12T07:32:27.111714+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-12T04:30:05.691879+00:00"
+        "published": "2026-07-12T07:32:27.111704+00:00"
       },
       {
         "id": "4781535dc9c4",
