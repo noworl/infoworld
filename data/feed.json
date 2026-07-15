@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-15T19:23:30.509248+00:00",
+  "updated_at": "2026-07-15T21:08:34.378461+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "ee87870e81d5",
+        "title": "MOZART Così fan tutte",
+        "summary": "MOZART  Così fan tutte The Drottningholm Court Theatre Orchestra  Chorus Arnold Östman (1985).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
+        "url": "https://archive.org/details/cbv_20260715",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-15T19:28:24+00:00"
+      },
+      {
+        "id": "9d54b0f596cb",
+        "title": "Kraken Klaw!",
+        "summary": "Written: https://archiveofourown.org/works/88143846 Podfic: https://archiveofourown.org/works/88615791 By meg_ofmd Stede Bonnet is having a really bad day. His father is forcing him to spend his summer away from college working at a stupid church camp he definitely doesn’t want to go to....This item...",
+        "url": "https://archive.org/details/kraken-klaw",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-15T19:19:26+00:00"
+      },
       {
         "id": "bd7756b95579",
         "title": "Draco Malfoy’s Ledger of Perceived Slights — Entry #32",
@@ -37,7 +53,7 @@
       {
         "id": "65b335889a10",
         "title": "MOZART Le Nozze di Figaro",
-        "summary": "MOZART  Le Nozze di Figaro The Drottningholm Court Theatre Orchestra & Chorus Arnold Östman (1988).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "MOZART  Le Nozze di Figaro The Drottningholm Court Theatre Orchestra & Chorus Arnold Östman (1988).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, V...",
         "url": "https://archive.org/details/vfb_20260715",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-15T17:39:24+00:00"
@@ -65,22 +81,6 @@
         "url": "https://archive.org/details/bs2016-03-06.aud.calhoon.flac16",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-15T16:21:21+00:00"
-      },
-      {
-        "id": "9f7cd881ac86",
-        "title": "Bruce Springsteen - 2008-05-07, Count Basie Theatre, Red Bank",
-        "summary": "Bruce Springsteen & The E-Street Band Count Basie Theatre Red Bank, NJ 2008-05-07 Source: soundboard master provided by anonymous Lineage: SBD > D8 > CDR > iTunes > .aiff 2026-07 rework: aiff -> Adobe Audition -> cdwave -> TLH Set 01: Darkness On The Edge Of Town 01 Tuning & Introduction (Rusty Youn...",
-        "url": "https://archive.org/details/bs2008-05-07.iem.anonymous.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-15T16:18:11+00:00"
-      },
-      {
-        "id": "60a7f90679b3",
-        "title": "Bruce Springsteen - 1978-08-26, Providence Civic Center, Providence",
-        "summary": "Bruce Springsteen & The E Street Band August 26, 1978 Providence Civic Center Providence, RI ----- Source: Steve Hopkins AUD Master + \"All Night Long\" bootleg Lineage: Internet Downloads > ??? > FLAC Notes: -- Created by jt -- This source is a merge of two other sources....This item belongs to: audi...",
-        "url": "https://archive.org/details/bs1978-08-26.aud.jt-aud-mix.flac16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-15T16:12:58+00:00"
       },
       {
         "id": "697569d51845",
@@ -507,6 +507,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,6 +805,54 @@
     ],
     "破(day)": [
       {
+        "id": "003c5ca165e0",
+        "title": "Turn a Raspberry Pi Pico W into a driverless USB WiFi adapter",
+        "summary": "pico-usb-wifi by 白一百 is firmware for the Raspberry Pi Pico W that turns it into a driverless USB WiFi adapter, enumerating as a USB CDC-NCM device. The firmware works as a transparent layer-2 bridge that forwards frames between the Pico W’s wireless interface and its USB interface. The host’s USB in...",
+        "url": "https://blog.adafruit.com/2026/07/15/turn-a-raspberry-pi-pico-w-into-a-driverless-usb-wifi-adapter/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-15T20:09:23+00:00"
+      },
+      {
+        "id": "eb00f03b3656",
+        "title": "Boost REM Sleep with a Wearable",
+        "summary": "Credit: Huiliang &#8220;Evan&#8221; Wang via The University of Texas in Austin A team of researchers led by The University of Texas in Austin have developed a soft wearable device called &#8220;NEUSLeeP&#8221; capable of stimulating deep brain regions and monitoring brain activity in real time. The ...",
+        "url": "https://blog.adafruit.com/2026/07/15/boost-rem-sleep-with-a-wearable/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-15T20:00:42+00:00"
+      },
+      {
+        "id": "72c24b6172c9",
+        "title": "An Arduino library for controlling compatible Kenwood audio equipment",
+        "summary": "Do you have certain Kenwood equipment and wish to controll them via software? KenwoodXS is an Arduino library for controlling and monitoring compatible Kenwood audio equipment over the proprietary Kenwood XS System Control bus. The library can send raw command bytes and includes named helpers for co...",
+        "url": "https://blog.adafruit.com/2026/07/15/an-arduino-library-for-controlling-compatible-kenwood-audio-equipment/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-15T19:59:52+00:00"
+      },
+      {
+        "id": "c8e135bc394a",
+        "title": "Crafting a panel meter calculator with floating point",
+        "summary": "Michał Zalewski on the lcamtuf’s thing blog writes: I’m a bit of a calculator nerd. For a while, calculators lagged behind general-purpose computing because of the lack of a suitable display technology. I constructed the display itself out of six generic “SO-45” panel voltmeters from Amazon, plus on...",
+        "url": "https://blog.adafruit.com/2026/07/15/crafting-a-panel-meter-calculator-with-floating-point/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-15T19:48:13+00:00"
+      },
+      {
+        "id": "c36d4098971e",
+        "title": "How To Read More Books",
+        "summary": "Are we approaching a reading crisis or does &#8220;THE END OF READING IS HERE&#8221; just make for a catchy headline?  Sounds like a lot of hand-wringing to me, but reading is fun! I hit a rut in my reading  and was amazed at how much an e-reader helped me dive back into content over 280 [&#8230;]",
+        "url": "https://blog.adafruit.com/2026/07/15/how-to-read-more-books/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-15T19:37:20+00:00"
+      },
+      {
+        "id": "c6fc28e447fb",
+        "title": "Drawing a moving 3D internal combustion engine",
+        "summary": "Bartosz Ciechanowski discusses the invention of the internal combustion engine in the 19th century and how it has revolutionized transportation over land, water, and air. All with detailed 3D images, many moving. Despite their omnipresence in modern day, the operation of an engine may be cryptic. Ov...",
+        "url": "https://blog.adafruit.com/2026/07/15/drawing-a-moving-3d-internal-combustion-engine/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-15T19:23:38+00:00"
+      },
+      {
         "id": "7235afe53c9c",
         "title": "Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores",
         "summary": "Tris Sherliker was made aware of an interesting shirt by CDN Akamai supplied via Uniqlo stores in support of their Peace for All campaign. Is that … a shebang?! My wife was right that I’d want to see it. Was that… a shebang? Take a closer look at the text block (above, partial) Yes, a shebang! [&#82...",
@@ -773,52 +901,12 @@
         "published": "2026-07-15T17:15:25+00:00"
       },
       {
-        "id": "6b4aa0d7c3c5",
-        "title": "How to build a circular LCD clock",
-        "summary": "blinry wanted a clock in the kitchen without relying on the small one on the oven. So I recently built a wall clock from a circular LCD screen! It’s really great because it can display any clock face you want, even ones you code yourself! Waveshare’s 7 inch circular LCD Raspberry Pi 3-5 A microSD [&...",
-        "url": "https://blog.adafruit.com/2026/07/15/how-to-build-a-circular-lcd-clock/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-15T16:09:04+00:00"
-      },
-      {
         "id": "884d14f9fa52",
         "title": "Hit Machine review – slick music biz drama strikes too many false notes",
         "summary": "Soho theatre, LondonJosh Radnor is a music executive whose life is upended by his wayward brother, in a play about masculinity, creativity, appropriation and traumaOn paper, writer Jonathan Caren’s Hit Machine has all the makings of a chart-topping smash. Featuring the London stage debuts of Josh Ra...",
         "url": "https://www.theguardian.com/stage/2026/jul/15/hit-machine-review-soho-theatre",
         "source": "Stage | The Guardian",
         "published": "2026-07-15T16:00:01+00:00"
-      },
-      {
-        "id": "4ba9240471b3",
-        "title": "Openstrap Edge makes a WHOOP 4.0 band useful without a subscription",
-        "summary": "The WHOOP 4.0 is a screenless fitness wearable designed for 24/7 continuous tracking. It focuses heavily on sleep quality, physiological recovery, and daily exertion levels rather than step counts. The tracker operates via a subscription model and is typically priced between $30/month and an annual ...",
-        "url": "https://blog.adafruit.com/2026/07/15/openstrap-edge-makes-a-whoop-4-0-band-useful-without-a-subscription/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-15T15:25:21+00:00"
-      },
-      {
-        "id": "746b25df1a76",
-        "title": "Voice-activity detection, speech to text, and text to speech all on RP2040",
-        "summary": "Pete Warden is convinced local voice interfaces and sub-$1 embedded chips will fundamentally change how we interact with everything in the physical world. I’m so excited to introduce Moonshine Micro, a version of the Moonshine Voice open source framework that can run a useful voice interface in just...",
-        "url": "https://blog.adafruit.com/2026/07/15/voice-activity-detection-speech-to-text-and-text-to-speech-all-on-rp2040/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-15T14:58:04+00:00"
-      },
-      {
-        "id": "860bdfa48e9f",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/07/15/the-python-on-microcontrollers-newsletter-subscribe-for-free-7-15/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-15T14:12:36+00:00"
-      },
-      {
-        "id": "eb236da9a0dc",
-        "title": "The Pudding Presents a History of Restaurant Menus",
-        "summary": "image via The Pudding &#160; Stephen Lurie&#8217;s A History of Menus is a Menu of History for The Pudding tells the story of NYPL&#8217;s Buttolph Collection in ten dishes: Soup, Celery, Vol-au-vent, Pork Chops Saute, Iced Coffee, Thursday Special, Pepper Pot, Horse&#8217;s Neck, Potatoes O&#8217;B...",
-        "url": "https://blog.adafruit.com/2026/07/15/the-pudding-presents-a-history-of-restaurant-menus/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-15T14:00:29+00:00"
       },
       {
         "id": "bd6cc77a8b29",
@@ -947,14 +1035,6 @@
         "url": "https://claude.com/blog/working-at-the-frontier-why-base44-trusts-claude-fable-5-with-their-most-challenging-engineering-work",
         "source": "Claude Blog",
         "published": "2026-07-15T00:00:00+00:00"
-      },
-      {
-        "id": "f8e8b7a16048",
-        "title": "Building a robotics research setup that lives next to a desk",
-        "summary": "Matthias Plappert at dfdx labs will spend the next several months doing independent research on robotic manipulation, and doing it in the open. I don’t expect the main output to be papers or an open-source codebase. What I care about here is the research log itself: what works, what fails, and what ...",
-        "url": "https://blog.adafruit.com/2026/07/14/building-a-robotics-research-setup-that-lives-next-to-a-desk/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-14T21:29:13+00:00"
       },
       {
         "id": "e8d8c5f9d863",
