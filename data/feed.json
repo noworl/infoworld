@@ -1,11 +1,19 @@
 {
-  "updated_at": "2026-07-17T16:21:34.479308+00:00",
+  "updated_at": "2026-07-17T18:11:59.056481+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "ef1bda831293",
+        "title": "Friends Sabers 08",
+        "summary": "Friends, Sabers, and Other Essentials for Solving a Conspiracy 8.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, Metadata, VBR MP3",
+        "url": "https://archive.org/details/friends-sabers-08",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-17T17:55:25+00:00"
+      },
+      {
         "id": "07034e38bd3c",
         "title": "MONTEVERDI Orfeo",
-        "summary": "MONTEVERDI  Orfeo Sergio Vartolo.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "MONTEVERDI  Orfeo Sergio Vartolo.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/bngx_20260717",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-17T15:46:19+00:00"
@@ -17,6 +25,14 @@
         "url": "https://www.cna.com.tw/news/ahel/202607170341.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-07-17T15:40:01+00:00"
+      },
+      {
+        "id": "61aa5879df66",
+        "title": "20260717 Flora And Fauna",
+        "summary": "Podfic of: https://archiveofourown.org/works/59442781.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/20260717-flora-and-fauna",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-17T15:14:37+00:00"
       },
       {
         "id": "28cd17b85789",
@@ -121,22 +137,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202607170305.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-07-17T12:39:36+00:00"
-      },
-      {
-        "id": "60269abb60b9",
-        "title": "(Podfic) Just Needed",
-        "summary": "Podfic of: https://archiveofourown.org/works/41346621 read by: flowerparrish & itsyaboimothman.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/podfic-just-needed",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-17T11:41:03+00:00"
-      },
-      {
-        "id": "2da5b4fd8c37",
-        "title": "chuong-84",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_17730_1784287094_jOng",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-17T11:21:05+00:00"
       },
       {
         "id": "4b4c8362b024",
@@ -725,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "a622be74473e",
+        "title": "This free Ableton Extension slices up chunks of audio for Move, Live",
+        "summary": "MID continues to make cool stuff for Ableton Live, with a special emphasis on Ableton Move. Ever wished you could quickly chop up a track or other longer material into bar-aligned loops -- especially for easy triggering on Move? Move Loop Slicer does just that, and it's free now.\nThe post This free ...",
+        "url": "https://cdm.link/free-mid-ableton-loop-slicer/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-17T18:08:43+00:00"
+      },
+      {
+        "id": "ad108588d89c",
+        "title": "John Park’s CircuitPython Parsec: Bitmaptools Rotozoom Rotation",
+        "summary": "#circuitpythonparsec Rotate a bitmap with ease using bitmaptools.rotozoom in CircuitPython. code example To learn about CircuitPython: https://circuitpython.org &#160;",
+        "url": "https://blog.adafruit.com/2026/07/17/john-parks-circuitpython-parsec-bitmaptools-rotozoom-rotation/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-17T16:50:22+00:00"
+      },
+      {
         "id": "e3bd7a07cb77",
         "title": "The Smile of Her review – actor’s autobiographical show speeds through its resonant pains",
         "summary": "Marylebone theatre, London Christine Lahti tells the story of family life, misunderstandings between mothers and daughters, and her career – but its focus is blurredChristine Lahti’s autobiographical show addresses many important issues and emotional pressure points. It is the story of family life, ...",
@@ -845,6 +861,22 @@
         "published": "2026-07-17T00:00:23+00:00"
       },
       {
+        "id": "bb7f085999eb",
+        "title": "Zero risk isn't the job: a CISO's guide to agentic AI",
+        "summary": "Zero risk isn't the job: a CISO's guide to agentic AI",
+        "url": "https://claude.com/blog/ciso-guide-to-agentic-ai",
+        "source": "Claude Blog",
+        "published": "2026-07-17T00:00:00+00:00"
+      },
+      {
+        "id": "58bb1215acb4",
+        "title": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+        "summary": "Working at the frontier: How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+        "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+        "source": "Claude Blog",
+        "published": "2026-07-17T00:00:00+00:00"
+      },
+      {
         "id": "f8791f04f45a",
         "title": "Mushroom LED Lamp #3DThursday #3DPrinting",
         "summary": "Shared by Maxx Design on MakerWorld: A cozy mushroom-shaped lamp supporting three light sources: Bambu LED Lamp Kit, RGBW Puck Lights, and standard tea lights. Print cap with or without dots (AMS or glue-in slot alignment). All parts modular and screw together — no glue needed for the base. Includes...",
@@ -875,14 +907,6 @@
         "url": "https://blog.adafruit.com/2026/07/16/toolbox-organizer-for-3d-print-miniature-tools-3dprinting-3dthursday/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-07-16T20:00:34+00:00"
-      },
-      {
-        "id": "ff2cdaecd502",
-        "title": "John Park’s Workshop — LIVE TODAY 7/16/26",
-        "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects CircuitPython Parsec Tool Tips Retro Gear  and more! The live video will be on Youtube LIVE, Twitch, Periscope (Twitter) and Facebook. Join maker John Pa...",
-        "url": "https://blog.adafruit.com/2026/07/16/john-parks-workshop-live-today-7-16-26/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-16T19:25:21+00:00"
       },
       {
         "id": "048b8a2b69bb",
@@ -1797,34 +1821,10 @@
         "published": "2026-07-07T16:00:00+00:00"
       },
       {
-        "id": "ecfed7587532",
-        "title": "Ableton quietly launched Learn, powered by the engine from Note, Move",
-        "summary": "School's out for summer. But Ableton's getting ready for back-to-school, soft-launching Ableton Learn with lessons for starting from the beginning with music and production. And there's a twist: its interactive features are powered by the same engine that Ableton Move and Note use.\nThe post Ableton ...",
-        "url": "https://cdm.link/ableton-learn/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-07T13:57:05+00:00"
-      },
-      {
         "id": "5283c22adfa6",
         "title": "How people are using Claude Cowork",
         "summary": "How people are using Claude Cowork",
         "url": "https://claude.com/blog/how-people-are-using-claude-cowork",
-        "source": "Claude Blog",
-        "published": "2026-07-07T00:00:00+00:00"
-      },
-      {
-        "id": "8f6a37b62da4",
-        "title": "Claude Cowork is coming to mobile and web",
-        "summary": "Claude Cowork is coming to mobile and web",
-        "url": "https://claude.com/blog/cowork-web-mobile",
-        "source": "Claude Blog",
-        "published": "2026-07-07T00:00:00+00:00"
-      },
-      {
-        "id": "cd698fd41c4d",
-        "title": "Choosing a Claude model and effort level in Claude Code",
-        "summary": "Choosing a Claude model and effort level in Claude Code",
-        "url": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
         "source": "Claude Blog",
         "published": "2026-07-07T00:00:00+00:00"
       },
@@ -2486,6 +2486,14 @@
       }
     ],
     "序(month)": [
+      {
+        "id": "0cf02d626e47",
+        "title": "UK National AI in Research Survey",
+        "summary": "Quoting from the email I received today inviting me to participate in this survey (which you should too if you work in research of any kind in the UK): The UK National AI in Research Survey is being administered by RAND Europe on behalf of UKRI and the UK Metascience Unit. This survey is a key compo...",
+        "url": "https://museumofportablesound.com/2026/07/17/uk-national-ai-in-research-survey/",
+        "source": "The Museum of Portable Sound",
+        "published": "2026-07-17T17:18:48+00:00"
+      },
       {
         "id": "d1d9cb3c5c44",
         "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
@@ -3349,14 +3357,6 @@
         "url": "https://museumofportablesound.com/2025/11/11/museum-of-portable-sound-marks-its-first-decade-of-operation/",
         "source": "The Museum of Portable Sound",
         "published": "2025-11-11T10:51:56+00:00"
-      },
-      {
-        "id": "8f5f5b06d8a1",
-        "title": "Wallpaper* Magazine Reviews ‘A Brief History of Sound Recording’",
-        "summary": "Wallpaper* Magazine has published a review of our forthcoming book, A Brief History of Sound Recording: Fully Incomplete and Highly Biased, in a new listicle entitled &#8220;14 of the best new books for music buffs.&#8221; &#8220;The book is a true labour of love and well worth your time.&#8221; – W...",
-        "url": "https://museumofportablesound.com/2025/11/04/wallpaper-magazine-reviews-a-brief-history-of-sound-recording/",
-        "source": "The Museum of Portable Sound",
-        "published": "2025-11-04T10:54:55+00:00"
       },
       {
         "id": "3faa169e142e",
