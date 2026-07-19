@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-07-19T15:06:10.701087+00:00",
+  "updated_at": "2026-07-19T17:09:18.550953+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "70932261c247",
+        "title": "萬里溪堰塞湖紅色警戒 台鐵7/20中午前正常行駛",
+        "summary": "（中央社記者余曉涵台北19日電）台鐵今天晚間表示，萬里溪堰塞湖水位到達壩頂的預估時間，將會隨降雨影響入流量而變動，目前預計明天中午前全線正常行駛，午後營運狀況將在明天上午公布。",
+        "url": "https://www.cna.com.tw/news/ahel/202607190202.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-19T14:08:58+00:00"
+      },
+      {
+        "id": "62b29678b59d",
+        "title": "中聯油案中市府公布新一批下游名單　增8業者下架",
+        "summary": "（中央社記者蘇木春台中19日電）中聯油品案，台中市府今天持續公布第3批至第18批預防性下架產品全國第2層下游業者名單，台中市第3層以下受影響業者名單再新增8家，包括早餐店、商行等，要求停止使用及下架。",
+        "url": "https://www.cna.com.tw/news/ahel/202607190201.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-19T14:00:56+00:00"
+      },
+      {
+        "id": "5636d035e5b8",
+        "title": "萬里溪堰塞湖若穩定溢流　最快7/20解除紅色警戒",
+        "summary": "（中央社記者張雄風台北19日電）根據中央災害應變中心最新資訊，萬里溪堰塞湖水位已超過高程約55公分，超過原判斷溢流點，溢流時間尚具不確定性；指揮官季連成裁示，今晚至明天是關鍵，若能穩定溢流，最快明天上午9時可解除紅色警戒。",
+        "url": "https://www.cna.com.tw/news/ahel/202607190200.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-19T13:59:54+00:00"
+      },
+      {
+        "id": "fbb441ecca7b",
+        "title": "萬里溪橋晚間10時預警性全面封閉　依水位滾動調整",
+        "summary": "（中央社記者余曉涵台北19日電）花蓮萬里溪堰塞湖紅色警戒，交通部公路局今天表示，考量夜間水位監看視線不良，萬里溪橋晚間10時至明天上午6時進行預警性全面封橋，並將視水位狀況，滾動調整封橋時間。",
+        "url": "https://www.cna.com.tw/news/ahel/202607190195.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-19T13:36:43+00:00"
+      },
+      {
+        "id": "7c03b0094429",
+        "title": "紙風車新北在地故事首登場  芭比娃娃之鄉泰山入戲",
+        "summary": "（中央社記者趙靜瑜台北19日電）紙風車368鄉鎮市區兒童藝術工程-永續啟航昨天與今天分別在新北市汐止及三重演出「台灣幻想曲」，首次推出新北「在地故事集錦」，芭比娃娃製作之鄉泰山入戲成為劇情的一部分。",
+        "url": "https://www.cna.com.tw/news/acul/202607190194.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-19T13:35:41+00:00"
+      },
       {
         "id": "5c0dfb76c715",
         "title": "15歲台灣大提琴新秀陳泱羽  新加坡國際音樂大賽摘冠",
@@ -51,124 +91,84 @@
         "published": "2026-07-19T09:39:20+00:00"
       },
       {
-        "id": "e3f67fd0f7e3",
-        "title": "圖像創作為語言  移工齊聚分享文化記憶",
-        "summary": "（中央社記者王寶兒台北19日電）以圖像創作為語言，國立新竹生活美學館推動「移工說說畫」活動，邀請在台移工透過閱讀、飲食體驗及創作，分享自身生命故事與文化記憶，打造族群交流與文化對話的平台。",
-        "url": "https://www.cna.com.tw/news/acul/202607190143.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-19T09:15:42+00:00"
-      },
-      {
-        "id": "1a2e94c5fc4d",
-        "title": "對流雲系發展旺盛　台中以北防局部大雨",
-        "summary": "（中央社台北19日電）中央氣象署發布豪雨特報，對流雲系發展旺盛，易有短延時強降雨，今天新竹縣山區有局部大雨或豪雨，台中以北、嘉義以南、南投地區、雲林及台東山區有局部大雨發生的機率。",
-        "url": "https://www.cna.com.tw/news/ahel/202607190140.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-19T08:58:36+00:00"
-      },
-      {
-        "id": "38d0754e2b58",
-        "title": "中聯原料油產品檢驗　7/20公布結果做再上架依據",
-        "summary": "（中央社記者陳婕翎台北19日電）問題油品案持續，食藥署今天公布，受影響業者家數連3天「加零」，維持1322家。中聯3至4月原料油及下游產品今天完成檢驗、明天對外公布，若相關證據足夠就會納入再上架評估。",
-        "url": "https://www.cna.com.tw/news/ahel/202607190134.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-19T08:30:22+00:00"
-      },
-      {
-        "id": "2875dff08fd8",
-        "title": "中華郵政招考  900人具碩博士學歷",
-        "summary": "（中央社記者余曉涵台北19日電）中華郵政今年公開招考，預計錄取983名，吸引1萬2000多人報名，其中更有900人具有碩、博士學歷者，平均錄取率略高於去年。",
-        "url": "https://www.cna.com.tw/news/ahel/202607190129.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-19T08:08:12+00:00"
-      },
-      {
-        "id": "95e862df39f1",
-        "title": "萬里溪堰塞湖水位距壩頂僅6公分　估傍晚觸頂",
-        "summary": "（中央社記者張雄風台北19日電）根據中央災害應變中心最新資訊，花蓮萬里溪堰塞湖水位距壩頂高程僅剩6公分，空拍顯示滲水量增大，目前仍預估水位將於傍晚5時至6時達壩頂，若發生溢流或潰決，影響範圍仍會侷限於河道內。",
-        "url": "https://www.cna.com.tw/news/ahel/202607190125.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-19T07:56:03+00:00"
-      },
-      {
-        "id": "ffbb00eb9295",
-        "title": "Give Me Your Petals 2.2",
-        "summary": "give me your petals, i will take your thorns 2.2.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/give-me-your-petals-2.2",
+        "id": "c3a67f17a3c2",
+        "title": "SET AO VIVO DJ FELIPE KOBIÇ ADO EM IPIXUNA 17 07 2026",
+        "summary": "GF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-felipe-kobic-ado-em-ipixuna-17-07-2026",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-19T02:06:16+00:00"
+        "published": "2026-07-18T20:14:18+00:00"
       },
       {
-        "id": "66e7cdf5e3db",
-        "title": "MOSSOLOV Sonate Nr. 5 op. 12",
-        "summary": "MOSSOLOV  Sonate Nr. 5 op. 12 Russudan Chuntsaria (Klavier) (1985).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mhf_20260718",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-18T19:33:40+00:00"
-      },
-      {
-        "id": "454db4122230",
-        "title": "MOSSOLOV Sonate Nr. 4 op. 11",
-        "summary": "MOSSOLOV  Sonate Nr. 4 op. 11 Russudan Chuntsaria (Klavier) (1985).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mnjhf_202607",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-18T19:08:01+00:00"
-      },
-      {
-        "id": "2e11f20c5bc4",
-        "title": "MOSSOLOV 2 Nocturnes op. 15",
-        "summary": "MOSSOLOV  2 Nocturnes op. 15 Russudan Chuntsaria (Klavier) (1985).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/bgx_20260718",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-18T18:52:39+00:00"
-      },
-      {
-        "id": "aa54bf489065",
-        "title": "MOSSOLOV Tanz op. 23b",
-        "summary": "MOSSOLOV  Tanz op. 23b Russudan Chuntsaria (Klavier) (1985).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/bxngfx",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-18T18:44:42+00:00"
-      },
-      {
-        "id": "4d1b3000ef85",
-        "title": "MOSSOLOV 3 Stücke op. 23a",
-        "summary": "MOSSOLOV  3 Stücke op. 23a Russudan Chuntsaria (Klavier) (1985).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/xnhhgf_202607",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-18T18:43:52+00:00"
-      },
-      {
-        "id": "04f13bd3d26c",
-        "title": "chuong-200",
+        "id": "3b2222d4ea42",
+        "title": "chuong-10172-qua-ro-rang-roi",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_17846_1784398269_YmLK",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_11908_1784405509_zr9Z",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-18T18:12:40+00:00"
+        "published": "2026-07-18T20:13:13+00:00"
       },
       {
-        "id": "19b2c7fd8f65",
-        "title": "MONIUSZKO Das Gespensterschloß",
-        "summary": "MONIUSZKO  Das Gespensterschloß Chor und Orchester der Polnischen Staatsoper Jacek Kaspszyk.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
-        "url": "https://archive.org/details/n-hts",
+        "id": "609508995a4f",
+        "title": "SET AO VIVO DJ FELIPE KOBIÇ ADO EM PARAGOMINAS KING FEST VERAO 17 07 2026",
+        "summary": "GF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-felipe-kobic-ado-em-paragominas-king-fest-verao-17-07-2026",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-18T17:51:20+00:00"
+        "published": "2026-07-18T20:13:10+00:00"
       },
       {
-        "id": "2443c81bb319",
-        "title": "chuong-1421",
+        "id": "e34ef2101506",
+        "title": "SET AO VIVO DJ FELIPE KOBIÇ ADO NO ROCK DA ROLHA ( BIRUTA KABANA) 2026",
+        "summary": "FG.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-felipe-kobic-ado-no-rock-da-rolha-biruta-kabana-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-18T20:12:43+00:00"
+      },
+      {
+        "id": "0e17b6cbc9a5",
+        "title": "MILHAUD Catalogue des Fleurs op. 60",
+        "summary": "MILHAUD  Catalogue des Fleurs op. 60.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bvgb_20260718",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-18T20:12:01+00:00"
+      },
+      {
+        "id": "573b7eac8c0d",
+        "title": "chuong-426-c426-ai-dam-bat-anh-ta-thu-xem",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_854_1784396590_DaJD",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_4622_1784404952_Z1ej",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-18T17:44:41+00:00"
+        "published": "2026-07-18T20:03:58+00:00"
       },
       {
-        "id": "2140a846b5a5",
-        "title": "chuong-666",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_18312_1784395957_yI0p",
+        "id": "3a9d1cd17c34",
+        "title": "MDR Sputnik - dein Abend (10.07.2026)",
+        "summary": "Mit Musik von ANOTR Feat. 54 Ultra, Malik Harris, Michael Key, Glockenbach & Sam Harper und vielen anderen.This item belongs to: audio/saviour1981mixes.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mdr-sputnik-dein-abend-10.07.2026",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-18T17:34:03+00:00"
+        "published": "2026-07-18T20:03:57+00:00"
+      },
+      {
+        "id": "003782dad852",
+        "title": "Club Culture 1242",
+        "summary": "Tracklist 👉 mixesDB.This item belongs to: audio/saviour1981mixes.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, Unknown, VBR MP3",
+        "url": "https://archive.org/details/club-culture-1242",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-18T20:03:50+00:00"
+      },
+      {
+        "id": "9b7163475447",
+        "title": "MDR SPUTNIK Heimspiel (10.07.2026)",
+        "summary": "Tracklisten.This item belongs to: audio/saviour1981mixes.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mdr-sputnik-heimspiel-10.07.2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-18T20:03:17+00:00"
+      },
+      {
+        "id": "41aa3ffcd95b",
+        "title": "chuong-3-chuong-3",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_3793_1784404244_0X7T",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-18T19:52:11+00:00"
       },
       {
         "id": "efb7516729f3",
@@ -837,12 +837,28 @@
         "published": "2026-07-19T11:53:08+00:00"
       },
       {
+        "id": "7877417d3959",
+        "title": "“黑暗人格”有意外优势？抗压能力更强、血压升得更少",
+        "summary": "黑暗三人格竟然也有意外优势？近日，美国德克萨斯大学圣安东尼奥分校的研究人员发现自恋与精神病态或能助人抗压，他们发现黑暗三人格中的自恋和精神病态特质可能有助于人们更好地应对压力。研究人员针对 139 名大学生进行了心理问卷和压力测试，然后给他们安排了一个著名的特里尔社会压力测试，这是一种曾让无数被试者血压飙升的心理实验，参与者被要求从 1022 开始反复减 13，只要算错了或者超过 10 秒没回答上来，就会被要求从头开始再来，整个过程还会伴随着社会评价压力。研究人员同时还测量了参与者的黑暗三人格特质：自恋、精神病态和马基雅维利主义，以及他们在压力下的血压和心率变化。需要说明的是，马基雅维利主义是...",
+        "url": "https://www.mittrchina.com/news/detail/16661",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-19T11:52:38+00:00"
+      },
+      {
         "id": "5c0dfb76c715",
         "title": "15歲台灣大提琴新秀陳泱羽  新加坡國際音樂大賽摘冠",
         "summary": "（中央社記者吳昇鴻新加坡19日專電）15歲的台灣大提琴新秀陳泱羽本週在新加坡舉行的國際音樂大賽中奪得大提琴組冠軍。她今天表示將繼續在舞台上用音樂感動人心。駐新加坡代表童振源則說，陳泱羽的表現展現台灣青年音樂人才學習成果，相信能讓國際透過音樂認識台灣。",
         "url": "https://www.cna.com.tw/news/acul/202607190182.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-07-19T11:51:09+00:00"
+      },
+      {
+        "id": "750458746f48",
+        "title": "太空算力，开始进入AI产业链",
+        "summary": "过去十多年，AI 产业围绕算力展开的竞争，几乎都集中在同一件事：如何建设越来越大的地面计算集群。无论是英伟达 GPU、超大规模数据中心，还是遍布全球的智算中心，它们共同构成了今天 AI 产业最重要的基础设施。过去，大模型训练和推理所调用的算力资源，也几乎全部来自地面。现在，这种格局正在出现新的变化。7 月 18 日，在 2026 世界人工智能大会（WAIC）期间，国星宇航与商汤科技宣布共建商汤算力星座。按照双方公布的规划，将按照“单星验证-平台建设-星座组网”的发展路径，逐步建设千星万 P 规模的太空算力网络，并进一步构建新一代全球化 AI 基础设施。如果从表面来看，这是一家太空 AI 企业与...",
+        "url": "https://www.mittrchina.com/news/detail/16660",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-19T11:47:00+00:00"
       },
       {
         "id": "8e708de6f576",
@@ -973,6 +989,30 @@
         "published": "2026-07-18T11:00:15+00:00"
       },
       {
+        "id": "c5ee4a393b7c",
+        "title": "不用等光子集齐，AI算出超清图像！清华团队让荧光寿命成像告别“光子焦虑”",
+        "summary": "荧光显微镜是生命科学研究的一双重要“眼睛”。科学家可以用荧光分子标记细胞、蛋白质，再观察它们出现在哪里、怎样运动以及信号如何变化。不过，普通荧光成像主要看亮度。一个位置更亮，可能意味着目标分子更多，但也可能只是荧光探针更多、激发光更强，或者组织对光的衰减更少。因此，“变亮了”并不总能直接告诉我们分子发生了什么变化。除了亮度之外，荧光其实还隐藏着另一个重要信息：寿命。荧光分子吸收光子后，会短暂进入激发态，随后返回基态并释放光子。它在激发态平均停留的时间，就是荧光寿命（Fluorescence Lifetime）。与亮度相比，荧光寿命不容易受到探针浓度和激发功率等因素影响，却会随着荧光分子构象和周...",
+        "url": "https://www.mittrchina.com/news/detail/16657",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-18T10:53:50+00:00"
+      },
+      {
+        "id": "2bc730079a7a",
+        "title": "美国科学家用AI设计了一架会“隐形”的无人机，靠高速旋转骗过人眼",
+        "summary": "在 2005 年的科幻电影《绝密飞行》中，美国空军拥有了一种未来战争机器：一架没有飞行员的隐形战斗机。它能够依靠先进人工智能自主飞行，并凭借隐身技术突破敌方防御系统。那时，人们对于“隐形飞机”的想象，主要来自雷达、材料和空气动力学，也就是让机器避开探测，让敌人无法发现。但 20 年后的今天，一群研究人员正在尝试另一种完全不同的“隐形”：不是让无人机避开雷达，而是让它骗过人眼。近日，来自美国西北大学的团队在悉尼举行的 2026 年机器人科学与系统大会上，展示了一款名 Phantom Twist 的无人机。这架无人机没有采用透明材料，也没有覆盖特殊涂层。它只是高速旋转，让自己的形态变得模糊，最终在...",
+        "url": "https://www.mittrchina.com/news/detail/16656",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-18T10:49:28+00:00"
+      },
+      {
+        "id": "bda31bc52bc6",
+        "title": "针灸的科学机制首次被拍下！清华与华科团队打造AI介观显微镜，1次实验抵过去100次",
+        "summary": "想要理解生命如何运作，我们首先要能够看见生命。长期以来，生命科学研究主要依赖体外显微成像：研究人员将组织切片、固定或培养后，再放到显微镜下观察。这种方式能够获得清晰、稳定的图像，却难以保留生命活动真实发生的环境。因为细胞离开身体后，血液不再流动，神经、血管与免疫系统之间的相互作用也会被打断，许多动态生命过程因此难以完整呈现。相比之下，活体显微成像能够在动物仍然存活、器官持续工作的状态下，直接观察细胞、血管、神经等结构随时间发生的动态变化，因此近年来逐渐成为脑科学、免疫学、肿瘤研究和药物研发等领域的重要研究工具。然而，活体成像长期面临一个关键问题：想看得广，就很难看得清；想看得清，又往往只能覆盖...",
+        "url": "https://www.mittrchina.com/news/detail/16655",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-18T10:46:29+00:00"
+      },
+      {
         "id": "b856de82e583",
         "title": "Laura Benanti: Nobody Cares review – eyebrow-raising cringe comedy from a recovering people pleaser",
         "summary": "Underbelly Boulevard Soho, LondonA grab-bag of awkward ‘lessons learned’ by a middle-aged entertainer reflecting on her journey, the US comic’s song-filled show has savour and schmaltzAmong Americans, Tony award-winner (“and four-time Tony award loser,” as she self-deprecates here) Laura Benanti is ...",
@@ -1069,6 +1109,14 @@
         "published": "2026-07-17T14:00:56+00:00"
       },
       {
+        "id": "3b75e3a9120c",
+        "title": "为什么美国热泵市场依然火热？",
+        "summary": "（来源：麻省理工科技评论）盛夏时节，讨论供暖设备似乎有点“不合时宜”——尤其是在纽约刚经历了一轮酷暑热浪之后。但今天，我们还是得聊聊热泵（heat pump）。热泵是一种利用电力供暖的设备，不仅能效极高，而且正迎来快速普及。此外，很多热泵还能反向运行，在夏天充当空调，为建筑制冷。根据最新发布的一份报告，美国热泵销量在过去 15 年间增长了两倍。更值得关注的是，在 2026 年第一季度，热泵销量已经比天然气暖炉高出 32%，继续扩大对化石燃料供暖设备的领先优势。但令人奇怪的是，这一数据出现在一个特殊的时间点：美国针对热泵的关键税收抵免政策，已于 2025 年底正式结束。然而，从市场数据来看，你几...",
+        "url": "https://www.mittrchina.com/news/detail/16653",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-17T14:00:09+00:00"
+      },
+      {
         "id": "c639db570c27",
         "title": "NI after NI: which brand is where, and who owns whom",
         "summary": "Native Instruments, iZotope, Plugin Alliance, and Brainworx being part of inMusic? That was early May; now only NI remains at inMusic. 2026' mergers and acquisitions have come so fast, you practically need a reference to keep up. So... let's do just that. It's part of a larger pattern of ownership c...",
@@ -1099,6 +1147,22 @@
         "url": "https://www.theguardian.com/stage/2026/jul/17/i-can-die-too-review-pitlochry-festival-theatre",
         "source": "Stage | The Guardian",
         "published": "2026-07-17T09:33:41+00:00"
+      },
+      {
+        "id": "dca6e190ddb3",
+        "title": "脑机接口重大突破：瘫痪患者重新拥有触觉，还能抓起鸡蛋壳",
+        "summary": "本文是专业学术论文解读，不做医疗建议。脑机接口技术能帮患者重新恢复触觉反馈了！六年前，Keith Thomas 由于跳水事故导致四肢瘫痪。如今，研究人员利用脑机接口和 AI 算法解码他的运动意图，并通过电刺激驱动肌肉。与此同时，手部传感器将接触信息反馈至感觉皮层，使他在完成动作时重新获得一定的触觉反馈。35 周后，他从完全无法抬手到能独立吃饭、擦嘴，甚至还可以抓起空心蛋壳并保持不碎。“坦白说，我曾经一度不知道自己是否还能活下去，甚至不知道自己是否还想活下去。而现在，我能感觉到有人握着我的手，抚摸到我的狗并感受到它毛茸茸的触感，这种感觉真是难以言喻。”Thomas 此前在接受媒体采访时表示。过去...",
+        "url": "https://www.mittrchina.com/news/detail/16652",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-17T09:12:37+00:00"
+      },
+      {
+        "id": "9a7301a96c4b",
+        "title": "南开造出全球首款仿生听觉交互神经接口，有望跨越病损神经重建通路",
+        "summary": "本文是专业学术论文解读，不做医疗建议。作为一个说中文的人，我们听到“xing xing”，其实指的可能是星星，也可能指的是猩猩。但是，对于传统的听觉传感器件，它只能够把声音转成电信号，至于这个词是天上挂的星星还是动物园里关的猩猩，它没有能力分清楚，佩戴者只能靠上下文去猜。南开大学徐文涛团队在《自然·材料》上发表了一篇论文将有望改写这一局面，他们研发了人造听觉神经，能够分清这两个词，当“星星”和“猩猩”被输入系统的时候，人造突触产生的电流分别是 59 微安和 89 微安，两者差了 30%，而这个差距足够让系统去做出判断。据了解，这套设备覆盖了人耳所能听到的全部频段，从 20 赫兹覆盖到 2 万赫...",
+        "url": "https://www.mittrchina.com/news/detail/16651",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-17T08:47:45+00:00"
       },
       {
         "id": "7267e534b2f1",
@@ -1163,14 +1227,6 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q198726149231226601",
         "source": "國家圖書館",
         "published": "2026-07-16T16:00:00+00:00"
-      },
-      {
-        "id": "6c6065055cdf",
-        "title": "OpenAI训练了一个专门攻击AI的模型，只为让GPT更安全",
-        "summary": "（来源：麻省理工科技评论）近日，OpenAI 训练了一个名为 GPT-Red 的大语言模型，但它的任务并不是帮助用户完成工作，而是攻击 OpenAI 自己的模型，将其作为其他模型的“陪练”：让它不断尝试寻找漏洞、发动攻击，从而帮助模型提升抵御网络攻击的能力。比如，上周刚刚发布的旗舰模型 GPT-5.6，就是 GPT-Red 的训练成果，OpenAI 声称 GPT-5.6 是他们迄今最稳健的模型。GPT-Red 自动完成的是 AI 安全领域的一项经典工作——“红队测试”（red teaming）。过去，这项工作主要依赖人工安全研究员，他们会尽可能尝试攻破或劫持系统，寻找各种潜在漏洞，再由开发团队...",
-        "url": "https://www.mittrchina.com/news/detail/16649",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-16T13:12:37+00:00"
       },
       {
         "id": "aefeee2c7739",
@@ -1357,14 +1413,6 @@
         "published": "2026-07-15T16:00:00+00:00"
       },
       {
-        "id": "65ef35f2a18e",
-        "title": "银河系中心是甜味的？天文学家在星际介质中首次发现糖",
-        "summary": "在距离地球约 2.7 万光年的银河系中心，恒星与恒星之间弥漫着气体与尘埃。在这片被称为星际介质的遥远区域内，天文学家却探测到了一种离我们生活很近的分子：赤藓酮糖。它是覆盆子、猕猴桃等水果里常见的糖类，也是美黑产品的配方成分之一。这是科学家首次在星际介质中直接发现真正意义上的糖分子，相关研究于 7 月 13 日发表在《自然-天文学》（Nature Astronomy），由西班牙天体生物学中心（CAB）研究员伊萨斯昆·希门尼斯-塞拉（Izaskun Jiménez-Serra）领衔的国际团队完成。赤藓酮糖的分子骨架由 4 个碳原子和 4 个氧原子构成。相比家用蔗糖，它算一种结构简洁的小分子糖，但在...",
-        "url": "https://www.mittrchina.com/news/detail/16646",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-15T09:50:29+00:00"
-      },
-      {
         "id": "ebc5a63d30d0",
         "title": "創作者福音！Instagram Reels 自動翻譯再升級，支援日文等翻譯配音＋完美對嘴",
         "summary": "Meta 美國時間 14 日宣布，Instagram 翻譯功能已支援日文，讓創作者 Reels 影片可用 Me [&#8230;]",
@@ -1453,14 +1501,6 @@
         "published": "2026-07-14T12:45:28+00:00"
       },
       {
-        "id": "25ba7f1638d2",
-        "title": "Google前CEO访华后重估中美AI竞赛：中国人欢迎AI，美国人抵制AI，这比模型差距更关键",
-        "summary": "1811 年，英格兰中部的纺织工人冲进工厂，砸毁新式织布机，抗议机器抢走他们的饭碗。这场后来被称为“卢德运动”（Luddite Movement）的抗争持续了好几年。英国政府调动军队镇压，将破坏机器列为可判死刑的重罪，多名参与者被绞死，更多人遭到流放。机器当然没有被挡住，但技术替代引发的失业、冲突和政治回应，延续了很多年。200 多年后，这个名字出现在了一个意想不到的场合。上个月，Google 前 CEO、现任 Relativity Space CEO 埃里克·施密特去了一趟中国，见了一圈科技公司高管。在 7 月 11 日他和中国及 AI 政策研究者 Selina Xu 合写的《纽约时报》文章...",
-        "url": "https://www.mittrchina.com/news/detail/16640",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-14T11:26:50+00:00"
-      },
-      {
         "id": "42f69fc08da2",
         "title": "走唱未歸途：《找不到路的歌》巡迴映演與文化對談計畫",
         "summary": "走唱未歸途：《找不到路的歌》巡迴映演與文化對談計畫 / 報名表單 :  https://forms.gle/H [&#8230;]",
@@ -1475,14 +1515,6 @@
         "url": "https://www.glt.org.tw/?p=13952",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-07-14T09:46:38+00:00"
-      },
-      {
-        "id": "62b5772abc56",
-        "title": "强化学习之父、年近七旬的Richard Sutton宣布创业，向LLM范式宣战",
-        "summary": "就在今天，被称为“强化学习之父”的 Richard Sutton 在社交平台 X 上突然宣布，他与合作者 Khurram Javed 已经离开由传奇游戏开发者 John Carmack 创办的 AI 公司 Keen Technologies，共同创立了一家名为 Oak Lab 的新公司。这家注册于加拿大的初创企业，目标是打造一种完全不同于当前大语言模型的 AI 系统——一个能够从自身经验中持续学习、实时进化的智能体。在宣布消息的帖子中，Sutton 对 Carmack 和 Keen Technologies 表达了敬意，但明确表示 Oak Lab 将走一条不同的路。他写道，当前的深度学习方法存...",
-        "url": "https://www.mittrchina.com/news/detail/16638",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-14T05:14:22+00:00"
       },
       {
         "id": "4055d110202f",
@@ -1541,14 +1573,6 @@
         "published": "2026-07-13T16:00:00+00:00"
       },
       {
-        "id": "6b2753200bd4",
-        "title": "不卖药、不看病、不收医生钱，“医生版ChatGPT”如何造就生命科学第一独角兽？",
-        "summary": "2026 年 6 月，胡润研究院发布《2026 全球独角兽榜》（Global Unicorn Index 2026）。成立仅四年的美国医疗 AI 公司 OpenEvidence 以 820 亿人民币、约 120 亿美元的估值入选榜单，并在其划分的“生命科学”赛道中位居第一。按照胡润研究院的统计标准，上榜企业需要成立于 2000 年以后、估值超过 10 亿美元且尚未上市。OpenEvidence 的 120 亿美元估值，主要来自今年 1 月完成的一轮融资。当时，公司获得 2.5 亿美元 D 轮融资，由 Thrive Capital 和 DST Global 共同领投，投后估值较三个月前翻了一倍，...",
-        "url": "https://www.mittrchina.com/news/detail/16636",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-13T10:58:08+00:00"
-      },
-      {
         "id": "0be0bf23bf73",
         "title": "AI 參考公開 Instagram 帳號生成圖像惹議，Meta 撤下功能",
         "summary": "Meta 日前發表圖像生成模型 Muse Image，其中支援在 Meta AI 以 @ 標註公開的 Inst [&#8230;]",
@@ -1595,30 +1619,6 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q194602894134695564",
         "source": "國家圖書館",
         "published": "2026-07-12T16:00:00+00:00"
-      },
-      {
-        "id": "bc86f40a3bc4",
-        "title": "几百个孩子的父亲竟是同一人？欧洲拟为精子捐赠设立跨国限额",
-        "summary": "（来源：麻省理工科技评论）47 岁的 Ties van der Meer 至今不知道自己究竟有多少个兄弟姐妹。他出生于荷兰一家私人生育诊所，通过匿名精子捐赠受孕。2004 年荷兰禁止匿名捐赠后，这家诊所销毁了所有可能识别捐赠者身份的记录。在他看来，这种情况明显是有问题的。通过捐赠出生的孩子有权了解自己的亲生父母是谁，也有权知道与自己存在血缘关系的人。多年后，van der Meer 最终通过 DNA 检测和亲缘数据库找到了一位同父异母的兄弟姐妹，并在对方的帮助下确认了自己的亲生父亲以及更多遗传亲属。但直到今天，他仍然不知道自己究竟还有多少兄弟姐妹，也无法确定是否还有更多与自己拥有相同血缘的人散...",
-        "url": "https://www.mittrchina.com/news/detail/16631",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-12T14:32:32+00:00"
-      },
-      {
-        "id": "7870fb191d8d",
-        "title": "马斯克星际路线图更新，先让特斯拉机器人上月球",
-        "summary": "最近，SpaceX 向美国联邦通信委员会（FCC）提交了一份申请，请求批准发射十万颗的第三代（Gen3）星链卫星，这个数字是 SpaceX 目前在轨卫星数量的十倍之多，也是国际空间站轨道上所有人类物体总数的几十倍之多。如果被批准了，它们会在三百二十到四百七十公里的极低轨道之上运行，单颗卫星重量大约为两吨，下行吞吐量能够达到每秒一太比特。SpaceX 在申请文件里写道，这个星座的目标是承载全球大部分的互联网流量，目标是为数十亿人、企业和政府用户提供超低延迟的、多吉比特对称带宽的连接，同时为数千亿台 AI 设备提供通信基础设施。当然，这十万颗卫星不只是马斯克在地球上的一桩生意，也是马斯克太空移民计...",
-        "url": "https://www.mittrchina.com/news/detail/16630",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-12T11:57:15+00:00"
-      },
-      {
-        "id": "516ef133fd34",
-        "title": "a16z对话揭示AI残酷真相：模型公司赢家通吃，应用层淘汰赛已经开始",
-        "summary": "近日，一场对话重新计算了 AI 产业的估值逻辑。这场对话的参与者分别是 a16z 的普通合伙人 David George 和 VenCap 的首席投资官 David Clark。他们聊了半个小时，话题集中在 AI 怎样重塑风险投资和科技产业本身。Palantir CEO怒怼模型厂：卖Token就是收“AI税”，软件公司第一个被打残并表示这是用虚假进步掩盖真实成本。企业每年花费几千万美元买 Token，却得不到一个可量化的商业回报。本次对话从另一个视角呼应了这个判断，那就是投资人的钱和企业的钱都在寻找同一个答案，即 AI 的价值到底会在哪里落地。Token 只是一个燃料，真正的目的地还没到。这两...",
-        "url": "https://www.mittrchina.com/news/detail/16629",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-12T11:53:18+00:00"
       },
       {
         "id": "92b9e250e971",
