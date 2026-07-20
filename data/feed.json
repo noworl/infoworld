@@ -1,11 +1,35 @@
 {
-  "updated_at": "2026-07-20T18:58:55.963204+00:00",
+  "updated_at": "2026-07-20T20:36:48.963097+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "f24376e38613",
+        "title": "UB Radio Salon 966 - live experimental sounds w/ Brook Hinton - 19 July 2026 on DFM.nu",
+        "summary": "2-hours of live improvised experimental radio sound-art broadcast live from the Chakra Chimp Research Kitchens of Northern California-land.  Netcast on DFM Radio TV International (www.dfm.nu)  DFM RTV INT  19 JULY 2026....This item belongs to: audio/ubradio_salon.This item has files of the following...",
+        "url": "https://archive.org/details/ubradio_salon966",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-20T20:21:38+00:00"
+      },
+      {
+        "id": "5b981078f281",
+        "title": "ARROCHA 2026 PLAYLIST DE VERÃ O 2026 ( Macaxeira Produções)",
+        "summary": "K.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/arrocha-2026-playlist-de-vera-o-2026-macaxeira-producoes",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-20T18:03:34+00:00"
+      },
+      {
+        "id": "60ffb33a5ee3",
+        "title": "Draco Malfoy’s Ledger of Perceived Slights — Entry #34",
+        "summary": "Eighth year at Hogwarts. Draco Malfoy is keeping a list of reasons he hates Hermione Granger. Unfortunately, the list isn’t as simple as it should be. — Podfic narration of the work by MagicOrMayhem....This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archiv...",
+        "url": "https://archive.org/details/entry-34",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-20T18:01:21+00:00"
+      },
+      {
         "id": "57188dccb945",
         "title": "MALIPIERO Orchesterwerke",
-        "summary": "MALIPIERO  Orchesterwerke Orchestra Sinfonica di Roma Francesco La Vecchia.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "MALIPIERO  Orchesterwerke Orchestra Sinfonica di Roma Francesco La Vecchia.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/vnfg_20260720",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-20T17:50:44+00:00"
@@ -53,18 +77,10 @@
       {
         "id": "27b37868ee83",
         "title": "MILHAUD Sämtliche Sinfonien",
-        "summary": "MILHAUD Sämtliche Sinfonien Radio-Sinfonieorchester Basel Alun Francis (1992-97).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "MILHAUD Sämtliche Sinfonien Radio-Sinfonieorchester Basel Alun Francis (1992-97).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
         "url": "https://archive.org/details/gxhdg_202607",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-20T15:15:45+00:00"
-      },
-      {
-        "id": "a3e22443aed0",
-        "title": "chuong-222-ke-trom-duoc-1",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_22917_1784559857_iLdY",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-20T15:05:53+00:00"
       },
       {
         "id": "0d70befe2362",
@@ -73,22 +89,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202607200307.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-07-20T14:58:44+00:00"
-      },
-      {
-        "id": "3e1fe7e63e51",
-        "title": "chuong-7186-cai-gi-goi-la-nguoi-cung-the",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_9021_1784559229_A9kk",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-20T14:55:18+00:00"
-      },
-      {
-        "id": "7b1fea9eea7e",
-        "title": "chuong-53",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_26830_1784558646_ZJCP",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-20T14:45:50+00:00"
       },
       {
         "id": "28ade110a291",
@@ -725,12 +725,92 @@
     ],
     "破(day)": [
       {
+        "id": "f8327750af8b",
+        "title": "The SmartFont Library for LED matrix displays",
+        "summary": "The SmartFont Library by Chaiwat Leanyos is a generic C++ font library for embedded systems (Arduino, ESP32, etc.), designed for efficient rendering of UTF-8 strings on pixel-based displays. It features special support for Thai Language, correctly positioning vowels and tone marks (0x0E00 &#8211; 0x...",
+        "url": "https://blog.adafruit.com/2026/07/20/the-smartfont-library-for-led-matrix-displays/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-20T20:28:08+00:00"
+      },
+      {
+        "id": "f120b91d217c",
+        "title": "Korg re-releases the PS-3300 synthesizer",
+        "summary": "Between 1977 and 1981, the original Korg PS-3300 carved out a legendary place in music history. With fewer than 50 units made, its lush, expansive sounds appeared on just a handful of recordings &#8211; making it one of the rarest and most sought-after synths in history. Today, original models are a...",
+        "url": "https://blog.adafruit.com/2026/07/20/korg-re-releases-the-ps-3300-synthesizer/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-20T20:14:56+00:00"
+      },
+      {
+        "id": "bc3bdb5d89f7",
+        "title": "Replacing a $120k bowling center system with $1,600 in ESP32s",
+        "summary": "After buying an abandoned 8-lane bowling center, HN user section33 found that replacing the six-figure scoring system would cost $80k to $120k, with parts running $4,000 per lane pair. Since the 70-year-old bowling machines are almost entirely mechanical and the &#8220;advanced&#8221; system was lar...",
+        "url": "https://blog.adafruit.com/2026/07/20/replacing-a-120k-bowling-center-system-with-1600-in-esp32s/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-20T20:07:48+00:00"
+      },
+      {
+        "id": "fc99954a6084",
+        "title": "Get to Know Trees with WIRED’s Forest Report",
+        "summary": "Dr. Dominick DellaSala, Senior Conservation Science Associate in the North America Initiative of the Conservation Biology, joins WIRED to answer the internet&#8217;s questions about trees. Forest conservation scientist Dominick DellaSala joins WIRED to answer the internet’s burning questions about t...",
+        "url": "https://blog.adafruit.com/2026/07/20/get-to-know-trees-with-wireds-forest-report/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-20T20:00:24+00:00"
+      },
+      {
+        "id": "7c8b0f4965f1",
+        "title": "Serious flaws found in a popular WiFi camera",
+        "summary": "Independent researcher Christopher Childress (BadChemical) has published a detailed advisory on the TP-Link Kasa Spot EC71 camera, and it&#8217;s a terrific look at how IoT security research actually gets done. Childress started with firmware 2.3.26, pulled straight off the SPI flash with a ~$3 CH34...",
+        "url": "https://blog.adafruit.com/2026/07/20/serious-flaws-found-in-a-popular-wifi-camera/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-20T19:49:21+00:00"
+      },
+      {
+        "id": "8a52943faeaf",
+        "title": "The Swiss Cheese model",
+        "summary": "Marcin Wichary discusses the Swiss Cheese model. You see it sometimes in descriptions of how complex systems fail. The whole idea is: even if you have multiple layers of safety – like many slices of cheese – there are always holes in each slice. Typically, a hole in any slice is covered by a non-hol...",
+        "url": "https://blog.adafruit.com/2026/07/20/the-swiss-cheese-model/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-20T19:36:49+00:00"
+      },
+      {
+        "id": "7b73477a2280",
+        "title": "Light Up Bubble Wand with WLED #LED Pixels #AdafruitLearningSystem @Adafruit",
+        "summary": "Check out the latest guide from Erin St Blaine: make a 3d printed bubble wand and add seed pixel lights and a Mini Sparkle Motion controller to light up your bubbles as you blow them. This guide gives instructions on how to connect the lights and waterproof them, and power them with a rechargeable U...",
+        "url": "https://blog.adafruit.com/2026/07/20/light-up-bubble-wand-with-wled-led-pixels-adafruitlearningsystem-adafruit/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-20T19:30:34+00:00"
+      },
+      {
+        "id": "bcfad3a41e4c",
+        "title": "Museum of Endangered Sounds #MusicMonday",
+        "summary": "Take an audio trip down memory lane with the Museum of Endangered Sounds. Savethesounds.info is a time capsule of obsolete noise, started in 2012 with goal of preserving the chimes, whirs, clunks and more  of old technology. You can play each sound individually or play many at once. I&#8217;d love t...",
+        "url": "https://blog.adafruit.com/2026/07/20/museum-of-endangered-sounds/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-20T19:15:59+00:00"
+      },
+      {
+        "id": "916b3f1b33df",
+        "title": "The MSAP-2 discrete computer and simulator",
+        "summary": "Mehran Toosi&#8217;s MSAP-2 is an 8-bit discrete-logic computer &#8211; the successor to MSAP-1. Where MSAP-1 is a 256-byte SAP-1 derivative, MSAP-2 is a small but real computer: 8-bit variable-length opcodes driven by microcode in four 28C256 control ROMs, an 8KB address space split between a MOS o...",
+        "url": "https://blog.adafruit.com/2026/07/20/the-msap-2-discrete-computer-and-simulator/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-20T19:03:20+00:00"
+      },
+      {
         "id": "71a6ca9d5411",
         "title": "Paul Beaudoin – Signal Loss / Spores.dat",
         "summary": "Two albums by Estonian composer Paul Beaudoin, both exploring 'the space between intent and reception'.\n--- published on Ambientblog ---",
         "url": "https://www.ambientblog.net/beaudoin/",
         "source": "Ambientblog",
         "published": "2026-07-20T17:58:41+00:00"
+      },
+      {
+        "id": "70a974b8a4c8",
+        "title": "Temp-Illusion’s video for “Sketchy” captures senseless cacophony",
+        "summary": "The news can be numbing in all its violence and mindlessness, compounded by a chorus of shills across media and social media. Temp-Illusion, the duo formed in Tehran by Shahin Entezami and Behrang Najafi, cuts through those feelings like a knife. Then stick around for the deeply meditative Bayal بیل...",
+        "url": "https://cdm.link/temp-illusion-sketchy-and-tegh-adel-poursamadi/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-20T17:05:33+00:00"
       },
       {
         "id": "b8d9a4721c75",
@@ -741,44 +821,12 @@
         "published": "2026-07-20T16:18:57+00:00"
       },
       {
-        "id": "01d9f56a0e71",
-        "title": "The Zilog Z80 has turned 50",
-        "summary": "David Oberhollenzer posts how the Zilog Z80 processor was officially launched 50 years ago, in July of 1976, less than 4 years after the last human had walked on the moon. It was decades closer to WWII than to the present day, roughly at a halfway point between the Kennedy assassination and the fall...",
-        "url": "https://blog.adafruit.com/2026/07/20/the-zilog-z80-has-turned-50/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-20T15:53:32+00:00"
-      },
-      {
-        "id": "c1faa9b67b27",
-        "title": "Accessing i.MX RT1060 registers from within C/C++",
-        "summary": "imxrt1060-regs is a new and more modern way to access and modify registers on i.MX RT1060 microcontrollers. This library supplies a new and more modern way to access and modify registers. It uses modern C++ features to avoid defines, macros, and other avoidable mistakes. Check out Shawn Silverman&#8...",
-        "url": "https://blog.adafruit.com/2026/07/20/accessing-i-mx-rt1060-registers-from-within-c-c/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-20T15:41:10+00:00"
-      },
-      {
-        "id": "7298c1caa392",
-        "title": "A DIY Media Center built for my blind uncle",
-        "summary": "Michael Holz wanted to build a media center with physical buttons and rotary switches that offer great tactile feedback for his blind uncle. I used two 11-position rotary switches designed in a way that allows you to easily feel their exact position. There is also a toggle switch to flip between Blu...",
-        "url": "https://blog.adafruit.com/2026/07/20/a-diy-media-center-built-for-my-blind-uncle/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-20T14:45:49+00:00"
-      },
-      {
-        "id": "dd9da5d5888d",
-        "title": "The ANSITerm Arduino library",
-        "summary": "ANSITerm by Nick Tracy is an Arduino library that sends ANSI/VT-style escape sequences to a terminal via any Stream (e.g., Serial), letting you clear the screen, position the cursor, colorize text, draw boxes/tables, and (where supported) handle mouse clicks. Features (high level) &#160; Screen &#38...",
-        "url": "https://blog.adafruit.com/2026/07/20/the-ansiterm-arduino-library/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-20T14:33:46+00:00"
-      },
-      {
-        "id": "2cf4c2233f77",
-        "title": "Reviving a 15-year-old netbook with Arch Linux",
-        "summary": "Simon Park still has a netbook bought back in 2009. The ASUS Eee PC 1000HE has an Intel Atom N280 and 1GB of DDR2 RAM. The Atom N series was Intel’s line of cheap, low-performance CPUs for netbooks. The chip has 56KB of L1 cache and 512KB of L2 cache, and its clock speed is [&#8230;]",
-        "url": "https://blog.adafruit.com/2026/07/20/reviving-a-15-year-old-netbook-with-arch-linux/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-20T14:14:58+00:00"
+        "id": "a0a43791e4e0",
+        "title": "AI招人，比人类更容易产生偏见",
+        "summary": "（来源：麻省理工科技评论）以后找工作时，你的简历很可能还没到招聘经理手里，就已经先被 AI 看过一遍了。问题是，它真的会公平吗？研究人员早就发现，大语言模型会从训练数据里继承人类社会已有的偏见。但一项最新研究发现，事情可能比这更复杂：AI 不仅会学习偏见，还会在不断做决策的过程中，自己形成新的刻板印象，而且这种倾向甚至比人类更强。更值得警惕的是，AI 公司如今都在努力打造拥有长期记忆的智能体，希望模型能够记住用户越来越多的细节。而这些记忆，也可能成为模型滋生偏见的土壤。为了研究这一问题，普林斯顿大学和芝加哥大学的研究人员设计了一场模拟招聘实验，参与者包括 ChatGPT、Claude、Gemi...",
+        "url": "https://www.mittrchina.com/news/detail/16665",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-20T13:42:13+00:00"
       },
       {
         "id": "41a0f7bd3bed",
@@ -797,20 +845,20 @@
         "published": "2026-07-20T12:31:32+00:00"
       },
       {
-        "id": "ee7b5cbc8b88",
-        "title": "Celestial Summer in Madison Square Park",
-        "summary": "How am I just finding out about the concept of a Moon Tree? How twee! How early 1970s late-stage Space Age optimism! Learn more about Celestial Celebrations here from Madison Square Park Conservancy: In 1971, NASA astronaut Stuart Roosa carried seeds from five tree species on the Apollo 14 mission. ...",
-        "url": "https://blog.adafruit.com/2026/07/20/celestial-summer-in-madison-square-park/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-20T12:31:01+00:00"
-      },
-      {
         "id": "bd3b8922fbf3",
         "title": "NSYO國家青年交響樂團邁入第7屆   台日韓三國演出",
         "summary": "（中央社記者趙靜瑜台北20日電）NSYO國家青年交響樂團邁入第7屆，暑假預定7月底舉行台灣巡演，8月初前進日韓。音樂總監馬寇爾表示，希望今年合作台灣場次的鋼琴家小曾根真，能為團員帶來即興創作的新啟發。",
         "url": "https://www.cna.com.tw/news/acul/202607200262.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-07-20T11:24:59+00:00"
+      },
+      {
+        "id": "313b74388a55",
+        "title": "Sinevibes update puts every effect on every ‘logue KORG",
+        "summary": "Sinevibes has been cheering on KORG gear as much as KORG themselves. Now they're bringing the entire range of 20+ effects to prologue, minilogue xd, NTS-1, NTS-1 mkII, NTS-3, and microKORG2 -- plus you get major sonic updates for the Eternal flanger and Shift frequency shifter.\nThe post Sinevibes up...",
+        "url": "https://cdm.link/sinevibes-update-puts-every-effect-on-every-logue-korg/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-20T08:33:48+00:00"
       },
       {
         "id": "cdcd399b280b",
@@ -867,30 +915,6 @@
         "url": "https://claude.com/blog/working-at-the-frontier-rakuten",
         "source": "Claude Blog",
         "published": "2026-07-20T00:00:00+00:00"
-      },
-      {
-        "id": "2274e77b011d",
-        "title": "The Existence of an Atmosphere Surrounding an Earth-like Planet",
-        "summary": "In this artist’s concept, the exoplanet LHS 1140 b is shown in the foreground, surrounded by a helium-rich atmosphere. Another nearby rocky planet orbits the same cool red dwarf star in the distance. A new study provides the strongest evidence yet that LHS 1140 b has retained an atmosphere, represen...",
-        "url": "https://blog.adafruit.com/2026/07/19/the-existence-of-an-atmosphere-surrounding-an-earth-like-planet/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-19T20:00:27+00:00"
-      },
-      {
-        "id": "a057e888f786",
-        "title": "Adafruit Weekly Editorial Round Up: Pool Noodle Numchucks, Demofruit Rotozoom, & more!",
-        "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG Pool Noodl...",
-        "url": "https://blog.adafruit.com/2026/07/19/adafruit-weekly-editorial-round-up-pool-noodle-numchucks-demofruit-rotozoom-more/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-19T19:00:52+00:00"
-      },
-      {
-        "id": "b51b1b202215",
-        "title": "E-Ink Typewriter",
-        "summary": "Myth Made claims to make the most UnNecESsARy Writing Device. But I disagree, sometimes you just need that certain something, aesthetics count! excellent build! &#160; In this video I make a totally unnecessary, by extremely aesthetically pleasing e-ink typewriter writer deck cyberdeck. Thanks for w...",
-        "url": "https://blog.adafruit.com/2026/07/19/e-ink-typewriter/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-19T17:31:05+00:00"
       },
       {
         "id": "ec7043885358",
@@ -1165,6 +1189,14 @@
         "published": "2026-07-18T00:00:00+00:00"
       },
       {
+        "id": "a622be74473e",
+        "title": "This free Ableton Extension slices up chunks of audio for Move, Live",
+        "summary": "MID continues to make cool stuff for Ableton Live, with a special emphasis on Ableton Move. Ever wished you could quickly chop up a track or other longer material into bar-aligned loops -- especially for easy triggering on Move? Move Loop Slicer does just that, and it's free now.\nThe post This free ...",
+        "url": "https://cdm.link/free-mid-ableton-loop-slicer/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-17T18:08:43+00:00"
+      },
+      {
         "id": "e3bd7a07cb77",
         "title": "The Smile of Her review – actor’s autobiographical show speeds through its resonant pains",
         "summary": "Marylebone theatre, London Christine Lahti tells the story of family life, misunderstandings between mothers and daughters, and her career – but its focus is blurredChristine Lahti’s autobiographical show addresses many important issues and emotional pressure points. It is the story of family life, ...",
@@ -1189,12 +1221,12 @@
         "published": "2026-07-17T14:03:04+00:00"
       },
       {
-        "id": "3b75e3a9120c",
-        "title": "为什么美国热泵市场依然火热？",
-        "summary": "（来源：麻省理工科技评论）盛夏时节，讨论供暖设备似乎有点“不合时宜”——尤其是在纽约刚经历了一轮酷暑热浪之后。但今天，我们还是得聊聊热泵（heat pump）。热泵是一种利用电力供暖的设备，不仅能效极高，而且正迎来快速普及。此外，很多热泵还能反向运行，在夏天充当空调，为建筑制冷。根据最新发布的一份报告，美国热泵销量在过去 15 年间增长了两倍。更值得关注的是，在 2026 年第一季度，热泵销量已经比天然气暖炉高出 32%，继续扩大对化石燃料供暖设备的领先优势。但令人奇怪的是，这一数据出现在一个特殊的时间点：美国针对热泵的关键税收抵免政策，已于 2025 年底正式结束。然而，从市场数据来看，你几...",
-        "url": "https://www.mittrchina.com/news/detail/16653",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-17T14:00:09+00:00"
+        "id": "c639db570c27",
+        "title": "NI after NI: which brand is where, and who owns whom",
+        "summary": "Native Instruments, iZotope, Plugin Alliance, and Brainworx being part of inMusic? That was early May; now only NI remains at inMusic. 2026' mergers and acquisitions have come so fast, you practically need a reference to keep up. So... let's do just that. It's part of a larger pattern of ownership c...",
+        "url": "https://cdm.link/ni-after-ni-which-brand-is-where-and-who-owns-whom/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-17T11:26:29+00:00"
       },
       {
         "id": "f038da468f93",
@@ -1309,6 +1341,14 @@
         "published": "2026-07-16T11:47:32+00:00"
       },
       {
+        "id": "7844e10c6822",
+        "title": "Celebrate Terminator 2’s 35th with the T-1000 VFX BTS and DJ T-1000",
+        "summary": "35 years later, the T-1000 is more relevant than ever. Terminator 2 debuted in the first weekend of July 1991. The groundbreaking mix of computer animation and practical effects has come full circle. And I can&#8217;t mention the T-1000 without mentioning Alan Oldham (DJ T-1000.) T-1000 Killer AI tu...",
+        "url": "https://cdm.link/terminator-2-bts-and-dj-t-1000/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-16T09:59:40+00:00"
+      },
+      {
         "id": "e3e0fd583ad1",
         "title": "The [Law-Rah] Collective – Strange Attraction",
         "summary": "“Expect the unexpected, and even then you’re way off ...” - power ambient by The [Law-Rah] Collective (Bauke van der Wal).\n--- published on Ambientblog ---",
@@ -1405,6 +1445,22 @@
         "published": "2026-07-16T00:00:00+00:00"
       },
       {
+        "id": "cc144d0818fc",
+        "title": "Ableton Live and Push can now run on Linux, unofficially",
+        "summary": "Finally, proof that there's life for Live after Apple and Microsoft. It's unofficial and totally unsupported, but a set of patches for the free Wine compatibility environment lets you run Ableton Live 12, Max for Live, and Push 2 and Push 3 on Linux. And the result is just about indistinguishable fr...",
+        "url": "https://cdm.link/ableton-live-on-linux/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-15T18:56:05+00:00"
+      },
+      {
+        "id": "6141f89335ef",
+        "title": "Stretch keys — Novation rounds out the MK4 Launchkey range with 88 keys",
+        "summary": "Novation's Launchkey remains a go-to, no-hassle standard for MIDI controllers. Now they've rounded out their MK4 lineup with an 88-key model that adds the extra octaves without the weight or bulk that usually entails. They opted for semi-weighted keys to keep from bulking up.)  It's the compact MK4,...",
+        "url": "https://cdm.link/stretch-keys-novation-launchkey-mk4-88/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-15T18:29:58+00:00"
+      },
+      {
         "id": "884d14f9fa52",
         "title": "Hit Machine review – slick music biz drama strikes too many false notes",
         "summary": "Soho theatre, LondonJosh Radnor is a music executive whose life is upended by his wayward brother, in a play about masculinity, creativity, appropriation and traumaOn paper, writer Jonathan Caren’s Hit Machine has all the makings of a chart-topping smash. Featuring the London stage debuts of Josh Ra...",
@@ -1493,6 +1549,14 @@
         "published": "2026-07-14T13:00:00+00:00"
       },
       {
+        "id": "39ed3d6848af",
+        "title": "With audio and VST3 support, Isadora is now a complete interactive canvas",
+        "summary": "Isadora for macOS and Windows has long been a powerful media art tool for those in the know, thanks to its intuitive interface and focus on live performance. It's the media art tool that can feel at home with dance choreographers, a rare piece of software that gets dramaturgy. Isadora 4.5 adds a lot...",
+        "url": "https://cdm.link/isadora-4-5-audio-support-plugins/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-14T12:45:28+00:00"
+      },
+      {
         "id": "42f69fc08da2",
         "title": "走唱未歸途：《找不到路的歌》巡迴映演與文化對談計畫",
         "summary": "走唱未歸途：《找不到路的歌》巡迴映演與文化對談計畫 / 報名表單 :  https://forms.gle/H [&#8230;]",
@@ -1547,6 +1611,14 @@
         "url": "https://indiepublisher.tw/zh-hant/news/2359",
         "source": "獨立出版聯盟網站",
         "published": "2026-07-14T00:00:00+00:00"
+      },
+      {
+        "id": "f0afc56a74e7",
+        "title": "Logic has new granular, Beat Breaker features; here’s how to use them",
+        "summary": "Apple's Logic Pro for macOS and iOS just got some powerful new granular features for Alchemy and Sample Alchemy, plus new modes for the sequenced slicer/effect Beat Breaker. Once you do know where to find the new features, it opens up major sound design possibilities.\nThe post Logic has new granular...",
+        "url": "https://cdm.link/logic-12-3-sound-design-guide/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-13T18:50:10+00:00"
       },
       {
         "id": "41bd02465cf6",
@@ -1611,6 +1683,14 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q194602894134695564",
         "source": "國家圖書館",
         "published": "2026-07-12T16:00:00+00:00"
+      },
+      {
+        "id": "a80e9d5f8b73",
+        "title": "CVC private equity now has a majority stake in DistroKid, music distribution",
+        "summary": "Capital and private equity continue to fly in the music and music tech industries. CVC has acquired a majority stake in the music distribution giant DistroKid, with Insight VC keeping a significant share.\nThe post CVC private equity now has a majority stake in DistroKid, music distribution appeared ...",
+        "url": "https://cdm.link/cvc-private-equity-invests-in-distrokid/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-10T16:50:26+00:00"
       },
       {
         "id": "837b5c7af527",
