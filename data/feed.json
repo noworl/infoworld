@@ -1,86 +1,126 @@
 {
-  "updated_at": "2026-07-21T23:04:15.753838+00:00",
+  "updated_at": "2026-07-22T03:28:28.966070+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "d0e2e6b481a8",
+        "title": "知名服裝設計師溫慶珠過世　留下一個時代的溫度",
+        "summary": "（中央社記者邱祖胤台北22日電）台灣知名服裝設計師溫慶珠過世，享壽69歲，她生前創立的品牌ISABELLE WEN已證實此事。",
+        "url": "https://www.cna.com.tw/news/acul/202607220051.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-22T02:33:24+00:00"
+      },
+      {
+        "id": "938aab5b6822",
+        "title": "台灣虎航攜普惠深化合作  維護效率降成本",
+        "summary": "（中央社記者余曉涵台北22日電）台灣虎航今天宣布與IAE公司簽署合作備忘錄，象徵虎航與IAE旗下的普惠將就第三代機隊A321neo的發動機維護合約及備份發動機採購，進一步深化合作夥伴關係及持續合作意向。",
+        "url": "https://www.cna.com.tw/news/ahel/202607220044.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-22T02:13:09+00:00"
+      },
+      {
+        "id": "dd99c0d1a8b9",
+        "title": "地方反對中聯合格油品急上架 石崇良：不會太倉促",
+        "summary": "（中央社記者陳婕翎台北22日電）中聯案預防性下架產品，19批檢驗合格油品可重新上架，地方首長紛紛表態反對急上架，衛福部長石崇良今天回應決定不會太倉促，完全依據科學證據，符合安全標準，可安心購買。",
+        "url": "https://www.cna.com.tw/news/ahel/202607220042.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-22T02:05:05+00:00"
+      },
+      {
+        "id": "98b13132d404",
+        "title": "Give Me Your Petals 4.1",
+        "summary": "give me your petals, i will take your thorns 4.1.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/give-me-your-petals-4.1",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-22T02:04:56+00:00"
+      },
+      {
+        "id": "326df389f25e",
+        "title": "大台北等14縣市防高溫　吳德榮：24日前各地晴朗、週末降雨增",
+        "summary": "（中央社記者張雄風台北22日電）氣象署提醒今天大台北等14縣市防攝氏36度以上高溫。氣象專家吳德榮表示，未來兩天菲律賓東方海面有熱帶擾動發展，大致在24日晚至25日通過巴士海峽，25、26日南部、東半部降雨增。",
+        "url": "https://www.cna.com.tw/news/ahel/202607220023.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-22T00:28:23+00:00"
+      },
+      {
+        "id": "2c8a717c1314",
+        "title": "chuong-3347-dung-luc-nay-han-keu-len",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_20906_1784679473_WOOM",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-22T00:19:32+00:00"
+      },
+      {
+        "id": "b3086570b328",
+        "title": "chuong-4949-neu-la-mot-manh-xuong-chet",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_34018_1784676985_dmhp",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-21T23:38:00+00:00"
+      },
+      {
+        "id": "0191e25d192b",
+        "title": "chuong-55-cach-nhin",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_21984_1784676843_RAZ3",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-21T23:35:54+00:00"
+      },
+      {
+        "id": "ba9e1e81b5c3",
+        "title": "(Podfic) Long After Youre Gone",
+        "summary": "Podfic of: https://archiveofourown.org/works/50737222.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/podfic-long-after-youre-gone",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-21T23:30:10+00:00"
+      },
+      {
+        "id": "3c2f4ab48d61",
+        "title": "Alien - Out of the Shadows",
+        "summary": "Audio Drama set between the original \"Alien\" and \"Aliens\". Ripley is woken up 20 years into her cryosleep and must help a crew escape a familiar threat so that she can get home to her daughter..This item belongs to: audio/chilledlamb.This item has files of the following types: Archive BitTorrent, It...",
+        "url": "https://archive.org/details/episode-10_202607",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-21T23:17:42+00:00"
+      },
+      {
+        "id": "28be0d351c00",
+        "title": "SET AO VIVO DJ TARCISIO NO 1° BAILE DA SAUDADE BALNEARIO CABEÇ A FRIA 2026",
+        "summary": "DFFD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-dj-tarcisio-no-1-baile-da-saudade-balneario-cabec-a-fria-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-21T23:14:34+00:00"
+      },
+      {
+        "id": "ded150b02cef",
+        "title": "chuong-1218-the-gian-2",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_25168_1784675219_xtSN",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-21T23:09:00+00:00"
+      },
+      {
         "id": "8e9241e90828",
         "title": "The Civil War - Producer's Album",
-        "summary": "Early Draft of Frank Wildhorn's the \"Civil War\" Musical. At this time the album did not feature dialogue tracks but mostly just songs..This item belongs to: audio/chilledlamb.This item has files of the following types: Metadata",
+        "summary": "Early Draft of Frank Wildhorn's the \"Civil War\" Musical. At this time the album did not feature dialogue tracks but mostly just songs..This item belongs to: audio/chilledlamb.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, S...",
         "url": "https://archive.org/details/20-the-glory",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-21T22:54:23+00:00"
       },
       {
-        "id": "ca605801b4d0",
-        "title": "Chaimae Rakkas Dert Li 3liya & Khlass Nwit & Lmektoub Cover",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/chaimae-rakkas-dert-li-3liya-khlass-nwit-lmektoub-cover",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-21T21:56:20+00:00"
-      },
-      {
-        "id": "940768c206b0",
-        "title": "chuong-489-nua-buoc-kim-dan-2",
+        "id": "cbeb68b34779",
+        "title": "chuong-6733-tu-ma-tuyet-thien-khien-han-qua-that-vong",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_23186_1784670737_2DTI",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_8474_1784673875_v9q9",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-21T21:54:00+00:00"
+        "published": "2026-07-21T22:46:10+00:00"
       },
       {
-        "id": "0a3a4b15df57",
-        "title": "chuong-2985",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_20544_1784670525_mAyU",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-21T21:50:15+00:00"
-      },
-      {
-        "id": "9d9eb49352e2",
-        "title": "Adly Ft Cheb Abbes Rouho Liha",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/adly-ft-cheb-abbes-rouho-liha",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-21T21:44:49+00:00"
-      },
-      {
-        "id": "ca2a810a8583",
-        "title": "Faycel Sghir Hassit Biha",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/faycel-sghir-hassit-biha_202607",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-21T21:32:41+00:00"
-      },
-      {
-        "id": "9f779d008bd5",
-        "title": "Samira L Oranaise Ft Dj Moulay Hadarin Bezaf",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/samira-l-oranaise-ft-dj-moulay-hadarin-bezaf_202607",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-21T21:18:52+00:00"
-      },
-      {
-        "id": "d3c8a9543f9f",
-        "title": "مهرجان فين اساميكم ميسو ميسره كريم كريستيانو MP 3",
-        "summary": "ر.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260721_20260721_2109",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-21T21:14:09+00:00"
-      },
-      {
-        "id": "87dd83855a85",
-        "title": "PACK VERÃ O USB 001 DJ VERDELHO",
-        "summary": "FGFG.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/pack-vera-o-usb-001-dj-verdelho",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-21T21:07:46+00:00"
-      },
-      {
-        "id": "f821ccd1ba51",
-        "title": "اغنية نبيل أخرج بهدوء",
-        "summary": "ل.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/20260721_20260721_2102",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-21T21:06:34+00:00"
+        "id": "257c5a09b5a7",
+        "title": "Detritus 835",
+        "summary": "&#160; &#160; ▶ hand tracking module &#160; &#160; ▶ Zimoun: 9 prepared dc-motors, cotton balls, 10 metal bowls ø 67 cm, 2026 &#160; &#160; ▶ great to see Australian Government taking a stand on AI and publicly stating they will&#8230;",
+        "url": "https://www.musicofsound.co.nz/blog/detritus-835",
+        "source": "Music of Sound",
+        "published": "2026-07-21T21:22:22+00:00"
       },
       {
         "id": "8601e2fff2ad",
@@ -129,38 +169,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202607210355.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-07-21T12:28:44+00:00"
-      },
-      {
-        "id": "cc0fc23cba3a",
-        "title": "花燈工藝保存者蕭在淦辭世 文化部將呈請總統褒揚",
-        "summary": "（中央社記者邱祖胤台北21日電）新竹市傳統工藝「花燈」保存者蕭在淦昨（20）日辭世，享耆壽99歲，文化部將呈請總統明令褒揚。",
-        "url": "https://www.cna.com.tw/news/acul/202607210338.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-21T11:32:07+00:00"
-      },
-      {
-        "id": "2374916b126e",
-        "title": "萬里溪堰塞湖仍具風險　河道紅色警戒管制",
-        "summary": "（中央社記者汪淑芬台北21日電）花蓮萬里溪堰塞湖昨天已降為一般警戒。農業部今天邀集相關單位開會，雖然堰塞湖尚未溢流，但仍具高度不確定風險，決定下游堤防外河道範圍仍維持紅色警戒管制。",
-        "url": "https://www.cna.com.tw/news/ahel/202607210331.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-21T11:07:52+00:00"
-      },
-      {
-        "id": "6c044e8895b9",
-        "title": "英國QS最佳留學城市排名　台北蟬聯全球第14佳績",
-        "summary": "（中央社記者陳韻聿倫敦21日專電）英國高等教育調查機構QS今天發布2027年最佳留學城市排名，台灣有5大城市入榜；其中，台北蟬聯全球第14名，另一個與台北同樣位居全球前100名的城市是新竹，排名第74。",
-        "url": "https://www.cna.com.tw/news/ahel/202607210310.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-21T10:13:07+00:00"
-      },
-      {
-        "id": "211bcbf420f0",
-        "title": "數發部MyData助攻　苗栗便民服務再升級",
-        "summary": "（中央社記者趙敏雅台北21日電）數發部與苗栗縣政府攜手，今天啟動優化後的「便民快e通2.0」。數發部表示，平台已有38項業務介接「個人化資料自主運用（MyData）」平台，包括公共托育機構線上報名等服務，民眾申辦特定業務時不需另備證明文件，只要透過MyData同意授權，即可由系統自動取得所需資料。",
-        "url": "https://www.cna.com.tw/news/ahel/202607210299.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-21T09:59:43+00:00"
       },
       {
         "id": "0c0b0a81154d",
@@ -265,14 +273,6 @@
         "url": "https://www.tmaroc.org.tw/1150713/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-07-13T03:51:06+00:00"
-      },
-      {
-        "id": "0a9d554f4fb3",
-        "title": "nuzic 345",
-        "summary": "&#160; &#160; ▶ Moses Boyd &#8211; Say Yeah &#160; &#160; ▶ Maryanne Amacher &#8211; Tower &#160; &#160; Without References/Cindy Van Acker by goat (jp) ▶ goat (jp) &#8211; Without References/Cindy Van Acker &#160; &#160; ▶ Mark Ernestus&#8217; Ndagga Rhythm Force&#8230;",
-        "url": "https://www.musicofsound.co.nz/blog/nuzic-345",
-        "source": "Music of Sound",
-        "published": "2026-07-11T06:06:19+00:00"
       },
       {
         "id": "f045d63066f4",
@@ -805,6 +805,14 @@
     ],
     "破(day)": [
       {
+        "id": "ad25e26f316e",
+        "title": "The Cherry Orchard review – the RSC’s starry cast brings a disappointing lack of sparkle",
+        "summary": "Swan Theatre, Stratford-Upon-AvonTamara Harvey’s production of Chekhov’s final play can seem woolly in meaning and the soft-edged tone mutes its forceLaura Wade’s reworking of Anton Chekhov’s final, plaintive play brings a dazzle of big names. Helen Hunt is aristocratic matriarch Madame Ranyevskaya,...",
+        "url": "https://www.theguardian.com/stage/2026/jul/22/the-cherry-orchard-review-the-rscs-starry-cast-brings-a-disappointing-lack-of-sparkle",
+        "source": "Stage | The Guardian",
+        "published": "2026-07-21T23:19:51+00:00"
+      },
+      {
         "id": "e6c8e01e690d",
         "title": "UPDATED GUIDE: Adafruit NeoPixel Überguide #AdafruitLearningSystem @Adafruit",
         "summary": "The Adafruit NeoPixel Überguide has been updated with info for how to use the new 5050 WWA White LEDs with Integrated Drivers that you can find in the NeoPixel Stick &#8211; 8 x 5050 WWA White LEDs with Integrated Drivers. WWA LEDs have 3 white LEDs in them in three tints (also known as &#8216;color...",
@@ -883,6 +891,14 @@
         "url": "https://blog.adafruit.com/2026/07/21/fabien-sanglard-identifies-jurassic-park-computers-in-excruciating-detail/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-07-21T16:00:53+00:00"
+      },
+      {
+        "id": "f079eac3f3b5",
+        "title": "推进和平计划，特朗普拟在白宫会晤黎巴嫩总统",
+        "summary": "这是近20年来黎巴嫩国家元首首次访美。与此同时，黎巴嫩军队按照黎以停火协议，开始进驻该国南部“试点区域”。",
+        "url": "https://www.ftchinese.com/story/001110392",
+        "source": "FTChinese RSS - News",
+        "published": "2026-07-21T16:00:00+00:00"
       },
       {
         "id": "01c25371ba55",
@@ -1053,6 +1069,14 @@
         "published": "2026-07-20T08:30:00+00:00"
       },
       {
+        "id": "fbc0ee9e1683",
+        "title": "蘑菇还可以这么长？活体生物电子来了：真菌菌丝长上柔性电路，成为可自我修复的温度传感器",
+        "summary": "科学家用真菌菌丝“种”出了一种活体生物电子皮肤：它不仅可以拉伸、持续生长和自我修复，还能感知并适应周围环境。由同名经典游戏改编的美剧《最后生还者（The Last of Us）》，让许多人第一次关注到真菌菌丝网络（mycelium，支撑蘑菇成为果实的生命体）的概念：一种能够不断生长、彼此连接，并形成庞大网络的生命系统。虽然现实中的真菌并不会像影视作品中那样感染和控制人类，但它们确实具备持续生长、自我修复和环境响应等天然能力。如今，科学家正尝试将这些生命特性与现代电子技术相结合，创造一种介于生命体与电子器件之间的新型“活体电子”。近期，美国密西根州立大学李金星教授团队提出了一种新型活体生物电子系...",
+        "url": "https://www.mittrchina.com/news/detail/16663",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-20T08:24:32+00:00"
+      },
+      {
         "id": "c04709d098f1",
         "title": "謝仕淵接任台史博館長　從基層歷練到承擔重任",
         "summary": "（中央社記者趙靜瑜台北20日電）文化部今天宣布人事案，原任國立台灣歷史博物館館長張隆志將於8月1日歸建，所遺職缺將由國立成功大學歷史系副教授謝仕淵接任。",
@@ -1201,14 +1225,6 @@
         "title": "Meta与Anthropic洽谈出租算力 潜在价值100亿美元",
         "summary": "据悉Anthropic在6月提议了这笔交易，旨在寻找新的算力提供商以跟上不断增长的需求。这家AI公司已与SpaceX签署类似的数据中心协议。",
         "url": "https://www.ftchinese.com/story/001110362",
-        "source": "FTChinese RSS - News",
-        "published": "2026-07-19T16:00:00+00:00"
-      },
-      {
-        "id": "2087f7b05be3",
-        "title": "特朗普威胁加征关税 报复加拿大野火烟雾“入侵”美国",
-        "summary": "美国总统称，加拿大“未能妥善维护其森林及林中的灌木丛”，导致美国“无端遭受肮脏、受污染且有害健康的空气入侵”。",
-        "url": "https://www.ftchinese.com/story/001110361",
         "source": "FTChinese RSS - News",
         "published": "2026-07-19T16:00:00+00:00"
       },
@@ -1365,14 +1381,6 @@
         "published": "2026-07-17T16:00:00+00:00"
       },
       {
-        "id": "d22162f8d551",
-        "title": "诺奖得主Doudna团队用AI发明新型“基因剪刀”，比天然的更好用",
-        "summary": "2020 年，珍妮弗·杜德纳（Jennifer Doudna）与埃玛纽埃勒·卡彭蒂耶（Emmanuelle Charpentier）因共同开发 CRISPR-Cas9 基因编辑技术共获诺贝尔化学奖。随着 AI 与大语言模型的爆发，近几年，珍妮弗的实验室逐渐将研究重心转向一个新方向：用人工智能（AI）创造自然界不存在的基因编辑工具。7 月 16 日，珍妮弗团队在《科学》（Science）发文，介绍了一类名为 SynTnpB 的 AI 设计基因编辑蛋白。SynTnpB 蛋白在细菌类、动物和植物细胞中均表现出编辑活性，部分变体活性甚至超过天然酶。研究者还用冷冻电镜（cryo-EM）解析了其中一种变体...",
-        "url": "https://www.mittrchina.com/news/detail/16654",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-17T14:03:04+00:00"
-      },
-      {
         "id": "f038da468f93",
         "title": "The Shaughraun review – comic antics and roguish charm in a divided Ireland",
         "summary": "Town Hall theatre, GalwayA beautifully knit ensemble bring infectious, giddy fun to Dion Boucicault’s 1874 caper, finding a delicious balance between whimsy and sincerityDion Boucicault’s comic melodrama from 1874 holds a place in theatre history for its playful upending of national stereotypes and ...",
@@ -1387,14 +1395,6 @@
         "url": "https://www.openbook.org.tw/article/p-72794",
         "source": "Openbook閱讀誌",
         "published": "2026-07-17T09:55:40+00:00"
-      },
-      {
-        "id": "a3068fcdde56",
-        "title": "I Can Die Too review – vibrant pop songs can’t bring actor’s tale to life",
-        "summary": "Pitlochry Festival theatre                               Following its star through rehearsals and squabbles with her director,  this is modelled on Cocteau’s La Voix Humaine but it’s not speaking very clearly If Frances Ruffelle fancied putting on a one-woman cabaret show, it would be pretty good. ...",
-        "url": "https://www.theguardian.com/stage/2026/jul/17/i-can-die-too-review-pitlochry-festival-theatre",
-        "source": "Stage | The Guardian",
-        "published": "2026-07-17T09:33:41+00:00"
       },
       {
         "id": "7267e534b2f1",
