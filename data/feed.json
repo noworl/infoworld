@@ -1,10 +1,42 @@
 {
-  "updated_at": "2026-07-27T08:39:08.655913+00:00",
+  "updated_at": "2026-07-27T12:33:14.863976+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "40f5aef518f9",
+        "title": "4大通路開出4張統一發票千萬獎　花49元買餅乾抱走大獎",
+        "summary": "（中央社記者謝怡璇台北27日電）115年5、6月期統一發票千萬元特別獎獎號25日出爐，統一超商、全家便利商店、萊爾富、全聯本期共開出4張千萬特別獎。其中1名幸運兒只花新台幣49元買餅乾，就抱走千萬大獎。",
+        "url": "https://www.cna.com.tw/news/ahel/202607270237.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-27T09:52:13+00:00"
+      },
+      {
+        "id": "e5b19e634655",
+        "title": "28日山區防局部大雨　水氣漸減週末天氣轉趨穩定",
+        "summary": "（中央社記者張雄風台北27日電）氣象署表示，明天午後各山區要留意局部大雨發生，各地高溫約攝氏32至35度，桃園以北、中南部仍有局部36度高溫發生的機會；本週水氣逐漸減少，預測週末天氣相對穩定。",
+        "url": "https://www.cna.com.tw/news/ahel/202607270228.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-27T09:43:54+00:00"
+      },
+      {
+        "id": "3d6b9081a9db",
+        "title": "問題油案蔣萬安提倒閣　陳時中：無行政怠惰",
+        "summary": "（中央社記者陳婕翎台北27日電）中聯問題油案延燒，台北市長蔣萬安再提倒閣，行政院政務委員陳時中今天回應，整起事件並無外界質疑的行政怠惰，食安講究科學，「不能說刀子一切下去就全部禁止」。",
+        "url": "https://www.cna.com.tw/news/aipl/202607270227.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-27T09:40:52+00:00"
+      },
+      {
+        "id": "0307d311371a",
+        "title": "台灣美食展31日登場  食安議題估帶動人潮參觀",
+        "summary": "（中央社記者余曉涵台北27日電）台灣美食展31日登場，由於近期食安議題，主辦單位台灣觀光協會會長簡余晏表示，參展廠商將提出檢驗證明跟食材履歷，且預期將帶動民眾進場來學習料理與購買食材等。",
+        "url": "https://www.cna.com.tw/news/ahel/202607270203.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-27T08:56:59+00:00"
+      },
+      {
         "id": "8503f8bef088",
-        "title": "郵輪船票定型化契約上路  航程延誤可按日求償",
+        "title": "郵輪船票定型化契約上路　航程延誤可按日求償",
         "summary": "（中央社記者余曉涵台北27日電）郵輪消費爭議層出不窮，交通部今天公告郵輪船票交易定型化契約，明訂郵輪公司導致的航程延誤、變更等，消費者可以按日請求賠償等。",
         "url": "https://www.cna.com.tw/news/ahel/202607270179.aspx",
         "source": "中央社即時新聞 生活醫藥",
@@ -35,6 +67,14 @@
         "published": "2026-07-27T07:30:39+00:00"
       },
       {
+        "id": "5b9d90f3fc57",
+        "title": "10 Not The Bride You Were Expecting",
+        "summary": "Wangxian, Podfic.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/10-not-the-bride-you-were-expecting",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-27T07:30:26+00:00"
+      },
+      {
         "id": "674d9d5c85e0",
         "title": "中聯第三方獨立調查結果　高風險原料等3大缺失釀食安風波",
         "summary": "（中央社記者陳婕翎台北27日電）中聯致癌油案，行政院政務委員陳時中今天親上火線說明第三方獨立調查結果，巴西黃豆等高風險原料無強化管理、油品製程參數與品管界限不符、未提高產品檢驗頻率等釀食安風波。",
@@ -49,38 +89,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202607270161.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-07-27T07:16:28+00:00"
-      },
-      {
-        "id": "93a64d308c59",
-        "title": "雲系北移及午後對流旺盛　桃彰雲嘉防豪雨",
-        "summary": "（中央社台北27日電）氣象署發布豪雨特報，南方雲系北移及午後對流發展旺盛，易有短延時強降雨，今天桃園市、彰化縣、雲林縣及嘉義縣有局部大雨或豪雨，新竹以南、台東地區及新北山區有局部大雨發生的機率。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270157.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T07:05:19+00:00"
-      },
-      {
-        "id": "6aa811c34501",
-        "title": "中醫大附醫院長永續講堂  探討數位轉型與照護韌性",
-        "summary": "（中央社記者郝雪卿台中27日電）中國醫藥大學附設醫院攜手台灣氣候與健康聯盟舉辦「院長永續講堂」，院方表示，以「數位轉型、永續醫療、健康照護韌性」為主軸，探討因應氣候與健康風險的轉型方向。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270156.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T07:03:17+00:00"
-      },
-      {
-        "id": "ed6a64d9a36b",
-        "title": "高溫、冷氣房溫差增心腦血管風險　醫揭猝死10警訊",
-        "summary": "（中央社記者陳婕翎台北27日電）近期接連發生中壯年猝死事件，醫師說，40歲族群猝死漸增，與三高及心腦血管疾病年輕化有關，高溫與冷氣房室內外溫差是夏季誘發風險，10大警訊不可忽視，尤其異常疲累應就醫。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270153.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T06:56:10+00:00"
-      },
-      {
-        "id": "566674afbb6b",
-        "title": "農村水保署獎勵青年回鄉  逾1700人投入農村",
-        "summary": "（中央社記者汪淑芬台北27日電）農業部農村發展及水土保持署「青年回鄉行動獎勵計畫」邁入第10年，已吸引超過1700名青年投入農村社區。農村水保署說，今年的計畫即日起徵件，9月8日中午12時截止。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270149.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T06:48:01+00:00"
       },
       {
         "id": "d26c21b03912",
@@ -105,6 +113,14 @@
         "url": "https://archive.org/details/1.01.-the-whole-being-dead-thing",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-27T02:07:16+00:00"
+      },
+      {
+        "id": "552533184553",
+        "title": "chuong-1159-quan-lam-dong-hai-3",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_25109_1785113620_yVQ4",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-27T00:55:25+00:00"
       },
       {
         "id": "0185eef0484e",
@@ -145,22 +161,6 @@
         "url": "https://archive.org/details/audio_doc-truyen-online_chap_22497_1785110798_WLsM",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-27T00:08:22+00:00"
-      },
-      {
-        "id": "d66b4574ea8b",
-        "title": "chuong-1460-tranh-mau",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_5567_1785109669_bhri",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-26T23:49:26+00:00"
-      },
-      {
-        "id": "e64f72bb21b6",
-        "title": "PUNK ROCK SWEDEN",
-        "summary": "M.This item belongs to: movies/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, MPEG4, Metadata, Thumbnail, h.264 IA",
-        "url": "https://archive.org/details/PUNK-ROCK-SWEDEN",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-26T23:45:18+00:00"
       },
       {
         "id": "e518ee6e808b",
@@ -725,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "89c67e96f239",
+        "title": "手握1000项专利的“药物狂人”，为何在AI制药时代选择逆行？",
+        "summary": "2026 年 4 月，再生元（Regeneron）联合创始人兼首席科学官乔治·扬科普洛斯（George Yancopoulos）受邀前往白宫。作为一个平时更习惯穿皮夹克的人，团队花了些时间才说服他换上一套西装。乔治最终还是给这身正式装束留下了一点个人印记：胸前那条花领带，由他的导师、诺贝尔化学奖得主沃利·吉尔伯特（Wally Gilbert）亲手绘制。这次会面的议题之一，是再生元刚获批的基因疗法 Otarmeni。该疗法用于治疗由 OTOF 基因变异引起的严重听力损失，公司随后宣布将向美国符合条件的患者免费提供治疗。乔治在接受《华尔街日报》采访时说：“人们生病时会祈祷奇迹发生。奇迹从何而来？来...",
+        "url": "https://www.mittrchina.com/news/detail/16692",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-27T06:40:45+00:00"
+      },
+      {
         "id": "58509055e632",
         "title": "兩廳院2026秋天藝術節  7國8檔作品理解彼此",
         "summary": "（中央社記者趙靜瑜台北27日電）由兩廳院主辦的2026秋天藝術節將於10月22日至11月29日展開。今年邀集來自台灣、希臘等7國8檔作品共30場演出，帶領觀眾重新理解自己與他人的連結。",
@@ -1197,14 +1205,6 @@
         "published": "2026-07-23T16:00:00+00:00"
       },
       {
-        "id": "81b6ae7fdc54",
-        "title": "“舌尖上的鼠标”问世，MIT创业团队推出MouthPad，已造福超百名残障用户",
-        "summary": "7 月 22 日，MIT Media Lab 孵化公司 Augmental 宣布，他们的舌头控制设备 MouthPad 正式在美国公开发售。设备售价 1,400 美元，购买者还需支付约 50—150 美元完成口腔扫描。同期发布的 Vox 售价 200 美元，试图用一枚贴近皮肤的麦克风承担文字输入。Augmental 对两款产品的分工概括非常明确：MouthPad 是鼠标，Vox 是键盘。MouthPad 看起来像一副透明保持器，贴合使用者的上齿和上颚。中间嵌有压感触控板，整机厚约 1 毫米、重约 10 克。用户可以用舌尖移动光标、按压左键，用吸气动作触发右键；颈部仍能活动的人也可以用头部运动控...",
-        "url": "https://www.mittrchina.com/news/detail/16681",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-23T14:38:04+00:00"
-      },
-      {
         "id": "8d19f909fd71",
         "title": "王虹、邓煜获2026菲尔兹奖：两位北大同届生的数学之路",
         "summary": "当地时间 2026 年 7 月 23 日，国际数学联盟在美国费城举行的国际数学家大会开幕式上公布本届四位菲尔兹奖得主：王虹、邓煜、Jacob Tsimerman 和 John Pardon。这也是继 1982 年的丘成桐、2006 年的陶哲轩之后，又两位华人数学家获得菲尔兹奖。图丨2026 年菲尔兹得主（来源：International Mathematical Union）19 年前，王虹和邓煜同为北京大学 2007 级本科生，却从一开始就走在不同轨道上：16 岁的王虹先进入地球与空间科学学院，随后转入数学系；带着国际数学奥林匹克金牌入学的邓煜，两年后转学麻省理工学院。两人在燕园真正重叠不过...",
@@ -1541,14 +1541,6 @@
         "published": "2026-07-21T11:44:55+00:00"
       },
       {
-        "id": "d675e4d9162e",
-        "title": "Midnight at the Never Get review – Ben Platt soars in honey-hearted cabaret-musical of 60s sweethearts",
-        "summary": "Menier Chocolate Factory, LondonPlatt excels as a crooner looking back on falling for his songwriter-lover – dazzlingly played by Gregor Milne – in a show of beguiling, bittersweet nostalgia and pristine songsBen Platt’s sky-gliding voice was made for decades gone by. The Tony, Emmy and Grammy award...",
-        "url": "https://www.theguardian.com/stage/2026/jul/21/midnight-at-the-never-get-review-ben-platt-menier-chocolate-factory-london-",
-        "source": "Stage | The Guardian",
-        "published": "2026-07-21T10:30:01+00:00"
-      },
-      {
         "id": "898d629e988b",
         "title": "2026戲曲夢工場「生而為≋人？」 在AI時代大膽叩問人類價值",
         "summary": "當人工智慧進步的速度開始超越人類，生而為人的價值，該如何重新定義？國立傳統藝術中心打造「戲曲夢工場」劇展今年邁入第九年，策展人劉建幗以「生而為≋人？」為主題，號召六組頂尖創作團隊，從歌仔戲、傀儡戲、粵劇、說唱、京崑與科技聲響等多樣化角度，大膽實驗戲曲美學的無限可能。目前六檔作品已有四檔完售，在戲迷圈裡持續引發話題旋風。節目將從8月29日至10月4日於臺灣戲曲中心多功能廳接力登場，邀請觀眾共同探尋「生而為人」的意義。國立傳統藝術中心主任陳悅宜表示，戲曲從創作初始就是一門「人」的藝術，透過編劇、導演、演員、設計等「人」，在層層的詮釋中注入情感溫度，造就一齣齣精彩的戲曲作品。然而，走到AI時代，許多...",
@@ -1669,14 +1661,6 @@
         "published": "2026-07-19T16:00:00+00:00"
       },
       {
-        "id": "44a4d0de6efe",
-        "title": "Hole! review – filthy musical fable enchants … and makes you blush",
-        "summary": "Soho theatre, LondonJake Brasch and Nadja Leonhard-Hooper are vivid storytellers and fine musicians and foley artistsA filthy fable about a god-fearing Christian sect in rural Nebraska who, in a racy, sci-fi twist, are forced to wear butt plugs to avoid being sucked up into the ether, could be utter...",
-        "url": "https://www.theguardian.com/stage/2026/jul/19/hole-review-soho-theatre-london-edinburgh-fringe",
-        "source": "Stage | The Guardian",
-        "published": "2026-07-19T14:00:29+00:00"
-      },
-      {
         "id": "aa17a5b60e65",
         "title": "Here Comes J Edgar! A Musical Comedy review – show tunes, Mel Brooks zing and real human anguish",
         "summary": "King’s Head theatre, LondonCamp comedy from The Simpsons’ Harry Shearer and Seinfeld writer Tom Leopold explores the relationship between FBI boss Hoover and protege Clyde TolsonThis queering of FBI history does not seem like the stuff of fringe theatre. Created by American comedy royalty – Harry Sh...",
@@ -1709,6 +1693,14 @@
         "published": "2026-07-18T13:28:00+00:00"
       },
       {
+        "id": "b856de82e583",
+        "title": "Laura Benanti: Nobody Cares review – eyebrow-raising cringe comedy from a recovering people pleaser",
+        "summary": "Underbelly Boulevard Soho, LondonA grab-bag of awkward ‘lessons learned’ by a middle-aged entertainer reflecting on her journey, the US comic’s song-filled show has savour and schmaltzAmong Americans, Tony award-winner (“and four-time Tony award loser,” as she self-deprecates here) Laura Benanti is ...",
+        "url": "https://www.theguardian.com/stage/2026/jul/18/laura-benanti-nobody-cares-review-underbelly-boulevard-soho-london",
+        "source": "Stage | The Guardian",
+        "published": "2026-07-18T06:00:49+00:00"
+      },
+      {
         "id": "49cec160789e",
         "title": "傳 Meta 擬出租算力給 Anthropic，洽談規模高達 100 億美元",
         "summary": "綜合外媒報導，Meta Platforms 正與 Anthropic 洽談租賃算力，這項潛在合作案規模最高可達 [&#8230;]",
@@ -1723,6 +1715,14 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2367",
         "source": "獨立出版聯盟網站",
         "published": "2026-07-18T00:00:00+00:00"
+      },
+      {
+        "id": "e3bd7a07cb77",
+        "title": "The Smile of Her review – actor’s autobiographical show speeds through its resonant pains",
+        "summary": "Marylebone theatre, London Christine Lahti tells the story of family life, misunderstandings between mothers and daughters, and her career – but its focus is blurredChristine Lahti’s autobiographical show addresses many important issues and emotional pressure points. It is the story of family life, ...",
+        "url": "https://www.theguardian.com/stage/2026/jul/17/the-smile-of-her-review-marylebone-theatre-london-christine-lahti",
+        "source": "Stage | The Guardian",
+        "published": "2026-07-17T16:00:33+00:00"
       },
       {
         "id": "18b9831b2a22",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T08:39:02.255785+00:00"
+        "published": "2026-07-27T12:33:09.784768+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T08:39:02.255774+00:00"
+        "published": "2026-07-27T12:33:09.784757+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T08:39:02.255764+00:00"
+        "published": "2026-07-27T12:33:09.784747+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T08:39:02.255753+00:00"
+        "published": "2026-07-27T12:33:09.784735+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T08:39:02.255743+00:00"
+        "published": "2026-07-27T12:33:09.784724+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T08:39:02.255732+00:00"
+        "published": "2026-07-27T12:33:09.784713+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T08:39:02.255722+00:00"
+        "published": "2026-07-27T12:33:09.784702+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T08:39:02.255711+00:00"
+        "published": "2026-07-27T12:33:09.784691+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T08:39:02.255701+00:00"
+        "published": "2026-07-27T12:33:09.784681+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,47 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T08:39:02.255690+00:00"
+        "published": "2026-07-27T12:33:09.784670+00:00"
+      },
+      {
+        "id": "05b99e926f3e",
+        "title": "Author Simone O. Elias Bypasses Traditional Publishing with Open Access Release",
+        "summary": "Sixteen-year-old Simone O. Elias has a lot to say about her generation and the way it is perceived by society. Rather than wait for a traditional publisher, the Berkeley, California, [&#8230;]",
+        "url": "https://blog.archive.org/2026/07/27/simone-o-elias-porcelain-rage/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-07-27T12:00:00+00:00"
+      },
+      {
+        "id": "0fe7cf20ceae",
+        "title": "AI Companies–yes, even “the good one”–Are Buying Rare Books, Scanning Them, and Pulping Them to Avoid Copyright Law",
+        "summary": "Do you like books? As someone who runs our museum&#8217;s Research Library and also has a day job at a university library, I definitely like books. Which is why this report by Futurism from over the past weekend is so infuriating. It seems AI companies – yes, even Anthropic, &#8220;the good one&#822...",
+        "url": "https://museumofportablesound.com/2026/07/27/ai-companies-yes-even-the-good-one-are-buying-rare-books-scanning-them-and-pulping-them-to-avoid-copyright-law/",
+        "source": "The Museum of Portable Sound",
+        "published": "2026-07-27T10:48:19+00:00"
+      },
+      {
+        "id": "83989fd34591",
+        "title": "Signal’s Meredith Whittaker Wants You To Just Chill About the Whole OpenAI/Hugging Face Thing",
+        "summary": "&#8220;We need to back away from this anthropomorphic language that paints these models as somehow conscious.&#8221; The always reliable Meredith Whittaker, President of the Signal Foundation, does her best to communicate that OpenAI&#8217;s &#8220;cyberattack&#8221; on Hugging Face was not evidence...",
+        "url": "https://museumofportablesound.com/2026/07/27/signals-meredith-whittaker-wants-you-to-just-chill-about-the-whole-openai-hugging-face-thing/",
+        "source": "The Museum of Portable Sound",
+        "published": "2026-07-27T10:14:45+00:00"
+      },
+      {
+        "id": "1ba7ae017e88",
+        "title": "南蘇丹駐日臨時代辦造訪民音文化中心",
+        "summary": "2026年7月10日，南蘇丹共和國駐日本大使館臨時代辦加布里埃爾·鄧先生造訪民音文化中心，並由民音會長山口浩司 [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14898/%e5%8d%97%e8%98%87%e4%b8%b9%e9%a7%90%e6%97%a5%e8%87%a8%e6%99%82%e4%bb%a3%e8%be%a6%e9%80%a0%e8%a8%aa%e6%b0%91%e9%9f%b3%e6%96%87%e5%8c%96%e4%b8%ad%e5%bf%83/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-07-27T08:58:24+00:00"
+      },
+      {
+        "id": "f5489a976749",
+        "title": "The Week In Slop, Week of 20 July 2026",
+        "summary": "THIS WEEK: OpenAI admits one of its agents &#8220;accidentally&#8221; attacked Hugging Face; AI ruins Belgium&#8217;s F1 race; Anthropic needs to pay up for all those books they pirated training Claude; Google ends a quarter with negative free cash flow–a first!–and you&#8217;ll never guess why; Chi...",
+        "url": "https://museumofportablesound.com/2026/07/25/the-week-in-slop-week-of-20-july-2026/",
+        "source": "The Museum of Portable Sound",
+        "published": "2026-07-25T09:39:02+00:00"
       },
       {
         "id": "7468eae9f112",
@@ -2831,14 +2871,6 @@
         "published": "2026-07-02T23:13:24+00:00"
       },
       {
-        "id": "23bf5939ed11",
-        "title": "Signal’s President Meredith Whittaker: “You Have Plenty to Hide”",
-        "summary": "Meredith Whittaker is the president of the nonprofit organisation responsible for developing the Signal messaging app. In this episode of the Futurology podcast, she discusses the ways AI is being used as a tool of surveillance capitalism.",
-        "url": "https://museumofportablesound.com/2026/07/01/signals-president-meredith-whittaker-you-have-plenty-to-hide/",
-        "source": "The Museum of Portable Sound",
-        "published": "2026-07-01T15:26:01+00:00"
-      },
-      {
         "id": "b7e52a26e167",
         "title": "Vanishing Culture Episode #1: What We Stand to Lose with Luca Messarra",
         "summary": "As more of our cultural heritage moves online, a troubling question is emerging: what happens when the things we create, share, and cherish simply disappear? In the first episode of [&#8230;]",
@@ -2869,14 +2901,6 @@
         "url": "https://100r.ca/site/log.html#jun2026",
         "source": "Hundred Rabbits",
         "published": "2026-07-01T07:00:00+00:00"
-      },
-      {
-        "id": "a23b5e32efa2",
-        "title": "Introducing the Vanishing Culture Podcast Series: Exploring What We Stand to Lose",
-        "summary": "Vanishing Culture is a special six-part series from the Future Knowledge podcast, produced by the Internet Archive and Authors Alliance, exploring what happens when our shared cultural heritage disappears, and [&#8230;]",
-        "url": "https://blog.archive.org/2026/06/30/introducing-the-vanishing-culture-podcast-series-exploring-what-we-stand-to-lose/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-06-30T14:57:28+00:00"
       },
       {
         "id": "7ae937f09aeb",
@@ -2951,14 +2975,6 @@
         "published": "2026-06-03T17:26:52+00:00"
       },
       {
-        "id": "c8ab0736e9ef",
-        "title": "Book Review: Empire of AI (2025) by Karen Hao",
-        "summary": "Impeccably researched page-turner essential reading for those most unlikely to read it Empire of AI: Inside the Reckless Race for Total Domination by Karen HaoAllen Lane, London, 2025; 482 pages.Reviewed by Dr John Kannenberg Almost a decade ago, the online museum world made collective pledges to de...",
-        "url": "https://museumofportablesound.com/2026/06/02/book-review-empire-of-ai-2025-by-karen-hao/",
-        "source": "The Museum of Portable Sound",
-        "published": "2026-06-02T11:03:12+00:00"
-      },
-      {
         "id": "212fbac1bfec",
         "title": "Summary of changes for May 2026",
         "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of May.\n\n\n\n  Wiki, documented the installation of Pino's water tank, added thermostat to engine care, and updated woodstove installation.\n  Grimgrains, added a solar-roasted kinako recipe.\n  Uxn, added instr...",
@@ -2991,14 +3007,6 @@
         "published": "2026-05-21T02:34:11+00:00"
       },
       {
-        "id": "f3b79d6942aa",
-        "title": "「陽光墨西哥之聲」日本巡演圓滿落幕，璀璨呈現拉丁跨文化樂音",
-        "summary": "2026年3月16日至4月16日，民音隆重推出「陽光墨西哥之聲」，這場為期一個月的全國巡迴演出，將承襲洛斯·潘 [&#8230;]",
-        "url": "https://www.min-on.org/zh-hant/14797/%e3%80%8c%e9%99%bd%e5%85%89%e5%a2%a8%e8%a5%bf%e5%93%a5%e4%b9%8b%e8%81%b2%e3%80%8d%e6%97%a5%e6%9c%ac%e5%b7%a1%e6%bc%94%e5%9c%93%e6%bb%bf%e8%90%bd%e5%b9%95%ef%bc%8c%e7%92%80%e7%92%a8%e5%91%88%e7%8f%be/",
-        "source": "Chinese Traditional – Min-On Website",
-        "published": "2026-05-20T06:06:54+00:00"
-      },
-      {
         "id": "3e81a5708e9e",
         "title": "That one weird chord in “Sir Duke”",
         "summary": "You can feel it all over by Dr. Ethan Hein You can feel it all over people Read on Substack We’re coming up on the 50th anniversary of Songs in the Key of Life’s release, and I plan to put in some quality musicology on it. I’m starting now, with a look at a single &#8230; Continue reading \"That one ...",
@@ -3013,14 +3021,6 @@
         "url": "https://medium.com/@ccs.popcom/%E5%9C%A8%E5%BE%8C%E7%9C%9F%E7%9B%B8%E7%9A%84%E9%A2%A8%E6%9A%B4%E4%B8%AD-%E6%88%91%E5%80%91%E5%A6%82%E4%BD%95%E5%AE%88%E4%BD%8F-%E4%BA%8B%E5%AF%A6-b3dd3771f56f?source=rss-17c1c85be06b------2",
         "source": "Stories by 爆米花傳播學 on Medium",
         "published": "2026-05-19T13:49:56+00:00"
-      },
-      {
-        "id": "3904b63de288",
-        "title": "Carissa Véliz on the Myth of AI’s Inevitability",
-        "summary": "Dr Carissa Véliz is a leading AI ethicist and a professor at the Institute for Ethics in AI at the University of Oxford. In this episode of The Tea with Myriam Francois, Dr Véliz argues against the prevailing attitude that AI is inevitable.",
-        "url": "https://museumofportablesound.com/2026/05/16/carissa-veliz-on-the-myth-of-ais-inevitability/",
-        "source": "The Museum of Portable Sound",
-        "published": "2026-05-16T15:24:00+00:00"
       },
       {
         "id": "25798e10ba1f",
