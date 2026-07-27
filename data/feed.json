@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T19:46:05.933416+00:00",
+  "updated_at": "2026-07-27T21:18:57.323573+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -725,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "be01f4f75f3c",
+        "title": "The Bob Moog Foundation Archives just added 4489 items from inMusic",
+        "summary": "500 schematics, 700 letters, vintage synths, publications, personal effects from Dr. Bob, prototype models, and more: thanks to a major gift from inMusic, the Bob Moog Foundation has massively expanded its collection. It makes the history that much more whole. Here are some images to give you a glim...",
+        "url": "https://cdm.link/bob-moog-foundation-archives-donation/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-27T20:52:05+00:00"
+      },
+      {
+        "id": "97696c8100fb",
+        "title": "MatrixPortal S3 Flight Proximity Tracker #AdafruitLearnGuide",
+        "summary": "The Flight Proximity Tracker is a project that keeps you in the know about the nearby aerial traffic. This project displays real-time data of nearby aircraft using scrolling text, along with airline icons just like a departure board in an airport! This project uses the Matrix Portal S3 with CircuitP...",
+        "url": "https://blog.adafruit.com/2026/07/27/matrixportal-s3-flight-proximity-tracker-adafruitlearnguide/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-27T20:00:38+00:00"
+      },
+      {
         "id": "608912daad09",
         "title": "The computer that helped win World War II",
         "summary": "One summer day in 1941, a British radio operator was monitoring German military frequencies and heard something unexpected in her headphones. A later report called it “strange new music.” Sounding unlike the familiar Morse dit-dit-dah of enciphered messages sent over the German Enigma network, the “...",
@@ -741,6 +757,22 @@
         "published": "2026-07-27T18:01:17+00:00"
       },
       {
+        "id": "4c0ff9aec75f",
+        "title": "MACROPAD Pi",
+        "summary": "A simple 3 button macro pad shared by Arnov Sharma on Instructables: We&#8217;re utilizing PICO as an HID device, adding three mechanical switches to it and an OLED screen to perform COPY PASTE and erase commands. The idea here was to create a super small macropad that I could use while using Fusion...",
+        "url": "https://blog.adafruit.com/2026/07/27/macropad-pi/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-27T18:00:37+00:00"
+      },
+      {
+        "id": "888861b0fdbc",
+        "title": "Last call on these summer sales on gear and software",
+        "summary": "Don't worry -- summer's not over yet (beloved northern hemisphere, anyway). But there are a bunch of sales ending tomorrow or at the end of July. Here's a quick round-up, including a couple I missed in the last deals guide.\nThe post Last call on these summer sales on gear and software appeared first...",
+        "url": "https://cdm.link/last-call-on-these-summer-sales-on-gear-and-software/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-27T17:54:26+00:00"
+      },
+      {
         "id": "0e3827970a3d",
         "title": "Why Sony can’t bring back its classic Walkman models",
         "summary": "The Obsolete Sony&#8217;s Newsletter is regularly asked &#8220;why can&#8217;t the Sony simply bring Walkmans back?&#8221; There are stories almost every week announcing that cassettes and CDs are back, and several manufacturers now sell new players for both formats. From the outside, it can look as...",
@@ -755,6 +787,14 @@
         "url": "https://blog.adafruit.com/2026/07/27/using-the-dgx-spark-as-a-daily-driver-computer/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-07-27T16:08:27+00:00"
+      },
+      {
+        "id": "8f06b5a3031b",
+        "title": "Birds on guitars, in the zebra finch sound art of Céleste Boursier-Mougenot",
+        "summary": "Sound artist Céleste Boursier-Mougenot's \"from hear to ear\" is on view in Lisbon, Portugal at the moment. So let's take a moment for zebra finches playing guitars and other sonic installations driven by elements from nature in the work of this artist from Nice, France (now in Sète).\nThe post Birds o...",
+        "url": "https://cdm.link/birds-on-guitars-celeste-boursier-mougenot/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-27T15:45:28+00:00"
       },
       {
         "id": "f1e32a9a05ab",
@@ -853,12 +893,12 @@
         "published": "2026-07-26T19:00:02+00:00"
       },
       {
-        "id": "f835a276041a",
-        "title": "A computer mouse controlled entirely by your tongue",
-        "summary": "Augmental introduced two new accessibility products A lot of the gadgets that get promoted at CES never make it past the concept stage so it&#8217;s cool to see this mouth mouse hit the market. Introduced by Augmental at CES 2024, the MouthPad is like a retainer that gives you full cursor control wi...",
-        "url": "https://blog.adafruit.com/2026/07/26/a-computer-mouse-controlled-entirely-by-your-tongue/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-26T17:34:11+00:00"
+        "id": "4bfa89016b1e",
+        "title": "Detroit legend John Jammin Collins has passed",
+        "summary": "Few faces are as essential to Detroit music and Detroit techno as John \"Jammin\" Collins, an institution behind the decks, stalwart of Underground Resistance, and the literal tour guide at Submerge's techno museum Exhibit 3000. We learned this weekend that the soul of Detroit moved onto another plane...",
+        "url": "https://cdm.link/john-jammin-collins/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-26T17:28:39+00:00"
       },
       {
         "id": "31599cea9c1a",
@@ -899,14 +939,6 @@
         "url": "https://www.theguardian.com/stage/2026/jul/26/oona-doherty-leather-jacket-review-bold-tendencies-london",
         "source": "Stage | The Guardian",
         "published": "2026-07-26T15:12:15+00:00"
-      },
-      {
-        "id": "4155c7d0d501",
-        "title": "Writing the English Alphabet in Cat Font",
-        "summary": "Japanese Calligrapher Takumi writes the English Alphabet in cats and I&#8217;m already imagining sending out a couple post cards written in cats.",
-        "url": "https://blog.adafruit.com/2026/07/26/writing-the-english-alphabet-in-cat-font/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-26T14:00:46+00:00"
       },
       {
         "id": "e0b2f202ce69",
@@ -1045,6 +1077,14 @@
         "published": "2026-07-24T16:00:00+00:00"
       },
       {
+        "id": "8e5c681e6fc3",
+        "title": "The delicate, tiny sound machines in the world of Kuro Kasetto",
+        "summary": "From Mexico, Kuro Kasetto produces music with solenoids and machines that quivers and rustles as if it's more flora than machine. It's a world of \"tiny sounds\" and a source of exquisite escape.\nThe post The delicate, tiny sound machines in the world of Kuro Kasetto appeared first on CDM Create Digit...",
+        "url": "https://cdm.link/tiny-sound-world-of-kuro-kasetto/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-24T15:23:09+00:00"
+      },
+      {
         "id": "affe6c7e05f9",
         "title": "猪肾在零下保存三天后成功移植，有望延长人体器官保存时间",
         "summary": "(来源：麻省理工科技评论）在器官捐献中，时间几乎决定一切。器官从捐献者体内取出后，便会开始逐渐受损。医生通常只有几个小时，必须尽快将它移植到受者体内。拖得越久，器官失去活性的风险就越高，最终可能无法使用。目前，大多数捐献器官会被保存在约 4℃ 的冰上运输。它们不能直接冷冻，因为此前的尝试中，器官内部会形成冰晶，进而造成严重损伤。得克萨斯农工大学的马修·鲍威尔·帕姆（Matthew Powell Palm）和同事提出了另一种方案：他们开发了一台设备，可以把器官冷却到零下 4℃，同时避免结冰。在一项最新的猪器官实验中，研究团队发现，至少对于肾脏而言，这套设备可以将其过冷保存数天。复温之后，这些肾脏...",
@@ -1141,6 +1181,14 @@
         "published": "2026-07-24T00:00:00+00:00"
       },
       {
+        "id": "3194f991d895",
+        "title": "In Expressive E’s Noisy 2.6 synth, expression everywhere, MIDI to MPE",
+        "summary": "Expression control is integral design feature of each component of Noisy, in each building block of the sound. And now Noisy 2.6 vastly expands the software's sound palette -- just in time to make this a worthy companion to Expressive E's own Osmose and Osmose CE.\nThe post In Expressive E&#8217;s No...",
+        "url": "https://cdm.link/expressive-e-noisy-2-6/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-23T21:02:15+00:00"
+      },
+      {
         "id": "b90e41df4d44",
         "title": "大众汽车大幅下调年度营收预期",
         "summary": "这给这家德国汽车制造商的首席执行官奥博穆带来了巨大压力，迫使其推进包括创纪录规模裁员在内的新一轮成本削减措施。",
@@ -1203,6 +1251,14 @@
         "url": "https://www.theguardian.com/stage/2026/jul/23/wayne-mcgregor-venice-dance-biennale",
         "source": "Stage | The Guardian",
         "published": "2026-07-23T12:18:18+00:00"
+      },
+      {
+        "id": "0e71895c84be",
+        "title": "Turn up Jaymie Silk’s 2-volume Reclaim the Music and Transform Ur Mind",
+        "summary": "Jaymie Silk just dropped volume 2 of Reclaim the Music, his spontaneous summer all-hardware bangers. It's hard-hitting oldschool techno, it's got that 90s sound (especially thanks to a vintage compressor), and it also has explosions of percussion that are true to African roots. \"909, 808, percussion...",
+        "url": "https://cdm.link/jaymie-silk-reclaim-the-music/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-23T10:40:32+00:00"
       },
       {
         "id": "ad1889dd7440",
@@ -1325,12 +1381,28 @@
         "published": "2026-07-22T16:00:00+00:00"
       },
       {
+        "id": "7704587464cd",
+        "title": "Digital Arabic Maqām Archive and open-source MIDI plug-in now available",
+        "summary": "Khyam Allami presented his long-term research project in Beirut yesterday, and it's an exciting one. Hundreds of tuning systems, ajnās, and maqāmāt are now in a free, open archive, and there's a free MIDI plug-in that lets you apply tunings (and tweak them by ear) across all major software tuning fo...",
+        "url": "https://cdm.link/digital-arabic-maqam-archive-and-open-source-midi-plug-in/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-22T14:36:02+00:00"
+      },
+      {
         "id": "52b5621cf350",
         "title": "“Four Score and Seven Years Ago….” Lincoln’s Handwritten Gettysburg Address",
         "summary": "For a document as iconic as the Gettysburg Address now is, many details about its creation and delivery have been lost to time or clouded by conflicting memories of witnesses. Civil War historian Michell Krowl of the Manuscript Division documents what we do and don't know about this historic moment ...",
         "url": "https://blogs.loc.gov/loc/2026/07/four-score-and-seven-years-ago-lincolns-handwritten-gettysburg-address/",
         "source": "Timeless",
         "published": "2026-07-22T13:00:30+00:00"
+      },
+      {
+        "id": "2986869e058c",
+        "title": "Free BEAST Repeat for Ableton Live is so good, you’ll switch genres to IDM",
+        "summary": "Dillon Bastan, prolific Max for Live patch stylist to the stars, is at it again. BEAST Repeat takes the fun glitchiness of Ableton's stock Beat Repeat and adds extensive new ways to re-pitch, fade, stretch, twist, gate, pan, filter, and generally mangle per-pattern and per-beat. And it's free?!\nThe ...",
+        "url": "https://cdm.link/free-beast-repeat/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-22T11:18:33+00:00"
       },
       {
         "id": "b95a19876ecf",
@@ -1451,6 +1523,14 @@
         "url": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
         "source": "Claude Blog",
         "published": "2026-07-22T00:00:00+00:00"
+      },
+      {
+        "id": "e8dfaea34ef4",
+        "title": "Let’s enjoy some Square Enix game soundtracks in acoustic covers",
+        "summary": "The Square Enix Music Channel remains a gift to the Internet. So in this dire summer for the gaming industry (layoffs, the end of physical media, console price hikes), let's keep the faith and listen to NieR played on hammered dulcimer. This, too, shall pass.\nThe post Let&#8217;s enjoy some Square E...",
+        "url": "https://cdm.link/square-enix-soundtracks-acoustic-covers/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-21T18:03:32+00:00"
       },
       {
         "id": "c9f51949084a",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T19:46:02.771185+00:00"
+        "published": "2026-07-27T21:18:55.431851+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T19:46:02.771174+00:00"
+        "published": "2026-07-27T21:18:55.431841+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T19:46:02.771164+00:00"
+        "published": "2026-07-27T21:18:55.431832+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T19:46:02.771153+00:00"
+        "published": "2026-07-27T21:18:55.431822+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T19:46:02.771141+00:00"
+        "published": "2026-07-27T21:18:55.431812+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T19:46:02.771129+00:00"
+        "published": "2026-07-27T21:18:55.431802+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T19:46:02.771119+00:00"
+        "published": "2026-07-27T21:18:55.431792+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T19:46:02.771108+00:00"
+        "published": "2026-07-27T21:18:55.431782+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T19:46:02.771098+00:00"
+        "published": "2026-07-27T21:18:55.431772+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-27T19:46:02.771088+00:00"
+        "published": "2026-07-27T21:18:55.431763+00:00"
       },
       {
         "id": "3f6addacb39f",
