@@ -1,22 +1,158 @@
 {
-  "updated_at": "2026-07-28T03:21:08.894359+00:00",
+  "updated_at": "2026-07-28T06:34:39.154711+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "68f1dddd9346",
+        "title": "婦人車禍長短腳　正前開人工髖關節置換術助改善",
+        "summary": "（中央社記者楊思瑞台南28日電）台南53歲廖姓婦人因車禍傷及左側髖關節，逐漸惡化為長短腳不良於行，醫師評估後採用微創正前開人工關節置換手術，利用術中平躺特性準確比對雙腳長度，幫助病人重拾行動力。",
+        "url": "https://www.cna.com.tw/news/ahel/202607280087.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-28T04:31:37+00:00"
+      },
+      {
+        "id": "9529921c57c0",
+        "title": "健康幣首波可換無糖飲料茶葉蛋 四大超商有意合作",
+        "summary": "（中央社記者陳婕翎台北28日電）衛福部規劃健康幣鼓勵健康生活，拚9月上路。國健署長沈靜芬說，第1階段以健康的食品為主，如無糖飲料、雞胸肉、茶葉蛋等，不一定需要「小綠人標章」，四大超商皆有合作意願。",
+        "url": "https://www.cna.com.tw/news/ahel/202607280074.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-28T03:58:06+00:00"
+      },
+      {
+        "id": "eca046a0f104",
+        "title": "Xin Chào Quý Vị Và Các Bạn Chào Mừng Các",
+        "summary": "Bài 3: Cách xác định Trụ Ngày và Trụ Giờ chính xác tuyệt đối..This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/xin-chao-quy-vi-va-cac-ban-chao-mung-cac",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-28T03:52:29+00:00"
+      },
+      {
+        "id": "312ed8222d67",
+        "title": "四技二專登記分發開放填志願　提供逾2.2萬名額",
+        "summary": "（中央社記者許秩維台北28日電）115學年四技二專日間部聯合登記分發入學管道提供2萬2323個名額，每名考生最多可填199個志願，今天上午10時起至7月31日下午5時開放考生網路選填志願。",
+        "url": "https://www.cna.com.tw/news/ahel/202607280072.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-28T03:52:02+00:00"
+      },
+      {
+        "id": "f60c1e9f7fd4",
+        "title": "Xin Chào Quý Học Viên Và Các Bạn Yêu Thích",
+        "summary": "Bài 2: Cách xác định Trụ Năm và Trụ Tháng theo Tiết Khí..This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/xin-chao-quy-hoc-vien-va-cac-ban-yeu-thich",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-28T03:45:05+00:00"
+      },
+      {
+        "id": "66cde76cfb98",
+        "title": "Chào Mừng Các Bạn Đến Với Bài Giảng Đầu Tiên",
+        "summary": "Bài 1: Hiểu về lịch Âm - Dương, Tiết Khí và múi giờ địa phương khi tính Bát Tự..This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-mung-cac-ban-den-voi-bai-giang-dau-tien",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-28T03:41:17+00:00"
+      },
+      {
+        "id": "5826da80637c",
+        "title": "中研院建構文昌魚大腦地圖  揭脊椎動物大腦起源",
+        "summary": "（中央社記者吳欣紜台北28日電）人類大腦如何演化一直是演化生物學重要謎題，中研院研究團隊近日建構「文昌魚3D大腦地圖」，揭示脊椎動物複雜的大腦構造形成，研究成果已於7月登上國際期刊。",
+        "url": "https://www.cna.com.tw/news/ahel/202607280063.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-28T03:17:42+00:00"
+      },
+      {
+        "id": "53a04b265683",
+        "title": "綜所稅首批退稅7/31入帳　總金額612億元",
+        "summary": "（中央社記者呂晏慈台北28日電）財政部高雄國稅局表示，今年申報的綜合所得稅第1批退稅將於7月31日入帳。根據財政資訊中心統計，首批退稅案件逾365萬戶、金額約新台幣612億元，平均每戶可退1萬6745元。",
+        "url": "https://www.cna.com.tw/news/ahel/202607280052.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-28T03:13:19+00:00"
+      },
+      {
+        "id": "25d2ddfe1d20",
+        "title": "Xin Chào Các Bạn Chào Mừng Các Bạn Đến Với",
+        "summary": "Bài 5: Thực hành nhận diện Ngũ Hành vượng suy cơ bản..This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/xin-chao-cac-ban-chao-mung-cac-ban-den-voi",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-28T03:11:47+00:00"
+      },
+      {
+        "id": "59d41727cb20",
+        "title": "菲律賓留學台灣3年增逾7成　雙邊強化合作機制",
+        "summary": "（中央社記者陳至中台北28日電）菲律賓來台留學生在3年內增加超過7成，教育部與菲律賓高等教育委員會召開「台菲教育工作小組會議」，聚焦大學學分互認機制、華語區域訓練中心等，強化雙邊合作機制。",
+        "url": "https://www.cna.com.tw/news/ahel/202607280050.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-28T03:11:15+00:00"
+      },
+      {
+        "id": "8c2878778223",
+        "title": "Chào Mừng Các Bạn Đến Với Bài Giảng Số 4",
+        "summary": "Bài 4: Thiên Can và Địa Chi: Sự kết hợp tạo nên mã gen vũ trụ..This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-mung-cac-ban-den-voi-bai-giang-so-4",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-28T03:08:43+00:00"
+      },
+      {
         "id": "6a0e8bed431a",
         "title": "Mark Lowry - Unforgettable Classics",
-        "summary": "Classic jazz songs sung by Mark Lowry.This item belongs to: audio/chilledlamb.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
+        "summary": "Classic jazz songs sung by Mark Lowry.This item belongs to: audio/chilledlamb.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/11-what-a-wonderful-world",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-28T03:05:32+00:00"
       },
       {
-        "id": "d2b669479f16",
-        "title": "All Over The World - The Very Best of Electric Light Orchestra",
-        "summary": "Best of Electric Light Orchestra.This item belongs to: audio/chilledlamb.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata, VBR MP3",
-        "url": "https://archive.org/details/01-mr.-blue-sky_202607",
+        "id": "db9c3da364cd",
+        "title": "Chào Mừng Các Bạn Đã Đến Với Bài Học Thứ",
+        "summary": "Bài 3: Quan hệ Sinh - Khắc - Chế - Hóa giữa các hành..This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-mung-cac-ban-da-den-voi-bai-hoc-thu_202607",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-28T02:29:00+00:00"
+        "published": "2026-07-28T02:57:56+00:00"
+      },
+      {
+        "id": "eda8de448334",
+        "title": "消除C肝送WHO認證半年無回應　國健署持續追蹤",
+        "summary": "（中央社記者陳婕翎台北28日電）台灣10年努力，去年底提前達到消除C肝成果，衛福部今年初向世衛申請認證，截至目前時過約半年尚無獲得對方回應，國健署今天證實此事，將持續追蹤相關進展。",
+        "url": "https://www.cna.com.tw/news/ahel/202607280044.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-28T02:56:02+00:00"
+      },
+      {
+        "id": "c4401806fe0f",
+        "title": "Chào Mừng Các Bạn Đến Với Bài Học Thứ Hai",
+        "summary": "Bài 2: Ngũ Hành (Kim, Mộc, Thủy, Hỏa, Thổ): Bản chất và tính cách cốt lõi..This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-mung-cac-ban-den-voi-bai-hoc-thu-hai",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-28T02:54:12+00:00"
+      },
+      {
+        "id": "78040879ba3e",
+        "title": "學者提醒人工遮陽物易蓄熱　籲種樹降溫",
+        "summary": "（中央社記者張雄風台北28日電）學者分析，人們面對夜間高溫，能調適的手段已經愈來愈少，人工構造物日間雖然能遮陽，到了晚間卻可能有蓄熱的情況；呼籲仍應以種樹為優先，才有機會降低地表氣溫。",
+        "url": "https://www.cna.com.tw/news/ahel/202607280041.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-28T02:52:56+00:00"
+      },
+      {
+        "id": "55b83d42cb56",
+        "title": "Xin Chào Các Bạn Hôm Nay Chúng Ta Sẽ Bước",
+        "summary": "Bài 1: Quy luật Âm Dương: Sự cân bằng trong vạn vật và trong lá số..This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/xin-chao-cac-ban-hom-nay-chung-ta-se-buoc",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-28T02:51:28+00:00"
+      },
+      {
+        "id": "fabe0055c3ee",
+        "title": "7月「熱帶夜」頻率逾8成　學者：睡眠品質易不佳、加劇都市熱島",
+        "summary": "（中央社記者張雄風台北28日電）學者統計，近10年來7月的深夜至清晨約6小時期間，如大台北、台中及西南部等地出現「熱帶夜」頻率逾8成；除恐讓人睡眠品質不佳外，也會加劇都市熱島的情況。",
+        "url": "https://www.cna.com.tw/news/ahel/202607280039.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-07-28T02:50:51+00:00"
+      },
+      {
+        "id": "a7ac43a0a0fe",
+        "title": "Bài 5 Tổng Kết Tư Duy Nền Tảng Và Định",
+        "summary": "Bài 5: Tổng kết tư duy nền tảng và định hướng học tập hiệu quả..This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/bai-5-tong-ket-tu-duy-nen-tang-va-dinh",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-28T02:48:56+00:00"
       },
       {
         "id": "234f911502c6",
@@ -25,142 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202607280026.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-07-28T01:44:22+00:00"
-      },
-      {
-        "id": "b85ea678b2f8",
-        "title": "雙北9縣市防36度高溫　吳德榮：颱風白海豚將快速增強為強颱",
-        "summary": "（中央社記者張雄風台北28日電）氣象署今天提醒大台北等9縣市防攝氏36度高溫。氣象專家吳德榮表示，太平洋高壓漸強，各地天氣偏熱；輕颱白海豚預期將快速增強跨過強颱門檻，但未來10天對台無威脅。",
-        "url": "https://www.cna.com.tw/news/ahel/202607280015.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-28T00:31:58+00:00"
-      },
-      {
-        "id": "4ce4ac97b200",
-        "title": "Dilated Peoples - Fillmore - 10/10/02",
-        "summary": "Dilated Peoples - Fillmore - 10/10/02.This item belongs to: audio/roiocollection.This item has files of the following types: AIFF, Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/dilated-peoples-fillmore-101002",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-28T00:18:54+00:00"
-      },
-      {
-        "id": "643161299e8e",
-        "title": "TINHO OH DRAMA - Na reliquia do TIO ROBY 1 2025 ZEOVOCDS",
-        "summary": "TINHO OH DRAMA - Na reliquia do TIO ROBY 1 2025 ZEOVOCDS.This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Metadata",
-        "url": "https://archive.org/details/tinho-oh-drama-na-reliquia-do-tio-roby-1-2025-zeovocds-47a16d3db6",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-27T23:39:11+00:00"
-      },
-      {
-        "id": "2bfb5aa6007c",
-        "title": "A Wishful Mondegreen",
-        "summary": "\" A Wishful Mondegreen\".This item belongs to: audio/tedjonespiano.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/794-1",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-27T23:38:16+00:00"
-      },
-      {
-        "id": "dd464810e380",
-        "title": "Terrapin Roadshow 2026-07-25. San Geronimo - Forest Meadows Amphitheatre; San Rafael, Ca.",
-        "summary": "Terrapin Roadshow  San Geronimo - Opening Band  With Special Guest Garrett Deloian On Guitar Forest Meadows Amphitheatre San Rafael, Ca. July 25th, 2026.This item belongs to: audio/roiocollection.This item has files of the following types: 24bit Flac, Archive BitTorrent, Checksums, Item Tile, JPEG, ...",
-        "url": "https://archive.org/details/20260727_20260727_2203",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-27T22:06:25+00:00"
-      },
-      {
-        "id": "55aba7b1ce93",
-        "title": "Blackalicious - Fillmore - 10/10/02",
-        "summary": "Blackalicious - Fillmore - 10/10/02.This item belongs to: audio/roiocollection.This item has files of the following types: AIFF, Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/blackalicious-fillmore-101002",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-27T22:04:58+00:00"
-      },
-      {
-        "id": "492f1cef8a0c",
-        "title": "تحميل اغنية كريم أحمد شوفتي MP 3",
-        "summary": "ب.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260727_20260727_2110",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-27T21:14:12+00:00"
-      },
-      {
-        "id": "a0e3edffb8c2",
-        "title": "اغنية نداء شرارة عدى وقت MP 3",
-        "summary": "ب.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260727_20260727_2100",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-27T21:06:32+00:00"
-      },
-      {
-        "id": "10ad48b0d24a",
-        "title": "اغنية لعبة الأيام إليسا",
-        "summary": "ي.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/20260727_20260727_2053",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-27T20:59:40+00:00"
-      },
-      {
-        "id": "a0ea1b944dcb",
-        "title": "今彩539第115181期　頭獎1注中獎",
-        "summary": "（中央社台北27日電）今彩539第115181期開獎，中獎號碼19、16、32、24、07；派彩結果，頭獎1注中獎，獎金新台幣800萬元。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270307.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T14:05:51+00:00"
-      },
-      {
-        "id": "16df813ddead",
-        "title": "威力彩第115060期　頭獎槓龜",
-        "summary": "（中央社台北27日電）威力彩第115060期今晚開獎，第一區中獎號碼為28、19、22、31、35、33，第二區中獎號碼為07號。派彩結果，頭獎、貳獎槓龜。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270305.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T14:02:47+00:00"
-      },
-      {
-        "id": "c25f1195d3a8",
-        "title": "東野圭吾不敵大腸癌　衛福部提醒中壯年民眾公費篩檢",
-        "summary": "（中央社記者陳婕翎台北27日電）日本小說家東野圭吾大腸癌辭世，大腸癌是台灣發生人數第2名的癌症，衛福部國民健康署指出，調整飲食與規律運動可有效預防大腸癌，注意排便異常狀況，中壯年民眾可接受公費篩檢以利早期發現並治療。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270296.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T13:12:24+00:00"
-      },
-      {
-        "id": "b23f076042ca",
-        "title": "威力彩第115060期開獎",
-        "summary": "（中央社台北27日電）威力彩第115060期今晚開獎，第一區中獎號碼為28、19、22、31、35、33，第二區中獎號碼為07。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270293.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T12:53:18+00:00"
-      },
-      {
-        "id": "a4c73e1844cf",
-        "title": "今彩539第115181期開獎",
-        "summary": "（中央社台北27日電）今彩539第115181期開獎，中獎號碼19、16、32、24、07。3星彩中獎號碼602，4星彩中獎號碼5910。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270291.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T12:43:13+00:00"
-      },
-      {
-        "id": "33f77504cadc",
-        "title": "颱風影響中轉客滯留金門　數百人仍待疏運",
-        "summary": "（中央社記者吳玟嶸金門27日電）颱風紅霞致金門小三通25日航班停航，昨天復航後經小三通往返中國的台灣旅客湧進金門機場。截至晚間7時，仍有至少300人於機場等待候補返台。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270274.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T11:26:34+00:00"
-      },
-      {
-        "id": "330383d7aacd",
-        "title": "連淨苦茶油增4批苯駢芘不合格　其他批次暫停販賣",
-        "summary": "（中央社記者陳婕翎台北27日電）繼大豆沙拉油含致癌物苯駢芘超標之後，苦茶油也出問題，食藥署今天公布，連淨公司苦茶油再4批驗出苯駢芘不合規定，其他批次苦茶油產品已暫停作業及停止販賣。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270270.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T11:16:25+00:00"
-      },
-      {
-        "id": "509c81ef693e",
-        "title": "中央擬修法將食安監測計畫改核定制　強化分級管理",
-        "summary": "（中央社記者陳婕翎台北27日電）中聯油品案延燒，衛福部長石崇良今天說，法律已要求一定規模以上業者建立食品安全監測計畫，但未要求送中央主管機關核定，因此這次修法增訂食品安全監測計畫須報中央核定，盼強化分級管理，「高風險原料採取較高規格製程」。",
-        "url": "https://www.cna.com.tw/news/ahel/202607270267.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-07-27T11:07:18+00:00"
       },
       {
         "id": "e518ee6e808b",
@@ -805,12 +805,28 @@
     ],
     "破(day)": [
       {
-        "id": "90e8de0383de",
-        "title": "Meta 退出清潔能源聯盟，因天然氣投資終結十年會籍",
-        "summary": "Meta 近日確認退出加入近 10 年的全球企業可再生能源倡議 RE100，Climate Group 向能源 [&#8230;]",
-        "url": "https://technews.tw/2026/07/28/meta-ends-climate-group-membership-over-gas-investment/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-27T23:10:52+00:00"
+        "id": "fb5247120d36",
+        "title": "泰雅竹籐工藝保存者陳双成辭世 文化部頒贈旌揚狀",
+        "summary": "（中央社記者邱祖胤台北28日電）宜蘭縣傳統工藝「竹籐工藝－泰雅族傳統男子工藝」及「纖維工藝－泰雅族傳統男子工藝」保存者陳双成於21日辭世，享壽91歲。",
+        "url": "https://www.cna.com.tw/news/acul/202607280105.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-07-28T05:16:16+00:00"
+      },
+      {
+        "id": "d4a1219873b2",
+        "title": "2026 劉明睿吉他獨奏會《夏日的變形珍珠》",
+        "summary": "2026 劉明睿吉他獨奏會《夏日的變形珍珠》 / 【節目介紹】 / 走進牯嶺街小劇場，聆聽難得一見的古典吉他獨 [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=14022",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-07-28T03:35:14+00:00"
+      },
+      {
+        "id": "0432de71ef09",
+        "title": "人物》高雄直直撞！倉本知明《福爾摩沙南方奇譚》：穿梭無主牌位，指認歷史孤魂",
+        "summary": "曾幾何時，國際巨星來台開演唱會的首選之地，不再唯一指名台北。近年從 Bruno Mars 到 BLACKPINK、即將登場的防彈少年團（BTS），驚人的演唱會經濟加上多項重大建設陸續落成，高雄褪去重工業印象，搖身一變成像剛撕開膠膜的科技新品，鍍上一層城市光榮感。\n然而，長居南臺灣 15 年、現任文藻外語大學副教授的倉本知明卻說：「高雄是廢墟與發展並存的城市。」這是他沿著荖濃溪，走遍高雄屏東完成《福爾摩沙南方奇譚》後的點評。\n現流冊店的新書分享會上，他操著日語口音的中文，說了一個魔幻的田調故事：某個午後，他騎著僅花兩萬二買來的中古機車「老夥伴」一路顛簸到屏東麟洛，尋找二戰時期戰俘營遺址。豈料遺址...",
+        "url": "https://www.openbook.org.tw/article/p-72801",
+        "source": "Openbook閱讀誌",
+        "published": "2026-07-28T03:30:13+00:00"
       },
       {
         "id": "3d01001634f5",
@@ -973,14 +989,6 @@
         "published": "2026-07-27T05:43:12+00:00"
       },
       {
-        "id": "5e47882fc41a",
-        "title": "Meta 終於要懲罰智慧眼鏡偷拍騷擾，兩個 Instagram 百萬追蹤帳號遭停用",
-        "summary": "Instagram 正在加強打擊以 Ray-Ban Meta 等智慧眼鏡偷拍，有騷擾性質的內容。Busines [&#8230;]",
-        "url": "https://technews.tw/2026/07/27/instagram-is-finally-going-after-ray-ban-meta-wearing-creeps/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-27T03:20:50+00:00"
-      },
-      {
         "id": "47a22eb4dba7",
         "title": "異境及共在  紐約特刊= New York special issue elsewhere and together【硬核文學讀本】 《K書》 第五期",
         "summary": "如棘刺逼仄蝕光，重瞳，謐寫此在的熱望。\n《硬核文學讀本．K書》新刊由知名作家聞人悅閱跨刀「客席主編」，力邀托賓、邱立本、陳懷恩等文化人物共話紐約之「城市的冒險」。\n更以《聯合文學》小說新人獎回顧為引，重聚成英姝、葛亮、伊格言等曾經的「新人」寫出新篇章，成就「文藝同學會」，共構出雙封面特輯的豐沛與暢想。\n\n這一期《K書》採用雙封面設計，是一場獨特的文本閱讀體驗。\n從A面開始，緩緩展開匯聚在紐約的文化版圖——以橫排、雙語、跨領域的編排方式，呈現這座城市的多重面貌。小說、詩、建築、藝術、聲音與城市在此交織，形成一種流動中的共在方式。「大蘋果」是一枚透鏡，讓我們從中觀察，當代文化如何生成，...",
@@ -1117,14 +1125,6 @@
         "published": "2026-07-25T13:47:49+00:00"
       },
       {
-        "id": "2cb0cb705fe5",
-        "title": "偶戲呈現金門古蹟洋樓故事　光影捕捉記憶片段",
-        "summary": "（中央社記者吳玟嶸金門25日電）藝術家魏伶娟透過光影偶戲，呈現圍繞金門古蹟董允耀洋樓的生活故事。她說，建築物各個角落都散落人們生活痕跡，盼光影形式能恰好捕捉、擷取到這些珍貴的記憶片段。",
-        "url": "https://www.cna.com.tw/news/acul/202607250198.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-07-25T12:51:55+00:00"
-      },
-      {
         "id": "8d3460b202ae",
         "title": "New radio show: “Liminal State”",
         "summary": "Introducing a new weekly ambient music radio show: 'Liminal State'. Also: a change in the DreamScenes broadcast schedule.\n--- published on Ambientblog ---",
@@ -1237,28 +1237,12 @@
         "published": "2026-07-24T09:08:31+00:00"
       },
       {
-        "id": "ef8d4080d1eb",
-        "title": "AI 燒錢曝風險  Meta 發債建資料中心、殖利率喊漲",
-        "summary": "隨著市場對 AI 投資風險愈來愈謹慎，債券投資人要求 Meta 最新的資料中心融資案須給出更高報酬，與 9 個 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/07/24/meta-faces-higher-borrowing-costs-in-latest-12bn-data-centre-financing/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-24T07:30:31+00:00"
-      },
-      {
         "id": "8cb5f3a68178",
         "title": "菲尔兹奖新晋得主曾警告AI会灭绝人类，结果转身加入OpenAI",
         "summary": "北京时间 7 月 23 日晚，2026 年国际数学家大会在美国费城开幕。王虹、邓煜成为首批获得菲尔兹奖的中国籍数学家，与他们一同获奖的，还有美国数学家约翰·帕登（John Pardon）和加拿大数学家雅各布·齐默尔曼（Jacob Tsimerman）。图｜四位菲尔兹奖得主，从左到右为邓煜、John Pardon、Jacob Tsimerman 和王虹（来源：AFP）在颁奖典礼结束后的发布会上，当 38 岁的齐默尔曼被媒体问及下一步计划时，他给出了一个让人意外的答案：“我即将加入 OpenAI，从事 AI 安全研究。”这个决定之所以出乎意料，是因为就在一年以前，他与合作者在 arXiv 上曾发表...",
         "url": "https://www.mittrchina.com/news/detail/16682",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-07-24T05:57:20+00:00"
-      },
-      {
-        "id": "67c423e46acc",
-        "title": "財報前夕祖克柏公開 Meta 新 AI 願景，能否超越元宇宙就看市場是否買單",
-        "summary": "Meta 執行長馬克·祖克柏 23 日公布人工智慧最新願景，強調 AI 應該是「賦能人類」而非取代人類，回應外 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/07/24/zuckerberg-says-ai-should-empower-people-not-replace-them/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-24T05:00:19+00:00"
       },
       {
         "id": "7ebf25652b18",
@@ -1653,14 +1637,6 @@
         "published": "2026-07-21T09:21:00+00:00"
       },
       {
-        "id": "06ad49eb221f",
-        "title": "吳大猷科普獎》第13屆青少年科普特別推薦獎，獲獎好書推薦語",
-        "summary": "【華文創作類】特別推薦獎\n●怪咖動物偵探（2冊）\n你家就是我家、家門外的野鄰居\n黃一峯著，遠流出版，400元\n這是一本讓人讀了就放不下來的書。\n透過作者犀利、詼諧卻又帶著童真的視角，才發現到原來這些「野鄰居」就在我們身邊：或屋簷、或公園、或牆角、或水邊，真的讓我們「大開眼界」。作者仔細介紹這些鄰居們的特徵、各具特色的個性，以及與人爭地的本事，令人稱奇，也引人擔憂，心情跟著七上八下的。\n除此之外，時不時出現的「偵探NOTE」，也讓我們長了許多知識，從疾呼般的提醒，可以看見作者對野生動物的熱愛及關心，溢於言表，也讓「視而不見」的人類知道如何珍惜、與這些鄰居「守望相助」。\n那些「超級比一比」也非常受...",
-        "url": "https://www.openbook.org.tw/article/p-72788",
-        "source": "Openbook閱讀誌",
-        "published": "2026-07-21T01:00:00+00:00"
-      },
-      {
         "id": "03333247b3d9",
         "title": "How Datadog built a “universal machine tool” for Claude Code",
         "summary": "How Datadog built a “universal machine tool” for Claude Code",
@@ -1691,14 +1667,6 @@
         "url": "https://blogs.loc.gov/loc/2026/07/by-the-dawns-early-light/",
         "source": "Timeless",
         "published": "2026-07-20T13:00:59+00:00"
-      },
-      {
-        "id": "8f6081bd0563",
-        "title": "Meta 擴大自研 AI 晶片，分析師：台廠迎客製化新局",
-        "summary": "社群龍頭 Meta 持續擴大人工智慧（AI）基礎設施及自研晶片版圖，引發市場對於繪圖處理器（GPU）需求可能放 [&#8230;]",
-        "url": "https://technews.tw/2026/07/20/meta-boosts-in-house-ai-chip-development-analysts-say-taiwan-firms-embrace-customization-opportunities/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-20T01:50:55+00:00"
       },
       {
         "id": "0be790f970a0",
@@ -1757,14 +1725,6 @@
         "published": "2026-07-19T11:53:08+00:00"
       },
       {
-        "id": "8e708de6f576",
-        "title": "Meta 平台當機，Facebook、Instagram 同步受影響",
-        "summary": "全球各地使用者在網路上的多方回報，Meta 旗下 Facebook 等平台 19 日下午故障，無論透過 App [&#8230;]",
-        "url": "https://technews.tw/2026/07/19/facebook-outage-hits-users-worldwide/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-19T10:09:42+00:00"
-      },
-      {
         "id": "d73fbfe28cca",
         "title": "For Dolores review – dependency and desire in portrait of obsessive friendship",
         "summary": "Mick Lally theatre, GalwayEva O’Connor’s intense new play explores the lives of spiky Glaswegian Mo and naive Dubliner Réaltín through competing monologues, blunt humour and dance movesStaying together for the sake of a child takes on additional weight in Eva O’Connor’s intense new play for Fishambl...",
@@ -1787,14 +1747,6 @@
         "url": "https://www.theguardian.com/stage/2026/jul/18/laura-benanti-nobody-cares-review-underbelly-boulevard-soho-london",
         "source": "Stage | The Guardian",
         "published": "2026-07-18T06:00:49+00:00"
-      },
-      {
-        "id": "49cec160789e",
-        "title": "傳 Meta 擬出租算力給 Anthropic，洽談規模高達 100 億美元",
-        "summary": "綜合外媒報導，Meta Platforms 正與 Anthropic 洽談租賃算力，這項潛在合作案規模最高可達 [&#8230;]",
-        "url": "https://technews.tw/2026/07/18/meta-anthropic-in-talks-for-compute-deal/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-18T01:37:45+00:00"
       },
       {
         "id": "3892f98e8a4d",
@@ -1893,36 +1845,12 @@
         "published": "2026-07-15T16:00:00+00:00"
       },
       {
-        "id": "ebc5a63d30d0",
-        "title": "創作者福音！Instagram Reels 自動翻譯再升級，支援日文等翻譯配音＋完美對嘴",
-        "summary": "Meta 美國時間 14 日宣布，Instagram 翻譯功能已支援日文，讓創作者 Reels 影片可用 Me [&#8230;]",
-        "url": "https://technews.tw/2026/07/15/creators-instagram-reels-automatic-translation-further-upgraded/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-15T09:40:42+00:00"
-      },
-      {
-        "id": "a2fd8a44913c",
-        "title": "Meta 預告 AI 成本飆升：不久後就須規定工程師使用 Token 上限了",
-        "summary": "Instagram 負責人 Adam Mosseri 近日表示，Meta 之後可能會像管理薪資、GPU、CPU [&#8230;]",
-        "url": "https://finance.technews.tw/2026/07/15/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-15T03:30:23+00:00"
-      },
-      {
         "id": "7b85edbd5e65",
         "title": "「養兒防老」錯了嗎？成大郭書琴從法律人類學看成年收養背後的家庭安排",
         "summary": "提及「收養」，多數人想到的是成年人收養未成年孩子。孩子因失去原有照顧，或基於生活與成長需要，透過收養進入新的家 [&#8230;]\nThe post 「養兒防老」錯了嗎？成大郭書琴從法律人類學看成年收養背後的家庭安排 appeared first on 人文．島嶼.",
         "url": "https://humanityisland.nccu.edu.tw/shuchinkuo_a/",
         "source": "人文．島嶼",
         "published": "2026-07-15T02:00:34+00:00"
-      },
-      {
-        "id": "984e601b959d",
-        "title": "Meta 被控使用 AI 裁員涉歧視，發言人強調人為決策",
-        "summary": "26 名 Meta 前員工和在職員工 13 日向聯邦法院提起訴訟，指控 Meta 使用人工智慧（AI）決定裁員 [&#8230;]",
-        "url": "https://finance.technews.tw/2026/07/15/meta-accused-ai-discriminatory-layoffs-spokesperson-emphasizes-human-decision-making/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-15T01:30:48+00:00"
       },
       {
         "id": "c1f8602a33e5",
@@ -2389,14 +2317,6 @@
         "published": "2026-06-03T02:00:11+00:00"
       },
       {
-        "id": "14552485bb94",
-        "title": "【牯嶺街小劇場 開放檔期公告】2027年 全年度 (01月至12月) 檔期開放",
-        "summary": "【牯嶺街小劇場 開放檔期公告】 / / 牯嶺街小劇場 2027年全年度 (01月至12月) 檔期 / 歡迎各類 [&#8230;]",
-        "url": "https://www.glt.org.tw/?p=13911",
-        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
-        "published": "2026-06-02T09:30:19+00:00"
-      },
-      {
         "id": "7916847d36d0",
         "title": "TWMC June 2026 Chart",
         "summary": "1. Seu Jorge · The Other Side · Amor in Sound [-] 2. Souad Massi · Zagate · BackingTrack Production [2] 3. Tinariwen · Hoggar · Wedge / Warp [1] 4. Cocanha · Flame Folclòre · Bongo Joe [-] 5. Fatoumata Diawara · Massa · Nø Førmat! [-] 6. Shye Ben Tzur, Jonny Greenwood and [&#8230;]",
@@ -2572,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-28T03:21:04.491196+00:00"
+        "published": "2026-07-28T06:34:36.497358+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-28T03:21:04.491187+00:00"
+        "published": "2026-07-28T06:34:36.497351+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-28T03:21:04.491178+00:00"
+        "published": "2026-07-28T06:34:36.497343+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-28T03:21:04.491168+00:00"
+        "published": "2026-07-28T06:34:36.497335+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-28T03:21:04.491158+00:00"
+        "published": "2026-07-28T06:34:36.497328+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-28T03:21:04.491149+00:00"
+        "published": "2026-07-28T06:34:36.497320+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-28T03:21:04.491138+00:00"
+        "published": "2026-07-28T06:34:36.497312+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-28T03:21:04.491128+00:00"
+        "published": "2026-07-28T06:34:36.497305+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-28T03:21:04.491119+00:00"
+        "published": "2026-07-28T06:34:36.497297+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2564,15 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-28T03:21:04.491109+00:00"
+        "published": "2026-07-28T06:34:36.497290+00:00"
+      },
+      {
+        "id": "9fcd9f238367",
+        "title": "彗星撞擊之後：台灣新聞業的創業突圍",
+        "summary": "口述: 陳順孝（輔仁大學新聞傳播學系教授）、撰稿: 蘇怡如圖片來源: https://www.pexels.com/zh-tw/photo/12498767/百年CAR模式，在網路時代失靈2021年5月18日，發行量曾高達71萬份、稱霸台灣報壇的《蘋果日報》宣布紙本停刊；同月，幾乎獨佔新加坡報刊市場的新加坡報業控股（SPH），也因五年營收減半，宣布轉型為非營利組織，尋求公共資金支持。連市場霸主和獨佔者都撐不下去，顯示大眾媒體的商業模式已經失靈。這個模式叫CAR：以內容（Content）吸引閱聽眾（Audience），再以閱聽眾換取廣告營收（Revenue）。1833年，戴伊（Benjamin ...",
+        "url": "https://medium.com/@ccs.popcom/%E5%BD%97%E6%98%9F%E6%92%9E%E6%93%8A%E4%B9%8B%E5%BE%8C-%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E%E6%A5%AD%E7%9A%84%E5%89%B5%E6%A5%AD%E7%AA%81%E5%9C%8D-f7fc13d2a0df?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2026-07-28T05:01:03+00:00"
       },
       {
         "id": "3f6addacb39f",
@@ -2831,14 +2759,6 @@
         "published": "2026-07-15T12:00:00+00:00"
       },
       {
-        "id": "4880aeb3edcb",
-        "title": "[知音分享會]07.22 炎炎夏日聽神蹟！《媽祖得道》精采續篇",
-        "summary": "各位知音們好，時序進入了七月，炎炎夏日裡 [&#8230;]\nSource",
-        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8307-22-%e7%82%8e%e7%82%8e%e5%a4%8f%e6%97%a5%e8%81%bd%e7%a5%9e%e8%b9%9f%ef%bc%81%e3%80%8a%e5%aa%bd%e7%a5%96%e5%be%97%e9%81%93%e3%80%8b%e7%b2%be%e9%87%87/",
-        "source": "最新消息 – 臺灣音聲100年",
-        "published": "2026-07-15T06:02:05+00:00"
-      },
-      {
         "id": "4aafae6f5d14",
         "title": "Take Five",
         "summary": "Even before I posted this one, I started getting suggestions for songs in 5/4, and a few in 10/4. I&#8217;m sorry if I didn&#8217;t mention your favorite, this isn&#8217;t meant to be exhaustive, it&#8217;s just some representative examples that I find interesting or personally significant. Take Fiv...",
@@ -3015,14 +2935,6 @@
         "published": "2026-06-22T20:49:21+00:00"
       },
       {
-        "id": "70b916c20885",
-        "title": "[知音分享會]06.24 風聲雨聲曲盤聲 用媽祖故事遮風擋雨",
-        "summary": "各位知音們好，經歷了剛入梅的一連串風雨， [&#8230;]\nSource",
-        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8306-24-%e9%a2%a8%e8%81%b2%e9%9b%a8%e8%81%b2%e6%9b%b2%e7%9b%a4%e8%81%b2-%e7%94%a8%e5%aa%bd%e7%a5%96%e6%95%85%e4%ba%8b%e9%81%ae%e9%a2%a8%e6%93%8b%e9%9b%a8/",
-        "source": "最新消息 – 臺灣音聲100年",
-        "published": "2026-06-17T07:11:38+00:00"
-      },
-      {
         "id": "54b436221e4f",
         "title": "召喚四十六年前的陽光與血跡：百萬人為什麼為同一個故事流淚？",
         "summary": "口述:陳信聰、雷雅淇 / 採訪:陳慧蓉、張時健 / 撰稿:雷雅淇、蘇怡如攝影/張時健— — 《我想問的是》幕後揭秘與台灣媒體的未竟之業2026年的春節前夕，一部名為《世紀血案》的影視作品在社會上掀起了巨大的爭議。這部未經當事人同意、缺乏嚴謹歷史調查，背後更牽扯特定資金與政治立場的作品，試圖重新詮釋台灣歷史上最沉痛的「林宅血案」，引發了學界與大眾的強烈質疑。在這個社會氛圍下，華視網路節目《我想問的是》播出了一集對監察委員田秋堇的專訪。出乎所有人意料 — — 這支沒有華麗特效、只有來賓坐在鏡頭前說話的影片，竟在短影音橫行的時代，於深夜時段衝破了百萬點閱，甚至一路逆襲進入戲院播映。面對這波被傳播學界...",
@@ -3127,14 +3039,6 @@
         "published": "2026-05-12T10:17:47+00:00"
       },
       {
-        "id": "20ea57f6b4fd",
-        "title": "[知音分享會]05.13 來自日治時期的繞境邀約 跟歌仔戲一起「痟」媽祖",
-        "summary": "燃燒整座島嶼的三月媽祖熱漸漸停歇，輪到我 [&#8230;]\nSource",
-        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8305-13-%e4%be%86%e8%87%aa%e6%97%a5%e6%b2%bb%e6%99%82%e6%9c%9f%e7%9a%84%e7%b9%9e%e5%a2%83%e9%82%80%e7%b4%84-%e8%b7%9f%e6%ad%8c%e4%bb%94%e6%88%b2%e4%b8%80/",
-        "source": "最新消息 – 臺灣音聲100年",
-        "published": "2026-04-30T09:31:21+00:00"
-      },
-      {
         "id": "17877ddbf798",
         "title": "20th Anniversary Composition Contest submissions available online",
         "summary": "Hi everyone! The Freesound 20th Anniversary Composition Contest was launched on February 2025, by Fundació Phonos and the Freesound team. For the record, terms for participation are available here. The contest invited sound artists, composers, and explorers from around the &#8230; Continue reading &...",
@@ -3159,14 +3063,6 @@
         "published": "2026-04-20T09:57:39+00:00"
       },
       {
-        "id": "1b0da56e8ea0",
-        "title": "台南有樂町－臺灣歌謠音樂論壇",
-        "summary": "｡ﾟ♫*台南有樂町－臺灣歌謠音樂論壇♫* [&#8230;]\nSource",
-        "url": "https://audio.nmth.gov.tw/news/%e5%8f%b0%e5%8d%97%e6%9c%89%e6%a8%82%e7%94%ba%ef%bc%8d%e8%87%ba%e7%81%a3%e6%ad%8c%e8%ac%a0%e9%9f%b3%e6%a8%82%e8%ab%96%e5%a3%87/",
-        "source": "最新消息 – 臺灣音聲100年",
-        "published": "2026-04-15T02:23:53+00:00"
-      },
-      {
         "id": "5c79251d63b8",
         "title": "Carlos Guedes Presents MaSC Research at Universitat Pompeu Fabra’s Music Technology Group",
         "summary": "April, 2026 Online At the invitation of the Music Technology Group at Universitat Pompeu Fabra, Carlos Guedes delivered an online seminar on April 10, 2026, titled “Discovering Unrecorded Music: Challenges [&#8230;]",
@@ -3181,22 +3077,6 @@
         "url": "https://100r.ca/site/log.html#apr2026",
         "source": "Hundred Rabbits",
         "published": "2026-04-01T07:00:00+00:00"
-      },
-      {
-        "id": "f9d812fe9442",
-        "title": "【2026臺灣音樂學論壇】徵稿啟事",
-        "summary": "音樂的傳統與未來 ─2026臺灣音樂學會 [&#8230;]\nSource",
-        "url": "https://audio.nmth.gov.tw/news/%e3%80%902026%e8%87%ba%e7%81%a3%e9%9f%b3%e6%a8%82%e5%ad%b8%e8%ab%96%e5%a3%87%e3%80%91%e5%be%b5%e7%a8%bf%e5%95%9f%e4%ba%8b/",
-        "source": "最新消息 – 臺灣音聲100年",
-        "published": "2026-03-31T09:04:09+00:00"
-      },
-      {
-        "id": "3ac629916172",
-        "title": "[知音分享會]04.08 春暖花開四月天，分享會的誠摯邀約",
-        "summary": "國曆三月漸漸走到了尾聲，讓台灣全島動起來 [&#8230;]\nSource",
-        "url": "https://audio.nmth.gov.tw/news/%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%8304-08-%e6%98%a5%e6%9a%96%e8%8a%b1%e9%96%8b%e5%9b%9b%e6%9c%88%e5%a4%a9%ef%bc%8c%e5%88%86%e4%ba%ab%e6%9c%83%e7%9a%84%e8%aa%a0%e6%91%af%e9%82%80%e7%b4%84/",
-        "source": "最新消息 – 臺灣音聲100年",
-        "published": "2026-03-31T07:54:48+00:00"
       },
       {
         "id": "bc3ee037d342",
@@ -3255,14 +3135,6 @@
         "published": "2026-02-26T10:11:32+00:00"
       },
       {
-        "id": "852680d1f6d7",
-        "title": "[知音分享會]03.09 新正年來《千金》到 《萬項事業》好彩頭",
-        "summary": "知音好友們新年快樂，雖然已經開工上班，但 [&#8230;]\nSource",
-        "url": "https://audio.nmth.gov.tw/news/%e6%96%b0%e6%ad%a3%e5%b9%b4%e4%be%86%e3%80%8a%e5%8d%83%e9%87%91%e3%80%8b%e5%88%b0-%e3%80%8a%e8%90%ac%e9%a0%85%e4%ba%8b%e6%a5%ad%e3%80%8b%e5%a5%bd%e5%bd%a9%e9%a0%ad/",
-        "source": "最新消息 – 臺灣音聲100年",
-        "published": "2026-02-26T01:11:32+00:00"
-      },
-      {
         "id": "2271ab213414",
         "title": "Thank You for Joining the MIR Community-Building Workshop",
         "summary": "Last week, the MIR Community-Building Workshop on Music AI at NYU Abu Dhabi brought together students, scholars, and industry professionals for two days of research presentations, hands-on sessions, and forward-looking [&#8230;]",
@@ -3309,38 +3181,6 @@
         "url": "https://blog.freesound.org/?p=2352",
         "source": "The Freesound Blog",
         "published": "2026-01-30T11:10:55+00:00"
-      },
-      {
-        "id": "61649d92d6e6",
-        "title": "[知音分享會]02.11 在春節前找到幸福！《一女兩聘》最終回",
-        "summary": "年關將近，不知道各位知音朋友是正忙著採辦 [&#8230;]\nSource",
-        "url": "https://audio.nmth.gov.tw/news/%e5%9c%a8%e6%98%a5%e7%af%80%e5%89%8d%e6%89%be%e5%88%b0%e5%b9%b8%e7%a6%8f%ef%bc%81%e3%80%8a%e4%b8%80%e5%a5%b3%e5%85%a9%e8%81%98%e3%80%8b%e6%9c%80%e7%b5%82%e5%9b%9e/",
-        "source": "最新消息 – 臺灣音聲100年",
-        "published": "2026-01-30T05:41:48+00:00"
-      },
-      {
-        "id": "8f74ed474021",
-        "title": "遊戲與動漫的轉生術 — — 跨媒介改編中的認知基模",
-        "summary": "遊戲與動漫的轉生術 — — 跨媒介改編中的認知基模本集來賓/李政忠（中正大學傳播學系副教授）製作/吳思嬋 楊家瑜https://medium.com/media/3ac6c27738f5ef2070e89767f5ebdf82/href（圖片來源：https://www.pexels.com/zh-tw/photo/31166720/）從漫畫轉為動畫 觀眾期待落差在當代豐富的文化娛樂版圖中，將一個故事從一種媒介形式轉換到另一種形式（例如：漫畫改編為動畫、小說改編為影視、電玩改編為電影）已成為一種常見且重要的創作趨勢。這種「跨媒介敘事」（Transmedia Storytelling）不僅是商業...",
-        "url": "https://medium.com/@ccs.popcom/%E9%81%8A%E6%88%B2%E8%88%87%E5%8B%95%E6%BC%AB%E7%9A%84%E8%BD%89%E7%94%9F%E8%A1%93-%E8%B7%A8%E5%AA%92%E4%BB%8B%E6%94%B9%E7%B7%A8%E4%B8%AD%E7%9A%84%E8%AA%8D%E7%9F%A5%E5%9F%BA%E6%A8%A1-d49dc69e9cca?source=rss-17c1c85be06b------2",
-        "source": "Stories by 爆米花傳播學 on Medium",
-        "published": "2026-01-15T01:00:21+00:00"
-      },
-      {
-        "id": "7c34e92268b0",
-        "title": "臺灣音聲一百年大更新！",
-        "summary": "賀更新、長尾巴！ 要變身為「臺灣音聲一百 [&#8230;]\nSource",
-        "url": "https://audio.nmth.gov.tw/news/%e8%87%ba%e7%81%a3%e9%9f%b3%e8%81%b2%e4%b8%80%e7%99%be%e5%b9%b4%e5%a4%a7%e6%9b%b4%e6%96%b0%ef%bc%81/",
-        "source": "最新消息 – 臺灣音聲100年",
-        "published": "2026-01-05T06:35:48+00:00"
-      },
-      {
-        "id": "b5621e21c540",
-        "title": "[知音分享會]01.14  訂婚鬧雙包？《一女兩聘》知音分享會",
-        "summary": "天底下哪有這種事！夫婦兩人感情不睦，居然 [&#8230;]\nSource",
-        "url": "https://audio.nmth.gov.tw/news/%e8%a8%82%e5%a9%9a%e9%ac%a7%e9%9b%99%e5%8c%85%ef%bc%9f%e3%80%8a%e4%b8%80%e5%a5%b3%e5%85%a9%e8%81%98%e3%80%8b%e7%9f%a5%e9%9f%b3%e5%88%86%e4%ba%ab%e6%9c%83/",
-        "source": "最新消息 – 臺灣音聲100年",
-        "published": "2025-12-29T06:41:42+00:00"
       },
       {
         "id": "1f1184a28740",
