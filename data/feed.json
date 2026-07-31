@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-07-31T00:10:47.107341+00:00",
+  "updated_at": "2026-07-31T04:32:05.655015+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "890f596fe5f9",
+        "title": "BANDA 007 Ft. TOP 7 PEÃ O TODO TATUADO ( Arrocha)",
+        "summary": "DDD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/banda-007-ft.-top-7-pea-o-todo-tatuado-arrocha",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-31T03:38:15+00:00"
+      },
+      {
+        "id": "a3b679248bb7",
+        "title": "國立故宮博物院：2026/7/10-9/16【《騁技與運動－書畫中的技藝與體能活動》特展】",
+        "summary": "「運動」的意涵於近代受到西方概念影響，並隨著時間不斷地擴展，從個人鍛鍊、群體競技，乃至爬山健走皆可納入其範疇。 [&#8230;]",
+        "url": "https://www.tmaroc.org.tw/1150731/",
+        "source": "最新消息 – 中華民國博物館學會",
+        "published": "2026-07-31T02:26:24+00:00"
+      },
+      {
+        "id": "caf0265de023",
+        "title": "MOZART Doppelkonzert C-Dur KV 299",
+        "summary": "MOZART  Doppelkonzert C-Dur KV 299 Raffaele Trevisani (Flöte) Luisa Prandina (Harfe) Kammerorchester Arcata Stuttgart Patrick Strub.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VB...",
+        "url": "https://archive.org/details/gxhgdy_202607",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-30T23:36:02+00:00"
+      },
+      {
+        "id": "fbd0423044ec",
+        "title": "MOZART Flötenkonzert G-Dur KV 313",
+        "summary": "MOZART  Flötenkonzert G-Dur KV 313 Raffaele Trevisani (Flöte) Kammerorchester Arcata Stuttgart Patrick Strub.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/xnhhgf_20260730",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-30T23:33:19+00:00"
+      },
+      {
+        "id": "8717b242d936",
+        "title": "MOZART Flötenkonzert D-Dur KV 314",
+        "summary": "MOZART  Flötenkonzert D-Dur KV 314 Raffaele Trevisani (Flöte) Kammerorchester Arcata Stuttgart Patrick Strub.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bgx_20260730",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-30T23:27:20+00:00"
+      },
+      {
+        "id": "8b549695add8",
+        "title": "(Podfic) A Silent Interlude",
+        "summary": "Podfic of: https://archiveofourown.org/works/16101803.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/podfic-a-silent-interlude",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-30T22:58:08+00:00"
+      },
+      {
+        "id": "c5c45f5f5f13",
+        "title": "MOZART Klarinettenkonzert A-Dur KV 622",
+        "summary": "MOZART  Klarinettenkonzert A-Dur KV 622 Alfred Prinz (Klarinette) Wiener Philharmoniker Karl Böhm (1974).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nmn_20260730",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-30T22:34:50+00:00"
+      },
       {
         "id": "71186f45dc76",
         "title": "PandaCD Archive",
@@ -11,76 +67,28 @@
         "published": "2026-07-30T22:34:46+00:00"
       },
       {
+        "id": "5a260de9c264",
+        "title": "MOZART Oboenkonzert C-Dur KV 314",
+        "summary": "MOZART  Oboenkonzert C-Dur KV 314 Gerhard Turetschek (Oboe) Wiener Philharmoniker Karl Böhm (1975).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/m-bb_20260730",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-30T22:32:27+00:00"
+      },
+      {
+        "id": "68fa12df441e",
+        "title": "MOZART Fagottkonzert B-Dur KV 191",
+        "summary": "MOZART  Fagottkonzert B-Dur KV 191 Dietmar Zeman (Fagott) Wiener Philharmoniker Karl Böhm (1974).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/vxjh_20260730",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-30T22:26:59+00:00"
+      },
+      {
         "id": "17f5554fd88e",
         "title": "Taper76",
         "summary": "A collection of mostly live music from local to national touring acts..This item belongs to: collection/roiocollection.This item has files of the following types: Archive BitTorrent, Item Image, Item Tile, Metadata",
         "url": "https://archive.org/details/taper76",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-30T22:17:38+00:00"
-      },
-      {
-        "id": "9595999d8012",
-        "title": "مهرجان قول يا عمنا شحتة كاريكا و ديزل",
-        "summary": "ث.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/20260730_20260730_2134",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-30T21:37:52+00:00"
-      },
-      {
-        "id": "486ee3e27e7f",
-        "title": "اغنية هي تفرق عني ايه اشرقت احمد MP 3",
-        "summary": "ص.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260730_20260730_2127",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-30T21:30:11+00:00"
-      },
-      {
-        "id": "ce7adbadc1eb",
-        "title": "اغنية محمد رأفت ابن الحلال MP 3",
-        "summary": "ص.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260730_20260730_2117",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-30T21:23:45+00:00"
-      },
-      {
-        "id": "374d4354a578",
-        "title": "MOZART Klavierkonzert C-Dur KV 246",
-        "summary": "MOZART  Klavierkonzert C-Dur KV 246 Rudolf Buchbinder (Klavier) Wiener Symphoniker Rudolf Buchbinder Wien, 20. 6. 1998.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nbgh_20260730",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-30T21:18:16+00:00"
-      },
-      {
-        "id": "4b86b20f4b51",
-        "title": "اغنية محمد سعد رقصينا MP 3",
-        "summary": "ا.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260730_20260730",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-30T21:10:43+00:00"
-      },
-      {
-        "id": "a02008b5cfe6",
-        "title": "MOZART Klavierkonzert D-Dur KV 175",
-        "summary": "MOZART  Klavierkonzert D-Dur KV 175 Rudolf Buchbinder (Klavier) Wiener Symphoniker Rudolf Buchbinder Wien, 30. 11. 1997.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nbgf_20260730",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-30T21:09:10+00:00"
-      },
-      {
-        "id": "af94dadfec63",
-        "title": "MOZART Klavierkonzert B-Dur KV 238",
-        "summary": "MOZART  Klavierkonzert B-Dur KV 238 Rudolf Buchbinder (Klavier) Wiener Symphoniker Rudolf Buchbinder Wien, 17. 5. 1998.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/xbngf",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-30T21:08:52+00:00"
-      },
-      {
-        "id": "7da2da0d989e",
-        "title": "اغنية شوقي قفلت العداد MP 3",
-        "summary": "ل.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mp-3_20260730_202607",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-30T21:05:47+00:00"
       },
       {
         "id": "8df80d8e7932",
@@ -323,14 +331,6 @@
         "published": "2026-07-18T13:23:17+00:00"
       },
       {
-        "id": "45f377fa6175",
-        "title": "【中華民國博物館學會公告徵才錄取結果】",
-        "summary": "本會公告執行秘書職缺錄取結果 正取：李〇純、王〇慧",
-        "url": "https://www.tmaroc.org.tw/1150716-2/",
-        "source": "最新消息 – 中華民國博物館學會",
-        "published": "2026-07-16T10:47:29+00:00"
-      },
-      {
         "id": "dd0293fd1172",
         "title": "《歷史文物：國立歷史博物館館刊》329期",
         "summary": "．作者：國立歷史博物館編 ．出版社：國立歷史博物館 ． 出版日期：2026年6月 ． ISSN：3134-69 [&#8230;]",
@@ -505,6 +505,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "41985f054415",
@@ -725,6 +805,22 @@
     ],
     "破(day)": [
       {
+        "id": "7be5f86b079e",
+        "title": "繪本大師》恆常與變化的互動：蘇菲．布雷克爾（Sophie Blackall）獻給時光的情書",
+        "summary": "《小熊維尼》（Winnie-the-Pooh）是英國作家米恩（Alan A. Milne）於1926年創作的兒童文學作品。故事舞台設定在「百畝森林」，喜歡蜂蜜、個性單純又溫暖的小熊維尼，與好友小豬、跳跳虎、驢子屹耳、兔子等夥伴一起經歷了各種日常冒險。米恩以幽默與溫柔的筆調描寫友情、成長與童年的純真；插畫家謝培德（Ernest H. Shepard）則以精湛的線條勾畫出每個角色獨特的個性，為他們賦予了鮮活的生命力。\n今年是《小熊維尼》的百歲生日，百年來這本書深受世界各地人們的喜愛，激發了無數文學、音樂等其他藝術作品，甚至還有心理分析和哲學的探討。在廣大的讀者中，曾經有個遠在澳洲的7歲小女孩，她常...",
+        "url": "https://www.openbook.org.tw/article/p-72809",
+        "source": "Openbook閱讀誌",
+        "published": "2026-07-31T01:00:00+00:00"
+      },
+      {
+        "id": "62a1eac3afed",
+        "title": "Raspberry Pi 5 Case for Pimoroni NVMe Base #3DThursday #3DPrinting",
+        "summary": "tdack. shares: A dedicated case for the Raspberry Pi 5 with a Pimoroni NVMe base fitted. Uses the silicon dots from the Pimoroni parts package stuck to the bottom of the NVMe base as standoffs. Clean, purpose-built for one of the most popular NVMe expansion options for the Pi 5 download the files on...",
+        "url": "https://blog.adafruit.com/2026/07/30/raspberry-pi-5-case-for-pimoroni-nvme-base-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-07-31T00:00:11+00:00"
+      },
+      {
         "id": "36998c624341",
         "title": "秋刀魚｜Summer2026第52期",
         "summary": "與自己散步\n\n當下的感受與情緒、生理的需求與欲望，這些所思所想對自己來說再確定不過，但對於如何看待自我，我們卻很少能有確切答案。自我就像內在的宇宙——我們同樣身處其中，卻也同樣摸不著頭緒。不過相對於宇宙探險的遙不可及，下潛內心可說是毫無距離；既然無法太空旅行，不如就與自己相約在內心走走吧。\n\n每個人與自己散步看到的景色、經過的曲直都不大相同。never young beach主唱安部勇磨，總在自己想成為的模樣與實際的自我之間兜轉，卻也開始享受起迷惘的樂趣。寫真家川島小鳥在眾人過曝的目光中有點迷失，但在這兩年的獨自摸索裡找到了更平衡的自己。至於著有《別對每件事都有反應》...",
@@ -805,12 +901,12 @@
         "published": "2026-07-30T19:00:54+00:00"
       },
       {
-        "id": "82e6ec45bd3f",
-        "title": "After 40 years, Aliens is still shaping the way video games are made",
-        "summary": "Super thoughtful piece by The Guardian&#8216;s Keith Stuart on how James Cameron&#8217;s Aliens is still influencing video game design 40 years on. It’s little wonder that the film has had such a profound effect on video game design. Take the colonial marines, for example. Although the concept of th...",
-        "url": "https://blog.adafruit.com/2026/07/30/after-40-years-aliens-is-still-shaping-the-way-video-games-are-made/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-30T18:31:16+00:00"
+        "id": "d6559f98a7c5",
+        "title": "顾问称国际足联不会“出售世界杯”",
+        "summary": "国际足联向外部投资者筹集200亿美元的计划陷入争议，这一项目的关键设计者为此辩白、回应批评。",
+        "url": "https://www.ftchinese.com/story/001110484",
+        "source": "FTChinese RSS - News",
+        "published": "2026-07-30T16:00:00+00:00"
       },
       {
         "id": "1c0b8277d2e6",
@@ -843,6 +939,14 @@
         "url": "https://www.theguardian.com/stage/2026/jul/30/cleansed-review-almeida-theatre-london-rebecca-frecknall",
         "source": "Stage | The Guardian",
         "published": "2026-07-30T14:03:35+00:00"
+      },
+      {
+        "id": "af7febaaa12c",
+        "title": "抢完互联网数据，AI公司开始抢绝版纸质书",
+        "summary": "2026 年 4 月起，一位专营稀有书和低流通量图书的美国书商遇到了怪事：他店里的生意向来不算火爆，一周卖出二十本已经算不错，但最近，订单突然像洪水一样涌来，每周能卖几百本。最费解的是，买家只列出一份用国际标准书号（ISBN）索引的书籍清单，却从不询问品相，也不砍价。在大洋另一端，荷兰哈勒姆的古董书商彼得·德弗里斯（Pieter de Vries）收到了一封来自新加坡公司 2077AI 的邮件，对方要求采购近 3,000 本书。同一时期，德国、瑞士、西班牙的旧书商也接到了来自加拿大公司 Zoom Books 的大批量订单，这些书涉及的领域多种多样，令人捉摸不透意图。世界上怎么突然冒出这么多求知...",
+        "url": "https://www.mittrchina.com/news/detail/16709",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-07-30T13:05:38+00:00"
       },
       {
         "id": "a0e116aca902",
@@ -1027,14 +1131,6 @@
         "url": "https://www.cna.com.tw/news/acul/202607290221.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-07-29T08:09:14+00:00"
-      },
-      {
-        "id": "391cdc008170",
-        "title": "Lawrence English – The Rest Is My Ghost",
-        "summary": "Lawrence English' theory about 'acid nostalgia' has inspired him to create 'The Rest Is My Ghost' - which may very well prove to be one of the most important albums of this year.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/lawrence-english/",
-        "source": "Ambientblog",
-        "published": "2026-07-29T08:04:34+00:00"
       },
       {
         "id": "9606b5a3d353",
@@ -1373,14 +1469,6 @@
         "published": "2026-07-25T13:47:49+00:00"
       },
       {
-        "id": "8d3460b202ae",
-        "title": "New radio show: “Liminal State”",
-        "summary": "Introducing a new weekly ambient music radio show: 'Liminal State'. Also: a change in the DreamScenes broadcast schedule.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/liminal-state/",
-        "source": "Ambientblog",
-        "published": "2026-07-25T07:40:54+00:00"
-      },
-      {
         "id": "12a540cc0b3a",
         "title": "童書短評》#171陪孩子在生活細節發現亮點！",
         "summary": "●如果你拿起香蕉打電話\nIf You Make a Call on a Banana Phone\n紀狄恩．斯德爾（Gideon Sterer）著，艾米莉．休斯（Emily Hughes）繪，海狗房東譯，上誼出版，350元\n推薦原因： 趣   文   圖 \n適讀年齡：學齡前、小學低年級（4-8歲）\n假裝手上的香蕉是電話，撥出去，居然通了，而且是大猩猩接的！熱線牽起了這一頭的客廳和那一頭的叢林，話匣子大開，神祕的距離都煙消雲散，所有的想像也順理成章，友情枝椏滿滿盛開。這本書角色不多、劇情也簡單，畫面及用色卻極其優雅大器，「以少馭多」創造出從所未見的美感與戲劇性，想像力持續拉高拉滿，一切搞笑都很合理...",
@@ -1443,14 +1531,6 @@
         "url": "https://www.mittrchina.com/news/detail/16685",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-07-24T11:20:14+00:00"
-      },
-      {
-        "id": "be10ffa7d212",
-        "title": "对话清华董胤蓬：当AI开始主动攻击，我们如何预判风险？",
-        "summary": "近期发生的一系列模型安全问题，正对行业发出警示，我们可能从未面临过如此严峻的 AI 安全挑战。7 月 22 日，OpenAI 披露了一起“前所未有的网络安全事件”：在一次内部评测中，公司的 AI 模型逃出隔离的沙箱环境，入侵 AI 开源平台 Hugging Face 的生产服务器，目的是获取评测答案来“作弊”。20 日，OpenAI 已经发出过一次安全报告：称公司因安全问题被迫暂停了一个内部实验模型的部署。该模型曾独立证明一项悬置近 80 年数学猜想，在测试中，它耗费一个小时找到沙箱环境的漏洞，绕过限制在 GitHub 上提交了未经授权的代码。再往前追溯，6 月，Anthropic 发布新一代...",
-        "url": "https://www.mittrchina.com/news/detail/16684",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-07-24T11:13:52+00:00"
       },
       {
         "id": "6b814cde406b",
@@ -1523,22 +1603,6 @@
         "url": "https://cdm.link/expressive-e-noisy-2-6/",
         "source": "CDM Create Digital Music",
         "published": "2026-07-23T21:02:15+00:00"
-      },
-      {
-        "id": "b90e41df4d44",
-        "title": "大众汽车大幅下调年度营收预期",
-        "summary": "这给这家德国汽车制造商的首席执行官奥博穆带来了巨大压力，迫使其推进包括创纪录规模裁员在内的新一轮成本削减措施。",
-        "url": "https://www.ftchinese.com/story/001110429",
-        "source": "FTChinese RSS - News",
-        "published": "2026-07-23T16:00:00+00:00"
-      },
-      {
-        "id": "0cd1965bd967",
-        "title": "閱讀通信 vol.391》如果我們都是螞蟻",
-        "summary": "上禮拜颱風天， 通通編家裡突然冒出一些螞蟻，不知道是從哪裡鑽出來的，找了好久都找不到頭跟尾，非常困擾......螞蟻這種集體性的生物，常常一隻走到哪，其他隻就跟到哪，好像不會散開的隊伍。就算只殺死前面幾隻，也根本防堵不了呢。\n啊，但是這次不是要來說怎麼殺螞蟻。是要跟大家介紹一位台灣很厲害的繪本家鄭盛謙，今年他在大塊終於出書啦！他畫的《以蟻之名》，就是以螞蟻來隱喻人類的社會，每一格畫格都可以感受到作者細心的筆觸。繪本中一隻隻小巧、站立起來的螞蟻有著靈動的雙眼，和現實裡的蟻群一樣，每一隻日復一日都在做著重複的事情。不過，難道這樣不無聊嗎？會不會有特立獨行的螞蟻呢？故事便以一隻無名螞蟻的叛逃展開了奇...",
-        "url": "https://www.openbook.org.tw/article/p-72797",
-        "source": "Openbook閱讀誌",
-        "published": "2026-07-23T16:00:00+00:00"
       },
       {
         "id": "7008500dabb2",
@@ -1797,14 +1861,6 @@
         "published": "2026-07-21T00:00:00+00:00"
       },
       {
-        "id": "71a6ca9d5411",
-        "title": "Paul Beaudoin – Signal Loss / Spores.dat",
-        "summary": "Two albums by Estonian composer Paul Beaudoin, both exploring 'the space between intent and reception'.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/beaudoin/",
-        "source": "Ambientblog",
-        "published": "2026-07-20T17:58:41+00:00"
-      },
-      {
         "id": "41a0f7bd3bed",
         "title": "“By the Dawn’s Early Light…”",
         "summary": "In September 1814, Francis Scott Key composed a poem, “Defence of Fort M‘Henry,” after witnessing U.S. forces defend Fort McHenry, the fortress guarding Baltimore Harbor, against a fierce British bombardment. He combined it with the tune of an 18th-century British song, “Anacreon in Heaven.\" Key’s c...",
@@ -1867,14 +1923,6 @@
         "url": "https://www.glt.org.tw/?p=14029",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-07-16T11:47:32+00:00"
-      },
-      {
-        "id": "e3e0fd583ad1",
-        "title": "The [Law-Rah] Collective – Strange Attraction",
-        "summary": "“Expect the unexpected, and even then you’re way off ...” - power ambient by The [Law-Rah] Collective (Bauke van der Wal).\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/law-rah/",
-        "source": "Ambientblog",
-        "published": "2026-07-16T07:29:34+00:00"
       },
       {
         "id": "86fda9299d09",
@@ -1981,14 +2029,6 @@
         "published": "2026-07-14T09:46:38+00:00"
       },
       {
-        "id": "8803fc57de52",
-        "title": "DreamScenes – July 2026",
-        "summary": "\"For Bob\" - DreamScenes for July 2026\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dreamscenes-july-2026/",
-        "source": "Ambientblog",
-        "published": "2026-07-12T17:55:00+00:00"
-      },
-      {
         "id": "f95e09a7e92d",
         "title": "國家圖書館115年暑期實習始業式",
         "summary": "國家圖書館115年暑期實習始業式,國家圖書館於 7 月 13 日上午 10 時辦理「1145年暑期實習始業式」，本年暑期實習為期3至5週，分別有來自國立臺灣大學、輔仁大學、淡江大學的圖書資訊系所學生，共計7位學生參與。在暑期實習期間，本館的知識服務組（期刊、參考、多媒體）、國際合作組將分別帶領同學，...",
@@ -2061,14 +2101,6 @@
         "published": "2026-07-09T08:54:00+00:00"
       },
       {
-        "id": "f4b1ca8344bb",
-        "title": "Olivier Alary – Vestiges",
-        "summary": "The fascinating orchestral sound of twelve amplified lap steel guitars and electronics: Olivier Alary's 'Vestiges' on the Line label.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/alary-vestiges/",
-        "source": "Ambientblog",
-        "published": "2026-07-08T09:30:26+00:00"
-      },
-      {
         "id": "4ef1351c20b8",
         "title": "「與其恐懼假新聞，不如提升民眾信心」——跟著政大施琮仁打擊網路風險",
         "summary": "國立政治大學傳播學院施琮仁教授長年關注「不實訊息」對民眾的影響，以及該如何以行動打擊。 攝影／林俊孝 在臺灣社 [&#8230;]\nThe post 「與其恐懼假新聞，不如提升民眾信心」——跟著政大施琮仁打擊網路風險 appeared first on 人文．島嶼.",
@@ -2133,14 +2165,6 @@
         "published": "2026-07-01T18:15:00+00:00"
       },
       {
-        "id": "f4a489b311d2",
-        "title": "Robert Henke – Signal To Noise Vol. II",
-        "summary": "\"The signal became the noise\": Robert Henke's follow-up to his 2004 album Signal To Noise.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/henke-signal-ii/",
-        "source": "Ambientblog",
-        "published": "2026-07-01T06:36:41+00:00"
-      },
-      {
         "id": "0cf9d328d0f8",
         "title": "被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？",
         "summary": "你沒事的時候，會等公車時滑、吃飯時滑、睡前滑，甚至只是發呆幾分鐘，也會忍不住打開社群媒體看看有沒有新通知嗎？  [&#8230;]\nThe post 被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？ appeared first on 人文．島嶼.",
@@ -2171,14 +2195,6 @@
         "url": "https://www.glt.org.tw/?p=13940",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-06-29T03:24:45+00:00"
-      },
-      {
-        "id": "8fc0ce7a243f",
-        "title": "Andrew Heath – Airships & Aeronauts",
-        "summary": "Imagine Andrew Heath pulling the leavers and watching the dials on an album dedicated to the early age of powered flight.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/heath-airships/",
-        "source": "Ambientblog",
-        "published": "2026-06-26T18:22:10+00:00"
       },
       {
         "id": "cf2ac51243aa",
@@ -2229,28 +2245,12 @@
         "published": "2026-06-22T14:30:00+00:00"
       },
       {
-        "id": "b8daf7fe85fa",
-        "title": "Corrado Maria De Santis – Treshold Of Light",
-        "summary": "'Night recedes, yet morning remains unseen': Corrado Maria De Santis' Treshold Of Light.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/desantis/",
-        "source": "Ambientblog",
-        "published": "2026-06-22T11:40:13+00:00"
-      },
-      {
         "id": "ec739b1f1e98",
         "title": "青春來接棒，新秀挑大樑 傳藝中心「民間戲臺」五檔傳統好戲暑期熱演！",
         "summary": "&nbsp; &nbsp; &nbsp; &nbsp;國立傳統藝術中心今（115）年暑假再度推出「民間戲臺－新秀展演計畫」，精選臺灣戲曲中心113、114年「承功&mdash;新秀舞臺」中5檔膾炙人口的經典劇目，由5位青年新秀演員自7月4日至8月16日於宜蘭園區蔣渭水演藝廳接力演出10場，齣齣兼有戲劇張力並考驗演員功力，劇情含括詼諧鬥智、愛恨情仇、忠肝義膽、英雄豪情以及愛情喜劇等多元風格，透過宜蘭園區豐富的文化觀光資源搭建的展演平臺，展現臺灣戲曲新生代接班人的舞臺實力與藝術活力。&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;國立傳統...",
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=257655",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-06-22T07:03:00+00:00"
-      },
-      {
-        "id": "49f11eeb1aaf",
-        "title": "Variant – When The Universe Sleeps",
-        "summary": "The Quiet Details label celebrates its 50th release with an extended album of spacey 'Echospace-like' ambient music by Variant (Stephen Hitchell).\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/variant/",
-        "source": "Ambientblog",
-        "published": "2026-06-18T18:23:42+00:00"
       },
       {
         "id": "763f09edad9c",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T00:10:43.550923+00:00"
+        "published": "2026-07-31T04:32:00.378376+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T00:10:43.550913+00:00"
+        "published": "2026-07-31T04:32:00.378367+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T00:10:43.550903+00:00"
+        "published": "2026-07-31T04:32:00.378357+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T00:10:43.550893+00:00"
+        "published": "2026-07-31T04:32:00.378348+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T00:10:43.550883+00:00"
+        "published": "2026-07-31T04:32:00.378338+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T00:10:43.550873+00:00"
+        "published": "2026-07-31T04:32:00.378328+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T00:10:43.550864+00:00"
+        "published": "2026-07-31T04:32:00.378318+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T00:10:43.550854+00:00"
+        "published": "2026-07-31T04:32:00.378308+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T00:10:43.550844+00:00"
+        "published": "2026-07-31T04:32:00.378298+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,15 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T00:10:43.550834+00:00"
+        "published": "2026-07-31T04:32:00.378288+00:00"
+      },
+      {
+        "id": "6e58307d6555",
+        "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
+        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+        "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
+        "source": "阮一峰的网络日志",
+        "published": "2026-07-31T00:08:55+00:00"
       },
       {
         "id": "4ba639282ca6",
@@ -2661,14 +2669,6 @@
         "url": "https://museumofportablesound.com/2026/07/25/the-week-in-slop-week-of-20-july-2026/",
         "source": "The Museum of Portable Sound",
         "published": "2026-07-25T09:39:02+00:00"
-      },
-      {
-        "id": "524cc0e5f88b",
-        "title": "Configurations, tessellations and tone networks",
-        "summary": ".",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2026.2678317?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2026-07-24T10:42:20+00:00"
       },
       {
         "id": "7468eae9f112",
@@ -2839,14 +2839,6 @@
         "published": "2026-07-10T08:49:35+00:00"
       },
       {
-        "id": "af81724fc9aa",
-        "title": "科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功",
-        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-07-10T00:05:31+00:00"
-      },
-      {
         "id": "5e78efe2af4d",
         "title": "Vanishing Culture Episode #2: The Stories Hidden in Cookbooks with Katie Livingston",
         "summary": "Food is having a cultural moment. As America marks its 250th anniversary, new cookbooks celebrate endangered culinary traditions, UNESCO calls recipes &#8220;living heritage,&#8221; and chefs are rediscovering centuries-old techniques. But [&#8230;]",
@@ -2949,14 +2941,6 @@
         "url": "https://www.ethanhein.com/wp/2026/how-to-learn-to-jam/",
         "source": "The Ethan Hein Blog",
         "published": "2026-06-24T19:38:12+00:00"
-      },
-      {
-        "id": "57e6b01fb0e4",
-        "title": "Harmonic complexity of chords",
-        "summary": ".",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2026.2654579?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2026-06-23T03:36:10+00:00"
       },
       {
         "id": "4a28c8f09b11",
@@ -3079,14 +3063,6 @@
         "published": "2026-05-12T10:17:47+00:00"
       },
       {
-        "id": "33a89a86b70b",
-        "title": "Elementary spectrum for the dissonance curve: from biophysics to number theory of musical harmony",
-        "summary": ".",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2026.2628778?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2026-05-06T07:07:27+00:00"
-      },
-      {
         "id": "20ea57f6b4fd",
         "title": "[知音分享會]05.13 來自日治時期的繞境邀約 跟歌仔戲一起「痟」媽祖",
         "summary": "燃燒整座島嶼的三月媽祖熱漸漸停歇，輪到我 [&#8230;]\nSource",
@@ -3143,14 +3119,6 @@
         "published": "2026-04-01T07:00:00+00:00"
       },
       {
-        "id": "60c78be64c90",
-        "title": "A novel characterization of ME sets",
-        "summary": ".",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2026.2629572?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2026-04-01T04:45:29+00:00"
-      },
-      {
         "id": "f9d812fe9442",
         "title": "【2026臺灣音樂學論壇】徵稿啟事",
         "summary": "音樂的傳統與未來 ─2026臺灣音樂學會 [&#8230;]\nSource",
@@ -3199,14 +3167,6 @@
         "published": "2026-03-18T09:59:37+00:00"
       },
       {
-        "id": "0b65cf2a5109",
-        "title": "Learning to Listen, Listening to Learn",
-        "summary": "Volume 20, Issue 2, July 2026, Page 187-197.",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2026.2633755?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2026-03-17T10:51:33+00:00"
-      },
-      {
         "id": "97fa5ed0c94a",
         "title": "MaSC Expands Team with New Student Assistants",
         "summary": "March, 2026 Abu Dhabi The Music and Sound Cultures (MaSC) Research Group is pleased to welcome new student assistants to the team. Selected through a competitive process, the students will [&#8230;]",
@@ -3245,14 +3205,6 @@
         "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/20/thank-you-for-joining-the-mir-community-building-workshop/",
         "source": "Music and Sound Cultures",
         "published": "2026-02-20T08:18:36+00:00"
-      },
-      {
-        "id": "3e506a8c2550",
-        "title": "Some discontinuous properties of the phases of the DFT of pc-sets",
-        "summary": ".",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2587012?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2026-02-19T01:00:35+00:00"
       },
       {
         "id": "7d1d9b580aee",
@@ -3415,14 +3367,6 @@
         "published": "2025-12-02T07:00:00+00:00"
       },
       {
-        "id": "4a61a11c5e44",
-        "title": "Dissonance, sound spectrum and musical scale for ancient idiophones and aerophones",
-        "summary": "Volume 20, Issue 2, July 2026, Page 95-109.",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2560922?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2025-11-24T01:54:59+00:00"
-      },
-      {
         "id": "74f8297afe08",
         "title": "Just Ask the Axis: Jimi Hendrix Unpicked",
         "summary": "How Jimi Hendrix broke the axes of music.",
@@ -3437,22 +3381,6 @@
         "url": "https://blog.toplap.org/2025/11/21/live-code-stream-for-palestine/",
         "source": "TOPLAP",
         "published": "2025-11-21T23:09:18+00:00"
-      },
-      {
-        "id": "a888f1155fd0",
-        "title": "Persistent homology of music network with three different distances",
-        "summary": "Volume 20, Issue 2, July 2026, Page 154-186.",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2568844?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2025-11-04T12:54:59+00:00"
-      },
-      {
-        "id": "7e4e14b7932f",
-        "title": "From Fourier phase to musical realization: paths between homometric pitch-class distributions",
-        "summary": "Volume 20, Issue 2, July 2026, Page 136-153.",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2563675?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2025-11-04T01:06:44+00:00"
       },
       {
         "id": "3faa169e142e",
@@ -3477,14 +3405,6 @@
         "url": "https://www.miltonline.com/2025/10/31/from-thin-air/",
         "source": "Miltonline",
         "published": "2025-10-31T14:11:48+00:00"
-      },
-      {
-        "id": "e09156f52515",
-        "title": "Using mathematical morphology to discover repeated patterns in music",
-        "summary": "Volume 20, Issue 2, July 2026, Page 110-135.",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/17459737.2025.2562449?af=R",
-        "source": "tandf: Journal of Mathematics and Music: Table of Contents",
-        "published": "2025-10-27T02:51:28+00:00"
       },
       {
         "id": "1fa067108080",
