@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-31T07:56:37.883878+00:00",
+  "updated_at": "2026-07-31T10:48:01.307038+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "2184d03bb85d",
+        "title": "新北市立鶯歌陶瓷博物館：2026/07/31-08/30【《構･築—許明香陶瓷雕塑》個展】",
+        "summary": "許明香長年專注於陶瓷雕塑創作，早年作品擅長以陶土重現臺灣古厝、磚瓦與傳統建築之美，融合寫實雕塑技法與土地情感， [&#8230;]",
+        "url": "https://www.tmaroc.org.tw/1150731-3/",
+        "source": "最新消息 – 中華民國博物館學會",
+        "published": "2026-07-31T08:28:02+00:00"
+      },
+      {
+        "id": "396f2f33fc3f",
+        "title": "新竹縣政府文化局美術館：2026/8/15-8/30【《如詩．如斯：張平沼收藏精華》特展】",
+        "summary": "在臺灣的藝術收藏界中，張平沼總裁可謂箇中佼佼者，在法商各領域的高度成就不僅深為國人敬重，其收藏哲學與經歷更隱含 [&#8230;]",
+        "url": "https://www.tmaroc.org.tw/1150731-2/",
+        "source": "最新消息 – 中華民國博物館學會",
+        "published": "2026-07-31T08:18:02+00:00"
+      },
       {
         "id": "4d48f218a598",
         "title": "Price",
@@ -281,22 +297,6 @@
         "url": "https://www.tmaroc.org.tw/1150723/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-07-23T08:37:52+00:00"
-      },
-      {
-        "id": "8df6bebcef31",
-        "title": "國立故宮博物院南部院區：2026/6/18-9/28【《銷夏：書畫中的夏日意象》特展】",
-        "summary": "「銷夏」，亦作「消夏」，意指用清雅的活動避暑納涼、消磨夏日時光。現代人多仰賴冷氣、冰品消暑；而在尚未發明電力的 [&#8230;]",
-        "url": "https://www.tmaroc.org.tw/1150721/",
-        "source": "最新消息 – 中華民國博物館學會",
-        "published": "2026-07-22T06:38:56+00:00"
-      },
-      {
-        "id": "0579ecd099e1",
-        "title": "順益台灣原住民博物館：2026/7/7-9/13【草木生活誌 — 臺灣原住民族植物紀實】",
-        "summary": "植物在您的生活中扮演了什麼樣的角色呢？ 是陽台上的小盆栽、或是山林步道裡的風景？ 在臺灣原住民族的文化裡，植物 [&#8230;]",
-        "url": "https://www.tmaroc.org.tw/1150722/",
-        "source": "最新消息 – 中華民國博物館學會",
-        "published": "2026-07-22T06:19:43+00:00"
       },
       {
         "id": "257c5a09b5a7",
@@ -725,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "9a4a5ea351bf",
+        "title": "A World Elsewhere review – chaotic thrills as kids sail, fight and fall through trap doors",
+        "summary": "Sam Wanamaker Playhouse, London                     Family show brings gleeful playfulness  to the story of a 12-year-old whose escape into extravagant daydreams has begun to alarm himThe more children you bring along to this new family show – the latest co-production from the Globe theatre and Sple...",
+        "url": "https://www.theguardian.com/stage/2026/jul/31/a-world-elsewhere-review-sam-wanamaker-theatre-globe",
+        "source": "Stage | The Guardian",
+        "published": "2026-07-31T10:28:57+00:00"
+      },
+      {
+        "id": "09156f6b2416",
+        "title": "Meta 攜手貝萊德砸 140 億美元建德州 AI 資料中心，採合資模式加速算力佈局",
+        "summary": "Meta 加速以合資與專案融資擴張人工智慧基礎設施，最新動態是與貝萊德（BlackRock）成立總規模約 14 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/07/31/meta-turns-to-joint-ventures-with-blackrock-to-finance-1gw-ai-data-center/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-07-31T10:05:04+00:00"
+      },
+      {
         "id": "3bca8c40e6d8",
         "title": "自由現金流探低、惟美四巨頭下半年支出再衝高",
         "summary": "美國四家超大規模雲端服務商（hyperscaler）自 3 年半前展開 AI 主導權競賽以來，累計已投入逾 1 [&#8230;]",
@@ -829,10 +845,10 @@
         "published": "2026-07-30T19:00:54+00:00"
       },
       {
-        "id": "091dd40bf04f",
-        "title": "中国PMI五个月来首次下降",
-        "summary": "非制造业商务活动指数为49%，为2022年12月以来最弱水平，其中建筑业商务活动指数更是降至仅47%。",
-        "url": "https://www.ftchinese.com/story/001110489",
+        "id": "1c0b8277d2e6",
+        "title": "美国经济第二季度年化增长1.5%",
+        "summary": "该数据低于今年首季的2.1%。美国经济分析局表示，政府支出减少，加上出口和企业投资增速放缓，拖累了增长。但消费者支出大幅上升，表明美国经济状况依然稳健。",
+        "url": "https://www.ftchinese.com/story/001110483",
         "source": "FTChinese RSS - News",
         "published": "2026-07-30T16:00:00+00:00"
       },
@@ -845,10 +861,18 @@
         "published": "2026-07-30T16:00:00+00:00"
       },
       {
-        "id": "1c0b8277d2e6",
-        "title": "美国经济第二季度年化增长1.5%",
-        "summary": "该数据低于今年首季的2.1%。美国经济分析局表示，政府支出减少，加上出口和企业投资增速放缓，拖累了增长。但消费者支出大幅上升，表明美国经济状况依然稳健。",
-        "url": "https://www.ftchinese.com/story/001110483",
+        "id": "f79bda79aba5",
+        "title": "中国高分考生青睐警校与军校",
+        "summary": "经济疲软令提供稳定就业前景的院校吸引力大增，甚至超过顶尖学府。",
+        "url": "https://www.ftchinese.com/story/001110490",
+        "source": "FTChinese RSS - News",
+        "published": "2026-07-30T16:00:00+00:00"
+      },
+      {
+        "id": "091dd40bf04f",
+        "title": "中国PMI五个月来首次下降",
+        "summary": "非制造业商务活动指数为49%，为2022年12月以来最弱水平，其中建筑业商务活动指数更是降至仅47%。",
+        "url": "https://www.ftchinese.com/story/001110489",
         "source": "FTChinese RSS - News",
         "published": "2026-07-30T16:00:00+00:00"
       },
@@ -1357,14 +1381,6 @@
         "published": "2026-07-26T16:00:00+00:00"
       },
       {
-        "id": "c613e2635e25",
-        "title": "哈萨克斯坦总统敦促普京“冻结”战争",
-        "summary": "托卡耶夫在电视直播的会谈中还坦言，哈萨克斯坦不理解俄乌战争的“性质”。此言相当于质疑普京发动战争的核心理由之一。",
-        "url": "https://www.ftchinese.com/story/001110433",
-        "source": "FTChinese RSS - News",
-        "published": "2026-07-26T16:00:00+00:00"
-      },
-      {
         "id": "b8698745b1a8",
         "title": "Oona Doherty: Leather Jacket review – dancers delight in their hard sweaty work",
         "summary": "Bold Tendencies, LondonSlaps, beats and bounces underscore the unified collective pleasure of sharing a rhythm in this world premiere of the singular choreographer’s latest pieceCan it be a bit of a curse for an artist to knock it out of the park right at the start of their career? Choreographer Oon...",
@@ -1555,14 +1571,6 @@
         "url": "https://blogs.loc.gov/loc/2026/07/the-tombstone-edition-that-helped-galvanize-american-independence/",
         "source": "Timeless",
         "published": "2026-07-23T13:00:18+00:00"
-      },
-      {
-        "id": "b58ea5f7319b",
-        "title": "Beyond the body: Wayne McGregor stretches the definition of dance at this year’s Venice Dance Biennale",
-        "summary": "With the British dance legend at the helm, this year’s themes ranged from quantum gravity to slightly muted geopoliticsThe most memorable performance in the opening days of this year’s Venice Dance Biennale had barely any dance in it at all. Italian choreographer Andrea Salustri’s Invisible is built...",
-        "url": "https://www.theguardian.com/stage/2026/jul/23/wayne-mcgregor-venice-dance-biennale",
-        "source": "Stage | The Guardian",
-        "published": "2026-07-23T12:18:18+00:00"
       },
       {
         "id": "0e71895c84be",
@@ -1843,14 +1851,6 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259076",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-07-18T13:28:00+00:00"
-      },
-      {
-        "id": "49cec160789e",
-        "title": "傳 Meta 擬出租算力給 Anthropic，洽談規模高達 100 億美元",
-        "summary": "綜合外媒報導，Meta Platforms 正與 Anthropic 洽談租賃算力，這項潛在合作案規模最高可達 [&#8230;]",
-        "url": "https://technews.tw/2026/07/18/meta-anthropic-in-talks-for-compute-deal/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-07-18T01:37:45+00:00"
       },
       {
         "id": "3892f98e8a4d",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T07:56:31.366552+00:00"
+        "published": "2026-07-31T10:47:58.325095+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T07:56:31.366545+00:00"
+        "published": "2026-07-31T10:47:58.325085+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T07:56:31.366538+00:00"
+        "published": "2026-07-31T10:47:58.325075+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T07:56:31.366531+00:00"
+        "published": "2026-07-31T10:47:58.325064+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T07:56:31.366524+00:00"
+        "published": "2026-07-31T10:47:58.325051+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T07:56:31.366517+00:00"
+        "published": "2026-07-31T10:47:58.324995+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T07:56:31.366510+00:00"
+        "published": "2026-07-31T10:47:58.324984+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T07:56:31.366503+00:00"
+        "published": "2026-07-31T10:47:58.324974+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T07:56:31.366496+00:00"
+        "published": "2026-07-31T10:47:58.324963+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T07:56:31.366489+00:00"
+        "published": "2026-07-31T10:47:58.324952+00:00"
       },
       {
         "id": "6e58307d6555",
