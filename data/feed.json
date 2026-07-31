@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-31T10:48:01.307038+00:00",
+  "updated_at": "2026-07-31T13:06:37.200360+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "e1119eb56197",
+        "title": "hawkeye-comics-starry-eyed",
+        "summary": "Podfic of the Fanfiction \"Starry Eyed\" originally posted at https://archiveofourown.org/works/89308136.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/hawkeye-comics-starry-eyed",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-07-31T10:45:51+00:00"
+      },
       {
         "id": "2184d03bb85d",
         "title": "新北市立鶯歌陶瓷博物館：2026/07/31-08/30【《構･築—許明香陶瓷雕塑》個展】",
@@ -97,14 +105,6 @@
         "url": "https://archive.org/details/m-bb_20260730",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-07-30T22:32:27+00:00"
-      },
-      {
-        "id": "68fa12df441e",
-        "title": "MOZART Fagottkonzert B-Dur KV 191",
-        "summary": "MOZART  Fagottkonzert B-Dur KV 191 Dietmar Zeman (Fagott) Wiener Philharmoniker Karl Böhm (1974).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/vxjh_20260730",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-07-30T22:26:59+00:00"
       },
       {
         "id": "8df80d8e7932",
@@ -724,6 +724,14 @@
       }
     ],
     "破(day)": [
+      {
+        "id": "eb4dce5f84f1",
+        "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+        "summary": "LymeAlert will hit the market in August. The latest tool against the tick-borne illness could become a medicine cabinet staple",
+        "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+        "source": "Innovation | smithsonianmag.com",
+        "published": "2026-07-31T12:00:00+00:00"
+      },
       {
         "id": "9a4a5ea351bf",
         "title": "A World Elsewhere review – chaotic thrills as kids sail, fight and fall through trap doors",
@@ -2301,14 +2309,6 @@
         "published": "2026-06-15T15:00:00+00:00"
       },
       {
-        "id": "c5c11bfd6698",
-        "title": "When Clarence Birdseye Tasted the Trout That Had Been Frozen by Inuit Fishermen, It Changed the Way We Buy Food",
-        "summary": "The inventive entrepreneur concluded that the faster things were frozen, the less damage was done to the structure of the food. Once thawed, they were “exactly like fresh”",
-        "url": "https://www.smithsonianmag.com/innovation/when-clarence-birdseye-tasted-trout-had-been-frozen-inuit-fisherman-changed-way-buy-food-180988815/",
-        "source": "Innovation | smithsonianmag.com",
-        "published": "2026-06-15T13:00:00+00:00"
-      },
-      {
         "id": "92d75042f5d6",
         "title": "[東南亞週報321] 香格里拉對話星國登場聚焦區域安全、越菲升級強化戰略夥伴關係、AWS曼谷峰會聚焦AI未來",
         "summary": "[東南亞週報321] 香格里拉對話星國登場聚焦區域安全、越菲升級強化戰略夥伴關係、AWS曼谷峰會聚焦AI未來  [&#8230;]",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T10:47:58.325095+00:00"
+        "published": "2026-07-31T13:06:35.547502+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T10:47:58.325085+00:00"
+        "published": "2026-07-31T13:06:35.547494+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T10:47:58.325075+00:00"
+        "published": "2026-07-31T13:06:35.547487+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T10:47:58.325064+00:00"
+        "published": "2026-07-31T13:06:35.547480+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T10:47:58.325051+00:00"
+        "published": "2026-07-31T13:06:35.547473+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T10:47:58.324995+00:00"
+        "published": "2026-07-31T13:06:35.547467+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T10:47:58.324984+00:00"
+        "published": "2026-07-31T13:06:35.547459+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T10:47:58.324974+00:00"
+        "published": "2026-07-31T13:06:35.547451+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T10:47:58.324963+00:00"
+        "published": "2026-07-31T13:06:35.547444+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-07-31T10:47:58.324952+00:00"
+        "published": "2026-07-31T13:06:35.547437+00:00"
       },
       {
         "id": "6e58307d6555",
@@ -2855,14 +2855,6 @@
         "published": "2026-07-08T07:53:30+00:00"
       },
       {
-        "id": "66a35ce81cfc",
-        "title": "MaSC at DLfM 2026!",
-        "summary": "Our Research Assistant, Xiner (Rose) Chen, had the opportunity to represent MaSC at the 2026 International Conference on Digital Libraries for Musicology (DLfM), presenting the paper “From Field to Archive: [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/07/07/masc-at-dlfm-2026/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-07-07T12:40:07+00:00"
-      },
-      {
         "id": "8ba676c36633",
         "title": "韓日音樂會第八屆於東京開場，音樂劇好手齊聚一堂",
         "summary": "2026年6月2日及3日，韓國駐日大使館韓國文化館 (KCC)與民音在韓國文化館大廳 (Hammadang H [&#8230;]",
@@ -3055,14 +3047,6 @@
         "published": "2026-05-14T15:29:10+00:00"
       },
       {
-        "id": "832aac095aa6",
-        "title": "Sounding the Mangroves: A project with the Environmental Agency of Abu Dhabi",
-        "summary": "Ongoing, 2026 Abu Dhabi MaSC is partnering with the Environmental Agency of Abu Dhabi on a joint research project employing transdisciplinary methodologies to investigate how acoustic data can serve as [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/05/12/sounding-the-mangroves-a-project-with-the-environmental-agency-of-abu-dhabi/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-05-12T10:17:47+00:00"
-      },
-      {
         "id": "20ea57f6b4fd",
         "title": "[知音分享會]05.13 來自日治時期的繞境邀約 跟歌仔戲一起「痟」媽祖",
         "summary": "燃燒整座島嶼的三月媽祖熱漸漸停歇，輪到我 [&#8230;]\nSource",
@@ -3087,28 +3071,12 @@
         "published": "2026-04-27T04:48:52+00:00"
       },
       {
-        "id": "c743e287da56",
-        "title": "Andrew Eisenberg Presents at the British Forum for Ethnomusicology",
-        "summary": "April, 2026 London, UK In April 2026, Andrew J. Eisenberg presented a co-authored paper with Tabu Osusa (Ketebul Music, Nairobi) at the British Forum for Ethnomusicology in London. The 2026 [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/04/20/andrew-eisenberg-presents-at-the-british-forum-for-ethnomusicology/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-04-20T09:57:39+00:00"
-      },
-      {
         "id": "1b0da56e8ea0",
         "title": "台南有樂町－臺灣歌謠音樂論壇",
         "summary": "｡ﾟ♫*台南有樂町－臺灣歌謠音樂論壇♫* [&#8230;]\nSource",
         "url": "https://audio.nmth.gov.tw/news/%e5%8f%b0%e5%8d%97%e6%9c%89%e6%a8%82%e7%94%ba%ef%bc%8d%e8%87%ba%e7%81%a3%e6%ad%8c%e8%ac%a0%e9%9f%b3%e6%a8%82%e8%ab%96%e5%a3%87/",
         "source": "最新消息 – 臺灣音聲100年",
         "published": "2026-04-15T02:23:53+00:00"
-      },
-      {
-        "id": "5c79251d63b8",
-        "title": "Carlos Guedes Presents MaSC Research at Universitat Pompeu Fabra’s Music Technology Group",
-        "summary": "April, 2026 Online At the invitation of the Music Technology Group at Universitat Pompeu Fabra, Carlos Guedes delivered an online seminar on April 10, 2026, titled “Discovering Unrecorded Music: Challenges [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/04/12/carlos-guedes-presents-masc-research-at-universitat-pompeu-fabras-music-technology-group/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-04-12T09:42:09+00:00"
       },
       {
         "id": "0d28bf3c207d",
@@ -3151,44 +3119,12 @@
         "published": "2026-03-27T09:54:10+00:00"
       },
       {
-        "id": "bc89968aba80",
-        "title": "MaSC Paper Accepted to DLfM 2026",
-        "summary": "March, 2026 Thessaloniki, Greece We are pleased to share that a MaSC research paper has been accepted to the 2026 edition of Digital Libraries for Musicology (DLfM). Titled From Field [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/03/25/masc-paper-accepted-to-dlfm-2026/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-03-25T10:08:55+00:00"
-      },
-      {
-        "id": "79a430aa4c3d",
-        "title": "Intercultural Music Symposium in Nairobi",
-        "summary": "March, 2026 Nairobi, Kenya In March 2026, Andrew Eisenberg participated in the Muziki Pamoja Symposium in Nairobi, an event that brought Irish and Kenyan traditional musicians into dialogue. Hosted by [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/03/18/intercultural-music-symposium-in-nairobi/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-03-18T09:59:37+00:00"
-      },
-      {
-        "id": "97fa5ed0c94a",
-        "title": "MaSC Expands Team with New Student Assistants",
-        "summary": "March, 2026 Abu Dhabi The Music and Sound Cultures (MaSC) Research Group is pleased to welcome new student assistants to the team. Selected through a competitive process, the students will [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/03/10/masc-expands-team-with-new-student-assistants/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-03-10T10:02:01+00:00"
-      },
-      {
         "id": "250178c94bdc",
         "title": "Summary of changes for February 2026",
         "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of February.\n\n\n\n  Wiki, updated knots with a figure-eight follow-through knot, also, Pino has a new headsail!\n  Pavol, created a volume control tool.\n  Adelie, made it so images are drawn faster.\n  Turye, ad...",
         "url": "https://100r.ca/site/log.html#feb2026",
         "source": "Hundred Rabbits",
         "published": "2026-03-01T07:00:00+00:00"
-      },
-      {
-        "id": "6837438b1691",
-        "title": "Carlos Guedes Releases New Album: Time Poetries",
-        "summary": "February, 2026 Online and on physical media We are delighted to share that Carlos Guedes has released his latest album, Time Poetries. Released in early 2026, the album brings together [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/26/carlos-guedes-releases-new-album-time-poetries/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-02-26T10:11:32+00:00"
       },
       {
         "id": "852680d1f6d7",
@@ -3199,28 +3135,12 @@
         "published": "2026-02-26T01:11:32+00:00"
       },
       {
-        "id": "2271ab213414",
-        "title": "Thank You for Joining the MIR Community-Building Workshop",
-        "summary": "Last week, the MIR Community-Building Workshop on Music AI at NYU Abu Dhabi brought together students, scholars, and industry professionals for two days of research presentations, hands-on sessions, and forward-looking [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/20/thank-you-for-joining-the-mir-community-building-workshop/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-02-20T08:18:36+00:00"
-      },
-      {
         "id": "7d1d9b580aee",
         "title": "離散與重構：從媒體再現看移台港人的情感結構與身分認同",
         "summary": "口述：陳嘉銘 (前國立政治大學臺灣史研究所客座學者)、撰稿：楊家瑜圖片來源：https://www.pexels.com/zh-tw/photo/3062541/https://medium.com/media/9dec2c3f15d2753ac1e548f3780367e4/href在2019年後的幾年間，香港與台灣之間的人口流動出現了歷史性的轉折。隨著社會政治環境的變遷，許多香港人選擇離開熟悉的家園，踏上移居台灣的旅程，這不僅僅是一次地理上的遷徙，更是一場關於身分、文化與情感的深層重構。本研究的起點，正源於自身的生命經驗，作為一名在2021年底移居台灣的香港學者，不僅是觀察者，更是親歷者。...",
         "url": "https://medium.com/@ccs.popcom/%E9%9B%A2%E6%95%A3%E8%88%87%E9%87%8D%E6%A7%8B-%E5%BE%9E%E5%AA%92%E9%AB%94%E5%86%8D%E7%8F%BE%E7%9C%8B%E7%A7%BB%E5%8F%B0%E6%B8%AF%E4%BA%BA%E7%9A%84%E6%83%85%E6%84%9F%E7%B5%90%E6%A7%8B%E8%88%87%E8%BA%AB%E5%88%86%E8%AA%8D%E5%90%8C-faeb51ef1e4a?source=rss-17c1c85be06b------2",
         "source": "Stories by 爆米花傳播學 on Medium",
         "published": "2026-02-07T01:15:33+00:00"
-      },
-      {
-        "id": "d00aec536ee5",
-        "title": "Performance in Dialogue: Exploring Emirati and Polynesian Traditions through Al Harbiya and Haka",
-        "summary": "Last month, Andrew Eisenberg moderated Performance in Dialogue: Harbiya and Haka, an intercultural encounter connecting Emirati and Polynesian performance traditions. Bringing Al Harbiya together with Haka, the session combined performance [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/06/performance-in-dialogue-exploring-emirati-and-polynesian-traditions-through-al-harbiya-and-haka/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-02-06T12:45:23+00:00"
       },
       {
         "id": "4b37c3fda55f",
