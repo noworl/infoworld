@@ -1,102 +1,166 @@
 {
-  "updated_at": "2026-08-03T12:32:59.773183+00:00",
+  "updated_at": "2026-08-03T15:48:32.098865+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "da7328d2c8f6",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Hôm",
-        "summary": "48. ĐẠI NAM THỰC LỤC.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-hom",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T11:08:28+00:00"
-      },
-      {
-        "id": "9a459991cd92",
-        "title": "Академия В Шоке 1",
-        "summary": "академия в шоке.This item belongs to: audio/audioboo_ru.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/1_20260803_20260803_1007",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T11:00:56+00:00"
-      },
-      {
-        "id": "59aa83d7df25",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Trong",
-        "summary": "Đại Việt Sử Ký Toàn Thư.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-trong_20260803_1058",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T11:00:17+00:00"
-      },
-      {
-        "id": "d6a3fda7c4f1",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Trong",
-        "summary": "46. LỤC VÂN TIÊN.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-trong_20260803_1049",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T10:51:06+00:00"
-      },
-      {
-        "id": "08d131b45b68",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Giữa",
-        "summary": "44.Quốc Âm Thi Tập.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-giua_20260803",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T10:41:12+00:00"
-      },
-      {
-        "id": "f8f98fb2d5df",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Giữa",
-        "summary": "Truyện Kiều .This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-giua_202608",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T10:29:10+00:00"
-      },
-      {
-        "id": "9bbdbee1637c",
-        "title": "I didn’t even know there was murder happening",
-        "summary": "Written: https://archiveofourown.org/works/88997356 Podfic: https://archiveofourown.org/works/89787276 By makingoceansounds based on art by cheesecake3 Melbourne, 1926. There has been a murder (it’s alright, he was a dick) and with the police out of their depths (sorry Pete), there is only one man.....",
-        "url": "https://archive.org/details/i-didnt-even-know-there-was-murder-happening",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T10:13:01+00:00"
-      },
-      {
-        "id": "cd833af64c03",
-        "title": "來台旅客觀光支出增1成　美國每日242.84美元最高",
-        "summary": "（中央社記者余曉涵台北3日電）觀光署今天公布調查，去年來台旅客857.45萬人次，旅客在台觀光總支出為110.33億美元（約新台幣3438.57億元），較113年增加10.02%，以美國旅客每人每日消費242.84美元最高。",
-        "url": "https://www.cna.com.tw/news/ahel/202608030241.aspx",
+        "id": "63f260e47da7",
+        "title": "沈冬耗時10年探索中山堂　發現一座浪漫建築的歷史",
+        "summary": "（中央社記者邱祖胤台北3日電）台北中山堂為許多市民留下美好記憶，學者沈冬耗時10年書寫「城中央的公會堂：中山堂．一座浪漫建築的藝文歷史」，希望透過這本書「重新認識陪伴大家走過90年的中山堂」。",
+        "url": "https://www.cna.com.tw/news/acul/202608030314.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T09:21:51+00:00"
+        "published": "2026-08-03T15:14:39+00:00"
       },
       {
-        "id": "5daa30cdd386",
-        "title": "116學年考試簡章將公告　攜帶電子穿戴式裝置最重取消資格",
-        "summary": "（中央社記者許秩維台北3日電）116學年考試簡章將於明天公告，學測訂於116年1月22日至24日舉行；簡章同時加重違規罰則，以智慧眼鏡罰則最重，行動電話與智慧眼鏡以外的電子穿戴式裝置也加重罰則。",
-        "url": "https://www.cna.com.tw/news/ahel/202608030239.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T09:20:47+00:00"
+        "id": "763ce36a0234",
+        "title": "The Most Important Question",
+        "summary": "The Most Important Question — Basilea Schlink (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47088",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T15:04:30+00:00"
       },
       {
-        "id": "831b0afd8f9c",
-        "title": "4藝術家個展  2027年下半年北美館展出",
-        "summary": "（中央社記者王寶兒台北3日電）北美館今天公告116年度申請展獲選結果，包含洪瑄「驚燕」、劉文瑄「將就園」、謝牧岐「成為那幅畫」、羅懿君「線與線、島與島：從這裡出發的風景之間」。",
-        "url": "https://www.cna.com.tw/news/acul/202608030216.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T08:55:56+00:00"
+        "id": "8858eb73869c",
+        "title": "Not my Will",
+        "summary": "Not my Will — Basilea Schlink (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47087",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T15:04:28+00:00"
       },
       {
-        "id": "64a35a3f7af2",
-        "title": "中大石虎一號立方衛星升空　完成光纖陀螺儀驗證",
-        "summary": "（中央社記者許秩維台北3日電）中央大學太空研究中心、太空系等單位合作研製的立方衛星「石虎一號」，不但順利升空，近日更接收到訊號，驗證台灣自主研發的光纖陀螺儀可於太空環境穩定運作。",
-        "url": "https://www.cna.com.tw/news/ahel/202608030201.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T08:24:24+00:00"
+        "id": "e066a1c73e53",
+        "title": "We Need Patience!",
+        "summary": "We Need Patience! — Basilea Schlink (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47086",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T15:04:18+00:00"
       },
       {
-        "id": "6bc345a6485d",
-        "title": "勞動基金上半年收益2.2兆　7月市場回檔小幅影響",
-        "summary": "（中央社記者吳欣紜台北3日電）勞動基金上半年收益數為2兆2024億元，持續創新高，勞動基金運用局今天說，7月不論股、債都為回檔狀態，收益有些微影響，但勞動基金著重基本面，會就盤勢調整、穩定收益。",
-        "url": "https://www.cna.com.tw/news/ahel/202608030185.aspx",
+        "id": "58c4c9342337",
+        "title": "Unloved Humility?",
+        "summary": "Unloved Humility? — Basilea Schlink (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47085",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T15:04:11+00:00"
+      },
+      {
+        "id": "b921e94a7438",
+        "title": "Christ the Savior is Born",
+        "summary": "Christ the Savior is Born — Basilea Schlink (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47083",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T15:04:04+00:00"
+      },
+      {
+        "id": "bbe1f3bd2c49",
+        "title": "We Have A Savior!",
+        "summary": "We Have A Savior! — Basilea Schlink (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47084",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T15:03:55+00:00"
+      },
+      {
+        "id": "8ed45ba2d582",
+        "title": "You Needn’t Stay Poor",
+        "summary": "You Needn’t Stay Poor — Basilea Schlink (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47082",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T15:03:55+00:00"
+      },
+      {
+        "id": "241f4b58c1b3",
+        "title": "Unto Us A Child is Born",
+        "summary": "Unto Us A Child is Born — Basilea Schlink (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47081",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T15:03:36+00:00"
+      },
+      {
+        "id": "50fd9e786c1f",
+        "title": "Eternal Love Which Receives No Love",
+        "summary": "Eternal Love Which Receives No Love — Basilea Schlink (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47080",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T15:03:36+00:00"
+      },
+      {
+        "id": "056ab157c41d",
+        "title": "Christmas – Heaven Dawns",
+        "summary": "Christmas – Heaven Dawns — Basilea Schlink (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47079",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T15:03:34+00:00"
+      },
+      {
+        "id": "32476e16824e",
+        "title": "今彩539第115187期　頭獎槓龜",
+        "summary": "（中央社台北3日電）今彩539第115187期開獎，中獎號碼07、28、21、35、23；派彩結果，頭獎槓龜。",
+        "url": "https://www.cna.com.tw/news/ahel/202608030308.aspx",
         "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T07:54:49+00:00"
+        "published": "2026-08-03T14:04:23+00:00"
+      },
+      {
+        "id": "5cc03c3e5520",
+        "title": "威力彩第115062期　頭獎槓龜",
+        "summary": "（中央社台北3日電）威力彩第115062期今晚開獎，第一區中獎號碼為04、15、26、22、36、34，第二區中獎號碼07。派彩結果，頭獎、貳獎都槓龜。",
+        "url": "https://www.cna.com.tw/news/ahel/202608030306.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-03T14:02:18+00:00"
+      },
+      {
+        "id": "3455353ab739",
+        "title": "「凱西」首度參展文博會  喚醒手寫感動",
+        "summary": "（中央社記者王寶兒台北3日電）身穿白T恤、藍短褲的手繪人物「凱西」，曾在書籤與筆記本上伴隨七、八年級生度過青春，在筆下人物問世超過30年之際，插畫家凱西陳將首次參加文博會，帶領大眾重溫手寫感動。",
+        "url": "https://www.cna.com.tw/news/acul/202608030305.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-03T14:01:16+00:00"
+      },
+      {
+        "id": "699f10742361",
+        "title": "威力彩第115062期開獎",
+        "summary": "（中央社台北3日電）威力彩第115062期今晚開獎，第一區中獎號碼為04、15、26、22、36、34，第二區中獎號碼為07。",
+        "url": "https://www.cna.com.tw/news/ahel/202608030294.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-03T12:51:48+00:00"
+      },
+      {
+        "id": "71028a7a14d9",
+        "title": "今彩539第115187期開獎",
+        "summary": "（中央社台北3日電）今彩539第115187期開獎，中獎號碼07、28、21、35、23。3星彩中獎號碼491，4星彩中獎號碼6016。",
+        "url": "https://www.cna.com.tw/news/ahel/202608030293.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-03T12:43:45+00:00"
+      },
+      {
+        "id": "52133dc00ec5",
+        "title": "台糖拒收問題油為何免通報　中聯案食安稽查權責QA一次看",
+        "summary": "（中央社記者陳婕翎台北3日電）中聯問題油案延燒，台糖拒收中聯問題粗膠原油不需要通報，外界質疑只罰下游業者南僑、不罰台糖，甚至食安稽查到底是中央還是地方責任，中央社記者從法規面向整理5大QA一次看。",
+        "url": "https://www.cna.com.tw/news/ahel/202608030287.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-03T12:11:32+00:00"
+      },
+      {
+        "id": "d42063bfd9dc",
+        "title": "鄭立彬領軍明日之星　展現國樂新秀集訓成果",
+        "summary": "（中央社記者趙靜瑜台北3日電）培育國樂新生代國際視野與專業合奏能力，台北市立國樂團第二屆「明日之星國樂團」集訓完成，「璀璨星聲Ⅱ」音樂會由台北市立國樂團團長鄭立彬擔任指揮，帶著國樂新秀走向新世界。",
+        "url": "https://www.cna.com.tw/news/acul/202608030264.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-03T10:32:41+00:00"
+      },
+      {
+        "id": "989835e36224",
+        "title": "洪集輝掌金大 打造兼具在地特色與國際視野永續大學",
+        "summary": "（中央社記者張已亷金門縣3日電）國立金門大學今天舉行第5任校長就職典禮，新任校長洪集輝就任，洪集輝提出「樂齡生活」、「海洋治理」、「僑鄉大學」及「永續島嶼」四大倡議，作為未來校務發展重點。",
+        "url": "https://www.cna.com.tw/news/ahel/202608030256.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-03T10:05:24+00:00"
+      },
+      {
+        "id": "7794cbafb49f",
+        "title": "颱風白海豚估8日北轉　最快7日下半天發布海警",
+        "summary": "（中央社記者張雄風台北3日電）氣象署今天下午表示，最快7日下半天發布中颱白海豚海上警報，最新預測白海豚8日左右會開始逐漸北轉，8日至10日是對台影響較顯著的期間，中部以北防大雨，北部山區防豪雨。",
+        "url": "https://www.cna.com.tw/news/ahel/202608030252.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-03T09:56:15+00:00"
       },
       {
         "id": "935c4b6e8460",
@@ -105,70 +169,6 @@
         "url": "https://www.tmaroc.org.tw/1150803/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-08-03T07:48:16+00:00"
-      },
-      {
-        "id": "8c46444d7333",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Trong",
-        "summary": "41.Sử Ký Tư Mã Thiên.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-trong_202608",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T07:44:10+00:00"
-      },
-      {
-        "id": "999326873ea1",
-        "title": "分科測驗數甲物理難　估醫牙錄取門檻降5至6級分",
-        "summary": "（中央社記者許秩維台北3日電）115學年分科測驗成績公布，專家分析，受分科測驗數甲和物理較難而分數下降影響，3類組醫牙科系錄取門檻可能比去年下降5至6級分（約262級分），2類組錄取門檻約下降7級分。",
-        "url": "https://www.cna.com.tw/news/ahel/202608030179.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T07:42:36+00:00"
-      },
-      {
-        "id": "abf3195adfdf",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Trong 1",
-        "summary": "Thương Quân Thư.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-trong-1_202608",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T07:41:36+00:00"
-      },
-      {
-        "id": "e1d8d7f54cb3",
-        "title": "台史博館長交接　前台南市文化局長謝仕淵上任",
-        "summary": "（中央社記者楊思瑞台南3日電）國立台灣歷史博物館今天舉行館長交接典禮，新任館長謝仕淵於館方籌備期擔任研究人員一路升至副館長，之後回到學界，也曾任台南市文化局長，接掌台史博後將持續推動二期工程。",
-        "url": "https://www.cna.com.tw/news/acul/202608030176.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T07:41:30+00:00"
-      },
-      {
-        "id": "c311df6ddbef",
-        "title": "社福總盟質疑協商指引不對等 社家署允依共識執行",
-        "summary": "（中央社記者陳婕翎台北3日電）社福總盟今天要求衛生福利部下架協商指引，落實對等協商權。社家署回應，指引以對等協商權為前提制定，歷經8、9個月試辦及多方討論，並非倉促訂定，強調達成協商將依共識執行。",
-        "url": "https://www.cna.com.tw/news/ahel/202608030167.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T07:15:11+00:00"
-      },
-      {
-        "id": "868e3bbc8978",
-        "title": "消基會迎46週年　首創「誠信商店」認證制度",
-        "summary": "（中央社記者汪淑芬台北3日電）消費者文教基金會11月將邁入成立46週年。消基會今天宣布啟動首創「誠信商店」認證制度，率先於電器零售產業推動，盼透過第三方公正認證機制，建立值得信賴的消費市場。",
-        "url": "https://www.cna.com.tw/news/ahel/202608030160.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T07:01:56+00:00"
-      },
-      {
-        "id": "7da1cde2785f",
-        "title": "金門港旅運中心啟用 航港局推調高服務費助自主營運",
-        "summary": "（中央社記者張已亷金門縣3日電）國民黨立委陳玉珍等人今天出席金門港旅運中心啟用典禮，籲儘速核定調高金門商港旅客服務費；對此，航港局副局長劉志鴻表示，會儘速推動，盼藉此提升旅運中心自主營運能力。",
-        "url": "https://www.cna.com.tw/news/ahel/202608030159.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T06:56:53+00:00"
-      },
-      {
-        "id": "df547798de7e",
-        "title": "DNA Lounge: After Life (2026-08-01d)",
-        "summary": "AFTER LIFE Above DNA: MATT HART Starr Noir Plastic Disease Dazzle Room: Sage Melting Girl Live performance with UK-based industrial, Ebm, and synth-wave artist & DJ, Matt Hart! Influenced by early industrial & incorporating modern production alongside edgy electronica & industrial metal....This item...",
-        "url": "https://archive.org/details/DNALOUNGE-2026-08-01d",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T05:20:35+00:00"
       },
       {
         "id": "fbdffbc8d093",
@@ -725,6 +725,54 @@
     ],
     "破(day)": [
       {
+        "id": "0235b4bcb221",
+        "title": "libsm64 – Super Mario 64 as a C library",
+        "summary": "The libsm64 project provides a clean interface to the movement and rendering code which was reversed from SM64 by the SM64 decompilation project, so that Mario can be dropped in to existing game engines or other systems with minimal effort. This project produces a shared library file containing most...",
+        "url": "https://blog.adafruit.com/2026/08/03/libsm64-super-mario-64-as-a-c-library/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-03T15:33:53+00:00"
+      },
+      {
+        "id": "c270444aa1ff",
+        "title": "Making a guitar tube amplifier from a turntable",
+        "summary": "Davide Gironi found a junked turntable. It was not in a good condition, the plate was broken and enclosure has some cracks. The front cover is pretty, and also it&#8217;s powered by tubes, so Davide decided to convert it into a small practice tube guitar amplifier. Most important thing to notice whe...",
+        "url": "https://blog.adafruit.com/2026/08/03/making-a-guitar-tube-amplifier-from-a-turntable/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-03T15:22:00+00:00"
+      },
+      {
+        "id": "9f6428ae0ff4",
+        "title": "The History of the Beach Read, From 19th-Century 'Moral Debasement' to BookTok",
+        "summary": "The still-popular genre got its start 150 years ago, when publishers profited off the rise of travel in the United States during an otherwise slow publishing season",
+        "url": "https://www.smithsonianmag.com/innovation/the-history-of-the-beach-read-from-19th-century-moral-debasement-to-booktok-180989238/",
+        "source": "Innovation | smithsonianmag.com",
+        "published": "2026-08-03T14:22:30+00:00"
+      },
+      {
+        "id": "92ee5a8f1747",
+        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
+        "url": "https://blog.adafruit.com/2026/08/03/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-3/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-03T14:19:07+00:00"
+      },
+      {
+        "id": "3455353ab739",
+        "title": "「凱西」首度參展文博會　喚醒手寫感動【專訪】",
+        "summary": "（中央社記者王寶兒台北3日電）身穿白T恤、藍短褲的手繪人物「凱西」，曾在書籤與筆記本上伴隨七、八年級生度過青春，在筆下人物問世超過30年之際，插畫家凱西陳將首次參加文博會，帶領大眾重溫手寫感動。",
+        "url": "https://www.cna.com.tw/news/acul/202608030305.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-03T14:01:16+00:00"
+      },
+      {
+        "id": "928946382423",
+        "title": "Push Hack, very unauthorized access to Push 3’s display, files, MIDI, and more",
+        "summary": "If you don&#8217;t like unauthorized hacking, this isn&#8217;t for you. If you don&#8217;t like things built with AI-assisted coding agents, this isn&#8217;t for you. But if you&#8217;re up for a very unofficial hack that gives you full takeover access to Push 3&#8217;s display, drives, MIDI, and mo...",
+        "url": "https://cdm.link/push-hack-very-unauthorized-access-to-push-3s-display-files-midi-and-more/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-03T13:59:45+00:00"
+      },
+      {
         "id": "9b22bd858f2c",
         "title": "Now You See Me Live review – magic so bombastic it may be visible from space",
         "summary": "London ColiseumA quartet of conjurors, calling themselves the Horsemen, perform fine feats of escapology and mentalism that are undermined by smoke, lasers and pomposityIs there an opposite of close-up magic? If there is, it would look a bit like the magic in Now You See Me, which must be visible (a...",
@@ -965,14 +1013,6 @@
         "published": "2026-08-02T06:44:03+00:00"
       },
       {
-        "id": "3a3f6664d638",
-        "title": "2026NTSO國際青少年管弦樂營  錄取率約3成",
-        "summary": "（中央社記者趙靜瑜台北2日電）由國立台灣交響樂團主辦的「NTSO國際青少年管弦樂營」已經展開密集集訓，今年營隊報名情況踴躍，共計303人參與甄選，最終錄取92位學員，錄取率約3成。",
-        "url": "https://www.cna.com.tw/news/acul/202608020070.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-02T04:59:00+00:00"
-      },
-      {
         "id": "495beccc26f3",
         "title": "書評》將東方之珠化為一座多重龐克的暴走之城：讀《殺手龐克》",
         "summary": "讀過馬丹尼入圍第20屆台灣推理作家協會徵文獎決選的〈冰室〉，以及他在第22屆順利拿下首獎的〈信與誠〉這2則短篇的人，大概都很難否認，對於喜歡香港電影的讀者而言，他的小說題材確實擁有叫人難以抵擋的吸引力。\n在〈冰室〉裡，馬丹尼以九龍城寨作為背景，透過一具莫名出現的屍體，帶出黑白兩道的複雜關係，巧妙遊走在自成一格卻又與香港過往社會充分對應的險惡世界。\n而在〈信與誠〉中，他則把故事背景設立在監獄裡，同時置入港片迷必然熟悉的「四大探長」元素，讓這篇小說宛如香港版的《黑牢城》，再度讓獨特的故事舞台與香港的歷史背景融於一爐。\n\n\n如今馬丹尼推出長篇處女作《殺手龐克》，在創作篇幅更為寬廣的情況下，自然得以進...",
@@ -1123,30 +1163,6 @@
         "url": "https://www.transglobalwmc.com/charts/twmc-august-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-07-31T21:55:25+00:00"
-      },
-      {
-        "id": "755def41935e",
-        "title": "Installing Docker on the Raspberry Pi",
-        "summary": "PiMyLifeUp shares how to install Docker on your Raspberry Pi. Docker is an incredibly powerful tool that provides OS-level virtualization to deliver software packages within containers. Being in a container means the software cannot access anything that the Docker runtime doesn’t hand to it; this ca...",
-        "url": "https://blog.adafruit.com/2026/07/31/installing-docker-on-the-raspberry-pi/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-31T20:00:01+00:00"
-      },
-      {
-        "id": "d42f07b97f01",
-        "title": "Subscribe to the Adafruit Youtube channel! #Youtube #AdafruitLearnSystem",
-        "summary": "﻿ ﻿ Are you subscribed to the Adafruit Youtube channel? If you&#8217;re not already subscribed, click here! http://adafru.it/subscribe . It’s a free and easy way to keep up with our newest episodes. Here’s some of what we’re up to. Electronics Show and Tell Wednesdays 7:30pm Electronics show and tel...",
-        "url": "https://blog.adafruit.com/2026/07/31/subscribe-to-the-adafruit-youtube-channel-youtube-adafruitlearnsystem-226-4/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-31T18:30:00+00:00"
-      },
-      {
-        "id": "8346098a2ff4",
-        "title": "System Administrator Appreciation Day July 31, 2026 – 27th Annual #SysAdminDay",
-        "summary": "Today is the 27th annual System Administrator Appreciation Day. So give a little thanks to the folks keeping things running. Your network is secure, your computer is up and running, and your printer is jam-free. Why? Because you’ve got an awesome sysadmin (or maybe a whole IT department) keeping you...",
-        "url": "https://blog.adafruit.com/2026/07/31/system-administrator-appreciation-day-july-31-2026-27th-annual-sysadminday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-07-31T18:21:02+00:00"
       },
       {
         "id": "7371e6b5959c",
@@ -1635,14 +1651,6 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2369",
         "source": "獨立出版聯盟網站",
         "published": "2026-07-27T00:00:00+00:00"
-      },
-      {
-        "id": "4bfa89016b1e",
-        "title": "Detroit legend John Jammin Collins has passed",
-        "summary": "Few faces are as essential to Detroit music and Detroit techno as John \"Jammin\" Collins, an institution behind the decks, stalwart of Underground Resistance, and the literal tour guide at Submerge's techno museum Exhibit 3000. We learned this weekend that the soul of Detroit moved onto another plane...",
-        "url": "https://cdm.link/john-jammin-collins/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-26T17:28:39+00:00"
       },
       {
         "id": "62ca2af87861",
@@ -2309,14 +2317,6 @@
         "published": "2026-06-16T13:00:00+00:00"
       },
       {
-        "id": "2ccf600a5276",
-        "title": "With a Few Tweaks, the Country’s Favorite Sports Went From Pastimes to Part of the Fabric of Our Culture",
-        "summary": "Can you imagine a football game where there was never a passing play? The forward pass is just one of the innovations that made these contests into events",
-        "url": "https://www.smithsonianmag.com/innovation/with-few-tweaks-countrys-favorite-sports-went-pastimes-part-fabric-culture-180988816/",
-        "source": "Innovation | smithsonianmag.com",
-        "published": "2026-06-15T15:00:00+00:00"
-      },
-      {
         "id": "92d75042f5d6",
         "title": "[東南亞週報321] 香格里拉對話星國登場聚焦區域安全、越菲升級強化戰略夥伴關係、AWS曼谷峰會聚焦AI未來",
         "summary": "[東南亞週報321] 香格里拉對話星國登場聚焦區域安全、越菲升級強化戰略夥伴關係、AWS曼谷峰會聚焦AI未來  [&#8230;]",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T12:32:56.428735+00:00"
+        "published": "2026-08-03T15:48:28.544174+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T12:32:56.428725+00:00"
+        "published": "2026-08-03T15:48:28.544164+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T12:32:56.428714+00:00"
+        "published": "2026-08-03T15:48:28.544155+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T12:32:56.428704+00:00"
+        "published": "2026-08-03T15:48:28.544145+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T12:32:56.428692+00:00"
+        "published": "2026-08-03T15:48:28.544134+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T12:32:56.428682+00:00"
+        "published": "2026-08-03T15:48:28.544124+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T12:32:56.428671+00:00"
+        "published": "2026-08-03T15:48:28.544115+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T12:32:56.428660+00:00"
+        "published": "2026-08-03T15:48:28.544105+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T12:32:56.428649+00:00"
+        "published": "2026-08-03T15:48:28.544095+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T12:32:56.428638+00:00"
+        "published": "2026-08-03T15:48:28.544086+00:00"
       },
       {
         "id": "2d288a292399",
