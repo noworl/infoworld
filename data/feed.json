@@ -1,14 +1,94 @@
 {
-  "updated_at": "2026-08-03T19:49:50.027620+00:00",
+  "updated_at": "2026-08-03T21:12:56.449383+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "9d57c1b368a8",
-        "title": "(Podfic) Soft Delicate Things",
-        "summary": "Podfic of: https://archiveofourown.org/works/57395779.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/podfic-soft-delicate-things",
+        "id": "79a834fad7ff",
+        "title": "Listening To The Voice of the Spirit (Clip)",
+        "summary": "Listening To The Voice of the Spirit (Clip) — Anton Bosch (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID38387",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T18:16:15+00:00"
+        "published": "2026-08-03T21:06:19+00:00"
+      },
+      {
+        "id": "a7ae23e96373",
+        "title": "Leaven, Sparrows, and Hair",
+        "summary": "Leaven, Sparrows, and Hair — Anton Bosch (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID38384",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T21:06:12+00:00"
+      },
+      {
+        "id": "6aea16c812c1",
+        "title": "Knowing Him",
+        "summary": "Knowing Him — Anton Bosch (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID38382",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T21:06:04+00:00"
+      },
+      {
+        "id": "6b4697437993",
+        "title": "Kings and Harlots - Part 3",
+        "summary": "Kings and Harlots - Part 3 — Anton Bosch (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID38381",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T21:05:43+00:00"
+      },
+      {
+        "id": "1e515ac5614f",
+        "title": "Kings and Harlots - Part 1",
+        "summary": "Kings and Harlots - Part 1 — Anton Bosch (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID38379",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T21:05:34+00:00"
+      },
+      {
+        "id": "56a24d7c03d9",
+        "title": "Keep Your Eyes on the Goal",
+        "summary": "Keep Your Eyes on the Goal — Anton Bosch (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID38378",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T21:05:27+00:00"
+      },
+      {
+        "id": "4b2b3924962c",
+        "title": "Kings and harlots - Part 2",
+        "summary": "Kings and harlots - Part 2 — Anton Bosch (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID38380",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T21:05:23+00:00"
+      },
+      {
+        "id": "cffd44d1ae05",
+        "title": "Jesus, the perfect savior, high priest and leader",
+        "summary": "Jesus, the perfect savior, high priest and leader — Anton Bosch (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID38375",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T21:05:12+00:00"
+      },
+      {
+        "id": "190618608904",
+        "title": "Judgment must begin at the house of God",
+        "summary": "Judgment must begin at the house of God — Anton Bosch (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID38377",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T21:05:00+00:00"
+      },
+      {
+        "id": "72473a524262",
+        "title": "Jesus Stills the Storm Within",
+        "summary": "Jesus Stills the Storm Within — Anton Bosch (SermonIndex.net).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID38374",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-03T21:04:34+00:00"
+      },
+      {
+        "id": "1dd3e930668d",
+        "title": "氣象署提醒中彰投雲嘉5縣市防大雨　嘉義縣留意豪雨",
+        "summary": "（中央社台北4日電）中央氣象署發布豪雨特報，對流雲系發展旺盛，易有短延時強降雨，今晨至上午嘉義縣有局部大雨或豪雨，台中至嘉義及南投地區有局部大雨發生的機率。",
+        "url": "https://www.cna.com.tw/news/ahel/202608040007.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-03T20:00:04+00:00"
       },
       {
         "id": "2378191fd3c6",
@@ -17,78 +97,6 @@
         "url": "https://www.cna.com.tw/news/aopl/202608040004.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-03T18:15:55+00:00"
-      },
-      {
-        "id": "a5c8ac0b6a75",
-        "title": "MOZART Klavierkonzert Es-Dur KV 482",
-        "summary": "MOZART  Klavierkonzert Es-Dur KV 482 Christian Zacharias (Klavier) Berliner Philharmoniker Roger Norrington Berlin, 10. 12. 2000.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR M...",
-        "url": "https://archive.org/details/hfxg_20260803",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T17:13:55+00:00"
-      },
-      {
-        "id": "c61bb4be0c22",
-        "title": "MOZART Klavierkonzert d-moll KV 466",
-        "summary": "MOZART  Klavierkonzert d-moll KV 466 Ingrid Haebler (Klavier) SWR Sinfonieorchaester Baden-Baden und Freiburg.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mnjhvc",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T17:09:05+00:00"
-      },
-      {
-        "id": "fef891cd84eb",
-        "title": "MOZART Klavierkonzert D-Dur KV 537",
-        "summary": "MOZART  Klavierkonzert D-Dur KV 537 Bruno Leonardo Gelber (Klavier) NDR Sinfonieorchester Klaus Tennstedt.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/hjhf_20260803",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T17:05:55+00:00"
-      },
-      {
-        "id": "9f317d22c197",
-        "title": "MOZART Klavierkonzert d-moll KV 466",
-        "summary": "MOZART  Klavierkonzert d-moll KV 466 Wilhelm Kempff (Klavier) Dresdner Philharmonie Paul van Kempen (1941).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mb-jb",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T17:02:26+00:00"
-      },
-      {
-        "id": "573cb0540216",
-        "title": "MOZART Klavierkonzert C-Dur KV 503",
-        "summary": "MOZART  Klavierkonzert C-Dur KV 503 Leon Fleisher (Klavier) SWR Sinfonieorchaester Baden-Baden und Freiburg Ernest Bour.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/bnghx_20260803",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T16:57:45+00:00"
-      },
-      {
-        "id": "0a9497588b48",
-        "title": "MOZART Klavierkonzert d-moll KV 466",
-        "summary": "MOZART  Klavierkonzert d-moll KV 466 Emanuel Ax (Klavier) Radio-Sinfonieorchester Frankfurt Leonard Slatkin.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nvhf_20260803",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T16:55:00+00:00"
-      },
-      {
-        "id": "914aa05a8124",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Trong",
-        "summary": "60.Hoàng Việt Luật Lễ (Gia Long).This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-trong_20260803_1555",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T15:57:07+00:00"
-      },
-      {
-        "id": "0cf5c514381a",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Trong 1",
-        "summary": "Quốc Triều Hình Luật (Hồng Đức).This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-trong-1_20260803",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T15:54:03+00:00"
-      },
-      {
-        "id": "13a57cdbcc34",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Trong",
-        "summary": "58.Thượng Kinh Giấy Sự.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-trong_20260803_1537",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-03T15:40:36+00:00"
       },
       {
         "id": "63f260e47da7",
@@ -153,14 +161,6 @@
         "url": "https://www.cna.com.tw/news/acul/202608030264.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-03T10:32:41+00:00"
-      },
-      {
-        "id": "989835e36224",
-        "title": "洪集輝掌金大 打造兼具在地特色與國際視野永續大學",
-        "summary": "（中央社記者張已亷金門縣3日電）國立金門大學今天舉行第5任校長就職典禮，新任校長洪集輝就任，洪集輝提出「樂齡生活」、「海洋治理」、「僑鄉大學」及「永續島嶼」四大倡議，作為未來校務發展重點。",
-        "url": "https://www.cna.com.tw/news/ahel/202608030256.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-03T10:05:24+00:00"
       },
       {
         "id": "935c4b6e8460",
@@ -725,6 +725,30 @@
     ],
     "破(day)": [
       {
+        "id": "11afdd5667de",
+        "title": "Before you buy that TV streaming stick",
+        "summary": "Krebs on Security writes that security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user’s Internet connection out to strangers. But a groundbreaking new analy...",
+        "url": "https://blog.adafruit.com/2026/08/03/before-you-buy-that-tv-streaming-stick/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-03T20:39:12+00:00"
+      },
+      {
+        "id": "eec05f95150b",
+        "title": "The world’s first watch featuring computer functions",
+        "summary": "The world&#8217;s first wrist computer system, released in 1984, consisted of a Seiko watch part and a separate “controller” console with a built-in printer. The user could input BASIC programing with a keyboard (sold separately) and enjoy playing games. It also included a memo function, a telephone...",
+        "url": "https://blog.adafruit.com/2026/08/03/the-worlds-first-watch-featuring-computer-functions/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-03T20:24:26+00:00"
+      },
+      {
+        "id": "7fdb4e674446",
+        "title": "Rooting the TP-Link TL-841N router",
+        "summary": "A nice hands-on hardware hacking write-up making the rounds on Hacker News. The author picked up a bottom-of-the-line $10 TP-Link TL-841N (EU) off Facebook Marketplace specifically to practice the full end-to-end process of tearing into an IoT device: locating the UART, getting a root shell, and ext...",
+        "url": "https://blog.adafruit.com/2026/08/03/rooting-the-tp-link-tl-841n-router/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-03T20:03:34+00:00"
+      },
+      {
         "id": "46449426767b",
         "title": "Zephyr on Raspberry Pi Zero 2W bare metal",
         "summary": "Jonathan Elliot Peace has posted a Zephyr fork with board support for the Raspberry Pi Zero 2 W, a 26-file commit adding about 1,300 lines. The Zero 2 W runs a Broadcom BCM2710A1, the same silicon as the original Pi 3, packaged in an RP3A0-AU SiP with 512MB of LPDDR2. Zephyr boots it single-core wit...",
@@ -789,30 +813,6 @@
         "published": "2026-08-03T16:00:34+00:00"
       },
       {
-        "id": "410eb5287c35",
-        "title": "Building a palm-size ESP32 robot for a child",
-        "summary": "Carl Bugeja wanted to build a tiny robot for his son to play with. After reiterating the design, the result was the ProtoBot. Designed for anyone excited about building robots! Bring your bot to life using the build-guide, then control it with your phone, automate it, or even customize with open-sou...",
-        "url": "https://blog.adafruit.com/2026/08/03/building-a-palm-size-esp32-robot-for-a-child/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-03T15:59:16+00:00"
-      },
-      {
-        "id": "af45b6af0245",
-        "title": "CheapSecurity: A self-hosted CCTV system for Linux computers",
-        "summary": "If you&#8217;ve got a spare single-board computer and a USB webcam sitting in a drawer, CheapSecurity from Giuseppe Marco Randazzo turns them into a full home surveillance setup with no cloud subscription attached. The whole premise is data sovereignty: footage stays local, on storage you control, w...",
-        "url": "https://blog.adafruit.com/2026/08/03/cheapsecurity-a-self-hosted-cctv-system-for-linux-computers/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-03T15:48:24+00:00"
-      },
-      {
-        "id": "0235b4bcb221",
-        "title": "libsm64 – Super Mario 64 as a C library",
-        "summary": "The libsm64 project provides a clean interface to the movement and rendering code which was reversed from SM64 by the SM64 decompilation project, so that Mario can be dropped in to existing game engines or other systems with minimal effort. This project produces a shared library file containing most...",
-        "url": "https://blog.adafruit.com/2026/08/03/libsm64-super-mario-64-as-a-c-library/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-03T15:33:53+00:00"
-      },
-      {
         "id": "63f260e47da7",
         "title": "沈冬耗時10年探索中山堂　發現一座浪漫建築的歷史",
         "summary": "（中央社記者邱祖胤台北3日電）台北中山堂為許多市民留下美好記憶，學者沈冬耗時10年書寫「城中央的公會堂：中山堂．一座浪漫建築的藝文歷史」，希望透過這本書「重新認識陪伴大家走過90年的中山堂」。",
@@ -835,14 +835,6 @@
         "url": "https://www.cna.com.tw/news/acul/202608030305.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-08-03T14:01:16+00:00"
-      },
-      {
-        "id": "928946382423",
-        "title": "Push Hack, very unauthorized access to Push 3’s display, files, MIDI, and more",
-        "summary": "If you don&#8217;t like unauthorized hacking, this isn&#8217;t for you. If you don&#8217;t like things built with AI-assisted coding agents, this isn&#8217;t for you. But if you&#8217;re up for a very unofficial hack that gives you full takeover access to Push 3&#8217;s display, drives, MIDI, and mo...",
-        "url": "https://cdm.link/push-hack-very-unauthorized-access-to-push-3s-display-files-midi-and-more/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-03T13:59:45+00:00"
       },
       {
         "id": "9b22bd858f2c",
@@ -1037,14 +1029,6 @@
         "published": "2026-08-02T10:41:29+00:00"
       },
       {
-        "id": "7d1849970802",
-        "title": "Remembering Kieran Foster; legendary Glitch2 effect now free",
-        "summary": "You may know Kieran Foster by his other aliases  -- illformed, dblue, MaDHaTTeR. That's just how omnipresent he was as a light in electronic music communities, from the music and rave scene to software to Renoise. His sister has made his legendary Glitch2 effect free in his memory. Instead of pourin...",
-        "url": "https://cdm.link/remembering-dblue-illformed-glitch2/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-02T10:29:58+00:00"
-      },
-      {
         "id": "495beccc26f3",
         "title": "書評》將東方之珠化為一座多重龐克的暴走之城：讀《殺手龐克》",
         "summary": "讀過馬丹尼入圍第20屆台灣推理作家協會徵文獎決選的〈冰室〉，以及他在第22屆順利拿下首獎的〈信與誠〉這2則短篇的人，大概都很難否認，對於喜歡香港電影的讀者而言，他的小說題材確實擁有叫人難以抵擋的吸引力。\n在〈冰室〉裡，馬丹尼以九龍城寨作為背景，透過一具莫名出現的屍體，帶出黑白兩道的複雜關係，巧妙遊走在自成一格卻又與香港過往社會充分對應的險惡世界。\n而在〈信與誠〉中，他則把故事背景設立在監獄裡，同時置入港片迷必然熟悉的「四大探長」元素，讓這篇小說宛如香港版的《黑牢城》，再度讓獨特的故事舞台與香港的歷史背景融於一爐。\n\n\n如今馬丹尼推出長篇處女作《殺手龐克》，在創作篇幅更為寬廣的情況下，自然得以進...",
@@ -1205,36 +1189,12 @@
         "published": "2026-07-31T15:24:12+00:00"
       },
       {
-        "id": "3a216a8aad5a",
-        "title": "Vintage Max patches revived: free downloads, Leafcutter John and Suren",
-        "summary": "Suren Seneviratne (My Panda Shall Fly) has been painstakingly cataloging lost software, oldschool patches, and retro musical practices, reviving old machines and software and breathing new life into them. But now, we get some classic Max patches, remade for the current era of Max patches. Download t...",
-        "url": "https://cdm.link/vintage-max-patches-revived/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-31T14:12:24+00:00"
-      },
-      {
         "id": "2550605f0da2",
         "title": "一座被忽视的地热电站，如何重获新生",
         "summary": "（来源：麻省理工科技评论）2024 年 6 月，一家名为赞斯卡地热公司（Zanskar Geothermal）的小型企业，收购了美国新墨西哥州的莱特宁多克（Lightning Dock）地热电站。彼时，这座电站的状况正在迅速恶化：地下热储中抽出的水温持续下降，发电效率越来越低，继续运营已经难以维持经济性。两年后的今天，这座电站重新恢复了满负荷运行。扭转局面的关键，是一口新井。借助先进的地下建模方法和现代钻井技术，赞斯卡找到了一个更合适的钻探位置，向地下钻进数千英尺，最终让整座电站重获新生。随着全球不断寻找能够全天候稳定供电的零碳能源，莱特宁多克的经历表明，我们脚下深处或许仍隐藏着大量尚未被充分...",
         "url": "https://www.mittrchina.com/news/detail/16716",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-07-31T13:14:34+00:00"
-      },
-      {
-        "id": "910d51c6c7ae",
-        "title": "Gigi Masin on Movement, the age of sampling, and thinking analog",
-        "summary": "Forty years on from Wind, the Venetian ambient original makes his Sacred Bones debut with the surprisingly rhythmic Movement. In a written exchange, Masin talked about keeping ambient music from staring at itself in the mirror, being heavily sampled, the reel-to-reel he calls an old brother, and why...",
-        "url": "https://cdm.link/gigi-masin-on-movement-the-age-of-sampling-and-thinking-analog/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-31T13:14:00+00:00"
-      },
-      {
-        "id": "7e94d882269f",
-        "title": "Impactor, Rupture 2 by Rawton Forge are perfect percussion synths for Live",
-        "summary": "That's it. Rawton Forge has nailed it. With the new Rupture 2 on the kick and bass drum synthesis side, and Impactor handling general-purpose percussion synthesis for kicks/toms/tonal, you have an ideal floor-rattling, punchy, snappy synthesis duo for Ableton Live.\nThe post Impactor, Rupture 2 by Ra...",
-        "url": "https://cdm.link/impactor-rupture-2-by-rawton-forge-for-ableton-live/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-31T13:08:58+00:00"
       },
       {
         "id": "09d6a2067627",
@@ -1421,14 +1381,6 @@
         "published": "2026-07-30T00:15:17+00:00"
       },
       {
-        "id": "52fbeb122678",
-        "title": "DeafMan transforms Ableton Live with custom colors, interactive editor",
-        "summary": "DeafMan's creations for Ableton Live have evolved from a selection of cool retro themes to a vast library of complete color makeovers -- a \"visual system.\" And there's an insanely powerful new editor for managing themes, tweaking colors, creating customizations, and assigning color to tracks. It's m...",
-        "url": "https://cdm.link/deafman-transforms-ableton-live-colors-themes/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-29T21:02:33+00:00"
-      },
-      {
         "id": "42a88d28fb58",
         "title": "How A.I. Will Reshape Radiology—Without Replacing Radiologists",
         "summary": "Human experience and flexibility are still necessary even as digital diagnostic tools improve",
@@ -1499,14 +1451,6 @@
         "url": "https://humanityisland.nccu.edu.tw/wen-i-lin_a/",
         "source": "人文．島嶼",
         "published": "2026-07-29T00:30:37+00:00"
-      },
-      {
-        "id": "4f01fa7ca05c",
-        "title": "Owen Lake and the Tragic Loves have the cutest dinosaur music video",
-        "summary": "Owen Lake is back -- the alias of Jeff Snyder, who in these parts is best known for Snyderphonics, MPE innovator and Manta creator (of Princeton University). Here, we get twee-and-western, electro-country tunes with Anica Mrose Rissi that charmingly stick in your head, played partly on instruments J...",
-        "url": "https://cdm.link/owen-lake-and-the-tragic-loves-have-the-cutest-dinosaur-music-video/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-28T21:41:18+00:00"
       },
       {
         "id": "c7bd1542818a",
@@ -1589,22 +1533,6 @@
         "published": "2026-07-27T23:10:52+00:00"
       },
       {
-        "id": "be01f4f75f3c",
-        "title": "The Bob Moog Foundation Archives just added 4489 items from inMusic",
-        "summary": "500 schematics, 700 letters, vintage synths, publications, personal effects from Dr. Bob, prototype models, and more: thanks to a major gift from inMusic, the Bob Moog Foundation has massively expanded its collection. It makes the history that much more whole. Here are some images to give you a glim...",
-        "url": "https://cdm.link/bob-moog-foundation-archives-donation/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-27T20:52:05+00:00"
-      },
-      {
-        "id": "888861b0fdbc",
-        "title": "Last call on these summer sales on gear and software",
-        "summary": "Don't worry -- summer's not over yet (beloved northern hemisphere, anyway). But there are a bunch of sales ending tomorrow or at the end of July. Here's a quick round-up, including a couple I missed in the last deals guide.\nThe post Last call on these summer sales on gear and software appeared first...",
-        "url": "https://cdm.link/last-call-on-these-summer-sales-on-gear-and-software/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-27T17:54:26+00:00"
-      },
-      {
         "id": "9b5068f500f5",
         "title": "【投書】如何療癒失家受傷的孩子？從《失樂園》暗影，看見安置從收容轉向「長出未來」的關鍵",
         "summary": "《失樂園》讓我們看見一個孩子如何在應受保護的地方失去希望；但電影留下的，不應只有悲傷與憤怒。曾在安置機構生活超過10年、如今在中華育幼機構兒童關懷協會服務，陳旺德試圖指出一條讓安置機構成為兒少重新長出安全感、歸屬感與未來可能場所的方向⋯⋯",
@@ -1619,14 +1547,6 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q209493261957589258",
         "source": "國家圖書館",
         "published": "2026-07-27T16:00:00+00:00"
-      },
-      {
-        "id": "8f06b5a3031b",
-        "title": "Birds on guitars, in the zebra finch sound art of Céleste Boursier-Mougenot",
-        "summary": "Sound artist Céleste Boursier-Mougenot's \"from hear to ear\" is on view in Lisbon, Portugal at the moment. So let's take a moment for zebra finches playing guitars and other sonic installations driven by elements from nature in the work of this artist from Nice, France (now in Sète).\nThe post Birds o...",
-        "url": "https://cdm.link/birds-on-guitars-celeste-boursier-mougenot/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-27T15:45:28+00:00"
       },
       {
         "id": "5e47882fc41a",
@@ -2492,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T19:49:46.785998+00:00"
+        "published": "2026-08-03T21:12:54.877720+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T19:49:46.785988+00:00"
+        "published": "2026-08-03T21:12:54.877710+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T19:49:46.785979+00:00"
+        "published": "2026-08-03T21:12:54.877701+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T19:49:46.785968+00:00"
+        "published": "2026-08-03T21:12:54.877691+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T19:49:46.785959+00:00"
+        "published": "2026-08-03T21:12:54.877681+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T19:49:46.785950+00:00"
+        "published": "2026-08-03T21:12:54.877670+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T19:49:46.785940+00:00"
+        "published": "2026-08-03T21:12:54.877660+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T19:49:46.785929+00:00"
+        "published": "2026-08-03T21:12:54.877650+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T19:49:46.785919+00:00"
+        "published": "2026-08-03T21:12:54.877639+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-03T19:49:46.785909+00:00"
+        "published": "2026-08-03T21:12:54.877630+00:00"
       },
       {
         "id": "1fe936d8a3aa",
