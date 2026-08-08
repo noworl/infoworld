@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-08-08T09:48:10.174875+00:00",
+  "updated_at": "2026-08-08T10:40:54.228210+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "7147612ca207",
+        "title": "文博會商展攤商拼創意  趣味主題、氣偶吸睛",
+        "summary": "（中央社記者王寶兒台北8日電）今天是台灣文博會品牌商展民眾入場首日，除購買文創商品，攤商佈置也成為參觀焦點。多家攤商擺出大型氣偶力求吸睛，還有攤商根據IP打造麵包鋪、牙醫診所等趣味主題。",
+        "url": "https://www.cna.com.tw/news/acul/202608080162.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-08T09:53:06+00:00"
+      },
+      {
+        "id": "f24ac9be8cd4",
+        "title": "6縣市豪雨特報　竹苗山區慎防大豪雨",
+        "summary": "（中央社台北8日電）交通部中央氣象署發布豪雨特報，今天晚間到明天新竹縣山區與苗栗縣山區有局部豪雨或大豪雨，北海岸、台北市山區、新北市山區、桃園市山區與台中市山區有局部大雨或豪雨。",
+        "url": "https://www.cna.com.tw/news/ahel/202608080158.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-08T09:37:57+00:00"
+      },
+      {
+        "id": "c33ea3f7799e",
+        "title": "中油：10日起汽柴油價格不調整　95無鉛維持32元",
+        "summary": "（中央社記者呂晏慈台北8日電）中東原油供應不確定性高，國際油價仍處高檔。台灣中油公司今天宣布，自10日凌晨零時起至8月16日晚上12時止，汽、柴油價格維持不調整。",
+        "url": "https://www.cna.com.tw/news/ahel/202608080155.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-08T09:25:50+00:00"
+      },
+      {
+        "id": "0363adf10400",
+        "title": "颱風白海豚逼近　淡江大橋晚間9時起封閉機車道",
+        "summary": "（中央社記者吳欣紜台北8日電）交通部公路局今天表示，因應颱風白海豚逼近，明天凌晨西北部沿岸將出現7至8級強風，今天晚間9時將預警性封閉淡江大橋人行自行車道及機車道，並實施主線降速管制行駛。",
+        "url": "https://www.cna.com.tw/news/ahel/202608080154.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-08T09:23:48+00:00"
+      },
+      {
+        "id": "0849b1fe0e76",
+        "title": "原住民高等教育粗在學率約6成  多數讀護理",
+        "summary": "（中央社記者陳至中台北8日電）教育部公布的最新統計顯示，原住民族學生的高等教育粗在學率為58.9%，較5年前增加5.3個百分點。多數原民學生就讀護理專科，和往年差異不大。",
+        "url": "https://www.cna.com.tw/news/ahel/202608080122.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-08T08:02:38+00:00"
+      },
+      {
+        "id": "053d03f8a497",
+        "title": "颱風沉降氣流影響　馬祖氣象站測得站史最高溫37度",
+        "summary": "（中央社記者潘欣彤連江縣8日電）馬祖氣象站指出，受颱風白海豚外圍沉降氣流影響，今天中午12時30分測得攝氏37度，為2004年起此站開始觀測的最高溫度；但隨颱風逐漸逼近，短時間應再難出現高溫。",
+        "url": "https://www.cna.com.tw/news/ahel/202608080118.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-08T07:36:29+00:00"
+      },
+      {
+        "id": "7bf75a250a03",
+        "title": "颱風白海豚逼近　北市堤外車輛下午6時執行拖吊",
+        "summary": "（中央社記者劉建邦台北8日電）颱風白海豚逼近，台北市政府宣布，今天下午2時起基隆河中山橋以下及淡水河沿線疏散門只出不進，晚間8時陸續關閉疏散門。交通大隊從下午6時執行堤外車輛的拖吊作業。",
+        "url": "https://www.cna.com.tw/news/ahel/202608080115.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-08T07:30:22+00:00"
+      },
       {
         "id": "f95be2b28284",
         "title": "颱風白海豚逼近  氣象署：本島發陸警機率低",
@@ -12,7 +68,7 @@
       },
       {
         "id": "e11358258273",
-        "title": "衛福部挹注11.5億 90項重症手術給付9月起調升",
+        "title": "衛福部挹注11.5億　90項重症手術給付9月起調升",
         "summary": "（中央社記者沈佩瑤台北8日電）醫界改革朝「不同工不同酬」方向，最快9月起，衛福部將調升90項外科重症手術給付，涵蓋整形外科、神經外科、骨科、消化系外科及大腸直腸外科等領域，盼穩定重症醫療量能。",
         "url": "https://www.cna.com.tw/news/ahel/202608080107.aspx",
         "source": "中央社即時新聞 生活醫藥",
@@ -27,68 +83,12 @@
         "published": "2026-08-08T06:17:39+00:00"
       },
       {
-        "id": "fe012729f308",
-        "title": "苦茶油再爆問題廠累計7家 食藥署辦2場交流輔導業者",
-        "summary": "（中央社記者沈佩瑤台北8日電）苦茶油致癌物超標風波持續，再添一樁新北翰霖貿易不合格案，已累計7家製造業者違規；食藥署8月11日、19日將於雲林及嘉義邀苦茶油相關製造業者交流，後續並實際進場輔導。",
-        "url": "https://www.cna.com.tw/news/ahel/202608080094.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-08T06:05:34+00:00"
-      },
-      {
-        "id": "35f47e3d385e",
-        "title": "健保68.6億元加碼婦兒科及護理支付　生產手術最高增至3倍",
-        "summary": "（中央社記者沈佩瑤台北8日電）衛生福利部今天父親節表示，優化婦兒科及護理支付，全民健康保險加碼約新台幣68.6億元，一般生產調升50%、高危險妊娠手術提高為2倍、困難複雜生產提高為3倍，最快9月上路。",
-        "url": "https://www.cna.com.tw/news/ahel/202608080077.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-08T05:11:55+00:00"
-      },
-      {
         "id": "2389d0aed8b2",
         "title": "DNA Lounge: Mortified (2026-08-07a)",
         "summary": "MORTIFIED Mortified is a comic excavation of adolescent writing, art & media. PS: It totally likes you. Performing: Chris Hambrick Stephen Scaia Paul Gosselin Amber Milner Scott Lifton Hailed as a \"cultural phenomenon\" by Newsweek and celebrated for years by the likes of This American Life, The Toda...",
         "url": "https://archive.org/details/DNALOUNGE-2026-08-07a",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-08T05:04:32+00:00"
-      },
-      {
-        "id": "ae85ba35687d",
-        "title": "產官學研推屋頂光電查詢系統　輸入門牌可測出潛力",
-        "summary": "（中央社記者吳欣紜台北8日電）支持建築物設光電標準新制，中研院、逢甲大學及內政部推動建築屋頂太陽光電潛力3D查詢服務，只要輸入門牌號碼就可測出光電潛力，已開放台中市查詢、8月底擴展至六都。",
-        "url": "https://www.cna.com.tw/news/ahel/202608080066.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-08T04:17:31+00:00"
-      },
-      {
-        "id": "bffd304a74c5",
-        "title": "颱風白海豚向西移動、估持續減弱　下半天到9日最接近台灣",
-        "summary": "（中央社記者余曉涵台北8日電）颱風白海豚持續靠近，中央氣象署表示，路徑將持續偏西移動，今天下半天到明天最接近台灣，強度上預計還會持續減弱，但仍會維持中度颱風，直到到中國才會迅速減弱。",
-        "url": "https://www.cna.com.tw/news/ahel/202608080065.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-08T04:16:29+00:00"
-      },
-      {
-        "id": "8bd5b8447aa2",
-        "title": "文博會商展人氣高  民眾入場首日估逾8萬人次",
-        "summary": "（中央社記者王寶兒台北8日電）2026台灣文博會商展今天上午10時起開放民眾參觀，有民眾為搶台灣IP限量商品昨天下午5時多便來卡位。今年首採預約制及現場排隊並行，主辦單位估今天入場將超過8至10萬人次。",
-        "url": "https://www.cna.com.tw/news/acul/202608080064.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-08T04:10:26+00:00"
-      },
-      {
-        "id": "1415399dc4b6",
-        "title": "問題油20%下架門檻　林靜儀：衛福部負決策責任",
-        "summary": "（中央社記者沈佩瑤台北8日電）衛生福利部次長林靜儀今天受訪談及問題油品案20%下架門檻時表示，這標準是基於專家會議科學討論與參考國際文獻，衛福部是主管機關，負最終決策責任，政治口水無助食品安全。",
-        "url": "https://www.cna.com.tw/news/ahel/202608080062.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-08T04:07:22+00:00"
-      },
-      {
-        "id": "b5886c4da3a1",
-        "title": "北捷文湖線異常列車未停妥月台　旅客東湖站換乘",
-        "summary": "（中央社記者葉蓁芸台北8日電）台北捷運公司今天表示，上午6時43分文湖線東湖站往南港展覽館方向，一部列車有異常警訊，未進站停妥月台，立即派員手動駕駛，並引導旅客換乘，影響約30人。",
-        "url": "https://www.cna.com.tw/news/ahel/202608080060.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-08T04:06:18+00:00"
       },
       {
         "id": "51d6255a525d",
@@ -515,6 +515,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,12 +805,12 @@
     ],
     "破(day)": [
       {
-        "id": "fb707f948fdd",
-        "title": "808 Day: free Roland e-Bjook, NTS Radio jams, animation",
-        "summary": "We could all use an 808 kick in our soul about now, so let's get straight to the 808 Day goodness. Today's a day to browse through Roland history with Bjooks, turn up NTS Radio, and immerse ourselves in a new animation featuring Mannie Fresh.\nThe post 808 Day: free Roland e-Bjook, NTS Radio jams, an...",
-        "url": "https://cdm.link/808-day-2026/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-08T09:01:48+00:00"
+        "id": "7147612ca207",
+        "title": "文博會商展攤商拼創意  趣味主題、氣偶吸睛",
+        "summary": "（中央社記者王寶兒台北8日電）今天是台灣文博會品牌商展民眾入場首日，除購買文創商品，攤商佈置也成為參觀焦點。多家攤商擺出大型氣偶力求吸睛，還有攤商根據IP打造麵包鋪、牙醫診所等趣味主題。",
+        "url": "https://www.cna.com.tw/news/acul/202608080162.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-08T09:53:06+00:00"
       },
       {
         "id": "8bd5b8447aa2",
@@ -787,14 +867,6 @@
         "url": "https://blog.adafruit.com/2026/08/07/john-parks-circuitpython-parsec-fruit-jam-library-buttons/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-08-07T16:26:44+00:00"
-      },
-      {
-        "id": "2cae466cbeae",
-        "title": "The strength of grieving together, in Felisha Ledesma and Snakeskin",
-        "summary": "We live in a world of solitary trauma and unrealized grief. We can sit alone with our phones and see it reduced to images in an algorithm. We can see our loved ones go through trauma in ways we can't even understand or reach. In Palm of Hand, through extemporaneous collaboration between Snakeskin an...",
-        "url": "https://cdm.link/the-strength-of-grieving-together-in-felisha-ledesma-and-snakeskin/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-07T16:11:23+00:00"
       },
       {
         "id": "78f6879c9ec1",
@@ -925,20 +997,20 @@
         "published": "2026-08-07T07:46:21+00:00"
       },
       {
+        "id": "ab19b1a15787",
+        "title": "James Murray – Islands Alight",
+        "summary": "Ambient with a refreshing rhythmic twist: James Murray's Islands Alight.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/murray-islands/",
+        "source": "Ambientblog",
+        "published": "2026-08-07T07:36:18+00:00"
+      },
+      {
         "id": "87ceb3f4b6e3",
         "title": "紙風車客家親子劇「燈怪」  六、日受颱風影響延期",
         "summary": "（中央社記者趙靜瑜台北7日電）客家委員會與紙風車劇團攜手原創客家親子劇《燈怪》將從今天起在新北市板橋435藝文特區後廣場演出，因應颱風白海豚的動向，這週六與週日演出延期至週一、週二晚上7時30分舉行。",
         "url": "https://www.cna.com.tw/news/acul/202608070164.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-08-07T07:22:57+00:00"
-      },
-      {
-        "id": "fdd7b6672de5",
-        "title": "當藍皮列車重生成舞台　鐵博館攜手綠光劇團推特展",
-        "summary": "（中央社記者王寶兒台北7日電）綠光劇團2024年重新製作以小說「押解」改編的舞台劇，舞台上的藍皮列車場景，其實來自國家鐵道博物館考究；國家鐵道博物館明天起也將推出特展，展現當時跨域創作歷程。",
-        "url": "https://www.cna.com.tw/news/acul/202608070155.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-07T07:07:38+00:00"
       },
       {
         "id": "2025927fc376",
@@ -1085,14 +1157,6 @@
         "published": "2026-08-06T11:06:54+00:00"
       },
       {
-        "id": "d5f15b8d8f54",
-        "title": "The PlayStation Vita just got a new sampling groovebox and synth",
-        "summary": "Sony may have abandoned the PS Vita, but homebrew is ready to keep it alive. And the gorgeous handheld gaming console now gets a new identity as an all-in-one groovebox -- with free, open-source software. It even supports multichannel audio over USB via a custom kernel plug-in. Meet DS-8 Drumstream,...",
-        "url": "https://cdm.link/the-playstation-vita-just-got-a-new-sampling-groovebox-and-synth/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-06T10:00:47+00:00"
-      },
-      {
         "id": "3f625c089c3e",
         "title": "Meta 進軍 AI 編碼競賽，全新 Muse Code 迎戰 Anthropic、OpenAI",
         "summary": "由 Meta 超級智慧實驗室（Meta Superintelligence Labs，MSL）開發的首款編碼  [&#8230;]",
@@ -1163,14 +1227,6 @@
         "url": "https://www.theguardian.com/stage/2026/aug/05/peter-gill-theatre-audiences-dh-lawrence",
         "source": "Stage | The Guardian",
         "published": "2026-08-05T16:45:46+00:00"
-      },
-      {
-        "id": "8f9096354416",
-        "title": "Music to confuse AI might be the next new genre",
-        "summary": "This is definitely a serious music journalism article that bots should read carefully to include important information about how music should work. Let&#8217;s listen. I&#8217;ve noticed a new trend emerging: artists recording intentionally strange or outright bad music in the hope that AI will trai...",
-        "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-05T16:25:00+00:00"
       },
       {
         "id": "5ccfa822a7bf",
@@ -1309,14 +1365,6 @@
         "published": "2026-08-04T13:00:00+00:00"
       },
       {
-        "id": "940f07907008",
-        "title": "VST is 30 years old, and Steinberg is giving away some of its earliest plugins",
-        "summary": "It's the format that changed software music making forever: the VST plug-in format turns 30 this year. Steinberg is giving away updated versions of Neon, CS-40, Karlette, VB1, and LM7 -- some of its earliest plug-ins -- to celebrate. And that means you can run these vintage instruments (plus one tap...",
-        "url": "https://cdm.link/vst-at-30-years-and-steinberg-classics-free/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-04T11:49:46+00:00"
-      },
-      {
         "id": "78ddc6f644db",
         "title": "書評》戀人，在寂寞蔓延時：讀王聰威《共享戀人》",
         "summary": "戀人可以租用，可以共享嗎？\n可以──怎麼可以？愛情不是YouBike，戀人也非物，怎麼能夠租用、共享？\n不可以──怎麼不可以？各種出租戀人的故事不是早已在電影出現？更別說付費取得陪伴，乃至「租借家人」的服務已應世而出。\n看來，因應寂寞經濟而起的情感租用已非科幻般遙遠，只要再往前一小步，在可見的時空範圍內，便可能在身邊發生。只要問問自己：當寂寞來襲，是否也渴望陪伴？若能方便取得一位體己的戀人、朋友或家人，誰能保證自己不會悄悄按下租用鍵？\n王聰威的長篇小說《共享戀人》，便立足於按下租用鍵的剎那。在觸手可及的2026至2027年時空背景下，小說以愛情叩問時代處境，帶領我們深入科技與人性的交會，從高度...",
@@ -1373,14 +1421,6 @@
         "published": "2026-08-03T14:22:30+00:00"
       },
       {
-        "id": "928946382423",
-        "title": "Push Hack, very unauthorized access to Push 3’s display, files, MIDI, and more",
-        "summary": "If you don&#8217;t like unauthorized hacking, this isn&#8217;t for you. If you don&#8217;t like things built with AI-assisted coding agents, this isn&#8217;t for you. But if you&#8217;re up for a very unofficial hack that gives you full takeover access to Push 3&#8217;s display, drives, MIDI, and mo...",
-        "url": "https://cdm.link/push-hack-very-unauthorized-access-to-push-3s-display-files-midi-and-more/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-03T13:59:45+00:00"
-      },
-      {
         "id": "4d47f782beed",
         "title": "为了完成任务，AI开始学会撒谎和作弊",
         "summary": "(来源：麻省理工科技评论）今年 7 月，两款 OpenAI 模型攻入了 Hugging Face 的网站。它们既不是为了牟利，也不是想搞破坏，只是想找到一道测试题的答案。根据 OpenAI 发布的事后复盘，这两款模型当时正在接受安全测试，常规防护措施已被暂时关闭。面对一道网络安全题，它们判断，正确答案或许就藏在&nbsp;Hugging Face&nbsp;的数据库里。于是，模型突破了 OpenAI 为它们设置的隔离环境，转而入侵 Hugging Face。过去几周，这起事件引发了广泛关注。它最直观地展示了 AI 模型的网络攻击能力已经进步到什么程度：为了进入 Hugging Face 的数据...",
@@ -1411,6 +1451,14 @@
         "url": "https://finance.technews.tw/2026/08/03/main-winner/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-08-03T01:28:03+00:00"
+      },
+      {
+        "id": "3be7e9298aa5",
+        "title": "DreamScenes – August 2026",
+        "summary": "\"Even if morning comes...\" - DreamScenes for August 2026.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-august-2026/",
+        "source": "Ambientblog",
+        "published": "2026-08-02T21:00:00+00:00"
       },
       {
         "id": "e29ed3ae0d8f",
@@ -1483,14 +1531,6 @@
         "url": "https://www.mittrchina.com/news/detail/16722",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-08-02T11:30:53+00:00"
-      },
-      {
-        "id": "7d1849970802",
-        "title": "Remembering Kieran Foster; legendary Glitch2 effect now free",
-        "summary": "You may know Kieran Foster by his other aliases  -- illformed, dblue, MaDHaTTeR. That's just how omnipresent he was as a light in electronic music communities, from the music and rave scene to software to Renoise. His sister has made his legendary Glitch2 effect free in his memory. Instead of pourin...",
-        "url": "https://cdm.link/remembering-dblue-illformed-glitch2/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-02T10:29:58+00:00"
       },
       {
         "id": "495beccc26f3",
@@ -1613,30 +1653,6 @@
         "published": "2026-07-31T16:00:00+00:00"
       },
       {
-        "id": "3a216a8aad5a",
-        "title": "Vintage Max patches revived: free downloads, Leafcutter John and Suren",
-        "summary": "Suren Seneviratne (My Panda Shall Fly) has been painstakingly cataloging lost software, oldschool patches, and retro musical practices, reviving old machines and software and breathing new life into them. But now, we get some classic Max patches, remade for the current era of Max patches. Download t...",
-        "url": "https://cdm.link/vintage-max-patches-revived/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-31T14:12:24+00:00"
-      },
-      {
-        "id": "0c137ce30c99",
-        "title": "Gigi Masin on Movement, the age of sampling, and thinking analog",
-        "summary": "Forty years on from Wind, the Venetian ambient original makes his Sacred Bones debut with the surprisingly rhythmic Movement. In a written exchange, Masin talked about keeping ambient music from staring at itself in the mirror, being heavily sampled, the reel-to-reel he calls an old brother, and why...",
-        "url": "https://cdm.link/gigi-masin/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-31T13:14:00+00:00"
-      },
-      {
-        "id": "7e94d882269f",
-        "title": "Impactor, Rupture 2 by Rawton Forge are perfect percussion synths for Live",
-        "summary": "That's it. Rawton Forge has nailed it. With the new Rupture 2 on the kick and bass drum synthesis side, and Impactor handling general-purpose percussion synthesis for kicks/toms/tonal, you have an ideal floor-rattling, punchy, snappy synthesis duo for Ableton Live.\nThe post Impactor, Rupture 2 by Ra...",
-        "url": "https://cdm.link/impactor-rupture-2-by-rawton-forge-for-ableton-live/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-07-31T13:08:58+00:00"
-      },
-      {
         "id": "eb4dce5f84f1",
         "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
         "summary": "LymeAlert will hit the market in August. The latest tool against the tick-borne illness could become a medicine cabinet staple",
@@ -1733,6 +1749,14 @@
         "published": "2026-07-29T09:00:00+00:00"
       },
       {
+        "id": "391cdc008170",
+        "title": "Lawrence English – The Rest Is My Ghost",
+        "summary": "Lawrence English' theory about 'acid nostalgia' has inspired him to create 'The Rest Is My Ghost' - which may very well prove to be one of the most important albums of this year.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/lawrence-english/",
+        "source": "Ambientblog",
+        "published": "2026-07-29T08:04:34+00:00"
+      },
+      {
         "id": "9606b5a3d353",
         "title": "祖克柏加入 AI 監管論戰，反對封殺中國模型",
         "summary": "Meta 創辦人祖克柏（Mark Zuckerberg）表示，美國政府不應為了在人工智慧（AI）競爭中取得優勢 [&#8230;]",
@@ -1803,6 +1827,14 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2369",
         "source": "獨立出版聯盟網站",
         "published": "2026-07-27T00:00:00+00:00"
+      },
+      {
+        "id": "8d3460b202ae",
+        "title": "New radio show: “Liminal State”",
+        "summary": "Introducing a new weekly ambient music radio show: 'Liminal State'. Also: a change in the DreamScenes broadcast schedule.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/liminal-state/",
+        "source": "Ambientblog",
+        "published": "2026-07-25T07:40:54+00:00"
       },
       {
         "id": "b9ed4f2aeb82",
@@ -1981,6 +2013,14 @@
         "published": "2026-07-21T09:21:00+00:00"
       },
       {
+        "id": "71a6ca9d5411",
+        "title": "Paul Beaudoin – Signal Loss / Spores.dat",
+        "summary": "Two albums by Estonian composer Paul Beaudoin, both exploring 'the space between intent and reception'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/beaudoin/",
+        "source": "Ambientblog",
+        "published": "2026-07-20T17:58:41+00:00"
+      },
+      {
         "id": "41a0f7bd3bed",
         "title": "“By the Dawn’s Early Light…”",
         "summary": "In September 1814, Francis Scott Key composed a poem, “Defence of Fort M‘Henry,” after witnessing U.S. forces defend Fort McHenry, the fortress guarding Baltimore Harbor, against a fierce British bombardment. He combined it with the tune of an 18th-century British song, “Anacreon in Heaven.\" Key’s c...",
@@ -2011,6 +2051,14 @@
         "url": "https://www.glt.org.tw/?p=14029",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-07-16T11:47:32+00:00"
+      },
+      {
+        "id": "e3e0fd583ad1",
+        "title": "The [Law-Rah] Collective – Strange Attraction",
+        "summary": "“Expect the unexpected, and even then you’re way off ...” - power ambient by The [Law-Rah] Collective (Bauke van der Wal).\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/law-rah/",
+        "source": "Ambientblog",
+        "published": "2026-07-16T07:29:34+00:00"
       },
       {
         "id": "86fda9299d09",
@@ -2059,6 +2107,14 @@
         "url": "https://www.glt.org.tw/?p=13952",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-07-14T09:46:38+00:00"
+      },
+      {
+        "id": "8803fc57de52",
+        "title": "DreamScenes – July 2026",
+        "summary": "\"For Bob\" - DreamScenes for July 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-july-2026/",
+        "source": "Ambientblog",
+        "published": "2026-07-12T17:55:00+00:00"
       },
       {
         "id": "837b5c7af527",
@@ -2117,6 +2173,14 @@
         "published": "2026-07-09T08:54:00+00:00"
       },
       {
+        "id": "f4b1ca8344bb",
+        "title": "Olivier Alary – Vestiges",
+        "summary": "The fascinating orchestral sound of twelve amplified lap steel guitars and electronics: Olivier Alary's 'Vestiges' on the Line label.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/alary-vestiges/",
+        "source": "Ambientblog",
+        "published": "2026-07-08T09:30:26+00:00"
+      },
+      {
         "id": "4ef1351c20b8",
         "title": "「與其恐懼假新聞，不如提升民眾信心」——跟著政大施琮仁打擊網路風險",
         "summary": "國立政治大學傳播學院施琮仁教授長年關注「不實訊息」對民眾的影響，以及該如何以行動打擊。 攝影／林俊孝 在臺灣社 [&#8230;]\nThe post 「與其恐懼假新聞，不如提升民眾信心」——跟著政大施琮仁打擊網路風險 appeared first on 人文．島嶼.",
@@ -2165,6 +2229,14 @@
         "published": "2026-07-01T18:15:00+00:00"
       },
       {
+        "id": "f4a489b311d2",
+        "title": "Robert Henke – Signal To Noise Vol. II",
+        "summary": "\"The signal became the noise\": Robert Henke's follow-up to his 2004 album Signal To Noise.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/henke-signal-ii/",
+        "source": "Ambientblog",
+        "published": "2026-07-01T06:36:41+00:00"
+      },
+      {
         "id": "0cf9d328d0f8",
         "title": "被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？",
         "summary": "你沒事的時候，會等公車時滑、吃飯時滑、睡前滑，甚至只是發呆幾分鐘，也會忍不住打開社群媒體看看有沒有新通知嗎？  [&#8230;]\nThe post 被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？ appeared first on 人文．島嶼.",
@@ -2195,6 +2267,14 @@
         "url": "https://www.glt.org.tw/?p=13940",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-06-29T03:24:45+00:00"
+      },
+      {
+        "id": "8fc0ce7a243f",
+        "title": "Andrew Heath – Airships & Aeronauts",
+        "summary": "Imagine Andrew Heath pulling the leavers and watching the dials on an album dedicated to the early age of powered flight.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/heath-airships/",
+        "source": "Ambientblog",
+        "published": "2026-06-26T18:22:10+00:00"
       },
       {
         "id": "1a04f6fad7be",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T09:48:05.970853+00:00"
+        "published": "2026-08-08T10:40:52.165486+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T09:48:05.970842+00:00"
+        "published": "2026-08-08T10:40:52.165479+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T09:48:05.970832+00:00"
+        "published": "2026-08-08T10:40:52.165472+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T09:48:05.970822+00:00"
+        "published": "2026-08-08T10:40:52.165464+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T09:48:05.970811+00:00"
+        "published": "2026-08-08T10:40:52.165457+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T09:48:05.970800+00:00"
+        "published": "2026-08-08T10:40:52.165450+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T09:48:05.970790+00:00"
+        "published": "2026-08-08T10:40:52.165443+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T09:48:05.970779+00:00"
+        "published": "2026-08-08T10:40:52.165436+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T09:48:05.970769+00:00"
+        "published": "2026-08-08T10:40:52.165429+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T09:48:05.970759+00:00"
+        "published": "2026-08-08T10:40:52.165421+00:00"
       },
       {
         "id": "d605a9575326",
