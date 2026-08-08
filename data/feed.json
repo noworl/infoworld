@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T22:39:22.352666+00:00",
+  "updated_at": "2026-08-08T23:35:50.108450+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -17,6 +17,14 @@
         "url": "https://archive.org/details/so-as-marcantes-ao-vivo-na-casinha-djs-da-onda",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-08T21:31:22+00:00"
+      },
+      {
+        "id": "81b4a1d76776",
+        "title": "豪雨特報　新竹縣、苗栗縣慎防大豪雨",
+        "summary": "（中央社台北8日電）中央氣象署發布豪雨特報，颱風白海豚及外圍環流影響，易有短延時強降雨，今天新竹縣山區、苗栗縣山區有局部豪雨或大豪雨。",
+        "url": "https://www.cna.com.tw/news/ahel/202608090007.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-08T21:20:13+00:00"
       },
       {
         "id": "ab7ea37e93d5",
@@ -153,14 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202608080175.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-08T10:39:36+00:00"
-      },
-      {
-        "id": "40ec53a79bbb",
-        "title": "颱風白海豚影響　航空、海運交通異動一次看",
-        "summary": "（中央社記者余曉涵台北8日電）受到颱風白海豚影響，海運明天有10航線共81次航次停航；華航則宣布，明天台灣往返上海航班取消，桃園往返沖繩將放大機型。",
-        "url": "https://www.cna.com.tw/news/ahel/202608080174.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-08T10:38:34+00:00"
       },
       {
         "id": "a34e3226acf2",
@@ -513,86 +513,6 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
-      },
-      {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "41985f054415",
@@ -1085,6 +1005,14 @@
         "published": "2026-08-07T07:46:21+00:00"
       },
       {
+        "id": "ab19b1a15787",
+        "title": "James Murray – Islands Alight",
+        "summary": "Ambient with a refreshing rhythmic twist: James Murray's Islands Alight.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/murray-islands/",
+        "source": "Ambientblog",
+        "published": "2026-08-07T07:36:18+00:00"
+      },
+      {
         "id": "8d59ce651769",
         "title": "ESP32 DevKit 30-Pin USB-C Case #3DThursday #3DPrinting",
         "summary": "kmccoy shares: A snap-fit case for the 30-pin ESP32 devkit with USB-C connector, presumably fits similar clone versions. Embossed &#8216;ESP32&#8217; and USB indicator on the inside, plus &#8216;EN&#8217; and &#8216;BOOT&#8217; labels on the top surface near access holes. July 2025 update added a bo...",
@@ -1509,6 +1437,14 @@
         "published": "2026-08-03T01:28:03+00:00"
       },
       {
+        "id": "3be7e9298aa5",
+        "title": "DreamScenes – August 2026",
+        "summary": "\"Even if morning comes...\" - DreamScenes for August 2026.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-august-2026/",
+        "source": "Ambientblog",
+        "published": "2026-08-02T21:00:00+00:00"
+      },
+      {
         "id": "e29ed3ae0d8f",
         "title": "性創傷裡的深度安靜（上）：受傷的不只倖存者，還有「重要他人」",
         "summary": "沈可尚至今仍與那位啟發他探入創傷歷程的前女友維持聯繫，事實上，電影田調階段的受訪者，有些就是她介紹的。後來她去看了《深度安靜》，並傳訊息給沈可尚：「我拚命往前走，卻把你留在那。」",
@@ -1813,6 +1749,14 @@
         "published": "2026-07-29T09:00:00+00:00"
       },
       {
+        "id": "391cdc008170",
+        "title": "Lawrence English – The Rest Is My Ghost",
+        "summary": "Lawrence English' theory about 'acid nostalgia' has inspired him to create 'The Rest Is My Ghost' - which may very well prove to be one of the most important albums of this year.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/lawrence-english/",
+        "source": "Ambientblog",
+        "published": "2026-07-29T08:04:34+00:00"
+      },
+      {
         "id": "9606b5a3d353",
         "title": "祖克柏加入 AI 監管論戰，反對封殺中國模型",
         "summary": "Meta 創辦人祖克柏（Mark Zuckerberg）表示，美國政府不應為了在人工智慧（AI）競爭中取得優勢 [&#8230;]",
@@ -1883,6 +1827,14 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2369",
         "source": "獨立出版聯盟網站",
         "published": "2026-07-27T00:00:00+00:00"
+      },
+      {
+        "id": "8d3460b202ae",
+        "title": "New radio show: “Liminal State”",
+        "summary": "Introducing a new weekly ambient music radio show: 'Liminal State'. Also: a change in the DreamScenes broadcast schedule.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/liminal-state/",
+        "source": "Ambientblog",
+        "published": "2026-07-25T07:40:54+00:00"
       },
       {
         "id": "b9ed4f2aeb82",
@@ -2061,6 +2013,14 @@
         "published": "2026-07-21T09:21:00+00:00"
       },
       {
+        "id": "71a6ca9d5411",
+        "title": "Paul Beaudoin – Signal Loss / Spores.dat",
+        "summary": "Two albums by Estonian composer Paul Beaudoin, both exploring 'the space between intent and reception'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/beaudoin/",
+        "source": "Ambientblog",
+        "published": "2026-07-20T17:58:41+00:00"
+      },
+      {
         "id": "41a0f7bd3bed",
         "title": "“By the Dawn’s Early Light…”",
         "summary": "In September 1814, Francis Scott Key composed a poem, “Defence of Fort M‘Henry,” after witnessing U.S. forces defend Fort McHenry, the fortress guarding Baltimore Harbor, against a fierce British bombardment. He combined it with the tune of an 18th-century British song, “Anacreon in Heaven.\" Key’s c...",
@@ -2091,6 +2051,14 @@
         "url": "https://www.glt.org.tw/?p=14029",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-07-16T11:47:32+00:00"
+      },
+      {
+        "id": "e3e0fd583ad1",
+        "title": "The [Law-Rah] Collective – Strange Attraction",
+        "summary": "“Expect the unexpected, and even then you’re way off ...” - power ambient by The [Law-Rah] Collective (Bauke van der Wal).\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/law-rah/",
+        "source": "Ambientblog",
+        "published": "2026-07-16T07:29:34+00:00"
       },
       {
         "id": "86fda9299d09",
@@ -2139,6 +2107,14 @@
         "url": "https://www.glt.org.tw/?p=13952",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-07-14T09:46:38+00:00"
+      },
+      {
+        "id": "8803fc57de52",
+        "title": "DreamScenes – July 2026",
+        "summary": "\"For Bob\" - DreamScenes for July 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-july-2026/",
+        "source": "Ambientblog",
+        "published": "2026-07-12T17:55:00+00:00"
       },
       {
         "id": "837b5c7af527",
@@ -2197,6 +2173,14 @@
         "published": "2026-07-09T08:54:00+00:00"
       },
       {
+        "id": "f4b1ca8344bb",
+        "title": "Olivier Alary – Vestiges",
+        "summary": "The fascinating orchestral sound of twelve amplified lap steel guitars and electronics: Olivier Alary's 'Vestiges' on the Line label.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/alary-vestiges/",
+        "source": "Ambientblog",
+        "published": "2026-07-08T09:30:26+00:00"
+      },
+      {
         "id": "4ef1351c20b8",
         "title": "「與其恐懼假新聞，不如提升民眾信心」——跟著政大施琮仁打擊網路風險",
         "summary": "國立政治大學傳播學院施琮仁教授長年關注「不實訊息」對民眾的影響，以及該如何以行動打擊。 攝影／林俊孝 在臺灣社 [&#8230;]\nThe post 「與其恐懼假新聞，不如提升民眾信心」——跟著政大施琮仁打擊網路風險 appeared first on 人文．島嶼.",
@@ -2245,6 +2229,14 @@
         "published": "2026-07-01T18:15:00+00:00"
       },
       {
+        "id": "f4a489b311d2",
+        "title": "Robert Henke – Signal To Noise Vol. II",
+        "summary": "\"The signal became the noise\": Robert Henke's follow-up to his 2004 album Signal To Noise.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/henke-signal-ii/",
+        "source": "Ambientblog",
+        "published": "2026-07-01T06:36:41+00:00"
+      },
+      {
         "id": "0cf9d328d0f8",
         "title": "被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？",
         "summary": "你沒事的時候，會等公車時滑、吃飯時滑、睡前滑，甚至只是發呆幾分鐘，也會忍不住打開社群媒體看看有沒有新通知嗎？  [&#8230;]\nThe post 被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？ appeared first on 人文．島嶼.",
@@ -2275,6 +2267,14 @@
         "url": "https://www.glt.org.tw/?p=13940",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-06-29T03:24:45+00:00"
+      },
+      {
+        "id": "8fc0ce7a243f",
+        "title": "Andrew Heath – Airships & Aeronauts",
+        "summary": "Imagine Andrew Heath pulling the leavers and watching the dials on an album dedicated to the early age of powered flight.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/heath-airships/",
+        "source": "Ambientblog",
+        "published": "2026-06-26T18:22:10+00:00"
       },
       {
         "id": "1a04f6fad7be",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T22:39:19.503231+00:00"
+        "published": "2026-08-08T23:35:47.312298+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T22:39:19.503221+00:00"
+        "published": "2026-08-08T23:35:47.312287+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T22:39:19.503211+00:00"
+        "published": "2026-08-08T23:35:47.312276+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T22:39:19.503201+00:00"
+        "published": "2026-08-08T23:35:47.312266+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T22:39:19.503190+00:00"
+        "published": "2026-08-08T23:35:47.312255+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T22:39:19.503179+00:00"
+        "published": "2026-08-08T23:35:47.312244+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T22:39:19.503169+00:00"
+        "published": "2026-08-08T23:35:47.312233+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T22:39:19.503159+00:00"
+        "published": "2026-08-08T23:35:47.312222+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T22:39:19.503150+00:00"
+        "published": "2026-08-08T23:35:47.312212+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-08T22:39:19.503140+00:00"
+        "published": "2026-08-08T23:35:47.312201+00:00"
       },
       {
         "id": "d605a9575326",
