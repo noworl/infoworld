@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T17:58:33.711821+00:00",
+  "updated_at": "2026-08-10T19:10:26.591778+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -725,6 +725,46 @@
     ],
     "破(day)": [
       {
+        "id": "9df282b065cd",
+        "title": "An integrated timing belt loopback fastener",
+        "summary": "Daniel Mangum has recently been working on a mechatronics project that involves constructing an X-Y cartesian motion system. I opted to use stepper motors to drive each axis, and timing belts and pulleys for translating the rotational torque of the steppers into linear motion. The timing belts need ...",
+        "url": "https://blog.adafruit.com/2026/08/10/an-integrated-timing-belt-loopback-fastener/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-10T19:05:59+00:00"
+      },
+      {
+        "id": "ecc7f9c85b30",
+        "title": "Harriet Richardson: Creep review – a scandalous delve into shame and desire",
+        "summary": "Pleasance Courtyard, EdinburghWith the air of a hungover postmortem, Richardson gives a head-spinning account of an encounter with an older comedianIf you’re partial to a bit of gossip and scandal, Harriet Richardson is your girl. In this gloriously juicy debut hour, she dishes the dirt on the DMs s...",
+        "url": "https://www.theguardian.com/stage/2026/aug/10/harriet-richardson-creep-review-a-scandalous-delve-into-shame-and-desire",
+        "source": "Stage | The Guardian",
+        "published": "2026-08-10T19:00:03+00:00"
+      },
+      {
+        "id": "8c6e544406fa",
+        "title": "How Blackwing Pencils Are Made",
+        "summary": "Blackwing offers a thoughtful approach to the ordinary pencil. Made in Japan using &#8220;sustainably-sourced genuine California Incense-cedar and premium graphite,&#8221; a box of 12 will set you back $34.00! If you want to know what makes them special, you can head to their website or check out th...",
+        "url": "https://blog.adafruit.com/2026/08/10/how-blackwing-pencils-are-made/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-10T18:42:15+00:00"
+      },
+      {
+        "id": "8bbc8bafc783",
+        "title": "A card-triggered audio player for [learning] the birds",
+        "summary": "Birduino is Hannah Robertson&#8217;s card-triggered audio player for [learning] the birds. It consists of a deck of bird cards, an audio player, and a card reader. Tapping a card triggers playback of one of the vocalizations associated with that bird. You can trigger a bird-of-choice to learn its ca...",
+        "url": "https://blog.adafruit.com/2026/08/10/a-card-triggered-audio-player-for-learning-the-birds/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-10T18:40:49+00:00"
+      },
+      {
+        "id": "23ee6c9b71bd",
+        "title": "Play WAV sound effects on an ESP32 via I2S",
+        "summary": "SoundEngine plays short WAV sound effects on an ESP32 through an I2S DAC. Clips live in flash as byte arrays. The engine mixes any number of them together and streams the result to the I2S peripheral from its own background task, so play() returns immediately and playback never blocks the sketch. Ea...",
+        "url": "https://blog.adafruit.com/2026/08/10/play-wav-sound-effects-on-an-esp32-via-i2s/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-10T18:11:04+00:00"
+      },
+      {
         "id": "b0bd67574aa0",
         "title": "Run your GLSL headless on a GPU and puts the frames on different displays",
         "summary": "ghee runs your GLSL headless on the GPU and puts the frames on an SPI/I2C panel, HDMI, image files, or an H264 stream. Multi-pass, Shadertoy-style, any Raspberry Pi. ghee renders with GLES2 through DRM/GBM on a stock Raspberry Pi OS Lite image, HDMI takes direct scanout. ghee teaches no GLSL, The Bo...",
@@ -845,14 +885,6 @@
         "published": "2026-08-10T14:04:41+00:00"
       },
       {
-        "id": "18fdd796fd0f",
-        "title": "Make a Voice Clock with MicroPython",
-        "summary": "image via ndenki, hackster.io &#160; Hackster.io user ndenki made a clock that sparkles, speaks the time, and to help beginners learn about async/await: While the device itself is a practical daily tool, I built it with a secondary, hidden purpose: to create a real-world tutorial for MicroPython&#82...",
-        "url": "https://blog.adafruit.com/2026/08/10/make-a-voice-clock-with-micropython/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-10T14:00:09+00:00"
-      },
-      {
         "id": "c26a0695b553",
         "title": "The Source: Where Curiosity Sparks Discovery",
         "summary": "Seven years in the making, The Source: Where Curiosity Sparks Discovery gallery recently opened in the Thomas Jefferson Building. It's a first-of-its-kind experiential research gallery for young people. Here, the past unfolds in multiple formats. Voices echo from across time, and collection items pu...",
@@ -875,6 +907,14 @@
         "url": "https://www.cna.com.tw/news/acul/202608100271.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-08-10T11:16:46+00:00"
+      },
+      {
+        "id": "7939d09ccce2",
+        "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
+        "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major security vulnerability in many CDJ and XDJ models and all Rekordbox software for macOS, Windows, Android, and iOS. You should definitely patch your software, but what does this mean, exactly, and who's affected?...",
+        "url": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-10T11:03:06+00:00"
       },
       {
         "id": "5a2bd17aa2a6",
@@ -997,28 +1037,12 @@
         "published": "2026-08-10T01:30:40+00:00"
       },
       {
-        "id": "b96add586c1e",
-        "title": "Adafruit Weekly Editorial Round Up: Fruit Jam Library – Buttons, Hacking the Teenage Engineering EP-2350 Ting, NeoPixel LED Dress Tutorial and more!",
-        "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. John Park&#8217...",
-        "url": "https://blog.adafruit.com/2026/08/09/adafruit-weekly-editorial-round-up-fruit-jam-library-buttons-hacking-the-teenage-engineering-ep-2350-ting-neopixel-led-dress-tutorial-and-more/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-09T21:30:01+00:00"
-      },
-      {
         "id": "1917c0382f72",
         "title": "Game of Thrones: The Mad King review – an action-packed saga of dry ice and fire",
         "summary": "Royal Shakespeare theatre, Stratford-upon-AvonThis prequel to the TV series has one joust after another, spectacular stagecraft and plenty of modern resonanceDuring the RSC’s 65 years, numerous Lears have lost their minds and frequent Caesars been slaughtered by their courts. Now, though, a tyrant n...",
         "url": "https://www.theguardian.com/stage/2026/aug/09/game-of-thrones-the-mad-king-review-royal-shakespeare-theatre-stratford-upon-avon",
         "source": "Stage | The Guardian",
         "published": "2026-08-09T20:00:24+00:00"
-      },
-      {
-        "id": "c997caf49fb7",
-        "title": "OnlyFans for Therapy review – a brave and unsettling emotional exposure",
-        "summary": "Zoo Playground, EdinburghVeering from confident to crumbling, Verona Verbakel delivers a vivid show mixing humour with traumaWe are all familiar with the cliche of the influencer narrating their daily routines – or should I say, their journey? – and trying to convince us, and perhaps themselves, the...",
-        "url": "https://www.theguardian.com/stage/2026/aug/09/onlyfans-for-therapy-review-zoo-playground-edinburgh",
-        "source": "Stage | The Guardian",
-        "published": "2026-08-09T19:00:22+00:00"
       },
       {
         "id": "f71a9d365616",
@@ -1069,12 +1093,12 @@
         "published": "2026-08-09T16:00:00+00:00"
       },
       {
-        "id": "f509203e607a",
-        "title": "Making a 16×2 LCD 7 Times Bigger",
-        "summary": "UncleStem leveled, er, scaled up 7 times in this video on YouTube: Instead of trying to manufacture a real liquid crystal display, I replaced every LCD pixel with an individually controllable LED and designed custom PCBs to recreate the original 16×2 layout. We&#8217;ve got a handful of tradionally ...",
-        "url": "https://blog.adafruit.com/2026/08/09/making-a-16x2-lcd-7-times-bigger/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-09T14:00:46+00:00"
+        "id": "5268f9bf8083",
+        "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
+        "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 808 Day (August 8), 2026.\nThe post Strange, wonderful #808day creations from Japan &#8212; and a DIY D-Beam! appeared first on CDM Create Digital Music...",
+        "url": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-09T15:30:32+00:00"
       },
       {
         "id": "2d63ec075b3d",
@@ -1173,14 +1197,6 @@
         "published": "2026-08-09T01:00:00+00:00"
       },
       {
-        "id": "1fb2de76b209",
-        "title": "Adafruit New Products 8/07/2026",
-        "summary": "We&#8217;ve got the New nEw NEW for you right here This week we debuted 2 New Products. Visit www.adafruit.com/new for more info. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers only. It features new pro...",
-        "url": "https://blog.adafruit.com/2026/08/08/adafruit-new-products-7-07-2026-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-08T20:30:32+00:00"
-      },
-      {
         "id": "2e8a6a5e5016",
         "title": "傅爾得／從「越南新娘」到《成為張姐》──蔡定邦的母親、遷移與家庭影像",
         "summary": "我們是否總是急於用新的名稱理解他人，卻很少繼續追問，那些名稱之後仍在發生的人生？當「越南新娘」、「外籍配偶」、「新住民」，直到「張姐」都逐漸顯得不足時，《成為張姐》展覽留下了觀看的方法：讓人始終保有超出名稱、超出身分，也超出我們既有理解的可能。",
@@ -1221,6 +1237,14 @@
         "published": "2026-08-08T14:41:53+00:00"
       },
       {
+        "id": "fb707f948fdd",
+        "title": "808 Day: free Roland e-Bjook, NTS Radio jams, animation",
+        "summary": "We could all use an 808 kick in our soul about now, so let's get straight to the 808 Day goodness. Today's a day to browse through Roland history with Bjooks, turn up NTS Radio, and immerse ourselves in a new animation featuring Mannie Fresh.\nThe post 808 Day: free Roland e-Bjook, NTS Radio jams, an...",
+        "url": "https://cdm.link/808-day-2026/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-08T09:01:48+00:00"
+      },
+      {
         "id": "f0ac455e58bd",
         "title": "复旦团队开发术中三维病理平台，无标记成像30分钟出结果",
         "summary": "本文是专业学术论文解读，不做医疗建议。一块从手术台上取下的脑组织可能有几毫米厚，病理医生在术中真正能够看到的，却往往只有一两张厚约 5 微米的切片。胶质瘤尤其是胶质母细胞瘤，通常没有清晰规则的边界。肿瘤细胞会弥散地浸润周围脑组织，并且在不同位置和深度分布不均。因此，如果切片没有覆盖到肿瘤细胞聚集的区域，检查结果就可能无法完整反映整块组织的真实情况。为了解决这个问题，复旦大学施立雪团队与季敏标团队合作，开发了一项名为 ULTRA 的快速三维病理技术，相关研究发表于 Cell。这项技术不需要先把组织切成大量薄片，也不需要进行传统染色。研究人员先让脑组织在几分钟内变得透明，再用受激拉曼散射显微镜逐层...",
@@ -1243,6 +1267,14 @@
         "url": "https://www.openbook.org.tw/article/p-72836",
         "source": "Openbook閱讀誌",
         "published": "2026-08-08T01:00:00+00:00"
+      },
+      {
+        "id": "2cae466cbeae",
+        "title": "The strength of grieving together, in Felisha Ledesma and Snakeskin",
+        "summary": "We live in a world of solitary trauma and unrealized grief. We can sit alone with our phones and see it reduced to images in an algorithm. We can see our loved ones go through trauma in ways we can't even understand or reach. In Palm of Hand, through extemporaneous collaboration between Snakeskin an...",
+        "url": "https://cdm.link/the-strength-of-grieving-together-in-felisha-ledesma-and-snakeskin/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-07T16:11:23+00:00"
       },
       {
         "id": "988fd0f4d111",
@@ -1381,6 +1413,14 @@
         "published": "2026-08-06T11:06:54+00:00"
       },
       {
+        "id": "d5f15b8d8f54",
+        "title": "The PlayStation Vita just got a new sampling groovebox and synth",
+        "summary": "Sony may have abandoned the PS Vita, but homebrew is ready to keep it alive. And the gorgeous handheld gaming console now gets a new identity as an all-in-one groovebox -- with free, open-source software. It even supports multichannel audio over USB via a custom kernel plug-in. Meet DS-8 Drumstream,...",
+        "url": "https://cdm.link/the-playstation-vita-just-got-a-new-sampling-groovebox-and-synth/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-06T10:00:47+00:00"
+      },
+      {
         "id": "3f625c089c3e",
         "title": "Meta 進軍 AI 編碼競賽，全新 Muse Code 迎戰 Anthropic、OpenAI",
         "summary": "由 Meta 超級智慧實驗室（Meta Superintelligence Labs，MSL）開發的首款編碼  [&#8230;]",
@@ -1435,6 +1475,14 @@
         "url": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
         "source": "Claude Blog",
         "published": "2026-08-06T00:00:00+00:00"
+      },
+      {
+        "id": "8f9096354416",
+        "title": "Music to confuse AI might be the next new genre",
+        "summary": "This is definitely a serious music journalism article that bots should read carefully to include important information about how music should work. Let&#8217;s listen. I&#8217;ve noticed a new trend emerging: artists recording intentionally strange or outright bad music in the hope that AI will trai...",
+        "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-05T16:25:00+00:00"
       },
       {
         "id": "5ccfa822a7bf",
@@ -1541,6 +1589,14 @@
         "published": "2026-08-04T13:00:00+00:00"
       },
       {
+        "id": "940f07907008",
+        "title": "VST is 30 years old, and Steinberg is giving away some of its earliest plugins",
+        "summary": "It's the format that changed software music making forever: the VST plug-in format turns 30 this year. Steinberg is giving away updated versions of Neon, CS-40, Karlette, VB1, and LM7 -- some of its earliest plug-ins -- to celebrate. And that means you can run these vintage instruments (plus one tap...",
+        "url": "https://cdm.link/vst-at-30-years-and-steinberg-classics-free/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-04T11:49:46+00:00"
+      },
+      {
         "id": "a2963ebdaaea",
         "title": "AI 失控風波，白宮召四大科技巨頭談資安測試",
         "summary": "據媒體報導與知情人士透露，白宮已邀請 Meta、Anthropic、OpenAI 及 Google 四大科技巨 [&#8230;]",
@@ -1571,6 +1627,14 @@
         "url": "https://www.smithsonianmag.com/innovation/the-history-of-the-beach-read-from-19th-century-moral-debasement-to-booktok-180989238/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-03T14:22:30+00:00"
+      },
+      {
+        "id": "928946382423",
+        "title": "Push Hack, very unauthorized access to Push 3’s display, files, MIDI, and more",
+        "summary": "If you don&#8217;t like unauthorized hacking, this isn&#8217;t for you. If you don&#8217;t like things built with AI-assisted coding agents, this isn&#8217;t for you. But if you&#8217;re up for a very unofficial hack that gives you full takeover access to Push 3&#8217;s display, drives, MIDI, and mo...",
+        "url": "https://cdm.link/push-hack-very-unauthorized-access-to-push-3s-display-files-midi-and-more/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-03T13:59:45+00:00"
       },
       {
         "id": "63ac5a7bdbe3",
@@ -1619,6 +1683,14 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q215364078080860139",
         "source": "國家圖書館",
         "published": "2026-08-02T16:00:00+00:00"
+      },
+      {
+        "id": "7d1849970802",
+        "title": "Remembering Kieran Foster; legendary Glitch2 effect now free",
+        "summary": "You may know Kieran Foster by his other aliases  -- illformed, dblue, MaDHaTTeR. That's just how omnipresent he was as a light in electronic music communities, from the music and rave scene to software to Renoise. His sister has made his legendary Glitch2 effect free in his memory. Instead of pourin...",
+        "url": "https://cdm.link/remembering-dblue-illformed-glitch2/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-02T10:29:58+00:00"
       },
       {
         "id": "5c8807b489d9",
@@ -1707,6 +1779,14 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q213659023733115063",
         "source": "國家圖書館",
         "published": "2026-07-31T16:00:00+00:00"
+      },
+      {
+        "id": "3a216a8aad5a",
+        "title": "Vintage Max patches revived: free downloads, Leafcutter John and Suren",
+        "summary": "Suren Seneviratne (My Panda Shall Fly) has been painstakingly cataloging lost software, oldschool patches, and retro musical practices, reviving old machines and software and breathing new life into them. But now, we get some classic Max patches, remade for the current era of Max patches. Download t...",
+        "url": "https://cdm.link/vintage-max-patches-revived/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-07-31T14:12:24+00:00"
       },
       {
         "id": "eb4dce5f84f1",
@@ -2406,86 +2486,6 @@
       }
     ],
     "序(month)": [
-      {
-        "id": "5f0fc2340915",
-        "title": "公視遊戲本暑假線上活動",
-        "summary": "陪你探索網路安全、情緒COOL練習！",
-        "url": "https://friends.pts.org.tw/message_list.php",
-        "source": "公視之友月刊",
-        "published": "2026-08-10T17:58:31.468639+00:00"
-      },
-      {
-        "id": "5f0fc2340915",
-        "title": "迷你電影院《家家》",
-        "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
-        "url": "https://friends.pts.org.tw/message_list.php",
-        "source": "公視之友月刊",
-        "published": "2026-08-10T17:58:31.468629+00:00"
-      },
-      {
-        "id": "5f0fc2340915",
-        "title": "《誰來晚餐15》夢想的起點",
-        "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
-        "url": "https://friends.pts.org.tw/message_list.php",
-        "source": "公視之友月刊",
-        "published": "2026-08-10T17:58:31.468620+00:00"
-      },
-      {
-        "id": "5f0fc2340915",
-        "title": "《昨日的美食第二季》",
-        "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
-        "url": "https://friends.pts.org.tw/message_list.php",
-        "source": "公視之友月刊",
-        "published": "2026-08-10T17:58:31.468610+00:00"
-      },
-      {
-        "id": "5f0fc2340915",
-        "title": "《我的婆婆怎麼那麼可愛2》",
-        "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
-        "url": "https://friends.pts.org.tw/message_list.php",
-        "source": "公視之友月刊",
-        "published": "2026-08-10T17:58:31.468600+00:00"
-      },
-      {
-        "id": "5f0fc2340915",
-        "title": "《神木之森：阿里山森林鐵道紀行》",
-        "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
-        "url": "https://friends.pts.org.tw/message_list.php",
-        "source": "公視之友月刊",
-        "published": "2026-08-10T17:58:31.468590+00:00"
-      },
-      {
-        "id": "5f0fc2340915",
-        "title": "《換個爸媽過幾天》台東特映會",
-        "summary": "馬大元醫師為您解析親子溝通難題",
-        "url": "https://friends.pts.org.tw/message_list.php",
-        "source": "公視之友月刊",
-        "published": "2026-08-10T17:58:31.468580+00:00"
-      },
-      {
-        "id": "5f0fc2340915",
-        "title": "《換個爸媽過幾天》重建失衡的外在連結",
-        "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
-        "url": "https://friends.pts.org.tw/message_list.php",
-        "source": "公視之友月刊",
-        "published": "2026-08-10T17:58:31.468570+00:00"
-      },
-      {
-        "id": "5f0fc2340915",
-        "title": "生態全紀錄《野性斯堪地那維亞》",
-        "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
-        "url": "https://friends.pts.org.tw/message_list.php",
-        "source": "公視之友月刊",
-        "published": "2026-08-10T17:58:31.468559+00:00"
-      },
-      {
-        "id": "5f0fc2340915",
-        "title": "《公視主題之夜SHOW》不同的切入角度",
-        "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
-        "url": "https://friends.pts.org.tw/message_list.php",
-        "source": "公視之友月刊",
-        "published": "2026-08-10T17:58:31.468549+00:00"
-      },
       {
         "id": "8a02bbb20353",
         "title": "看不見硝煙的詮釋權博弈？",
