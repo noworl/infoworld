@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T17:03:37.768894+00:00",
+  "updated_at": "2026-08-12T19:11:37.993504+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -725,6 +725,54 @@
     ],
     "破(day)": [
       {
+        "id": "077f53dd84ff",
+        "title": "Cyberdeck HAT for Raspberry Pi – The Raspberry Pi Official Magazine, Issue 168 @rpimagazine",
+        "summary": "The Raspberry Pi Official Magazine – Issue 168 features the Adafruit CYBERDECK HAT for Raspberry Pi 400 &#38; 500. Cut the build and connect a screen to Raspberry Pi’s all-in-one computer with Adafruit’s Cyberdeck HAT for Raspberry Pi 500 and 400 models. You can use it alongside an OLED Bonnet (or s...",
+        "url": "https://blog.adafruit.com/2026/08/12/cyberdeck-hat-for-raspberry-pi-the-raspberry-pi-official-magazine-issue-167-rpimagazine/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-12T18:47:26+00:00"
+      },
+      {
+        "id": "b0ee91209182",
+        "title": "Alien Typeframe PS-85 cyberdeck – The Raspberry Pi Official Magazine, Issue 168 @rpimagazine",
+        "summary": "The Raspberry Pi Official Magazine – Issue 168 shows the Alien Typeframe PS-85 cyberdeck by Jeff Merrick: Starting with a set of Semiotic Symbols keycaps based on Ron Cobb’s futuristic symbols in Alien, cosplayer Jeff set about creating a cyberdeck inspired by the typewriter-like 1985 Epson PX-4 com...",
+        "url": "https://blog.adafruit.com/2026/08/12/alien-typeframe-ps-85-cyberdeck-the-raspberry-pi-official-magazine-issue-167-rpimagazine/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-12T18:30:49+00:00"
+      },
+      {
+        "id": "bb2033491a11",
+        "title": "The Raspberry Pi Official Magazine – Issue 168: Cyberdeck Projects @rpimagazine",
+        "summary": "The Raspberry Pi Official Magazine – Issue 168: Cyberdeck Projects In this issue: We love customising our computer setups – and anything else – so we’re thrilled to find that the cyberdeck has well and truly taken off. These portable, hackable, low-tech computers are the ultimate home-made computers...",
+        "url": "https://blog.adafruit.com/2026/08/12/the-raspberry-pi-official-magazine-issue-168-cyberdeck-projects-rpimagazine/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-12T18:02:35+00:00"
+      },
+      {
+        "id": "4d4736d4e30a",
+        "title": "JP’s Product Pick of the Week 8/11/26 Adafruit FT232H Breakout – USB to GPIO/SPI/I2C",
+        "summary": "If you missed this week’s livestream of John Park’s Product Pick(s) of the Week, not to worry, here’s the video. This week’s pick is the Adafruit FT232H Breakout &#8211; General Purpose USB to GPIO, SPI, I2C &#8211; USB C &#038; Stemma QT! Watch the video to find out about the Adafruit FT232H Breako...",
+        "url": "https://blog.adafruit.com/2026/08/12/jps-product-pick-of-the-week-8-11-26-adafruit-ft232h-breakout-usb-to-gpio-spi-i2c/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-12T17:40:02+00:00"
+      },
+      {
+        "id": "e0ab60378b63",
+        "title": "How the Boogie Board Became One of Summer's Most Popular Toys",
+        "summary": "Fifty-five years ago, surfer Tom Morey cut a piece of polyethylene foam with a carving knife and created a wave-riding board with a low barrier of entry",
+        "url": "https://www.smithsonianmag.com/innovation/how-the-boogie-board-became-one-of-summers-most-popular-toys-180989316/",
+        "source": "Innovation | smithsonianmag.com",
+        "published": "2026-08-12T17:02:02+00:00"
+      },
+      {
+        "id": "4105d1605af0",
+        "title": "How the Other Half Loves review – Alan Ayckbourn’s ingenious farce brings the houses down",
+        "summary": "The Old Vic, London The suburban romp of envy and infidelity in two different homes comes bouncing back to life with a fizzing cast led by Roger AllamEarly in a career that reaches 92 plays with The Trial of Romeo Oscar at his Scarborough home base next month, Alan Ayckbourn often spins titles from ...",
+        "url": "https://www.theguardian.com/stage/2026/aug/12/how-the-other-half-loves-review-old-vic-london-alan-ayckbourn-roger-allam",
+        "source": "Stage | The Guardian",
+        "published": "2026-08-12T17:00:34+00:00"
+      },
+      {
         "id": "e4207539e326",
         "title": "Blind musician Jason Dasent worked with Roland to make a guide for V-STAGE",
         "summary": "Jason Dasent, a blind, UK-based Trinidadian musician, producer, and globally recognized accessibility consultant, has teamed up with the Roland Future Design Lab. The result: a comprehensive accessibility guide to every control, jack, widget, and function on the V-STAGE performance keyboard. More li...",
@@ -885,22 +933,6 @@
         "published": "2026-08-11T19:00:07+00:00"
       },
       {
-        "id": "993046ac62cf",
-        "title": "Wi-Fi Enabled Pico-Powered Neopixel Art Display #ArtTuesday",
-        "summary": "Created by TheFargo on GitHub, The Blossom is an open-source hardware project built around the Raspberry Pi Pico 2W and a NeoPixel ring. It is part art project and part learning tool, the guide is intended to help advance burgeoning makers. Thanks for sharing!! Blossom is a standalone interactive ar...",
-        "url": "https://blog.adafruit.com/2026/08/11/wi-fi-enabled-pico-powered-neopixel-art-display-arttuesday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-11T18:47:54+00:00"
-      },
-      {
-        "id": "d6e4c745b538",
-        "title": "Are You Playa Ready? Burning Man Begins Sunday August 30 2026! #BurningMan2026 #AxisMundi",
-        "summary": "Black Rock City&#8217;s theme for 2026 is Axis Mundi &#8211; Stay connected and centered as you get making! Burning Man 2026 in Black Rock City and beyond will celebrate the interconnectedness of our global community, the new social realities we are creating together, and our enduring ties to the na...",
-        "url": "https://blog.adafruit.com/2026/08/11/are-you-playa-ready-burning-man-begins-sunday-august-30-2026-burningman2026-axismundi/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-11T18:33:08+00:00"
-      },
-      {
         "id": "af6b566103fd",
         "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
         "summary": "AMIE promotional video",
@@ -933,14 +965,6 @@
         "published": "2026-08-11T15:34:05+00:00"
       },
       {
-        "id": "025dcbf7e352",
-        "title": "Search Across 6,308,174 Artworks with The Last Museum",
-        "summary": "image of The Last Museum &#160; The Last Museum is an absolutely massive museum art search engine with the goal to &#8220;index all museum art in the world&#8221;. Much of the art we index is in the public domain. Where works are still under copyright, we show them in accordance with fair use Get se...",
-        "url": "https://blog.adafruit.com/2026/08/11/search-across-6308174-artworks-with-the-last-museum/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-11T14:00:37+00:00"
-      },
-      {
         "id": "9c361c61f14f",
         "title": "Harriet Dyer: Easily Distra … review – how to sell a single shoe on eBay and other stories",
         "summary": "Monkey Barrel, EdinburghA comic on the verge of the big time offers a ‘very silly hour’ around the highways and byways of her lifeA former winner of the Sean Lock award for comic originality, Harriet Dyer richly delivers on that promise of oddity in her latest show, Easily Distra … As its title sugg...",
@@ -955,14 +979,6 @@
         "url": "https://www.cna.com.tw/news/acul/202608110371.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-08-11T13:54:49+00:00"
-      },
-      {
-        "id": "40e853e61d44",
-        "title": "The Coldcard postmortem from MicroPython’s perspective",
-        "summary": "Damien George, MicroPython&#8217;s creator, writes on the MicroPython discussion on GitHub: Coldcard is a Bitcoin hardware wallet, and it&#8217;s firmware is built using MicroPython. (Trezor is another hardware wallet also using MicroPython, but it&#8217;s not relevant here and not discussed further...",
-        "url": "https://blog.adafruit.com/2026/08/11/the-coldcard-postmortem-from-micropythons-perspective/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-11T13:30:16+00:00"
       },
       {
         "id": "3e1809360678",
@@ -1035,14 +1051,6 @@
         "url": "https://www.cna.com.tw/news/acul/202608110119.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-08-11T05:13:41+00:00"
-      },
-      {
-        "id": "caeb4a0c57fb",
-        "title": "Game of Thrones, Shakespearean? What fools these mortals be!",
-        "summary": "The Mad King may bring more dynastic disputes and dotty despots to the RSC – but a ‘mayhap’ or a riddling aphorism does not a Shakespeare play makeAs a latecomer to Game of Thrones, I am struck by how many people tell me it is “very Shakespearean”. It is as if they need to justify its heady escapism...",
-        "url": "https://www.theguardian.com/stage/2026/aug/11/game-of-thrones-the-mad-king-royal-shakespeare-company",
-        "source": "Stage | The Guardian",
-        "published": "2026-08-11T05:00:05+00:00"
       },
       {
         "id": "036d78657fc1",
@@ -2349,14 +2357,6 @@
         "published": "2026-06-17T16:36:51+00:00"
       },
       {
-        "id": "37e16d1b6f10",
-        "title": "Cellphones Were Created to Untether Us. Then They Got Smart and Evolved Into an Omnipotent Appendage",
-        "summary": "One device made it possible to hold a telephone, a watch, a calculator, the mailbox, credit cards, a meteorologist, a television, a detailed map of the globe, millions of songs and books … all in one hand.",
-        "url": "https://www.smithsonianmag.com/innovation/cellphones-were-created-to-untether-us-then-they-got-smart-and-evolved-into-an-omnipotent-appendage-180988882/",
-        "source": "Innovation | smithsonianmag.com",
-        "published": "2026-06-17T11:00:00+00:00"
-      },
-      {
         "id": "5c533f765ad8",
         "title": "社會對立加劇，台大哲學林明照引《莊子》教你溝通",
         "summary": "&#160; 臺大哲學系主任林明照指出，當今的紛擾，正類似春秋戰國時代的「百家爭鳴」。而莊子學說對於當今對立的 [&#8230;]\nThe post 社會對立加劇，台大哲學林明照引《莊子》教你溝通 appeared first on 人文．島嶼.",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-12T17:03:35.685168+00:00"
+        "published": "2026-08-12T19:11:36.568824+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-12T17:03:35.685158+00:00"
+        "published": "2026-08-12T19:11:36.568815+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-12T17:03:35.685147+00:00"
+        "published": "2026-08-12T19:11:36.568805+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-12T17:03:35.685137+00:00"
+        "published": "2026-08-12T19:11:36.568795+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-12T17:03:35.685126+00:00"
+        "published": "2026-08-12T19:11:36.568786+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-12T17:03:35.685115+00:00"
+        "published": "2026-08-12T19:11:36.568776+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-12T17:03:35.685105+00:00"
+        "published": "2026-08-12T19:11:36.568766+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-12T17:03:35.685094+00:00"
+        "published": "2026-08-12T19:11:36.568757+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-12T17:03:35.685084+00:00"
+        "published": "2026-08-12T19:11:36.568746+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-12T17:03:35.685073+00:00"
+        "published": "2026-08-12T19:11:36.568718+00:00"
       },
       {
         "id": "cd9c160c7e9a",
