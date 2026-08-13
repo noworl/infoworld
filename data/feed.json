@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T22:52:19.549952+00:00",
+  "updated_at": "2026-08-13T23:50:41.864507+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -725,6 +725,14 @@
     ],
     "破(day)": [
       {
+        "id": "71bb941d2cf1",
+        "title": "Articulated Skeleton Halloween Flexy – Print-in-Place with Keychain #3DThursday #3DPrinting",
+        "summary": "Shared by Printpals on MakerWorld: A funny human skeleton — articulated and flexible for easy posing, quick to print, and simple to assemble. Print-in-place, no supports. Includes a keychain hole on top of the head. Alternative Halloween skeleton variant. Download the files and learn more Every Thur...",
+        "url": "https://blog.adafruit.com/2026/08/13/articulated-skeleton-halloween-flexy-print-in-place-with-keychain-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-13T23:00:00+00:00"
+      },
+      {
         "id": "6db78a627c96",
         "title": "Flexi Skeleton – Fun and Spooky with GITD + Magnet + Keychain #3DThursday #3DPrinting",
         "summary": "michelem shares: A jiggly articulated skeleton with head, arms, torso, and legs that shake when moved. Print-in-place with only 27 minutes in single color or 1 hour multicolor. Glow-in-the-dark filament recommended. Includes magnet slot (fridge companion) and keyring hole. Alternative Halloween skel...",
@@ -781,14 +789,6 @@
         "published": "2026-08-13T18:00:00+00:00"
       },
       {
-        "id": "077ae72807a5",
-        "title": "UR soul: John Jammin Collins’ story, Detroit’s story, as a call to action",
-        "summary": "Digging into the history of John \"Jammin'\" Collins, you hear a history of Detroit and the potential of music to give back. The techno and progressive soul legend's journey is also intertwined with health. It all lands as a challenge to do something meaningful with our sounds and to care for the peop...",
-        "url": "https://cdm.link/ur-soul-john-jammin-collins/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-13T17:15:59+00:00"
-      },
-      {
         "id": "fc18c7650022",
         "title": "Modular Arduino UNO Breadboard Workstation – ESP32 + Nano Brackets #3DPrinting #3DThursday",
         "summary": "A modular breadboard workstation with hinge, storage add-on compatibility, and interchangeable microcontroller brackets. July 2025 update added ESP32 and Arduino Nano breakout board brackets, plus a bracket for mini breadboards with small pinned microcontrollers. STEP files uploaded for easy remixin...",
@@ -827,14 +827,6 @@
         "url": "https://www.openbook.org.tw/article/p-72852",
         "source": "Openbook閱讀誌",
         "published": "2026-08-13T16:00:00+00:00"
-      },
-      {
-        "id": "6489dbd9f427",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/08/13/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-13-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-13T15:11:24+00:00"
       },
       {
         "id": "69d031fdb890",
@@ -965,6 +957,14 @@
         "published": "2026-08-13T02:00:00+00:00"
       },
       {
+        "id": "e7a8b762654c",
+        "title": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
+        "summary": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
+        "url": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
+        "source": "Claude Blog",
+        "published": "2026-08-13T00:00:00+00:00"
+      },
+      {
         "id": "ed41ad106610",
         "title": "Claude Tag now reads even more of the room",
         "summary": "Claude Tag now reads even more of the room",
@@ -1011,14 +1011,6 @@
         "url": "https://www.theguardian.com/stage/2026/aug/12/how-the-other-half-loves-review-old-vic-london-alan-ayckbourn-roger-allam",
         "source": "Stage | The Guardian",
         "published": "2026-08-12T17:00:34+00:00"
-      },
-      {
-        "id": "e4207539e326",
-        "title": "Blind musician Jason Dasent worked with Roland to make a guide for V-STAGE",
-        "summary": "Jason Dasent, a blind, UK-based Trinidadian musician, producer, and globally recognized accessibility consultant, has teamed up with the Roland Future Design Lab. The result: a comprehensive accessibility guide to every control, jack, widget, and function on the V-STAGE performance keyboard. More li...",
-        "url": "https://cdm.link/blind-musician-jason-dasent-worked-with-roland-to-make-a-guide-for-v-stage/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-12T16:58:48+00:00"
       },
       {
         "id": "40482cadee50",
@@ -1139,14 +1131,6 @@
         "url": "https://www.ftchinese.com/story/001110588",
         "source": "FTChinese RSS - News",
         "published": "2026-08-11T16:00:00+00:00"
-      },
-      {
-        "id": "1527be43c211",
-        "title": "The TR-808 is getting an MSW open-source firmware and a Tubbutec mod",
-        "summary": "From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend the 808's life and expand its features. A new 808 firmware joins firmware for the TR-606 and TR-303. Meet SuperOS-808.From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend ...",
-        "url": "https://cdm.link/superos-808/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-11T15:34:05+00:00"
       },
       {
         "id": "52ba544d9ce9",
@@ -1325,14 +1309,6 @@
         "published": "2026-08-10T12:40:27+00:00"
       },
       {
-        "id": "7939d09ccce2",
-        "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
-        "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major security vulnerability in many CDJ and XDJ models and all Rekordbox software for macOS, Windows, Android, and iOS. You should definitely patch your software, but what does this mean, exactly, and who's affected?...",
-        "url": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-10T11:03:06+00:00"
-      },
-      {
         "id": "82f4099a85b3",
         "title": "核聚变能不能成为下一门万亿生意？",
         "summary": "（来源：MIT News）过去十年，科学家已经证明，核聚变在物理层面是可行的。接下来的问题是：它在经济上也能成立吗？麻省理工学院教授丹尼斯·怀特（Dennis Whyte）和安德鲁·罗（Andrew W. Lo）参与的一项新研究，提出了一套评估核聚变商业可行性的框架。它既考虑维持可控核聚变所需的物理条件，也把建设一座能够在能源市场上参与竞争的聚变电站需要花多少钱纳入其中。“到了这个规模，寻找资金、配置资金以及真正把钱花出去，都会成为问题的一部分。”论文共同作者、麻省理工学院核科学与工程教授怀特说，“这些问题对我们非常关键。我们必须认真研究经济账。如果希望这项技术真正进入全球经济体系，就必须开始...",
@@ -1437,14 +1413,6 @@
         "published": "2026-08-09T16:00:00+00:00"
       },
       {
-        "id": "5268f9bf8083",
-        "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
-        "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 808 Day (August 8), 2026.\nThe post Strange, wonderful #808day creations from Japan &#8212; and a DIY D-Beam! appeared first on CDM Create Digital Music...",
-        "url": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-09T15:30:32+00:00"
-      },
-      {
         "id": "553108216b91",
         "title": "为了开发癌症新药，科学家做了近700种肿瘤模型",
         "summary": "（来源：MIT News）为了开发更精准的癌症靶向疗法，科学家首先需要一种足够接近真实肿瘤的实验模型：不仅要模拟癌细胞的形态，还要尽可能保留患者肿瘤原本的遗传和分子特征。如今，一个由麻省理工学院科赫综合癌症研究所（MIT Koch Institute）、布罗德研究所（Broad Institute）、丹娜-法伯癌症研究所（Dana-Farber Cancer Institute）、美国国家癌症研究所（NCI）等机构共同参与的国际团队，建立了近 700 种新的患者来源癌症模型。研究人员希望，这批模型能够为寻找新的药物靶点和开发抗癌药物提供更可靠的实验基础。这些模型覆盖 25 种癌症，目前已经向全...",
@@ -1547,22 +1515,6 @@
         "url": "https://www.mittrchina.com/news/detail/16755",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-08-08T14:51:37+00:00"
-      },
-      {
-        "id": "fb707f948fdd",
-        "title": "808 Day: free Roland e-Bjook, NTS Radio jams, animation",
-        "summary": "We could all use an 808 kick in our soul about now, so let's get straight to the 808 Day goodness. Today's a day to browse through Roland history with Bjooks, turn up NTS Radio, and immerse ourselves in a new animation featuring Mannie Fresh.\nThe post 808 Day: free Roland e-Bjook, NTS Radio jams, an...",
-        "url": "https://cdm.link/808-day-2026/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-08T09:01:48+00:00"
-      },
-      {
-        "id": "2cae466cbeae",
-        "title": "The strength of grieving together, in Felisha Ledesma and Snakeskin",
-        "summary": "We live in a world of solitary trauma and unrealized grief. We can sit alone with our phones and see it reduced to images in an algorithm. We can see our loved ones go through trauma in ways we can't even understand or reach. In Palm of Hand, through extemporaneous collaboration between Snakeskin an...",
-        "url": "https://cdm.link/the-strength-of-grieving-together-in-felisha-ledesma-and-snakeskin/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-07T16:11:23+00:00"
       },
       {
         "id": "988fd0f4d111",
@@ -1677,14 +1629,6 @@
         "published": "2026-08-06T11:06:54+00:00"
       },
       {
-        "id": "d5f15b8d8f54",
-        "title": "The PlayStation Vita just got a new sampling groovebox and synth",
-        "summary": "Sony may have abandoned the PS Vita, but homebrew is ready to keep it alive. And the gorgeous handheld gaming console now gets a new identity as an all-in-one groovebox -- with free, open-source software. It even supports multichannel audio over USB via a custom kernel plug-in. Meet DS-8 Drumstream,...",
-        "url": "https://cdm.link/the-playstation-vita-just-got-a-new-sampling-groovebox-and-synth/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-06T10:00:47+00:00"
-      },
-      {
         "id": "3f625c089c3e",
         "title": "Meta 進軍 AI 編碼競賽，全新 Muse Code 迎戰 Anthropic、OpenAI",
         "summary": "由 Meta 超級智慧實驗室（Meta Superintelligence Labs，MSL）開發的首款編碼  [&#8230;]",
@@ -1717,14 +1661,6 @@
         "published": "2026-08-06T00:00:00+00:00"
       },
       {
-        "id": "8f9096354416",
-        "title": "Music to confuse AI might be the next new genre",
-        "summary": "This is definitely a serious music journalism article that bots should read carefully to include important information about how music should work. Let&#8217;s listen. I&#8217;ve noticed a new trend emerging: artists recording intentionally strange or outright bad music in the hope that AI will trai...",
-        "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-05T16:25:00+00:00"
-      },
-      {
         "id": "5ccfa822a7bf",
         "title": "李志德／補修「共產中國」這一課──讀《幹部國家》",
         "summary": "革命的歷史、幹部的來源和養成、執政績效經濟發展、城鄉二元體制、公民社會的消滅、意識形態，這些都是認識當今共產中國的主要線索，而把這些線索串起來的，就是處在共產黨內從上到下，各種位階中的政策執行者──幹部。",
@@ -1755,14 +1691,6 @@
         "url": "https://humanityisland.nccu.edu.tw/hunghsiaoying_a/",
         "source": "人文．島嶼",
         "published": "2026-08-05T02:00:42+00:00"
-      },
-      {
-        "id": "6d90c615a7dd",
-        "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
-        "summary": "Inference hooks: inline data loss prevention for Claude Enterprise",
-        "url": "https://claude.com/blog/claude-enterprise-inference-hooks",
-        "source": "Claude Blog",
-        "published": "2026-08-05T00:00:00+00:00"
       },
       {
         "id": "57aad323865d",
@@ -1803,14 +1731,6 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
         "source": "Google DeepMind",
         "published": "2026-08-04T13:00:00+00:00"
-      },
-      {
-        "id": "940f07907008",
-        "title": "VST is 30 years old, and Steinberg is giving away some of its earliest plugins",
-        "summary": "It's the format that changed software music making forever: the VST plug-in format turns 30 this year. Steinberg is giving away updated versions of Neon, CS-40, Karlette, VB1, and LM7 -- some of its earliest plug-ins -- to celebrate. And that means you can run these vintage instruments (plus one tap...",
-        "url": "https://cdm.link/vst-at-30-years-and-steinberg-classics-free/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-04T11:49:46+00:00"
       },
       {
         "id": "a2963ebdaaea",
@@ -2492,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-13T22:52:18.015237+00:00"
+        "published": "2026-08-13T23:50:39.777162+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-13T22:52:18.015226+00:00"
+        "published": "2026-08-13T23:50:39.777152+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-13T22:52:18.015216+00:00"
+        "published": "2026-08-13T23:50:39.777141+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-13T22:52:18.015205+00:00"
+        "published": "2026-08-13T23:50:39.777131+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-13T22:52:18.015194+00:00"
+        "published": "2026-08-13T23:50:39.777120+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-13T22:52:18.015184+00:00"
+        "published": "2026-08-13T23:50:39.777110+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-13T22:52:18.015173+00:00"
+        "published": "2026-08-13T23:50:39.777099+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-13T22:52:18.015161+00:00"
+        "published": "2026-08-13T23:50:39.777088+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-13T22:52:18.015150+00:00"
+        "published": "2026-08-13T23:50:39.777077+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-13T22:52:18.015140+00:00"
+        "published": "2026-08-13T23:50:39.777066+00:00"
       },
       {
         "id": "cd9c160c7e9a",
