@@ -1,7 +1,71 @@
 {
-  "updated_at": "2026-08-14T06:19:48.160933+00:00",
+  "updated_at": "2026-08-14T08:22:07.754732+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "fbb94a8ea0d9",
+        "title": "雷雨影響　松山機場暫停地面作業",
+        "summary": "（中央社記者黃巧雯台北14日電）受雷雨當空影響，民航局今天表示，松山機場下午3時32分起，暫停地面作業，部分航班可能因此延誤。",
+        "url": "https://www.cna.com.tw/news/ahel/202608140184.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-14T07:54:46+00:00"
+      },
+      {
+        "id": "18575f001c0a",
+        "title": "教育部開辦EMT訓練　77名中小學人員學緊急傷病處理",
+        "summary": "（中央社記者陳至中台北14日電）教育部近日開辦EMT-1（初級救護技術員）訓練，77名中小學人員參與，在8天共計56小時的課程中，學習緊急傷病處理技術，並於課程結束後進行學科和術科測驗，取得正式資格。",
+        "url": "https://www.cna.com.tw/news/ahel/202608140176.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-14T07:32:29+00:00"
+      },
+      {
+        "id": "982864822415",
+        "title": "女子腳部受傷換藥半年未癒合　糖尿病引發神經性潰瘍惹禍",
+        "summary": "（中央社記者張榮祥台南14日電）60歲吳姓女子在家中赤腳行走踩到尖銳物受傷，看診換藥半年卻未癒合，另就醫檢查確認是糖尿病引發神經性潰瘍，接受糖尿病治療後潰瘍才逐漸癒合。",
+        "url": "https://www.cna.com.tw/news/ahel/202608140163.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-14T07:12:01+00:00"
+      },
+      {
+        "id": "0238c9d0fa16",
+        "title": "外包救護車遭爆接連延誤療養院患者送醫　衛福部將檢視要求改善",
+        "summary": "（中央社記者沈佩瑤台北14日電）嘉南療養院有醫師揭露，院內接連2起患者命懸一線事件，但院方事後卻未檢討「外包救護車為何延誤逾1小時」原因。衛福部今天表示，下週到嘉南療養院進行檢視、要求改善。",
+        "url": "https://www.cna.com.tw/news/ahel/202608140160.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-14T07:04:55+00:00"
+      },
+      {
+        "id": "3e8d26001d67",
+        "title": "高雄道明外僑學校新校舍落成　南台灣國際教育翻新頁",
+        "summary": "（中央社記者林巧璉高雄14日電）高雄市私立道明外僑學校成立逾70年，今天舉行新校舍落成典禮，校方表示，新校舍升級學術、藝術及體育教學空間，象徵南台灣國際教育邁入新階段。",
+        "url": "https://www.cna.com.tw/news/ahel/202608140151.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-14T06:45:35+00:00"
+      },
+      {
+        "id": "72cbdd9bf881",
+        "title": "國立臺灣科學教育館：2026/6/19-9/28【anna & daniel 特展：A World of Wonder 奇想世界】",
+        "summary": "在現今AI製圖氾濫的數位時代，來自西班牙的Anna &#38; Daniel逆向而行，拒絕AI生成，堅持實景拍 [&#8230;]",
+        "url": "https://www.tmaroc.org.tw/1150814-3/",
+        "source": "最新消息 – 中華民國博物館學會",
+        "published": "2026-08-14T06:38:39+00:00"
+      },
+      {
+        "id": "e7f5290aa595",
+        "title": "台中上班族喝牛奶助眠3個月蛀7顆牙　罹猛爆性齲齒",
+        "summary": "（中央社記者蘇木春台中14日電）台中一女性上班族常睡前喝牛奶助眠卻未清潔口腔，檢查發現7顆蛀牙，確診「猛爆性齲齒」，治療與衛教後恢復狀況良好。醫師提醒成人改善潔牙習慣重要性，並應定期檢查。",
+        "url": "https://www.cna.com.tw/news/ahel/202608140144.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-14T06:18:20+00:00"
+      },
+      {
+        "id": "46f19ef01daa",
+        "title": "國際慰安婦紀念日　婦援會籲設國家級婦女人權館",
+        "summary": "（中央社記者吳欣紜台北14日電）國際慰安婦紀念日，婦女救援基金會今天追悼已逝去的59名台籍慰安婦，也呼籲政府依照響應CEDAW國際審議結論性意見，儘速籌備成立國家級婦女人權博物館等。",
+        "url": "https://www.cna.com.tw/news/ahel/202608140138.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-14T06:06:07+00:00"
+      },
       {
         "id": "bdf9e482ebcf",
         "title": "原住民族委員會原住民族文化發展中心：2026/7/11-9/13 【《人之粗》－善萊歐海個展】",
@@ -11,36 +75,36 @@
         "published": "2026-08-14T05:58:33+00:00"
       },
       {
+        "id": "dc03fdf7b921",
+        "title": "感謝尹衍樑捐21億支持 北榮設立紀念銘牌",
+        "summary": "（中央社記者沈佩瑤台北14日電）感念潤泰總裁尹衍樑生前斥資逾21億元支持，北榮今天舉行紀念銘牌揭牌儀式。院長陳威明緬懷，尹衍樑留下的不僅是重要醫療建設，更是重視生命、關懷醫護、成就人才的精神。",
+        "url": "https://www.cna.com.tw/news/ahel/202608140133.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-14T05:56:56+00:00"
+      },
+      {
+        "id": "6f4e0b7d2d7b",
+        "title": "日本千葉豪雨影響旅客搭機　台灣虎航：成田3航班免費改期或退款",
+        "summary": "（中央社記者黃巧雯台北14日電）日本千葉豪雨影響成田機場聯外交通，台灣虎航公告，受影響3航班旅客，可至成田櫃檯，7日內若有位，免費改期，或16日晚間9時前聯繫客服改期或退款至信用帳戶（代金券）內。",
+        "url": "https://www.cna.com.tw/news/ahel/202608140125.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-14T05:43:39+00:00"
+      },
+      {
+        "id": "9bced04580ec",
+        "title": "食藥署邀業者交流苦茶油致癌原因  建議留籽殼焙炒",
+        "summary": "（中央社記者沈佩瑤台北14日電）已有7家製油廠的苦茶油產品，檢出致癌物苯駢芘超標。食藥署近日與60家業者交流，農業部會中建議應「保留籽殼焙炒」以作為熱緩衝，或將去殼焙炒溫度控制在攝氏180度以下。",
+        "url": "https://www.cna.com.tw/news/ahel/202608140122.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-14T05:32:33+00:00"
+      },
+      {
         "id": "41d24c120d24",
         "title": "DNA Lounge: Nuda + Sine (2026-08-12d)",
         "summary": "Performing Live: NUDA SINE With DJ: Melting Girl Nuda is a solo darkwave/industrial artist based in Seattle, Washington. She brings instrumental soundscapes with a feminine touch to industrial music. Nuda's live performances feature guest vocalists and light shows that blend together an immersive ex...",
         "url": "https://archive.org/details/DNALOUNGE-2026-08-12d",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-14T05:04:42+00:00"
-      },
-      {
-        "id": "6995a994b3ac",
-        "title": "轉型正義補課第8堂上線　探原民視角的白色恐怖",
-        "summary": "（中央社記者陳至中台北14日電）教育部「補課了沒？」人權及轉型正義教育專區今天推出第8堂課程，從原住民族視角切入，帶領民眾認識戰後威權統治下，政治迫害與污名如何影響家庭、部落與族群文化。",
-        "url": "https://www.cna.com.tw/news/ahel/202608140088.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-14T03:55:17+00:00"
-      },
-      {
-        "id": "de80df006b75",
-        "title": "伊波拉疫情延燒  疾管署將討論延長入境管制",
-        "summary": "（中央社記者沈佩瑤台北14日電）民主剛果伊波拉（Ebola）疫情延燒，已逾2000死，台灣邊境針對民主剛果、烏干達入境者提供免費採檢措施，原訂至8月30日止。疾管署今天說，21日將跨部會討論是否再延長。",
-        "url": "https://www.cna.com.tw/news/ahel/202608140084.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-14T03:47:08+00:00"
-      },
-      {
-        "id": "c91ccd200680",
-        "title": "校事會議改革　全中教建議分4級縣市設專審會",
-        "summary": "（中央社記者陳至中台北14日電）校園濫訴議題備受關注，立法院7月27日退回校事會議相關辦法。全中教今天發布聲明，建議依案件輕重分成4級，涉及不適任的案件交由縣市主責的專審會調查和處理。",
-        "url": "https://www.cna.com.tw/news/ahel/202608140075.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-14T03:30:49+00:00"
       },
       {
         "id": "a2e3d4a5982f",
@@ -75,22 +139,6 @@
         "published": "2026-08-14T03:10:38+00:00"
       },
       {
-        "id": "03b88a0a734b",
-        "title": "大專腦麻肢障學生夏令營　走讀台南、高雄景點",
-        "summary": "（中央社記者陳至中台北14日電）教育部近期舉辦大專校院腦性麻痺及肢體障礙學生成長夏令營，安排走讀高雄市、台南市景點，參與平常較難以從事的教育文化體驗，鼓勵自主生活並透過團隊合作解決問題。",
-        "url": "https://www.cna.com.tw/news/ahel/202608140057.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-14T03:09:11+00:00"
-      },
-      {
-        "id": "5f98ca188af3",
-        "title": "台灣肖楠剩餘資材再利用  林試所開發精油、香粉",
-        "summary": "（中央社記者汪淑芬台北14日電）農業部林業試驗所推綠色循環經濟，希望原本視為廢棄物的森林剩餘資材能有新價值，研究台灣肖楠剩餘資材再利用，成功開發出精油、香粉、塔香等多元產品，為林業永續開創新機。",
-        "url": "https://www.cna.com.tw/news/ahel/202608140055.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-14T03:04:07+00:00"
-      },
-      {
         "id": "ef0e57d3de7c",
         "title": "1LIVE DJ Session (25.07.2026)",
         "summary": "complete and full detailed tracklist here My hearthis.at uploads under the alias djsets4u.This item belongs to: audio/saviour1981mixes.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
@@ -115,22 +163,6 @@
         "published": "2026-08-14T03:00:22+00:00"
       },
       {
-        "id": "d53390cc0f7c",
-        "title": "旅宿業首批海外技術人力來了　晶華取得37名聘僱許可",
-        "summary": "（中央社記者吳欣紜台北14日電）解決產業缺工，政府開放海外引進旅宿業外國技術人力，勞動部今天說，台北晶華酒店已取得首批37名印尼籍外國技術人力聘僱許可，後續可辦理引進，成為旅宿業首例。",
-        "url": "https://www.cna.com.tw/news/ahel/202608140050.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-14T02:52:56+00:00"
-      },
-      {
-        "id": "d3df55246fb0",
-        "title": "麥當勞公布揚蝦堡退款　9/30前原購買餐廳受理申請",
-        "summary": "（中央社記者黃巧雯台北14日電）台灣麥當勞海味揚蝦堡及海味雙層揚蝦堡因檢出硝基呋喃及其代謝物 （人工合成抗生素），昨天暫停販售，業者今天公布退款方式，即日起至9月30日，原購買餐廳受理退款申請。",
-        "url": "https://www.cna.com.tw/news/ahel/202608140048.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-14T02:50:52+00:00"
-      },
-      {
         "id": "344af6983f8e",
         "title": "MDR SPUTNIK dein Abend (24.07.2026)",
         "summary": "Mit Musik von Jack Dean, Teddy Swims, Nina Caroline, Glockenbach & Sam Harper und vielen anderen Hier sind die Musikfreunde zuhause.This item belongs to: audio/saviour1981mixes.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VB...",
@@ -145,30 +177,6 @@
         "url": "https://archive.org/details/mdr-sputnik-heimspiel-24.07.2026",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-14T02:40:09+00:00"
-      },
-      {
-        "id": "1d64050a506e",
-        "title": "國寶「龍藏經」整套108函  117年底移故宮南院典藏",
-        "summary": "（中央社記者蔡智明嘉義縣14日電）近期故宮北院「龍藏經：皇權‧信仰‧藝術的盛世交響」特展受到熱烈歡迎，故宮南院今天說，117年底南院二館落成後，「龍藏經」整套108函將全數移至南院典藏。",
-        "url": "https://www.cna.com.tw/news/acul/202608140044.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-14T02:34:43+00:00"
-      },
-      {
-        "id": "999f369fd3d2",
-        "title": "雙北等4縣市防高溫　吳德榮：中部以北午後防雷陣雨",
-        "summary": "（中央社記者黃巧雯台北14日電）氣象署發布高溫資訊，雙北等4縣市防36度以上高溫。氣象專家吳德榮表示，今、明天仍受西南風及其從南海輸送水氣影響，西南部有局部降雨，中部以北午後防雷陣雨，有較大雨勢。",
-        "url": "https://www.cna.com.tw/news/ahel/202608140024.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-14T00:39:59+00:00"
-      },
-      {
-        "id": "b03a1820dfdf",
-        "title": "民主剛果6省分爆伊波拉疫情　人道組織憂擴及南蘇丹",
-        "summary": "（中央社金夏沙13日綜合外電報導）非洲中部國家剛果民主共和國（民主剛果）的伊波拉（Ebola）疫情如今已造成2000多人死亡，並擴散至第6個省份。人道組織憂心這波疫情可能波及南蘇丹。",
-        "url": "https://www.cna.com.tw/news/aopl/202608140010.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-13T20:20:23+00:00"
       },
       {
         "id": "2edd0cfddbb1",
@@ -321,14 +329,6 @@
         "url": "https://www.musicofsound.co.nz/blog/detritus-836",
         "source": "Music of Sound",
         "published": "2026-07-29T23:40:16+00:00"
-      },
-      {
-        "id": "a32e941d5e3a",
-        "title": "郵政博物館：2026/8/15-2027/3/7【《方寸食光-美食郵票》特展】",
-        "summary": "在小小的方寸裡，藏著來自世界各地的美味! 《方寸食光》帶您穿梭臺灣、亞洲與世界的味覺記憶。從熟悉的街頭滋味，到 [&#8230;]",
-        "url": "https://www.tmaroc.org.tw/1150729-4/",
-        "source": "最新消息 – 中華民國博物館學會",
-        "published": "2026-07-29T09:32:54+00:00"
       },
       {
         "id": "7c3afc0f01d8",
@@ -513,6 +513,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "41985f054415",
@@ -725,6 +805,14 @@
     ],
     "破(day)": [
       {
+        "id": "5985b3f118a8",
+        "title": "Dear Michelle Kwan review – fire and ice in a whirlwind figure-skating comedy",
+        "summary": "theSpace Triplex, EdinburghFour skaters enter into feral competition in this darkly funny yet flimsily plotted play about female teenhoodThe title refers to the figure-skating legend and Olympian who, in the noughties, captivated the US with her performances on ice, winning a total of five world cha...",
+        "url": "https://www.theguardian.com/stage/2026/aug/14/dear-michelle-kwan-review-thespace-triplex-edinburgh",
+        "source": "Stage | The Guardian",
+        "published": "2026-08-14T04:00:18+00:00"
+      },
+      {
         "id": "1d64050a506e",
         "title": "國寶「龍藏經」整套108函  117年底移故宮南院典藏",
         "summary": "（中央社記者蔡智明嘉義縣14日電）近期故宮北院「龍藏經：皇權‧信仰‧藝術的盛世交響」特展受到熱烈歡迎，故宮南院今天說，117年底南院二館落成後，「龍藏經」整套108函將全數移至南院典藏。",
@@ -858,6 +946,14 @@
         "summary": "你曾因為一篇訪談而迫切想讀某本書嗎？通通編看了本周唐墨訪問白樵母子的專文後，此刻正無比渴望著把文章裡提到的作品都看一次。（想薪偷看書的那種渴望&gt;&lt;這句不能讓總編看見）\n訪談中母子的對話讓人產生了更多的疑惑好奇，關於白樵，關於陳姐，關於巴黎一個月……像是有個鉤子在每一段對話裡向下勾住我的神智與身體，期待著真正讀完作品後，能被一把釣起上岸。母子倆人站立在彼此身前身後的訪談照也讓人恍忽，擁抱是親密的，對話是赤裸的：\n「一直到死亡來臨嗎？那你已經很有經驗了嘛，一回生二回熟，是吧！」\n讀白樵之前，請看看訪談，帶著困惑進入他的世界，讀白樵之後，請看看訪談，看他一部份的血肉長出來的地方。\n\n【封...",
         "url": "https://www.openbook.org.tw/article/p-72852",
         "source": "Openbook閱讀誌",
+        "published": "2026-08-13T16:00:00+00:00"
+      },
+      {
+        "id": "5f0372ea8041",
+        "title": "推介《臺灣漫遊錄》等臺灣好書登陸釜山! 國圖捐贈釜山市立圖書館Taiwan Corner",
+        "summary": "推介《臺灣漫遊錄》等臺灣好書登陸釜山! 國圖捐贈釜山市立圖書館Taiwan Corner,國家圖書館於釜山當地時間2026年8月14日在釜山市立圖書館（Busan Metropolitan Library）舉行Taiwan Corner捐贈儀式，贈送100種優質圖書予該館，由代理館長翁誌聰親赴主持，...",
+        "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q226515529964650139",
+        "source": "國家圖書館",
         "published": "2026-08-13T16:00:00+00:00"
       },
       {
@@ -1075,14 +1171,6 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q225653178469573283",
         "source": "國家圖書館",
         "published": "2026-08-12T16:00:00+00:00"
-      },
-      {
-        "id": "a9ab0a9be3c8",
-        "title": "Death Note: The Musical review – wildly popular manga mystery is a killer night out",
-        "summary": "Barbican, LondonThe multi-platform phenomenon makes its way to the stage, with all the supernatural hijinks, J-horror tropes and emotional intensity intactWe know that people like to dress up for the theatre, but some of the crowd at Death Note: The Musical take it to a whole other level. Coiffured ...",
-        "url": "https://www.theguardian.com/stage/2026/aug/12/death-note-the-musical-review-wildly-popular-manga-mystery-is-a-killer-night-out",
-        "source": "Stage | The Guardian",
-        "published": "2026-08-12T15:42:10+00:00"
       },
       {
         "id": "e26f8fe5237d",
@@ -1789,14 +1877,6 @@
         "published": "2026-08-04T16:00:00+00:00"
       },
       {
-        "id": "a204609b786c",
-        "title": "青年學者養成營南部場開跑　從好奇心出發探索研究世界",
-        "summary": "青年學者養成營南部場開跑 從好奇心出發探索研究世界,國家圖書館「115年青年學者養成營」第三場活動於8月5日在國立臺南大學正式展開。來自南臺灣各地的高中生齊聚臺南，展開為期三天的研究探索之旅，透過專題演講、研究資源、研究方法、學術論文寫作及小組實作等課程，引導青年學子從生活中的好奇心出發，學習提出研...",
-        "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q217732623358216309",
-        "source": "國家圖書館",
-        "published": "2026-08-04T16:00:00+00:00"
-      },
-      {
         "id": "a344aff3b707",
         "title": "American Women Fight for Their Own Independence",
         "summary": "The Declaration of Independence inspired many American women to demand their rights, a movement that picked up cultural resonance after the nation’s first women’s rights convention in Seneca Falls, New York, in July 1848. By the 100th anniversary of the nation's independence, leaders such as Susan B...",
@@ -2492,7 +2572,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-14T06:19:46.082297+00:00"
+        "published": "2026-08-14T08:22:05.678128+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2580,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-14T06:19:46.082287+00:00"
+        "published": "2026-08-14T08:22:05.678093+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2588,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-14T06:19:46.082276+00:00"
+        "published": "2026-08-14T08:22:05.678082+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2596,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-14T06:19:46.082265+00:00"
+        "published": "2026-08-14T08:22:05.678069+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2604,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-14T06:19:46.082255+00:00"
+        "published": "2026-08-14T08:22:05.678058+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2612,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-14T06:19:46.082244+00:00"
+        "published": "2026-08-14T08:22:05.678048+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2620,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-14T06:19:46.082234+00:00"
+        "published": "2026-08-14T08:22:05.678037+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2628,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-14T06:19:46.082223+00:00"
+        "published": "2026-08-14T08:22:05.678027+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2636,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-14T06:19:46.082213+00:00"
+        "published": "2026-08-14T08:22:05.678017+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2644,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-14T06:19:46.082202+00:00"
+        "published": "2026-08-14T08:22:05.678007+00:00"
       },
       {
         "id": "c74b255a8192",
