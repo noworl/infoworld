@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-08-15T09:32:15.800998+00:00",
+  "updated_at": "2026-08-15T10:29:44.382119+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "b96e1197d5e1",
+        "title": "全台10家農漁會合體扎根都會　把產地帶進台北童樂會",
+        "summary": "（中央社記者吳欣紜台北15日電）外貿協會與安得烈慈善協會共同主辦2026台北童樂會，農訓協會號召集結10家指標性農漁會跨界連線，將農漁業推廣教育直接搬進南港展覽館，呈現「從產地到餐桌」永續價值。",
+        "url": "https://www.cna.com.tw/news/ahel/202608150166.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-15T09:57:51+00:00"
+      },
+      {
+        "id": "e98643b47bb8",
+        "title": "高鐵擬2027年7月提票價調整方案　最快2028年9月後實施",
+        "summary": "（中央社記者黃巧雯高雄15日電）高鐵首部N700ST今抵台，董事長史哲向交通部長陳世凱提出，明年7月新車上線後將檢討20年未調票價。陳世凱說，須讓民眾坐到滿意再討論。據了解，新票價最快2028年9月後實施。",
+        "url": "https://www.cna.com.tw/news/ahel/202608150163.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-15T09:54:45+00:00"
+      },
+      {
+        "id": "8d6761315133",
+        "title": "瘦瘦針治嚴重脂肪肝  台大醫院長促納健保",
+        "summary": "（中央社記者沈佩瑤台北15日電）除了B、C肝是罹患肝癌主因，台大醫院院長余忠仁今天以「峰迴路轉」形容脂肪肝問題越來越嚴重，若未妥善控制，恐增肝癌風險，籲「瘦瘦針」用於治療嚴重脂肪肝，納健保給付。",
+        "url": "https://www.cna.com.tw/news/ahel/202608150143.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-15T09:23:01+00:00"
+      },
+      {
+        "id": "f9fda213b71a",
+        "title": "未來一週西南風及低壓帶影響　各地留意雨勢",
+        "summary": "（中央社記者余曉涵台北15日電）交通部中央氣象署今天表示，明天受到西南風影響，嘉義以南仍有局部陣雨，17日至20日受到低壓帶影響，南部及東半部有局部降雨，午後西半部、東半部山區有明顯的午後雷陣雨。",
+        "url": "https://www.cna.com.tw/news/ahel/202608150141.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-15T09:16:56+00:00"
+      },
+      {
+        "id": "26b2975f2df8",
+        "title": "中油：17日起汽柴油價格不調整　95無鉛維持32元",
+        "summary": "（中央社記者曾筠庭台北15日電）中東情勢持續動盪，國際油價波動上漲。台灣中油公司今天宣布，自17日凌晨零時起至8月23日晚上12時止，汽、柴油價格維持不調整。",
+        "url": "https://www.cna.com.tw/news/ahel/202608150140.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-15T09:11:52+00:00"
+      },
+      {
+        "id": "ec2f7aaa2774",
+        "title": "高鐵首組新車抵台明年7月開始載客　史哲預告檢討20年未調票價",
+        "summary": "（中央社記者黃巧雯高雄15日電）高鐵首組N700ST今抵台，董事長史哲曾說待新車導入成功、乘車品質改善，將檢討舊車汰舊換新，他表示，明年7月1日新車上線後，將檢討20年未調整票價，前提是讓大家坐得爽快。",
+        "url": "https://www.cna.com.tw/news/ahel/202608150125.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-15T07:59:17+00:00"
+      },
+      {
+        "id": "5f2b24edef30",
+        "title": "職場霸凌防治專章上路首月　雇主通報223案",
+        "summary": "（中央社記者吳欣紜台北15日電）職業安全衛生法增訂職場霸凌防治專章，新制上路首月，統計顯示，雇主已通報223案；勞動部提醒，雇主接獲勞工申訴就須通報，若屢犯違規可罰新台幣3萬元至75萬元。",
+        "url": "https://www.cna.com.tw/news/ahel/202608150115.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-15T07:10:55+00:00"
+      },
       {
         "id": "dea724dbac4d",
         "title": "棉頭絹猴步道欄杆間穿梭　北市動物園籲遊客遵守3不原則",
@@ -12,7 +68,7 @@
       },
       {
         "id": "25da02e84ee9",
-        "title": "已8家苦茶油苯駢芘超標　食藥署9月起進廠輔導",
+        "title": "苦茶油苯駢芘超標累計8家　食藥署9月起進廠輔導",
         "summary": "（中央社記者沈佩瑤台北15日電）再新增1家苦茶油苯駢芘超標，目前全台已8家製油廠上榜，遍及新北、嘉義等縣市。食藥署今天表示，除連辦2場與業者交流會，預計9月啟動進廠輔導，這8家為優先輔導對象。",
         "url": "https://www.cna.com.tw/news/ahel/202608150099.aspx",
         "source": "中央社即時新聞 生活醫藥",
@@ -35,68 +91,12 @@
         "published": "2026-08-15T05:20:16+00:00"
       },
       {
-        "id": "2305ac3e25c4",
-        "title": "教育部估大學新生平均每年減少3400人　130學年剩15.1萬人",
-        "summary": "（中央社記者陳至中台北15日電）台灣持續面臨少子女化衝擊，教育部近期公布最新學生數預測，目前大學新生20.5萬人，預估未來16個學年平均每年減少3400人，130學年度剩下15.1萬人。",
-        "url": "https://www.cna.com.tw/news/ahel/202608150080.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-15T04:55:37+00:00"
-      },
-      {
         "id": "e40875c2b6ac",
         "title": "03.2 If You Liked It Then You Should Have Put A (sect Robe) On It",
         "summary": "Wangxian, Podfic.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/03.2-if-you-liked-it-then-you-should-have-put-a-sect-robe-on-it_202608",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-15T04:33:24+00:00"
-      },
-      {
-        "id": "a51e8b03518c",
-        "title": "西南風加午後對流發展　13縣市大雨特報",
-        "summary": "（中央社記者余曉涵台北15日電）西南風影響加上午後對流發展旺盛，中央氣象署今天針對13縣市發布大雨特報，提醒民眾留意雨勢。",
-        "url": "https://www.cna.com.tw/news/ahel/202608150075.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-15T04:20:25+00:00"
-      },
-      {
-        "id": "0f052f9f4dd7",
-        "title": "產業新尖兵計畫培訓青年　數位AI技能助職涯升級",
-        "summary": "（中央社記者吳欣紜台北15日電）勞動部產業新尖兵計畫培訓15至29歲失業青年數位科技、AI應用等技能，青年小慧透過計劃學習行銷科技數據分析，轉換跑道成為數據分析師，職位與薪資待遇都同步提升。",
-        "url": "https://www.cna.com.tw/news/ahel/202608150073.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-15T04:16:21+00:00"
-      },
-      {
-        "id": "c06542759aaa",
-        "title": "嘉南療養院疑後送延誤　石崇良：了解個案再全面檢討",
-        "summary": "（中央社記者沈佩瑤台北15日電）嘉南療養院疑後送延誤患者險噎死，衛生福利部長石崇良今天說，下週一就會派員到台南去了解狀況，因各地消防局與衛生局做法不同，會先了解個案情形後，再做全面性檢討。",
-        "url": "https://www.cna.com.tw/news/ahel/202608150071.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-15T04:12:17+00:00"
-      },
-      {
-        "id": "60c6d137cd99",
-        "title": "Grab：AI優化配送　引進培訓平台",
-        "summary": "（中央社記者吳昇鴻新加坡15日專電）東南亞科技巨頭Grab叩關台灣市場，希望導入多年累積的AI產品創新經驗，也期待引進培訓平台「Grab Academy」，協助司機、外送夥伴及商家持續提升技能，為未來發展創造更多可能。",
-        "url": "https://www.cna.com.tw/news/ahel/202608150066.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-15T03:45:06+00:00"
-      },
-      {
-        "id": "8e9becfec04b",
-        "title": "拚進軍台灣　Grab：聚焦在地化打造共榮圈",
-        "summary": "（中央社記者吳昇鴻新加坡15日專電）東南亞科技巨頭Grab正將發展目光望向台灣，外送市場版圖將如何重塑引發關注。集團營運董事總經理余偉騰接受中央社專訪表示，台灣具備高人口密度、成熟的數位生活文化及豐富飲食，是具吸引力的市場。若未來進入台灣，Grab希望打造屬於台灣的在地生態圈，結合AI串聯商家、外送夥伴與消費者。",
-        "url": "https://www.cna.com.tw/news/ahel/202608150065.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-15T03:43:03+00:00"
-      },
-      {
-        "id": "1c8a2a896cdf",
-        "title": "民主剛果伊波拉疫情升溫　聯合國：每30分鐘奪1命",
-        "summary": "（中央社日內瓦14日綜合外電報導）聯合國人道事務高階官員今天表示，剛果民主共和國（DRC，民主剛果）的伊波拉（Ebola）病毒疫情目前每30分鐘就奪走1條人命，呼籲國際社會加強應對行動。",
-        "url": "https://www.cna.com.tw/news/aopl/202608150063.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-15T03:34:59+00:00"
       },
       {
         "id": "1d2dd267b91e",
@@ -813,6 +813,14 @@
         "published": "2026-08-15T08:28:17+00:00"
       },
       {
+        "id": "ed02b3d110a9",
+        "title": "預算遭刪凍13億元　李遠：傷及台灣文化團體補助經費",
+        "summary": "（中央社記者賴于榛台北15日電）文化部今年預算遭刪凍約新台幣13億元，媒宣費連續2年遭全數刪除。文化部長李遠今天說，文化部預算占總預算不到1%，刪凍13億元，損失的將是台灣對外的話語權，也傷到台灣本地的所有文化工作者、文化團體的補助經費。",
+        "url": "https://www.cna.com.tw/news/acul/202608150123.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-15T07:47:13+00:00"
+      },
+      {
         "id": "088bea20ec67",
         "title": "A Foot Is Not an Appropriate Prize for the Tombola review – a fateful day at the fete",
         "summary": "Pleasance Courtyard, Edinburgh Daniel McVey merrily recruits the audience for a fun hour of cosy crime that bleeds into cosmic horrorWith a title like that, perhaps it’s no surprise that this afternoon’s show is sold out. Who wouldn’t want to find out how a stray limb ended up in a village fete’s ra...",
@@ -1019,14 +1027,6 @@
         "url": "https://www.theguardian.com/stage/2026/aug/14/the-real-kyle-mccarren-review-andy-roninson-pleasance-courtyard-edinburgh",
         "source": "Stage | The Guardian",
         "published": "2026-08-14T10:18:49+00:00"
-      },
-      {
-        "id": "6e583a0cfee3",
-        "title": "人權館攜手檔管局辦「記憶鑑識科」　帶民眾解讀政治檔案",
-        "summary": "（中央社記者邱祖胤台北14日電）國家人權博物館（人權館）與國家發展委員會檔案管理局（檔管局）持續合作，辦理「記憶鑑識科：政治檔案解讀研習工作坊」，今天在台中市中區「南園酒家」登場。",
-        "url": "https://www.cna.com.tw/news/acul/202608140269.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-14T10:16:49+00:00"
       },
       {
         "id": "752f7804de16",
@@ -2572,7 +2572,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-15T09:32:14.632419+00:00"
+        "published": "2026-08-15T10:29:41.793834+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2580,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-15T09:32:14.632409+00:00"
+        "published": "2026-08-15T10:29:41.793827+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2588,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-15T09:32:14.632399+00:00"
+        "published": "2026-08-15T10:29:41.793817+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2596,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-15T09:32:14.632389+00:00"
+        "published": "2026-08-15T10:29:41.793810+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2604,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-15T09:32:14.632379+00:00"
+        "published": "2026-08-15T10:29:41.793802+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2612,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-15T09:32:14.632369+00:00"
+        "published": "2026-08-15T10:29:41.793795+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2620,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-15T09:32:14.632360+00:00"
+        "published": "2026-08-15T10:29:41.793788+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2628,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-15T09:32:14.632350+00:00"
+        "published": "2026-08-15T10:29:41.793780+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2636,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-15T09:32:14.632341+00:00"
+        "published": "2026-08-15T10:29:41.793773+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2644,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-15T09:32:14.632331+00:00"
+        "published": "2026-08-15T10:29:41.793765+00:00"
       },
       {
         "id": "c74b255a8192",
