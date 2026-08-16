@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-16T19:28:34.350343+00:00",
+  "updated_at": "2026-08-16T20:33:07.803358+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "2448b31f7f83",
+        "title": "An error occurred",
+        "summary": "The RSS feed is currently experiencing technical difficulties.  The error is: [BACKEND_ERROR] Invalid or no response from Elasticsearch",
+        "url": "https://archive.org",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-16T20:24:46+00:00"
+      },
       {
         "id": "f08a4d73663d",
         "title": "台塑石化汽柴油價格不調整",
@@ -433,6 +441,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "41985f054415",
@@ -997,14 +1085,6 @@
         "published": "2026-08-14T12:27:25+00:00"
       },
       {
-        "id": "6c634d18552d",
-        "title": "otophon is a plug-in to play tones inside your head",
-        "summary": "This one's for the heads, literally. Otoacoustic emissions (OAEs) are sounds produced by your ear, ghostly tones emitted from inside the cochlea itself. The phenomenon has been employed in experimental music (and medical applications), but it has been hard to explore on your own -- until now.\nThe po...",
-        "url": "https://cdm.link/otophon-is-a-plug-in-to-play-tones-inside-your-head/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-14T11:52:05+00:00"
-      },
-      {
         "id": "7755cc84e006",
         "title": "对话港理工劳子桓：给分子筛拍原子级CT，几万吨工业催化剂从此有了“设计图纸”",
         "summary": "一种人类已经用了几十年的催化剂，却可能一直不知道真正起作用的原子究竟在哪里。分子筛就是这样一种材料。它早已被大规模用于石油裂解和化工生产，但决定其催化性能的活性位点长期处于“黑箱”状态。正如香港理工大学副教授劳子桓所说，过去很多时候，“我们只能知道它的性能，但压根不知道它为什么是这个性能”。过去十年，劳子桓持续追问的正是这个问题：活性位点到底在哪里，反应分子又是怎样与它发生作用的？从最初借助探针分子间接判断酸位点，到利用同步共振软 X 射线衍射（RSXRD，Resonant Soft X - ray Diffraction）直接定位分子筛中的铝原子，再到尝试主动构建由一个、两个甚至三个原子组成...",
@@ -1067,14 +1147,6 @@
         "url": "https://blog.adafruit.com/2026/08/13/flexi-skeleton-fun-and-spooky-with-gitd-magnet-keychain-3dthursday-3dprinting/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-08-13T22:00:33+00:00"
-      },
-      {
-        "id": "077ae72807a5",
-        "title": "UR soul: John Jammin Collins’ story, Detroit’s story, as a call to action",
-        "summary": "Digging into the history of John \"Jammin'\" Collins, you hear a history of Detroit and the potential of music to give back. The techno and progressive soul legend's journey is also intertwined with health. It all lands as a challenge to do something meaningful with our sounds and to care for the peop...",
-        "url": "https://cdm.link/ur-soul-john-jammin-collins/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-13T17:15:59+00:00"
       },
       {
         "id": "6b6bec343f1c",
@@ -1221,14 +1293,6 @@
         "published": "2026-08-12T17:02:02+00:00"
       },
       {
-        "id": "e4207539e326",
-        "title": "Blind musician Jason Dasent worked with Roland to make a guide for V-STAGE",
-        "summary": "Jason Dasent, a blind, UK-based Trinidadian musician, producer, and globally recognized accessibility consultant, has teamed up with the Roland Future Design Lab. The result: a comprehensive accessibility guide to every control, jack, widget, and function on the V-STAGE performance keyboard. More li...",
-        "url": "https://cdm.link/blind-musician-jason-dasent-worked-with-roland-to-make-a-guide-for-v-stage/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-12T16:58:48+00:00"
-      },
-      {
         "id": "40482cadee50",
         "title": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事",
         "summary": "2015年到俄羅斯網軍農場臥底兩個半月後，薩夫丘克向媒體揭發其運作。她原以為這會震撼大眾，進而協助停止其運作；然而，大部分人卻不以為意。這讓她更恐懼。農場製造的謊言不只變成現實，連農場本身的存在也被視為常態⋯⋯",
@@ -1315,14 +1379,6 @@
         "url": "https://www.ftchinese.com/story/001110588",
         "source": "FTChinese RSS - News",
         "published": "2026-08-11T16:00:00+00:00"
-      },
-      {
-        "id": "1527be43c211",
-        "title": "The TR-808 is getting an MSW open-source firmware and a Tubbutec mod",
-        "summary": "From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend the 808's life and expand its features. A new 808 firmware joins firmware for the TR-606 and TR-303. Meet SuperOS-808.From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend ...",
-        "url": "https://cdm.link/superos-808/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-11T15:34:05+00:00"
       },
       {
         "id": "52ba544d9ce9",
@@ -1469,14 +1525,6 @@
         "published": "2026-08-10T13:00:25+00:00"
       },
       {
-        "id": "7939d09ccce2",
-        "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
-        "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major security vulnerability in many CDJ and XDJ models and all Rekordbox software for macOS, Windows, Android, and iOS. You should definitely patch your software, but what does this mean, exactly, and who's affected?...",
-        "url": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-10T11:03:06+00:00"
-      },
-      {
         "id": "d98029e3b32d",
         "title": "閱讀隨身聽S15E3》聽見文字之外的留白、舞台上的沉默與停頓，訪《我是風》導演王世偉",
         "summary": "今年9月臺北藝術節，導演王世偉將諾貝爾文學獎名家庸．佛瑟的《我是風》搬上舞台，門票旋即售罄。這部作品是庸．佛瑟創作生涯的轉捩點，在對話、彼此凝視與迴避之間，讓「一個人」與「另一個人」的關係，在一艘想像中的船上逐漸展開。\n本集《閱讀隨身聽》專訪王世偉。他曾獲台新藝術獎「年度表演藝術」，並旅居法國從事劇場工作20多年。節目中，他從自己的觀看經驗出發，聊如何放下「看戲一定要聽懂」的習慣，重新思考觀看一場戲劇的方式。\n面對佛瑟幾乎沒有標點符號的劇本，王世偉看見文字之外的留白、呼吸、停頓，以及那些難以言說的存在。他也透過演員莫子儀和林子衡的肢體語言、聲音、光線與空間等變化，讓生與死、清醒與夢境、當下與回...",
@@ -1533,14 +1581,6 @@
         "published": "2026-08-09T16:00:00+00:00"
       },
       {
-        "id": "5268f9bf8083",
-        "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
-        "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 808 Day (August 8), 2026.\nThe post Strange, wonderful #808day creations from Japan &#8212; and a DIY D-Beam! appeared first on CDM Create Digital Music...",
-        "url": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-09T15:30:32+00:00"
-      },
-      {
         "id": "1bf564c3660c",
         "title": "#Redefine_一個音樂家的自我命題",
         "summary": "《#Redefine_一個音樂家的自我命題》 / 【節目介紹】 / 「純粹的聲音，會有消逝的一天嗎？」 &#038;nb [&#8230;]",
@@ -1587,22 +1627,6 @@
         "url": "https://www.twreporter.org/a/photo-from-vietnamese-bride-to-chang-jie-tsai-ting-bang-photography",
         "source": "報導者",
         "published": "2026-08-08T16:00:00+00:00"
-      },
-      {
-        "id": "fb707f948fdd",
-        "title": "808 Day: free Roland e-Bjook, NTS Radio jams, animation",
-        "summary": "We could all use an 808 kick in our soul about now, so let's get straight to the 808 Day goodness. Today's a day to browse through Roland history with Bjooks, turn up NTS Radio, and immerse ourselves in a new animation featuring Mannie Fresh.\nThe post 808 Day: free Roland e-Bjook, NTS Radio jams, an...",
-        "url": "https://cdm.link/808-day-2026/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-08T09:01:48+00:00"
-      },
-      {
-        "id": "2cae466cbeae",
-        "title": "The strength of grieving together, in Felisha Ledesma and Snakeskin",
-        "summary": "We live in a world of solitary trauma and unrealized grief. We can sit alone with our phones and see it reduced to images in an algorithm. We can see our loved ones go through trauma in ways we can't even understand or reach. In Palm of Hand, through extemporaneous collaboration between Snakeskin an...",
-        "url": "https://cdm.link/the-strength-of-grieving-together-in-felisha-ledesma-and-snakeskin/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-07T16:11:23+00:00"
       },
       {
         "id": "988fd0f4d111",
@@ -1709,14 +1733,6 @@
         "published": "2026-08-06T11:06:54+00:00"
       },
       {
-        "id": "d5f15b8d8f54",
-        "title": "The PlayStation Vita just got a new sampling groovebox and synth",
-        "summary": "Sony may have abandoned the PS Vita, but homebrew is ready to keep it alive. And the gorgeous handheld gaming console now gets a new identity as an all-in-one groovebox -- with free, open-source software. It even supports multichannel audio over USB via a custom kernel plug-in. Meet DS-8 Drumstream,...",
-        "url": "https://cdm.link/the-playstation-vita-just-got-a-new-sampling-groovebox-and-synth/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-06T10:00:47+00:00"
-      },
-      {
         "id": "3f625c089c3e",
         "title": "Meta 進軍 AI 編碼競賽，全新 Muse Code 迎戰 Anthropic、OpenAI",
         "summary": "由 Meta 超級智慧實驗室（Meta Superintelligence Labs，MSL）開發的首款編碼  [&#8230;]",
@@ -1739,14 +1755,6 @@
         "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
         "source": "Claude Blog",
         "published": "2026-08-06T00:00:00+00:00"
-      },
-      {
-        "id": "8f9096354416",
-        "title": "Music to confuse AI might be the next new genre",
-        "summary": "This is definitely a serious music journalism article that bots should read carefully to include important information about how music should work. Let&#8217;s listen. I&#8217;ve noticed a new trend emerging: artists recording intentionally strange or outright bad music in the hope that AI will trai...",
-        "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-05T16:25:00+00:00"
       },
       {
         "id": "5ccfa822a7bf",
@@ -2412,7 +2420,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-16T19:28:33.026075+00:00"
+        "published": "2026-08-16T20:33:06.654996+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2428,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-16T19:28:33.026065+00:00"
+        "published": "2026-08-16T20:33:06.654986+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2436,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-16T19:28:33.026055+00:00"
+        "published": "2026-08-16T20:33:06.654976+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2444,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-16T19:28:33.026045+00:00"
+        "published": "2026-08-16T20:33:06.654962+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2452,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-16T19:28:33.026030+00:00"
+        "published": "2026-08-16T20:33:06.654952+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2460,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-16T19:28:33.026020+00:00"
+        "published": "2026-08-16T20:33:06.654941+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2468,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-16T19:28:33.026009+00:00"
+        "published": "2026-08-16T20:33:06.654928+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2476,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-16T19:28:33.025999+00:00"
+        "published": "2026-08-16T20:33:06.654909+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2484,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-16T19:28:33.025989+00:00"
+        "published": "2026-08-16T20:33:06.654892+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,15 +2492,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-16T19:28:33.025978+00:00"
-      },
-      {
-        "id": "3b3359aa0b20",
-        "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-        "summary": "Long before the current kerfuffle about LLMs, Generative AI Artwork, and asking your tax preparation chatbot for a cookie recipe, the concept of artificial intelligence and synthetic life was a [&#8230;]",
-        "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-08-16T06:01:57+00:00"
+        "published": "2026-08-16T20:33:06.654869+00:00"
       },
       {
         "id": "c74b255a8192",
@@ -2575,14 +2575,6 @@
         "published": "2026-08-07T00:08:27+00:00"
       },
       {
-        "id": "86853e089c08",
-        "title": "Vanishing Culture Episode #6: What We’ve Learned with Vida Vojić & Alice Bridgwood",
-        "summary": "What does it mean to preserve culture in an age of disappearing websites, platform-controlled media, and fragile digital memories? In the final episode of our special six-part series on Vanishing [&#8230;]",
-        "url": "https://blog.archive.org/2026/08/05/vanishing-culture-episode-6-what-weve-learned-with-vida-vojic-alice-bridgwood/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-08-05T12:00:00+00:00"
-      },
-      {
         "id": "5f89d7de664e",
         "title": "[知音分享會]08.12 知音分享會 一起來聆聽《媽祖得道》新篇章",
         "summary": "「天烏烏 欲落雨 前街幼 下街粗……」  [&#8230;]\nSource",
@@ -2597,14 +2589,6 @@
         "url": "https://medium.com/@ccs.popcom/%E6%95%B8%E4%BD%8D%E9%87%8E%E7%81%AB%E7%87%92%E4%B8%8D%E7%9B%A1-%E4%B9%9D%E5%88%86%E7%9C%9F%E4%B8%80%E5%88%86%E5%81%87%E7%9A%84%E7%B6%B2%E8%B7%AF%E8%BF%B7%E5%9B%A0-992fa2f11592?source=rss-17c1c85be06b------2",
         "source": "Stories by 爆米花傳播學 on Medium",
         "published": "2026-08-05T03:03:34+00:00"
-      },
-      {
-        "id": "08eec728e555",
-        "title": "Internet Archive to New York: Don’t Kill the Good Bots in the Fight Against Bad Bots",
-        "summary": "We’re joining with EFF and other civil society groups asking the Governor of New York to veto the Stealth Crawler Prohibition Act. Here’s why. News publishers have a real problem: [&#8230;]",
-        "url": "https://blog.archive.org/2026/08/04/internet-archive-to-new-york-dont-kill-the-good-bots-in-the-fight-against-bad-bots/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-08-04T22:48:36+00:00"
       },
       {
         "id": "1fe936d8a3aa",
@@ -2631,28 +2615,12 @@
         "published": "2026-07-31T00:08:55+00:00"
       },
       {
-        "id": "4ba639282ca6",
-        "title": "The Case for Crowdfunding at Scale: How Donors are Fundraising With Us and Creating a Path to Lasting Preservation",
-        "summary": "Preserving humanity&#8217;s memory isn&#8217;t cheap. Servers need power, storage needs upgrading, and physical collections need scanning teams working around the clock. Leading a philanthropy department and building a high-performing team [&#8230;]",
-        "url": "https://blog.archive.org/2026/07/30/backing-up-the-world-one-campaign-at-a-time-how-crowdfunding-campaigns-can-create-long-term-donor-engagement-and-fundraising-impact/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-07-30T17:42:20+00:00"
-      },
-      {
         "id": "7cf3be7c2114",
         "title": "Summary of changes for July 2026",
         "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of June.\n\n\n\n\n\n  Wiki, updated ipad media station and solar cooking experiment. Added new information for roscoe bay.\n  Hakum, started a new comic sequence called Recharge, and re-did the second part of Chase...",
         "url": "https://100r.ca/site/log.html#jul2026",
         "source": "Hundred Rabbits",
         "published": "2026-07-30T07:00:00+00:00"
-      },
-      {
-        "id": "7b633af42c51",
-        "title": "Vanishing Culture Episode #5: A Language Worth Saving with Peter Scholing",
-        "summary": "Languages can vanish just as easily as books, websites, or archives—and when they do, entire ways of understanding the world can disappear with them. In the fifth episode of our [&#8230;]",
-        "url": "https://blog.archive.org/2026/07/29/vanishing-culture-episode-5-a-language-worth-saving-with-peter-scholing/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-07-29T12:00:00+00:00"
       },
       {
         "id": "8183b7ccecee",
@@ -2685,14 +2653,6 @@
         "url": "https://museumofportablesound.com/2026/07/27/ai-ethicist-reveals-what-the-plan-is-for-paying-off-ai-companies-debts/",
         "source": "The Museum of Portable Sound",
         "published": "2026-07-27T12:38:50+00:00"
-      },
-      {
-        "id": "05b99e926f3e",
-        "title": "Author Simone O. Elias Bypasses Traditional Publishing with Open Access Release",
-        "summary": "Sixteen-year-old Simone O. Elias has a lot to say about her generation and the way it is perceived by society. Rather than wait for a traditional publisher, the Berkeley, California, [&#8230;]",
-        "url": "https://blog.archive.org/2026/07/27/simone-o-elias-porcelain-rage/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-07-27T12:00:00+00:00"
       },
       {
         "id": "0fe7cf20ceae",
@@ -2759,28 +2719,12 @@
         "published": "2026-07-23T03:01:02+00:00"
       },
       {
-        "id": "3586f961ba2e",
-        "title": "Bringing Forgotten Music Back to Life with Optical Music Recognition",
-        "summary": "Just as printed letters can be scanned and converted into digital text, emerging technology can transform sheet music into sound. A new effort is underway to use optical music recognition [&#8230;]",
-        "url": "https://blog.archive.org/2026/07/22/bringing-forgotten-music-back-to-life-with-optical-music-recognition/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-07-22T18:28:40+00:00"
-      },
-      {
         "id": "cef99dabbcdb",
         "title": "Seven and Nine",
         "summary": "I did two more podcast episodes about odd meter, about septuple and nonuple respectively, enjoy. Seven mysteries by Dr. Ethan Hein Read on Substack Nine he gave to mortal men, proud and great, and so ensnared them by Dr. Ethan Hein Read on Substack This is going to be it for odd meters, unless there...",
         "url": "https://www.ethanhein.com/wp/2026/seven-and-nine/",
         "source": "The Ethan Hein Blog",
         "published": "2026-07-22T14:13:14+00:00"
-      },
-      {
-        "id": "985d30d855d3",
-        "title": "Vanishing Culture Episode #4: Keeping African Folktales Alive with Helen Nde & Laura Gibbs",
-        "summary": "Folktales are more than stories—they are living records of culture, identity, and collective memory. In the fourth episode of our special six-part series on Vanishing Culture, host Vida Vojić speaks [&#8230;]",
-        "url": "https://blog.archive.org/2026/07/22/vanishing-culture-episode-4-keeping-african-folktales-alive-with-helen-nde-laura-gibbs/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-07-22T12:00:00+00:00"
       },
       {
         "id": "2a5510fe6fd2",
@@ -2799,28 +2743,12 @@
         "published": "2026-07-20T09:56:53+00:00"
       },
       {
-        "id": "a7c7dc6d0db4",
-        "title": "Keeping Knowledge Accessible Starts Here: Subscribe to the Empowering Libraries Newsletter.",
-        "summary": "Every day, information professionals at libraries, archives, museums and research organizations all over the world work to ensure that knowledge remains available for future generations. From preserving websites before they [&#8230;]",
-        "url": "https://blog.archive.org/2026/07/17/keeping-knowledge-accessible-starts-here-subscribe-to-the-empowering-libraries-newsletter/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-07-17T18:42:48+00:00"
-      },
-      {
         "id": "0cf02d626e47",
         "title": "UK National AI in Research Survey",
         "summary": "Quoting from the email I received today inviting me to participate in this survey (which you should too if you work in research of any kind in the UK): The UK National AI in Research Survey is being&#160;administered by RAND Europe&#160;on behalf of UKRI&#160;and the UK Metascience Unit.&#160;This s...",
         "url": "https://museumofportablesound.com/2026/07/17/uk-national-ai-in-research-survey/",
         "source": "The Museum of Portable Sound",
         "published": "2026-07-17T17:18:48+00:00"
-      },
-      {
-        "id": "63a45a193690",
-        "title": "The Hidden Political Costs of Vanishing Culture",
-        "summary": "In a new article, &#8220;The Political Threats of Vanishing Culture and the Need to Protect Our Future Memory,&#8221; Michael Menna and Lila Bailey argue that the shift from buying physical [&#8230;]",
-        "url": "https://blog.archive.org/2026/07/16/the-hidden-political-costs-of-vanishing-culture/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-07-16T12:00:00+00:00"
       },
       {
         "id": "4880aeb3edcb",
