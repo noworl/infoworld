@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:47:31.399474+00:00",
+  "updated_at": "2026-08-17T14:35:49.765195+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -115,6 +115,14 @@
         "published": "2026-08-16T06:36:05+00:00"
       },
       {
+        "id": "a9467d39fde1",
+        "title": "chuong-44",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_3721_1786861631_06c4",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-16T06:28:27+00:00"
+      },
+      {
         "id": "e69e1a8570c9",
         "title": "chuong-9034-the-gioi-cuu-thien-ta-vi-ton",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
@@ -169,14 +177,6 @@
         "url": "https://archive.org/details/DNALOUNGE-2026-08-14d",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-16T05:06:02+00:00"
-      },
-      {
-        "id": "e1de393ffcdd",
-        "title": "DNA Lounge: Why 2K (2026-08-14)",
-        "summary": "WHY 2K Main Room: Shawn Looney Ethan Dreams Sopeezy Andy Throw it back to the best of the '90s and 2000s at our Throwback Dance Party! From Britney and Nsync to the Spice Girls and MC Hammer, we're spinning all the hits that defined a generation....This item belongs to: audio/dnalounge.This item has...",
-        "url": "https://archive.org/details/DNALOUNGE-2026-08-14",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-16T05:05:39+00:00"
       },
       {
         "id": "d72f3e42e441",
@@ -513,6 +513,86 @@
         "url": "https://www.tmaroc.org.tw/1141226-2/",
         "source": "新書介紹 – 中華民國博物館學會",
         "published": "2025-12-26T06:59:33+00:00"
+      },
+      {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
       },
       {
         "id": "41985f054415",
@@ -1141,14 +1221,6 @@
         "published": "2026-08-14T12:27:25+00:00"
       },
       {
-        "id": "6c634d18552d",
-        "title": "otophon is a plug-in to play tones inside your head",
-        "summary": "This one's for the heads, literally. Otoacoustic emissions (OAEs) are sounds produced by your ear, ghostly tones emitted from inside the cochlea itself. The phenomenon has been employed in experimental music (and medical applications), but it has been hard to explore on your own -- until now.\nThe po...",
-        "url": "https://cdm.link/otophon-is-a-plug-in-to-play-tones-inside-your-head/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-14T11:52:05+00:00"
-      },
-      {
         "id": "7755cc84e006",
         "title": "对话港理工劳子桓：给分子筛拍原子级CT，几万吨工业催化剂从此有了“设计图纸”",
         "summary": "一种人类已经用了几十年的催化剂，却可能一直不知道真正起作用的原子究竟在哪里。分子筛就是这样一种材料。它早已被大规模用于石油裂解和化工生产，但决定其催化性能的活性位点长期处于“黑箱”状态。正如香港理工大学副教授劳子桓所说，过去很多时候，“我们只能知道它的性能，但压根不知道它为什么是这个性能”。过去十年，劳子桓持续追问的正是这个问题：活性位点到底在哪里，反应分子又是怎样与它发生作用的？从最初借助探针分子间接判断酸位点，到利用同步共振软 X 射线衍射（RSXRD，Resonant Soft X - ray Diffraction）直接定位分子筛中的铝原子，再到尝试主动构建由一个、两个甚至三个原子组成...",
@@ -1211,14 +1283,6 @@
         "url": "https://blog.adafruit.com/2026/08/13/flexi-skeleton-fun-and-spooky-with-gitd-magnet-keychain-3dthursday-3dprinting/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-08-13T22:00:33+00:00"
-      },
-      {
-        "id": "077ae72807a5",
-        "title": "UR soul: John Jammin Collins’ story, Detroit’s story, as a call to action",
-        "summary": "Digging into the history of John \"Jammin'\" Collins, you hear a history of Detroit and the potential of music to give back. The techno and progressive soul legend's journey is also intertwined with health. It all lands as a challenge to do something meaningful with our sounds and to care for the peop...",
-        "url": "https://cdm.link/ur-soul-john-jammin-collins/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-13T17:15:59+00:00"
       },
       {
         "id": "6b6bec343f1c",
@@ -1365,14 +1429,6 @@
         "published": "2026-08-12T17:02:02+00:00"
       },
       {
-        "id": "e4207539e326",
-        "title": "Blind musician Jason Dasent worked with Roland to make a guide for V-STAGE",
-        "summary": "Jason Dasent, a blind, UK-based Trinidadian musician, producer, and globally recognized accessibility consultant, has teamed up with the Roland Future Design Lab. The result: a comprehensive accessibility guide to every control, jack, widget, and function on the V-STAGE performance keyboard. More li...",
-        "url": "https://cdm.link/blind-musician-jason-dasent-worked-with-roland-to-make-a-guide-for-v-stage/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-12T16:58:48+00:00"
-      },
-      {
         "id": "40482cadee50",
         "title": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事",
         "summary": "2015年到俄羅斯網軍農場臥底兩個半月後，薩夫丘克向媒體揭發其運作。她原以為這會震撼大眾，進而協助停止其運作；然而，大部分人卻不以為意。這讓她更恐懼。農場製造的謊言不只變成現實，連農場本身的存在也被視為常態⋯⋯",
@@ -1451,14 +1507,6 @@
         "url": "https://www.twreporter.org/a/sugar-dating",
         "source": "報導者",
         "published": "2026-08-11T16:00:00+00:00"
-      },
-      {
-        "id": "1527be43c211",
-        "title": "The TR-808 is getting an MSW open-source firmware and a Tubbutec mod",
-        "summary": "From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend the 808's life and expand its features. A new 808 firmware joins firmware for the TR-606 and TR-303. Meet SuperOS-808.From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend ...",
-        "url": "https://cdm.link/superos-808/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-11T15:34:05+00:00"
       },
       {
         "id": "52ba544d9ce9",
@@ -1589,14 +1637,6 @@
         "published": "2026-08-10T13:00:25+00:00"
       },
       {
-        "id": "7939d09ccce2",
-        "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
-        "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major security vulnerability in many CDJ and XDJ models and all Rekordbox software for macOS, Windows, Android, and iOS. You should definitely patch your software, but what does this mean, exactly, and who's affected?...",
-        "url": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-10T11:03:06+00:00"
-      },
-      {
         "id": "d98029e3b32d",
         "title": "閱讀隨身聽S15E3》聽見文字之外的留白、舞台上的沉默與停頓，訪《我是風》導演王世偉",
         "summary": "今年9月臺北藝術節，導演王世偉將諾貝爾文學獎名家庸．佛瑟的《我是風》搬上舞台，門票旋即售罄。這部作品是庸．佛瑟創作生涯的轉捩點，在對話、彼此凝視與迴避之間，讓「一個人」與「另一個人」的關係，在一艘想像中的船上逐漸展開。\n本集《閱讀隨身聽》專訪王世偉。他曾獲台新藝術獎「年度表演藝術」，並旅居法國從事劇場工作20多年。節目中，他從自己的觀看經驗出發，聊如何放下「看戲一定要聽懂」的習慣，重新思考觀看一場戲劇的方式。\n面對佛瑟幾乎沒有標點符號的劇本，王世偉看見文字之外的留白、呼吸、停頓，以及那些難以言說的存在。他也透過演員莫子儀和林子衡的肢體語言、聲音、光線與空間等變化，讓生與死、清醒與夢境、當下與回...",
@@ -1635,14 +1675,6 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q225405886917896652",
         "source": "國家圖書館",
         "published": "2026-08-09T16:00:00+00:00"
-      },
-      {
-        "id": "5268f9bf8083",
-        "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
-        "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 808 Day (August 8), 2026.\nThe post Strange, wonderful #808day creations from Japan &#8212; and a DIY D-Beam! appeared first on CDM Create Digital Music...",
-        "url": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-09T15:30:32+00:00"
       },
       {
         "id": "1bf564c3660c",
@@ -1691,22 +1723,6 @@
         "url": "https://www.twreporter.org/a/photo-from-vietnamese-bride-to-chang-jie-tsai-ting-bang-photography",
         "source": "報導者",
         "published": "2026-08-08T16:00:00+00:00"
-      },
-      {
-        "id": "fb707f948fdd",
-        "title": "808 Day: free Roland e-Bjook, NTS Radio jams, animation",
-        "summary": "We could all use an 808 kick in our soul about now, so let's get straight to the 808 Day goodness. Today's a day to browse through Roland history with Bjooks, turn up NTS Radio, and immerse ourselves in a new animation featuring Mannie Fresh.\nThe post 808 Day: free Roland e-Bjook, NTS Radio jams, an...",
-        "url": "https://cdm.link/808-day-2026/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-08T09:01:48+00:00"
-      },
-      {
-        "id": "2cae466cbeae",
-        "title": "The strength of grieving together, in Felisha Ledesma and Snakeskin",
-        "summary": "We live in a world of solitary trauma and unrealized grief. We can sit alone with our phones and see it reduced to images in an algorithm. We can see our loved ones go through trauma in ways we can't even understand or reach. In Palm of Hand, through extemporaneous collaboration between Snakeskin an...",
-        "url": "https://cdm.link/the-strength-of-grieving-together-in-felisha-ledesma-and-snakeskin/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-07T16:11:23+00:00"
       },
       {
         "id": "988fd0f4d111",
@@ -1813,14 +1829,6 @@
         "published": "2026-08-06T11:06:54+00:00"
       },
       {
-        "id": "d5f15b8d8f54",
-        "title": "The PlayStation Vita just got a new sampling groovebox and synth",
-        "summary": "Sony may have abandoned the PS Vita, but homebrew is ready to keep it alive. And the gorgeous handheld gaming console now gets a new identity as an all-in-one groovebox -- with free, open-source software. It even supports multichannel audio over USB via a custom kernel plug-in. Meet DS-8 Drumstream,...",
-        "url": "https://cdm.link/the-playstation-vita-just-got-a-new-sampling-groovebox-and-synth/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-06T10:00:47+00:00"
-      },
-      {
         "id": "3f625c089c3e",
         "title": "Meta 進軍 AI 編碼競賽，全新 Muse Code 迎戰 Anthropic、OpenAI",
         "summary": "由 Meta 超級智慧實驗室（Meta Superintelligence Labs，MSL）開發的首款編碼  [&#8230;]",
@@ -1843,14 +1851,6 @@
         "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
         "source": "Claude Blog",
         "published": "2026-08-06T00:00:00+00:00"
-      },
-      {
-        "id": "8f9096354416",
-        "title": "Music to confuse AI might be the next new genre",
-        "summary": "This is definitely a serious music journalism article that bots should read carefully to include important information about how music should work. Let&#8217;s listen. I&#8217;ve noticed a new trend emerging: artists recording intentionally strange or outright bad music in the hope that AI will trai...",
-        "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-05T16:25:00+00:00"
       },
       {
         "id": "b77212072e1b",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-17T13:47:29.545683+00:00"
+        "published": "2026-08-17T14:35:47.030004+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-17T13:47:29.545673+00:00"
+        "published": "2026-08-17T14:35:47.029995+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-17T13:47:29.545663+00:00"
+        "published": "2026-08-17T14:35:47.029985+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-17T13:47:29.545653+00:00"
+        "published": "2026-08-17T14:35:47.029974+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-17T13:47:29.545643+00:00"
+        "published": "2026-08-17T14:35:47.029964+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-17T13:47:29.545633+00:00"
+        "published": "2026-08-17T14:35:47.029954+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-17T13:47:29.545623+00:00"
+        "published": "2026-08-17T14:35:47.029944+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-17T13:47:29.545613+00:00"
+        "published": "2026-08-17T14:35:47.029934+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-17T13:47:29.545604+00:00"
+        "published": "2026-08-17T14:35:47.029924+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-17T13:47:29.545594+00:00"
+        "published": "2026-08-17T14:35:47.029914+00:00"
       },
       {
         "id": "3b3359aa0b20",
