@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T14:40:31.997946+00:00",
+  "updated_at": "2026-08-18T15:38:39.223756+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -515,86 +515,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -805,20 +725,44 @@
     ],
     "破(day)": [
       {
+        "id": "3518948001b3",
+        "title": "A free browser-based app turns your webcam into an instrument",
+        "summary": "Developer Robin van Soelen demonstrates gesture.live, a free, browser-based application that turns your webcam into an instrument. gesture.live lets you play with hand gestures through your webcam. Use you left hand to play chords and the right hand to play melody, bass, drums or FX. See more on Syn...",
+        "url": "https://blog.adafruit.com/2026/08/18/a-free-browser-based-app-turns-your-webcam-into-an-instrument/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-18T15:33:43+00:00"
+      },
+      {
+        "id": "db2f38080d91",
+        "title": "IBM Simon (1994): the original smartphone, explained in its own ad",
+        "summary": "Was IBM&#8217;s Simon from 1994 the original smartphone? The IBM Simon Personal Communicator (simply known as IBM Simon) is a cellular phone and personal digital assistant (PDA) designed by International Business Machines (IBM), released in 1994. Built on an x86 processor, the IBM Simon features a 4...",
+        "url": "https://blog.adafruit.com/2026/08/18/ibm-simon-1994-the-original-smartphone-explained-in-its-own-ad/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-18T15:27:20+00:00"
+      },
+      {
+        "id": "f422d9aad26e",
+        "title": "How to disable or avoid intrusive AI",
+        "summary": "One of the biggest questions Jessamyn West gets at Drop-In Time at the library (besides &#8220;what is taking up all my cloud storage?&#8221;) is how to disable or avoid intrusive AI that shows up where people don&#8217;t want it. Her guide is for people who would like less intrusive AI in their tec...",
+        "url": "https://blog.adafruit.com/2026/08/18/how-to-disable-or-avoid-intrusive-ai/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-18T15:07:46+00:00"
+      },
+      {
+        "id": "d5e59ad93c99",
+        "title": "Finger: the 1971 social network that never died",
+        "summary": "It will surprise more than a few of you to hear that the first social network dates back to 1971. No accounts, no algorithm, no central server. Your entire profile fits in a single plain text file that you control. John Carmack (co-founder of id Software and programmer of Doom and Quake) used it as ...",
+        "url": "https://blog.adafruit.com/2026/08/18/finger-the-1971-social-network-that-never-died/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-18T14:41:30+00:00"
+      },
+      {
         "id": "21c4188df4e1",
         "title": "Quake Shareware, a CD-ROM just a little too full",
         "summary": "In the mid-90s the coolest thing to buy for a PC, besides the incredibly expensive Intel Pentium, was a CD-ROM drive. With their capacity of 640 MiB (three times the storage of PC HDD at the time), CDs allowed enthusiasts to step into a world of multimedia, made of high-resolution 640&#215;480 256 c...",
         "url": "https://blog.adafruit.com/2026/08/18/quake-shareware-a-cd-rom-just-a-little-too-full/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-08-18T14:31:43+00:00"
-      },
-      {
-        "id": "93048a2be5e8",
-        "title": "Organismi OR—1, free for iPad: breathing, stochastic pattern generator",
-        "summary": "OR—1 is an artful, generative MIDI sequencer maker. It's free for iPad as an AUv3, with a desktop macOS version available for €19.99. And it's an exquisite experience feeding these into synths.\nThe post Organismi OR—1, free for iPad: breathing, stochastic pattern generator appeared first on CDM Crea...",
-        "url": "https://cdm.link/organismi-or-1/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-18T14:16:59+00:00"
       },
       {
         "id": "81c0d6871a39",
@@ -1005,14 +949,6 @@
         "published": "2026-08-17T16:55:39+00:00"
       },
       {
-        "id": "aaf017ff723f",
-        "title": "Handmade experimental synths and DIY from Argentina’s Los Aparatos",
-        "summary": "From Tucumán, Argentina, Los Aparatos are constructing handmade synths and electronics education and DIY projects. And now you can ship their experimental synthesizer, Auduina MK2, internationally. Plus, those pink controls and creative projects are just irresistible. Let's take a look.\nThe post Han...",
-        "url": "https://cdm.link/los-aparatos/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-17T16:29:47+00:00"
-      },
-      {
         "id": "64d2de79d3b4",
         "title": "你要為了棒球放棄哈佛嗎？《無名之地》直視在小聯盟載浮載沉的球員人生",
         "summary": "晉升的電梯上升下降，即便獲得哈佛認證，在棒球界也沒有絕對的保證。對上過大聯盟的球員來說，「正因為你知道自己在物質和心靈上失去什麼，下放小聯盟才變得更難熬。」",
@@ -1051,14 +987,6 @@
         "url": "https://www.theguardian.com/stage/2026/aug/17/lara-ricote-inkling-review",
         "source": "Stage | The Guardian",
         "published": "2026-08-17T15:20:14+00:00"
-      },
-      {
-        "id": "7913ac7ba9bb",
-        "title": "SideQuestCrafting Made Mira’s Gok-Do!",
-        "summary": "No visit with my 4 year old niece is complete without her explaining KPop Demon Hunters to her sister, 1, and cousin, 1 1/2. And she&#8217;s totally right to try to get the little ones on board &#8211; Rumi, Mira, and Zoe and awesome. Check out SideQuestCrafting&#8217;s take on Mira&#8217;s Gok-Do o...",
-        "url": "https://blog.adafruit.com/2026/08/17/sidequestcrafting-made-miras-gok-do/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-17T14:00:27+00:00"
       },
       {
         "id": "b19b8e5bb7fe",
@@ -1149,14 +1077,6 @@
         "published": "2026-08-17T00:00:00+00:00"
       },
       {
-        "id": "76def60c3658",
-        "title": "Adafruit Weekly Editorial Round Up: Back to School, LED Devil Horns, and more!",
-        "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG Back to Sc...",
-        "url": "https://blog.adafruit.com/2026/08/16/adafruit-weekly-editorial-round-up-back-to-school-led-devil-horns-and-more/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-16T19:00:15+00:00"
-      },
-      {
         "id": "2564f02c9c37",
         "title": "中國孔子學院退場，台灣華語教學進場？繁體中文、台灣特色進入澳洲市場的機會與門檻",
         "summary": "在中國孔子學院相繼自澳洲撤場之際，台灣華語文學習中心順勢進入，時機對了，但成效有多大？孔子學院的空缺，代表中國影響力減弱嗎？台灣想在澳洲華語教學市場占有一席之地，仍面臨諸多挑戰。",
@@ -1219,14 +1139,6 @@
         "url": "https://www.mittrchina.com/news/detail/16795",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-08-16T13:24:51+00:00"
-      },
-      {
-        "id": "b869b9b9718e",
-        "title": "It’s National Roller Coaster Day #NationalRollerCoasterDay #coasterday",
-        "summary": "Cyclone Roller Coaster, Coney Island, New York via Wikipedia &#160; Did you know every August 16 is National Roller Coaster Day? Ride out the summer, with all of the ups and downs, on a coaster of your choosing. If you can stomach them, coasters are marvels of engineering and have been teaching youn...",
-        "url": "https://blog.adafruit.com/2026/08/16/its-national-roller-coaster-day-nationalrollercoasterday-coasterday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-16T12:57:26+00:00"
       },
       {
         "id": "111c13e6aae0",
@@ -1333,28 +1245,12 @@
         "published": "2026-08-15T01:00:00+00:00"
       },
       {
-        "id": "363fb0f9292e",
-        "title": "Gemma Translator – Live Translating Offline on a Raspberry Pi 5   #piday #raspberrypi",
-        "summary": "This open source translator was built by a team at google. It is an experiment to build a fully offline translator. All the parts are off the shelf and easy to find: a Raspberry Pi 5, portable battery pack, tiny touchscreen display, mini speaker, and micro keyboard with a knob to select languages. I...",
-        "url": "https://blog.adafruit.com/2026/08/14/gemma-translator-live-translating-offline-on-a-raspberry-pi-5-piday-raspberrypi/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-14T22:48:50+00:00"
-      },
-      {
         "id": "cab92d84ca12",
         "title": "在命名之前觀看──專訪攝影師李岳凌，談《伏流》裡的「紀虛攝影」",
         "summary": "香灰上的幾道線條，與俯視的陣頭、蜿蜒的河道和植物根系前後出現，拍攝當下不讓既有概念決定畫面的李岳凌，為展覽與攝影書編輯，經過長期重看、刪除與排列，照片彼此建立關係，拍攝當下尚未確定的意義才逐漸出現⋯⋯",
         "url": "https://www.twreporter.org/a/photo-lee-yehlin-undercurrent-photobook-interview",
         "source": "報導者",
         "published": "2026-08-14T16:00:00+00:00"
-      },
-      {
-        "id": "6c634d18552d",
-        "title": "otophon is a plug-in to play tones inside your head",
-        "summary": "This one's for the heads, literally. Otoacoustic emissions (OAEs) are sounds produced by your ear, ghostly tones emitted from inside the cochlea itself. The phenomenon has been employed in experimental music (and medical applications), but it has been hard to explore on your own -- until now.\nThe po...",
-        "url": "https://cdm.link/otophon-is-a-plug-in-to-play-tones-inside-your-head/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-14T11:52:05+00:00"
       },
       {
         "id": "14c1f4912c4c",
@@ -1379,14 +1275,6 @@
         "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "source": "Claude Blog",
         "published": "2026-08-14T00:00:00+00:00"
-      },
-      {
-        "id": "077ae72807a5",
-        "title": "UR soul: John Jammin Collins’ story, Detroit’s story, as a call to action",
-        "summary": "Digging into the history of John \"Jammin'\" Collins, you hear a history of Detroit and the potential of music to give back. The techno and progressive soul legend's journey is also intertwined with health. It all lands as a challenge to do something meaningful with our sounds and to care for the peop...",
-        "url": "https://cdm.link/ur-soul-john-jammin-collins/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-13T17:15:59+00:00"
       },
       {
         "id": "e67d00cad027",
@@ -1525,14 +1413,6 @@
         "published": "2026-08-12T17:02:02+00:00"
       },
       {
-        "id": "e4207539e326",
-        "title": "Blind musician Jason Dasent worked with Roland to make a guide for V-STAGE",
-        "summary": "Jason Dasent, a blind, UK-based Trinidadian musician, producer, and globally recognized accessibility consultant, has teamed up with the Roland Future Design Lab. The result: a comprehensive accessibility guide to every control, jack, widget, and function on the V-STAGE performance keyboard. More li...",
-        "url": "https://cdm.link/blind-musician-jason-dasent-worked-with-roland-to-make-a-guide-for-v-stage/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-12T16:58:48+00:00"
-      },
-      {
         "id": "40482cadee50",
         "title": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事",
         "summary": "2015年到俄羅斯網軍農場臥底兩個半月後，薩夫丘克向媒體揭發其運作。她原以為這會震撼大眾，進而協助停止其運作；然而，大部分人卻不以為意。這讓她更恐懼。農場製造的謊言不只變成現實，連農場本身的存在也被視為常態⋯⋯",
@@ -1603,14 +1483,6 @@
         "url": "https://www.twreporter.org/a/sugar-dating",
         "source": "報導者",
         "published": "2026-08-11T16:00:00+00:00"
-      },
-      {
-        "id": "1527be43c211",
-        "title": "The TR-808 is getting an MSW open-source firmware and a Tubbutec mod",
-        "summary": "From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend the 808's life and expand its features. A new 808 firmware joins firmware for the TR-606 and TR-303. Meet SuperOS-808.From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend ...",
-        "url": "https://cdm.link/superos-808/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-11T15:34:05+00:00"
       },
       {
         "id": "52ba544d9ce9",
@@ -1741,14 +1613,6 @@
         "published": "2026-08-10T13:00:25+00:00"
       },
       {
-        "id": "7939d09ccce2",
-        "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
-        "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major security vulnerability in many CDJ and XDJ models and all Rekordbox software for macOS, Windows, Android, and iOS. You should definitely patch your software, but what does this mean, exactly, and who's affected?...",
-        "url": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-10T11:03:06+00:00"
-      },
-      {
         "id": "98e7e980fd24",
         "title": "美國四州聯手控 Meta 涉讓兒童成癮，求償金額逼近市值",
         "summary": "Facebook 母公司 Meta 在美國接連遭判有罪，並遭判近 10 億美元（約新台幣 322 億元）損害賠 [&#8230;]",
@@ -1779,14 +1643,6 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q225405886917896652",
         "source": "國家圖書館",
         "published": "2026-08-09T16:00:00+00:00"
-      },
-      {
-        "id": "5268f9bf8083",
-        "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
-        "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 808 Day (August 8), 2026.\nThe post Strange, wonderful #808day creations from Japan &#8212; and a DIY D-Beam! appeared first on CDM Create Digital Music...",
-        "url": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-09T15:30:32+00:00"
       },
       {
         "id": "1bf564c3660c",
@@ -1835,22 +1691,6 @@
         "url": "https://www.twreporter.org/a/photo-from-vietnamese-bride-to-chang-jie-tsai-ting-bang-photography",
         "source": "報導者",
         "published": "2026-08-08T16:00:00+00:00"
-      },
-      {
-        "id": "fb707f948fdd",
-        "title": "808 Day: free Roland e-Bjook, NTS Radio jams, animation",
-        "summary": "We could all use an 808 kick in our soul about now, so let's get straight to the 808 Day goodness. Today's a day to browse through Roland history with Bjooks, turn up NTS Radio, and immerse ourselves in a new animation featuring Mannie Fresh.\nThe post 808 Day: free Roland e-Bjook, NTS Radio jams, an...",
-        "url": "https://cdm.link/808-day-2026/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-08T09:01:48+00:00"
-      },
-      {
-        "id": "2cae466cbeae",
-        "title": "The strength of grieving together, in Felisha Ledesma and Snakeskin",
-        "summary": "We live in a world of solitary trauma and unrealized grief. We can sit alone with our phones and see it reduced to images in an algorithm. We can see our loved ones go through trauma in ways we can't even understand or reach. In Palm of Hand, through extemporaneous collaboration between Snakeskin an...",
-        "url": "https://cdm.link/the-strength-of-grieving-together-in-felisha-ledesma-and-snakeskin/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-07T16:11:23+00:00"
       },
       {
         "id": "988fd0f4d111",
@@ -2572,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T14:40:30.634143+00:00"
+        "published": "2026-08-18T15:38:38.068633+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T14:40:30.634132+00:00"
+        "published": "2026-08-18T15:38:38.068623+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T14:40:30.634122+00:00"
+        "published": "2026-08-18T15:38:38.068614+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T14:40:30.634111+00:00"
+        "published": "2026-08-18T15:38:38.068604+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T14:40:30.634101+00:00"
+        "published": "2026-08-18T15:38:38.068593+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T14:40:30.634090+00:00"
+        "published": "2026-08-18T15:38:38.068582+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T14:40:30.634079+00:00"
+        "published": "2026-08-18T15:38:38.068572+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T14:40:30.634068+00:00"
+        "published": "2026-08-18T15:38:38.068563+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T14:40:30.634058+00:00"
+        "published": "2026-08-18T15:38:38.068553+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2484,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T14:40:30.634047+00:00"
+        "published": "2026-08-18T15:38:38.068543+00:00"
       },
       {
         "id": "ee8a74f52ea7",
