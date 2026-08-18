@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T17:34:10.636639+00:00",
+  "updated_at": "2026-08-18T18:49:24.590914+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -155,6 +155,14 @@
         "published": "2026-08-18T05:33:24+00:00"
       },
       {
+        "id": "e6345852f550",
+        "title": "chuong-1277",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_18839_1787030378_rRSt",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-18T05:20:29+00:00"
+      },
+      {
         "id": "b0f6a8e72e6e",
         "title": "DNA Lounge: Hubba Hubba Revue: Post-Apocalypse (2026-08-16a)",
         "summary": "HUBBA HUBBA REVUE: POST-APOCALYPSE Featuring performances by: Aerialist JoJo VaVoom Aerialist Jillian Fuchs The Infamous Luma Jaguar Evangeline Laveau Alexa Serenade Joanna Animal Sgt. Die Wies Velvet Thorn Dame And From Flux Vertical Theatre: Pole Dancer Buck Daddy Pole dancer Amber Fox ...and the ...",
@@ -169,14 +177,6 @@
         "url": "https://archive.org/details/DNALOUNGE-2026-08-15",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-18T05:12:03+00:00"
-      },
-      {
-        "id": "8db91df7aebf",
-        "title": "Grease, Gears, And Grumbles",
-        "summary": "Podfic of Grease, Gears, and Grumbles by sunray16.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/grease-gears-and-grumbles",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-18T03:35:19+00:00"
       },
       {
         "id": "707da477bb85",
@@ -515,6 +515,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,6 +805,22 @@
     ],
     "破(day)": [
       {
+        "id": "43daa9b6f7c2",
+        "title": "At the Repair Café, you can fix your broken things",
+        "summary": "Adafruit last reported on Repair Cafés in 2017 where their popularity was growing. Repair Cafés are free meeting places and they’re all about repairing things (together). In the place where a Repair Café is located, you’ll find tools and materials to help you make any repairs you need. On clothes, f...",
+        "url": "https://blog.adafruit.com/2026/08/18/at-the-repair-cafe-you-can-fix-your-broken-things/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-18T18:25:13+00:00"
+      },
+      {
+        "id": "2e7b6e02b9a5",
+        "title": "Why Gen Z Is Learning to Paint Like 19th-Century Artists",
+        "summary": "Paint groups are popping up in parks. Art schools are seeing a surge in applications. The rise of A.I. has people turning to more traditional art forms",
+        "url": "https://www.smithsonianmag.com/innovation/why-gen-z-is-learning-to-paint-like-19th-century-artists-180989359/",
+        "source": "Innovation | smithsonianmag.com",
+        "published": "2026-08-18T18:14:03+00:00"
+      },
+      {
         "id": "b5fa51ed4d01",
         "title": "Shipping Alert: CircuitPython Day 2026 #CircuitPythonDay2026",
         "summary": "🐍 Augusst is ssslipping away which can only mean itsss almost CircuitPython Day 2026! This Friday, August 21, 2026 we celebrate the snakiest of holidays! CircuitPython Day is an official holiday for the Adafruit team; We will still have folks ready to process orders but delays may occur, so plan acc...",
@@ -819,14 +915,6 @@
         "url": "https://blog.adafruit.com/2026/08/18/finger-the-1971-social-network-that-never-died/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-08-18T14:41:30+00:00"
-      },
-      {
-        "id": "21c4188df4e1",
-        "title": "Quake Shareware, a CD-ROM just a little too full",
-        "summary": "In the mid-90s the coolest thing to buy for a PC, besides the incredibly expensive Intel Pentium, was a CD-ROM drive. With their capacity of 640 MiB (three times the storage of PC HDD at the time), CDs allowed enthusiasts to step into a world of multimedia, made of high-resolution 640&#215;480 256 c...",
-        "url": "https://blog.adafruit.com/2026/08/18/quake-shareware-a-cd-rom-just-a-little-too-full/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-18T14:31:43+00:00"
       },
       {
         "id": "93048a2be5e8",
@@ -2341,14 +2429,6 @@
         "published": "2026-06-30T09:57:00+00:00"
       },
       {
-        "id": "1a04f6fad7be",
-        "title": "Can Printed 'Skin' Heal Burns and Prevent Scars?",
-        "summary": "Inks created with a patient’s own cells may one day help the body regrow tissues",
-        "url": "https://www.smithsonianmag.com/innovation/can-printed-skin-heal-burns-and-prevent-scars-180989000/",
-        "source": "Innovation | smithsonianmag.com",
-        "published": "2026-06-24T12:00:00+00:00"
-      },
-      {
         "id": "eb1633b0ba83",
         "title": "侵權產品就該銷毀嗎？政大沈宗倫談「專利救濟」背後的公共代價",
         "summary": "生活在科技時代，我們早已習慣口袋裡的手機、手腕上的智慧型手錶，替我們完成通訊、定位、健康監測與日常紀錄。這些產 [&#8230;]\nThe post 侵權產品就該銷毀嗎？政大沈宗倫談「專利救濟」背後的公共代價 appeared first on 人文．島嶼.",
@@ -2492,7 +2572,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T17:34:09.248661+00:00"
+        "published": "2026-08-18T18:49:23.242347+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2580,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T17:34:09.248650+00:00"
+        "published": "2026-08-18T18:49:23.242338+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2588,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T17:34:09.248639+00:00"
+        "published": "2026-08-18T18:49:23.242328+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2596,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T17:34:09.248629+00:00"
+        "published": "2026-08-18T18:49:23.242318+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2604,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T17:34:09.248617+00:00"
+        "published": "2026-08-18T18:49:23.242306+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2612,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T17:34:09.248607+00:00"
+        "published": "2026-08-18T18:49:23.242296+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2620,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T17:34:09.248596+00:00"
+        "published": "2026-08-18T18:49:23.242287+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2628,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T17:34:09.248586+00:00"
+        "published": "2026-08-18T18:49:23.242277+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2636,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T17:34:09.248575+00:00"
+        "published": "2026-08-18T18:49:23.242268+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2644,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-18T17:34:09.248564+00:00"
+        "published": "2026-08-18T18:49:23.242258+00:00"
       },
       {
         "id": "ee8a74f52ea7",
