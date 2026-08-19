@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-08-19T11:32:29.252364+00:00",
+  "updated_at": "2026-08-19T13:00:21.125072+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "9f668d3f4a43",
+        "title": "駁光州雙年展基金會說法　文化部堅持以台灣館參展",
+        "summary": "（中央社記者王寶兒台北19日電）韓國光州雙年展基金會今天聲明，國美館今年是以「機構參與者」身分簽署光州雙年展協議。文化部回應，國美館獲同意Taiwan Pavilion申請案及簽約，「這是雙方往返皆存在的事實」。",
+        "url": "https://www.cna.com.tw/news/acul/202608190299.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-19T11:37:45+00:00"
+      },
+      {
+        "id": "ead83ecb60b4",
+        "title": "賴總統出席淨零競賽　盼半導體助力科技創新",
+        "summary": "（中央社記者張雄風台北19日電）總統賴清德今天出席淨零排放科技國際競賽時表示，面對AI發展與2050淨零目標，政府將持續推動淨零科技創新，讓台灣發揮半導體與資通訊產業聚落優勢，推動淨零科技走出實驗室成為解方。",
+        "url": "https://www.cna.com.tw/news/ahel/202608190297.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-19T11:35:41+00:00"
+      },
+      {
+        "id": "9c0253644a2f",
+        "title": "金典文學改編媒合會　13作品朝原創IP邁進",
+        "summary": "（中央社記者邱祖胤台北19日電）國立台灣文學館（台文館）今天舉行「金典文學改編媒合會──影視場」，共推介13部台灣文學作品，朝原創IP邁進，開發跨域合作發展的可能。",
+        "url": "https://www.cna.com.tw/news/acul/202608190279.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-19T10:31:01+00:00"
+      },
+      {
+        "id": "f4f457b395e6",
+        "title": "乘客疑酒醉狂吼踹座椅 高鐵：列車到站後交鐵警處理",
+        "summary": "（中央社記者黃巧雯台北19日電）有旅客搭高鐵北上出差，卻遇疑似酒醉乘客不斷大吼，甚至踹前方乘客座椅。台灣高鐵今天對此表示，列車人員獲報後，由組員及車安人員到場看顧，列車到站後，即交由鐵路警察處理。",
+        "url": "https://www.cna.com.tw/news/ahel/202608190277.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-19T10:28:57+00:00"
+      },
+      {
+        "id": "4e927bdeed7f",
+        "title": "AI從X光影像找出骨鬆　台大雲林分院116年擴大運用",
+        "summary": "（中央社記者姜宜菁雲林縣19日電）台大醫院雲林分院骨科醫師傅紹懷運用院內近10年資料，讓AI分析X光影像，估算骨密度，其數值與公定的DXA數值相近，明年起將深入縣內多所衛生所，從「看病」走向「預防」。",
+        "url": "https://www.cna.com.tw/news/ahel/202608190261.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-19T09:45:22+00:00"
+      },
+      {
+        "id": "78dee476b917",
+        "title": "種苗場推部落豆類保種　鵲豆等健康種子種回原鄉",
+        "summary": "（中央社記者汪淑芬台北19日電）部落種植的豆類一直是飲食、生活與祭儀的重要作物，因人口外移及傳統文化式微，影響豆類產量與品質。農業部種苗場推動部落豆類保種，已成功將鵲豆等健康種子種回原鄉。",
+        "url": "https://www.cna.com.tw/news/ahel/202608190259.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-19T09:43:18+00:00"
+      },
+      {
+        "id": "9fde506d4946",
+        "title": "MyData助身障者線上申辦牌照稅免稅　14縣市介接上線",
+        "summary": "（中央社記者趙敏雅台北19日電）數發部今天表示，MyData個人化資料自主運用平台提供「使用牌照稅身心障礙者免稅申請」線上服務，目前已有14縣市完成介接，身心障礙者完成身分驗證及自主同意後，透過MyData取得戶籍、身心障礙、車籍及駕籍等申辦所需資料，不用外出奔波，線上即可完成申請。",
+        "url": "https://www.cna.com.tw/news/ahel/202608190258.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-19T09:41:15+00:00"
+      },
       {
         "id": "8500ad50cd54",
         "title": "李洋出席誠正中學座談會　鼓勵翻轉挫折回歸正軌",
@@ -12,7 +68,7 @@
       },
       {
         "id": "ba0e7f5b15f9",
-        "title": "製造業加薪可增聘外籍移工  逾8000名本勞受惠",
+        "title": "製造業雇主幫本國勞工加薪可增聘移工　已逾8000人受惠",
         "summary": "（中央社記者吳欣紜台北19日電）解決產業缺工，勞動部推動跨國勞動力精進方案，製造業雇主只要替1名本勞加薪新台幣2000元就可增聘1名移工，據統計，已有3915家製造業通過審核、受惠本勞逾8000人。",
         "url": "https://www.cna.com.tw/news/ahel/202608190254.aspx",
         "source": "中央社即時新聞 生活醫藥",
@@ -25,62 +81,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202608190249.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-19T09:24:54+00:00"
-      },
-      {
-        "id": "7b559d415be7",
-        "title": "勞動部將組公平招募輔導團　助雇主接軌國際標準",
-        "summary": "（中央社記者吳欣紜台北19日電）台灣在供應鏈角色越重要，人權保障也更受國際關注。勞動部今天表示，預計年底前成立公平招募輔導團，提供企業入廠輔導服務，說明國際規定、即時回應雇主諮詢。",
-        "url": "https://www.cna.com.tw/news/ahel/202608190244.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-19T09:22:43+00:00"
-      },
-      {
-        "id": "439059b61c59",
-        "title": "低壓帶影響中南部　氣象署不排除大規模豪雨作業",
-        "summary": "（中央社記者余曉涵台北19日電）中央氣象署預報員張承傳今天表示，明天到23日台灣都在低壓帶裡，中南部要留意雨勢，尤其21日至23日的雨勢較明顯，不排除有機會達到發布大規模豪雨作業的等級。",
-        "url": "https://www.cna.com.tw/news/ahel/202608190239.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-19T09:20:33+00:00"
-      },
-      {
-        "id": "bf34d8e248d5",
-        "title": "文總再推敬軍活動　陪國軍歡度九三軍人節",
-        "summary": "（中央社記者王寶兒台北19日電）文總去年首度舉辦敬軍活動「93國軍英雄 感謝有你」，獲得熱烈迴響。今年再度舉行，集結射擊挑戰、手作體驗、照相館、肩頸按摩等活動，向國軍英雄表達感謝與支持。",
-        "url": "https://www.cna.com.tw/news/acul/202608190227.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-19T09:03:07+00:00"
-      },
-      {
-        "id": "bfa6cc1758cd",
-        "title": "彭啓明：廢棄物處理為發展基石　拚2年黃金轉型",
-        "summary": "（中央社記者張雄風台北19日電）環境部長彭啓明今天表示，廢棄物處理是國家發展的基石，未來2年會是黃金轉型期，希望透過數位化、跨部會及公私協力，幫助產業有更好的目標，從產業輔導及制度面協助成長。",
-        "url": "https://www.cna.com.tw/news/ahel/202608190225.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-19T09:01:03+00:00"
-      },
-      {
-        "id": "9d72491c805a",
-        "title": "卓榮泰見證晴空季　盼借文化力量縫合政院、立院距離",
-        "summary": "（中央社記者王寶兒台北19日電）邀民眾走進文化空總的晴空季於1日起跑，文化部長李遠今天透露，至今吸引超過7000人次。行政院長卓榮泰表示，希望借助文化「縫合」的力量，也來縫合行政院與立法院的距離。",
-        "url": "https://www.cna.com.tw/news/acul/202608190204.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-19T08:20:18+00:00"
-      },
-      {
-        "id": "ae04a525568f",
-        "title": "衛福部提兒童托育準則草案　寶寶睡著須定時查看入法",
-        "summary": "（中央社記者沈佩瑤台北19日電）孩童送托育意外時有所聞，衛生福利部昨天首度預告「兒童托育服務實施準則」草案，將睡眠期間定時確認兒童狀況明確入法，另包括餵藥、成長追蹤等均明確規範，預告期60天。",
-        "url": "https://www.cna.com.tw/news/ahel/202608190193.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-19T07:49:54+00:00"
-      },
-      {
-        "id": "d550ec176a74",
-        "title": "族語認證8月起推在地測驗　導入即測即發證",
-        "summary": "（中央社記者張雄風台北19日電）原民會今天宣布8月起開辦初級與中級族語認證在地測驗，分到校與到鄉辦理，並首創「即測、即評、即發證」，考生最快當天下午即可領證，大幅提升應試便利性與服務效率。",
-        "url": "https://www.cna.com.tw/news/ahel/202608190189.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-19T07:31:45+00:00"
       },
       {
         "id": "fc65db3834db",
@@ -725,12 +725,36 @@
     ],
     "破(day)": [
       {
+        "id": "9f668d3f4a43",
+        "title": "駁光州雙年展基金會說法　文化部堅持以台灣館參展",
+        "summary": "（中央社記者王寶兒台北19日電）韓國光州雙年展基金會今天聲明，國美館今年是以「機構參與者」身分簽署光州雙年展協議。文化部回應，國美館獲同意Taiwan Pavilion申請案及簽約，「這是雙方往返皆存在的事實」。",
+        "url": "https://www.cna.com.tw/news/acul/202608190299.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-19T11:37:45+00:00"
+      },
+      {
+        "id": "9c0253644a2f",
+        "title": "金典文學改編媒合會　13作品朝原創IP邁進",
+        "summary": "（中央社記者邱祖胤台北19日電）國立台灣文學館（台文館）今天舉行「金典文學改編媒合會──影視場」，共推介13部台灣文學作品，朝原創IP邁進，開發跨域合作發展的可能。",
+        "url": "https://www.cna.com.tw/news/acul/202608190279.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-19T10:31:01+00:00"
+      },
+      {
         "id": "45f5cfc86e54",
         "title": "Ihsane review – Sidi Larbi Cherkaoui leads us from brutal tragedy to euphoric harmony",
         "summary": "Festival theatre, EdinburghThe choreographer combines a homophobic killing from 2012 with a remembrance for his father in an often rapturous show about healingIn 2019 at the Edinburgh international festival, the Swiss director Milo Rau staged an intense theatrical investigation, La Reprise: Histoire...",
         "url": "https://www.theguardian.com/stage/2026/aug/19/ihsane-review-sidi-larbi-cherkaoui-leads-us-from-brutal-tragedy-to-euphoric-harmony",
         "source": "Stage | The Guardian",
         "published": "2026-08-19T10:28:54+00:00"
+      },
+      {
+        "id": "ad5a7b8f6029",
+        "title": "光州雙年展否認政治審查　文化部：韓方說法明顯有誤",
+        "summary": "（中央社台北19日電）韓國光州雙年展基金會今天發表聲明表示，國美館今年是以「機構參與者」身分簽署展覽協議，依規定以機構名稱標示展館，並否認涉及「政治審查」。文化部回應，韓方說法明顯有誤，台灣館6月突遭改名，所有過程有往返信件佐證。",
+        "url": "https://www.cna.com.tw/news/acul/202608190271.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-19T10:20:44+00:00"
       },
       {
         "id": "bf34d8e248d5",
@@ -981,6 +1005,14 @@
         "published": "2026-08-18T16:00:00+00:00"
       },
       {
+        "id": "93048a2be5e8",
+        "title": "Organismi OR—1, free for iPad: breathing, stochastic pattern generator",
+        "summary": "OR—1 is an artful, generative MIDI sequencer maker. It's free for iPad as an AUv3, with a desktop macOS version available for €19.99. And it's an exquisite experience feeding these into synths.\nThe post Organismi OR—1, free for iPad: breathing, stochastic pattern generator appeared first on CDM Crea...",
+        "url": "https://cdm.link/organismi-or-1/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-18T14:16:59+00:00"
+      },
+      {
         "id": "ddc7f60a76cc",
         "title": "Bigfoot Ripped My Dog in Half I Saw It review – Xhloe and Natasha create a monster hit",
         "summary": "Summerhall, EdinburghWith physical and vocal agility, the tricksy clown duo trigger an avalanche of misinformation in this feverish treatHere is a show every bit as breathless as its title, stoked by bursts of high-energy 90s chart hits and delivered just as slickly by Xhloe and Natasha. Their physi...",
@@ -995,30 +1027,6 @@
         "url": "https://www.cna.com.tw/news/acul/202608180294.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-08-18T12:03:43+00:00"
-      },
-      {
-        "id": "748d282d837f",
-        "title": "孩子跟大自然學創作  台灣設計展9月秀成果",
-        "summary": "（中央社記者王寶兒台北18日電）台灣設計展9月將首度移師桃園舉辦，40名孩子為此走進山林、古道中，讓大自然當老師，並採集物件，以此發展為創作，成果將在台灣設計展展出。",
-        "url": "https://www.cna.com.tw/news/acul/202608180293.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-18T11:58:41+00:00"
-      },
-      {
-        "id": "349abef15e69",
-        "title": "台漫東京3書店展出　特製紙書衣貼近日本文化",
-        "summary": "（中央社記者王寶兒台北18日電）讓台灣漫畫走進日本讀者的生活，文化部駐日台灣文化中心策辦「NEW VISIONS－打開台灣漫畫之窗」活動，即日起在日本東京3家書店展開，精選35部台灣漫畫展示，也特製紙書衣。",
-        "url": "https://www.cna.com.tw/news/acul/202608180289.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-18T11:37:32+00:00"
-      },
-      {
-        "id": "4a720fd78c76",
-        "title": "吳念真「人間條件三」重返舞台　演繹人生缺憾",
-        "summary": "（中央社記者趙靜瑜台北18日電）睽違11年，由作家吳念真編導的「人間條件三--台北上午零時」將重返舞台，演員林美秀與羅北安再度同台，演員謝銘祐首度加入，演繹關於青春、友情、愛情與遺憾的生命記憶。",
-        "url": "https://www.cna.com.tw/news/acul/202608180264.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-18T10:20:37+00:00"
       },
       {
         "id": "2137efb163dc",
@@ -1091,6 +1099,14 @@
         "url": "https://www.smithsonianmag.com/innovation/australias-social-media-ban-for-teens-may-not-be-the-best-solution-but-its-certainly-getting-people-talking-180989355/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-17T19:15:28+00:00"
+      },
+      {
+        "id": "aaf017ff723f",
+        "title": "Handmade experimental synths and DIY from Argentina’s Los Aparatos",
+        "summary": "From Tucumán, Argentina, Los Aparatos are constructing handmade synths and electronics education and DIY projects. And now you can ship their experimental synthesizer, Auduina MK2, internationally. Plus, those pink controls and creative projects are just irresistible. Let's take a look.\nThe post Han...",
+        "url": "https://cdm.link/los-aparatos/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-17T16:29:47+00:00"
       },
       {
         "id": "64d2de79d3b4",
@@ -1341,6 +1357,14 @@
         "published": "2026-08-14T16:00:00+00:00"
       },
       {
+        "id": "6c634d18552d",
+        "title": "otophon is a plug-in to play tones inside your head",
+        "summary": "This one's for the heads, literally. Otoacoustic emissions (OAEs) are sounds produced by your ear, ghostly tones emitted from inside the cochlea itself. The phenomenon has been employed in experimental music (and medical applications), but it has been hard to explore on your own -- until now.\nThe po...",
+        "url": "https://cdm.link/otophon-is-a-plug-in-to-play-tones-inside-your-head/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-14T11:52:05+00:00"
+      },
+      {
         "id": "14c1f4912c4c",
         "title": "話題》一種肉體性的閱讀，一種異化過的翻譯：《讓我們下沉》譯者序",
         "summary": "莎菲與喬治亞男人消失於黑暗，遠離其他男人與他們的火堆。我蜷曲身體，脖子埋進胸口，膝蓋頂著腹部，感激小小的慈悲：喬治亞男人的手下沒有輪流上她。但是我聽見莎菲，她在暗處吶喊。我沒捂起耳朵。如果她必須忍受這個，我至少該忍著見證。\n\n這是《讓我們下沉》書裡的一段，主角阿妮絲是個來自非洲達荷美王國的第三代美國黑奴，是她在卡羅萊納州的主人強暴她的母親而生，長大後，她的親生父親強暴她不成，就把她賣給奴隸販子帶到紐奧良的奴隸拍賣市場。\n\n\n達荷美王國末代國王Béhanzin於1894年向法國投降。（圖源：wikipedia）\n\n\n從卡羅萊納州到紐奧良，女主角的閨蜜兼愛人莎菲被解押黑奴的護衛頭子強暴，女主角說：...",
@@ -1363,6 +1387,14 @@
         "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "source": "Claude Blog",
         "published": "2026-08-14T00:00:00+00:00"
+      },
+      {
+        "id": "077ae72807a5",
+        "title": "UR soul: John Jammin Collins’ story, Detroit’s story, as a call to action",
+        "summary": "Digging into the history of John \"Jammin'\" Collins, you hear a history of Detroit and the potential of music to give back. The techno and progressive soul legend's journey is also intertwined with health. It all lands as a challenge to do something meaningful with our sounds and to care for the peop...",
+        "url": "https://cdm.link/ur-soul-john-jammin-collins/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-13T17:15:59+00:00"
       },
       {
         "id": "6b6bec343f1c",
@@ -1477,6 +1509,14 @@
         "published": "2026-08-12T17:02:02+00:00"
       },
       {
+        "id": "e4207539e326",
+        "title": "Blind musician Jason Dasent worked with Roland to make a guide for V-STAGE",
+        "summary": "Jason Dasent, a blind, UK-based Trinidadian musician, producer, and globally recognized accessibility consultant, has teamed up with the Roland Future Design Lab. The result: a comprehensive accessibility guide to every control, jack, widget, and function on the V-STAGE performance keyboard. More li...",
+        "url": "https://cdm.link/blind-musician-jason-dasent-worked-with-roland-to-make-a-guide-for-v-stage/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-12T16:58:48+00:00"
+      },
+      {
         "id": "40482cadee50",
         "title": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事",
         "summary": "2015年到俄羅斯網軍農場臥底兩個半月後，薩夫丘克向媒體揭發其運作。她原以為這會震撼大眾，進而協助停止其運作；然而，大部分人卻不以為意。這讓她更恐懼。農場製造的謊言不只變成現實，連農場本身的存在也被視為常態⋯⋯",
@@ -1547,6 +1587,14 @@
         "url": "https://www.twreporter.org/a/sugar-dating",
         "source": "報導者",
         "published": "2026-08-11T16:00:00+00:00"
+      },
+      {
+        "id": "1527be43c211",
+        "title": "The TR-808 is getting an MSW open-source firmware and a Tubbutec mod",
+        "summary": "From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend the 808's life and expand its features. A new 808 firmware joins firmware for the TR-606 and TR-303. Meet SuperOS-808.From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend ...",
+        "url": "https://cdm.link/superos-808/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-11T15:34:05+00:00"
       },
       {
         "id": "52ba544d9ce9",
@@ -1669,6 +1717,14 @@
         "published": "2026-08-10T13:00:25+00:00"
       },
       {
+        "id": "7939d09ccce2",
+        "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
+        "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major security vulnerability in many CDJ and XDJ models and all Rekordbox software for macOS, Windows, Android, and iOS. You should definitely patch your software, but what does this mean, exactly, and who's affected?...",
+        "url": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-10T11:03:06+00:00"
+      },
+      {
         "id": "98e7e980fd24",
         "title": "美國四州聯手控 Meta 涉讓兒童成癮，求償金額逼近市值",
         "summary": "Facebook 母公司 Meta 在美國接連遭判有罪，並遭判近 10 億美元（約新台幣 322 億元）損害賠 [&#8230;]",
@@ -1691,6 +1747,14 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q225405886917896652",
         "source": "國家圖書館",
         "published": "2026-08-09T16:00:00+00:00"
+      },
+      {
+        "id": "5268f9bf8083",
+        "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
+        "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 808 Day (August 8), 2026.\nThe post Strange, wonderful #808day creations from Japan &#8212; and a DIY D-Beam! appeared first on CDM Create Digital Music...",
+        "url": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-09T15:30:32+00:00"
       },
       {
         "id": "1bf564c3660c",
@@ -1731,6 +1795,22 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260263",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-08-09T01:13:00+00:00"
+      },
+      {
+        "id": "fb707f948fdd",
+        "title": "808 Day: free Roland e-Bjook, NTS Radio jams, animation",
+        "summary": "We could all use an 808 kick in our soul about now, so let's get straight to the 808 Day goodness. Today's a day to browse through Roland history with Bjooks, turn up NTS Radio, and immerse ourselves in a new animation featuring Mannie Fresh.\nThe post 808 Day: free Roland e-Bjook, NTS Radio jams, an...",
+        "url": "https://cdm.link/808-day-2026/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-08T09:01:48+00:00"
+      },
+      {
+        "id": "2cae466cbeae",
+        "title": "The strength of grieving together, in Felisha Ledesma and Snakeskin",
+        "summary": "We live in a world of solitary trauma and unrealized grief. We can sit alone with our phones and see it reduced to images in an algorithm. We can see our loved ones go through trauma in ways we can't even understand or reach. In Palm of Hand, through extemporaneous collaboration between Snakeskin an...",
+        "url": "https://cdm.link/the-strength-of-grieving-together-in-felisha-ledesma-and-snakeskin/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-07T16:11:23+00:00"
       },
       {
         "id": "988fd0f4d111",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-19T11:32:27.906942+00:00"
+        "published": "2026-08-19T13:00:19.954166+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-19T11:32:27.906932+00:00"
+        "published": "2026-08-19T13:00:19.954155+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-19T11:32:27.906922+00:00"
+        "published": "2026-08-19T13:00:19.954145+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-19T11:32:27.906912+00:00"
+        "published": "2026-08-19T13:00:19.954134+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-19T11:32:27.906901+00:00"
+        "published": "2026-08-19T13:00:19.954124+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-19T11:32:27.906891+00:00"
+        "published": "2026-08-19T13:00:19.954114+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-19T11:32:27.906881+00:00"
+        "published": "2026-08-19T13:00:19.954103+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-19T11:32:27.906872+00:00"
+        "published": "2026-08-19T13:00:19.954093+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-19T11:32:27.906862+00:00"
+        "published": "2026-08-19T13:00:19.954083+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-19T11:32:27.906852+00:00"
+        "published": "2026-08-19T13:00:19.954072+00:00"
       },
       {
         "id": "6e1981d641d1",
