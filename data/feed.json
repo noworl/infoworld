@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-20T17:36:41.533332+00:00",
+  "updated_at": "2026-08-20T18:51:00.694107+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "76e681aa1bea",
+        "title": "ARROCHA BANDA 007 DOCE MEL",
+        "summary": "FGGF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/arrocha-banda-007-doce-mel",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-20T16:20:07+00:00"
+      },
+      {
+        "id": "595671602d48",
+        "title": "chuong-125",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_26902_1787239350_hUwX",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-20T15:23:42+00:00"
+      },
       {
         "id": "842959d72c6c",
         "title": "DJ THIAGO FARIAS AO VIVO O BRUTO NO VEGAS EM OIAPOQUE ( 15 Agosto 2026)",
@@ -29,7 +45,7 @@
       {
         "id": "42b216f1d5ee",
         "title": "Your Imagination Hall and Oates Produced and Directed by Mark Pines",
-        "summary": "Your Imagination Hall and Oates Produced and Directed by Mark Pines.This item belongs to: movies/markpines.This item has files of the following types: Archive BitTorrent, Cinepack, Metadata",
+        "summary": "Your Imagination Hall and Oates Produced and Directed by Mark Pines.This item belongs to: movies/markpines.This item has files of the following types: Archive BitTorrent, Cinepack, Item Tile, Metadata, Thumbnail, h.264",
         "url": "https://archive.org/details/mp_Your_Imagination_Hall_and_Oates_Produced_and_Directed_by_Mark_Pines",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-20T14:15:30+00:00"
@@ -45,7 +61,7 @@
       {
         "id": "38b864156658",
         "title": "Woody With Chris Jesse Dee Brown 1982 08 19 Protection Master",
-        "summary": "Woody With Chris Jesse Dee Brown 1982 08 19 Protection Master.This item belongs to: movies/markpines.This item has files of the following types: Archive BitTorrent, Cinepack, Metadata",
+        "summary": "Woody With Chris Jesse Dee Brown 1982 08 19 Protection Master.This item belongs to: movies/markpines.This item has files of the following types: Archive BitTorrent, Cinepack, Item Tile, Metadata, Thumbnail, h.264",
         "url": "https://archive.org/details/mp_Woody_With_Chris_Jesse_Dee_Brown_1982-08-19_Protection_Master",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-20T14:11:47+00:00"
@@ -69,7 +85,7 @@
       {
         "id": "0c04d1b75116",
         "title": "Woody V. Woody 1982 08 18 Mark Pines",
-        "summary": "Woody V. Woody 1982 08 18 Mark Pines.This item belongs to: movies/markpines.This item has files of the following types: Archive BitTorrent, Cinepack, Metadata",
+        "summary": "Woody V. Woody 1982 08 18 Mark Pines.This item belongs to: movies/markpines.This item has files of the following types: Archive BitTorrent, Cinepack, Item Tile, Metadata, Thumbnail, h.264",
         "url": "https://archive.org/details/mp_Woody_V._Woody_1982-08-18_Mark_Pines",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-20T13:50:15+00:00"
@@ -89,22 +105,6 @@
         "url": "https://archive.org/details/mp_Woody_is_an_Artist_1982-08-19_Some_Damage",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-20T13:42:33+00:00"
-      },
-      {
-        "id": "8c0ef3d45809",
-        "title": "Woody in London Tape 12 1982 08 26 Through the Window",
-        "summary": "Woody in London Tape 12 1982 08 26 Through the Window.This item belongs to: movies/markpines.This item has files of the following types: Archive BitTorrent, Cinepack, Item Tile, Metadata, Thumbnail, h.264",
-        "url": "https://archive.org/details/mp_Woody_in_London_Tape_12_1982-08-26_Through_the_Window",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-20T13:39:23+00:00"
-      },
-      {
-        "id": "b36f75e008b7",
-        "title": "Tina Turner at the Ritz Test Footage Edit Mark Pines No Audio",
-        "summary": "Tina Turner at the Ritz Test Footage Edit Mark Pines No Audio.This item belongs to: movies/markpines.This item has files of the following types: Archive BitTorrent, Cinepack, Item Tile, Metadata, Thumbnail, h.264",
-        "url": "https://archive.org/details/mp_Tina_Turner_at_the_Ritz_Test_Footage_Edit_Mark_Pines_No_Audio",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-20T13:32:28+00:00"
       },
       {
         "id": "d52b8eae3729",
@@ -805,12 +805,36 @@
     ],
     "破(day)": [
       {
+        "id": "054a8e841caf",
+        "title": "UPDATED PRODUCT – Adafruit Gemma Sequin Starter Pack",
+        "summary": "UPDATED PRODUCT &#8211; Adafruit Gemma Sequin Starter Pack __________________________________________________________________________________________________ Make your wearables glow with the GEMMA sequin pack! This GEMMA parts pack makes it easy to add light to your wearables. It comes with thread,...",
+        "url": "https://blog.adafruit.com/2026/08/20/updated-product-adafruit-gemma-sequin-starter-pack/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-20T18:15:58+00:00"
+      },
+      {
+        "id": "0f8a98c6a865",
+        "title": "P2.5 LED Matrix Smart Clock #3DThursday #3DPrinting",
+        "summary": "user_2922936159 shares: A comprehensive ESP32-powered smart clock built on a P2.5 (or P5.0) LED matrix. Connects to WiFi and every setting is controlled via internal webserver. 5 different clock screens, scheduled screen switching, weather stats, temperature offset with AHT10 sensor. March 2026 v2.8...",
+        "url": "https://blog.adafruit.com/2026/08/20/p2-5-led-matrix-smart-clock-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-20T18:00:16+00:00"
+      },
+      {
         "id": "c4c963a91f4d",
         "title": "The Supreme Court’s 1954 Brown v. Board Ruling: “A Day That Will Live in Glory”",
         "summary": "The Supreme Court’s ruling in Brown v. Board of Education on May 17, 1954, was one of the most momentous decisions in American history and is exhaustively documented at the Library. A unanimous court emphatically ruled that the “separate but equal” doctrine of the 1896 Plessy v. Ferguson Supreme Cou...",
         "url": "https://blogs.loc.gov/loc/2026/08/the-supreme-courts-1954-brown-v-board-ruling-a-day-that-will-live-in-glory/",
         "source": "Timeless",
         "published": "2026-08-20T16:43:47+00:00"
+      },
+      {
+        "id": "3e63bbb0627b",
+        "title": "Raspberry Pi Pico + Pico Display Pack Case – Fully Enclosed with TPU Buttons #3DThursday #3DPrinting",
+        "summary": "EngineeringProj shares: A fully enclosed case for the Raspberry Pi Pico with a Pimoroni Pico Display Pack. Buttons print in TPU with two profiles (low-profile and high-profile). Includes a bottom RESET button so you don&#8217;t have to remove the Pico. Version 1 available for smaller USB cable holes...",
+        "url": "https://blog.adafruit.com/2026/08/20/raspberry-pi-pico-pico-display-pack-case-fully-enclosed-with-tpu-buttons-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-20T16:00:04+00:00"
       },
       {
         "id": "8c59d05ca4f9",
@@ -893,14 +917,6 @@
         "published": "2026-08-20T13:02:15+00:00"
       },
       {
-        "id": "d0633f27c1c9",
-        "title": "Momo Creepy smile mask #3DThursday #3DPrinting",
-        "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Momo smile mask By cforms makerworld.com/en/models/1839027-creepy-smile-horror-mask-2-wearable Bambu X1C PolyMaker PLA 5hr 16mins X:176 Y:173 Z:67mm .2mm layer / ...",
-        "url": "https://blog.adafruit.com/2026/08/20/momo-creepy-smile-mask-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-20T13:00:41+00:00"
-      },
-      {
         "id": "1e1ab76246b0",
         "title": "Abigail’s Party review – Tamzin Outhwaite’s Bev is Madame Bovary with a Cinzano",
         "summary": "Harold Pinter theatre, LondonOuthwaite’s performance as Beverly, a precision-tooled showcase in hidden anger and longing, is a triumph in this eternally resonant suburban dramaAlison Steadman has cast a long shadow over the suburban gargoyle-cum-bored-housewife in Mike Leigh’s social satire about 19...",
@@ -923,22 +939,6 @@
         "url": "https://www.cna.com.tw/news/acul/202608200325.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-08-20T12:50:57+00:00"
-      },
-      {
-        "id": "70261500129a",
-        "title": "A star racing at 15,000 miles per second tests Einstein theory of relativity",
-        "summary": "The Milky Way galaxy is anchored by a supermassive black hole named Sagittarius A*, that has a mass over four million times greater than the sun. While Sagittarius A* exerts an influence on everything inside its cosmic neighborhood, astronomers have detected one particular cosmic thrall that may off...",
-        "url": "https://blog.adafruit.com/2026/08/20/a-star-racing-at-15000-miles-per-second-tests-einstein-theory-of-relativity/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-20T12:25:54+00:00"
-      },
-      {
-        "id": "de15493e0515",
-        "title": "UPDATED GUIDE: Adafruit SCD-4x – True CO2 Temperature and Humidity Sensors #AdafruitLearningSystem @Adafruit",
-        "summary": "The Adafruit SCD-4x guide has been updated with information on how to interface with the new SCD-43 sensor breakout. The same Arduino and CircuitPython drivers and examples can be used with this board for all of your CO2, temperature and humidity sensing needs. Read more at Adafruit SCD-4x &#8211; T...",
-        "url": "https://blog.adafruit.com/2026/08/20/updated-guide-adafruit-scd-4x-true-co2-temperature-and-humidity-sensors-adafruitlearningsystem-adafruit/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-20T12:15:44+00:00"
       },
       {
         "id": "f0cf85c736f1",
@@ -2572,7 +2572,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T17:36:40.357641+00:00"
+        "published": "2026-08-20T18:50:59.403129+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2580,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T17:36:40.357628+00:00"
+        "published": "2026-08-20T18:50:59.403121+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2588,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T17:36:40.357618+00:00"
+        "published": "2026-08-20T18:50:59.403114+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2596,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T17:36:40.357608+00:00"
+        "published": "2026-08-20T18:50:59.403107+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2604,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T17:36:40.357597+00:00"
+        "published": "2026-08-20T18:50:59.403099+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2612,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T17:36:40.357587+00:00"
+        "published": "2026-08-20T18:50:59.403092+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2620,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T17:36:40.357577+00:00"
+        "published": "2026-08-20T18:50:59.403085+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2628,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T17:36:40.357567+00:00"
+        "published": "2026-08-20T18:50:59.403077+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2636,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T17:36:40.357556+00:00"
+        "published": "2026-08-20T18:50:59.403070+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2644,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T17:36:40.357546+00:00"
+        "published": "2026-08-20T18:50:59.403063+00:00"
       },
       {
         "id": "a59e144a5022",
