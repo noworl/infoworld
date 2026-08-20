@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-08-20T09:46:24.191512+00:00",
+  "updated_at": "2026-08-20T10:37:55.605713+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "177ba4cfb6af",
+        "title": "國旅補助估帶動400萬旅遊人次　生日券逾2萬筆登錄",
+        "summary": "（中央社記者黃巧雯台北20日電）交通部觀光署今天宣布，國旅補助將於9月1日陸續上路。署長陳玉秀說，預期可望帶動國內外旅客400萬人次，產值約新台幣180億元，生日券部分，截至目前已2萬多筆資料完成登記。",
+        "url": "https://www.cna.com.tw/news/ahel/202608200221.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-20T09:15:15+00:00"
+      },
+      {
+        "id": "772b1869da9a",
+        "title": "基輔芭蕾舞團帶來「天鵝湖」 堅持烏克蘭藝術話語權",
+        "summary": "（中央社記者趙靜瑜台北20日電）基輔芭蕾舞團將帶來經典芭蕾舞碼「天鵝湖」，藝術總監斯托亞諾夫表示，柴可夫斯基的血統與創作靈感與烏克蘭淵源深厚，「我們堅持用自己的藝術話語權，說自己的故事。」",
+        "url": "https://www.cna.com.tw/news/acul/202608200218.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-20T09:10:09+00:00"
+      },
+      {
+        "id": "52808c4d6bfb",
+        "title": "不要只撒錢　老盟與NPO籲開發適合高齡者職缺",
+        "summary": "（中央社記者陳婕翎台北20日電）翻轉撒錢思維，老盟號召全台高齡非營利組織（NPO）提10大行動，籲推動在地高齡職場留任支持，盤點在地產業、開發適合高齡者工作職缺，並盤點交通資源，保障高齡者外出權益。",
+        "url": "https://www.cna.com.tw/news/ahel/202608200214.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-20T08:59:58+00:00"
+      },
+      {
+        "id": "4fe8cbc6fa61",
+        "title": "新北竹縣宜蘭防豪雨　苗栗以北及雲林以南局部大雨",
+        "summary": "（中央社台北20日電）氣象署發布豪雨特報，低壓帶及西南風影響，易有短延時強降雨，今天新北市、新竹縣、宜蘭縣山區有局部大雨或豪雨，苗栗以北及雲林以南地區、宜蘭及花蓮地區、南投山區有局部大雨發生的機率。",
+        "url": "https://www.cna.com.tw/news/ahel/202608200203.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-20T08:34:34+00:00"
+      },
       {
         "id": "c2939440d6cc",
         "title": "04.2 If You Liked It Then You Should Have Put A (sect Robe) On It",
@@ -9,6 +41,22 @@
         "url": "https://archive.org/details/04.2-if-you-liked-it-then-you-should-have-put-a-sect-robe-on-it",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-20T08:33:33+00:00"
+      },
+      {
+        "id": "9ae8d84f6a1d",
+        "title": "首款mRNA癌症藥物　專家：客製化治療非預防性質",
+        "summary": "（中央社記者沈佩瑤台北20日電）莫德納與默沙東開發首款mRNA癌症治療藥物，可降低黑色素瘤復發。台灣血液腫瘤科醫師解析，這不是一般預防感染的「疫苗」，而是個人化癌症治療藥物，相信未來可拓展至更多癌別。",
+        "url": "https://www.cna.com.tw/news/ahel/202608200194.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-20T08:17:15+00:00"
+      },
+      {
+        "id": "adf85cc6d0eb",
+        "title": "低壓帶及西南風影響　新竹縣山區防豪雨",
+        "summary": "（中央社台北20日電）中央氣象署發布豪雨特報，低壓帶及西南風影響，易有短延時強降雨，今天新竹縣山區有局部大雨或豪雨，苗栗以北及雲林以南地區、宜蘭及花蓮地區、南投山區有局部大雨發生的機率。",
+        "url": "https://www.cna.com.tw/news/ahel/202608200193.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-20T08:17:13+00:00"
       },
       {
         "id": "aa595d5b63c2",
@@ -59,14 +107,6 @@
         "published": "2026-08-20T05:55:03+00:00"
       },
       {
-        "id": "f50aaddb2e24",
-        "title": "郵輪旅客估破119.7萬人次創新高　20艘國際郵輪首航台灣",
-        "summary": "（中央社記者黃巧雯台北20日電）全球郵輪市場持續復甦，港務公司今天表示，估今年國際郵輪靠泊將達605艘次，而旅客突破119.7萬人次，可望再創歷史紀錄，並將迎來探險郵輪「島嶼天空號」等20艘國際郵輪首航台灣。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200136.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T05:54:09+00:00"
-      },
-      {
         "id": "7d030f3a8327",
         "title": "Antenne Bad Kreuznach PartyBash mit Enrico Ostendorf (31.07.2026)",
         "summary": "Antenne Bad Kreuznach PartyBash mit Enrico Ostendorf (17.07.2026) 4 hours in the mix Tracklist: 260731 HitMix KH 31KW Teil 1 260731 HitMix KH 31KW Teil 2 260731 HitMix KH 31KW Teil 3 260731 HitMix KH 31KW Teil 4 260731 HitMix KH 31KW Teil 5 260731 HitMix KH 31KW Teil 6 260731 HitMix KH 31KW Teil 7 2...",
@@ -83,52 +123,12 @@
         "published": "2026-08-20T05:03:41+00:00"
       },
       {
-        "id": "412fe7b32718",
-        "title": "台師大把實驗室搬進原民部落　鼓勵偏孩子做科學",
-        "summary": "（中央社記者陳至中台北20日電）台灣師範大學化學系名譽教授姚清發帶領團隊，近日把實驗室帶到嘉義縣阿里山鄉達邦國小，鼓勵約50名鄒族學童探索科學的奧秘。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200106.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T04:53:04+00:00"
-      },
-      {
-        "id": "b9abbc9d0674",
-        "title": "大巨蛋莫內花園8/22試營運　北捷加強疏運適時過站不停",
-        "summary": "（中央社記者葉蓁芸台北20日電）台北大巨蛋Garden City B區「莫內花園」22日試營運，台北捷運公司今天表示，將加強疏運並適時調派加班車，若商場人潮達容留上限，將調度部分列車過站不停。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200105.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T04:52:02+00:00"
-      },
-      {
-        "id": "faa64fdb48ca",
-        "title": "13縣市大雨特報　新北注意山區暴雨",
-        "summary": "（中央社記者張雄風台北20日電）氣象署今天中午更新大雨特報，低壓帶及西南風影響，易有短延時強降雨，雲林以南地區及苗栗以北地區防局部大雨發生；並針對新北市發布山區暴雨災防告警訊息。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200096.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T04:29:43+00:00"
-      },
-      {
         "id": "3e4d6723c09c",
         "title": "P150 - Whimsical cloud castle - Summer Collection 2026 - August 1st",
         "summary": "A whimsical cloud castle, P150, floats serenely in the sky, a dreamlike fortress of fluffy white architecture and ethereal beauty..This item belongs to: data/audiobook_viet.This item has files of the following types: Archive BitTorrent, Comma-Separated Values, Metadata, Unknown",
         "url": "https://archive.org/details/p150-whimsical-cloud-castle-2026-08-01",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-20T04:26:14+00:00"
-      },
-      {
-        "id": "456fae77ff35",
-        "title": "糖尿病救命藥升糖素恐短缺　食藥署啟動徵求專案",
-        "summary": "（中央社記者沈佩瑤台北20日電）必要藥品之一的升糖素「Glucagon注射劑型」，是糖尿病患者嚴重低血糖的救命藥，國內僅一張許可證，因廠商轉換包裝規格，預計今年第4季影響供應，食藥署提前徵求專案製造或輸入。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200094.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T04:22:38+00:00"
-      },
-      {
-        "id": "7697f73c9cb6",
-        "title": "光復節連假離島管制航線　8/24上午9時開放訂位",
-        "summary": "（中央社記者黃巧雯台北20日電）今年光復節有3天連假，交通部民用航空局今天宣布，澎湖、金門、馬祖3離島管制航線將提供1072架次、逾8.7萬個座位數，自8月24日上午9時起開放訂位。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200091.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T04:16:32+00:00"
       },
       {
         "id": "c8b758535ebb",
@@ -725,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "7fe4f3f0a340",
+        "title": "Flexi Armadillo Girdled Lizard – Sensory Fidget #3DThursday #3DPrinting",
+        "summary": "FilliFuu shares: A new hybrid flexi featuring the new link-flexi body with classic link-flexi arms. Just like the real lizard, this flexi can roll into a defensive ball, flex, twist, and fidget. Print-in-place with no brim or supports. 15% gyroid infill, Arachne walls for improved facial detail with...",
+        "url": "https://blog.adafruit.com/2026/08/20/flexi-armadillo-girdled-lizard-sensory-fidget-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-20T10:00:33+00:00"
+      },
+      {
+        "id": "772b1869da9a",
+        "title": "基輔芭蕾舞團帶來「天鵝湖」 堅持烏克蘭藝術話語權",
+        "summary": "（中央社記者趙靜瑜台北20日電）基輔芭蕾舞團將帶來經典芭蕾舞碼「天鵝湖」，藝術總監斯托亞諾夫表示，柴可夫斯基的血統與創作靈感與烏克蘭淵源深厚，「我們堅持用自己的藝術話語權，說自己的故事。」",
+        "url": "https://www.cna.com.tw/news/acul/202608200218.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-20T09:10:09+00:00"
+      },
+      {
         "id": "e6a07180d98d",
         "title": "Raspberry Pi 5 Active Cooler Case – Minimalist Power + HDMI #3DThursday #3DPrinting",
         "summary": "HennetheHarleki shares: A minimal Pi 5 case designed to use the Pi 5 directly with the official active cooler. Single opening on the side for power supply and HDMI ports. Simple, ultra-clean form-factor for permanent installations where you don&#8217;t need the other IO. By Henne the Harlekin downlo...",
@@ -869,14 +885,6 @@
         "published": "2026-08-19T20:00:05+00:00"
       },
       {
-        "id": "a936c8aeeecb",
-        "title": "Arduino Spider-Man Web Shooter #WearableWednesday",
-        "summary": "Built from cardboard, an Arduino, a motion sensor and some clever crafting, Barquinics created this web-shooter. Not quite ready to swing from the rooftops, but they it does look super fun! see the guide on Instructables: In this project, we&#8217;ll build a wearable, motion-triggered web-shooter us...",
-        "url": "https://blog.adafruit.com/2026/08/19/arduino-spider-man-web-shooter-wearablewednesday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-19T19:51:08+00:00"
-      },
-      {
         "id": "f25104be26dc",
         "title": "Giraffe review – sparkling one-woman show stands out from the crowd",
         "summary": "Pleasance Courtyard, EdinburghAn unlikely relationship blossoms in Abigail Weinstock’s compelling and touching solo dramaIt takes a brave writer/performer to make her character a sociopath. How to keep the audience on board with someone who is callous and indifferent?In Abigail Weinstock’s sparkling...",
@@ -891,6 +899,14 @@
         "url": "https://www.theguardian.com/stage/2026/aug/19/my-edinburgh-fringe-odyssey-the-nudity-is-expressive-shocking-sometimes-harrowing",
         "source": "Stage | The Guardian",
         "published": "2026-08-19T16:42:59+00:00"
+      },
+      {
+        "id": "964c5fe181c3",
+        "title": "Lucid slices, stretches, and scrubs sound like no other granular FX",
+        "summary": "Talking granular effects is like talking ice cream -- it's all about the different flavors. So look at what Minimal Audio has given us: Lucid is a pulsing purple granular multi-effect. And it's capable of everything from bleeding-edge and ambient drones to animated, tempo-synced rhythmic sliced mayh...",
+        "url": "https://cdm.link/lucid-slices-stretches-and-scrubs-sound-like-no-other-granular-fx/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-19T16:25:03+00:00"
       },
       {
         "id": "ce7e13a7a6a9",
@@ -997,6 +1013,14 @@
         "published": "2026-08-19T08:20:18+00:00"
       },
       {
+        "id": "1fa23b83e5a5",
+        "title": "Shapes and ladders: Edinburgh fringe’s dance shows reach for the sky",
+        "summary": "With brute strength and beauty, party tricks and personal revelations, this year’s dance and circus programme has ambition and a spirit of togethernessIf you want to be wowed by technical prowess, I recommend taking a trip to see a couple of New York pole dancers, Donna Carnow and Gina Alm, in their...",
+        "url": "https://www.theguardian.com/stage/2026/aug/19/edinburgh-fringe-dance-shows-circus",
+        "source": "Stage | The Guardian",
+        "published": "2026-08-19T08:19:52+00:00"
+      },
+      {
         "id": "fa75f74ded02",
         "title": "光州雙年展不見台灣館　李遠：持續抗議絕不放棄",
         "summary": "（中央社記者王寶兒台北19日電）文化部數度抗議韓國光州雙年展基金會逕自以國立台灣美術館英文館名（NTMoFA）替代台灣館（Taiwan Pavilion），文化部長李遠今天重申，絕不輕言放棄。",
@@ -1069,14 +1093,6 @@
         "published": "2026-08-18T18:14:03+00:00"
       },
       {
-        "id": "93e2962cc074",
-        "title": "‘Audiences ask to feel my calves!’ The endurance extremists pounding treadmills and pumping pedals at the fringe",
-        "summary": "How do you keep audiences gripped while cycling 27km per show? From the Australian recreating a Tour de France win to a ‘toxically positive’ spin queen, we meet the acts bringing Olympian fitness to EdinburghBlood and sweat drip to the floor. Tears are on their way. In a small room in Edinburgh, Meg...",
-        "url": "https://www.theguardian.com/stage/2026/aug/18/endurance-extremists-edinburgh-fringe",
-        "source": "Stage | The Guardian",
-        "published": "2026-08-18T16:25:40+00:00"
-      },
-      {
         "id": "fbef2a0109e9",
         "title": "當陪伴能議價：在Sugar Dating的遊戲規則下，誰承擔了風險，誰又真正掌握主導權？",
         "summary": "你聽過Sugar Dating（糖約會）嗎？本集中，平台使用者喬薇（化名）分享她在過程中奪回身體與關係主導權的感受；研究性別與性工作的社會學者陳美華則在個人奪回主導權的敘事之外，看見平台端不應被忽視的責任。",
@@ -1125,12 +1141,12 @@
         "published": "2026-08-18T16:00:00+00:00"
       },
       {
-        "id": "3cb130acf310",
-        "title": "「打開台灣漫畫之窗」東京登場　鐵窗花化身紙書衣",
-        "summary": "（中央社記者戴雅真東京18日專電）「NEW VISIONS－打開台灣漫畫之窗」今天在淳久堂書店池袋本店揭幕，並同步於magmabooks虎之門之丘店及東京堂書店神田神保町店登場。活動精選35部台灣漫畫，並特別將漫畫家南南日創作的主視覺製成限定紙書衣，貼近日本閱讀習慣，讓台漫走進當地讀者日常。",
-        "url": "https://www.cna.com.tw/news/acul/202608180294.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-18T12:03:43+00:00"
+        "id": "93048a2be5e8",
+        "title": "Organismi OR—1, free for iPad: breathing, stochastic pattern generator",
+        "summary": "OR—1 is an artful, generative MIDI sequencer maker. It's free for iPad as an AUv3, with a desktop macOS version available for €19.99. And it's an exquisite experience feeding these into synths.\nThe post Organismi OR—1, free for iPad: breathing, stochastic pattern generator appeared first on CDM Crea...",
+        "url": "https://cdm.link/organismi-or-1/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-18T14:16:59+00:00"
       },
       {
         "id": "924d3f83ea26",
@@ -1179,6 +1195,14 @@
         "url": "https://www.smithsonianmag.com/innovation/australias-social-media-ban-for-teens-may-not-be-the-best-solution-but-its-certainly-getting-people-talking-180989355/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-17T19:15:28+00:00"
+      },
+      {
+        "id": "aaf017ff723f",
+        "title": "Handmade experimental synths and DIY from Argentina’s Los Aparatos",
+        "summary": "From Tucumán, Argentina, Los Aparatos are constructing handmade synths and electronics education and DIY projects. And now you can ship their experimental synthesizer, Auduina MK2, internationally. Plus, those pink controls and creative projects are just irresistible. Let's take a look.\nThe post Han...",
+        "url": "https://cdm.link/los-aparatos/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-17T16:29:47+00:00"
       },
       {
         "id": "64d2de79d3b4",
@@ -1413,6 +1437,14 @@
         "published": "2026-08-14T16:00:00+00:00"
       },
       {
+        "id": "6c634d18552d",
+        "title": "otophon is a plug-in to play tones inside your head",
+        "summary": "This one's for the heads, literally. Otoacoustic emissions (OAEs) are sounds produced by your ear, ghostly tones emitted from inside the cochlea itself. The phenomenon has been employed in experimental music (and medical applications), but it has been hard to explore on your own -- until now.\nThe po...",
+        "url": "https://cdm.link/otophon-is-a-plug-in-to-play-tones-inside-your-head/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-14T11:52:05+00:00"
+      },
+      {
         "id": "14c1f4912c4c",
         "title": "話題》一種肉體性的閱讀，一種異化過的翻譯：《讓我們下沉》譯者序",
         "summary": "莎菲與喬治亞男人消失於黑暗，遠離其他男人與他們的火堆。我蜷曲身體，脖子埋進胸口，膝蓋頂著腹部，感激小小的慈悲：喬治亞男人的手下沒有輪流上她。但是我聽見莎菲，她在暗處吶喊。我沒捂起耳朵。如果她必須忍受這個，我至少該忍著見證。\n\n這是《讓我們下沉》書裡的一段，主角阿妮絲是個來自非洲達荷美王國的第三代美國黑奴，是她在卡羅萊納州的主人強暴她的母親而生，長大後，她的親生父親強暴她不成，就把她賣給奴隸販子帶到紐奧良的奴隸拍賣市場。\n\n\n達荷美王國末代國王Béhanzin於1894年向法國投降。（圖源：wikipedia）\n\n\n從卡羅萊納州到紐奧良，女主角的閨蜜兼愛人莎菲被解押黑奴的護衛頭子強暴，女主角說：...",
@@ -1435,6 +1467,14 @@
         "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "source": "Claude Blog",
         "published": "2026-08-14T00:00:00+00:00"
+      },
+      {
+        "id": "077ae72807a5",
+        "title": "UR soul: John Jammin Collins’ story, Detroit’s story, as a call to action",
+        "summary": "Digging into the history of John \"Jammin'\" Collins, you hear a history of Detroit and the potential of music to give back. The techno and progressive soul legend's journey is also intertwined with health. It all lands as a challenge to do something meaningful with our sounds and to care for the peop...",
+        "url": "https://cdm.link/ur-soul-john-jammin-collins/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-13T17:15:59+00:00"
       },
       {
         "id": "6b6bec343f1c",
@@ -1525,6 +1565,14 @@
         "published": "2026-08-12T17:02:02+00:00"
       },
       {
+        "id": "e4207539e326",
+        "title": "Blind musician Jason Dasent worked with Roland to make a guide for V-STAGE",
+        "summary": "Jason Dasent, a blind, UK-based Trinidadian musician, producer, and globally recognized accessibility consultant, has teamed up with the Roland Future Design Lab. The result: a comprehensive accessibility guide to every control, jack, widget, and function on the V-STAGE performance keyboard. More li...",
+        "url": "https://cdm.link/blind-musician-jason-dasent-worked-with-roland-to-make-a-guide-for-v-stage/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-12T16:58:48+00:00"
+      },
+      {
         "id": "40482cadee50",
         "title": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事",
         "summary": "2015年到俄羅斯網軍農場臥底兩個半月後，薩夫丘克向媒體揭發其運作。她原以為這會震撼大眾，進而協助停止其運作；然而，大部分人卻不以為意。這讓她更恐懼。農場製造的謊言不只變成現實，連農場本身的存在也被視為常態⋯⋯",
@@ -1595,6 +1643,14 @@
         "url": "https://www.twreporter.org/a/sugar-dating",
         "source": "報導者",
         "published": "2026-08-11T16:00:00+00:00"
+      },
+      {
+        "id": "1527be43c211",
+        "title": "The TR-808 is getting an MSW open-source firmware and a Tubbutec mod",
+        "summary": "From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend the 808's life and expand its features. A new 808 firmware joins firmware for the TR-606 and TR-303. Meet SuperOS-808.From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend ...",
+        "url": "https://cdm.link/superos-808/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-11T15:34:05+00:00"
       },
       {
         "id": "036d78657fc1",
@@ -1701,12 +1757,28 @@
         "published": "2026-08-10T13:00:25+00:00"
       },
       {
+        "id": "7939d09ccce2",
+        "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
+        "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major security vulnerability in many CDJ and XDJ models and all Rekordbox software for macOS, Windows, Android, and iOS. You should definitely patch your software, but what does this mean, exactly, and who's affected?...",
+        "url": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-10T11:03:06+00:00"
+      },
+      {
         "id": "b38f74e4ffa1",
         "title": "高科技創客探險隊整裝出發！國圖OPEN LAB開放特別休館日，與青少年探索半導體材料科學議題，共築創客未來",
         "summary": "高科技創客探險隊整裝出發！國圖OPEN LAB開放特別休館日，與青少年探索半導體材料科學議題，共築創客未來,為提升青少年讀者對於創客資源之認知，國家圖書館多媒體創意實驗中心（以下簡稱OPEN LAB）於2026年8月10日辦理「2026 OPEN LAB創客培力養成營—高科技創客探險隊：無限智造，創...",
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q225405886917896652",
         "source": "國家圖書館",
         "published": "2026-08-09T16:00:00+00:00"
+      },
+      {
+        "id": "5268f9bf8083",
+        "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
+        "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 808 Day (August 8), 2026.\nThe post Strange, wonderful #808day creations from Japan &#8212; and a DIY D-Beam! appeared first on CDM Create Digital Music...",
+        "url": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-09T15:30:32+00:00"
       },
       {
         "id": "1bf564c3660c",
@@ -1747,6 +1819,14 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260263",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-08-09T01:13:00+00:00"
+      },
+      {
+        "id": "fb707f948fdd",
+        "title": "808 Day: free Roland e-Bjook, NTS Radio jams, animation",
+        "summary": "We could all use an 808 kick in our soul about now, so let's get straight to the 808 Day goodness. Today's a day to browse through Roland history with Bjooks, turn up NTS Radio, and immerse ourselves in a new animation featuring Mannie Fresh.\nThe post 808 Day: free Roland e-Bjook, NTS Radio jams, an...",
+        "url": "https://cdm.link/808-day-2026/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-08T09:01:48+00:00"
       },
       {
         "id": "988fd0f4d111",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T09:46:17.964470+00:00"
+        "published": "2026-08-20T10:37:53.521995+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T09:46:17.964459+00:00"
+        "published": "2026-08-20T10:37:53.521985+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T09:46:17.964449+00:00"
+        "published": "2026-08-20T10:37:53.521975+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T09:46:17.964437+00:00"
+        "published": "2026-08-20T10:37:53.521965+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T09:46:17.964427+00:00"
+        "published": "2026-08-20T10:37:53.521954+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T09:46:17.964416+00:00"
+        "published": "2026-08-20T10:37:53.521944+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T09:46:17.964403+00:00"
+        "published": "2026-08-20T10:37:53.521933+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T09:46:17.964371+00:00"
+        "published": "2026-08-20T10:37:53.521923+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T09:46:17.964361+00:00"
+        "published": "2026-08-20T10:37:53.521913+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T09:46:17.964350+00:00"
+        "published": "2026-08-20T10:37:53.521902+00:00"
       },
       {
         "id": "a59e144a5022",
@@ -2887,6 +2967,14 @@
         "published": "2026-07-08T07:53:30+00:00"
       },
       {
+        "id": "66a35ce81cfc",
+        "title": "MaSC at DLfM 2026!",
+        "summary": "Our Research Assistant, Xiner (Rose) Chen, had the opportunity to represent MaSC at the 2026 International Conference on Digital Libraries for Musicology (DLfM), presenting the paper “From Field to Archive: [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/07/07/masc-at-dlfm-2026/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-07-07T12:40:07+00:00"
+      },
+      {
         "id": "8ba676c36633",
         "title": "韓日音樂會第八屆於東京開場，音樂劇好手齊聚一堂",
         "summary": "2026年6月2日及3日，韓國駐日大使館韓國文化館 (KCC)與民音在韓國文化館大廳 (Hammadang H [&#8230;]",
@@ -2991,6 +3079,14 @@
         "published": "2026-05-14T15:29:10+00:00"
       },
       {
+        "id": "832aac095aa6",
+        "title": "Sounding the Mangroves: A project with the Environmental Agency of Abu Dhabi",
+        "summary": "Ongoing, 2026 Abu Dhabi MaSC is partnering with the Environmental Agency of Abu Dhabi on a joint research project employing transdisciplinary methodologies to investigate how acoustic data can serve as [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/05/12/sounding-the-mangroves-a-project-with-the-environmental-agency-of-abu-dhabi/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-05-12T10:17:47+00:00"
+      },
+      {
         "id": "20ea57f6b4fd",
         "title": "[知音分享會]05.13 來自日治時期的繞境邀約 跟歌仔戲一起「痟」媽祖",
         "summary": "燃燒整座島嶼的三月媽祖熱漸漸停歇，輪到我 [&#8230;]\nSource",
@@ -3015,12 +3111,28 @@
         "published": "2026-04-27T04:48:52+00:00"
       },
       {
+        "id": "c743e287da56",
+        "title": "Andrew Eisenberg Presents at the British Forum for Ethnomusicology",
+        "summary": "April, 2026 London, UK In April 2026, Andrew J. Eisenberg presented a co-authored paper with Tabu Osusa (Ketebul Music, Nairobi) at the British Forum for Ethnomusicology in London. The 2026 [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/04/20/andrew-eisenberg-presents-at-the-british-forum-for-ethnomusicology/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-04-20T09:57:39+00:00"
+      },
+      {
         "id": "1b0da56e8ea0",
         "title": "台南有樂町－臺灣歌謠音樂論壇",
         "summary": "｡ﾟ♫*台南有樂町－臺灣歌謠音樂論壇♫* [&#8230;]\nSource",
         "url": "https://audio.nmth.gov.tw/news/%e5%8f%b0%e5%8d%97%e6%9c%89%e6%a8%82%e7%94%ba%ef%bc%8d%e8%87%ba%e7%81%a3%e6%ad%8c%e8%ac%a0%e9%9f%b3%e6%a8%82%e8%ab%96%e5%a3%87/",
         "source": "最新消息 – 臺灣音聲100年",
         "published": "2026-04-15T02:23:53+00:00"
+      },
+      {
+        "id": "5c79251d63b8",
+        "title": "Carlos Guedes Presents MaSC Research at Universitat Pompeu Fabra’s Music Technology Group",
+        "summary": "April, 2026 Online At the invitation of the Music Technology Group at Universitat Pompeu Fabra, Carlos Guedes delivered an online seminar on April 10, 2026, titled “Discovering Unrecorded Music: Challenges [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/04/12/carlos-guedes-presents-masc-research-at-universitat-pompeu-fabras-music-technology-group/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-04-12T09:42:09+00:00"
       },
       {
         "id": "0d28bf3c207d",
@@ -3055,6 +3167,30 @@
         "published": "2026-03-31T07:00:00+00:00"
       },
       {
+        "id": "bc89968aba80",
+        "title": "MaSC Paper Accepted to DLfM 2026",
+        "summary": "March, 2026 Thessaloniki, Greece We are pleased to share that a MaSC research paper has been accepted to the 2026 edition of Digital Libraries for Musicology (DLfM). Titled From Field [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/03/25/masc-paper-accepted-to-dlfm-2026/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-03-25T10:08:55+00:00"
+      },
+      {
+        "id": "79a430aa4c3d",
+        "title": "Intercultural Music Symposium in Nairobi",
+        "summary": "March, 2026 Nairobi, Kenya In March 2026, Andrew Eisenberg participated in the Muziki Pamoja Symposium in Nairobi, an event that brought Irish and Kenyan traditional musicians into dialogue. Hosted by [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/03/18/intercultural-music-symposium-in-nairobi/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-03-18T09:59:37+00:00"
+      },
+      {
+        "id": "97fa5ed0c94a",
+        "title": "MaSC Expands Team with New Student Assistants",
+        "summary": "March, 2026 Abu Dhabi The Music and Sound Cultures (MaSC) Research Group is pleased to welcome new student assistants to the team. Selected through a competitive process, the students will [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/03/10/masc-expands-team-with-new-student-assistants/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-03-10T10:02:01+00:00"
+      },
+      {
         "id": "250178c94bdc",
         "title": "Summary of changes for February 2026",
         "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of February.\n\n\n\n  Wiki, updated knots with a figure-eight follow-through knot, also, Pino has a new headsail!\n  Pavol, created a volume control tool.\n  Adelie, made it so images are drawn faster.\n  Turye, ad...",
@@ -3063,12 +3199,36 @@
         "published": "2026-03-01T07:00:00+00:00"
       },
       {
+        "id": "6837438b1691",
+        "title": "Carlos Guedes Releases New Album: Time Poetries",
+        "summary": "February, 2026 Online and on physical media We are delighted to share that Carlos Guedes has released his latest album, Time Poetries. Released in early 2026, the album brings together [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/26/carlos-guedes-releases-new-album-time-poetries/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-02-26T10:11:32+00:00"
+      },
+      {
         "id": "852680d1f6d7",
         "title": "[知音分享會]03.09 新正年來《千金》到 《萬項事業》好彩頭",
         "summary": "知音好友們新年快樂，雖然已經開工上班，但 [&#8230;]\nSource",
         "url": "https://audio.nmth.gov.tw/news/%e6%96%b0%e6%ad%a3%e5%b9%b4%e4%be%86%e3%80%8a%e5%8d%83%e9%87%91%e3%80%8b%e5%88%b0-%e3%80%8a%e8%90%ac%e9%a0%85%e4%ba%8b%e6%a5%ad%e3%80%8b%e5%a5%bd%e5%bd%a9%e9%a0%ad/",
         "source": "最新消息 – 臺灣音聲100年",
         "published": "2026-02-26T01:11:32+00:00"
+      },
+      {
+        "id": "2271ab213414",
+        "title": "Thank You for Joining the MIR Community-Building Workshop",
+        "summary": "Last week, the MIR Community-Building Workshop on Music AI at NYU Abu Dhabi brought together students, scholars, and industry professionals for two days of research presentations, hands-on sessions, and forward-looking [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/20/thank-you-for-joining-the-mir-community-building-workshop/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-02-20T08:18:36+00:00"
+      },
+      {
+        "id": "d00aec536ee5",
+        "title": "Performance in Dialogue: Exploring Emirati and Polynesian Traditions through Al Harbiya and Haka",
+        "summary": "Last month, Andrew Eisenberg moderated Performance in Dialogue: Harbiya and Haka, an intercultural encounter connecting Emirati and Polynesian performance traditions. Bringing Al Harbiya together with Haka, the session combined performance [&#8230;]",
+        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/06/performance-in-dialogue-exploring-emirati-and-polynesian-traditions-through-al-harbiya-and-haka/",
+        "source": "Music and Sound Cultures",
+        "published": "2026-02-06T12:45:23+00:00"
       },
       {
         "id": "4b37c3fda55f",
