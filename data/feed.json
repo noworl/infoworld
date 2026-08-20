@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T19:39:34.383834+00:00",
+  "updated_at": "2026-08-20T20:38:53.301855+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -805,6 +805,30 @@
     ],
     "破(day)": [
       {
+        "id": "1ea5effd6283",
+        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
+        "url": "https://blog.adafruit.com/2026/08/20/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-20-3/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-20T20:36:01+00:00"
+      },
+      {
+        "id": "479452b0792f",
+        "title": "Skeleton Head Pumpkin – Skull-Textured Halloween Decor #3DThursday #3DPrinting",
+        "summary": "sektor7_studios shares: A pumpkin like no other — the classic pumpkin shape with an entire body made of skulls. One-piece 3D print, ready to go. Highly detailed skull texture for a chilling effect. Looks amazing in black, grey, or glow-in-the-dark filament. Perfect Halloween centerpiece. By Sektor 7...",
+        "url": "https://blog.adafruit.com/2026/08/20/skeleton-head-pumpkin-skull-textured-halloween-decor-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-20T20:00:44+00:00"
+      },
+      {
+        "id": "f3381972687b",
+        "title": "LED Hexagon Panels and Shelfs – Reflector + Shelf-Lightcap Design #3Dprinting #3DThursday",
+        "summary": "Hexagon LED panels with a twist — includes shelf variants where clear/translucent &#8216;lightcaps&#8217; let the illuminated cell double as a display shelf. Cells print in any non-translucent material, windows in translucent white, shelf caps in clear or highly translucent. RGBIC LED strips recomme...",
+        "url": "https://blog.adafruit.com/2026/08/20/led-hexagon-panels-and-shelfs-reflector-shelf-lightcap-design-3dprinting-3dthursday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-20T19:30:46+00:00"
+      },
+      {
         "id": "f807ec780c8a",
         "title": "NEW PRODUCT – Adafruit GP8403 Breakout Board I2C DAC with 12V Booster + NVM – STEMMA QT / qwiic",
         "summary": "NEW PRODUCT &#8211; Adafruit GP8403 Breakout Board I2C DAC with 12V Booster+NVM &#8211; STEMMA QT/qwiic __________________________________________________________________________________________________ We stock a bunch of DAC boards here at the &#8216;fruit &#8211; these are chips that will take I2...",
@@ -885,30 +909,6 @@
         "published": "2026-08-20T14:48:49+00:00"
       },
       {
-        "id": "e6b32bdca13c",
-        "title": "PINE64 is halting its Linux hardware line, and the AI bubble is to blame",
-        "summary": "They are blaming DRAM and eMMC shortages, with nothing coming back before mid-2027. PINE64, the open hardware manufacturer, recently posted an update on its Mastodon account, and it&#8217;s not great news if you were hoping to grab new Linux-powered hardware. The disruptions in DRAM and eMMC supply ...",
-        "url": "https://blog.adafruit.com/2026/08/20/pine64-is-halting-its-linux-hardware-line-and-the-ai-bubble-is-to-blame/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-20T14:31:52+00:00"
-      },
-      {
-        "id": "f9390ffad159",
-        "title": "Hackaday Europe 2026: The 1-bit CPU that ran factories",
-        "summary": "Nicola Cimmino came to Hackaday Europe 2026 to speak about a remarkably simple 1-bit CPU that used to run factories. He used to frequent a facility that used to recycle electronic waste, which sold old bits and pieces of hardware by the kilo. Many times, Nicola would pick up odd boards with an eye t...",
-        "url": "https://blog.adafruit.com/2026/08/20/hackaday-europe-2026-the-1-bit-cpu-that-ran-factories/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-20T14:30:23+00:00"
-      },
-      {
-        "id": "6fe67c7d6abc",
-        "title": "How AI is transforming the role of test engineers",
-        "summary": "Software is being released at a pace traditional testing approaches struggle to match, while AI is moving from assisting with test design to generating, adapting, and maintaining tests across the delivery pipeline. The question facing software testers is no longer only how to scale testing, but how ...",
-        "url": "https://blog.adafruit.com/2026/08/20/how-ai-is-transforming-the-role-of-test-engineers/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-20T14:24:43+00:00"
-      },
-      {
         "id": "e077b3da10da",
         "title": "Little Animals review – Motherland milquetoast creates a clever climate plea",
         "summary": "Traverse at Royal Lyceum Studio, EdinburghPaul Ready’s playwriting debut expertly utilises his bumbling acting persona to examine what is enough in our response to climate emergencyNobody does self-effacement as well as Paul Ready. The Motherland/Ann Droid actor excels at playing the kind of man who...",
@@ -931,6 +931,14 @@
         "url": "https://www.theguardian.com/stage/2026/aug/20/abigails-party-review-tamzin-outhewaite",
         "source": "Stage | The Guardian",
         "published": "2026-08-20T13:00:32+00:00"
+      },
+      {
+        "id": "acc25f9cb6ec",
+        "title": "1010music Bluebox 1.5 mixer module and desktop is your do-everything tool",
+        "summary": "There are all these extra things you need in hardware rigs or Eurorack modular. You need to mix stuff together -- and then add effects, and it'd be great to record, and you do still need to connect to your computer. Bluebox 1.5 fills out that wishlist with details that could make this an absolute mu...",
+        "url": "https://cdm.link/bluebox-1-5/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-20T12:51:56+00:00"
       },
       {
         "id": "7d2b1131cb0f",
@@ -1051,6 +1059,14 @@
         "url": "https://www.theguardian.com/stage/2026/aug/19/my-edinburgh-fringe-odyssey-the-nudity-is-expressive-shocking-sometimes-harrowing",
         "source": "Stage | The Guardian",
         "published": "2026-08-19T16:42:59+00:00"
+      },
+      {
+        "id": "964c5fe181c3",
+        "title": "Lucid slices, stretches, and scrubs sound like no other granular FX",
+        "summary": "Talking granular effects is like talking ice cream -- it's all about the different flavors. So look at what Minimal Audio has given us: Lucid is a pulsing purple granular multi-effect. And it's capable of everything from bleeding-edge and ambient drones to animated, tempo-synced rhythmic sliced mayh...",
+        "url": "https://cdm.link/lucid-slices-stretches-and-scrubs-sound-like-no-other-granular-fx/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-19T16:25:03+00:00"
       },
       {
         "id": "ce7e13a7a6a9",
@@ -1245,6 +1261,14 @@
         "published": "2026-08-18T16:00:00+00:00"
       },
       {
+        "id": "93048a2be5e8",
+        "title": "Organismi OR—1, free for iPad: breathing, stochastic pattern generator",
+        "summary": "OR—1 is an artful, generative MIDI sequencer maker. It's free for iPad as an AUv3, with a desktop macOS version available for €19.99. And it's an exquisite experience feeding these into synths.\nThe post Organismi OR—1, free for iPad: breathing, stochastic pattern generator appeared first on CDM Crea...",
+        "url": "https://cdm.link/organismi-or-1/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-18T14:16:59+00:00"
+      },
+      {
         "id": "bf007eeb0882",
         "title": "日本 Meta 防青少年輕生，搜關鍵字將通知家長",
         "summary": "Meta 公司在日本的法人 17 日宣布，已在本月 14 日於日本國內導入防止青少年自殺的新功能，若 13 歲 [&#8230;]",
@@ -1283,6 +1307,14 @@
         "url": "https://www.smithsonianmag.com/innovation/australias-social-media-ban-for-teens-may-not-be-the-best-solution-but-its-certainly-getting-people-talking-180989355/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-17T19:15:28+00:00"
+      },
+      {
+        "id": "aaf017ff723f",
+        "title": "Handmade experimental synths and DIY from Argentina’s Los Aparatos",
+        "summary": "From Tucumán, Argentina, Los Aparatos are constructing handmade synths and electronics education and DIY projects. And now you can ship their experimental synthesizer, Auduina MK2, internationally. Plus, those pink controls and creative projects are just irresistible. Let's take a look.\nThe post Han...",
+        "url": "https://cdm.link/los-aparatos/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-17T16:29:47+00:00"
       },
       {
         "id": "64d2de79d3b4",
@@ -1509,6 +1541,14 @@
         "published": "2026-08-14T16:00:00+00:00"
       },
       {
+        "id": "6c634d18552d",
+        "title": "otophon is a plug-in to play tones inside your head",
+        "summary": "This one's for the heads, literally. Otoacoustic emissions (OAEs) are sounds produced by your ear, ghostly tones emitted from inside the cochlea itself. The phenomenon has been employed in experimental music (and medical applications), but it has been hard to explore on your own -- until now.\nThe po...",
+        "url": "https://cdm.link/otophon-is-a-plug-in-to-play-tones-inside-your-head/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-14T11:52:05+00:00"
+      },
+      {
         "id": "14c1f4912c4c",
         "title": "話題》一種肉體性的閱讀，一種異化過的翻譯：《讓我們下沉》譯者序",
         "summary": "莎菲與喬治亞男人消失於黑暗，遠離其他男人與他們的火堆。我蜷曲身體，脖子埋進胸口，膝蓋頂著腹部，感激小小的慈悲：喬治亞男人的手下沒有輪流上她。但是我聽見莎菲，她在暗處吶喊。我沒捂起耳朵。如果她必須忍受這個，我至少該忍著見證。\n\n這是《讓我們下沉》書裡的一段，主角阿妮絲是個來自非洲達荷美王國的第三代美國黑奴，是她在卡羅萊納州的主人強暴她的母親而生，長大後，她的親生父親強暴她不成，就把她賣給奴隸販子帶到紐奧良的奴隸拍賣市場。\n\n\n達荷美王國末代國王Béhanzin於1894年向法國投降。（圖源：wikipedia）\n\n\n從卡羅萊納州到紐奧良，女主角的閨蜜兼愛人莎菲被解押黑奴的護衛頭子強暴，女主角說：...",
@@ -1531,6 +1571,14 @@
         "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "source": "Claude Blog",
         "published": "2026-08-14T00:00:00+00:00"
+      },
+      {
+        "id": "077ae72807a5",
+        "title": "UR soul: John Jammin Collins’ story, Detroit’s story, as a call to action",
+        "summary": "Digging into the history of John \"Jammin'\" Collins, you hear a history of Detroit and the potential of music to give back. The techno and progressive soul legend's journey is also intertwined with health. It all lands as a challenge to do something meaningful with our sounds and to care for the peop...",
+        "url": "https://cdm.link/ur-soul-john-jammin-collins/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-13T17:15:59+00:00"
       },
       {
         "id": "6b6bec343f1c",
@@ -1613,6 +1661,14 @@
         "published": "2026-08-12T17:02:02+00:00"
       },
       {
+        "id": "e4207539e326",
+        "title": "Blind musician Jason Dasent worked with Roland to make a guide for V-STAGE",
+        "summary": "Jason Dasent, a blind, UK-based Trinidadian musician, producer, and globally recognized accessibility consultant, has teamed up with the Roland Future Design Lab. The result: a comprehensive accessibility guide to every control, jack, widget, and function on the V-STAGE performance keyboard. More li...",
+        "url": "https://cdm.link/blind-musician-jason-dasent-worked-with-roland-to-make-a-guide-for-v-stage/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-12T16:58:48+00:00"
+      },
+      {
         "id": "40482cadee50",
         "title": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事",
         "summary": "2015年到俄羅斯網軍農場臥底兩個半月後，薩夫丘克向媒體揭發其運作。她原以為這會震撼大眾，進而協助停止其運作；然而，大部分人卻不以為意。這讓她更恐懼。農場製造的謊言不只變成現實，連農場本身的存在也被視為常態⋯⋯",
@@ -1675,6 +1731,14 @@
         "url": "https://www.twreporter.org/a/sugar-dating",
         "source": "報導者",
         "published": "2026-08-11T16:00:00+00:00"
+      },
+      {
+        "id": "1527be43c211",
+        "title": "The TR-808 is getting an MSW open-source firmware and a Tubbutec mod",
+        "summary": "From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend the 808's life and expand its features. A new 808 firmware joins firmware for the TR-606 and TR-303. Meet SuperOS-808.From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend ...",
+        "url": "https://cdm.link/superos-808/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-11T15:34:05+00:00"
       },
       {
         "id": "036d78657fc1",
@@ -1781,12 +1845,28 @@
         "published": "2026-08-10T13:00:25+00:00"
       },
       {
+        "id": "7939d09ccce2",
+        "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
+        "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major security vulnerability in many CDJ and XDJ models and all Rekordbox software for macOS, Windows, Android, and iOS. You should definitely patch your software, but what does this mean, exactly, and who's affected?...",
+        "url": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-10T11:03:06+00:00"
+      },
+      {
         "id": "b38f74e4ffa1",
         "title": "高科技創客探險隊整裝出發！國圖OPEN LAB開放特別休館日，與青少年探索半導體材料科學議題，共築創客未來",
         "summary": "高科技創客探險隊整裝出發！國圖OPEN LAB開放特別休館日，與青少年探索半導體材料科學議題，共築創客未來,為提升青少年讀者對於創客資源之認知，國家圖書館多媒體創意實驗中心（以下簡稱OPEN LAB）於2026年8月10日辦理「2026 OPEN LAB創客培力養成營—高科技創客探險隊：無限智造，創...",
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q225405886917896652",
         "source": "國家圖書館",
         "published": "2026-08-09T16:00:00+00:00"
+      },
+      {
+        "id": "5268f9bf8083",
+        "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
+        "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 808 Day (August 8), 2026.\nThe post Strange, wonderful #808day creations from Japan &#8212; and a DIY D-Beam! appeared first on CDM Create Digital Music...",
+        "url": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-09T15:30:32+00:00"
       },
       {
         "id": "1bf564c3660c",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T19:39:32.249021+00:00"
+        "published": "2026-08-20T20:38:51.585579+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T19:39:32.249014+00:00"
+        "published": "2026-08-20T20:38:51.585568+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T19:39:32.249007+00:00"
+        "published": "2026-08-20T20:38:51.585557+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T19:39:32.248999+00:00"
+        "published": "2026-08-20T20:38:51.585546+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T19:39:32.248992+00:00"
+        "published": "2026-08-20T20:38:51.585535+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T19:39:32.248984+00:00"
+        "published": "2026-08-20T20:38:51.585524+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T19:39:32.248977+00:00"
+        "published": "2026-08-20T20:38:51.585514+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T19:39:32.248969+00:00"
+        "published": "2026-08-20T20:38:51.585503+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T19:39:32.248962+00:00"
+        "published": "2026-08-20T20:38:51.585492+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,15 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T19:39:32.248954+00:00"
+        "published": "2026-08-20T20:38:51.585481+00:00"
+      },
+      {
+        "id": "29a4bf20dbe6",
+        "title": "It’s Never Too Early to Think About Your Legacy",
+        "summary": "The Internet Archive has cultivated thousands of planned giving supporters over the years who have decided when making their legacy plans to include the Internet Archive in them as a [&#8230;]",
+        "url": "https://blog.archive.org/2026/08/20/its-never-too-early-to-think-about-your-legacy/",
+        "source": "Internet Archive Blogs",
+        "published": "2026-08-20T20:34:40+00:00"
       },
       {
         "id": "a59e144a5022",
@@ -2805,14 +2893,6 @@
         "url": "https://www.ethanhein.com/wp/2026/seven-and-nine/",
         "source": "The Ethan Hein Blog",
         "published": "2026-07-22T14:13:14+00:00"
-      },
-      {
-        "id": "985d30d855d3",
-        "title": "Vanishing Culture Episode #4: Keeping African Folktales Alive with Helen Nde & Laura Gibbs",
-        "summary": "Folktales are more than stories—they are living records of culture, identity, and collective memory. In the fourth episode of our special six-part series on Vanishing Culture, host Vida Vojić speaks [&#8230;]",
-        "url": "https://blog.archive.org/2026/07/22/vanishing-culture-episode-4-keeping-african-folktales-alive-with-helen-nde-laura-gibbs/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-07-22T12:00:00+00:00"
       },
       {
         "id": "2a5510fe6fd2",
