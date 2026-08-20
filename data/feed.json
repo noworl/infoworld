@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-20T03:03:51.510494+00:00",
+  "updated_at": "2026-08-20T04:46:25.785288+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "d39f309a9797",
+        "title": "新北市美術館：2026/7/18-11/15【《民間／攝影：紀實影像的敘事生成》特展】",
+        "summary": "本展立足於臺灣攝影史的研究視角，重新探討「民間」如何成為不同世代攝影家持續凝視、對話與辯證的重要場域。 在臺灣 [&#8230;]",
+        "url": "https://www.tmaroc.org.tw/1150820/",
+        "source": "最新消息 – 中華民國博物館學會",
+        "published": "2026-08-20T03:25:28+00:00"
+      },
       {
         "id": "70dd99602f6c",
         "title": "國立海洋生物博物館：2026/6/18-2027/3/1【《海洋性別變奏曲》特展】",
@@ -9,6 +17,14 @@
         "url": "https://www.tmaroc.org.tw/1150820-2/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-08-20T02:58:22+00:00"
+      },
+      {
+        "id": "30b24bda0cea",
+        "title": "(more Than) Enough",
+        "summary": "Podfic.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/more-than-enough_202608",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-20T02:34:33+00:00"
       },
       {
         "id": "daaed51e4c1a",
@@ -105,14 +121,6 @@
         "url": "https://archive.org/details/mdr-sputnik-heimspiel-31.07.2026",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-19T19:11:08+00:00"
-      },
-      {
-        "id": "2b224e8c61c0",
-        "title": "MDR Sputnik: dein Abend (mit News Feed) (31.07.2026)",
-        "summary": "one hour radio broadcast of news, charts and popular music Abonnieren sie meinen YouTube-Kanal für Unterhaltung, Politik, Musik und mehr.This item belongs to: audio/saviour1981mixes.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR...",
-        "url": "https://archive.org/details/mdr-sputnik-dein-abend-mit-news-feed-31.07.2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-19T19:01:39+00:00"
       },
       {
         "id": "b6107599db2f",
@@ -313,14 +321,6 @@
         "url": "https://www.tmaroc.org.tw/1150806/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-08-06T02:17:01+00:00"
-      },
-      {
-        "id": "9f242d5e54a4",
-        "title": "國立故宮博物院：2026/8/22【《戲劇 · 少年 · 博物館―故宮文物融入戲劇教育的藝術陪伴實踐》講座/工作坊】",
-        "summary": "國立故宮博物院近年持續推動文化平權與青少年藝術陪伴工作，嘗試將博物館教育資源以多元形式注入矯正學校、中介教育學 [&#8230;]",
-        "url": "https://www.tmaroc.org.tw/1150804/",
-        "source": "最新消息 – 中華民國博物館學會",
-        "published": "2026-08-04T05:38:41+00:00"
       },
       {
         "id": "751820a6a3f7",
@@ -805,6 +805,30 @@
     ],
     "破(day)": [
       {
+        "id": "4fb8067d3fab",
+        "title": "Magicians and margarine: 10 of the funniest jokes from the Edinburgh fringe 2026",
+        "summary": "Every year, hundreds of standups from across the world descend on the venerable festival. Here are some of their finest one-liners10 of the funniest jokes from the 2025 fringeOlaf Falafel: I remember thinking, as I taped a piranha to my boomerang, this could come back to bite me.Richard Stott: To th...",
+        "url": "https://www.theguardian.com/stage/2026/aug/20/magicians-and-margarine-10-of-the-funniest-jokes-from-the-edinburgh-fringe-2026",
+        "source": "Stage | The Guardian",
+        "published": "2026-08-20T04:00:42+00:00"
+      },
+      {
+        "id": "c3d43cecdf5b",
+        "title": "‘Are you ready for some filth?’ Julian Clary and more on comedy’s great smut explosion",
+        "summary": "Clary’s back with Fully Dilated, a burlesque star called Entendre Entendre is doing lewd singalongs and there’s an A-Z of very dirty words. Our writer investigates Edinburgh’s smut outbreak – and ends up getting his own fantasies turned into eroticaOn a street in Edinburgh, a woman I’ve only just me...",
+        "url": "https://www.theguardian.com/stage/2026/aug/20/julian-clary-fully-dilated-smut-edinburgh-fringe-comedy-entendre",
+        "source": "Stage | The Guardian",
+        "published": "2026-08-20T04:00:41+00:00"
+      },
+      {
+        "id": "5e8356fdd270",
+        "title": "臺灣豫劇團「2026飆戲」公演  青年演員熱血上陣 古老戲魂Z世代再現  唱念做打火力全開",
+        "summary": "國立傳統藝術中心臺灣豫劇團將於今年9月、12月，在高雄左營大排練場震撼推出四場「2026飆戲－熱血╳戲魂 點燃舞臺能量」展演，讓青年演員站上主演舞臺，透過八齣經典戲曲折子戲，輪番較量真功夫，邀請觀眾見證新世代戲曲新星的爆發力。傳統戲曲演員傳承訓練的核心精神在「以戲代功」，臺灣豫劇團立基南臺灣七十餘年，面對當代戲曲人才環境的變遷，積極開拓創新模式與實戰練兵的培育途徑，期望藉由飆戲演出厚植戲曲人才根基與傳承經典劇目，讓年輕演員透過正式登臺演出，把平日所學內化成自己的表演養分，打磨動作身段、唱腔與臨場反應，讓戲曲表演藝術代代相傳、永續發展。「2026飆戲」演出劇目安排橫跨文戲、武戲、喜劇、悲劇等多元...",
+        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260645",
+        "source": "國立傳統藝術中心官網中文版傳藝新聞",
+        "published": "2026-08-20T03:06:00+00:00"
+      },
+      {
         "id": "41bea21b5364",
         "title": "獲利凌駕兒少安全？前高層作證踢爆 Meta 對未成年用戶「不問不說」",
         "summary": "美國加州奧克蘭一場備受關注的聯邦審判於 8 月 19 日持續進行，Meta 前工程主管阿圖羅·貝哈爾（Artu [&#8230;]",
@@ -933,14 +957,6 @@
         "published": "2026-08-19T16:42:59+00:00"
       },
       {
-        "id": "964c5fe181c3",
-        "title": "Lucid slices, stretches, and scrubs sound like no other granular FX",
-        "summary": "Talking granular effects is like talking ice cream -- it's all about the different flavors. So look at what Minimal Audio has given us: Lucid is a pulsing purple granular multi-effect. And it's capable of everything from bleeding-edge and ambient drones to animated, tempo-synced rhythmic sliced mayh...",
-        "url": "https://cdm.link/lucid-slices-stretches-and-scrubs-sound-like-no-other-granular-fx/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-19T16:25:03+00:00"
-      },
-      {
         "id": "136ad03f69de",
         "title": "美国财政部宣布将长期国债回购规模至少扩大一倍",
         "summary": "在美国长期国债遭遇剧烈抛售、导致借款成本飙升至多年高点的背景下，美国财政部宣布将“流动性支持回购操作的规模至少扩大一倍”。",
@@ -1011,14 +1027,6 @@
         "url": "https://www.cna.com.tw/news/acul/202608190204.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-08-19T08:20:18+00:00"
-      },
-      {
-        "id": "1fa23b83e5a5",
-        "title": "Shapes and ladders: Edinburgh fringe’s dance shows reach for the sky",
-        "summary": "With brute strength and beauty, party tricks and personal revelations, this year’s dance and circus programme has ambition and a spirit of togethernessIf you want to be wowed by technical prowess, I recommend taking a trip to see a couple of New York pole dancers, Donna Carnow and Gina Alm, in their...",
-        "url": "https://www.theguardian.com/stage/2026/aug/19/edinburgh-fringe-dance-shows-circus",
-        "source": "Stage | The Guardian",
-        "published": "2026-08-19T08:19:52+00:00"
       },
       {
         "id": "fa75f74ded02",
@@ -1093,14 +1101,6 @@
         "published": "2026-08-18T18:14:03+00:00"
       },
       {
-        "id": "9a03dd8a6d41",
-        "title": "Phyllida Law obituary",
-        "summary": "Actor with a long career in theatre and on television who was known for the subtle quality of her workAlthough she was perhaps best known as the mother of two outstanding actors, Emma and Sophie Thompson, Phyllida Law, who has died aged 94, was supremely gifted herself –&nbsp;as an actor, costume de...",
-        "url": "https://www.theguardian.com/stage/2026/aug/18/phyllida-law-obituary",
-        "source": "Stage | The Guardian",
-        "published": "2026-08-18T16:26:59+00:00"
-      },
-      {
         "id": "93e2962cc074",
         "title": "‘Audiences ask to feel my calves!’ The endurance extremists pounding treadmills and pumping pedals at the fringe",
         "summary": "How do you keep audiences gripped while cycling 27km per show? From the Australian recreating a Tour de France win to a ‘toxically positive’ spin queen, we meet the acts bringing Olympian fitness to EdinburghBlood and sweat drip to the floor. Tears are on their way. In a small room in Edinburgh, Meg...",
@@ -1165,28 +1165,12 @@
         "published": "2026-08-18T16:00:00+00:00"
       },
       {
-        "id": "93048a2be5e8",
-        "title": "Organismi OR—1, free for iPad: breathing, stochastic pattern generator",
-        "summary": "OR—1 is an artful, generative MIDI sequencer maker. It's free for iPad as an AUv3, with a desktop macOS version available for €19.99. And it's an exquisite experience feeding these into synths.\nThe post Organismi OR—1, free for iPad: breathing, stochastic pattern generator appeared first on CDM Crea...",
-        "url": "https://cdm.link/organismi-or-1/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-18T14:16:59+00:00"
-      },
-      {
         "id": "3cb130acf310",
         "title": "「打開台灣漫畫之窗」東京登場　鐵窗花化身紙書衣",
         "summary": "（中央社記者戴雅真東京18日專電）「NEW VISIONS－打開台灣漫畫之窗」今天在淳久堂書店池袋本店揭幕，並同步於magmabooks虎之門之丘店及東京堂書店神田神保町店登場。活動精選35部台灣漫畫，並特別將漫畫家南南日創作的主視覺製成限定紙書衣，貼近日本閱讀習慣，讓台漫走進當地讀者日常。",
         "url": "https://www.cna.com.tw/news/acul/202608180294.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-08-18T12:03:43+00:00"
-      },
-      {
-        "id": "924d3f83ea26",
-        "title": "David Cordero/Aiko Takahashi  – Night’s End",
-        "summary": "Music for the end of the night (or for every other delicate moment of the day): David Cordero &#038; Aiko Takahashi.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/nights_end/",
-        "source": "Ambientblog",
-        "published": "2026-08-18T06:48:16+00:00"
       },
       {
         "id": "bf007eeb0882",
@@ -1227,14 +1211,6 @@
         "url": "https://www.smithsonianmag.com/innovation/australias-social-media-ban-for-teens-may-not-be-the-best-solution-but-its-certainly-getting-people-talking-180989355/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-17T19:15:28+00:00"
-      },
-      {
-        "id": "aaf017ff723f",
-        "title": "Handmade experimental synths and DIY from Argentina’s Los Aparatos",
-        "summary": "From Tucumán, Argentina, Los Aparatos are constructing handmade synths and electronics education and DIY projects. And now you can ship their experimental synthesizer, Auduina MK2, internationally. Plus, those pink controls and creative projects are just irresistible. Let's take a look.\nThe post Han...",
-        "url": "https://cdm.link/los-aparatos/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-17T16:29:47+00:00"
       },
       {
         "id": "64d2de79d3b4",
@@ -1485,14 +1461,6 @@
         "published": "2026-08-14T16:00:00+00:00"
       },
       {
-        "id": "6c634d18552d",
-        "title": "otophon is a plug-in to play tones inside your head",
-        "summary": "This one's for the heads, literally. Otoacoustic emissions (OAEs) are sounds produced by your ear, ghostly tones emitted from inside the cochlea itself. The phenomenon has been employed in experimental music (and medical applications), but it has been hard to explore on your own -- until now.\nThe po...",
-        "url": "https://cdm.link/otophon-is-a-plug-in-to-play-tones-inside-your-head/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-14T11:52:05+00:00"
-      },
-      {
         "id": "14c1f4912c4c",
         "title": "話題》一種肉體性的閱讀，一種異化過的翻譯：《讓我們下沉》譯者序",
         "summary": "莎菲與喬治亞男人消失於黑暗，遠離其他男人與他們的火堆。我蜷曲身體，脖子埋進胸口，膝蓋頂著腹部，感激小小的慈悲：喬治亞男人的手下沒有輪流上她。但是我聽見莎菲，她在暗處吶喊。我沒捂起耳朵。如果她必須忍受這個，我至少該忍著見證。\n\n這是《讓我們下沉》書裡的一段，主角阿妮絲是個來自非洲達荷美王國的第三代美國黑奴，是她在卡羅萊納州的主人強暴她的母親而生，長大後，她的親生父親強暴她不成，就把她賣給奴隸販子帶到紐奧良的奴隸拍賣市場。\n\n\n達荷美王國末代國王Béhanzin於1894年向法國投降。（圖源：wikipedia）\n\n\n從卡羅萊納州到紐奧良，女主角的閨蜜兼愛人莎菲被解押黑奴的護衛頭子強暴，女主角說：...",
@@ -1515,14 +1483,6 @@
         "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "source": "Claude Blog",
         "published": "2026-08-14T00:00:00+00:00"
-      },
-      {
-        "id": "077ae72807a5",
-        "title": "UR soul: John Jammin Collins’ story, Detroit’s story, as a call to action",
-        "summary": "Digging into the history of John \"Jammin'\" Collins, you hear a history of Detroit and the potential of music to give back. The techno and progressive soul legend's journey is also intertwined with health. It all lands as a challenge to do something meaningful with our sounds and to care for the peop...",
-        "url": "https://cdm.link/ur-soul-john-jammin-collins/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-13T17:15:59+00:00"
       },
       {
         "id": "6b6bec343f1c",
@@ -1621,14 +1581,6 @@
         "published": "2026-08-12T17:02:02+00:00"
       },
       {
-        "id": "e4207539e326",
-        "title": "Blind musician Jason Dasent worked with Roland to make a guide for V-STAGE",
-        "summary": "Jason Dasent, a blind, UK-based Trinidadian musician, producer, and globally recognized accessibility consultant, has teamed up with the Roland Future Design Lab. The result: a comprehensive accessibility guide to every control, jack, widget, and function on the V-STAGE performance keyboard. More li...",
-        "url": "https://cdm.link/blind-musician-jason-dasent-worked-with-roland-to-make-a-guide-for-v-stage/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-12T16:58:48+00:00"
-      },
-      {
         "id": "40482cadee50",
         "title": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事",
         "summary": "2015年到俄羅斯網軍農場臥底兩個半月後，薩夫丘克向媒體揭發其運作。她原以為這會震撼大眾，進而協助停止其運作；然而，大部分人卻不以為意。這讓她更恐懼。農場製造的謊言不只變成現實，連農場本身的存在也被視為常態⋯⋯",
@@ -1643,14 +1595,6 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q225653178469573283",
         "source": "國家圖書館",
         "published": "2026-08-12T16:00:00+00:00"
-      },
-      {
-        "id": "e26f8fe5237d",
-        "title": "Paul Haslinger & Christian Wittman",
-        "summary": "Paul Haslinger (Tangerine Dream) and Christian Wittman (Lightwave) start their new label Noion with two albums inspired by important writers.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/haslinger-wittman/",
-        "source": "Ambientblog",
-        "published": "2026-08-12T13:06:40+00:00"
       },
       {
         "id": "5bb7c4f60339",
@@ -1699,14 +1643,6 @@
         "url": "https://www.twreporter.org/a/sugar-dating",
         "source": "報導者",
         "published": "2026-08-11T16:00:00+00:00"
-      },
-      {
-        "id": "1527be43c211",
-        "title": "The TR-808 is getting an MSW open-source firmware and a Tubbutec mod",
-        "summary": "From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend the 808's life and expand its features. A new 808 firmware joins firmware for the TR-606 and TR-303. Meet SuperOS-808.From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend ...",
-        "url": "https://cdm.link/superos-808/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-11T15:34:05+00:00"
       },
       {
         "id": "036d78657fc1",
@@ -1813,14 +1749,6 @@
         "published": "2026-08-10T13:00:25+00:00"
       },
       {
-        "id": "7939d09ccce2",
-        "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
-        "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major security vulnerability in many CDJ and XDJ models and all Rekordbox software for macOS, Windows, Android, and iOS. You should definitely patch your software, but what does this mean, exactly, and who's affected?...",
-        "url": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-10T11:03:06+00:00"
-      },
-      {
         "id": "f71a9d365616",
         "title": "趙家緯／氣候行動保護的不只是北極熊──讀《氣候如何影響你的大腦？》",
         "summary": "克萊頓．艾登（Clayton Aldern）綜整神經科學、心理學與流行病學證據，揭露了令人擔憂的「高溫不平等」現象。極端高溫不僅是公衛危機，更如隱形殺手侵蝕社會運作機制。台灣本土流行病學研究同樣發出警訊：高溫不只造成生理傷害，更會顯著加劇心理健康負擔。那麼，台灣氣候調適有哪些覺醒與不足？",
@@ -1835,14 +1763,6 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q225405886917896652",
         "source": "國家圖書館",
         "published": "2026-08-09T16:00:00+00:00"
-      },
-      {
-        "id": "5268f9bf8083",
-        "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
-        "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 808 Day (August 8), 2026.\nThe post Strange, wonderful #808day creations from Japan &#8212; and a DIY D-Beam! appeared first on CDM Create Digital Music...",
-        "url": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-09T15:30:32+00:00"
       },
       {
         "id": "1bf564c3660c",
@@ -1885,28 +1805,12 @@
         "published": "2026-08-09T01:13:00+00:00"
       },
       {
-        "id": "fb707f948fdd",
-        "title": "808 Day: free Roland e-Bjook, NTS Radio jams, animation",
-        "summary": "We could all use an 808 kick in our soul about now, so let's get straight to the 808 Day goodness. Today's a day to browse through Roland history with Bjooks, turn up NTS Radio, and immerse ourselves in a new animation featuring Mannie Fresh.\nThe post 808 Day: free Roland e-Bjook, NTS Radio jams, an...",
-        "url": "https://cdm.link/808-day-2026/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-08-08T09:01:48+00:00"
-      },
-      {
         "id": "988fd0f4d111",
         "title": "See what 5 builders are making with Gemini Omni",
         "summary": "Gemini Omni images",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
         "source": "Google DeepMind",
         "published": "2026-08-07T14:00:00+00:00"
-      },
-      {
-        "id": "ab19b1a15787",
-        "title": "James Murray – Islands Alight",
-        "summary": "Ambient with a refreshing rhythmic twist: James Murray's Islands Alight.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/murray-islands/",
-        "source": "Ambientblog",
-        "published": "2026-08-07T07:36:18+00:00"
       },
       {
         "id": "51ee1740beac",
@@ -2003,14 +1907,6 @@
         "url": "https://www.smithsonianmag.com/innovation/the-history-of-the-beach-read-from-19th-century-moral-debasement-to-booktok-180989238/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-03T14:22:30+00:00"
-      },
-      {
-        "id": "3be7e9298aa5",
-        "title": "DreamScenes – August 2026",
-        "summary": "\"Even if morning comes...\" - DreamScenes for August 2026.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dreamscenes-august-2026/",
-        "source": "Ambientblog",
-        "published": "2026-08-02T21:00:00+00:00"
       },
       {
         "id": "e218c5a0debc",
@@ -2117,14 +2013,6 @@
         "published": "2026-07-29T09:00:00+00:00"
       },
       {
-        "id": "391cdc008170",
-        "title": "Lawrence English – The Rest Is My Ghost",
-        "summary": "Lawrence English' theory about 'acid nostalgia' has inspired him to create 'The Rest Is My Ghost' - which may very well prove to be one of the most important albums of this year.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/lawrence-english/",
-        "source": "Ambientblog",
-        "published": "2026-07-29T08:04:34+00:00"
-      },
-      {
         "id": "588c476293af",
         "title": "臺北大學林文一從「都市治理」視角，省思科學園區發展",
         "summary": "國立臺北大學都市計劃研究所教授林文一教授指出，都市治理不該是「由上而下」的思維，都市的規劃與發展，不僅與每個居 [&#8230;]\nThe post 臺北大學林文一從「都市治理」視角，省思科學園區發展 appeared first on 人文．島嶼.",
@@ -2155,14 +2043,6 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2369",
         "source": "獨立出版聯盟網站",
         "published": "2026-07-27T00:00:00+00:00"
-      },
-      {
-        "id": "8d3460b202ae",
-        "title": "New radio show: “Liminal State”",
-        "summary": "Introducing a new weekly ambient music radio show: 'Liminal State'. Also: a change in the DreamScenes broadcast schedule.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/liminal-state/",
-        "source": "Ambientblog",
-        "published": "2026-07-25T07:40:54+00:00"
       },
       {
         "id": "b9ed4f2aeb82",
@@ -2253,14 +2133,6 @@
         "published": "2026-07-21T09:21:00+00:00"
       },
       {
-        "id": "71a6ca9d5411",
-        "title": "Paul Beaudoin – Signal Loss / Spores.dat",
-        "summary": "Two albums by Estonian composer Paul Beaudoin, both exploring 'the space between intent and reception'.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/beaudoin/",
-        "source": "Ambientblog",
-        "published": "2026-07-20T17:58:41+00:00"
-      },
-      {
         "id": "41a0f7bd3bed",
         "title": "“By the Dawn’s Early Light…”",
         "summary": "In September 1814, Francis Scott Key composed a poem, “Defence of Fort M‘Henry,” after witnessing U.S. forces defend Fort McHenry, the fortress guarding Baltimore Harbor, against a fierce British bombardment. He combined it with the tune of an 18th-century British song, “Anacreon in Heaven.\" Key’s c...",
@@ -2283,14 +2155,6 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2367",
         "source": "獨立出版聯盟網站",
         "published": "2026-07-18T00:00:00+00:00"
-      },
-      {
-        "id": "e3e0fd583ad1",
-        "title": "The [Law-Rah] Collective – Strange Attraction",
-        "summary": "“Expect the unexpected, and even then you’re way off ...” - power ambient by The [Law-Rah] Collective (Bauke van der Wal).\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/law-rah/",
-        "source": "Ambientblog",
-        "published": "2026-07-16T07:29:34+00:00"
       },
       {
         "id": "86fda9299d09",
@@ -2325,14 +2189,6 @@
         "published": "2026-07-14T13:00:00+00:00"
       },
       {
-        "id": "8803fc57de52",
-        "title": "DreamScenes – July 2026",
-        "summary": "\"For Bob\" - DreamScenes for July 2026\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dreamscenes-july-2026/",
-        "source": "Ambientblog",
-        "published": "2026-07-12T17:55:00+00:00"
-      },
-      {
         "id": "da40501cb8ba",
         "title": "休園公告:受巴威颱風影響，宜蘭園區明日(7/11)休園一天",
         "summary": "因巴威颱風來襲，宜蘭縣政府已宣布7月11日全縣停止上班上課，本中心宜蘭園區配合休園一天，造成不便，敬請見諒！",
@@ -2363,14 +2219,6 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=258584",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-07-09T08:54:00+00:00"
-      },
-      {
-        "id": "f4b1ca8344bb",
-        "title": "Olivier Alary – Vestiges",
-        "summary": "The fascinating orchestral sound of twelve amplified lap steel guitars and electronics: Olivier Alary's 'Vestiges' on the Line label.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/alary-vestiges/",
-        "source": "Ambientblog",
-        "published": "2026-07-08T09:30:26+00:00"
       },
       {
         "id": "4ef1351c20b8",
@@ -2427,14 +2275,6 @@
         "url": "https://www.transglobalwmc.com/charts/twmc-july-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-06-30T21:57:46+00:00"
-      },
-      {
-        "id": "18d2ead63ee1",
-        "title": "第37屆傳藝金曲獎入圍名單揭曉 張日貴、王慶芳獲特別獎 跨界Login 漫遊「境界」新視野",
-        "summary": "「第37屆傳藝金曲獎」將於8月22日在臺灣戲曲中心登場，今（30）日文化部所屬國立傳統藝術中心舉行入圍名單公布記者會，正式揭曉本屆入圍名單與特別獎得主，為年度傳統藝術盛事揭開序幕。本屆評審團總召集人暨音樂類召集人施德玉、戲曲表演類召集人王麗嘉，共同公布入圍名單，並由文化部政務次長李靜慧揭曉特別獎得主張日貴及王慶芳，向長年投入傳統藝術推廣、創作及文化傳承的重要工作者，表達最高敬意與肯定。今年共有93組優秀創作者、48件精彩作品入圍，本屆不論是音樂類還是戲曲表演類，入圍競爭都前所未有的激烈。特別的是今年傳藝金曲獎首度公布「評審團獎」的入圍名單，意在給予更多在淬鍊與創新路上堅持的優秀作品，提前給予肯...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=258089",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-06-30T09:57:00+00:00"
       },
       {
         "id": "eb1633b0ba83",
@@ -2572,7 +2412,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T03:03:50.259352+00:00"
+        "published": "2026-08-20T04:46:24.207895+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2420,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T03:03:50.259342+00:00"
+        "published": "2026-08-20T04:46:24.207888+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2428,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T03:03:50.259331+00:00"
+        "published": "2026-08-20T04:46:24.207880+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2436,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T03:03:50.259321+00:00"
+        "published": "2026-08-20T04:46:24.207872+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2444,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T03:03:50.259310+00:00"
+        "published": "2026-08-20T04:46:24.207864+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2452,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T03:03:50.259300+00:00"
+        "published": "2026-08-20T04:46:24.207857+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2460,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T03:03:50.259290+00:00"
+        "published": "2026-08-20T04:46:24.207849+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2468,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T03:03:50.259279+00:00"
+        "published": "2026-08-20T04:46:24.207841+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2476,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T03:03:50.259269+00:00"
+        "published": "2026-08-20T04:46:24.207834+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2484,15 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T03:03:50.259258+00:00"
+        "published": "2026-08-20T04:46:24.207826+00:00"
+      },
+      {
+        "id": "a59e144a5022",
+        "title": "AI is harmful for learning which is why I’m banning it in my classes",
+        "summary": "I put up my course web site for History of 20th Century American Popular Music, which includes an assignment due the first day of class: read about Stephen Foster and “Old Folks at Home”, listen to recordings of the song by Al Jolson and Ray Charles, and write a one paragraph response. Within 24 hou...",
+        "url": "https://www.ethanhein.com/wp/2026/ai-is-harmful-for-learning-which-is-why-im-banning-it-in-my-classes/",
+        "source": "The Ethan Hein Blog",
+        "published": "2026-08-20T01:47:36+00:00"
       },
       {
         "id": "6e1981d641d1",
@@ -3093,14 +2941,6 @@
         "url": "https://www.ethanhein.com/wp/2026/how-to-learn-to-jam/",
         "source": "The Ethan Hein Blog",
         "published": "2026-06-24T19:38:12+00:00"
-      },
-      {
-        "id": "4a28c8f09b11",
-        "title": "More people should be listening to Tim Eriksen and Peter Irvine",
-        "summary": "Most of the music I write about ranges from well known to iconic. I am not one of these people who takes pleasure in knowing about obscurities that other people don’t. However, I do have one intense fandom for a couple of guys who you are likely not to have heard of: Tim Eriksen and &#8230; Continue...",
-        "url": "https://www.ethanhein.com/wp/2026/more-people-should-be-listening-to-tim-eriksen-and-peter-irvine/",
-        "source": "The Ethan Hein Blog",
-        "published": "2026-06-22T20:49:21+00:00"
       },
       {
         "id": "70b916c20885",
