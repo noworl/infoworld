@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-21T01:47:39.460405+00:00",
+  "updated_at": "2026-08-21T03:12:36.660459+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "b029ac51a06d",
+        "title": "颱風沙德爾可能增為強颱　吳德榮：25日前防強降雨",
+        "summary": "（中央社記者黃巧雯台北21日電）氣象專家吳德榮表示，今天至25日受低壓帶影響，加上西南風，西南部受影響最大，防強降雨致災；輕颱沙德爾有機會增強為強颱，26日後天氣變化，視沙德爾動向而定，需密切觀察。",
+        "url": "https://www.cna.com.tw/news/ahel/202608210025.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-21T00:44:05+00:00"
+      },
+      {
+        "id": "0a137d7cc362",
+        "title": "強強聯手打造雙贏  台越產官學合作就地培育科技人才",
+        "summary": "（中央社記者曾婷瑄河內21日專電）駐越南台北經濟文化辦事處與河內國家大學20日舉辦座談會，吸引台越產官學界約80人參與。面對台商在越南的科技與管理人才缺口，雙方積極推動「就地」產學合作與人才培育，盼打造深耕當地的雙贏商業模式。",
+        "url": "https://www.cna.com.tw/news/ahel/202608210023.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-21T00:25:01+00:00"
+      },
+      {
+        "id": "075881d69490",
+        "title": "對台興趣提高　挪威赴台獲獎生首次超越瑞典",
+        "summary": "（中央社記者辜泳秝斯德哥爾摩21日專電）2026年教育部台灣獎學金暨華語文獎學金頒獎典禮14日在駐瑞典代表處舉行。本年度共有瑞典及挪威30名學子獲得台灣政府獎學金，挪威獲獎生首度超過瑞典。",
+        "url": "https://www.cna.com.tw/news/ahel/202608210021.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-21T00:19:56+00:00"
+      },
       {
         "id": "28b8c2079670",
         "title": "MOZART Sämtliche Werke",
@@ -137,30 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202608200321.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-20T12:38:49+00:00"
-      },
-      {
-        "id": "6120a6038c5a",
-        "title": "台灣自行車旅遊節　李晧禎助陣宣傳",
-        "summary": "（中央社記者黃巧雯台北20日電）觀光署今天舉辦台灣自行車旅遊節行銷記者會，找來韓籍啦啦隊員李晧禎介紹自行車旅遊節十大品牌，署長陳玉秀邀請旅客以每小時15公里慢活步調，感受台灣山海風光與人文底蘊。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200311.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T12:12:27+00:00"
-      },
-      {
-        "id": "5f03a276b69f",
-        "title": "雲端發票使用率衝破68%　財長鼓勵民眾消費刷載具",
-        "summary": "（中央社記者呂晏慈台北20日電）為鼓勵民眾多多使用雲端發票並下載「統一發票兌獎APP」，財政部長莊翠雲今天晚間穿上味全龍球衣，在大巨蛋為中華職棒比賽開球，鼓勵民眾消費索取發票時刷載具、存雲端，共同響應節能減碳。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200302.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T11:44:07+00:00"
-      },
-      {
-        "id": "188c5e5f1a49",
-        "title": "北捷信義線東延段8/30通車　新路段1個月免費搭乘",
-        "summary": "（中央社記者葉蓁芸台北20日電）台北市長蔣萬安今天宣布，北捷信義線東延段8月30日通車。台北捷運公司表示，首月免費乘車，行經象山站至廣慈/奉天宮站不計票價，另有扭蛋抽獎、霜淇淋禮物卡等優惠。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200295.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T11:20:54+00:00"
       },
       {
         "id": "d39f309a9797",
@@ -901,6 +901,14 @@
         "published": "2026-08-20T16:43:47+00:00"
       },
       {
+        "id": "a1797b894735",
+        "title": "投资者缩减对美英加息的押注",
+        "summary": "经济数据变弱压倒对油价上涨的担忧，使交易员预计美联储将在今年剩余时间维持利率不变，而英国央行不太可能在未来一年加息超过两次。",
+        "url": "https://www.ftchinese.com/story/001110680",
+        "source": "FTChinese RSS - News",
+        "published": "2026-08-20T16:00:00+00:00"
+      },
+      {
         "id": "8c59d05ca4f9",
         "title": "閱讀通信 vol.395》漫畫翻譯可以用AI嗎？",
         "summary": "近期話題真的是無所不脫離AI，從選用哪個AI軟體協作，到AI創作是否可能威脅到人類，還有AI的翻譯品質等等，被AI的觸角碰觸到的領域越來越多，根本談不完啊。\n在到處都是翻譯軟體的現在，你讀書時也會用AI翻譯嗎？雖然聽起來好像很簡單，按一兩下咻──咻──就好了，不過翻譯出來的文字，品質是否真的有保證？翻錯了怎麼辦呢？而且，如果今天翻譯的是漫畫，這種有時候文字也被畫成圖片的一部份的作品，又該怎麼處理？\n不少公司已經嗅到這股翻譯漫畫的潛在商機，並搶先一步與同人誌的作者合作。不過，一直以來都有專業編輯校對的日本出版社，他們的漫畫編輯現在又是怎麼應對這股潮流的呢？就讓本週封面故事的作者，同時也是日本漫畫...",
@@ -1269,14 +1277,6 @@
         "published": "2026-08-18T14:16:59+00:00"
       },
       {
-        "id": "924d3f83ea26",
-        "title": "David Cordero/Aiko Takahashi  – Night’s End",
-        "summary": "Music for the end of the night (or for every other delicate moment of the day): David Cordero &#038; Aiko Takahashi.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/nights_end/",
-        "source": "Ambientblog",
-        "published": "2026-08-18T06:48:16+00:00"
-      },
-      {
         "id": "bf007eeb0882",
         "title": "日本 Meta 防青少年輕生，搜關鍵字將通知家長",
         "summary": "Meta 公司在日本的法人 17 日宣布，已在本月 14 日於日本國內導入防止青少年自殺的新功能，若 13 歲 [&#8230;]",
@@ -1402,14 +1402,6 @@
         "summary": "在中國孔子學院相繼自澳洲撤場之際，台灣華語文學習中心順勢進入，時機對了，但成效有多大？孔子學院的空缺，代表中國影響力減弱嗎？台灣想在澳洲華語教學市場占有一席之地，仍面臨諸多挑戰。",
         "url": "https://www.twreporter.org/a/taiwan-center-for-mandarin-learning-in-australia",
         "source": "報導者",
-        "published": "2026-08-16T16:00:00+00:00"
-      },
-      {
-        "id": "77dc22da97ca",
-        "title": "7月份中国经济显示疲弱迹象",
-        "summary": "工业产出增长放缓，社会消费品零售总额同比增长微乎其微，领导层表示将加快财政支出。",
-        "url": "https://www.ftchinese.com/story/001110634",
-        "source": "FTChinese RSS - News",
         "published": "2026-08-16T16:00:00+00:00"
       },
       {
@@ -1693,14 +1685,6 @@
         "published": "2026-08-12T16:00:00+00:00"
       },
       {
-        "id": "e26f8fe5237d",
-        "title": "Paul Haslinger & Christian Wittman",
-        "summary": "Paul Haslinger (Tangerine Dream) and Christian Wittman (Lightwave) start their new label Noion with two albums inspired by important writers.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/haslinger-wittman/",
-        "source": "Ambientblog",
-        "published": "2026-08-12T13:06:40+00:00"
-      },
-      {
         "id": "5bb7c4f60339",
         "title": "Inventing Telephones at the 1876 Centennial",
         "summary": "Alexander Graham Bell, Thomas Edison and Elisha Gray all showed up at the nation's massive Centennial Exhibition in Philadelphia in 1876 with upgraded telegraphs on their minds ... ut also pushing a fledgling new invention called the telephone.",
@@ -1933,14 +1917,6 @@
         "published": "2026-08-07T14:00:00+00:00"
       },
       {
-        "id": "ab19b1a15787",
-        "title": "James Murray – Islands Alight",
-        "summary": "Ambient with a refreshing rhythmic twist: James Murray's Islands Alight.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/murray-islands/",
-        "source": "Ambientblog",
-        "published": "2026-08-07T07:36:18+00:00"
-      },
-      {
         "id": "51ee1740beac",
         "title": "Running auto mode in production",
         "summary": "Running auto mode in production",
@@ -2027,14 +2003,6 @@
         "url": "https://www.smithsonianmag.com/innovation/the-history-of-the-beach-read-from-19th-century-moral-debasement-to-booktok-180989238/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-03T14:22:30+00:00"
-      },
-      {
-        "id": "3be7e9298aa5",
-        "title": "DreamScenes – August 2026",
-        "summary": "\"Even if morning comes...\" - DreamScenes for August 2026.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dreamscenes-august-2026/",
-        "source": "Ambientblog",
-        "published": "2026-08-02T21:00:00+00:00"
       },
       {
         "id": "c385b61e66ad",
@@ -2133,14 +2101,6 @@
         "published": "2026-07-29T09:00:00+00:00"
       },
       {
-        "id": "391cdc008170",
-        "title": "Lawrence English – The Rest Is My Ghost",
-        "summary": "Lawrence English' theory about 'acid nostalgia' has inspired him to create 'The Rest Is My Ghost' - which may very well prove to be one of the most important albums of this year.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/lawrence-english/",
-        "source": "Ambientblog",
-        "published": "2026-07-29T08:04:34+00:00"
-      },
-      {
         "id": "588c476293af",
         "title": "臺北大學林文一從「都市治理」視角，省思科學園區發展",
         "summary": "國立臺北大學都市計劃研究所教授林文一教授指出，都市治理不該是「由上而下」的思維，都市的規劃與發展，不僅與每個居 [&#8230;]\nThe post 臺北大學林文一從「都市治理」視角，省思科學園區發展 appeared first on 人文．島嶼.",
@@ -2171,14 +2131,6 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2369",
         "source": "獨立出版聯盟網站",
         "published": "2026-07-27T00:00:00+00:00"
-      },
-      {
-        "id": "8d3460b202ae",
-        "title": "New radio show: “Liminal State”",
-        "summary": "Introducing a new weekly ambient music radio show: 'Liminal State'. Also: a change in the DreamScenes broadcast schedule.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/liminal-state/",
-        "source": "Ambientblog",
-        "published": "2026-07-25T07:40:54+00:00"
       },
       {
         "id": "b9ed4f2aeb82",
@@ -2269,14 +2221,6 @@
         "published": "2026-07-21T09:21:00+00:00"
       },
       {
-        "id": "71a6ca9d5411",
-        "title": "Paul Beaudoin – Signal Loss / Spores.dat",
-        "summary": "Two albums by Estonian composer Paul Beaudoin, both exploring 'the space between intent and reception'.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/beaudoin/",
-        "source": "Ambientblog",
-        "published": "2026-07-20T17:58:41+00:00"
-      },
-      {
         "id": "41a0f7bd3bed",
         "title": "“By the Dawn’s Early Light…”",
         "summary": "In September 1814, Francis Scott Key composed a poem, “Defence of Fort M‘Henry,” after witnessing U.S. forces defend Fort McHenry, the fortress guarding Baltimore Harbor, against a fierce British bombardment. He combined it with the tune of an 18th-century British song, “Anacreon in Heaven.\" Key’s c...",
@@ -2301,14 +2245,6 @@
         "published": "2026-07-18T00:00:00+00:00"
       },
       {
-        "id": "e3e0fd583ad1",
-        "title": "The [Law-Rah] Collective – Strange Attraction",
-        "summary": "“Expect the unexpected, and even then you’re way off ...” - power ambient by The [Law-Rah] Collective (Bauke van der Wal).\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/law-rah/",
-        "source": "Ambientblog",
-        "published": "2026-07-16T07:29:34+00:00"
-      },
-      {
         "id": "86fda9299d09",
         "title": "神聖の充滿",
         "summary": "《神聖の充滿—AN ULTIMATE GUIDE TO ZEN LIVING》收錄了劉兆慈 2016 年到 2020 年間在歐洲拍攝的佛像照片。這些佛像通常會被放在園藝區，與熱帶植物和假草皮一起，有時候又會出現在家居擺飾區，被做成盆栽或是蠟燭座，場景雖然荒謬卻又十分迷人。本書視角從博物館商店、古董藝品店、二手市集到超市賣場，再到住家窗台，在歐洲城市各處穿梭，既像是一本旅遊雜記，又著實是一本從「西方」取經回來的聖書。\n\n本書在收錄 2017 年出版的《神聖の充滿。AN ULTIMATE GUIDE TO ZEN LIVING. Vol.1 &amp; Vol.2》內容的基礎上，進一步擴充，...",
@@ -2331,14 +2267,6 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/",
         "source": "Google DeepMind",
         "published": "2026-07-14T13:00:00+00:00"
-      },
-      {
-        "id": "8803fc57de52",
-        "title": "DreamScenes – July 2026",
-        "summary": "\"For Bob\" - DreamScenes for July 2026\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dreamscenes-july-2026/",
-        "source": "Ambientblog",
-        "published": "2026-07-12T17:55:00+00:00"
       },
       {
         "id": "da40501cb8ba",
@@ -2371,14 +2299,6 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=258584",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-07-09T08:54:00+00:00"
-      },
-      {
-        "id": "f4b1ca8344bb",
-        "title": "Olivier Alary – Vestiges",
-        "summary": "The fascinating orchestral sound of twelve amplified lap steel guitars and electronics: Olivier Alary's 'Vestiges' on the Line label.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/alary-vestiges/",
-        "source": "Ambientblog",
-        "published": "2026-07-08T09:30:26+00:00"
       },
       {
         "id": "4ef1351c20b8",
@@ -2572,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T01:47:38.287698+00:00"
+        "published": "2026-08-21T03:12:35.283824+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T01:47:38.287688+00:00"
+        "published": "2026-08-21T03:12:35.283816+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T01:47:38.287678+00:00"
+        "published": "2026-08-21T03:12:35.283808+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T01:47:38.287668+00:00"
+        "published": "2026-08-21T03:12:35.283800+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T01:47:38.287658+00:00"
+        "published": "2026-08-21T03:12:35.283792+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T01:47:38.287647+00:00"
+        "published": "2026-08-21T03:12:35.283784+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T01:47:38.287637+00:00"
+        "published": "2026-08-21T03:12:35.283776+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T01:47:38.287627+00:00"
+        "published": "2026-08-21T03:12:35.283769+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T01:47:38.287617+00:00"
+        "published": "2026-08-21T03:12:35.283761+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T01:47:38.287607+00:00"
+        "published": "2026-08-21T03:12:35.283753+00:00"
       },
       {
         "id": "cc87898e1a06",
