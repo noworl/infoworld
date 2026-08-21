@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-08-21T05:39:05.269530+00:00",
+  "updated_at": "2026-08-21T06:58:10.340204+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "3a66ce7491d0",
+        "title": "Bạn Có Bao Giờ Tự Hỏi Tại Sao Mình Làm",
+        "summary": "Tư duy nhanh và chậm .This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/ban-co-bao-gio-tu-hoi-tai-sao-minh-lam",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-21T06:05:57+00:00"
+      },
+      {
+        "id": "81b893f6b6b8",
+        "title": "檢舉「尼古喵喵」挨批  董氏：不能披動漫外衣規避菸品管制",
+        "summary": "（中央社記者沈佩瑤台北21日電）日本動畫「尼古喵喵」被檢舉違反菸防法，引發動漫社群反彈，質疑干涉創作自由。董氏基金會今天4點聲明強調，不能披著動漫、戲劇或娛樂內容外衣，成規避菸品廣告管制新漏洞。",
+        "url": "https://www.cna.com.tw/news/ahel/202608210119.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-21T05:36:31+00:00"
+      },
+      {
+        "id": "5ddf224ab107",
+        "title": "環境部計劃建新大樓  彭啓明：最可能在經濟部現址",
+        "summary": "（中央社記者汪淑芬台北21日電）環境部今天舉行升格成立3週年慶，環境部長彭啓明說，現在所屬機關分散各地情況待改善，於計劃興建新的環境大樓與環境園區，最可能在經濟部現址，盼5年後動工、10年後進駐。",
+        "url": "https://www.cna.com.tw/news/ahel/202608210109.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-21T05:04:07+00:00"
+      },
+      {
+        "id": "67e6409cd710",
+        "title": "chuong-260-vong-vay-ma-vat-1",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_22955_1787288302_WtkJ",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-21T04:59:35+00:00"
+      },
+      {
+        "id": "f948c7e1a992",
+        "title": "美國冷凍藍莓、莓果疑遭大腸桿菌污染　食藥署：未輸入台灣",
+        "summary": "（中央社記者沈佩瑤台北21日電）最近前往美國的民眾小心了，美國食藥局近期發布回收資訊，GreenWise品牌的莓果產品可能遭大腸桿菌污染，若吃下肚恐腹瀉。衛福部食藥署說，截至7月30日止，均無輸入台灣紀錄。",
+        "url": "https://www.cna.com.tw/news/ahel/202608210088.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-21T03:57:22+00:00"
+      },
       {
         "id": "cc472b179628",
         "title": "北捷中山站列車門遭雨傘卡住5分鐘　安排旅客換乘",
@@ -121,46 +161,6 @@
         "url": "https://archive.org/details/bn_20260820",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-20T18:53:15+00:00"
-      },
-      {
-        "id": "905f6d0a6a9b",
-        "title": "chuong-1043",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_18689_1787247913_zx5I",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-20T17:46:23+00:00"
-      },
-      {
-        "id": "c533c2e641a0",
-        "title": "chuong-963",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_18609_1787244330_ayEf",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-20T16:46:36+00:00"
-      },
-      {
-        "id": "ebac9b9f053d",
-        "title": "民主剛果獲7萬劑伊波拉疫苗　但尚未證實對現行病毒株有效",
-        "summary": "（中央社日內瓦20日綜合外電報導）世界衛生組織（WHO）今天表示，為協助剛果民主共和國對抗伊波拉疫情，正提供7萬劑Ervebo疫苗供試驗和有限使用。但這款疫苗尚未證實對當地目前流行的致命病毒株有效。",
-        "url": "https://www.cna.com.tw/news/aopl/202608200343.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T14:31:42+00:00"
-      },
-      {
-        "id": "bfd602f1c9f4",
-        "title": "今彩539第115202期　頭獎槓龜",
-        "summary": "（中央社台北20日電）今彩539第115202期開獎，中獎號碼14、32、34、04、27；派彩結果，頭獎槓龜。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200340.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T14:07:35+00:00"
-      },
-      {
-        "id": "9b55d2e17eea",
-        "title": "威力彩第115067期　頭獎槓龜",
-        "summary": "（中央社台北20日電）威力彩第115067期今晚開獎，第一區中獎號碼為02、11、29、09、01、35，第二區中獎號碼02。派彩結果，頭獎、貳獎都槓龜。",
-        "url": "https://www.cna.com.tw/news/ahel/202608200339.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-20T14:05:33+00:00"
       },
       {
         "id": "d39f309a9797",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T05:39:04.100281+00:00"
+        "published": "2026-08-21T06:58:09.068457+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T05:39:04.100271+00:00"
+        "published": "2026-08-21T06:58:09.068449+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T05:39:04.100261+00:00"
+        "published": "2026-08-21T06:58:09.068442+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T05:39:04.100251+00:00"
+        "published": "2026-08-21T06:58:09.068434+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T05:39:04.100241+00:00"
+        "published": "2026-08-21T06:58:09.068426+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T05:39:04.100231+00:00"
+        "published": "2026-08-21T06:58:09.068418+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T05:39:04.100221+00:00"
+        "published": "2026-08-21T06:58:09.068411+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T05:39:04.100212+00:00"
+        "published": "2026-08-21T06:58:09.068403+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T05:39:04.100202+00:00"
+        "published": "2026-08-21T06:58:09.068395+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T05:39:04.100192+00:00"
+        "published": "2026-08-21T06:58:09.068388+00:00"
       },
       {
         "id": "cc87898e1a06",
