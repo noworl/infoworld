@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-21T16:42:35.680834+00:00",
+  "updated_at": "2026-08-21T17:35:58.765061+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "31709da58cef",
+        "title": "Bạn Đã Bao Giờ Cảm Thấy Mức Lương Của Mình",
+        "summary": "13.Sự thật trần trụi về thống kê.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/ban-da-bao-gio-cam-thay-muc-luong-cua-minh",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-21T14:40:46+00:00"
+      },
+      {
+        "id": "b93114617db2",
+        "title": "chuong-6392-ai-ma-khong-mo-uoc",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_1049_1787322779_TyqL",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-21T14:33:52+00:00"
+      },
       {
         "id": "fa9b427ee3d3",
         "title": "chuong-131-deu-la-do-menh-2",
@@ -33,6 +49,14 @@
         "url": "https://archive.org/details/audio_doc-truyen-online_chap_13038_1787320335_IZaF",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-21T13:53:35+00:00"
+      },
+      {
+        "id": "70c354b3dec7",
+        "title": "FOSTER Sidney",
+        "summary": "Sidney Foster (Klavier) Bloomington, 3. 5. 1954.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mvjh_20260821",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-21T13:46:29+00:00"
       },
       {
         "id": "30e92e3a7dd1",
@@ -81,30 +105,6 @@
         "url": "https://archive.org/details/audio_doc-truyen-online_chap_13601_1787318962_sRYz",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-21T13:30:38+00:00"
-      },
-      {
-        "id": "9371718655e7",
-        "title": "chuong-94-theo-doi",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_2791_1787318820_luQT",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-21T13:27:55+00:00"
-      },
-      {
-        "id": "a1c934915027",
-        "title": "chuong-135-cau-tinh-nhan",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_22317_1787318682_HDNf",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-21T13:26:08+00:00"
-      },
-      {
-        "id": "3384fbf7c436",
-        "title": "chuong-4343-dung-cham-vao",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_33408_1787318421_kRoa",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-21T13:21:26+00:00"
       },
       {
         "id": "830ff80a45d4",
@@ -515,86 +515,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -805,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "b0a2d6149b0c",
+        "title": "Making Library Events Pop: Shari Werb",
+        "summary": "Shari Werb is the Library's director of the Center for Learning, Literacy and Engagement, a role in which she oversees popular events such as Live! At the Library. There's also the evelopment of outreach programs, such as The Source gallery, which just opened. In this short Q&#38;A, she answers ques...",
+        "url": "https://blogs.loc.gov/loc/2026/08/making-library-events-pop-shari-werb/",
+        "source": "Timeless",
+        "published": "2026-08-21T17:23:55+00:00"
+      },
+      {
+        "id": "a7a4801b97d9",
+        "title": "A Guide to Self-Hosting AI Models on a Raspberry Pi #piday #raspberrypi",
+        "summary": "&#160; Hackernoon has this quick how&#8217;s and why&#8217;s of setting up a Raspberry Pi 5 as a local AI agent. I was burning through $40-60/month on OpenAI API calls for my agent project. Every conversation, every code review, every “summarize this for me” was a metered API call. Worse, I was send...",
+        "url": "https://blog.adafruit.com/2026/08/21/a-guide-to-self-hosting-ai-models-on-a-raspberry-pi-piday-raspberrypi/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-21T17:23:30+00:00"
+      },
+      {
         "id": "32c075dfdf5e",
         "title": "Featured mix: listen to MNJM’s A Homsi and DJ Saliva play layered rhythms",
         "summary": "Bored with linear mixing, bland cookie-cutter rhythms, and blunt TikTok-friendly hooks? Let's tune into Loone Berlin instead, as the Homsi from the bleeding-edge MNJM label joins with DJ Saliva.\nThe post Featured mix: listen to MNJM&#8217;s A Homsi and DJ Saliva play layered rhythms appeared first o...",
@@ -947,14 +883,6 @@
         "url": "https://blog.adafruit.com/2026/08/20/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-20-3/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-08-20T20:36:01+00:00"
-      },
-      {
-        "id": "479452b0792f",
-        "title": "Skeleton Head Pumpkin – Skull-Textured Halloween Decor #3DThursday #3DPrinting",
-        "summary": "sektor7_studios shares: A pumpkin like no other — the classic pumpkin shape with an entire body made of skulls. One-piece 3D print, ready to go. Highly detailed skull texture for a chilling effect. Looks amazing in black, grey, or glow-in-the-dark filament. Perfect Halloween centerpiece. By Sektor 7...",
-        "url": "https://blog.adafruit.com/2026/08/20/skeleton-head-pumpkin-skull-textured-halloween-decor-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-20T20:00:44+00:00"
       },
       {
         "id": "6db516590e7a",
@@ -2285,14 +2213,6 @@
         "published": "2026-07-20T17:58:41+00:00"
       },
       {
-        "id": "41a0f7bd3bed",
-        "title": "“By the Dawn’s Early Light…”",
-        "summary": "In September 1814, Francis Scott Key composed a poem, “Defence of Fort M‘Henry,” after witnessing U.S. forces defend Fort McHenry, the fortress guarding Baltimore Harbor, against a fierce British bombardment. He combined it with the tune of an 18th-century British song, “Anacreon in Heaven.\" Key’s c...",
-        "url": "https://blogs.loc.gov/loc/2026/07/by-the-dawns-early-light/",
-        "source": "Timeless",
-        "published": "2026-07-20T13:00:59+00:00"
-      },
-      {
         "id": "e12428ade24e",
         "title": "以樂為翼，大有作為！ 傳藝中心共製萬海航運慈善「愛有為」賽事，譜寫盛夏最溫柔的音樂篇章！",
         "summary": "國家級樂團跨界民間慈善共製合作，成功開創藝術平權新典範！由國立傳統藝術中心與財團法人萬海航運社會福利慈善事業基金會首度合作、共同主辦「【愛有為】第八屆萬海慈善身障者才藝徵選大賽」決賽，於7月18日在臺灣戲曲中心大表演廳圓滿落幕。本次合作不僅是臺灣國樂團首度以國家級樂團編制導入民間社福賽事，雙方更於開幕式中進行紀念性的合作演出，用國家級舞台的專業規格，搭配專業演奏，給予優秀表演者最尊榮的展演舞台。本屆「愛有為」決賽分為肢體表演、歌唱表演、器樂表演三大專業組別，歷經層層選拔的18組才華出眾的身心障礙表演者逐一登台，展現精湛的技藝與對舞台的熱情。本日賽事的最大亮點，為比賽開幕的跨界共演。由本屆代言人...",
@@ -2572,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T16:42:34.289702+00:00"
+        "published": "2026-08-21T17:35:56.244266+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T16:42:34.289694+00:00"
+        "published": "2026-08-21T17:35:56.244255+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T16:42:34.289686+00:00"
+        "published": "2026-08-21T17:35:56.244245+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T16:42:34.289678+00:00"
+        "published": "2026-08-21T17:35:56.244235+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T16:42:34.289669+00:00"
+        "published": "2026-08-21T17:35:56.244224+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T16:42:34.289661+00:00"
+        "published": "2026-08-21T17:35:56.244213+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T16:42:34.289653+00:00"
+        "published": "2026-08-21T17:35:56.244202+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T16:42:34.289645+00:00"
+        "published": "2026-08-21T17:35:56.244192+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T16:42:34.289638+00:00"
+        "published": "2026-08-21T17:35:56.244182+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-21T16:42:34.289630+00:00"
+        "published": "2026-08-21T17:35:56.244171+00:00"
       },
       {
         "id": "cc87898e1a06",
