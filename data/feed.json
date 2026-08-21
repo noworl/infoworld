@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:32:56.058408+00:00",
+  "updated_at": "2026-08-21T01:47:39.460405+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -515,6 +515,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,6 +805,14 @@
     ],
     "破(day)": [
       {
+        "id": "5d5708c4b145",
+        "title": "Deskbuddy – ESP32 Touchscreen Personal Desk Dashboard #3DThursday #3DPrinting",
+        "summary": "LextZip shares: A customizable mini dashboard combining a touchscreen ESP32 board with simple software widgets: time, weather, notes, timers, and other useful modules. Compact always-visible display so you don&#8217;t need to check your phone or open extra apps. Works as clock, weather display, focu...",
+        "url": "https://blog.adafruit.com/2026/08/20/deskbuddy-esp32-touchscreen-personal-desk-dashboard-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-21T00:00:05+00:00"
+      },
+      {
         "id": "6f46aeb41415",
         "title": "Arduino R3 + Breadboard Holder – Sticky-Back or Hot-Glue Mount #3DThursday #3DPrinting",
         "summary": "Shared by TheGadge on MakerWorld: I wanted something to hold the Arduino Uno R3 (in my case, an Elegoo one) along with a breadboard &#8211; standard size. The breadboard I buy have a sticky back which makes a permanent fixture, or you could just hot glue etc. I&#8217;ve designed this to be printed w...",
@@ -813,14 +901,6 @@
         "published": "2026-08-20T16:43:47+00:00"
       },
       {
-        "id": "3e63bbb0627b",
-        "title": "Raspberry Pi Pico + Pico Display Pack Case – Fully Enclosed with TPU Buttons #3DThursday #3DPrinting",
-        "summary": "EngineeringProj shares: A fully enclosed case for the Raspberry Pi Pico with a Pimoroni Pico Display Pack. Buttons print in TPU with two profiles (low-profile and high-profile). Includes a bottom RESET button so you don&#8217;t have to remove the Pico. Version 1 available for smaller USB cable holes...",
-        "url": "https://blog.adafruit.com/2026/08/20/raspberry-pi-pico-pico-display-pack-case-fully-enclosed-with-tpu-buttons-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-20T16:00:04+00:00"
-      },
-      {
         "id": "8c59d05ca4f9",
         "title": "閱讀通信 vol.395》漫畫翻譯可以用AI嗎？",
         "summary": "近期話題真的是無所不脫離AI，從選用哪個AI軟體協作，到AI創作是否可能威脅到人類，還有AI的翻譯品質等等，被AI的觸角碰觸到的領域越來越多，根本談不完啊。\n在到處都是翻譯軟體的現在，你讀書時也會用AI翻譯嗎？雖然聽起來好像很簡單，按一兩下咻──咻──就好了，不過翻譯出來的文字，品質是否真的有保證？翻錯了怎麼辦呢？而且，如果今天翻譯的是漫畫，這種有時候文字也被畫成圖片的一部份的作品，又該怎麼處理？\n不少公司已經嗅到這股翻譯漫畫的潛在商機，並搶先一步與同人誌的作者合作。不過，一直以來都有專業編輯校對的日本出版社，他們的漫畫編輯現在又是怎麼應對這股潮流的呢？就讓本週封面故事的作者，同時也是日本漫畫...",
@@ -851,6 +931,14 @@
         "url": "https://www.theguardian.com/stage/2026/aug/20/abigails-party-review-tamzin-outhewaite",
         "source": "Stage | The Guardian",
         "published": "2026-08-20T13:00:32+00:00"
+      },
+      {
+        "id": "acc25f9cb6ec",
+        "title": "1010music Bluebox 1.5 mixer module and desktop is your do-everything tool",
+        "summary": "There are all these extra things you need in hardware rigs or Eurorack modular. You need to mix stuff together -- and then add effects, and it'd be great to record, and you do still need to connect to your computer. Bluebox 1.5 fills out that wishlist with details that could make this an absolute mu...",
+        "url": "https://cdm.link/bluebox-1-5/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-20T12:51:56+00:00"
       },
       {
         "id": "7d2b1131cb0f",
@@ -971,6 +1059,14 @@
         "url": "https://www.theguardian.com/stage/2026/aug/19/my-edinburgh-fringe-odyssey-the-nudity-is-expressive-shocking-sometimes-harrowing",
         "source": "Stage | The Guardian",
         "published": "2026-08-19T16:42:59+00:00"
+      },
+      {
+        "id": "964c5fe181c3",
+        "title": "Lucid slices, stretches, and scrubs sound like no other granular FX",
+        "summary": "Talking granular effects is like talking ice cream -- it's all about the different flavors. So look at what Minimal Audio has given us: Lucid is a pulsing purple granular multi-effect. And it's capable of everything from bleeding-edge and ambient drones to animated, tempo-synced rhythmic sliced mayh...",
+        "url": "https://cdm.link/lucid-slices-stretches-and-scrubs-sound-like-no-other-granular-fx/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-19T16:25:03+00:00"
       },
       {
         "id": "ce7e13a7a6a9",
@@ -1165,6 +1261,14 @@
         "published": "2026-08-18T16:00:00+00:00"
       },
       {
+        "id": "93048a2be5e8",
+        "title": "Organismi OR—1, free for iPad: breathing, stochastic pattern generator",
+        "summary": "OR—1 is an artful, generative MIDI sequencer maker. It's free for iPad as an AUv3, with a desktop macOS version available for €19.99. And it's an exquisite experience feeding these into synths.\nThe post Organismi OR—1, free for iPad: breathing, stochastic pattern generator appeared first on CDM Crea...",
+        "url": "https://cdm.link/organismi-or-1/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-18T14:16:59+00:00"
+      },
+      {
         "id": "924d3f83ea26",
         "title": "David Cordero/Aiko Takahashi  – Night’s End",
         "summary": "Music for the end of the night (or for every other delicate moment of the day): David Cordero &#038; Aiko Takahashi.\n--- published on Ambientblog ---",
@@ -1211,6 +1315,14 @@
         "url": "https://www.smithsonianmag.com/innovation/australias-social-media-ban-for-teens-may-not-be-the-best-solution-but-its-certainly-getting-people-talking-180989355/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-17T19:15:28+00:00"
+      },
+      {
+        "id": "aaf017ff723f",
+        "title": "Handmade experimental synths and DIY from Argentina’s Los Aparatos",
+        "summary": "From Tucumán, Argentina, Los Aparatos are constructing handmade synths and electronics education and DIY projects. And now you can ship their experimental synthesizer, Auduina MK2, internationally. Plus, those pink controls and creative projects are just irresistible. Let's take a look.\nThe post Han...",
+        "url": "https://cdm.link/los-aparatos/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-17T16:29:47+00:00"
       },
       {
         "id": "64d2de79d3b4",
@@ -1437,6 +1549,14 @@
         "published": "2026-08-14T16:00:00+00:00"
       },
       {
+        "id": "6c634d18552d",
+        "title": "otophon is a plug-in to play tones inside your head",
+        "summary": "This one's for the heads, literally. Otoacoustic emissions (OAEs) are sounds produced by your ear, ghostly tones emitted from inside the cochlea itself. The phenomenon has been employed in experimental music (and medical applications), but it has been hard to explore on your own -- until now.\nThe po...",
+        "url": "https://cdm.link/otophon-is-a-plug-in-to-play-tones-inside-your-head/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-14T11:52:05+00:00"
+      },
+      {
         "id": "14c1f4912c4c",
         "title": "話題》一種肉體性的閱讀，一種異化過的翻譯：《讓我們下沉》譯者序",
         "summary": "莎菲與喬治亞男人消失於黑暗，遠離其他男人與他們的火堆。我蜷曲身體，脖子埋進胸口，膝蓋頂著腹部，感激小小的慈悲：喬治亞男人的手下沒有輪流上她。但是我聽見莎菲，她在暗處吶喊。我沒捂起耳朵。如果她必須忍受這個，我至少該忍著見證。\n\n這是《讓我們下沉》書裡的一段，主角阿妮絲是個來自非洲達荷美王國的第三代美國黑奴，是她在卡羅萊納州的主人強暴她的母親而生，長大後，她的親生父親強暴她不成，就把她賣給奴隸販子帶到紐奧良的奴隸拍賣市場。\n\n\n達荷美王國末代國王Béhanzin於1894年向法國投降。（圖源：wikipedia）\n\n\n從卡羅萊納州到紐奧良，女主角的閨蜜兼愛人莎菲被解押黑奴的護衛頭子強暴，女主角說：...",
@@ -1459,6 +1579,14 @@
         "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "source": "Claude Blog",
         "published": "2026-08-14T00:00:00+00:00"
+      },
+      {
+        "id": "077ae72807a5",
+        "title": "UR soul: John Jammin Collins’ story, Detroit’s story, as a call to action",
+        "summary": "Digging into the history of John \"Jammin'\" Collins, you hear a history of Detroit and the potential of music to give back. The techno and progressive soul legend's journey is also intertwined with health. It all lands as a challenge to do something meaningful with our sounds and to care for the peop...",
+        "url": "https://cdm.link/ur-soul-john-jammin-collins/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-13T17:15:59+00:00"
       },
       {
         "id": "6b6bec343f1c",
@@ -1541,6 +1669,14 @@
         "published": "2026-08-12T17:02:02+00:00"
       },
       {
+        "id": "e4207539e326",
+        "title": "Blind musician Jason Dasent worked with Roland to make a guide for V-STAGE",
+        "summary": "Jason Dasent, a blind, UK-based Trinidadian musician, producer, and globally recognized accessibility consultant, has teamed up with the Roland Future Design Lab. The result: a comprehensive accessibility guide to every control, jack, widget, and function on the V-STAGE performance keyboard. More li...",
+        "url": "https://cdm.link/blind-musician-jason-dasent-worked-with-roland-to-make-a-guide-for-v-stage/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-12T16:58:48+00:00"
+      },
+      {
         "id": "40482cadee50",
         "title": "《共識的終結》：在臥底調查、追捕網軍過程中，他們發現的事",
         "summary": "2015年到俄羅斯網軍農場臥底兩個半月後，薩夫丘克向媒體揭發其運作。她原以為這會震撼大眾，進而協助停止其運作；然而，大部分人卻不以為意。這讓她更恐懼。農場製造的謊言不只變成現實，連農場本身的存在也被視為常態⋯⋯",
@@ -1611,6 +1747,14 @@
         "url": "https://www.twreporter.org/a/sugar-dating",
         "source": "報導者",
         "published": "2026-08-11T16:00:00+00:00"
+      },
+      {
+        "id": "1527be43c211",
+        "title": "The TR-808 is getting an MSW open-source firmware and a Tubbutec mod",
+        "summary": "From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend the 808's life and expand its features. A new 808 firmware joins firmware for the TR-606 and TR-303. Meet SuperOS-808.From Michigan, the land where the TR-808 met techno, comes an open-source effort to extend ...",
+        "url": "https://cdm.link/superos-808/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-11T15:34:05+00:00"
       },
       {
         "id": "036d78657fc1",
@@ -1717,12 +1861,28 @@
         "published": "2026-08-10T13:00:25+00:00"
       },
       {
+        "id": "7939d09ccce2",
+        "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
+        "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major security vulnerability in many CDJ and XDJ models and all Rekordbox software for macOS, Windows, Android, and iOS. You should definitely patch your software, but what does this mean, exactly, and who's affected?...",
+        "url": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-10T11:03:06+00:00"
+      },
+      {
         "id": "b38f74e4ffa1",
         "title": "高科技創客探險隊整裝出發！國圖OPEN LAB開放特別休館日，與青少年探索半導體材料科學議題，共築創客未來",
         "summary": "高科技創客探險隊整裝出發！國圖OPEN LAB開放特別休館日，與青少年探索半導體材料科學議題，共築創客未來,為提升青少年讀者對於創客資源之認知，國家圖書館多媒體創意實驗中心（以下簡稱OPEN LAB）於2026年8月10日辦理「2026 OPEN LAB創客培力養成營—高科技創客探險隊：無限智造，創...",
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q225405886917896652",
         "source": "國家圖書館",
         "published": "2026-08-09T16:00:00+00:00"
+      },
+      {
+        "id": "5268f9bf8083",
+        "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
+        "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 808 Day (August 8), 2026.\nThe post Strange, wonderful #808day creations from Japan &#8212; and a DIY D-Beam! appeared first on CDM Create Digital Music...",
+        "url": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-09T15:30:32+00:00"
       },
       {
         "id": "1bf564c3660c",
@@ -2412,7 +2572,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T23:32:55.004151+00:00"
+        "published": "2026-08-21T01:47:38.287698+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2580,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T23:32:55.004140+00:00"
+        "published": "2026-08-21T01:47:38.287688+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2588,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T23:32:55.004130+00:00"
+        "published": "2026-08-21T01:47:38.287678+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2596,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T23:32:55.004120+00:00"
+        "published": "2026-08-21T01:47:38.287668+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2604,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T23:32:55.004109+00:00"
+        "published": "2026-08-21T01:47:38.287658+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2612,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T23:32:55.004099+00:00"
+        "published": "2026-08-21T01:47:38.287647+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2620,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T23:32:55.004088+00:00"
+        "published": "2026-08-21T01:47:38.287637+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2628,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T23:32:55.004078+00:00"
+        "published": "2026-08-21T01:47:38.287627+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2636,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T23:32:55.004067+00:00"
+        "published": "2026-08-21T01:47:38.287617+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2644,15 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-20T23:32:55.004056+00:00"
+        "published": "2026-08-21T01:47:38.287607+00:00"
+      },
+      {
+        "id": "cc87898e1a06",
+        "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+        "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+        "source": "阮一峰的网络日志",
+        "published": "2026-08-20T23:53:54+00:00"
       },
       {
         "id": "29a4bf20dbe6",
@@ -2661,14 +2829,6 @@
         "url": "https://www.min-on.org/zh-hant/14916/%e6%97%a5%e6%9c%ac%e5%a4%9a%e5%a0%b4%e6%a0%a1%e5%9c%92%e9%9f%b3%e6%a8%82%e6%9c%83%ef%bc%8c%e6%96%bc2026%e5%b9%b45%e6%9c%88%e8%87%b36%e6%9c%88%e8%88%89%e8%be%a6/",
         "source": "Chinese Traditional – Min-On Website",
         "published": "2026-08-03T08:21:54+00:00"
-      },
-      {
-        "id": "6e58307d6555",
-        "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
-        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-07-31T00:08:55+00:00"
       },
       {
         "id": "4ba639282ca6",
