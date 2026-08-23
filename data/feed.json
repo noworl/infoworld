@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-23T01:50:37.561029+00:00",
+  "updated_at": "2026-08-23T03:10:18.343591+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "b6fe0366f6c8",
+        "title": "chuong-2515",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_20074_1787452394_pW0U",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-23T02:34:02+00:00"
+      },
+      {
+        "id": "27f86df73bad",
+        "title": "chuong-435-chuong-435",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_6794_1787446886_FI94",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-23T01:02:25+00:00"
+      },
       {
         "id": "134baa999e59",
         "title": "吳德榮：颱風沙德爾估27日襲台　不排除登陸",
@@ -9,6 +25,14 @@
         "url": "https://www.cna.com.tw/news/ahel/202608230020.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-23T00:36:37+00:00"
+      },
+      {
+        "id": "030ad4642719",
+        "title": "SET AO VIVO RUBI A NAVE DO SOM EM SOLEDADE 2026",
+        "summary": "DF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-ao-vivo-rubi-a-nave-do-som-em-soledade-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-23T00:21:49+00:00"
       },
       {
         "id": "bb62acb2a00b",
@@ -73,30 +97,6 @@
         "url": "https://archive.org/details/audio_doc-truyen-online_chap_12447_1787437417_0KWt",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-22T22:24:41+00:00"
-      },
-      {
-        "id": "702709024750",
-        "title": "#jazz #blues #fusion - KASU Fundraiser",
-        "summary": "#jazz #blues #fusion KASU Fundraiser #jazz #blues #fusion (pronounced jazz blues fusion) was the closing act at a KASU Fundraiser on March 20, 2026, organized by Dylan Nelson and held at The Rec Room on Main Street in downtown Jonesboro, Arkansas....This item belongs to: audio/somethingbluearchives....",
-        "url": "https://archive.org/details/jbf-kasu-fundraiser",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-22T21:49:01+00:00"
-      },
-      {
-        "id": "cb27168cca3c",
-        "title": "chuong-5028-nguoi-van-giet-ta-sao",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_34097_1787434938_LbpI",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-22T21:43:10+00:00"
-      },
-      {
-        "id": "142d4d44a257",
-        "title": "chuong-1044-dien-gia-lam-thuc-2",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_15872_1787434455_5VwH",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-22T21:35:17+00:00"
       },
       {
         "id": "b5f29c4692b2",
@@ -2572,7 +2572,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-23T01:50:35.647027+00:00"
+        "published": "2026-08-23T03:10:16.975374+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2580,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-23T01:50:35.647016+00:00"
+        "published": "2026-08-23T03:10:16.975363+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2588,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-23T01:50:35.647006+00:00"
+        "published": "2026-08-23T03:10:16.975352+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2596,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-23T01:50:35.646996+00:00"
+        "published": "2026-08-23T03:10:16.975342+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2604,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-23T01:50:35.646985+00:00"
+        "published": "2026-08-23T03:10:16.975330+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2612,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-23T01:50:35.646975+00:00"
+        "published": "2026-08-23T03:10:16.975319+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2620,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-23T01:50:35.646964+00:00"
+        "published": "2026-08-23T03:10:16.975308+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2628,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-23T01:50:35.646950+00:00"
+        "published": "2026-08-23T03:10:16.975294+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2636,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-23T01:50:35.646940+00:00"
+        "published": "2026-08-23T03:10:16.975284+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2644,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-23T01:50:35.646930+00:00"
+        "published": "2026-08-23T03:10:16.975273+00:00"
       },
       {
         "id": "cc87898e1a06",
