@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-24T19:35:32.750672+00:00",
+  "updated_at": "2026-08-24T20:38:44.832778+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "86c7fca2a597",
+        "title": "Mehdi Mozayine Darbt Las 9t",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mehdi-mozayine-darbt-las-9t_20260824",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-24T18:41:20+00:00"
+      },
+      {
+        "id": "936c31af507b",
+        "title": "Mehdi Mozayine Darbt Las 9t",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mehdi-mozayine-darbt-las-9t_202608",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-24T18:16:25+00:00"
+      },
       {
         "id": "3f5540e56cda",
         "title": "RADIO KIEPENKERL Hitmix By Enrico Ostendorf ( 08.08.2026) ( 3)",
@@ -65,22 +81,6 @@
         "url": "https://archive.org/details/dina-lila-3ersi",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-24T15:00:06+00:00"
-      },
-      {
-        "id": "829f9e7bccfd",
-        "title": "MASSI TAQVAYLIT",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/massi-taqvaylit",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-24T14:50:25+00:00"
-      },
-      {
-        "id": "20a3863ef03c",
-        "title": "Zouhair Bahaoui Ft@ Lazaro TITIZ A KHAY",
-        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/zouhair-bahaoui-ft-lazaro-titiz-a-khay",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-24T14:40:39+00:00"
       },
       {
         "id": "45d2e3aebd22",
@@ -725,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "6ebc13c718ef",
+        "title": "Everything about my smart home and homelab setup",
+        "summary": "So many people are looking to set up homelabs and also looking to automate their home. But actual examples are not so easy to find. Bruno Rocha writes about his home network and home automation setup is laid out and has changed over time. I’m very satisfied with my hardware and setup choices. As I [...",
+        "url": "https://blog.adafruit.com/2026/08/24/everything-about-my-smart-home-and-homelab-setup/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-24T20:30:16+00:00"
+      },
+      {
+        "id": "221a68788687",
+        "title": "Celebrating 45 years of Kermit with the first new C-Kermit release in 15 years",
+        "summary": "John Goerzen writes on The Changelog that 1981 was a different time for computing. It was expensive (both hardware and software), and it was far from a given that machines from one vendor would be able to talk to those from another. In fact, Columbia University had just such a problem, so in 1981, F...",
+        "url": "https://blog.adafruit.com/2026/08/24/celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-24T19:59:50+00:00"
+      },
+      {
         "id": "1268504efb85",
         "title": "A portable, sensitive, low power, analog Geiger counter",
         "summary": "Manfred Mornhinweg bought a Chinese J306β Geiger-Müller counter tube, the glass version, which is rated to give 88 counts per minute at average background radiation, or 8 counts per second at a radiation intensity of 1µSv/h. This tube is nearly 20cm long, and about 18mm in diameter. I took quite som...",
@@ -819,22 +835,6 @@
         "url": "https://blog.adafruit.com/2026/08/24/today-marks-the-400th-python-on-microcontrollers-newsletter/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-08-24T15:20:50+00:00"
-      },
-      {
-        "id": "bdf5f97c2446",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/08/24/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-24/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-24T15:07:52+00:00"
-      },
-      {
-        "id": "a4f5798ca826",
-        "title": "Running Photoshop on a £0.60 computer chip – some thoughts about simpler computers",
-        "summary": "Colin always had a fascination with simpler and low power computing. This lead to a decision to run Photoshop on a 60 pence computer chip on the Adafruit Fruit Jam. OK; this is hardly editing a full colour, highly detailed photograph but at least my &#8220;self portrait&#8221; will obviously set the...",
-        "url": "https://blog.adafruit.com/2026/08/24/running-photoshop-on-a-0-60-computer-chip-some-thoughts-about-simpler-computers/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-24T15:03:56+00:00"
       },
       {
         "id": "96e61791a1fe",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T19:35:31.219364+00:00"
+        "published": "2026-08-24T20:38:42.535991+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T19:35:31.219353+00:00"
+        "published": "2026-08-24T20:38:42.535983+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T19:35:31.219342+00:00"
+        "published": "2026-08-24T20:38:42.535976+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T19:35:31.219331+00:00"
+        "published": "2026-08-24T20:38:42.535969+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T19:35:31.219320+00:00"
+        "published": "2026-08-24T20:38:42.535961+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T19:35:31.219309+00:00"
+        "published": "2026-08-24T20:38:42.535954+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T19:35:31.219299+00:00"
+        "published": "2026-08-24T20:38:42.535946+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T19:35:31.219288+00:00"
+        "published": "2026-08-24T20:38:42.535939+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T19:35:31.219277+00:00"
+        "published": "2026-08-24T20:38:42.535932+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T19:35:31.219267+00:00"
+        "published": "2026-08-24T20:38:42.535924+00:00"
       },
       {
         "id": "6068d0316359",
