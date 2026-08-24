@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T20:38:44.832778+00:00",
+  "updated_at": "2026-08-24T21:36:25.112153+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -515,6 +515,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,6 +805,22 @@
     ],
     "破(day)": [
       {
+        "id": "8a6af5c654c0",
+        "title": "Electronic component zero orientation for CAD library construction",
+        "summary": "Mentor Graphics Corporation, back in 2010, established a consistent technique for the description of electronic component orientation, and their land pattern geometries, that facilitates and encourages a common data capture and transfer methodology amongst and between global trading partners. IPC, i...",
+        "url": "https://blog.adafruit.com/2026/08/24/electronic-component-zero-orientation-for-cad-library-construction/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-24T21:10:52+00:00"
+      },
+      {
+        "id": "6a01bf69915c",
+        "title": "A dithered QR code generator",
+        "summary": "A QR code is really just a way of encoding a few bytes of data in a way that can be easily read from a photo by a smartphone or similar device. They&#8217;re designed to be very robust to bad focus, bad printing, funny angles, and missing areas. Exactly how they work isn&#8217;t terribly important, ...",
+        "url": "https://blog.adafruit.com/2026/08/24/a-dithered-qr-code-generator/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-24T20:50:01+00:00"
+      },
+      {
         "id": "6ebc13c718ef",
         "title": "Everything about my smart home and homelab setup",
         "summary": "So many people are looking to set up homelabs and also looking to automate their home. But actual examples are not so easy to find. Bruno Rocha writes about his home network and home automation setup is laid out and has changed over time. I’m very satisfied with my hardware and setup choices. As I [...",
@@ -805,14 +901,6 @@
         "published": "2026-08-24T16:05:58+00:00"
       },
       {
-        "id": "0eafb9cbc846",
-        "title": "Attachécade Luggable Arcade: New Learn Guide Alert",
-        "summary": "Build your own portable arcade machine housed inside of a repurposed record player case. John Park&#8217;s Attachécade Learn Guide shows you how. The Attachécade is a Raspberry Pi-based emulation machine with built-in 14&#8243; monitor, arcade joystick and buttons, and stereo speakers. You can flip ...",
-        "url": "https://blog.adafruit.com/2026/08/24/attachecade-luggable-arcade-new-learn-guide-alert/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-24T15:41:25+00:00"
-      },
-      {
         "id": "ed86a76926f1",
         "title": "Frankie Thompson: Horrible Things review – a show to make you shudder with laughter",
         "summary": "Pleasance Courtyard, EdinburghFrom Jacob Rees-Mogg as a child to Frank Sinatra’s ego in space, this is a wild collage of clowning and performance artThere are plenty of works-in-progress on the fringe. Frankie Thompson insists (or has the voice of Peppa Pig do so) that her show is a work-in-regress,...",
@@ -827,14 +915,6 @@
         "url": "https://www.theguardian.com/stage/2026/aug/24/bbcsso-canellakis-review-usher-hall-edinburgh-strauss-elektra",
         "source": "Stage | The Guardian",
         "published": "2026-08-24T15:21:50+00:00"
-      },
-      {
-        "id": "99f80894ed40",
-        "title": "Today marks the 400th Python on Microcontrollers Newsletter",
-        "summary": "Today marks the publication of the 400th Python on Microcontrollers Newsletter! Nearly 10 years of providing the best news in the community. The newsletter is the place for the latest news involving Python on hardware with coverage of Python, CircuitPython and MicroPython. 12,369 readers. Catch all ...",
-        "url": "https://blog.adafruit.com/2026/08/24/today-marks-the-400th-python-on-microcontrollers-newsletter/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-24T15:20:50+00:00"
       },
       {
         "id": "96e61791a1fe",
@@ -2492,7 +2572,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T20:38:42.535991+00:00"
+        "published": "2026-08-24T21:36:22.876497+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2580,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T20:38:42.535983+00:00"
+        "published": "2026-08-24T21:36:22.876490+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2588,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T20:38:42.535976+00:00"
+        "published": "2026-08-24T21:36:22.876482+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2596,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T20:38:42.535969+00:00"
+        "published": "2026-08-24T21:36:22.876473+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2604,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T20:38:42.535961+00:00"
+        "published": "2026-08-24T21:36:22.876466+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2612,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T20:38:42.535954+00:00"
+        "published": "2026-08-24T21:36:22.876458+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2620,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T20:38:42.535946+00:00"
+        "published": "2026-08-24T21:36:22.876451+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2628,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T20:38:42.535939+00:00"
+        "published": "2026-08-24T21:36:22.876444+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2636,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T20:38:42.535932+00:00"
+        "published": "2026-08-24T21:36:22.876437+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2644,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T20:38:42.535924+00:00"
+        "published": "2026-08-24T21:36:22.876430+00:00"
       },
       {
         "id": "6068d0316359",
