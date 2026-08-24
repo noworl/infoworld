@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T14:50:35.641920+00:00",
+  "updated_at": "2026-08-24T15:46:54.333217+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -805,6 +805,54 @@
     ],
     "破(day)": [
       {
+        "id": "0eafb9cbc846",
+        "title": "Attachécade Luggable Arcade: New Learn Guide Alert",
+        "summary": "Build your own portable arcade machine housed inside of a repurposed record player case. John Park&#8217;s Attachécade Learn Guide shows you how. The Attachécade is a Raspberry Pi-based emulation machine with built-in 14&#8243; monitor, arcade joystick and buttons, and stereo speakers. You can flip ...",
+        "url": "https://blog.adafruit.com/2026/08/24/attachecade-luggable-arcade-new-learn-guide-alert/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-24T15:41:25+00:00"
+      },
+      {
+        "id": "ed86a76926f1",
+        "title": "Frankie Thompson: Horrible Things review – a show to make you shudder with laughter",
+        "summary": "Pleasance Courtyard, EdinburghFrom Jacob Rees-Mogg as a child to Frank Sinatra’s ego in space, this is a wild collage of clowning and performance artThere are plenty of works-in-progress on the fringe. Frankie Thompson insists (or has the voice of Peppa Pig do so) that her show is a work-in-regress,...",
+        "url": "https://www.theguardian.com/stage/2026/aug/24/frankie-thompson-horrible-things-review",
+        "source": "Stage | The Guardian",
+        "published": "2026-08-24T15:41:12+00:00"
+      },
+      {
+        "id": "73c7912edfb3",
+        "title": "BBCSSO/Canellakis review – electrifying trio of women unleash the horror in Strauss’s Elektra",
+        "summary": "Usher Hall, EdinburghMaking the most of a huge orchestra, conductor Karina Canellakis treated the dissonant score with relish, but the evening belonged to the singers, with even the tiniest role superbly realised Christopher Nolan’s film The Odyssey carries a content warning for “strong violence and...",
+        "url": "https://www.theguardian.com/stage/2026/aug/24/bbcsso-canellakis-review-usher-hall-edinburgh-strauss-elektra",
+        "source": "Stage | The Guardian",
+        "published": "2026-08-24T15:21:50+00:00"
+      },
+      {
+        "id": "99f80894ed40",
+        "title": "Today marks the 400th Python on Microcontrollers Newsletter",
+        "summary": "Today marks the publication of the 400th Python on Microcontrollers Newsletter! Nearly 10 years of providing the best news in the community. The newsletter is the place for the latest news involving Python on hardware with coverage of Python, CircuitPython and MicroPython. 12,369 readers. Catch all ...",
+        "url": "https://blog.adafruit.com/2026/08/24/today-marks-the-400th-python-on-microcontrollers-newsletter/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-24T15:20:50+00:00"
+      },
+      {
+        "id": "bdf5f97c2446",
+        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
+        "url": "https://blog.adafruit.com/2026/08/24/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-24/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-24T15:07:52+00:00"
+      },
+      {
+        "id": "a4f5798ca826",
+        "title": "Running Photoshop on a £0.60 computer chip – some thoughts about simpler computers",
+        "summary": "Colin always had a fascination with simpler and low power computing. This lead to a decision to run Photoshop on a 60 pence computer chip on the Adafruit Fruit Jam. OK; this is hardly editing a full colour, highly detailed photograph but at least my &#8220;self portrait&#8221; will obviously set the...",
+        "url": "https://blog.adafruit.com/2026/08/24/running-photoshop-on-a-0-60-computer-chip-some-thoughts-about-simpler-computers/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-24T15:03:56+00:00"
+      },
+      {
         "id": "13766cd863f1",
         "title": "New European Union product repair rules come into force",
         "summary": "New European Union (EU) rules have come into force designed to encourage consumers to repair rather than replace products to tackle the estimated 35 million tonnes of waste the premature disposal of consumer goods generates. The &#8216;right to repair&#8217; regulations introduce new rights and supp...",
@@ -1021,6 +1069,14 @@
         "published": "2026-08-24T01:00:00+00:00"
       },
       {
+        "id": "8dd78dfc84b6",
+        "title": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+        "summary": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+        "url": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
+        "source": "Claude Blog",
+        "published": "2026-08-24T00:00:00+00:00"
+      },
+      {
         "id": "1c2ae6b0c342",
         "title": "Pixel Quest",
         "summary": "martina. shares how they created this handheld game console that doubles as a photo-editing control surface. Check out the project details on hackster.io **PIXEL QUEST** is a handheld game console you can hold in both hands — three original mini-games, a 2-inch screen, eight knobs and a joystick. Bu...",
@@ -1141,14 +1197,6 @@
         "published": "2026-08-23T07:00:00+00:00"
       },
       {
-        "id": "4c46025f8982",
-        "title": "Bebe Cave: Swoon review – dazzling portrait of marginalised muses and the male gaze",
-        "summary": "Pleasance Dome, EdinburghSmart, slapstick and silly, this chaotic multicharacter comedy sends up the Pre-Raphaelite BrotherhoodSome of the most revered works of art across history feature women as their primary focus. But though they might appear as favoured subjects, so often these women are relega...",
-        "url": "https://www.theguardian.com/stage/2026/aug/23/bebe-cave-swoon-review-dazzling-portrait-of-marginalised-muses-and-the-male-gaze",
-        "source": "Stage | The Guardian",
-        "published": "2026-08-23T06:00:24+00:00"
-      },
-      {
         "id": "b83430b2ab59",
         "title": "AI治病，走到哪一步了？",
         "summary": "“说 AI 能治愈癌症更像是一种陈词滥调，而非鼓舞人心，大多数人认为这是欺骗性的。”8 月 16 日，Anthropic 首席执行官 Dario Amodei 在 X 上写下了这句话。两天后，Anthropic 公布了一项蛋白质设计实验：Claude 操作一组专业模型和研究工具，设计出了能够与多个目标蛋白结合的新蛋白。再过一天，莫德纳和默沙东宣布，包含机器学习设计环节的个体化癌症疫苗在黑色素瘤三期试验中达到主要终点。几项成果集中出现，再次激起了外界对 AI 医疗的关注，资本市场也迅速作出反应。8 月 19 日，莫德纳股价上涨约177%，默沙东上涨约 13%；Anthropic 相关实验的验证方...",
@@ -1173,36 +1221,12 @@
         "published": "2026-08-23T05:27:42+00:00"
       },
       {
-        "id": "48841e69890d",
-        "title": "A supreme being, the nearly naked show and politics with paws: Edinburgh fringe pick’n’mix",
-        "summary": "From Taiwanese steampunk dance to Australian climate comedy, here are 13 quick-fire fringe reviewsAll our Edinburgh festival reviewsFor new perspective on the strange ways we behave, we all know the thought experiment “if a visitor from space arrived on Earth, what would they think?” In Born Sexy Ye...",
-        "url": "https://www.theguardian.com/stage/2026/aug/23/edinburgh-fringe-reviews-pick-n-mix",
-        "source": "Stage | The Guardian",
-        "published": "2026-08-23T05:00:24+00:00"
-      },
-      {
         "id": "ca7c01a197b5",
         "title": "童書評》適應幼兒園生活的祕方：《三色碗》給孩子具體而溫柔的心理支持",
         "summary": "《三色碗》是一本可愛、溫柔，也很懂孩子入園心情的繪本。它從被子、拖鞋、水壺、牙刷、書包和3個小碗這些熟悉物件出發，陪孩子一步步走進幼兒園的新生活。對剛入園的孩子來說，真正困難的常常不是吃飯、午睡或遊戲，而是不知道接下來會發生什麼，也不知道還要多久才能回家。\n故事最動人的設計，就是把抽象的一整天，化成孩子看得見、摸得到的3個碗：紅色碗吃早上點心，黃色碗吃午餐，藍色碗吃午睡後的下午點心。當孩子知道用完一個碗，時間就往前走一點，再用一個碗，就更接近回家，心裡便多了一份安定。這樣的安排，對幼兒是非常具體、也很溫柔的心理支持。\n➤從三色碗聯想到身邊的世界\n三色碗不只是餐具，更像孩子在新環境裡的小夥伴。紅...",
         "url": "https://www.openbook.org.tw/article/p-72865",
         "source": "Openbook閱讀誌",
         "published": "2026-08-23T01:00:00+00:00"
-      },
-      {
-        "id": "9e41dfcd16f7",
-        "title": "The Perfect Cold Water  #piday #raspberrypi",
-        "summary": "ethan1110lin got tired of lukewarm water and designed a device that notifies them when their water reaches the perfect temperature. Check out the project details on instructables. So what can you do? Or, as a matter of fact, what can a Raspberry Pi do? As it turns out, quite a lot. This single-board...",
-        "url": "https://blog.adafruit.com/2026/08/22/the-perfect-cold-water-piday-raspberrypi/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-22T20:00:11+00:00"
-      },
-      {
-        "id": "367aca99be52",
-        "title": "The Brooklyn Museum Presents Art of Manga #​ArtOfManga",
-        "summary": "Coming in October, Art of Manga will bring over 600 drawings from influential manga artists to the East Coast. And Yes! cosplay is encouraged, safely. Art of Manga is the first major exhibition in the Americas to explore manga—Japanese comics and graphic novels—as an art form. Marking its East Coast...",
-        "url": "https://blog.adafruit.com/2026/08/22/the-brooklyn-museum-presents-art-of-manga-artofmanga/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-22T18:01:38+00:00"
       },
       {
         "id": "10cca28c8ebf",
@@ -1227,14 +1251,6 @@
         "url": "https://www.cna.com.tw/news/acul/202608220228.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-08-22T15:12:34+00:00"
-      },
-      {
-        "id": "bc1da06bd90b",
-        "title": "The Digi-Comp I, a plastic mechanical computer from 1963",
-        "summary": "Chris Staecker on YouTube presents the Digi-Comp I, a plastic mechanical computer from 1963. This educational toy used logic rods and tubes to simulate binary computation, offering a tangible introduction to programming for kids during the space race era. More resources: Scans of Digi-Comp I documen...",
-        "url": "https://blog.adafruit.com/2026/08/22/the-digi-comp-i-a-plastic-mechanical-computer-from-1963/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-22T13:30:54+00:00"
       },
       {
         "id": "9c10a43c6313",
@@ -1307,14 +1323,6 @@
         "url": "https://www.openbook.org.tw/article/p-72866",
         "source": "Openbook閱讀誌",
         "published": "2026-08-22T01:00:00+00:00"
-      },
-      {
-        "id": "98547dcce54c",
-        "title": "Deep Sleep with CircuitPython #CircuitPythonDay",
-        "summary": "If you&#8217;d like to maximize the battery life on a CircuitPython project, you need to be able to put your program to sleep when it&#8217;s not doing something. For instance, you may want to read a temperature or fetch some data only every few minutes or hours. In between, your board can go to sle...",
-        "url": "https://blog.adafruit.com/2026/08/21/deep-sleep-with-circuitpython-circuitpythonday/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-21T20:00:49+00:00"
       },
       {
         "id": "b0a2d6149b0c",
@@ -1819,14 +1827,6 @@
         "url": "https://technews.tw/2026/08/14/instagram-introduces-a-redesigned-wordmark/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-08-14T02:20:20+00:00"
-      },
-      {
-        "id": "3efdd3b405e6",
-        "title": "Maximizing the value of your Claude Code sessions",
-        "summary": "Maximizing the value of your Claude Code sessions",
-        "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-        "source": "Claude Blog",
-        "published": "2026-08-14T00:00:00+00:00"
       },
       {
         "id": "077ae72807a5",
@@ -2572,7 +2572,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T14:50:33.382566+00:00"
+        "published": "2026-08-24T15:46:53.001884+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2580,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T14:50:33.382559+00:00"
+        "published": "2026-08-24T15:46:53.001875+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2588,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T14:50:33.382551+00:00"
+        "published": "2026-08-24T15:46:53.001866+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2596,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T14:50:33.382545+00:00"
+        "published": "2026-08-24T15:46:53.001857+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2604,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T14:50:33.382538+00:00"
+        "published": "2026-08-24T15:46:53.001849+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2612,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T14:50:33.382531+00:00"
+        "published": "2026-08-24T15:46:53.001840+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2620,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T14:50:33.382524+00:00"
+        "published": "2026-08-24T15:46:53.001831+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2628,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T14:50:33.382517+00:00"
+        "published": "2026-08-24T15:46:53.001823+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2636,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T14:50:33.382510+00:00"
+        "published": "2026-08-24T15:46:53.001814+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2644,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T14:50:33.382503+00:00"
+        "published": "2026-08-24T15:46:53.001806+00:00"
       },
       {
         "id": "cc87898e1a06",
