@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T11:35:40.838548+00:00",
+  "updated_at": "2026-08-24T13:03:59.744551+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -69,7 +69,7 @@
       {
         "id": "72bc18759032",
         "title": "MOZART Sämtliche Werke",
-        "summary": "MOZART  Sämtliche Werke (17/17) Raritäten.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "MOZART  Sämtliche Werke (17/17) Raritäten.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata, VBR MP3",
         "url": "https://archive.org/details/bngx_20260824",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-24T08:53:25+00:00"
@@ -725,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "43320fa9b3b9",
+        "title": "莊淯津執導動畫作品「落雺」　獲廣島動畫季大獎",
+        "summary": "（中央社記者王寶兒台北24日電）導演莊淯津執導動畫作品「落雺」，在2026廣島動畫季中獲得泛太平洋與亞洲青年競賽大獎，此獎為鼓勵學生製作而創立。莊淯津表示，會繼續努力做下一部作品。",
+        "url": "https://www.cna.com.tw/news/acul/202608240288.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-24T11:41:48+00:00"
+      },
+      {
+        "id": "aaedd880f68c",
+        "title": "朱宗慶再推「六部曲」　旋轉舞台營造雙重享受",
+        "summary": "（中央社記者趙靜瑜台北24日電）時隔2年，朱宗慶打擊樂團再推擊樂劇場「六部曲」，樂團製作再進化，強調精準、細膩與溫度；為了其中1首樂曲「生命的諭示」使用劇院旋轉舞台，營造樂音與視覺雙重享受。",
+        "url": "https://www.cna.com.tw/news/acul/202608240276.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-24T11:13:22+00:00"
+      },
+      {
         "id": "9f5720f91547",
         "title": "Homesickness and loss in sound, from Detroit to Beirut: Layan Srour",
         "summary": "What does it mean to grieve home -- being away from home and actually losing home? What does it mean to express that grief in sound, and to create spaces and belong through music? Detroit-based, Beirut-raised Layan Srour asks these questions in her own work, the duo Taqsim, and in an event series ca...",
@@ -1259,22 +1275,6 @@
         "url": "https://cdm.link/glitch-n-free-online/",
         "source": "CDM Create Digital Music",
         "published": "2026-08-21T15:18:49+00:00"
-      },
-      {
-        "id": "6188bd037fbc",
-        "title": "楊双子：殖民必是不平等　無論殖民者「對你再好」",
-        "summary": "（中央社記者陳韻聿愛丁堡21日專電）作家楊双子20日晚間在愛丁堡一場文學活動表示，殖民者「對你再好」，殖民與被殖民終究是無法被接受的不平等權力結構，這無論殖民者是來自台灣歷史上的日本、今天的中國，「或是中華民國」。",
-        "url": "https://www.cna.com.tw/news/acul/202608210174.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-21T07:39:29+00:00"
-      },
-      {
-        "id": "adfd7c6c3529",
-        "title": "葛萊美鼓王厄斯金來台　鐵琴演奏家魯千千受邀獻藝",
-        "summary": "（中央社記者趙靜瑜台北21日電）葛萊美獎得主彼得．厄斯金爵士五重奏「空中漫步」音樂會今晚登場，因團員之一顫音鐵琴家曼尼利身體不適，主辦單位兩廳院邀旅美鐵琴演奏家魯千千擔任嘉賓，參與部分曲目演出。",
-        "url": "https://www.cna.com.tw/news/acul/202608210050.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-21T02:49:00+00:00"
       },
       {
         "id": "01c6bd1e4e3c",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T11:35:39.289340+00:00"
+        "published": "2026-08-24T13:03:57.661991+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T11:35:39.289329+00:00"
+        "published": "2026-08-24T13:03:57.661984+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T11:35:39.289318+00:00"
+        "published": "2026-08-24T13:03:57.661977+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T11:35:39.289307+00:00"
+        "published": "2026-08-24T13:03:57.661969+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T11:35:39.289296+00:00"
+        "published": "2026-08-24T13:03:57.661962+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T11:35:39.289285+00:00"
+        "published": "2026-08-24T13:03:57.661955+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T11:35:39.289274+00:00"
+        "published": "2026-08-24T13:03:57.661948+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T11:35:39.289264+00:00"
+        "published": "2026-08-24T13:03:57.661940+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T11:35:39.289253+00:00"
+        "published": "2026-08-24T13:03:57.661933+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T11:35:39.289242+00:00"
+        "published": "2026-08-24T13:03:57.661926+00:00"
       },
       {
         "id": "cc87898e1a06",
