@@ -1,14 +1,70 @@
 {
-  "updated_at": "2026-08-24T01:50:22.162640+00:00",
+  "updated_at": "2026-08-24T03:13:11.945314+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "161393404fbf",
+        "title": "UCC擴點台南增1處　石崇良：急診候床12天不尋常",
+        "summary": "（中央社記者陳婕翎台北24日電）假日輕急症中心（UCC）將再擴點，衛福部長石崇良表示，台南單點服務量較大，預計新增1處據點；針對近日傳出有民眾在急診候床12天，「這並不尋常」，將進一步釐清真相。",
+        "url": "https://www.cna.com.tw/news/ahel/202608240049.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-24T02:20:10+00:00"
+      },
+      {
+        "id": "bf4a6714a120",
+        "title": "豪雨威脅  嘉南高屏花東共347條土石流警戒",
+        "summary": "（中央社記者汪淑芬台北24日電）低壓帶及西南風帶來豪雨。農業部農村發展及水土保持署上午針對嘉義、台南、高雄、屏東、台東、花蓮，共發布347條土石流潛勢溪流紅色、黃色警戒，另有14處大規模崩塌警戒。",
+        "url": "https://www.cna.com.tw/news/ahel/202608240045.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-24T02:10:01+00:00"
+      },
+      {
         "id": "a880c0f596aa",
         "title": "When Your Need Is Greatest 1",
-        "summary": "When Your Need Is Greatest 1.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, VBR MP3",
+        "summary": "When Your Need Is Greatest 1.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/when-your-need-is-greatest-1",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-24T01:39:24+00:00"
+      },
+      {
+        "id": "09600c0da309",
+        "title": "Souvenirs de jeunesse (sans musique)",
+        "summary": "Laurent perce peu à peu le secret de Nikandros, tandis que Damen lui raconte des souvenirs de son adolescence..This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/souvenirs-jeunesse",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-24T01:37:46+00:00"
+      },
+      {
+        "id": "51667762185a",
+        "title": "WEEDIAN - A TRIP TO IRELAND",
+        "summary": "49 BANDS FROM IRELAND Trip to Ireland | WEEDIAN.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/weedian-trip-to-ireland",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-24T01:08:22+00:00"
+      },
+      {
+        "id": "8f46572daeb6",
+        "title": "WEEDIAN - A TRIP TO ARGENTINA",
+        "summary": "51 BANDS FROM ARGENTINA ▶︎ Trip to Argentina (+45 Bands) | WEEDIAN.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/weedian-trip-to-argentina",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-24T01:05:07+00:00"
+      },
+      {
+        "id": "4774072ba29a",
+        "title": "WEEDIAN - A TRIP TO NORWAY",
+        "summary": "61 BANDS FROM NORWAY ▶︎ Trip to Norway (+50 Bands) | WEEDIAN.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/weedian-trip-to-norway",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-24T00:49:53+00:00"
+      },
+      {
+        "id": "2c3ddf3b2601",
+        "title": "Martina Sorbara - Warfield - 11/22/02",
+        "summary": "Martina Sorbara - Warfield - 11/22/02.This item belongs to: audio/roiocollection.This item has files of the following types: AIFF, Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/martina-sorbara-warfield-112202",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-24T00:39:47+00:00"
       },
       {
         "id": "668baa431bae",
@@ -27,84 +83,44 @@
         "published": "2026-08-24T00:32:09+00:00"
       },
       {
+        "id": "22d1dbc9e997",
+        "title": "WEEDIAN - A TRIP TO GREECE",
+        "summary": "97 BANDS FROM GREECE ▶︎ Trip to Greece (ft +90 Bands) | WEEDIAN.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/weedian-trip-to-greece",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-24T00:10:41+00:00"
+      },
+      {
+        "id": "0eb060647938",
+        "title": "chuong-10629-canh-gioi-tien-quan-trung-pham",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_12365_1787529905_N1br",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-24T00:05:58+00:00"
+      },
+      {
+        "id": "4edd9bf5e9e4",
+        "title": "WEEDIAN - A TRIP TO WALES",
+        "summary": "35 BANDS FROM WALES ▶︎ Trip to Wales | WEEDIAN.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/weedian-trip-to-wales",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-24T00:02:41+00:00"
+      },
+      {
+        "id": "bb7c33c865ae",
+        "title": "chuong-1301-c1301-cau-qua-ngay-tho-roi",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_5411_1787529321_Qjdr",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-23T23:56:16+00:00"
+      },
+      {
         "id": "f8ad829c1923",
         "title": "17縣市豪、大雨特報　台南高雄屏東台東防超大豪雨",
         "summary": "（中央社台北24日電）中央氣象署發布豪雨特報，第24號熱帶性低氣壓及低壓帶影響且西南風偏強，易有短延時強降雨，今天至明天上午台南市、高雄市、屏東縣及台東縣有局部大豪雨或超大豪雨。",
         "url": "https://www.cna.com.tw/news/ahel/202608240017.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-23T23:50:59+00:00"
-      },
-      {
-        "id": "5fc3947abbd2",
-        "title": "chuong-3106-duoi-thien-uyen-co-gi-vay",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_32134_1787528132_pJJM",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-23T23:36:26+00:00"
-      },
-      {
-        "id": "bca8b8b0a0c3",
-        "title": "WEEDIAN - A TRIP TO CZECHIA",
-        "summary": "31 BANDS FROM CZECHIA ▶︎ Trip to Malaysia | WEEDIAN.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/weedian-trip-to-czechia",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-23T23:31:29+00:00"
-      },
-      {
-        "id": "5ea5c97b3a80",
-        "title": "chuong-1268-c1268-viec-gi-phai-tuc-gian-nhu-the",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_5378_1787527444_9Q99",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-23T23:25:06+00:00"
-      },
-      {
-        "id": "c87811e52ee0",
-        "title": "WEEDIAN - A TRIP TO MALAYSIA",
-        "summary": "16 BANDS FROM MALAYSIA ▶︎ Trip to Malaysia | WEEDIAN.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/weedian-trip-to-malaysia",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-23T23:23:08+00:00"
-      },
-      {
-        "id": "70f1eb1beb0f",
-        "title": "chuong-4564-nghe-vay",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_27084_1787526890_7vPr",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-23T23:15:48+00:00"
-      },
-      {
-        "id": "2fdd6299d00f",
-        "title": "WEEDIAN - A TRIP TO ICELAND",
-        "summary": "13 BANDS FROM ICELAND ▶︎ Trip to Iceland | WEEDIAN.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/weedian-trip-to-iceland",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-23T23:07:18+00:00"
-      },
-      {
-        "id": "8db9729b2091",
-        "title": "chuong-325-thuc-hien-do-uoc",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_5614_1787526329_Hvfb",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-23T23:06:27+00:00"
-      },
-      {
-        "id": "4a5604144dba",
-        "title": "HardtraX Rough Monday Mix 3-16-2026",
-        "summary": "Hard Techno.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/hardtra-x-rough-monday-mix-3-16-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-23T23:06:19+00:00"
-      },
-      {
-        "id": "988a705fb354",
-        "title": "chuong-15-chuong-15",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_14605_1787525733_Kaup",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-23T22:56:31+00:00"
       },
       {
         "id": "efd8d7471d1c",
@@ -145,22 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202608230222.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-23T15:53:09+00:00"
-      },
-      {
-        "id": "e2eec6ce2c00",
-        "title": "防持續性豪雨威脅　經濟部應變小組提升為一級開設",
-        "summary": "（中央社記者蘇思云台北23日電）受到低壓帶與西南風增強影響，嘉義以南持續有強對流移入，經濟部今天表示，為嚴防持續性豪雨威脅，應變小組今晚6時提升為一級開設；因降雨重心將往東半部移動，也請水利署東部地區分署加強巡查漂流木或其他雜物是否阻塞橋梁，包含馬太鞍溪及萬里溪等處。",
-        "url": "https://www.cna.com.tw/news/ahel/202608230219.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-23T15:20:03+00:00"
-      },
-      {
-        "id": "4cf44be72a18",
-        "title": "低壓帶影響及西南風偏強　高雄防超大豪雨",
-        "summary": "（中央社台北23日電）中央氣象署發布豪雨特報，第24號熱帶性低氣壓及低壓帶影響且西南風偏強，易有短延時強降雨，今晚至明天高雄市地區有局部大豪雨或超大豪雨。",
-        "url": "https://www.cna.com.tw/news/ahel/202608230217.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-23T14:49:56+00:00"
       },
       {
         "id": "0a9c3b387466",
@@ -515,6 +515,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -773,6 +853,14 @@
         "published": "2026-08-23T16:00:00+00:00"
       },
       {
+        "id": "e1ff78d6abc4",
+        "title": "【深耕中區早期素養，國家圖書館 115 年度嬰幼兒閱讀專業知能培訓第 3 場圓滿落幕！】",
+        "summary": "【深耕中區早期素養，國家圖書館 115 年度嬰幼兒閱讀專業知能培訓第 3 場圓滿落幕！】",
+        "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q236363200188866292",
+        "source": "國家圖書館",
+        "published": "2026-08-23T16:00:00+00:00"
+      },
+      {
         "id": "305160662424",
         "title": "As You Like It review – French aristocratic trappings bring fresh comedy to Arden",
         "summary": "Shakespeare’s Globe, London In a lively and deftly designed production, gowns and wigs fit for Versailles give way to plainer disguises as banished courtiers pursue happiness in the countryFor a play that pivots around the liberating disguises inside Arden’s bucolia, this production of the Bard’s pa...",
@@ -907,14 +995,6 @@
         "url": "https://www.twreporter.org/a/photo-myanmar-spring-revolution-jungle-medics-civil-war",
         "source": "報導者",
         "published": "2026-08-22T16:00:00+00:00"
-      },
-      {
-        "id": "77c5cc7a9770",
-        "title": "第37屆傳藝金曲獎隆重登場 「境界_Login漫遊37」登入傳藝 綻放耀眼光采",
-        "summary": "第37屆傳藝金曲獎頒獎典禮今（22）日晚間在臺灣戲曲中心大表演廳隆重登場，揭曉特別獎及19個獎項的得主。文化部長李遠到場觀禮，除了向所有辛勤付出的傳統藝術工作者及評審團隊表達敬意，也頒發象徵終身成就與特殊貢獻的特別獎予滿州民謠傳藝師張日貴及亂彈戲曲藝師王慶芳，感謝他們對傳統藝術的深遠影響。音樂類由「簡晟軒、楊元碩、東京佼成管樂團《樂脈》」與《歌仔曹七巧：台灣爵士戲曲專輯》雙雙脫穎而出，各抱回3項大獎，並列本屆大贏家。《樂脈》一舉囊括最佳錄音獎、最佳作曲獎及最佳專輯製作人獎，作曲家楊元碩感性表示，「在讓世界看見臺灣之前，我們要先看見臺灣，希望透過音樂讓更多臺灣人看見臺灣的文化」；《歌仔曹七巧：台...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260750",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-08-22T15:14:00+00:00"
       },
       {
         "id": "420785077202",
@@ -1245,14 +1325,6 @@
         "published": "2026-08-20T07:00:00+00:00"
       },
       {
-        "id": "5e8356fdd270",
-        "title": "臺灣豫劇團「2026飆戲」公演  青年演員熱血上陣 古老戲魂Z世代再現  唱念做打火力全開",
-        "summary": "國立傳統藝術中心臺灣豫劇團將於今年9月、12月，在高雄左營大排練場震撼推出四場「2026飆戲－熱血╳戲魂 點燃舞臺能量」展演，讓青年演員站上主演舞臺，透過八齣經典戲曲折子戲，輪番較量真功夫，邀請觀眾見證新世代戲曲新星的爆發力。傳統戲曲演員傳承訓練的核心精神在「以戲代功」，臺灣豫劇團立基南臺灣七十餘年，面對當代戲曲人才環境的變遷，積極開拓創新模式與實戰練兵的培育途徑，期望藉由飆戲演出厚植戲曲人才根基與傳承經典劇目，讓年輕演員透過正式登臺演出，把平日所學內化成自己的表演養分，打磨動作身段、唱腔與臨場反應，讓戲曲表演藝術代代相傳、永續發展。「2026飆戲」演出劇目安排橫跨文戲、武戲、喜劇、悲劇等多元...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260645",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-08-20T03:06:00+00:00"
-      },
-      {
         "id": "41bea21b5364",
         "title": "獲利凌駕兒少安全？前高層作證踢爆 Meta 對未成年用戶「不問不說」",
         "summary": "美國加州奧克蘭一場備受關注的聯邦審判於 8 月 19 日持續進行，Meta 前工程主管阿圖羅·貝哈爾（Artu [&#8230;]",
@@ -1475,6 +1547,14 @@
         "url": "https://cdm.link/organismi-or-1/",
         "source": "CDM Create Digital Music",
         "published": "2026-08-18T14:16:59+00:00"
+      },
+      {
+        "id": "924d3f83ea26",
+        "title": "David Cordero/Aiko Takahashi  – Night’s End",
+        "summary": "Music for the end of the night (or for every other delicate moment of the day): David Cordero &#038; Aiko Takahashi.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/nights_end/",
+        "source": "Ambientblog",
+        "published": "2026-08-18T06:48:16+00:00"
       },
       {
         "id": "bf007eeb0882",
@@ -1725,6 +1805,14 @@
         "published": "2026-08-12T16:00:00+00:00"
       },
       {
+        "id": "e26f8fe5237d",
+        "title": "Paul Haslinger & Christian Wittman",
+        "summary": "Paul Haslinger (Tangerine Dream) and Christian Wittman (Lightwave) start their new label Noion with two albums inspired by important writers.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/haslinger-wittman/",
+        "source": "Ambientblog",
+        "published": "2026-08-12T13:06:40+00:00"
+      },
+      {
         "id": "5bb7c4f60339",
         "title": "Inventing Telephones at the 1876 Centennial",
         "summary": "Alexander Graham Bell, Thomas Edison and Elisha Gray all showed up at the nation's massive Centennial Exhibition in Philadelphia in 1876 with upgraded telegraphs on their minds ... ut also pushing a fledgling new invention called the telephone.",
@@ -1777,14 +1865,6 @@
         "title": "《走徑東海岸》新書發表-重現法籍神父奉獻足跡與歷史日記",
         "summary": "《走徑東海岸》新書發表-重現法籍神父奉獻足跡與歷史日記,115年8月10日下午2時， 由國立自然科學博物館、財團法人花蓮縣私立劉一峰神父社會福利基金會合作編撰的新書《走徑東海岸——與法籍神父的相遇》，於國家圖書館舉辦新書發表會。本書採中法文對照，透過學者專文、橫跨逾半世紀的珍貴歷史手稿與老照片，詳實...",
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q223648852589784550",
-        "source": "國家圖書館",
-        "published": "2026-08-10T16:00:00+00:00"
-      },
-      {
-        "id": "a1b667b48351",
-        "title": "115年館員培育課程【第6場】培養AI數據腦：從圖書館統計、資料判讀到機器學習輔助決策，順利完成！",
-        "summary": "國家圖書館於115年8月11日辦理「115年知能精進與創新培育系列課程」第6場課程，邀請淡江大學資訊與圖書館學系張嘉玲副教授主講。 本課程旨在培養館員的「AI數據腦」，引導學員從圖書館實務問題出發，建立理解資料、判讀結果與支持決策的分析思維。課程將說明如何將館務需求轉化為可分析的問題，並從資料理解、品質檢查、分析判讀到決策應用，建立完整的資料分析流程。課程透過圖書館常見案例，探討資料分析中應注意的比較基準、資料分布、異常情形、資料品質與解釋限制，協助學員避免僅依單一數字或模型結果做出判斷。實作部分將運用貼近圖書館業務情境的資料，進行資料探索、分析與結果判讀，理解人工智慧與分析工具如何協助發現問...",
-        "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q223593435119253138",
         "source": "國家圖書館",
         "published": "2026-08-10T16:00:00+00:00"
       },
@@ -1869,20 +1949,20 @@
         "published": "2026-08-09T09:34:50+00:00"
       },
       {
-        "id": "b1af7a46a275",
-        "title": "NCO器樂大賽2026《樂然指上》林耘睿勇奪冠軍！  全臺首度三弦選秀盛大落幕 優勝者將登 NCO 12月及明年6月專題音樂會",
-        "summary": "2026年三弦選拔盛事，頂尖對決，震撼登場！由國立傳統藝術中心所屬臺灣國樂團主辦的「NCO器樂大賽─2026《樂然指上》三弦新秀選拔」，是全臺首度舉辦以「三弦」為主角的器樂大賽。歷經重重關卡，於8月7日晚間誕生了大賽冠軍林耘睿、亞軍為孫聿瑩，分別獲得8萬元與5萬元演出費。本次比賽除了專業評審的肯定，亦設有媒體評審與觀眾票選獎項，「最佳魅力舞臺獎」由郭韋君獲得，而現場觀眾票選出的「最佳人氣獎」得主則為孫聿瑩，大賽現場琴音激盪，氣氛熱烈沸騰。本屆決選指定曲《萬象三弦》三弦與國樂團，是臺灣國樂團特別委託作曲家鍾耀光量身打造的世界首演全新力作。作曲家鍾耀光於現場表示：「非常感謝傳藝中心今天舉辦樂這麼有...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260263",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-08-09T01:13:00+00:00"
-      },
-      {
         "id": "988fd0f4d111",
         "title": "See what 5 builders are making with Gemini Omni",
         "summary": "Gemini Omni images",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
         "source": "Google DeepMind",
         "published": "2026-08-07T14:00:00+00:00"
+      },
+      {
+        "id": "ab19b1a15787",
+        "title": "James Murray – Islands Alight",
+        "summary": "Ambient with a refreshing rhythmic twist: James Murray's Islands Alight.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/murray-islands/",
+        "source": "Ambientblog",
+        "published": "2026-08-07T07:36:18+00:00"
       },
       {
         "id": "86862b96a33b",
@@ -1947,6 +2027,14 @@
         "url": "https://www.smithsonianmag.com/innovation/the-history-of-the-beach-read-from-19th-century-moral-debasement-to-booktok-180989238/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-03T14:22:30+00:00"
+      },
+      {
+        "id": "3be7e9298aa5",
+        "title": "DreamScenes – August 2026",
+        "summary": "\"Even if morning comes...\" - DreamScenes for August 2026.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-august-2026/",
+        "source": "Ambientblog",
+        "published": "2026-08-02T21:00:00+00:00"
       },
       {
         "id": "c385b61e66ad",
@@ -2037,12 +2125,12 @@
         "published": "2026-07-29T16:00:00+00:00"
       },
       {
-        "id": "6e789c497860",
-        "title": "第37屆傳藝金曲獎8月22日登場！蔡昌憲、江老師首度搭檔主持　「百萬兄弟」陳孟賢與陳昭瑋扛紅毯主持 盼讓傳藝更親民",
-        "summary": "「第37屆傳藝金曲獎」將於8月22日在臺灣戲曲中心盛大登場，今年典禮以「境界_Login漫遊37」為主題，透過「Login」概念，邀請觀眾走進傳統藝術的多元美學世界，感受創作者歷經歲月淬鍊、不斷突破自我的藝術境界。本次典禮將由藝人蔡昌憲與鋼琴魔法家、人氣YouTuber「江老師」江宇婷首度攜手主持；下午5點30分登場的「傳藝大道」紅毯，則由「百萬兄弟」陳孟賢、陳昭瑋接下主持棒，四位主持人將以不同風格，引領觀眾一同感受一年一度傳統藝術最高殿堂的魅力。頒獎典禮將於當晚7點在臺灣戲曲中心大表演廳舉行。　　首次接下傳藝金曲獎主持棒的蔡昌憲坦言，接到邀約時既意外又榮幸，「很開心有機會為持續在傳統藝術領域...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259691",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-07-29T09:00:00+00:00"
+        "id": "391cdc008170",
+        "title": "Lawrence English – The Rest Is My Ghost",
+        "summary": "Lawrence English' theory about 'acid nostalgia' has inspired him to create 'The Rest Is My Ghost' - which may very well prove to be one of the most important albums of this year.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/lawrence-english/",
+        "source": "Ambientblog",
+        "published": "2026-07-29T08:04:34+00:00"
       },
       {
         "id": "588c476293af",
@@ -2077,6 +2165,14 @@
         "published": "2026-07-27T00:00:00+00:00"
       },
       {
+        "id": "8d3460b202ae",
+        "title": "New radio show: “Liminal State”",
+        "summary": "Introducing a new weekly ambient music radio show: 'Liminal State'. Also: a change in the DreamScenes broadcast schedule.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/liminal-state/",
+        "source": "Ambientblog",
+        "published": "2026-07-25T07:40:54+00:00"
+      },
+      {
         "id": "b9ed4f2aeb82",
         "title": "A Brief History of Hold Music, From Early Patents to the Soundtrack of Customer-Service Purgatory",
         "summary": "Sixty years ago, Alfred A. Levy patented his “telephone hold program system.” Little did he know a teenager’s unearthed New Age practice tape would become its enduring anthem",
@@ -2091,14 +2187,6 @@
         "url": "https://blogs.loc.gov/loc/2026/07/the-tombstone-edition-that-helped-galvanize-american-independence/",
         "source": "Timeless",
         "published": "2026-07-23T13:00:18+00:00"
-      },
-      {
-        "id": "bb84be5a07ca",
-        "title": "「請囡仔來看戲」2026兒童戲曲巡演活動即日起跑   兒童戲曲作伙來牽成 攜手共築戲曲沃土",
-        "summary": "為推動兒童戲曲發展，國立傳統藝術中心今（23）日舉辦「請囡仔來看戲」2026兒童戲曲巡演活動起跑記者會，正式宣告2026「傳藝Go Young校園巡演計畫」暨「兒童歌仔戲&mdash;親子劇場匯演」同步起跑。文化部長李遠、教育部師資培育及藝術教育司專門委員林瑋茹、各巡演縣市政府及兩項計畫參與團隊代表出席，共同宣示結合政府與民間劇團力量，推動兒童戲曲向下扎根。記者會特別邀請唐美雲歌仔戲團團長唐美雲擔任主持人，由「不貳偶劇」、「薪傳歌仔戲劇團」及「新協興歌劇團」於現場接力演出，展現布袋戲與歌仔戲的精采魅力，現場氣氛熱絡、掌聲不斷，為今年計畫揭開序幕。&nbsp;文化部長李遠致詞時提起他中午在麵攤吃...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-07-23T08:44:00+00:00"
       },
       {
         "id": "2d1f26ef064e",
@@ -2157,20 +2245,12 @@
         "published": "2026-07-21T11:44:55+00:00"
       },
       {
-        "id": "898d629e988b",
-        "title": "2026戲曲夢工場「生而為≋人？」 在AI時代大膽叩問人類價值",
-        "summary": "當人工智慧進步的速度開始超越人類，生而為人的價值，該如何重新定義？國立傳統藝術中心打造「戲曲夢工場」劇展今年邁入第九年，策展人劉建幗以「生而為≋人？」為主題，號召六組頂尖創作團隊，從歌仔戲、傀儡戲、粵劇、說唱、京崑與科技聲響等多樣化角度，大膽實驗戲曲美學的無限可能。目前六檔作品已有四檔完售，在戲迷圈裡持續引發話題旋風。節目將從8月29日至10月4日於臺灣戲曲中心多功能廳接力登場，邀請觀眾共同探尋「生而為人」的意義。國立傳統藝術中心主任陳悅宜表示，戲曲從創作初始就是一門「人」的藝術，透過編劇、導演、演員、設計等「人」，在層層的詮釋中注入情感溫度，造就一齣齣精彩的戲曲作品。然而，走到AI時代，許多...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259241",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-07-21T09:21:00+00:00"
-      },
-      {
-        "id": "e12428ade24e",
-        "title": "以樂為翼，大有作為！ 傳藝中心共製萬海航運慈善「愛有為」賽事，譜寫盛夏最溫柔的音樂篇章！",
-        "summary": "國家級樂團跨界民間慈善共製合作，成功開創藝術平權新典範！由國立傳統藝術中心與財團法人萬海航運社會福利慈善事業基金會首度合作、共同主辦「【愛有為】第八屆萬海慈善身障者才藝徵選大賽」決賽，於7月18日在臺灣戲曲中心大表演廳圓滿落幕。本次合作不僅是臺灣國樂團首度以國家級樂團編制導入民間社福賽事，雙方更於開幕式中進行紀念性的合作演出，用國家級舞台的專業規格，搭配專業演奏，給予優秀表演者最尊榮的展演舞台。本屆「愛有為」決賽分為肢體表演、歌唱表演、器樂表演三大專業組別，歷經層層選拔的18組才華出眾的身心障礙表演者逐一登台，展現精湛的技藝與對舞台的熱情。本日賽事的最大亮點，為比賽開幕的跨界共演。由本屆代言人...",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259076",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-07-18T13:28:00+00:00"
+        "id": "71a6ca9d5411",
+        "title": "Paul Beaudoin – Signal Loss / Spores.dat",
+        "summary": "Two albums by Estonian composer Paul Beaudoin, both exploring 'the space between intent and reception'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/beaudoin/",
+        "source": "Ambientblog",
+        "published": "2026-07-20T17:58:41+00:00"
       },
       {
         "id": "3892f98e8a4d",
@@ -2179,6 +2259,14 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2367",
         "source": "獨立出版聯盟網站",
         "published": "2026-07-18T00:00:00+00:00"
+      },
+      {
+        "id": "e3e0fd583ad1",
+        "title": "The [Law-Rah] Collective – Strange Attraction",
+        "summary": "“Expect the unexpected, and even then you’re way off ...” - power ambient by The [Law-Rah] Collective (Bauke van der Wal).\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/law-rah/",
+        "source": "Ambientblog",
+        "published": "2026-07-16T07:29:34+00:00"
       },
       {
         "id": "86fda9299d09",
@@ -2205,12 +2293,12 @@
         "published": "2026-07-14T13:00:00+00:00"
       },
       {
-        "id": "da40501cb8ba",
-        "title": "休園公告:受巴威颱風影響，宜蘭園區明日(7/11)休園一天",
-        "summary": "因巴威颱風來襲，宜蘭縣政府已宣布7月11日全縣停止上班上課，本中心宜蘭園區配合休園一天，造成不便，敬請見諒！",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=258618",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-07-10T12:50:00+00:00"
+        "id": "8803fc57de52",
+        "title": "DreamScenes – July 2026",
+        "summary": "\"For Bob\" - DreamScenes for July 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-july-2026/",
+        "source": "Ambientblog",
+        "published": "2026-07-12T17:55:00+00:00"
       },
       {
         "id": "a4a662b707ec",
@@ -2221,20 +2309,12 @@
         "published": "2026-07-09T16:00:00+00:00"
       },
       {
-        "id": "e4f6e6592355",
-        "title": "休園公告:受巴威颱風影響，宜蘭園區明日(7/10)休園一天",
-        "summary": "因巴威颱風來襲，宜蘭縣政府已宣布7月10日全縣停止上班上課，本中心宜蘭園區配合休園一天，造成不便，敬請見諒！",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=258593",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-07-09T13:07:00+00:00"
-      },
-      {
-        "id": "6f1357bdc1bb",
-        "title": "因應巴威颱風影響，宜蘭園區蔣渭水演藝廳《王魁負桂英》節目異動公告",
-        "summary": "&nbsp; &nbsp; &nbsp; &nbsp; 因應中央氣象局預估今(115)年第9號颱風（巴威）於7月10日至11日將影響臺灣東北部至北部近海，為維護演出人員及觀眾安全，本中心辦理之「115年民間戲臺──新秀展演計畫」，原訂115年7月11日（星期六）及7月12日（星期日）於宜蘭園區蔣渭水演藝廳演出之薪傳歌仔戲劇團《王魁負桂英》2場節目，演出日期調整至115年8月20日（星期四）及8月21日（星期五）演出。造成不便，敬請見諒，並歡迎屆時蒞臨觀賞。",
-        "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=258584",
-        "source": "國立傳統藝術中心官網中文版傳藝新聞",
-        "published": "2026-07-09T08:54:00+00:00"
+        "id": "f4b1ca8344bb",
+        "title": "Olivier Alary – Vestiges",
+        "summary": "The fascinating orchestral sound of twelve amplified lap steel guitars and electronics: Olivier Alary's 'Vestiges' on the Line label.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/alary-vestiges/",
+        "source": "Ambientblog",
+        "published": "2026-07-08T09:30:26+00:00"
       },
       {
         "id": "4ef1351c20b8",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T01:50:19.838139+00:00"
+        "published": "2026-08-24T03:13:10.216370+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T01:50:19.838129+00:00"
+        "published": "2026-08-24T03:13:10.216360+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T01:50:19.838118+00:00"
+        "published": "2026-08-24T03:13:10.216349+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T01:50:19.838108+00:00"
+        "published": "2026-08-24T03:13:10.216338+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T01:50:19.838097+00:00"
+        "published": "2026-08-24T03:13:10.216328+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T01:50:19.838087+00:00"
+        "published": "2026-08-24T03:13:10.216316+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T01:50:19.838077+00:00"
+        "published": "2026-08-24T03:13:10.216304+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T01:50:19.838066+00:00"
+        "published": "2026-08-24T03:13:10.216293+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T01:50:19.838055+00:00"
+        "published": "2026-08-24T03:13:10.216283+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-24T01:50:19.838044+00:00"
+        "published": "2026-08-24T03:13:10.216272+00:00"
       },
       {
         "id": "cc87898e1a06",
