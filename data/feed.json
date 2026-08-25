@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T11:34:54.648769+00:00",
+  "updated_at": "2026-08-25T13:00:37.902526+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -9,6 +9,14 @@
         "url": "https://www.cna.com.tw/news/ahel/202608250285.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-25T10:12:18+00:00"
+      },
+      {
+        "id": "7f328d9cd064",
+        "title": "05.2 If You Liked It Then You Should Have Put A (sect Robe) On It",
+        "summary": "Wangxian, Podfic.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/05.2-if-you-liked-it-then-you-should-have-put-a-sect-robe-on-it",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-25T09:53:58+00:00"
       },
       {
         "id": "37dac67018ec",
@@ -161,14 +169,6 @@
         "url": "https://archive.org/details/phil-kieran-luna-roja-glasgow-scotland-11-28-25",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-25T01:54:12+00:00"
-      },
-      {
-        "id": "112bc12d840d",
-        "title": "Lyrics Born - Warfield - 11/24/02",
-        "summary": "Lyrics Born - Warfield - 11/24/02.This item belongs to: audio/roiocollection.This item has files of the following types: AIFF, Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/lyrics-born-warfield-112402",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-25T01:35:37+00:00"
       },
       {
         "id": "d90140c69f12",
@@ -515,6 +515,86 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
+        "id": "d256435b638c",
+        "title": "Executive Editor's Introduction",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "9a78a5fe3f1a",
+        "title": "Introduction to EDM and its Discontents",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "c0038001601d",
+        "title": "Historical Emergence and Current Uses of the Term italodisco",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "e2189aad1185",
+        "title": "On The Spectrum",
+        "summary": ".",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "bd2b9d40edaf",
+        "title": "A Laptop and Some Talent",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "8aa42be01308",
+        "title": "Weekend Societies in the Walled Garden",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "3444af153c2a",
+        "title": "Thrice-experienced Clubbing",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "baab9ab8b375",
+        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "79fa1c9eea58",
+        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
+        "id": "55e93a850f27",
+        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
+        "summary": "",
+        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
+        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
+        "published": "2025-12-22T00:00:00+00:00"
+      },
+      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -725,6 +805,14 @@
     ],
     "破(day)": [
       {
+        "id": "de511ffe6c5e",
+        "title": "Camping trips, grief and embarrassing your kids – the fringe shows embracing every facet of fatherhood",
+        "summary": "Edinburgh comedies by Whisper Theatre, Lightning Rod Special and Olaf Falafel are exploring what it’s like to be a dad, from the hilarious and melancholic to the devastatingly accurate cringeIn a historic masonic lodge in Edinburgh’s New Town I find myself raising my hand. The call has gone out for ...",
+        "url": "https://www.theguardian.com/stage/2026/aug/25/well-balanced-dads-lions-olaf-falafel-helium-balloon-factory-edinburgh-fringe-stage",
+        "source": "Stage | The Guardian",
+        "published": "2026-08-25T11:56:52+00:00"
+      },
+      {
         "id": "dd01c343c358",
         "title": "Kate Cheka: The Last Funny Woman review – pregnant standup calls for comedy industry to grow up",
         "summary": "Voodoo Rooms, Edinburgh Cheka considers her tendency to ‘live life like a joke’ in a frank hour, with her frustrations leaving a lasting impressionKate Cheka wasn’t supposed to be here. After her debut hour two years ago, she swore she would never do the fringe again. But now she’s back, mic in hand...",
@@ -739,6 +827,30 @@
         "url": "https://cdm.link/ableton-note-2-1/",
         "source": "CDM Create Digital Music",
         "published": "2026-08-25T10:00:18+00:00"
+      },
+      {
+        "id": "37dac67018ec",
+        "title": "TC音樂節名家登場　胡乃元：期待音符讓世界慢下來",
+        "summary": "（中央社記者趙靜瑜台北25日電）由旅美小提琴家胡乃元創立的 Taiwan Connection（TC）音樂節即將登場，胡乃元表示希望今年3套音樂會曲目能夠在混亂的世道裡，讓台灣樂迷反思並感受音樂裡脆弱卻珍貴的光芒。",
+        "url": "https://www.cna.com.tw/news/acul/202608250278.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-25T09:52:03+00:00"
+      },
+      {
+        "id": "9eed0c37430c",
+        "title": "光州雙年展立場轉彎　可使用台灣館名稱",
+        "summary": "（中央社記者楊啟芳首爾25日專電）關於光州雙年展台灣館名稱爭議，根據韓國電視台文化廣播公司（MBC）報導，韓國光州雙年展基金會表示，考量台灣方面表明若無法使用「台灣」名稱，就只能放棄參展的立場，因此決定不僅允許在展場內使用相關名稱，官方文件及宣傳資料也將標示為「台灣館（Taiwan Pavilion）」。",
+        "url": "https://www.cna.com.tw/news/acul/202608250272.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-25T09:37:50+00:00"
+      },
+      {
+        "id": "81ae60143881",
+        "title": "兩廳院關照失智作品「夜路不怕黑」  4縣市接棒演出",
+        "summary": "（中央社記者趙靜瑜台北25日電）兩廳院以「藝術介入社會」為核心，聚焦超高齡社會失智議題遊走式作品「夜路不怕黑」，2025年9月台北首演後，澎湖縣、台中市、嘉義縣及台南市將各自演出在地版本。",
+        "url": "https://www.cna.com.tw/news/acul/202608250259.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-08-25T09:12:22+00:00"
       },
       {
         "id": "d98ec7c88c34",
@@ -1093,14 +1205,6 @@
         "published": "2026-08-24T05:15:11+00:00"
       },
       {
-        "id": "1fdef2678e0d",
-        "title": "受人關懷感動  越南詩人陳登科讚台灣博愛精神如日常",
-        "summary": "（中央社記者曾婷瑄河內24日專電）越南國寶級詩人陳登科出席成功大學越南研究中心的詩集譯作發表會，他告訴中央社，三度訪台感受到台灣人的博愛精神與對他者的善意，也看見對家鄉與祖國的靈魂。他欣賞台灣生活哲理，盼未來持續推動台越詩作互譯與文學交流。",
-        "url": "https://www.cna.com.tw/news/acul/202608240114.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-24T04:35:29+00:00"
-      },
-      {
         "id": "3a3abb37e016",
         "title": "Dan Tiernan: Quartz and All review – a furious comedy show about healing crystals",
         "summary": "Monkey Barrel Comedy, EdinburghThe frenetic Mancunian turns to quartz in search of inner peace – but his standup remains as crude and self-loathing as everI’ve seen two prominent comedians on this year’s fringe argue that your belief system is something you choose. Sign of the strange times, or just...",
@@ -1123,14 +1227,6 @@
         "url": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
         "source": "Claude Blog",
         "published": "2026-08-24T00:00:00+00:00"
-      },
-      {
-        "id": "7c1115020c43",
-        "title": "Megasquirt: Fully Loaded review – how to combat existential angst? A comedy rave at an ungodly hour",
-        "summary": "Underbelly, Cowgate, EdinburghAshley Blair and Drew Reilly send up gen Z anomie with hardcore ditties about awkward dinners, megachurches and centaur boyfriends‘How to feel whole in an empty world?” There are many possible answers to that question, and Megasquirt’s late-night comedy rave workshops a...",
-        "url": "https://www.theguardian.com/stage/2026/aug/23/megasquirt-fully-loaded-review-underbelly-cowgate-edinburgh",
-        "source": "Stage | The Guardian",
-        "published": "2026-08-23T19:00:40+00:00"
       },
       {
         "id": "931809a24d83",
@@ -1197,14 +1293,6 @@
         "published": "2026-08-23T09:42:46+00:00"
       },
       {
-        "id": "77cdb44a44c0",
-        "title": "視盟發起連署　盼正名光州雙年展台灣館",
-        "summary": "（中央社記者王寶兒台北23日電）針對韓國光州雙年展基金會逕自以國立台灣美術館英文館名（NTMoFA）替代台灣館（Taiwan Pavilion）名稱，視盟發起英文表單連署，希望能為台灣館正名。",
-        "url": "https://www.cna.com.tw/news/acul/202608230100.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-23T07:16:35+00:00"
-      },
-      {
         "id": "2d8c32de5b5d",
         "title": "童書短評》#172陪孩子在故事的橋樑中探索世界",
         "summary": "●晚安，10隻小羊\n海狗房東著，薛慧瑩繪，維京國際，380元\n推薦原因： 圖 \n適讀年齡：0－3歲、學齡前（0－6歲）\n短短一趟回家路，10隻小羊卻從橘紅夕陽走到星星堆滿天，有時候是幾隻掉進草叢裡，有時候是幾隻散在山坡上，有時候是在吊橋上你拉我我拉他，每一頁都要讓讀者們翻一翻找一找，確定每隻都到齊了，再開開心心繼續向前。放大所有簡單，重複熟悉節奏，把日常變成冒險，把簡單的數數兒融入故事，這樣的一本書絕對讓低幼小朋友愛不釋手，加入小羊群一起玩著、數著。【內容簡介➤】 \n\n\n\n《晚安，10隻小羊》內頁，維京國際提供\n\n\n●美術館的一天\nAl Museo\n蘇珊娜．馬蒂安基利（Susanna Matt...",
@@ -1259,14 +1347,6 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260750",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-08-22T15:14:00+00:00"
-      },
-      {
-        "id": "420785077202",
-        "title": "第37屆傳藝金曲獎　義興閣「英雄製造」抱3獎",
-        "summary": "（中央社記者邱祖胤台北22日電）第37屆傳藝金曲獎頒獎典禮，今天在台北「台灣戲曲中心大表演廳」舉行，義興閣掌中劇團作品「英雄製造」獲得「最佳年度作品」、「最佳編劇」、「最佳導演」等3獎項。",
-        "url": "https://www.cna.com.tw/news/acul/202608220228.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-08-22T15:12:34+00:00"
       },
       {
         "id": "9c10a43c6313",
@@ -2492,7 +2572,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T11:34:53.430232+00:00"
+        "published": "2026-08-25T13:00:35.945751+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2580,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T11:34:53.430224+00:00"
+        "published": "2026-08-25T13:00:35.945741+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2588,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T11:34:53.430216+00:00"
+        "published": "2026-08-25T13:00:35.945731+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2596,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T11:34:53.430208+00:00"
+        "published": "2026-08-25T13:00:35.945721+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2604,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T11:34:53.430199+00:00"
+        "published": "2026-08-25T13:00:35.945711+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2612,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T11:34:53.430191+00:00"
+        "published": "2026-08-25T13:00:35.945701+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2620,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T11:34:53.430183+00:00"
+        "published": "2026-08-25T13:00:35.945691+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2628,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T11:34:53.430175+00:00"
+        "published": "2026-08-25T13:00:35.945680+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2636,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T11:34:53.430167+00:00"
+        "published": "2026-08-25T13:00:35.945670+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2644,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T11:34:53.430159+00:00"
+        "published": "2026-08-25T13:00:35.945660+00:00"
       },
       {
         "id": "ad9db25bad71",
