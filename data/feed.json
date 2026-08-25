@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T05:37:56.288222+00:00",
+  "updated_at": "2026-08-25T06:59:11.663699+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -91,6 +91,14 @@
         "published": "2026-08-25T03:22:26+00:00"
       },
       {
+        "id": "2236ba93f6fe",
+        "title": "Phil Kieran Leatherette @ McChuills Glasgow, Scotland 07-02-26",
+        "summary": "https://www.discogs.com/artist/3006-Phil-Kieran.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/phil-kieran-leatherette-mc-chuills-glasgow-scotland-07-02-26",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-25T03:12:53+00:00"
+      },
+      {
         "id": "0e03049f70c1",
         "title": "Under The Influence By Pneumatic",
         "summary": "podfic.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
@@ -113,6 +121,14 @@
         "url": "https://archive.org/details/phil-kieran-luna-roja-glasgow-scotland-11-28-25",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-25T01:54:12+00:00"
+      },
+      {
+        "id": "112bc12d840d",
+        "title": "Lyrics Born - Warfield - 11/24/02",
+        "summary": "Lyrics Born - Warfield - 11/24/02.This item belongs to: audio/roiocollection.This item has files of the following types: AIFF, Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/lyrics-born-warfield-112402",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-25T01:35:37+00:00"
       },
       {
         "id": "d308294cc4ac",
@@ -145,22 +161,6 @@
         "url": "https://archive.org/details/z-trip-warfield-112402",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-25T00:46:12+00:00"
-      },
-      {
-        "id": "3e2cbfb9cfb9",
-        "title": "Phil Kieran CLR Podcast 077",
-        "summary": "https://www.discogs.com/artist/3006-Phil-Kieran.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/phil-kieran-clr-podcast-077",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-25T00:14:26+00:00"
-      },
-      {
-        "id": "c91af137174f",
-        "title": "Phil Kieran - Slam Radio 163",
-        "summary": "https://www.discogs.com/artist/3006-Phil-Kieran.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/phil-kieran-slam-radio-163",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-25T00:08:49+00:00"
       },
       {
         "id": "d90140c69f12",
@@ -837,6 +837,14 @@
         "published": "2026-08-24T17:46:54+00:00"
       },
       {
+        "id": "eb0d65dae008",
+        "title": "Test what you’re hearing, scientifically: free ABX testing website",
+        "summary": "Can you really tell the difference between encoding methods? Two different kick drum emulations? 16-bit versus 24-bit? These aren't subjective questions: you can actually test them--with science. (Science!) Here's a site that lets you create your own ABX tests, or try some pre-built ones. Argue abou...",
+        "url": "https://cdm.link/free-abx-testing/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-24T16:27:40+00:00"
+      },
+      {
         "id": "5e8c4773d01c",
         "title": "法国财长坦承“大企业附加税”难以取消",
         "summary": "莱斯屈尔警告，在明年预算中难以取消针对大企业的额外税负。他称，“不幸的是，我们所处的这种处境很可能会持续下去。”",
@@ -893,12 +901,12 @@
         "published": "2026-08-24T11:13:22+00:00"
       },
       {
-        "id": "3e45d0a3c1fd",
-        "title": "Sheila Mathews obituary",
-        "summary": "Performer and presenter in the early days of ITV and a stalwart of West End musical theatreSheila Mathews, who has died aged 99, was a West End musical performer who became an early star of ITV when it was launched in 1955. She went on to take straight acting roles and in 2017, at 90, was recognised...",
-        "url": "https://www.theguardian.com/stage/2026/aug/24/sheila-mathews-obituary",
-        "source": "Stage | The Guardian",
-        "published": "2026-08-24T09:32:25+00:00"
+        "id": "9f5720f91547",
+        "title": "Homesickness and loss in sound, from Detroit to Beirut: Layan Srour",
+        "summary": "What does it mean to grieve home -- being away from home and actually losing home? What does it mean to express that grief in sound, and to create spaces and belong through music? Detroit-based, Beirut-raised Layan Srour asks these questions in her own work, the duo Taqsim, and in an event series ca...",
+        "url": "https://cdm.link/homesickness-and-loss-in-sound-from-detroit-to-beirut-layan-srour/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-24T10:30:41+00:00"
       },
       {
         "id": "ec3108bc7c12",
@@ -1117,6 +1125,14 @@
         "published": "2026-08-23T13:20:51+00:00"
       },
       {
+        "id": "20a29ded9b10",
+        "title": "Haribo Kimchi review – Korean snack bar serves lessons in belonging",
+        "summary": "Festival theatre studio, Edinburgh Jaha Koo cooks up street-food treats for two lucky theatregoers as he reflects on how food preserves memory and cultural identity, with the help of a snail and an eelTo get the measure of this slight but sweet one-man show, you need to listen to the singing snail. ...",
+        "url": "https://www.theguardian.com/stage/2026/aug/23/haribo-kimchi-review-korean-snack-bar-jaha-koo",
+        "source": "Stage | The Guardian",
+        "published": "2026-08-23T10:38:50+00:00"
+      },
+      {
         "id": "f0e5b08dd394",
         "title": "中国队蝉联机器人世界杯冠军！下一个目标是踢赢人类",
         "summary": "7 月 5 日，北美的人类世界杯（FIFA World Cup）正在如火如荼地推进。同一时间，韩国仁川松岛会展中心里，另一场世界杯也踢到了决赛日。只是场上的参赛者不是职业球员，而是一台台人形机器人。它们在人工草皮上奔跑、转向、寻找足球，与队友配合、向球门发起进攻。当天午后，RoboCup 机器人世界杯的人形组大型组决赛正式结束。来自中国的清华大学火神队以 6:2 的成绩战胜中国农业大学山海队，连续第二年取得冠军。第三名则由来自北京信息科技大学的 Water 队获得。“世界杯”的领奖台上，第一次站满了中国队。此外，决赛前三名使用的是同一家公司的机器人：来自加速进化的 Booster T1。图｜ ...",
@@ -1197,6 +1213,14 @@
         "published": "2026-08-22T15:12:34+00:00"
       },
       {
+        "id": "9c10a43c6313",
+        "title": "The best lesser-sung sounds of 2026 so far",
+        "summary": "It's time for a sonic refill. David Abravanel is here with a full supply of lush arps, washes of sound, rapid-fire grooves -- everything Appleblim to Posthuman to Vladislav Delay Quintet, Suzanne Ciani and a bunch more. Your mission: buy some downloads if you can spare the change, and load up some f...",
+        "url": "https://cdm.link/the-best-lesser-sung-sounds-of-2026-so-far/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-22T12:52:36+00:00"
+      },
+      {
         "id": "d3db057ff6c7",
         "title": "AI“觉醒”之后，谁来负责？",
         "summary": "（来源：麻省理工科技评论）眼下的 AI 舆论很容易让人产生一种错觉：AI 智能体不仅已经拥有了意识和自我认知，甚至还会因为对创造者心怀不满而“反抗”。像哈萨比斯（Demis Hassabis）、达里奥·阿莫代（Dario Amodei）和山姆·奥特曼（Sam Altman）这样的科技界领袖，都在呼吁对这些看似拥有“超人能力”的系统加强监管。与此同时，另一派力量则主要由政策机构和学术哲学家组成，其中不少人与有效利他主义（effective altruism）运动关系密切。他们争论的甚至不是该如何监管 AI，而是人类究竟有没有道德权利来支配这些系统。但仔细看会发现，他们其实都在指向同一件事：把 A...",
@@ -1261,6 +1285,14 @@
         "published": "2026-08-21T17:23:55+00:00"
       },
       {
+        "id": "32c075dfdf5e",
+        "title": "Featured mix: listen to MNJM’s A Homsi and DJ Saliva play layered rhythms",
+        "summary": "Bored with linear mixing, bland cookie-cutter rhythms, and blunt TikTok-friendly hooks? Let's tune into Loone Berlin instead, as the Homsi from the bleeding-edge MNJM label joins with DJ Saliva.\nThe post Featured mix: listen to MNJM&#8217;s A Homsi and DJ Saliva play layered rhythms appeared first o...",
+        "url": "https://cdm.link/featured-mix-listen-to-mnjm-a-homsi-and-dj-saliva/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-21T16:20:06+00:00"
+      },
+      {
         "id": "4706e89e43f3",
         "title": "What does “full-stack” AI actually mean?",
         "summary": "A Google DeepMind engineer breaks full-stack development into five simple layers and explains how it affects everyday users.",
@@ -1275,6 +1307,14 @@
         "url": "https://www.twreporter.org/a/saturday-features-film-yeh-chin-shing",
         "source": "報導者",
         "published": "2026-08-21T16:00:00+00:00"
+      },
+      {
+        "id": "df9c64e601e3",
+        "title": "A $5 modular drum circuit, a free online course, and how it grows into more",
+        "summary": "No need to brave the Arizona heat: Glitch'n is a course in electronics that even absolute beginners can enjoy, assembling oscillators, generative beats, filters, and noise on breadboard circuits. But it also helps young people to learn crucial skills that can lead to teaching others and getting jobs...",
+        "url": "https://cdm.link/glitch-n-free-online/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-21T15:18:49+00:00"
       },
       {
         "id": "ceb620185071",
@@ -1347,6 +1387,14 @@
         "url": "https://www.glt.org.tw/?p=14102",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-08-20T13:02:15+00:00"
+      },
+      {
+        "id": "acc25f9cb6ec",
+        "title": "1010music Bluebox 1.5 mixer module and desktop is your do-everything tool",
+        "summary": "There are all these extra things you need in hardware rigs or Eurorack modular. You need to mix stuff together -- and then add effects, and it'd be great to record, and you do still need to connect to your computer. Bluebox 1.5 fills out that wishlist with details that could make this an absolute mu...",
+        "url": "https://cdm.link/bluebox-1-5/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-20T12:51:56+00:00"
       },
       {
         "id": "7717a13f8916",
@@ -1427,6 +1475,14 @@
         "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
         "source": "Claude Blog",
         "published": "2026-08-20T00:00:00+00:00"
+      },
+      {
+        "id": "964c5fe181c3",
+        "title": "Lucid slices, stretches, and scrubs sound like no other granular FX",
+        "summary": "Talking granular effects is like talking ice cream -- it's all about the different flavors. So look at what Minimal Audio has given us: Lucid is a pulsing purple granular multi-effect. And it's capable of everything from bleeding-edge and ambient drones to animated, tempo-synced rhythmic sliced mayh...",
+        "url": "https://cdm.link/lucid-slices-stretches-and-scrubs-sound-like-no-other-granular-fx/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-19T16:25:03+00:00"
       },
       {
         "id": "ce7e13a7a6a9",
@@ -1533,6 +1589,14 @@
         "published": "2026-08-18T16:00:00+00:00"
       },
       {
+        "id": "93048a2be5e8",
+        "title": "Organismi OR—1, free for iPad: breathing, stochastic pattern generator",
+        "summary": "OR—1 is an artful, generative MIDI sequencer maker. It's free for iPad as an AUv3, with a desktop macOS version available for €19.99. And it's an exquisite experience feeding these into synths.\nThe post Organismi OR—1, free for iPad: breathing, stochastic pattern generator appeared first on CDM Crea...",
+        "url": "https://cdm.link/organismi-or-1/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-18T14:16:59+00:00"
+      },
+      {
         "id": "924d3f83ea26",
         "title": "David Cordero/Aiko Takahashi  – Night’s End",
         "summary": "Music for the end of the night (or for every other delicate moment of the day): David Cordero &#038; Aiko Takahashi.\n--- published on Ambientblog ---",
@@ -1571,6 +1635,14 @@
         "url": "https://www.smithsonianmag.com/innovation/australias-social-media-ban-for-teens-may-not-be-the-best-solution-but-its-certainly-getting-people-talking-180989355/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-17T19:15:28+00:00"
+      },
+      {
+        "id": "aaf017ff723f",
+        "title": "Handmade experimental synths and DIY from Argentina’s Los Aparatos",
+        "summary": "From Tucumán, Argentina, Los Aparatos are constructing handmade synths and electronics education and DIY projects. And now you can ship their experimental synthesizer, Auduina MK2, internationally. Plus, those pink controls and creative projects are just irresistible. Let's take a look.\nThe post Han...",
+        "url": "https://cdm.link/los-aparatos/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-17T16:29:47+00:00"
       },
       {
         "id": "64d2de79d3b4",
@@ -1667,6 +1739,14 @@
         "url": "https://www.twreporter.org/a/photo-lee-yehlin-undercurrent-photobook-interview",
         "source": "報導者",
         "published": "2026-08-14T16:00:00+00:00"
+      },
+      {
+        "id": "6c634d18552d",
+        "title": "otophon is a plug-in to play tones inside your head",
+        "summary": "This one's for the heads, literally. Otoacoustic emissions (OAEs) are sounds produced by your ear, ghostly tones emitted from inside the cochlea itself. The phenomenon has been employed in experimental music (and medical applications), but it has been hard to explore on your own -- until now.\nThe po...",
+        "url": "https://cdm.link/otophon-is-a-plug-in-to-play-tones-inside-your-head/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-08-14T11:52:05+00:00"
       },
       {
         "id": "08337cc0a770",
@@ -2412,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T05:37:55.231549+00:00"
+        "published": "2026-08-25T06:59:09.291389+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2420,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T05:37:55.231538+00:00"
+        "published": "2026-08-25T06:59:09.291378+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2428,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T05:37:55.231528+00:00"
+        "published": "2026-08-25T06:59:09.291367+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2436,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T05:37:55.231518+00:00"
+        "published": "2026-08-25T06:59:09.291357+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2444,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T05:37:55.231507+00:00"
+        "published": "2026-08-25T06:59:09.291346+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2452,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T05:37:55.231497+00:00"
+        "published": "2026-08-25T06:59:09.291335+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2460,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T05:37:55.231486+00:00"
+        "published": "2026-08-25T06:59:09.291325+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2468,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T05:37:55.231476+00:00"
+        "published": "2026-08-25T06:59:09.291314+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T05:37:55.231465+00:00"
+        "published": "2026-08-25T06:59:09.291303+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T05:37:55.231455+00:00"
+        "published": "2026-08-25T06:59:09.291293+00:00"
       },
       {
         "id": "6068d0316359",
