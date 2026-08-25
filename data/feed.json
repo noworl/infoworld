@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T18:49:13.280184+00:00",
+  "updated_at": "2026-08-25T19:37:52.442311+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -515,86 +515,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -805,6 +725,30 @@
     ],
     "破(day)": [
       {
+        "id": "473844035e6f",
+        "title": "San Francisco’s Exploratorium turns STEM learning into hands-on play",
+        "summary": "On Pier 15 in San Francisco is the Exploratorium, looking out onto the Bay that characterizes a city equally defined by art and culture as it is by technological prowess. This is a museum, but not one with pieces that hang on the walls only to be observed with the eyes. It’s a didactic playground [&...",
+        "url": "https://blog.adafruit.com/2026/08/25/san-franciscos-exploratorium-turns-stem-learning-into-hands-on-play/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-25T19:25:44+00:00"
+      },
+      {
+        "id": "e05074dbe6ad",
+        "title": "WeatherPaper: a smart weather station using an e-paper display",
+        "summary": "WeatherPaper is a health and comfort-focused smart weather station designed around a 4.2-inch e-paper display and a custom PCB. It lasts over a year and a half on a single charge. Features 500 Days Battery Life: WiFi fetching uptime cuts to a fraction of a second, driven by aggressive power manageme...",
+        "url": "https://blog.adafruit.com/2026/08/25/weatherpaper-a-smart-weather-station-using-an-e-paper-display/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-25T19:14:08+00:00"
+      },
+      {
+        "id": "13d72cc10136",
+        "title": "libtmt – a simple terminal emulation library",
+        "summary": "libtmt is Rob King&#8217;s Tiny Mock Terminal Library. It provides emulation of a classic smart text terminal, by maintaining an in-memory screen image. Sending text and command sequences to libtmt causes it to update this in-memory image, which can then be examined and rendered however the user see...",
+        "url": "https://blog.adafruit.com/2026/08/25/libtmt-a-simple-terminal-emulation-library/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-25T19:01:27+00:00"
+      },
+      {
         "id": "68fcbf0b715f",
         "title": "DuckDuckGo survey highlights how much personal information users share with AI",
         "summary": "Private search company DuckDuckGo has released a new survey highlighting just how much personal information people are sharing with AI chatbots, and how little many understand about what happens to those conversations. Here are the details. DuckDuckGo highlights several privacy-related aspects aroun...",
@@ -861,36 +805,12 @@
         "published": "2026-08-25T15:50:23+00:00"
       },
       {
-        "id": "989bcc66911e",
-        "title": "RetroESP32-P4: The beloved RetroESP32 ported to the new P4",
-        "summary": "The beloved RetroESP32 ported to the new P4. Contribute to giltal/RetroESP32-P4 development by creating an account on GitHub. RetroESP32-P4 is an open-source retro-gaming and application platform built on the ESP32-P4 — a dual-core RISC-V microcontroller with no dedicated GPU. Grown out of a revival...",
-        "url": "https://blog.adafruit.com/2026/08/25/retroesp32-p4-the-beloved-retroesp32-ported-to-the-new-p4/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-25T15:35:36+00:00"
-      },
-      {
         "id": "c2b4aae55a51",
         "title": "Kemah Bob: Love Child review – Miss Fortunate’s follow-up is a superbly playful origin story",
         "summary": "Pleasance Courtyard, EdinburghWith icky and edgy jokes, the comedian offers an authentic inquiry into her childhood in her sophomore showA standup’s debut show usually tells us who they are, then with their follow-up, they branch out. Kemah Bob has done things the other way around. After 2024’s Miss...",
         "url": "https://www.theguardian.com/stage/2026/aug/25/kemah-bob-love-child-review-pleasance-courtyard-edinburgh",
         "source": "Stage | The Guardian",
         "published": "2026-08-25T15:19:24+00:00"
-      },
-      {
-        "id": "605eee385aa8",
-        "title": "Espressif posts a Linux BSP for the ESP32-S31",
-        "summary": "The ESP32-S31 is getting Linux support from Espressif. The dual-core RISC-V part was unveiled in March, two development boards followed in May, and mass production was announced a few weeks ago. The chip includes an MMU, which makes Linux far more tractable, and the boards carry 16MB PSRAM — enough ...",
-        "url": "https://blog.adafruit.com/2026/08/25/espressif-posts-a-linux-bsp-for-the-esp32-s31/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-25T15:18:16+00:00"
-      },
-      {
-        "id": "95265e0691b2",
-        "title": "The new Pibow frame for the 10.1″ Raspberry Pi Touch Display 2",
-        "summary": "Pimoroni has released their new Pibow frame for the 10.1&#8243; Raspberry Pi Touch Display 2.  Use it in portrait or landscape, standing upright or reclining. It attaches directly to the display using the stock fixings. No need for extra hardware. 3 layers provide support and protection to the back ...",
-        "url": "https://blog.adafruit.com/2026/08/25/the-new-pibow-frame-for-the-10-1-raspberry-pi-touch-display-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-25T14:58:47+00:00"
       },
       {
         "id": "de511ffe6c5e",
@@ -2572,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T18:49:11.895106+00:00"
+        "published": "2026-08-25T19:37:51.158312+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T18:49:11.895095+00:00"
+        "published": "2026-08-25T19:37:51.158301+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T18:49:11.895085+00:00"
+        "published": "2026-08-25T19:37:51.158291+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T18:49:11.895074+00:00"
+        "published": "2026-08-25T19:37:51.158280+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T18:49:11.895064+00:00"
+        "published": "2026-08-25T19:37:51.158269+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T18:49:11.895053+00:00"
+        "published": "2026-08-25T19:37:51.158253+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T18:49:11.895043+00:00"
+        "published": "2026-08-25T19:37:51.158242+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T18:49:11.895032+00:00"
+        "published": "2026-08-25T19:37:51.158232+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T18:49:11.895021+00:00"
+        "published": "2026-08-25T19:37:51.158221+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T18:49:11.895011+00:00"
+        "published": "2026-08-25T19:37:51.158211+00:00"
       },
       {
         "id": "ad9db25bad71",
