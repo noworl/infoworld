@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-25T19:37:52.442311+00:00",
+  "updated_at": "2026-08-25T20:37:05.093742+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "f151a9a38f1a",
+        "title": "SET MARCANTES XIMENES AO VIVO FAZENDA ( 09 AGOSTO 2026)",
+        "summary": "fd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/set-marcantes-ximenes-ao-vivo-fazenda-09-agosto-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-25T18:52:38+00:00"
+      },
+      {
+        "id": "62bdff364df3",
+        "title": "DJ JOSUE E DENISE LIMA NA MADRUGADA ( ARROCHA 2026)",
+        "summary": "DF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/dj-josue-e-denise-lima-na-madrugada-arrocha-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-25T18:22:49+00:00"
+      },
       {
         "id": "3ee65833a907",
         "title": "MIDALIYA Benamrane Khawla",
@@ -73,22 +89,6 @@
         "url": "https://archive.org/details/7-let-go-youre-gonna-come-undone-by-sandpapersnowman-music-ambience",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-08-25T14:26:50+00:00"
-      },
-      {
-        "id": "ed229c8677e5",
-        "title": "Podfic: you'd like to think you could resist (but you're being hypnotized by this) by sandpapersnowman",
-        "summary": "Podfic of this fanfiction: https://archiveofourown.org/works/10987743.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/6-youd-like-to-think-you-could-resist-by-sandpapersnowman-music-ambience",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-25T14:16:06+00:00"
-      },
-      {
-        "id": "5c3ebee44874",
-        "title": "Podfic: every breath, every hour [has come to this] by sandpapersnowman",
-        "summary": "Podfic of this fanfiction: https://archiveofourown.org/works/10996128.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/5-every-breath-every-hour-has-come-to-this-by-sandpapersnowman-music-mixed-ambience",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-25T14:08:59+00:00"
       },
       {
         "id": "569d9dc677c9",
@@ -725,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "2b652b5671a5",
+        "title": "32×32 Square Pixel Art Animation Display #ArtTuesday",
+        "summary": "This is a square pixel display that uses an 32&#215;32 RGB matrix display. It&#8217;s powered by the Feather RP2040 and RGB Matrix FeatherWing. This runs CircuitPython and the Matrix Portal Library to play animated sprite sheets on the display. Check out the guide from the Ruiz Brothers.",
+        "url": "https://blog.adafruit.com/2026/08/25/32x32-square-pixel-art-animation-display-arttuesday/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-25T20:00:07+00:00"
+      },
+      {
+        "id": "30c33bd0b32b",
+        "title": "Tiny Telco",
+        "summary": "Evan Grove&#8217;s goal is to design a from-scratch, modular, hobbyist-friendly interconnect for analog telephones. It’s like a little phone company in a box that fits on your desk. If you’re new here, the goal is to design a from-scratch, modular, hobbyist-friendly interconnect for analog telephone...",
+        "url": "https://blog.adafruit.com/2026/08/25/tiny-telco/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-25T19:44:53+00:00"
+      },
+      {
         "id": "473844035e6f",
         "title": "San Francisco’s Exploratorium turns STEM learning into hands-on play",
         "summary": "On Pier 15 in San Francisco is the Exploratorium, looking out onto the Bay that characterizes a city equally defined by art and culture as it is by technological prowess. This is a museum, but not one with pieces that hang on the walls only to be observed with the eyes. It’s a didactic playground [&...",
@@ -787,22 +803,6 @@
         "url": "https://blog.adafruit.com/2026/08/25/jps-product-pick-of-the-week-new-earlier-time-3pm-eastern-today-8-25-26-and-beyond-adafruit-adafruit-newproductpick/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-08-25T17:47:48+00:00"
-      },
-      {
-        "id": "6fb1b6fbdb45",
-        "title": "os8088 spotlight: new programs and features",
-        "summary": "os8088 new items: what was added, what it does, screenshots of it running on an Intel 8086, and the video that goes with it, by Jorge Gonzalez. os8088 now fetches real web pages and lays them out as text and tables, over an Ethernet card or a parallel cable to a DOS machine standing next [&#8230;]",
-        "url": "https://blog.adafruit.com/2026/08/25/os8088-spotlight-new-programs-and-features/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-25T16:06:53+00:00"
-      },
-      {
-        "id": "fd9a6d83f608",
-        "title": "The new MCP roadmap",
-        "summary": "An update on the Model Context Protocol roadmap and focus areas for upcoming specification releases. Today we’re excited to publish an updated roadmap for the Model Context Protocol (MCP), covering the next specification release and beyond. It sets the direction for protocol work over the coming mon...",
-        "url": "https://blog.adafruit.com/2026/08/25/the-new-mcp-roadmap/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-25T15:50:23+00:00"
       },
       {
         "id": "c2b4aae55a51",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T19:37:51.158312+00:00"
+        "published": "2026-08-25T20:37:03.560764+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T19:37:51.158301+00:00"
+        "published": "2026-08-25T20:37:03.560753+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T19:37:51.158291+00:00"
+        "published": "2026-08-25T20:37:03.560743+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T19:37:51.158280+00:00"
+        "published": "2026-08-25T20:37:03.560732+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T19:37:51.158269+00:00"
+        "published": "2026-08-25T20:37:03.560721+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T19:37:51.158253+00:00"
+        "published": "2026-08-25T20:37:03.560711+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T19:37:51.158242+00:00"
+        "published": "2026-08-25T20:37:03.560700+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T19:37:51.158232+00:00"
+        "published": "2026-08-25T20:37:03.560689+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T19:37:51.158221+00:00"
+        "published": "2026-08-25T20:37:03.560679+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-25T19:37:51.158211+00:00"
+        "published": "2026-08-25T20:37:03.560668+00:00"
       },
       {
         "id": "ad9db25bad71",
