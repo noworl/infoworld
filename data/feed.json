@@ -1,54 +1,118 @@
 {
-  "updated_at": "2026-08-27T19:54:44.860964+00:00",
+  "updated_at": "2026-08-28T04:15:39.636451+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "c4f73c93a430",
+        "title": "UB Radio Salon 971 - live experimental sounds w/special guest Ohmnoise... 23 August 2026 on DFM.nu",
+        "summary": "2-hours of live improvised experimental radio sound-art broadcast live from the Chakra Chimp Research Kitchens of Northern California-land.  Netcast on DFM Radio TV International (www.dfm.nu)  DFM RTV INT  23 AUGUST 2026....This item belongs to: audio/ubradio_salon.This item has files of the followi...",
+        "url": "https://archive.org/details/ubradio_salon971",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-28T02:24:20+00:00"
+      },
+      {
+        "id": "3988370d3b7f",
+        "title": "When Your Need Is Greatest 5",
+        "summary": "When Your Need Is Greatest 5.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/when-your-need-is-greatest-5",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-28T01:30:46+00:00"
+      },
+      {
+        "id": "8f181beb8b54",
+        "title": "雙北等6縣市高溫上看36度　嘉南高屏大雨及豪雨特報",
+        "summary": "（中央社記者汪淑芬台北28日電）中央氣象署今天針對雙北等6縣市發布高溫黃色燈號；同時對嘉南高屏4縣市，發布大雨及豪雨特報。",
+        "url": "https://www.cna.com.tw/news/ahel/202608280031.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-28T01:06:37+00:00"
+      },
+      {
+        "id": "419cdf19dd5d",
+        "title": "颱風沙德爾減弱為輕颱　嘉義以南防大雨或豪雨",
+        "summary": "（中央社記者汪淑芬台北28日電）根據中央氣象署資料顯示，颱風沙德爾已於今天清晨5時減弱為輕度颱風；不過，受西南風增強影響，嘉義以南應防大雨或豪雨。",
+        "url": "https://www.cna.com.tw/news/ahel/202608280026.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-28T00:53:27+00:00"
+      },
+      {
+        "id": "fae851858ee9",
+        "title": "Enter God's Light",
+        "summary": "Enter God's Light — Mar Mari Emmanuel (SermonIndex, SID47344).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47344",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-28T00:34:42+00:00"
+      },
+      {
+        "id": "382942ee07c4",
+        "title": "How To Overcome Temptations",
+        "summary": "How To Overcome Temptations — Mar Mari Emmanuel (SermonIndex, SID47378).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47378",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-28T00:29:59+00:00"
+      },
+      {
+        "id": "418ff102348d",
+        "title": "Eternal Life",
+        "summary": "Eternal Life — Mar Mari Emmanuel (SermonIndex, SID47345).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47345",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-28T00:22:11+00:00"
+      },
+      {
+        "id": "5d6143acad1c",
+        "title": "Lukewarm Faith Exposed",
+        "summary": "Lukewarm Faith Exposed — Mar Mari Emmanuel (SermonIndex, SID47406).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47406",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-28T00:21:11+00:00"
+      },
+      {
+        "id": "87b75441121b",
+        "title": "Love, Mercy, and the Scales of the Spirit",
+        "summary": "Love, Mercy, and the Scales of the Spirit — Mar Mari Emmanuel (SermonIndex, SID47405).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47405",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-28T00:18:55+00:00"
+      },
+      {
+        "id": "2c5ddae8ca54",
+        "title": "Living for God Daily",
+        "summary": "Living for God Daily — Mar Mari Emmanuel (SermonIndex, SID47404).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47404",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-28T00:18:33+00:00"
+      },
+      {
+        "id": "a7f9132ea87c",
+        "title": "Listen to GOD'S WORDS and Save Yourself",
+        "summary": "Listen to GOD'S WORDS and Save Yourself — Mar Mari Emmanuel (SermonIndex, SID47403).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47403",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-28T00:18:19+00:00"
+      },
+      {
+        "id": "69d207ce287f",
+        "title": "Life Is Short Remember God",
+        "summary": "Life Is Short Remember God — Mar Mari Emmanuel (SermonIndex, SID47402).This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/SERMONINDEX_SID47402",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-08-28T00:17:57+00:00"
+      },
+      {
+        "id": "7ac7071abfaf",
+        "title": "西南風影響屏東防豪雨　南部嘉義山區防局部大雨",
+        "summary": "（中央社台北28日電）中央氣象署發布豪雨特報，西南風影響，易有短延時強降雨，今天屏東縣有局部大雨或豪雨，南部地區及嘉義山區有局部大雨發生的機率。",
+        "url": "https://www.cna.com.tw/news/ahel/202608280016.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-08-27T23:28:04+00:00"
+      },
+      {
         "id": "c060d16e6423",
-        "title": "颱風沙德爾強度減弱　估8/28下半天解除警報",
+        "title": "颱風沙德爾強度減弱估下半天解除警報　南高屏持續大雨",
         "summary": "（中央社記者余曉涵台北28日電）中央氣象署表示，颱風沙德爾強度稍微減弱，預估今天上午到中午就會登陸到中國陸地，屆時強度減弱就會更加明顯，預計今天下半天就會解除颱風警報。",
         "url": "https://www.cna.com.tw/news/ahel/202608280002.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-27T16:18:25+00:00"
-      },
-      {
-        "id": "cf51deb9451d",
-        "title": "Nebraska Live (Version 2)",
-        "summary": "Title: Nebraska Live Location: Various Date: Various Label: E Street Records (ES-22) Total Length: 1 hour 14 minutes 3.30 seconds Artwork: Complete (300 dpi). My Original CD's -->EAC v. 0,99 Prebeta 4 --> WAV --> Trader's Little Helper v.2.4.1 --> FLAC Level 8....This item belongs to: audio/radionow...",
-        "url": "https://archive.org/details/nebraska-live-version-2",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-27T16:09:06+00:00"
-      },
-      {
-        "id": "98d5fde75df7",
-        "title": "Midnight Cowboy (Dandelion - Silver)",
-        "summary": "Midnight Cowboy, Dandelion, DL 074 Various Locations, 1997-1998 Original Silver Disc --> EAC (Secure) --> Waw --> Flac Level 8 & Align EAC Log File, md5 Files (Flac & Waw), Artwork Included (Front, Back & Disc 300 dpi) 01 - The Ghost Of Tom Joad 02 - Thunder Road 03 - The Times They Are A-Changin' 0...",
-        "url": "https://archive.org/details/midnight-cowboy-dandelion-silver",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-27T16:04:39+00:00"
-      },
-      {
-        "id": "20c40aa206ac",
-        "title": "Live 1975-1988_ The Live Box Outtakes",
-        "summary": "Bruce Springsteen Live 1975-1988 (The Live Box Outtakes), Darkside Production, DP-00-17-1/2/3/4 Various Locations, 1975-1988 Original Silver Discs --> EAC (Secure) --> Waw --> Flac Level 8 & Align > TLH (fixed SBEs on every tack) > FLAC EAC Log Files and Artwork Included (Front, Back & Discs 300 dpi...",
-        "url": "https://archive.org/details/live-1975-1988-the-live-box-outtakes",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-27T15:56:40+00:00"
-      },
-      {
-        "id": "8ccff86e8d4d",
-        "title": "Live 1973-1978_ Those That Didn't Make The Cut",
-        "summary": "Title: '1973-78 Those That Didn't Make The Cut' Format: 1986-06-21 Studio Demo (Compilation) Location: CBS Studios, 30th Street, NY, NY Lineage: Soundboard 10'' reel > 7.5\" reel transfer > .FLAC files 16-44 by Mike Ziegler The Players: Bruce Springsteen, John Landau, Chick Plotkin, Toby Scott Produc...",
-        "url": "https://archive.org/details/live-1973-1978-those-that-didn-t-make-the-cut",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-27T15:53:26+00:00"
-      },
-      {
-        "id": "1ae194305104",
-        "title": "It's About Tricks - The 2007 Magic Tour Compilation",
-        "summary": "Bruce Springsteen and the E Street Band It's About Tricks: The 2007 Magic Tour Compilation Various Dates and Cities from the 2007 Legs A \"Flynn\" Compilation Dime/Jungleland/ABMS Downloads --> Wave via Flac Frontend --> Adobe Audition for (mostly) Lite EQ --> Adobe Audition Multi-Track for Sequencing...",
-        "url": "https://archive.org/details/it-s-about-tricks-the-2007-magic-tour-compilation",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-27T15:40:46+00:00"
       },
       {
         "id": "ad38395eb37a",
@@ -57,46 +121,6 @@
         "url": "https://www.cna.com.tw/news/aopl/202608270353.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-27T15:15:18+00:00"
-      },
-      {
-        "id": "916244be5ce5",
-        "title": "MARCANTES INTROS EXCLUSIVAS 8",
-        "summary": "FD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/marcantes-intros-exclusivas-8",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-27T14:47:27+00:00"
-      },
-      {
-        "id": "1780cd9d41cb",
-        "title": "MARCANTES INTROS EXCLUSIVAS 7",
-        "summary": "FDFD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/marcantes-intros-exclusivas-7",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-27T14:45:42+00:00"
-      },
-      {
-        "id": "03e3198aefda",
-        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Có",
-        "summary": "quan vuong .This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-co_20260827",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-27T14:36:04+00:00"
-      },
-      {
-        "id": "c71109ffab5c",
-        "title": "PACK DJ EDUARDO DA NIGHT + BONUS 2.0",
-        "summary": "DF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/pack-dj-eduardo-da-night-bonus-2.0",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-27T14:30:54+00:00"
-      },
-      {
-        "id": "4a5c1df07b42",
-        "title": "Chào Mừng Các Bạn Đã Đến Với Học Qua Sách",
-        "summary": "33 Chiến lược của chiến tranh.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
-        "url": "https://archive.org/details/chao-mung-cac-ban-da-den-voi-hoc-qua-sach_20260827_1403",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-08-27T14:10:25+00:00"
       },
       {
         "id": "1746ee5fa99d",
@@ -137,30 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202608270323.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-08-27T12:53:05+00:00"
-      },
-      {
-        "id": "7957b85a1f85",
-        "title": "今彩539第115208期開獎",
-        "summary": "（中央社台北27日電）今彩539第115208期開獎，中獎號碼07、02、25、03、33。3星彩中獎號碼891，4星彩中獎號碼6217。",
-        "url": "https://www.cna.com.tw/news/ahel/202608270322.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-27T12:45:03+00:00"
-      },
-      {
-        "id": "7651b14260ce",
-        "title": "高雄本土登革熱家庭群聚案　一家六口已3人確診",
-        "summary": "（中央社記者沈佩瑤台北27日電）高雄爆發一起本土登革熱家庭群聚案，疾管署今晚公布，岡山區一家六口中已3人確診住院，皆無國外旅遊史，主要在住家附近活動，除擴大疫調尋找隱藏個案，並進行防治工作。",
-        "url": "https://www.cna.com.tw/news/ahel/202608270309.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-27T11:26:34+00:00"
-      },
-      {
-        "id": "34dc5a1359ac",
-        "title": "獨老、老老照顧　最高風險每月訪視4次、年送400餐",
-        "summary": "（中央社記者陳婕翎台北27日電）第8場健康台灣推動委員會議今天登場。台灣家庭結構轉變，2人以下首度過半，衛福部對獨老、老老家庭最高風險者，提供每月訪視4次，1年400餐送餐，每年獲補助可逾8.8萬元。",
-        "url": "https://www.cna.com.tw/news/ahel/202608270306.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-08-27T11:19:28+00:00"
       },
       {
         "id": "ec04871e7e3f",
@@ -725,20 +725,100 @@
     ],
     "破(day)": [
       {
+        "id": "40d097b2f2f4",
+        "title": "檯面上競爭、私下大採購，Meta 評估年花百億美元買 Anthropic 工具",
+        "summary": "在全球人工智慧（AI）軍備競賽中，科技巨頭間的關係正變得日益複雜。知情人士透露，Meta 今年曾在內部評估中預 [&#8230;]",
+        "url": "https://technews.tw/2026/08/28/meta-anthropic-rivals-allies/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-08-28T03:00:44+00:00"
+      },
+      {
+        "id": "9b71a86fdaf4",
+        "title": "AI 股殺出強弱分化：輝達噴出、Alphabet 與 Meta 遭拋售",
+        "summary": "在 AI 題材持續主導全球科技股走勢的當下，市場對「科技七巨頭」的態度已不再是無差別追捧，而是出現了顯著的強弱 [&#8230;]",
+        "url": "https://technews.tw/2026/08/28/magnificent-seven-tech-fortunes-diverge/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-08-28T02:40:49+00:00"
+      },
+      {
+        "id": "6f8c003d9d21",
+        "title": "CircuitPython 10.3.0-rc.0 Released!",
+        "summary": "From the GitHub release page: This is CircuitPython 10.3.0-rc.0, a release candidate for CircuitPython 10.3.0 final. CircuitPython 10.3.0 will be the latest minor revision of CircuitPython, and will be a new stable release. Notable additions, changes, and fixes in 10.3.0 from 10.2.1 Gaming and Displ...",
+        "url": "https://blog.adafruit.com/2026/08/27/circuitpython-10-3-0-rc-0-released/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-28T00:20:31+00:00"
+      },
+      {
+        "id": "89e070f5fd97",
+        "title": "Electronics Soldering Prep Third Hand – With Magnifier Adapter #3DThursday #3DPrinting",
+        "summary": "PbStuffCo shares: A third-hand helper with a magnifier adapter (crude unit — take a magnifying glass, cut the arm down, and glue to merge the two). Other end of the adapter fits standard 3rd-hand fittings. Alternative helping-hand variant with built-in magnification for detailed SMD work. By PbStuff...",
+        "url": "https://blog.adafruit.com/2026/08/27/electronics-soldering-prep-third-hand-with-magnifier-adapter-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-28T00:00:49+00:00"
+      },
+      {
+        "id": "a470cf3445f4",
+        "title": "Soldering Third-Hand PCB Holder – A1 Mini + Full-Plate Sizes #3DThursday #3DPrinting",
+        "summary": "Shared by dymek34 on MakerWorld: There are 2 sizes of base, a small one that fits on the A1 mini and a large one. There are holders for holding PCBs to print. The tips are interchangeable, you can put on standard crocodile clips. Download the files and learn more Every Thursday is #3dthursday here a...",
+        "url": "https://blog.adafruit.com/2026/08/27/soldering-third-hand-pcb-holder-a1-mini-full-plate-sizes-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-27T23:00:38+00:00"
+      },
+      {
+        "id": "01cf4ec700ab",
+        "title": "Third Hand for Soldering – Wildebeest Remix with Extended Base #3DThursday #3DPrinting",
+        "summary": "Remixed by CoatOver shares: A remix of the classic Wolfchild soldering third-hand design with three quality-of-life improvements: shorter clothespin inlet (2mm back), stabilizing arc at the back preventing beak from shifting, and extended base so it doesn&#8217;t flip over when opened one-handed. Sm...",
+        "url": "https://blog.adafruit.com/2026/08/27/third-hand-for-soldering-wildebeest-remix-with-extended-base-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-27T22:00:05+00:00"
+      },
+      {
+        "id": "7fa178d38b9d",
+        "title": "AI book scanning: Just what is a rare book?",
+        "summary": "One of the stories of the last few weeks has been that AI companies have been scanning books in very large numbers in order to train their models with content guaranteed to have been written before 2002, and thus AI free. Jenny List for Hackaday writes: In this case they’re destroying the books for ...",
+        "url": "https://blog.adafruit.com/2026/08/27/ai-book-scanning-just-what-is-a-rare-book/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-27T21:29:25+00:00"
+      },
+      {
+        "id": "25035d97f822",
+        "title": "Richard Feynman’s 80-year-old quantum postulate has now been validated",
+        "summary": "A foundational postulate of quantum physics has been directly verified by an experiment for the first time. Formulated by Richard Feynman nearly 80 years ago, it has long formed much of the backbone of modern physics. Quantum particles are notoriously difficult to analyse, as interacting with them a...",
+        "url": "https://blog.adafruit.com/2026/08/27/richard-feynmans-80-year-old-quantum-postulate-has-now-been-validated/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-27T21:20:18+00:00"
+      },
+      {
+        "id": "20725a1d0270",
+        "title": "Magnetic Adjustable PCB Holder Tool #3DThursday #3DPrinting",
+        "summary": "Shared by Sanja 3D on MakerWorld: Magnetic PCB Holder that utilizes an old, repurposed build plate or any metal surface for maximum flexibility. This model is a remix of an excellent PCB holder originally designed by squinn. I’d like to take this opportunity to thank him for his brilliant idea and e...",
+        "url": "https://blog.adafruit.com/2026/08/27/magnetic-adjustable-pcb-holder-tool-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-27T21:00:49+00:00"
+      },
+      {
+        "id": "b38230c91e6b",
+        "title": "Magnetic PCB Holder – Snap-On to Print Beds or Extra Plates #3DPrinting",
+        "summary": "A magnetic PCB holder that snaps onto any steel print surface (printer bed or spare metal plate) to securely hold boards for soldering, probing, rework, and photos. Low-profile adjustable clamps keep everything steady without getting in your way. Uses 8×2mm or 10×2mm neodymium disc magnets + M4×12mm...",
+        "url": "https://blog.adafruit.com/2026/08/27/magnetic-pcb-holder-snap-on-to-print-beds-or-extra-plates-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-27T20:00:41+00:00"
+      },
+      {
+        "id": "6f1f316ce128",
+        "title": "Modular Flexi Piranha – Articulated Fish with Scale Texture #3DThursday #3DPrinting",
+        "summary": "JIMGA shares: An articulated print-in-place piranha with realistic scale texture (second model where the designer added surface scales — turned out incredible). Fully modular, no glue required. Does require AMS for the multicolor scale detail. Great addition to the desk aquarium alongside the other ...",
+        "url": "https://blog.adafruit.com/2026/08/27/modular-flexi-piranha-articulated-fish-with-scale-texture-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-08-27T20:00:17+00:00"
+      },
+      {
         "id": "22b9c533c7d2",
         "title": "New component added SCD43👃Adafruit IO WipperSnapper 1.0.0 Beta 132 Released!",
         "summary": "Adafruit WipperSnapper Firmware 1.0.0 beta 132 has been released on GitHub. This is the latest version of WipperSnapper and a stable release. It adds individual component definitions for the Sensirion SCD4x family of Carbon Dioxide sensors, now including the SCD40, SCD41, and SCD43 in increasing acc...",
         "url": "https://blog.adafruit.com/2026/08/27/new-component-added-scd43-adafruit-io-wippersnapper-beta-132-released/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-08-27T19:30:46+00:00"
-      },
-      {
-        "id": "1f3968f10240",
-        "title": "John Park’s Workshop — LIVE TODAY 8/27/26",
-        "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today (the usual time, no change to the Workshop show schedule)!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects  CircuitPython Parsec Learn Guide Recap Tool Tips Retro Gear and more! The live video will be o...",
-        "url": "https://blog.adafruit.com/2026/08/27/john-parks-workshop-live-today-8-27-26/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-27T19:30:33+00:00"
       },
       {
         "id": "a3420d8c1548",
@@ -749,36 +829,12 @@
         "published": "2026-08-27T19:00:36+00:00"
       },
       {
-        "id": "076e77c4c400",
-        "title": "Soldering Tool Holder – Flexible Arms with Modular 4-Arm Base #3DThursday #3DPrinting",
-        "summary": "NYDER shares: A soldering third-arm helper that securely holds wires, PCBs, and small components. Modular base supports up to four flexible arms — start with one or two, expand as your projects grow. By community designer download the files on: https://makerworld.com/en/models/3086320-soldering-tool...",
-        "url": "https://blog.adafruit.com/2026/08/27/soldering-tool-holder-flexible-arms-with-modular-4-arm-base-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-27T18:00:22+00:00"
-      },
-      {
-        "id": "f0e172c95b58",
-        "title": "REMINDER: John Park’s Workshop — LIVE TODAY 8/27/26",
-        "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today (the usual time, no change to the Workshop show schedule)!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects  CircuitPython Parsec Learn Guide Recap Tool Tips Retro Gear and more! The live video will be o...",
-        "url": "https://blog.adafruit.com/2026/08/27/reminder-john-parks-workshop-live-today-8-27-26/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-27T17:22:48+00:00"
-      },
-      {
-        "id": "ab2ce671a56c",
-        "title": "Melting Pumpkin Skull – Halloween Sculpture #3DPrinting",
-        "summary": "A remix of the original Clyde Frog Elegoo starter kit holder, updated to fit breadboards with the 3 tabs that join breadboards together (which the original didn&#8217;t accommodate). Requires printing 4 risers separately. Alternative Arduino workstation for makers using kits with tabbed breadboards....",
-        "url": "https://blog.adafruit.com/2026/08/27/melting-pumpkin-skull-halloween-sculpture-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-27T17:00:56+00:00"
-      },
-      {
-        "id": "54b8f0f6f92d",
-        "title": "Arduino Uno + Breadboard Holder #3DThursday #3DPrinting",
-        "summary": "Remix by Stickler shares: A remix of the original Clyde Frog Elegoo starter kit holder, updated to fit breadboards with the 3 tabs that join breadboards together (which the original didn&#8217;t accommodate). Requires printing 4 risers separately. Alternative Arduino workstation for makers using kit...",
-        "url": "https://blog.adafruit.com/2026/08/27/arduino-uno-breadboard-holder-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-27T16:00:09+00:00"
+        "id": "91605beff099",
+        "title": "前摩根大通高管称不曾料想爱泼斯坦服刑后会故态复萌",
+        "summary": "杰斯•斯特利自愿接受了美国国会的闭门问询，就自己与杰弗里•爱泼斯坦的关系回答议员们的提问。",
+        "url": "https://www.ftchinese.com/story/001110735",
+        "source": "FTChinese RSS - News",
+        "published": "2026-08-27T16:00:00+00:00"
       },
       {
         "id": "7993c63e2b99",
@@ -789,12 +845,12 @@
         "published": "2026-08-27T16:00:00+00:00"
       },
       {
-        "id": "a206925366e6",
-        "title": "3D Hangouts –  IoT eInk Display, Candy Dispenser and Mewtwo Skull Mask",
-        "summary": "3D Hangouts – IoT eInk Display, Candy Dispenser and Mewtwo Skull Mask https://youtube.com/live/o45Ac3r2gq8?feature=share This week @adafruit Noe and Pedro are working on new projects. Pedro is designing an IoT e-ink project while Noe is working on a candy dispenser for the upcoming halloween season....",
-        "url": "https://blog.adafruit.com/2026/08/27/3d-hangouts-iot-eink-display-candy-dispenser-and-mewtwo-skull-mask/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-27T15:00:59+00:00"
+        "id": "e660731da8a0",
+        "title": "本館與財團法人國際合作發展基金會合作舉辦第六屆「國際開發援助現場論壇」",
+        "summary": "本館與財團法人國際合作發展基金會合作舉辦第六屆「國際開發援助現場論壇」,本館於8月27日星期四與財團法人國際合作發展基金會（以下稱國合會）合作舉辦第六屆「國際開發援助現場論壇」，主題為「夥伴共榮三十載：全球開發合作的典範轉移與臺灣實踐」。論壇於本館簡報室舉辦，由國合會公關室吳台生主任主持。本次論壇專...",
+        "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q240413940724975748",
+        "source": "國家圖書館",
+        "published": "2026-08-27T16:00:00+00:00"
       },
       {
         "id": "0edbb2786bce",
@@ -805,36 +861,12 @@
         "published": "2026-08-27T14:53:25+00:00"
       },
       {
-        "id": "f382a975a33e",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/08/27/the-python-on-microcontrollers-newsletter-subscribe-for-free-8-27-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-27T14:47:26+00:00"
-      },
-      {
-        "id": "a1633dfc1b5d",
-        "title": "Mewtwo Skull Mask #3DThursday #3DPrinting",
-        "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Mewtwo Skull Mask By Deadmoon makerworld.com/en/models/3082934-mewtwo-skull-mask Bambu X1C PolyMaker PLA 4hr 52mins X:164 Y:181 Z:125mm .2mm layer / .4mm Nozzle 1...",
-        "url": "https://blog.adafruit.com/2026/08/27/mewtwo-skull-mask-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-27T13:00:32+00:00"
-      },
-      {
         "id": "76eaf140cae4",
         "title": "Reason now offers 15 Reason devices, plus Rack Extensions access, for free",
         "summary": "Reason Free brings some of the best of Reason to your DAW of choice, totally free. That includes instruments like the excellent Europa synth, effects like Audiomatic and Scream 4, and more. And there's especially good news for the Rack Extensions ecosystem: the full marketplace of third-party add-on...",
         "url": "https://cdm.link/reason-free/",
         "source": "CDM Create Digital Music",
         "published": "2026-08-27T12:01:52+00:00"
-      },
-      {
-        "id": "a92445a8354d",
-        "title": "The Cursed Pumpkin – Skull-Filled Halloween Pumpkin #3DThursday #3DPrinting",
-        "summary": "YahooJAPAN shares: A traditional Halloween pumpkin with a dark twist — the outer surface is a faithful carved pumpkin, but the interior reveals a cavity of skulls sculpted in relief. Tested on H2D, X1C, A1 Mini with Bambu PLA basic/matte. Three profiles: colored optimized for H2D (~17hr), colored, a...",
-        "url": "https://blog.adafruit.com/2026/08/27/the-cursed-pumpkin-skull-filled-halloween-pumpkin-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-08-27T12:00:15+00:00"
       },
       {
         "id": "56f7e9fb53e4",
@@ -1125,6 +1157,14 @@
         "published": "2026-08-26T03:00:56+00:00"
       },
       {
+        "id": "a3949ed79541",
+        "title": "皇帝的調色盤：臺大施靜菲從「清宮畫琺瑯」看見流動的世界",
+        "summary": "走進臺北故宮，豐富多樣的清代展場，總能抓住觀眾的眼球。除了深受大家喜愛的翠玉白菜與肉形石，色彩鮮豔、描繪細膩又 [&#8230;]\nThe post 皇帝的調色盤：臺大施靜菲從「清宮畫琺瑯」看見流動的世界 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/chingfeishih_a/",
+        "source": "人文．島嶼",
+        "published": "2026-08-26T02:00:02+00:00"
+      },
+      {
         "id": "04cb0dbce6b2",
         "title": "How Warp builds self-improving agents on Claude",
         "summary": "How Warp builds self-improving agents on Claude",
@@ -1261,14 +1301,6 @@
         "published": "2026-08-24T16:00:00+00:00"
       },
       {
-        "id": "5e8c4773d01c",
-        "title": "法国财长坦承“大企业附加税”难以取消",
-        "summary": "莱斯屈尔警告，在明年预算中难以取消针对大企业的额外税负。他称，“不幸的是，我们所处的这种处境很可能会持续下去。”",
-        "url": "https://www.ftchinese.com/story/001110700",
-        "source": "FTChinese RSS - News",
-        "published": "2026-08-24T16:00:00+00:00"
-      },
-      {
         "id": "009082245047",
         "title": "「跨越數位鴻溝：樂齡族群的友善服務設計」工作坊，設身處地思考友善樂齡讀者的圖書館服務！",
         "summary": "「跨越數位鴻溝：樂齡族群的友善服務設計」工作坊，設身處地思考友善樂齡讀者的圖書館服務！,國家圖書館於115年8月25日辦理「115年知能精進與創新培育系列課程」第8場課程，於藝文中心301會議室舉行，邀請推動「七分熟創齡推動發展平臺」的共同創辦人周妮萱老師主講，與圖書館館員分享樂齡族群的友善服務設計...",
@@ -1315,6 +1347,14 @@
         "url": "https://www.mittrchina.com/news/detail/16839",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-08-24T09:49:06+00:00"
+      },
+      {
+        "id": "50ea6c11c786",
+        "title": "Azaleh – Sound Journal(s)",
+        "summary": "Four Sound Journals by Azaleh. Released as separate albums, but together they are a beautiful set of more than 200 minutes of long-form immersive and atmospheric ambient music.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/soundjournals/",
+        "source": "Ambientblog",
+        "published": "2026-08-24T08:27:23+00:00"
       },
       {
         "id": "d2fc0bc3e094",
@@ -1685,6 +1725,14 @@
         "published": "2026-08-19T16:00:00+00:00"
       },
       {
+        "id": "beef9ac1a375",
+        "title": "怎麼回事？我爸在撒嬌；我媽用便當作畫！中山大學蕭蘋剖析家庭成員如何「善用」社群網絡",
+        "summary": "你平常會帶午餐便當嗎？你家的便當，都是誰準備的呢？ 根據世界組織PARIS21（The Partnership [&#8230;]\nThe post 怎麼回事？我爸在撒嬌；我媽用便當作畫！中山大學蕭蘋剖析家庭成員如何「善用」社群網絡 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/xiaoping_a/",
+        "source": "人文．島嶼",
+        "published": "2026-08-19T02:46:43+00:00"
+      },
+      {
         "id": "681b8d3e06ae",
         "title": "誰是「吃資料怪獸」？Meta 與 Google App 蒐集範圍居冠",
         "summary": "一項針對行動應用程式隱私揭露的最新研究指出，Meta 與 Google 的 iOS 應用程式在資料蒐集項目上最 [&#8230;]",
@@ -1717,20 +1765,12 @@
         "published": "2026-08-18T16:00:00+00:00"
       },
       {
-        "id": "bf007eeb0882",
-        "title": "日本 Meta 防青少年輕生，搜關鍵字將通知家長",
-        "summary": "Meta 公司在日本的法人 17 日宣布，已在本月 14 日於日本國內導入防止青少年自殺的新功能，若 13 歲 [&#8230;]",
-        "url": "https://technews.tw/2026/08/18/meta-japan-prevent-youth-suicide-keyword-searches-notify-parents/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-08-18T06:00:45+00:00"
-      },
-      {
-        "id": "471d3c0d8481",
-        "title": "Meta 智慧眼鏡「臉部辨識」新專利曝光，內建隱私機制仍難掩外界疑慮",
-        "summary": "Meta 針對智慧眼鏡與臉部辨識的布局，再度因一項新公開的專利引發各界關注。這份於今年 2 月提出、近日正式公 [&#8230;]",
-        "url": "https://infosecu.technews.tw/2026/08/18/meta-smart-glasses-facial-recognition-patent/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-08-18T03:50:54+00:00"
+        "id": "924d3f83ea26",
+        "title": "David Cordero/Aiko Takahashi  – Night’s End",
+        "summary": "Music for the end of the night (or for every other delicate moment of the day): David Cordero &#038; Aiko Takahashi.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/nights_end/",
+        "source": "Ambientblog",
+        "published": "2026-08-18T06:48:16+00:00"
       },
       {
         "id": "0b3f3f17d6f2",
@@ -1829,12 +1869,12 @@
         "published": "2026-08-12T17:02:02+00:00"
       },
       {
-        "id": "17fad3bab5e3",
-        "title": "「破解假新聞:如何利用AI拆解真相」工作坊圓滿結束",
-        "summary": "「破解假新聞:如何利用AI拆解真相」工作坊圓滿結束,「破解假新聞:如何利用AI拆解真相」工作坊圓滿結束,國家圖書館於今(115)年8月13日舉辦「115年知能精進與創新培育系列課程」第7場，主題為「破解假新聞：如何利用AI拆解真相」。本次課程邀請到銘傳大學影音新聞技社群傳播學系田炎欣專案助理教授主講...",
-        "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q225653178469573283",
-        "source": "國家圖書館",
-        "published": "2026-08-12T16:00:00+00:00"
+        "id": "e26f8fe5237d",
+        "title": "Paul Haslinger & Christian Wittman",
+        "summary": "Paul Haslinger (Tangerine Dream) and Christian Wittman (Lightwave) start their new label Noion with two albums inspired by important writers.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/haslinger-wittman/",
+        "source": "Ambientblog",
+        "published": "2026-08-12T13:06:40+00:00"
       },
       {
         "id": "5bb7c4f60339",
@@ -1843,6 +1883,14 @@
         "url": "https://blogs.loc.gov/loc/2026/08/inventing-telephones-at-the-1876-centennial/",
         "source": "Timeless",
         "published": "2026-08-12T13:00:44+00:00"
+      },
+      {
+        "id": "ff13f21b1af5",
+        "title": "帝王想穩坐天下，得先找孔子拜碼頭？！黃進興院士用《聖賢與聖徒》回顧孔廟前世今生",
+        "summary": "中研院歷史語言研究所黃進興院士早年發現國內關於孔廟的研究很少，於是從歷代文獻中逐步爬梳，開啟一系列孔廟研究。  [&#8230;]\nThe post 帝王想穩坐天下，得先找孔子拜碼頭？！黃進興院士用《聖賢與聖徒》回顧孔廟前世今生 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/chin-shing-huang_a/",
+        "source": "人文．島嶼",
+        "published": "2026-08-12T00:30:28+00:00"
       },
       {
         "id": "af6b566103fd",
@@ -1909,6 +1957,14 @@
         "published": "2026-08-07T14:00:00+00:00"
       },
       {
+        "id": "ab19b1a15787",
+        "title": "James Murray – Islands Alight",
+        "summary": "Ambient with a refreshing rhythmic twist: James Murray's Islands Alight.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/murray-islands/",
+        "source": "Ambientblog",
+        "published": "2026-08-07T07:36:18+00:00"
+      },
+      {
         "id": "86862b96a33b",
         "title": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
         "summary": "Google DeepMind’s WeatherNext 2 shows state-of-the-art accuracy in cyclone prediction.",
@@ -1941,6 +1997,14 @@
         "published": "2026-08-05T08:32:54+00:00"
       },
       {
+        "id": "163cfd1e05b2",
+        "title": "在虛擬產房，練習迎接新生命：成大洪筱瑩用VR為護理教育搭一座橋",
+        "summary": "訪談開始，國立成功大學護理學系助理教授洪筱瑩拋出問題：「寶寶出生後的前十分鐘，護理人員要做些什麼？」 我們想到 [&#8230;]\nThe post 在虛擬產房，練習迎接新生命：成大洪筱瑩用VR為護理教育搭一座橋 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/hunghsiaoying_a/",
+        "source": "人文．島嶼",
+        "published": "2026-08-05T02:00:42+00:00"
+      },
+      {
         "id": "a344aff3b707",
         "title": "American Women Fight for Their Own Independence",
         "summary": "The Declaration of Independence inspired many American women to demand their rights, a movement that picked up cultural resonance after the nation’s first women’s rights convention in Seneca Falls, New York, in July 1848. By the 100th anniversary of the nation's independence, leaders such as Susan B...",
@@ -1963,6 +2027,14 @@
         "url": "https://www.smithsonianmag.com/innovation/the-history-of-the-beach-read-from-19th-century-moral-debasement-to-booktok-180989238/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-03T14:22:30+00:00"
+      },
+      {
+        "id": "3be7e9298aa5",
+        "title": "DreamScenes – August 2026",
+        "summary": "\"Even if morning comes...\" - DreamScenes for August 2026.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-august-2026/",
+        "source": "Ambientblog",
+        "published": "2026-08-02T21:00:00+00:00"
       },
       {
         "id": "c385b61e66ad",
@@ -2061,6 +2133,22 @@
         "published": "2026-07-29T09:00:00+00:00"
       },
       {
+        "id": "391cdc008170",
+        "title": "Lawrence English – The Rest Is My Ghost",
+        "summary": "Lawrence English' theory about 'acid nostalgia' has inspired him to create 'The Rest Is My Ghost' - which may very well prove to be one of the most important albums of this year.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/lawrence-english/",
+        "source": "Ambientblog",
+        "published": "2026-07-29T08:04:34+00:00"
+      },
+      {
+        "id": "588c476293af",
+        "title": "臺北大學林文一從「都市治理」視角，省思科學園區發展",
+        "summary": "國立臺北大學都市計劃研究所教授林文一教授指出，都市治理不該是「由上而下」的思維，都市的規劃與發展，不僅與每個居 [&#8230;]\nThe post 臺北大學林文一從「都市治理」視角，省思科學園區發展 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/wen-i-lin_a/",
+        "source": "人文．島嶼",
+        "published": "2026-07-29T00:30:37+00:00"
+      },
+      {
         "id": "2593c4c21cba",
         "title": "Two Thousand Years of “The Odyssey” at the Library",
         "summary": "\"The Odyssey,\" filmmaker Christopher Nolan's retelling of the epic Greek poem, is riding a huge wave of popularity in cinemas around the country. The Library preserves more than 2,000 years of history of the works attributed to Homer, including a fragment of \"The Iliad\" on papyrus and a copy of the ...",
@@ -2083,6 +2171,14 @@
         "url": "https://indiepublisher.tw/zh-hant/book/2369",
         "source": "獨立出版聯盟網站",
         "published": "2026-07-27T00:00:00+00:00"
+      },
+      {
+        "id": "8d3460b202ae",
+        "title": "New radio show: “Liminal State”",
+        "summary": "Introducing a new weekly ambient music radio show: 'Liminal State'. Also: a change in the DreamScenes broadcast schedule.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/liminal-state/",
+        "source": "Ambientblog",
+        "published": "2026-07-25T07:40:54+00:00"
       },
       {
         "id": "b9ed4f2aeb82",
@@ -2117,6 +2213,14 @@
         "published": "2026-07-23T00:00:00+00:00"
       },
       {
+        "id": "fc359d92c9be",
+        "title": "在霧霾慢跑，是浪漫？還是浪費？中興大學古博文分析上百萬資料，找到空汙削弱運動健康效益的臨界點",
+        "summary": "古稀之年的林老師幾乎每天都會外出跑步。多年下來，他不時會感覺到，同樣是十公里，在內湖山邊跑和沿基隆河邊跑，感覺 [&#8230;]\nThe post 在霧霾慢跑，是浪漫？還是浪費？中興大學古博文分析上百萬資料，找到空汙削弱運動健康效益的臨界點 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/gubowen_a/",
+        "source": "人文．島嶼",
+        "published": "2026-07-22T02:50:50+00:00"
+      },
+      {
         "id": "01c25371ba55",
         "title": "[東南亞週報324] 東協與緬甸外長舉行非正式會議籲落實五點共識、菲參議院開始審理副總統薩拉彈劾案、大馬柔佛州選舉國陣大勝森美蘭州選將成安華執政保衛戰",
         "summary": "[東南亞週報324] 東協與緬甸外長舉行非正式會議籲落實五點共識、菲參議院開始審理副總統薩拉彈劾案、大馬柔佛州 [&#8230;]",
@@ -2131,6 +2235,14 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259241",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-07-21T09:21:00+00:00"
+      },
+      {
+        "id": "71a6ca9d5411",
+        "title": "Paul Beaudoin – Signal Loss / Spores.dat",
+        "summary": "Two albums by Estonian composer Paul Beaudoin, both exploring 'the space between intent and reception'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/beaudoin/",
+        "source": "Ambientblog",
+        "published": "2026-07-20T17:58:41+00:00"
       },
       {
         "id": "e12428ade24e",
@@ -2149,6 +2261,14 @@
         "published": "2026-07-18T00:00:00+00:00"
       },
       {
+        "id": "e3e0fd583ad1",
+        "title": "The [Law-Rah] Collective – Strange Attraction",
+        "summary": "“Expect the unexpected, and even then you’re way off ...” - power ambient by The [Law-Rah] Collective (Bauke van der Wal).\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/law-rah/",
+        "source": "Ambientblog",
+        "published": "2026-07-16T07:29:34+00:00"
+      },
+      {
         "id": "86fda9299d09",
         "title": "神聖の充滿",
         "summary": "《神聖の充滿—AN ULTIMATE GUIDE TO ZEN LIVING》收錄了劉兆慈 2016 年到 2020 年間在歐洲拍攝的佛像照片。這些佛像通常會被放在園藝區，與熱帶植物和假草皮一起，有時候又會出現在家居擺飾區，被做成盆栽或是蠟燭座，場景雖然荒謬卻又十分迷人。本書視角從博物館商店、古董藝品店、二手市集到超市賣場，再到住家窗台，在歐洲城市各處穿梭，既像是一本旅遊雜記，又著實是一本從「西方」取經回來的聖書。\n\n本書在收錄 2017 年出版的《神聖の充滿。AN ULTIMATE GUIDE TO ZEN LIVING. Vol.1 &amp; Vol.2》內容的基礎上，進一步擴充，...",
@@ -2157,12 +2277,28 @@
         "published": "2026-07-16T00:00:00+00:00"
       },
       {
+        "id": "7b85edbd5e65",
+        "title": "「養兒防老」錯了嗎？成大郭書琴從法律人類學看成年收養背後的家庭安排",
+        "summary": "提及「收養」，多數人想到的是成年人收養未成年孩子。孩子因失去原有照顧，或基於生活與成長需要，透過收養進入新的家 [&#8230;]\nThe post 「養兒防老」錯了嗎？成大郭書琴從法律人類學看成年收養背後的家庭安排 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/shuchinkuo_a/",
+        "source": "人文．島嶼",
+        "published": "2026-07-15T02:00:34+00:00"
+      },
+      {
         "id": "08d817f453d6",
         "title": "Reconstructing Pelé’s “lost” goal",
         "summary": "Pele documentary",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/",
         "source": "Google DeepMind",
         "published": "2026-07-14T13:00:00+00:00"
+      },
+      {
+        "id": "8803fc57de52",
+        "title": "DreamScenes – July 2026",
+        "summary": "\"For Bob\" - DreamScenes for July 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-july-2026/",
+        "source": "Ambientblog",
+        "published": "2026-07-12T17:55:00+00:00"
       },
       {
         "id": "da40501cb8ba",
@@ -2189,6 +2325,14 @@
         "published": "2026-07-09T13:07:00+00:00"
       },
       {
+        "id": "4ef1351c20b8",
+        "title": "「與其恐懼假新聞，不如提升民眾信心」——跟著政大施琮仁打擊網路風險",
+        "summary": "國立政治大學傳播學院施琮仁教授長年關注「不實訊息」對民眾的影響，以及該如何以行動打擊。 攝影／林俊孝 在臺灣社 [&#8230;]\nThe post 「與其恐懼假新聞，不如提升民眾信心」——跟著政大施琮仁打擊網路風險 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/tsung-jen-shih_a/",
+        "source": "人文．島嶼",
+        "published": "2026-07-08T00:00:23+00:00"
+      },
+      {
         "id": "5f8179a07a8f",
         "title": "How Shrimp Shells Are Being Turned Into 'Carbon Negative' Fuel, Food and Construction Materials",
         "summary": "Engineers in Singapore have developed a new, multistep chemical process that transforms organic waste into useful, sustainable products",
@@ -2205,12 +2349,28 @@
         "published": "2026-07-06T09:34:47+00:00"
       },
       {
+        "id": "0cf9d328d0f8",
+        "title": "被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？",
+        "summary": "你沒事的時候，會等公車時滑、吃飯時滑、睡前滑，甚至只是發呆幾分鐘，也會忍不住打開社群媒體看看有沒有新通知嗎？  [&#8230;]\nThe post 被推薦的童年：當社群媒體演算法形塑孩子的世界，數位公民如何養成？ appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/zhangfengqin_a/",
+        "source": "人文．島嶼",
+        "published": "2026-07-01T02:30:19+00:00"
+      },
+      {
         "id": "a15eaa1562c1",
         "title": "TWMC July 2026 Chart",
         "summary": "1. Fatoumata Diawara · Massa · Nø Førmat! [5] 2. Seu Jorge · The Other Side · Amor in Sound [1] 3. Tamikrest · Assikel · Glitterbeat [9] 4. Cocanha · Flame Folclòre · Bongo Joe [4] 5. Shye Ben Tzur, Jonny Greenwood and The Rajasthan Express · Ranjha · World Circuit / BMG [6] [&#8230;]",
         "url": "https://www.transglobalwmc.com/charts/twmc-july-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-06-30T21:57:46+00:00"
+      },
+      {
+        "id": "eb1633b0ba83",
+        "title": "侵權產品就該銷毀嗎？政大沈宗倫談「專利救濟」背後的公共代價",
+        "summary": "生活在科技時代，我們早已習慣口袋裡的手機、手腕上的智慧型手錶，替我們完成通訊、定位、健康監測與日常紀錄。這些產 [&#8230;]\nThe post 侵權產品就該銷毀嗎？政大沈宗倫談「專利救濟」背後的公共代價 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/chunglunshen_a/",
+        "source": "人文．島嶼",
+        "published": "2026-06-24T02:00:06+00:00"
       },
       {
         "id": "3cc06ddc61d1",
@@ -2332,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-27T19:53:56.969857+00:00"
+        "published": "2026-08-28T04:15:36.146359+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2340,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-27T19:53:56.969847+00:00"
+        "published": "2026-08-28T04:15:36.146349+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2348,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-27T19:53:56.969836+00:00"
+        "published": "2026-08-28T04:15:36.146338+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2356,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-27T19:53:56.969826+00:00"
+        "published": "2026-08-28T04:15:36.146327+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2364,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-27T19:53:56.969815+00:00"
+        "published": "2026-08-28T04:15:36.146316+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2372,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-27T19:53:56.969804+00:00"
+        "published": "2026-08-28T04:15:36.146306+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2380,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-27T19:53:56.969793+00:00"
+        "published": "2026-08-28T04:15:36.146295+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2388,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-27T19:53:56.969783+00:00"
+        "published": "2026-08-28T04:15:36.146284+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2396,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-27T19:53:56.969772+00:00"
+        "published": "2026-08-28T04:15:36.146274+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2404,7 +2564,15 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-08-27T19:53:56.969762+00:00"
+        "published": "2026-08-28T04:15:36.146263+00:00"
+      },
+      {
+        "id": "25c5720f9d76",
+        "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+        "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+        "source": "阮一峰的网络日志",
+        "published": "2026-08-27T23:56:43+00:00"
       },
       {
         "id": "4d11676a0bc0",
@@ -2573,14 +2741,6 @@
         "url": "https://www.min-on.org/zh-hant/14918/%e7%be%8e%e5%9c%8b%e9%8a%85%e7%ae%a1%e4%ba%94%e9%87%8d%e5%a5%8f%e5%9c%98-seraph-brass-%e5%ae%8c%e6%88%90%e6%97%a5%e6%9c%ac%e5%b7%a1%e6%bc%94/",
         "source": "Chinese Traditional – Min-On Website",
         "published": "2026-08-07T08:53:36+00:00"
-      },
-      {
-        "id": "074260d5f352",
-        "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
-        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-08-07T00:08:27+00:00"
       },
       {
         "id": "86853e089c08",
@@ -2831,14 +2991,6 @@
         "published": "2026-07-08T07:53:30+00:00"
       },
       {
-        "id": "66a35ce81cfc",
-        "title": "MaSC at DLfM 2026!",
-        "summary": "Our Research Assistant, Xiner (Rose) Chen, had the opportunity to represent MaSC at the 2026 International Conference on Digital Libraries for Musicology (DLfM), presenting the paper “From Field to Archive: [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/07/07/masc-at-dlfm-2026/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-07-07T12:40:07+00:00"
-      },
-      {
         "id": "8ba676c36633",
         "title": "韓日音樂會第八屆於東京開場，音樂劇好手齊聚一堂",
         "summary": "2026年6月2日及3日，韓國駐日大使館韓國文化館 (KCC)與民音在韓國文化館大廳 (Hammadang H [&#8230;]",
@@ -2951,14 +3103,6 @@
         "published": "2026-05-14T15:29:10+00:00"
       },
       {
-        "id": "832aac095aa6",
-        "title": "Sounding the Mangroves: A project with the Environmental Agency of Abu Dhabi",
-        "summary": "Ongoing, 2026 Abu Dhabi MaSC is partnering with the Environmental Agency of Abu Dhabi on a joint research project employing transdisciplinary methodologies to investigate how acoustic data can serve as [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/05/12/sounding-the-mangroves-a-project-with-the-environmental-agency-of-abu-dhabi/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-05-12T10:17:47+00:00"
-      },
-      {
         "id": "20ea57f6b4fd",
         "title": "[知音分享會]05.13 來自日治時期的繞境邀約 跟歌仔戲一起「痟」媽祖",
         "summary": "燃燒整座島嶼的三月媽祖熱漸漸停歇，輪到我 [&#8230;]\nSource",
@@ -2983,28 +3127,12 @@
         "published": "2026-04-27T04:48:52+00:00"
       },
       {
-        "id": "c743e287da56",
-        "title": "Andrew Eisenberg Presents at the British Forum for Ethnomusicology",
-        "summary": "April, 2026 London, UK In April 2026, Andrew J. Eisenberg presented a co-authored paper with Tabu Osusa (Ketebul Music, Nairobi) at the British Forum for Ethnomusicology in London. The 2026 [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/04/20/andrew-eisenberg-presents-at-the-british-forum-for-ethnomusicology/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-04-20T09:57:39+00:00"
-      },
-      {
         "id": "1b0da56e8ea0",
         "title": "台南有樂町－臺灣歌謠音樂論壇",
         "summary": "｡ﾟ♫*台南有樂町－臺灣歌謠音樂論壇♫* [&#8230;]\nSource",
         "url": "https://audio.nmth.gov.tw/news/%e5%8f%b0%e5%8d%97%e6%9c%89%e6%a8%82%e7%94%ba%ef%bc%8d%e8%87%ba%e7%81%a3%e6%ad%8c%e8%ac%a0%e9%9f%b3%e6%a8%82%e8%ab%96%e5%a3%87/",
         "source": "最新消息 – 臺灣音聲100年",
         "published": "2026-04-15T02:23:53+00:00"
-      },
-      {
-        "id": "5c79251d63b8",
-        "title": "Carlos Guedes Presents MaSC Research at Universitat Pompeu Fabra’s Music Technology Group",
-        "summary": "April, 2026 Online At the invitation of the Music Technology Group at Universitat Pompeu Fabra, Carlos Guedes delivered an online seminar on April 10, 2026, titled “Discovering Unrecorded Music: Challenges [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/04/12/carlos-guedes-presents-masc-research-at-universitat-pompeu-fabras-music-technology-group/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-04-12T09:42:09+00:00"
       },
       {
         "id": "0d28bf3c207d",
@@ -3039,44 +3167,12 @@
         "published": "2026-03-31T07:00:00+00:00"
       },
       {
-        "id": "bc89968aba80",
-        "title": "MaSC Paper Accepted to DLfM 2026",
-        "summary": "March, 2026 Thessaloniki, Greece We are pleased to share that a MaSC research paper has been accepted to the 2026 edition of Digital Libraries for Musicology (DLfM). Titled From Field [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/03/25/masc-paper-accepted-to-dlfm-2026/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-03-25T10:08:55+00:00"
-      },
-      {
-        "id": "79a430aa4c3d",
-        "title": "Intercultural Music Symposium in Nairobi",
-        "summary": "March, 2026 Nairobi, Kenya In March 2026, Andrew Eisenberg participated in the Muziki Pamoja Symposium in Nairobi, an event that brought Irish and Kenyan traditional musicians into dialogue. Hosted by [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/03/18/intercultural-music-symposium-in-nairobi/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-03-18T09:59:37+00:00"
-      },
-      {
-        "id": "97fa5ed0c94a",
-        "title": "MaSC Expands Team with New Student Assistants",
-        "summary": "March, 2026 Abu Dhabi The Music and Sound Cultures (MaSC) Research Group is pleased to welcome new student assistants to the team. Selected through a competitive process, the students will [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/03/10/masc-expands-team-with-new-student-assistants/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-03-10T10:02:01+00:00"
-      },
-      {
         "id": "250178c94bdc",
         "title": "Summary of changes for February 2026",
         "summary": "Hey everyone!This is the list of all the changes we've done to our projects during the month of February.\n\n\n\n  Wiki, updated knots with a figure-eight follow-through knot, also, Pino has a new headsail!\n  Pavol, created a volume control tool.\n  Adelie, made it so images are drawn faster.\n  Turye, ad...",
         "url": "https://100r.ca/site/log.html#feb2026",
         "source": "Hundred Rabbits",
         "published": "2026-03-01T07:00:00+00:00"
-      },
-      {
-        "id": "6837438b1691",
-        "title": "Carlos Guedes Releases New Album: Time Poetries",
-        "summary": "February, 2026 Online and on physical media We are delighted to share that Carlos Guedes has released his latest album, Time Poetries. Released in early 2026, the album brings together [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/26/carlos-guedes-releases-new-album-time-poetries/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-02-26T10:11:32+00:00"
       },
       {
         "id": "852680d1f6d7",
@@ -3093,22 +3189,6 @@
         "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
         "source": "Stephen Wolfram Writings",
         "published": "2026-02-23T21:52:54+00:00"
-      },
-      {
-        "id": "2271ab213414",
-        "title": "Thank You for Joining the MIR Community-Building Workshop",
-        "summary": "Last week, the MIR Community-Building Workshop on Music AI at NYU Abu Dhabi brought together students, scholars, and industry professionals for two days of research presentations, hands-on sessions, and forward-looking [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/20/thank-you-for-joining-the-mir-community-building-workshop/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-02-20T08:18:36+00:00"
-      },
-      {
-        "id": "d00aec536ee5",
-        "title": "Performance in Dialogue: Exploring Emirati and Polynesian Traditions through Al Harbiya and Haka",
-        "summary": "Last month, Andrew Eisenberg moderated Performance in Dialogue: Harbiya and Haka, an intercultural encounter connecting Emirati and Polynesian performance traditions. Bringing Al Harbiya together with Haka, the session combined performance [&#8230;]",
-        "url": "https://wp.nyu.edu/music_and_sound_cultures/2026/02/06/performance-in-dialogue-exploring-emirati-and-polynesian-traditions-through-al-harbiya-and-haka/",
-        "source": "Music and Sound Cultures",
-        "published": "2026-02-06T12:45:23+00:00"
       },
       {
         "id": "b74af14f3341",
@@ -3247,6 +3327,22 @@
         "published": "2025-12-08T02:25:16+00:00"
       },
       {
+        "id": "de8670c10d80",
+        "title": "fifteen years of from scratch",
+        "summary": "15 years of From Scratch, streaming live coding performances from around the world, December 6th to 8th 2025. View line &#8230; More",
+        "url": "https://blog.toplap.org/2025/12/05/fifteen-years-of-from-scratch/",
+        "source": "TOPLAP",
+        "published": "2025-12-05T15:27:48+00:00"
+      },
+      {
+        "id": "6076c51c1ff6",
+        "title": "Compassion through algorithms vol III",
+        "summary": "Just released, &#8220;Compassion through algorithms volume III&#8221; &#8211; a huge 55 track album full of really great music and noise &#8230; More",
+        "url": "https://blog.toplap.org/2025/12/05/compassion-through-algorithms-vol-iii/",
+        "source": "TOPLAP",
+        "published": "2025-12-05T10:00:16+00:00"
+      },
+      {
         "id": "6868930c6b41",
         "title": "Instant Supercompute: Launching Wolfram Compute Services",
         "summary": "To immediately enable Wolfram Compute Services in Version 14.3 Wolfram Desktop systems, run RemoteBatchSubmissionEnvironment[\"WolframBatch\"]. (The functionality is automatically available in the Wolfram Cloud.) Scaling Up Your Computations Let’s say you’ve done a computation in Wolfram Language. And...",
@@ -3269,6 +3365,14 @@
         "url": "https://www.miltonline.com/2025/11/22/just-ask-the-axis-jimi-hendrix-unpicked/",
         "source": "Miltonline",
         "published": "2025-11-22T22:08:47+00:00"
+      },
+      {
+        "id": "21ea0a56219e",
+        "title": "Live code stream for Palestine",
+        "summary": "In ~ 1 hour for now, a 24 hour stream of 96 performance slots will begin, to make music together &#8230; More",
+        "url": "https://blog.toplap.org/2025/11/21/live-code-stream-for-palestine/",
+        "source": "TOPLAP",
+        "published": "2025-11-21T23:09:18+00:00"
       },
       {
         "id": "e51bc19d39ac",
@@ -3335,12 +3439,36 @@
         "published": "2025-09-24T10:39:20+00:00"
       },
       {
+        "id": "70229ca11e7c",
+        "title": "Alpaca Festival and Conference 2025",
+        "summary": "We’re happy to be hosting Alpaca Festival in Sheffield from 12-14th September 2025, exploring a wide variety of algorithmic patterns &#8230; More",
+        "url": "https://blog.toplap.org/2025/09/06/alpaca-festival-and-conference-2025/",
+        "source": "TOPLAP",
+        "published": "2025-09-06T10:27:23+00:00"
+      },
+      {
+        "id": "cbefa7596820",
+        "title": "Click Nilson’s Collected Rewritings (1000th edition)",
+        "summary": "The much expanded 1000th edition of Click Nilson&#8217;s book Collected Rewritings has just been released (free download). As one of &#8230; More",
+        "url": "https://blog.toplap.org/2025/08/12/click-nilsons-collected-rewritings-1000th-edition/",
+        "source": "TOPLAP",
+        "published": "2025-08-12T11:20:03+00:00"
+      },
+      {
         "id": "989d36798072",
         "title": "Sensing the Forest: Two Ongoing Datasets from DIY Streamers at Alice Holt Forest, UK",
         "summary": "[Guest blog post by Anna Xambó on behalf of the Sensing the Forest Team] Sensing the Forest (StF) is a project funded by the UKRI Arts and Humanities Research Council. Our goal is to raise awareness among forest visitors, artists, &#8230; Continue reading &#8594;",
         "url": "https://blog.freesound.org/?p=2248",
         "source": "The Freesound Blog",
         "published": "2025-07-02T12:36:09+00:00"
+      },
+      {
+        "id": "d041f8db200f",
+        "title": "Introducing:  Syntə",
+        "summary": "I was recently able to finish the process of porting (ability to run on different operating systems) so we&#8217;re now &#8230; More",
+        "url": "https://blog.toplap.org/2025/06/08/introducing-synt%c9%99/",
+        "source": "TOPLAP",
+        "published": "2025-06-08T21:28:27+00:00"
       },
       {
         "id": "891c2c02906c",
@@ -3359,6 +3487,14 @@
         "published": "2025-03-11T07:58:49+00:00"
       },
       {
+        "id": "499cb5af49b3",
+        "title": "Call for Baltic Live Coders",
+        "summary": "The annual festival Sound Days in Liepāja (Latvia) is calling out to all Baltic live coders, and anyone who is &#8230; More",
+        "url": "https://blog.toplap.org/2025/01/21/call-for-baltic-live-coders/",
+        "source": "TOPLAP",
+        "published": "2025-01-21T11:57:12+00:00"
+      },
+      {
         "id": "770b64eeefe1",
         "title": "Magical Mystery Tour",
         "summary": "A musical theoretical tour of the Beatles and their stylistic, lyrical, rhythmic, harmonic and technological invention.",
@@ -3367,12 +3503,36 @@
         "published": "2025-01-18T17:44:27+00:00"
       },
       {
+        "id": "b24f6cd265d2",
+        "title": "Solstice stream 2024 – Call for live coders!",
+        "summary": "We&#8217;re looking for 100+ live coders to each contribute a live 15 minute performance to the online TOPLAP solstice stream, &#8230; More",
+        "url": "https://blog.toplap.org/2024/12/09/solstice-stream-2024/",
+        "source": "TOPLAP",
+        "published": "2024-12-09T16:15:32+00:00"
+      },
+      {
+        "id": "845159e7f4d4",
+        "title": "Call for hosts: International Conference on Live Coding 2026 – deadline extended",
+        "summary": "Live coding refers to the creation and modification of algorithms with a creative purpose in real time often in the &#8230; More",
+        "url": "https://blog.toplap.org/2024/12/04/call-for-hosts-international-conference-on-live-coding-2026/",
+        "source": "TOPLAP",
+        "published": "2024-12-04T12:05:45+00:00"
+      },
+      {
         "id": "220d99bc854f",
         "title": "Bach’s Invention",
         "summary": "",
         "url": "https://www.miltonline.com/2024/11/19/bachs-invention/",
         "source": "Miltonline",
         "published": "2024-11-19T21:02:55+00:00"
+      },
+      {
+        "id": "e32d30bd4c02",
+        "title": "Creating a Livecoding Workshop for Kids",
+        "summary": "Introduction In September 2024, I embarked on my first major livecoding workshop project in a couple of years, in conjunction &#8230; More",
+        "url": "https://blog.toplap.org/2024/11/12/creating-a-livecoding-workshop-for-kids/",
+        "source": "TOPLAP",
+        "published": "2024-11-12T20:00:24+00:00"
       },
       {
         "id": "90a7137dc7ab",
