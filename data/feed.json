@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-09-02T04:17:01.541349+00:00",
+  "updated_at": "2026-09-02T09:26:05.299215+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "3f8e0de41e86",
+        "title": "漁業署推薦燒烤生鰻片  台日韓多種風味任意選",
+        "summary": "（中央社記者汪淑芬台北2日電）農業部漁業署積極拓展鰻魚國內市場，漁業署長王茂城今天在記者會大力推薦燒烤生鰻片，並介紹可以有台式、日式、韓式等多種調味風味可選擇。",
+        "url": "https://www.cna.com.tw/news/ahel/202609020229.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-02T08:16:44+00:00"
+      },
+      {
+        "id": "528ab8ed9bfd",
+        "title": "新北安泰淞鶴診所C肝群聚案　匡列召回1118人抽血檢驗",
+        "summary": "（中央社記者沈佩瑤台北報導）新北安泰淞鶴診所C肝群聚案，疾管署匡列自去年7月1日起曾至該診所接受針劑注射者名冊1118人，可至新北市各衛生所免費抽血檢驗；疾管署長羅一鈞推估，陽性率約5%至10%。",
+        "url": "https://www.cna.com.tw/news/ahel/202609020223.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-02T08:08:31+00:00"
+      },
+      {
+        "id": "6c4306d26a14",
+        "title": "中正大學開發「虛擬民雄」　智慧防災強化決策效率",
+        "summary": "（中央社記者蔡智明嘉義縣2日電）中正大學工學院近期以嘉義民雄為實證場域，在電腦中建構「虛擬民雄」，運用AI及無人機技術打造出智慧防災系統，並與歐美等國大學展開合作，用以強化防災決策效率。",
+        "url": "https://www.cna.com.tw/news/ahel/202609020220.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-02T08:05:25+00:00"
+      },
+      {
+        "id": "aafa96afca3b",
+        "title": "義峰胡麻油苯駢芘不合格　食藥署：問題原料是否來自福壽待檢驗",
+        "summary": "（中央社記者陳婕翎台北2日電）新北市出現苯駢芘胡麻油，食藥署今天說明，產品是2種油品混合製成，分別為長輝大豆沙拉油與福壽芝麻油，業者研判問題原料可能與福壽芝麻油有關，仍待檢驗結果進一步釐清。",
+        "url": "https://www.cna.com.tw/news/ahel/202609020212.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-02T07:53:07+00:00"
+      },
+      {
+        "id": "26963ac80373",
+        "title": "中小學開學防藥物濫用　台家盟籲關注邊緣個案",
+        "summary": "（中央社記者陳至中台北2日電）暑假是學生接觸毒品的高風險期，中小學近期開學，隨即展開藥物濫用宣導。台灣家長教育聯盟理事長王醒之表示，最需留意的是未達到強制通報標準的邊緣個案，應提早介入輔導。",
+        "url": "https://www.cna.com.tw/news/ahel/202609020180.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-02T06:51:59+00:00"
+      },
+      {
+        "id": "9ef7569105d4",
+        "title": "農職保放寬規定　健保第3類人保勞職保免退保",
+        "summary": "（中央社記者吳欣紜台北2日電）農民農暇時可能有兼職需求，勞動部勞保局今天說，農民職業災害保險放寬，若是以「健保第3類被保險人」身分參加農職保，有其他工作並參加勞職保，農職保部分不須退保。",
+        "url": "https://www.cna.com.tw/news/ahel/202609020178.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-02T06:47:55+00:00"
+      },
+      {
+        "id": "be79625dca55",
+        "title": "中秋水產品價格起伏  文蛤秋刀魚漲、台灣鯛跌",
+        "summary": "（中央社記者汪淑芬台北2日電）農業部漁業署署長王茂城今天接受媒體聯訪，他說今年中秋節部分水產品價格有起伏，其中文蛤、秋刀魚上漲，台灣鯛則下跌，但整體批發價格變不大。",
+        "url": "https://www.cna.com.tw/news/ahel/202609020174.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-02T06:41:46+00:00"
+      },
+      {
+        "id": "0b3fc9596cae",
+        "title": "區間車座位藏細針旅客遭扎傷　台鐵加強巡檢清潔",
+        "summary": "（中央社記者黃巧雯台北2日電）有民眾昨晚搭乘台鐵區間車，遭座位上細針扎傷。台鐵今天證實接獲旅客反映，已保留相關證物並引導就醫；警方則申請調閱車廂監視器，台鐵也將加強車廂巡檢與清潔。",
+        "url": "https://www.cna.com.tw/news/ahel/202609020172.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-02T06:40:42+00:00"
+      },
+      {
+        "id": "8192e2378de8",
+        "title": "新北安泰淞鶴診所C肝群聚11人確診　勒令停業重罰30萬",
+        "summary": "（中央社記者沈佩瑤台北2日電）新北安泰淞鶴診所C肝群聚感染事件，釀11人確診。疾管署長羅一鈞說明，啟動回溯擴大疫調，去年7月起曾至該診所接受注射行為者，安排檢驗追蹤治療；已勒令停業裁罰30萬元。",
+        "url": "https://www.cna.com.tw/news/ahel/202609020168.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-02T06:34:34+00:00"
+      },
+      {
+        "id": "e0afe4ebb4d9",
+        "title": "北市稽查室內空品　馬偕、台大醫院不合格促限期改善",
+        "summary": "（中央社記者葉蓁芸台北2日電）北市環保局今天公布醫療機構及政府機關辦公場所空氣品質專案稽查結果，其中馬偕醫院二氧化碳濃度、台大醫院細菌濃度超標，要求限期改善，否則處新台幣5萬元至25萬元罰鍰。",
+        "url": "https://www.cna.com.tw/news/ahel/202609020163.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-02T06:24:23+00:00"
+      },
+      {
+        "id": "aae70b7c6fd2",
+        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Có",
+        "summary": "5.UNG THƯ, SỰ THẬT, HƯ CẤU.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-co_20260902_0358",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-02T03:59:47+00:00"
+      },
       {
         "id": "dc2095677441",
         "title": "Two Lanes Two Hearts",
@@ -9,6 +97,22 @@
         "url": "https://archive.org/details/two-lanes-two-hearts-lilbud",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-09-02T03:22:40+00:00"
+      },
+      {
+        "id": "b9022753e26f",
+        "title": "Xin Chào Quý Vị Và Các Bạn Đang Lắng Nghe",
+        "summary": "3.MINH TRIẾT ĂN SỬ DỤNG CỦA NGƯỜI PHƯƠNG ĐÔNG.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/xin-chao-quy-vi-va-cac-ban-dang-lang-nghe",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-02T03:12:22+00:00"
+      },
+      {
+        "id": "2432727e8a7b",
+        "title": "Chào Mừng Các Bạn Đã Đến Với Học Qua Sách",
+        "summary": "bo sach nhan to enzym.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-mung-cac-ban-da-den-voi-hoc-qua-sach_20260902",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-02T02:51:05+00:00"
       },
       {
         "id": "6cb9db52a531",
@@ -19,22 +123,6 @@
         "published": "2026-09-02T02:50:36+00:00"
       },
       {
-        "id": "879c7d5b29f4",
-        "title": "家長當反毒神隊友　教育部：避免責罵逼問貼標籤",
-        "summary": "（中央社記者陳至中台北2日電）暑假期間是學生接觸毒品的高危險期。中小學近日開學，教育部今天展開反毒分享會，建議家長與孩子談反毒時，應避免責罵、逼問、貼標籤，以傾聽、理解和陪伴擔當「神隊友」。",
-        "url": "https://www.cna.com.tw/news/ahel/202609020047.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-02T02:37:14+00:00"
-      },
-      {
-        "id": "f8afc4c7e2af",
-        "title": "國台交、北市國奏經典　陪學子迎戰全國學生音樂比賽",
-        "summary": "（中央社記者趙靜瑜台北2日電）以專業藝術資源投入音樂教育，國立台灣交響樂團與台北市立國樂團將各自推出以115年度全國學生音樂比賽指定曲為主的音樂會，學子可從專業樂團演奏感受樂曲精華與詮釋風格。",
-        "url": "https://www.cna.com.tw/news/acul/202609020046.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-02T02:32:11+00:00"
-      },
-      {
         "id": "79a1227d5ae1",
         "title": "The Boss Comes Home",
         "summary": "Bruce Springsteen & The E Street Band Title: The Boss Comes Home 'Label': Lilbud Format: 4 cd Created: May-June 2022 Sources: FM, Soundboard Total Time: 4 hours 6 minutes 6 seconds September 19th-21st, 1978 Lineage: Downloads (GL, JL) -> dbPowerAmp (downsample all tracks to 16-44) -> Audacity -> Mix...",
@@ -43,12 +131,20 @@
         "published": "2026-09-02T02:32:08+00:00"
       },
       {
-        "id": "1e92b0345c69",
-        "title": "中秋教師節連假　高公局公布國道好走時段避開車潮",
-        "summary": "（中央社記者黃巧雯台北2日電）中秋及教師節連假共4天，交通部高速公路局今天呼籲民眾利用好走時段避開車潮，9月25、26日西部國道南向，建議清晨6時前或中午12時後出發，國5南向在清晨5時前或下午5時後上路。",
-        "url": "https://www.cna.com.tw/news/ahel/202609020044.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-02T02:27:07+00:00"
+        "id": "02aa37d99197",
+        "title": "Xin Chào Quý Thính Giả Của Học Qua Sách Chấm",
+        "summary": "su thinh vương cua các quốc gia .This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/xin-chao-quy-thinh-gia-cua-hoc-qua-sach-cham_202609",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-02T02:06:47+00:00"
+      },
+      {
+        "id": "5bc41ebab343",
+        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Có",
+        "summary": "hệ bạch huyết .This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-co_20260902",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-02T01:46:17+00:00"
       },
       {
         "id": "2cc2e5bb14f6",
@@ -83,108 +179,12 @@
         "published": "2026-09-02T01:21:36+00:00"
       },
       {
-        "id": "7fa0328a80dc",
-        "title": "Your Gift Is Under The Tree",
-        "summary": "Your Gift Is Under The Tree — Carter Conlon (SermonIndex.net).This item belongs to: movies/sermonindex_video.This item has files of the following types: Archive BitTorrent, MPEG4, Metadata",
-        "url": "https://archive.org/details/SERMONINDEX_r9chuCise4g",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-02T01:21:03+00:00"
-      },
-      {
-        "id": "17c100df5a06",
-        "title": "You Will Find Freedom in the Old Testament",
-        "summary": "You Will Find Freedom in the Old Testament — Steve Gallagher (SermonIndex.net).This item belongs to: movies/sermonindex_video.This item has files of the following types: Archive BitTorrent, MPEG4, Metadata",
-        "url": "https://archive.org/details/SERMONINDEX_g5IwnbvkI8Y",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-02T01:19:35+00:00"
-      },
-      {
-        "id": "f4d59baec881",
-        "title": "You Are the Last Day Plan of God",
-        "summary": "You Are the Last Day Plan of God — Carter Conlon (SermonIndex.net).This item belongs to: movies/sermonindex_video.This item has files of the following types: Archive BitTorrent, MPEG4, Metadata",
-        "url": "https://archive.org/details/SERMONINDEX_uWUqnCKdm18",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-02T01:18:44+00:00"
-      },
-      {
-        "id": "d3da5e91288e",
-        "title": "You Make Me Sick!",
-        "summary": "You Make Me Sick! — Mark Greening (SermonIndex.net).This item belongs to: movies/sermonindex_video.This item has files of the following types: Archive BitTorrent, MPEG4, Metadata",
-        "url": "https://archive.org/details/SERMONINDEX_3hPlsDwQD5Y",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-02T01:18:29+00:00"
-      },
-      {
-        "id": "e7798133d367",
-        "title": "You Have Only One Life - Make the Most of It for God",
-        "summary": "You Have Only One Life - Make the Most of It for God — Santosh Poonen (SermonIndex.net).This item belongs to: movies/sermonindex_video.This item has files of the following types: Archive BitTorrent, MPEG4, Metadata",
-        "url": "https://archive.org/details/SERMONINDEX_6RJzjy9p-ak",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-02T01:17:56+00:00"
-      },
-      {
         "id": "1fb94704108e",
         "title": "中華民國博物館學會—行銷與公關委員會：9/17【《從走進地方，到走進人心：在地溝通 × 社群經營 × 行銷實踐》線上講座】（無需報名，10:15直接進場）",
         "summary": "博物館走進地方之後，如何進一步「走進人心」？ 博物館與地方的關係，需要長時間的溝通、理解與關係經營。面對不同的 [&#8230;]",
         "url": "https://www.tmaroc.org.tw/1150902-2/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-09-02T01:00:38+00:00"
-      },
-      {
-        "id": "509cf0f81c24",
-        "title": "高屏台東防局部大雨　吳德榮：5日起天氣趨穩",
-        "summary": "（中央社記者張雄風台北2日電）氣象署今天對高屏及台東發布大雨特報。氣象專家吳德榮表示，4日前西南風偏強，各地易有強對流發展，南部、東南部較顯著；5日至8日水氣南移，天氣漸趨穩定。",
-        "url": "https://www.cna.com.tw/news/ahel/202609020020.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-02T00:26:14+00:00"
-      },
-      {
-        "id": "3d1c4f03aeee",
-        "title": "高鐵台北道岔訊號異常　部分列車延誤、晚間9時36分恢復",
-        "summary": "（中央社記者黃巧雯台北1日電）今晚受台北道岔訊號異常影響，部分列車延誤，台灣高鐵致歉並表示，經派員維修，已於晚間9時36分恢復列車運轉。",
-        "url": "https://www.cna.com.tw/news/ahel/202609010377.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-01T14:32:14+00:00"
-      },
-      {
-        "id": "35d44b5f0152",
-        "title": "今彩539第115212期頭獎槓龜",
-        "summary": "（中央社台北1日電）今彩539第115212期開獎，中獎號碼22、30、02、04、38；派彩結果，頭獎槓龜。",
-        "url": "https://www.cna.com.tw/news/ahel/202609010373.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-01T14:08:05+00:00"
-      },
-      {
-        "id": "ba8ef9f69e67",
-        "title": "大樂透第115084期頭獎槓龜",
-        "summary": "（中央社台北1日電）大樂透第115084期今晚開獎。中獎號碼為16、19、26、10、29、48，特別號30；派彩結果，頭獎槓龜。",
-        "url": "https://www.cna.com.tw/news/ahel/202609010370.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-01T14:04:59+00:00"
-      },
-      {
-        "id": "302c895f83aa",
-        "title": "大樂透第115084期開獎",
-        "summary": "（中央社台北1日電）大樂透第115084期今晚開獎。中獎號碼為16、19、26、10、29、48，特別號30。",
-        "url": "https://www.cna.com.tw/news/ahel/202609010356.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-01T12:53:24+00:00"
-      },
-      {
-        "id": "7d8e11946aa7",
-        "title": "今彩539第115212期開獎",
-        "summary": "（中央社台北1日電）今彩539第115212期開獎，中獎號碼22、30、02、04、38。3星彩中獎號碼013，4星彩中獎號碼2894。",
-        "url": "https://www.cna.com.tw/news/ahel/202609010352.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-01T12:47:15+00:00"
-      },
-      {
-        "id": "103becdb1bad",
-        "title": "全球唯一劇場總部移設台灣  文化部攜手OISTAT展現軟實力",
-        "summary": "（中央社記者趙靜瑜台北1日電）在文化部支持之下，今年是OISTAT國際劇場組織將秘書處移設台灣20年，1日舉辦歡慶典禮。OISTAT執行長魏琬容表示，如果說半導體產業是造山，文化外交就是造流，展現軟實力。",
-        "url": "https://www.cna.com.tw/news/acul/202609010351.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-01T12:42:13+00:00"
       },
       {
         "id": "9cac23e84922",
@@ -523,86 +523,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -805,6 +725,54 @@
     ],
     "破(day)": [
       {
+        "id": "9b806684e028",
+        "title": "Liminal State: August 2026 overview",
+        "summary": "Overview of the Liminal State radioshows in August 2026 - with links to the on-demand versions. \n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/ls-aug26/",
+        "source": "Ambientblog",
+        "published": "2026-09-02T09:04:00+00:00"
+      },
+      {
+        "id": "28c8921fb8f0",
+        "title": "全國古蹟日　高雄走讀、展覽、實境任務一次體驗",
+        "summary": "（中央社記者林巧璉高雄2日電）高雄市文化局響應2026全國古蹟日，9月推出歷史走讀、特展、集章、實境任務等活動，邀民眾走進西子灣隧道、原愛國婦人會館、打狗英國領事館等，認識古蹟修復活化成果。",
+        "url": "https://www.cna.com.tw/news/acul/202609020187.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-09-02T07:10:14+00:00"
+      },
+      {
+        "id": "9ce33c3a5e29",
+        "title": "Meta 重拳打擊偷拍，數千副 AI 智慧眼鏡因「破壞指示燈」遭強制禁用相機",
+        "summary": "Meta 近日針對旗下 AI 智慧眼鏡祭出更嚴格的防護措施，已強制停用數千副遭刻意竄改裝置的攝影功能。由於部分 [&#8230;]",
+        "url": "https://technews.tw/2026/09/02/meta-crackdown-covert-filming-ai-smart-glasses/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-09-02T06:40:43+00:00"
+      },
+      {
+        "id": "6edca23d44f0",
+        "title": "文化部公布公共藝術獎名單  卓越獎從缺",
+        "summary": "（中央社記者王寶兒台北2日電）文化部今天公布第10屆公共藝術獎獲獎名單，歷經評審多次討論，卓越獎從缺，評審委員表示，「從缺，才是這座島嶼走向真正卓越的開始」；其他10獎有32案及優良承辦獲獎。",
+        "url": "https://www.cna.com.tw/news/acul/202609020145.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-09-02T05:45:44+00:00"
+      },
+      {
+        "id": "b9b2049f16cb",
+        "title": "全國古蹟日19日登場　文資園區推文資行動博覽會",
+        "summary": "（中央社記者邱祖胤台北2日電）全國古蹟日將於19日登場，今年將以「我們都活在未來的古蹟裡」為主題，串聯全台各地文化資產場域共同響應，文化部文化資產園區也將推出一系列活動。",
+        "url": "https://www.cna.com.tw/news/acul/202609020111.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-09-02T04:39:30+00:00"
+      },
+      {
+        "id": "708b479ed2a1",
+        "title": "台南慈濟宮葉王交趾陶「七賢過關」　9/5東京展出",
+        "summary": "（中央社記者張榮祥台南2日電）台南市學甲慈濟宮典藏清代交趾陶名匠葉王作品「七賢過關」，9月5日至12月13日將在日本東京都現代美術館「共時的星叢：跨越邊界的藝術之眼」展出，為台日文化交流開啟新連結。",
+        "url": "https://www.cna.com.tw/news/acul/202609020088.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-09-02T03:41:40+00:00"
+      },
+      {
         "id": "f8afc4c7e2af",
         "title": "國台交、北市國奏經典　陪學子迎戰全國學生音樂比賽",
         "summary": "（中央社記者趙靜瑜台北2日電）以專業藝術資源投入音樂教育，國立台灣交響樂團與台北市立國樂團將各自推出以115年度全國學生音樂比賽指定曲為主的音樂會，學子可從專業樂團演奏感受樂曲精華與詮釋風格。",
@@ -827,6 +795,14 @@
         "url": "https://technews.tw/2026/09/02/meta-is-switching-to-slack/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-09-02T01:30:48+00:00"
+      },
+      {
+        "id": "55bcf0b9621c",
+        "title": "「你／我能少排點碳嗎？」臺科大王嘉瑜用一場遊戲，帶學生坐上氣候談判桌",
+        "summary": "為什麼要減碳？或許對很多人來說很遙遠，但臺灣科技大學數位學習與教育研究所教授王嘉瑜將其化身為遊戲，幫你馬上有感 [&#8230;]\nThe post 「你／我能少排點碳嗎？」臺科大王嘉瑜用一場遊戲，帶學生坐上氣候談判桌 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/chia-yu-wang_a/",
+        "source": "人文．島嶼",
+        "published": "2026-09-02T00:30:51+00:00"
       },
       {
         "id": "e79d8b5ea052",
@@ -941,6 +917,22 @@
         "published": "2026-09-01T16:00:00+00:00"
       },
       {
+        "id": "8769d8b6947c",
+        "title": "她從未後悔公開自身煉獄──被丈夫下藥性侵，吉賽兒：該羞愧的人不是我",
+        "summary": "多明尼克被判處最高刑期20年。我既無喜悅，亦不悲傷。塵埃已落定。但我還有很長的路要走，才能理解這場惡夢；又或者，我要學會接受它終究無解⋯⋯我從未後悔打開法庭的大門，從今而後，該輪到整個社會去思考，並做出改變了。",
+        "url": "https://www.twreporter.org/a/bookreview-a-hymn-to-life-shame-has-to-change-sides",
+        "source": "報導者",
+        "published": "2026-09-01T16:00:00+00:00"
+      },
+      {
+        "id": "3582e0451eee",
+        "title": "G20财长峰会未能达成共识",
+        "summary": "据美欧国家官员称，中国反对美国和其他国家在峰会公报中同意的关于消除“非市场政策”以遏制全球贸易失衡的措辞。",
+        "url": "https://www.ftchinese.com/story/001110776",
+        "source": "FTChinese RSS - News",
+        "published": "2026-09-01T16:00:00+00:00"
+      },
+      {
         "id": "ebc6456689d1",
         "title": "特朗普召集炼油业高管开会",
         "summary": "美国总统对伊朗发动的战争引发汽油和柴油价格上涨，在中期选举临近之际推高通胀。美国选民认为在他上任后自己的经济状况变差。",
@@ -1027,38 +1019,6 @@
         "url": "https://www.cna.com.tw/news/acul/202609010288.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-09-01T10:05:57+00:00"
-      },
-      {
-        "id": "ec73e389a66a",
-        "title": "Taiwan Day前進波蘭　台北共樂軒近百年再度海外演出",
-        "summary": "（中央社記者鄭淨伃華沙1日專電）文化總會將於11日、12日在波蘭舉辦「Taiwan Day」文化交流，邀請何曉玫Meimage舞團、雷昇傳藝劇團及台北共樂軒，將台灣陣頭文化原汁原味帶到波蘭。共樂軒是繼日治時期東北產業博覽會後，睽違近百年再次跨海演出。",
-        "url": "https://www.cna.com.tw/news/acul/202609010273.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-09-01T09:44:25+00:00"
-      },
-      {
-        "id": "10bcb0c72300",
-        "title": "We TAIWAN文化世博系列展演　時隔一年返台登場",
-        "summary": "（中央社記者王寶兒台北1日電）文化部去年8月在日本大阪推出We TAIWAN文化世博展演及展覽活動，籌備團隊今天齊聚宣布系列活動將返台舉行，除展演9月起在文化空總登場，展覽在10月也會接力於南國美展出。",
-        "url": "https://www.cna.com.tw/news/acul/202609010240.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-09-01T09:00:13+00:00"
-      },
-      {
-        "id": "4838a10facef",
-        "title": "美中都想收藏　日本教授珍藏45文物選擇捐台灣",
-        "summary": "（中央社記者盧太城台東縣1日電）日本紙質文化資產保存與搶救專家坂本勇，今日將畢生收藏的45件跨國珍貴文物捐給台東國立史前文化博物館。他說，美國、中國都表達收藏意願，但他「心裡最渴望的還是台灣」。",
-        "url": "https://www.cna.com.tw/news/acul/202609010231.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-09-01T08:40:54+00:00"
-      },
-      {
-        "id": "197ede75f9d4",
-        "title": "衛武營推全自製「遊唱詩人」　百人團隊打造歌劇史詩",
-        "summary": "（中央社記者林巧璉高雄1日電）衛武營國家藝術文化中心自2015年投入歌劇製作，深耕11年後，今年推出全自製年度旗艦歌劇威爾第「遊唱詩人」，將於3日至6日登場。此次集結逾百名台前幕後團隊，展現製作能量。",
-        "url": "https://www.cna.com.tw/news/acul/202609010229.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-09-01T08:38:50+00:00"
       },
       {
         "id": "b0b7453e7879",
@@ -1677,14 +1637,6 @@
         "published": "2026-08-26T16:00:00+00:00"
       },
       {
-        "id": "29807439cadf",
-        "title": "三星被判向斯沃琪赔偿1160万美元",
-        "summary": "法官认定，三星在其智能手表app store上架奢侈腕表的数字复刻版，对旗下拥有多个瑞士名表品牌的斯沃琪造成“非常严重的损害”。",
-        "url": "https://www.ftchinese.com/story/001110726",
-        "source": "FTChinese RSS - News",
-        "published": "2026-08-26T16:00:00+00:00"
-      },
-      {
         "id": "0357adbd4a2b",
         "title": "Dennis DeSantis on Eastman’s new degree; electronic music as instrument",
         "summary": "Dennis DeSantis is known by a wide swath of the music production community as a face of education at Ableton, including the Making Music book. His new role is at the Eastman School of Music, where he's helming their new BM in Music Creation and Technology. Let's talk to Dennis about that program, an...",
@@ -1723,14 +1675,6 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260925",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-08-26T08:28:00+00:00"
-      },
-      {
-        "id": "1017f1b983db",
-        "title": "Meta 陷青少年成癮訴訟，彭博：審理期間與各州談和解",
-        "summary": "彭博（Bloomberg News）25 日引述知情人士報導，Meta Platforms 已就一宗訴訟與美國 [&#8230;]",
-        "url": "https://technews.tw/2026/08/26/meta-teen-addiction-lawsuit-bloomberg-settlement-talks-states-trial/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-08-26T07:50:21+00:00"
       },
       {
         "id": "09f80915262a",
@@ -1795,14 +1739,6 @@
         "url": "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
         "source": "Claude Blog",
         "published": "2026-08-25T00:00:00+00:00"
-      },
-      {
-        "id": "6c756ddc396b",
-        "title": "從山神、鹿群到雲豹：陳芯宜走了20年，抵達《雲在兩千米》",
-        "summary": "陳芯宜在VR作品裡呈現的一層又一層的世界，成了她探索夢境與現實、過去與現在、生與死之間模糊界線的最佳載體，並在《雲在兩千米》中更加發揚光大。從威尼斯到台北，許多觀眾毫無心理準備地被觸動而流淚，特別是看到那隻明明知道真實並不存在的台灣雲豹，觸動了心底某段傷逝之情⋯⋯",
-        "url": "https://www.twreporter.org/a/interview-the-clouds-are-two-thousand-meters-up-singing-chen",
-        "source": "報導者",
-        "published": "2026-08-24T16:00:00+00:00"
       },
       {
         "id": "009082245047",
@@ -2397,14 +2333,6 @@
         "published": "2026-07-18T13:28:00+00:00"
       },
       {
-        "id": "e3e0fd583ad1",
-        "title": "The [Law-Rah] Collective – Strange Attraction",
-        "summary": "“Expect the unexpected, and even then you’re way off ...” - power ambient by The [Law-Rah] Collective (Bauke van der Wal).\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/law-rah/",
-        "source": "Ambientblog",
-        "published": "2026-07-16T07:29:34+00:00"
-      },
-      {
         "id": "7b85edbd5e65",
         "title": "「養兒防老」錯了嗎？成大郭書琴從法律人類學看成年收養背後的家庭安排",
         "summary": "提及「收養」，多數人想到的是成年人收養未成年孩子。孩子因失去原有照顧，或基於生活與成長需要，透過收養進入新的家 [&#8230;]\nThe post 「養兒防老」錯了嗎？成大郭書琴從法律人類學看成年收養背後的家庭安排 appeared first on 人文．島嶼.",
@@ -2459,14 +2387,6 @@
         "url": "https://www.transglobalwmc.com/charts/twmc-july-2026-chart/",
         "source": "Transglobal World Music Chart",
         "published": "2026-06-30T21:57:46+00:00"
-      },
-      {
-        "id": "eb1633b0ba83",
-        "title": "侵權產品就該銷毀嗎？政大沈宗倫談「專利救濟」背後的公共代價",
-        "summary": "生活在科技時代，我們早已習慣口袋裡的手機、手腕上的智慧型手錶，替我們完成通訊、定位、健康監測與日常紀錄。這些產 [&#8230;]\nThe post 侵權產品就該銷毀嗎？政大沈宗倫談「專利救濟」背後的公共代價 appeared first on 人文．島嶼.",
-        "url": "https://humanityisland.nccu.edu.tw/chunglunshen_a/",
-        "source": "人文．島嶼",
-        "published": "2026-06-24T02:00:06+00:00"
       },
       {
         "id": "3cc06ddc61d1",
@@ -2572,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-02T04:16:59.836364+00:00"
+        "published": "2026-09-02T09:26:03.057604+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-02T04:16:59.836356+00:00"
+        "published": "2026-09-02T09:26:03.057596+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-02T04:16:59.836349+00:00"
+        "published": "2026-09-02T09:26:03.057588+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-02T04:16:59.836341+00:00"
+        "published": "2026-09-02T09:26:03.057579+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-02T04:16:59.836334+00:00"
+        "published": "2026-09-02T09:26:03.057571+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-02T04:16:59.836326+00:00"
+        "published": "2026-09-02T09:26:03.057563+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-02T04:16:59.836318+00:00"
+        "published": "2026-09-02T09:26:03.057555+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-02T04:16:59.836310+00:00"
+        "published": "2026-09-02T09:26:03.057547+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-02T04:16:59.836302+00:00"
+        "published": "2026-09-02T09:26:03.057539+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2644,7 +2564,15 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-02T04:16:59.836295+00:00"
+        "published": "2026-09-02T09:26:03.057532+00:00"
+      },
+      {
+        "id": "d897e6aca435",
+        "title": "新聞台不靠新聞賺錢？媒體尋租、管制俘虜與台灣民主危機",
+        "summary": "原文作者：王維菁(臺灣師範大學大眾傳播研究所教授兼國際與社會科學學院副院長)採訪撰稿者：楊家瑜圖片來源：https://www.pexels.com/zh-tw/photo/10464798/當我們每天看電視、滑手機，鋪天蓋地而來的政治惡鬥與格式驚人相似的即時新聞，是否曾讓你感到無奈？在台灣，許多閱聽人對於新聞表現早已從憤怒走向麻木，甚至形成了「各選立場、不求真實」的極端收視習慣，然而，在這失序現象背後，隱藏著一場深刻且危險的傳播產業系統性危機。為了釐清台灣媒體生態的深層病灶，國立師範大學大眾傳播研究所王維菁教授結合其傳播政治經濟學底蘊與管制機關的實務觀察，針砭數位巨頭壟斷、本土政商尋租、管制...",
+        "url": "https://medium.com/@ccs.popcom/%E6%96%B0%E8%81%9E%E5%8F%B0%E4%B8%8D%E9%9D%A0%E6%96%B0%E8%81%9E%E8%B3%BA%E9%8C%A2-%E5%AA%92%E9%AB%94%E5%B0%8B%E7%A7%9F-%E7%AE%A1%E5%88%B6%E4%BF%98%E8%99%9C%E8%88%87%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E5%8D%B1%E6%A9%9F-d13cb649a4a5?source=rss-17c1c85be06b------2",
+        "source": "Stories by 爆米花傳播學 on Medium",
+        "published": "2026-09-02T04:31:00+00:00"
       },
       {
         "id": "b8bf8c916bba",
@@ -3189,14 +3117,6 @@
         "url": "https://100r.ca/site/log.html#may2026",
         "source": "Hundred Rabbits",
         "published": "2026-05-31T07:00:00+00:00"
-      },
-      {
-        "id": "7b31c061db56",
-        "title": "濾鏡下的糖衣：習近平時代的「意識形態娛樂化」與我們的認知防線",
-        "summary": "口述：戴瑜慧(交通大學傳播與科技學系副教授) 撰稿：楊家瑜圖片來源：https://www.pexels.com/zh-tw/photo/4843087/在台灣，我們習慣將「政治歸政治，娛樂歸娛樂」掛在嘴邊，認為滑滑小紅書看美妝、追追大陸綜藝純粹是生活調劑 。然而，當你覺得「這不是政治」而放鬆警惕時，正是批判性最弱、意識形態最容易滲透的時刻 。如果你仔細梳理習近平上台後的政治軌跡，你會發現一個極其矛盾、卻又異常精密的現象：一方面，中國的娛樂市場在過去十年經歷了爆發式增長，中國戲劇經常出現在串流平台上的Top 10；短影音平台橫掃世界，引起各國政府注意；中國偶像也不斷的一批又一批的推出。但另一方...",
-        "url": "https://medium.com/@ccs.popcom/%E6%BF%BE%E9%8F%A1%E4%B8%8B%E7%9A%84%E7%B3%96%E8%A1%A3-%E7%BF%92%E8%BF%91%E5%B9%B3%E6%99%82%E4%BB%A3%E7%9A%84-%E6%84%8F%E8%AD%98%E5%BD%A2%E6%85%8B%E5%A8%9B%E6%A8%82%E5%8C%96-%E8%88%87%E6%88%91%E5%80%91%E7%9A%84%E8%AA%8D%E7%9F%A5%E9%98%B2%E7%B7%9A-847009d20850?source=rss-17c1c85be06b------2",
-        "source": "Stories by 爆米花傳播學 on Medium",
-        "published": "2026-05-29T05:51:16+00:00"
       },
       {
         "id": "0031b9d7e2de",
