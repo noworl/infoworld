@@ -1,30 +1,110 @@
 {
-  "updated_at": "2026-09-06T13:32:56.549325+00:00",
+  "updated_at": "2026-09-06T16:51:16.359011+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "493d7608c7de",
-        "title": "chuong-50-co-rat-nho-lang-tieu",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_34726_1788695567_uIs6",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-06T11:54:13+00:00"
+        "id": "1d9200c9fa7d",
+        "title": "台灣美食巡迴印尼　盼海外餐桌重現家鄉味",
+        "summary": "（中央社記者羅薇佳雅加達6日電）僑務委員會今年度在印尼舉辦的「台灣美食國際巡迴講座」走訪兩座城市，今天在首都雅加達落幕。主廚溫國智接受中央社採訪表示，希望透過容易取得的食材及較簡單的做法，讓海外台灣人也能在家重現家鄉味。",
+        "url": "https://www.cna.com.tw/news/ahel/202609060190.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-06T14:59:12+00:00"
       },
       {
-        "id": "dc208c4e85a4",
-        "title": "chuong-23-chuong-23",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_3144_1788694466_sscG",
+        "id": "b65770bcceb5",
+        "title": "Xin Chào Quý Thính Giả Của Học Qua Sách Chấm",
+        "summary": "ẤN QUANG ĐẠI SƯ VĂN SAO BẢO THÂN TIẾT DỤC PHÁP NGỮ.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/xin-chao-quy-thinh-gia-cua-hoc-qua-sach-cham_20260906",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-06T11:35:39+00:00"
+        "published": "2026-09-06T14:44:00+00:00"
       },
       {
-        "id": "b88950a7f22d",
-        "title": "chuong-2149-phia-duoi-nay-that-su-co-mot-con-rong-sao",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_31081_1788693630_Cg7Z",
+        "id": "d8b94c25d3bf",
+        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Hôm",
+        "summary": "ẤN ĐỘ VÀ PHẬT THÍCH CA.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-hom_202609",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-06T11:21:51+00:00"
+        "published": "2026-09-06T14:33:36+00:00"
+      },
+      {
+        "id": "988659b4b648",
+        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Có",
+        "summary": "ÂM PHÙ KINH.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-co_20260906_1422",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-06T14:23:45+00:00"
+      },
+      {
+        "id": "fe7a8ce79266",
+        "title": "Chào Thính Giả Của Học Qua Sách Chấm Com Có",
+        "summary": "ÁM ẢNH TỪ KIẾP TRƯỚC.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-thinh-gia-cua-hoc-qua-sach-cham-com-co_20260906",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-06T14:16:20+00:00"
+      },
+      {
+        "id": "cf9946cad51e",
+        "title": "Chào Mừng Quý Thính Giả Của Học Qua Sách Chấm",
+        "summary": "Á CHÂU HUYỀN BÍ.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-mung-quy-thinh-gia-cua-hoc-qua-sach-cham_202609",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-06T14:04:17+00:00"
+      },
+      {
+        "id": "01eb0a0909ea",
+        "title": "chuong-9",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_7555_1788703330_079T",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-06T14:03:31+00:00"
+      },
+      {
+        "id": "c03ed35b1b57",
+        "title": "Tuệ An Đá Phong Thủy Tự Nhiên Kết Nối Năng",
+        "summary": "10. Ngọc trai.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/tue-an-da-phong-thuy-tu-nhien-ket-noi-nang_202609",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-06T14:01:37+00:00"
+      },
+      {
+        "id": "ee1f15637814",
+        "title": "chuong-10078-nhu-the-rat-tot",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_11813_1788703105_MIrR",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-06T13:59:54+00:00"
+      },
+      {
+        "id": "905a6c0e9702",
+        "title": "chuong-1467",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_945_1788702888_GNkH",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-06T13:56:11+00:00"
+      },
+      {
+        "id": "3b3f2275e7e2",
+        "title": "Chào Mừng Bạn Đến Với Tuệ An Đá Phong Thủy",
+        "summary": "9. Opal.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3, WAVE",
+        "url": "https://archive.org/details/chao-mung-ban-den-voi-tue-an-da-phong-thuy_20260906_1353",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-06T13:54:22+00:00"
+      },
+      {
+        "id": "9cc2e120d3d9",
+        "title": "國1泰山路段邊坡土石滑落　高公局初判未影響行車安全",
+        "summary": "（中央社記者王鴻國新北6日電）國道1號北上38K今天下午發生邊坡土石滑落事件，經高公局派員查看，由於滑落範圍在圍籬外，初步研判未影響行車安全，目前仍派員監看中。",
+        "url": "https://www.cna.com.tw/news/ahel/202609060180.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-06T13:03:43+00:00"
+      },
+      {
+        "id": "a1575ae24218",
+        "title": "30青年走進綠島歷史現場  認識政治受難者救援",
+        "summary": "（中央社記者王寶兒台北6日電）國家人權博物館為提升社會大眾對「政治受難者救援」的認識，在白色恐怖綠島紀念園區舉辦青年人權體驗營，30名學員事先歷史補課，再走入歷史現場，看見人們當時如何突破資訊封鎖並尋求援助。",
+        "url": "https://www.cna.com.tw/news/acul/202609060174.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-06T12:30:30+00:00"
       },
       {
         "id": "9f31eec54ecf",
@@ -33,30 +113,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202609060165.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-09-06T11:01:09+00:00"
-      },
-      {
-        "id": "aa5ab151ec79",
-        "title": "chuong-3488-lang-nhi",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_32518_1788692057_aLfn",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-06T10:55:38+00:00"
-      },
-      {
-        "id": "f6b459dcc5aa",
-        "title": "chuong-3432",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_20991_1788691806_whYW",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-06T10:51:25+00:00"
-      },
-      {
-        "id": "29e8477ddac4",
-        "title": "chuong-55-tri-da-het-cach-danh-chieu-theo-cau",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_2252_1788690709_PEBa",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-06T10:33:10+00:00"
       },
       {
         "id": "098f3a239231",
@@ -75,14 +131,6 @@
         "published": "2026-09-06T10:04:36+00:00"
       },
       {
-        "id": "bd3b7469d7b8",
-        "title": "chuong-70-dung-goi-anh",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_13681_1788688808_PTny",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-06T10:01:33+00:00"
-      },
-      {
         "id": "e35e8ae3efd6",
         "title": "老盟「愛的手鍊」25年　助逾9千個家庭與走失長輩團圓",
         "summary": "（中央社記者陳婕翎台北6日電）當有一天老了、想不起回家的路，一條手鍊能打造失智長者安心返家小徑。老盟推動「愛的手鍊」達25年，尋獲率近100%，助9115個家庭團圓，盼各界攜手打造全方位高齡友善防護網。",
@@ -91,36 +139,12 @@
         "published": "2026-09-06T09:57:32+00:00"
       },
       {
-        "id": "14b3c827ce19",
-        "title": "chuong-30-chuong-32",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_36123_1788687661_BM1F",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-06T09:42:25+00:00"
-      },
-      {
-        "id": "248d73b3e36a",
-        "title": "chuong-7235-qua-that-la-vo-dung",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_9070_1788687455_OeYD",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-06T09:39:05+00:00"
-      },
-      {
         "id": "cb214085da8d",
         "title": "東北季風9日報到　迎風面水氣增11日防較大雨勢",
         "summary": "（中央社記者張雄風台北6日電）氣象署今天表示，明天、8日天氣相對穩定，各地陽光有機會露臉；9至11日東北季風增強影響，迎風面水氣增多，各地低溫約攝氏22、23度；其中11日在基隆北海岸、宜花地區防較大雨勢。",
         "url": "https://www.cna.com.tw/news/ahel/202609060145.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-09-06T09:36:25+00:00"
-      },
-      {
-        "id": "65908ee3258c",
-        "title": "Битва Измерений 7",
-        "summary": "битва измерений.This item belongs to: audio/audioboo_ru.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/7_20260906_202609",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-06T09:31:27+00:00"
       },
       {
         "id": "2f9efe598c1f",
@@ -137,30 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202609060113.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-09-06T08:32:15+00:00"
-      },
-      {
-        "id": "7faf5142692b",
-        "title": "健康台灣走在正確的道路　陳志鴻談5大有感數字",
-        "summary": "（中央社記者陳婕翎台北6日電）總統府健康台灣推動委員會副召集人陳志鴻今天在健康台灣深耕論壇表示，健康台灣走在正確的道路，談起5大有感數字，包含健保財務達新台幣1兆82億元、癌症防治604.9萬人次等。",
-        "url": "https://www.cna.com.tw/news/ahel/202609060110.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-06T08:12:08+00:00"
-      },
-      {
-        "id": "0c7e06d19660",
-        "title": "太平洋紫杉醇化療藥嚴重過敏風險  食藥署擬加註警語",
-        "summary": "（中央社記者陳婕翎台北6日電）常於癌症化療的太平洋紫杉醇（含蓖麻油溶劑）出現嚴重過敏風險，衛生福利部食品藥物管理署今天表示，已啟動評估作業，之後將要求中文仿單變更，增修過敏反應等藥安資訊。",
-        "url": "https://www.cna.com.tw/news/ahel/202609060109.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-06T08:10:06+00:00"
-      },
-      {
-        "id": "c8b39c2e728e",
-        "title": "雨區擴大　大台北、台中及台東防大雨",
-        "summary": "（中央社記者張雄風台北6日電）中央氣象署今天下午更新大雨特報，颱風外圍雲系影響，新北市北海岸及台北市山區、台中市山區防局部大雨發生；午後對流發展旺盛，台東地區易有短延時強降雨，防局部大雨。",
-        "url": "https://www.cna.com.tw/news/ahel/202609060100.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-06T07:41:46+00:00"
       },
       {
         "id": "1473966c7a42",
@@ -523,86 +523,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -805,6 +725,22 @@
     ],
     "破(day)": [
       {
+        "id": "e9512bc03ab2",
+        "title": "Annie Wobbler (Revisited) review – Arnold Wesker’s moving women live again",
+        "summary": "Finborough theatre, LondonNichola McAuliffe returns to the roles Wesker tailored for her in 1981, in a trio of wistful and insightful soliloquies about working-class women’s inner thoughtsSome years before Alan Bennett spawned Talking Heads, his celebrated televised monologues on the inner lives of ...",
+        "url": "https://www.theguardian.com/stage/2026/sep/06/annie-wobbler-revisited-review-arnold-wesker-finborough-theatre",
+        "source": "Stage | The Guardian",
+        "published": "2026-09-06T14:38:02+00:00"
+      },
+      {
+        "id": "d3f0763b85c7",
+        "title": "Surprisingly STEM: Telescope Engineer",
+        "summary": "In this episode of Surprisingly STEM from Learn with NASA, Mechanical Engineer Caroline Griffin gives viewers an inside look at the Nancy Grace Roman Space Telescope. Set your path to the stars with the Adafruit Learning System. In this project we&#8217;ll build the iconic SpaceX helmet! This helmet...",
+        "url": "https://blog.adafruit.com/2026/09/06/surprisingly-stem-telescope-engineer/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-06T14:00:35+00:00"
+      },
+      {
         "id": "a1575ae24218",
         "title": "30青年走進綠島歷史現場  認識政治受難者救援",
         "summary": "（中央社記者王寶兒台北6日電）國家人權博物館為提升社會大眾對「政治受難者救援」的認識，在白色恐怖綠島紀念園區舉辦青年人權體驗營，30名學員事先歷史補課，再走入歷史現場，看見人們當時如何突破資訊封鎖並尋求援助。",
@@ -933,6 +869,22 @@
         "published": "2026-09-05T10:38:29+00:00"
       },
       {
+        "id": "6065307280a2",
+        "title": "飛人集社劇團 – 【2026 ECHO偶計劃】第二屆《換人來拼台》",
+        "summary": "飛人集社劇團  -【2026 ECHO偶計劃】第二屆《換人來拼台》 / 【節目介紹】 一場屬於「物件」找朋友的 [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=14209",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-09-05T10:38:22+00:00"
+      },
+      {
+        "id": "0bc417fa733f",
+        "title": "《豹歉，劇本沒有這樣寫》2026加演",
+        "summary": "【節目名稱】：《豹歉，劇本沒有這樣寫》2026加演 &#160; 【節目介紹】 她在疼痛裡寫詩，在頭痛日記中召 [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=14176",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-09-05T10:37:21+00:00"
+      },
+      {
         "id": "5aeb389c0784",
         "title": "「南方野球夢」發表　追憶台南棒球百年發展軌跡",
         "summary": "（中央社記者張榮祥台南5日電）台南市政府文化局今天發表「南方野球夢：臺南棒球百年紀實」，這本書歷經10餘年資料蒐集、田野調查及撰述，篇幅逾10萬字，為台南棒球發展軌跡留下紀錄。",
@@ -1011,14 +963,6 @@
         "url": "https://blog.adafruit.com/2026/09/04/new-learn-guide-hacking-the-teenage-engineering-sp-1-hacks-adafruitlearningsystem-adafruit/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-09-04T16:33:37+00:00"
-      },
-      {
-        "id": "97c93ccc269c",
-        "title": "New Learn Guide: CircuitPython Watchdog Module #Microcontrollers #AdafruitLearningSystem @Adafruit",
-        "summary": "The CircuitPython watchdog module implements a watchdog timer that can be used to detect and recover from locked or stalled processes running on the microcontroller. The core principal is: configure the watchdog for a specified timeout period and activate it, then the code must feed the dog at least...",
-        "url": "https://blog.adafruit.com/2026/09/04/new-learn-guide-circuitpython-watchdog-module-microcontrollers-adafruitlearningsystem-adafruit/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-04T16:15:53+00:00"
       },
       {
         "id": "cc18ca0338b6",
@@ -1373,14 +1317,6 @@
         "published": "2026-09-02T00:00:00+00:00"
       },
       {
-        "id": "e79d8b5ea052",
-        "title": "Electra/Persona review – Blanchett and Hoss face off in lopsided Sophocles/Bergman double bill",
-        "summary": "Lyttelton theatre, LondonBenedict Andrews’ intense, interval-free mashup of ancient and modernist classics is a show of two halvesThe Electra bit of the title refers to the Sophoclean tragedy of a daughter trapped in a cycle of vengeance, the Persona part to Ingmar Bergman’s 1966 film about an actor...",
-        "url": "https://www.theguardian.com/stage/2026/sep/02/electrapersona-review-blanchett-and-hoss-face-off-in-lopsided-sophocles-bergman-double-bill",
-        "source": "Stage | The Guardian",
-        "published": "2026-09-01T23:10:36+00:00"
-      },
-      {
         "id": "6564670e053e",
         "title": "Patience, module from Olivia Artz, scales modulation from seconds to decades",
         "summary": "Following the success of Time Machine, Olivia Artz has a new idea for playing with temporality in Eurorack modular. Patience is a \"lowest\" frequency oscillator, setting duration in seconds, minutes, hours, days, months, years ... or decades. It's just launched on Kickstarter.\nThe post Patience, modu...",
@@ -1635,6 +1571,30 @@
         "url": "https://www.mittrchina.com/news/detail/16871",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-08-30T10:01:49+00:00"
+      },
+      {
+        "id": "b7e64d4528ea",
+        "title": "E ×DRAMA DOOR 九 型 劇 場 【 第 一 屆 聯 合 展 演 】",
+        "summary": "【節目名稱】：E ×DRAMA DOOR 九 型 劇 場 【 第 一 屆 聯 合 展 演 】 &#160; 【 [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=14144",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-08-30T07:06:39+00:00"
+      },
+      {
+        "id": "ae689dc90c43",
+        "title": "三缺一劇團 2026「Pre-LAB 計畫」中長篇階段性呈現",
+        "summary": "【節目名稱】：三缺一劇團 2026「Pre-LAB 計畫」中長篇階段性呈現 &#160; 【節目介紹】 林曉函 [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=14167",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-08-30T07:06:32+00:00"
+      },
+      {
+        "id": "217c47d1ba1e",
+        "title": "教育部國教署人權教育資源中心-祝你教師節快樂?!",
+        "summary": "【節目名稱】：教育部國教署人權教育資源中心-祝你教師節快樂?! &#160; 【節目介紹】 當法令制度翻新，親 [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=14104",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-08-30T07:06:00+00:00"
       },
       {
         "id": "91bb147fb656",
@@ -1933,6 +1893,22 @@
         "published": "2026-08-24T00:00:00+00:00"
       },
       {
+        "id": "45284ab17fcf",
+        "title": "sulysalt 首張專輯”opposite” album release show #1",
+        "summary": "【節目名稱】：sulysalt 首張專輯”opposite&#8221; album release show [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=14140",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-08-23T05:28:17+00:00"
+      },
+      {
+        "id": "77135781de8c",
+        "title": "伊底帕斯的眼科醫生劇團《渡子江:死了都要愛》",
+        "summary": "【節目名稱】：伊底帕斯的眼科醫生劇團《渡子江:死了都要愛》 &#160; 【節目介紹 】 「我要死了，我要死了 [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=14111",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-08-23T05:27:42+00:00"
+      },
+      {
         "id": "77c5cc7a9770",
         "title": "第37屆傳藝金曲獎隆重登場 「境界_Login漫遊37」登入傳藝 綻放耀眼光采",
         "summary": "第37屆傳藝金曲獎頒獎典禮今（22）日晚間在臺灣戲曲中心大表演廳隆重登場，揭曉特別獎及19個獎項的得主。文化部長李遠到場觀禮，除了向所有辛勤付出的傳統藝術工作者及評審團隊表達敬意，也頒發象徵終身成就與特殊貢獻的特別獎予滿州民謠傳藝師張日貴及亂彈戲曲藝師王慶芳，感謝他們對傳統藝術的深遠影響。音樂類由「簡晟軒、楊元碩、東京佼成管樂團《樂脈》」與《歌仔曹七巧：台灣爵士戲曲專輯》雙雙脫穎而出，各抱回3項大獎，並列本屆大贏家。《樂脈》一舉囊括最佳錄音獎、最佳作曲獎及最佳專輯製作人獎，作曲家楊元碩感性表示，「在讓世界看見臺灣之前，我們要先看見臺灣，希望透過音樂讓更多臺灣人看見臺灣的文化」；《歌仔曹七巧：台...",
@@ -1963,6 +1939,14 @@
         "url": "https://blogs.loc.gov/loc/2026/08/the-supreme-courts-1954-brown-v-board-ruling-a-day-that-will-live-in-glory/",
         "source": "Timeless",
         "published": "2026-08-20T16:43:47+00:00"
+      },
+      {
+        "id": "9755a3d0abd6",
+        "title": "松林書局 × 牯嶺街小劇場 「亞洲，生活」—— 閱讀 × 劇場分享會",
+        "summary": "▞  松林書局 × 牯嶺街小劇場 「亞洲，生活」—閱讀 × 劇場分享會   ▚ / 從一本書開始，閱讀亞洲，也 [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=14102",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-08-20T13:02:15+00:00"
       },
       {
         "id": "5e8356fdd270",
@@ -2011,6 +1995,22 @@
         "url": "https://aseanplusjournal.com/2026/08/16/aseanweekly326/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-08-16T14:18:22+00:00"
+      },
+      {
+        "id": "111c13e6aae0",
+        "title": "【2026臺北藝穗節】又係女司機（自駕遊版）",
+        "summary": "【2026臺北藝穗節】又係女司機（自駕遊版） &#160; 【節目介紹】 「笑死，前面那台一定是女司機！」—— [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=13984",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-08-16T12:44:10+00:00"
+      },
+      {
+        "id": "fa51034ce84f",
+        "title": "2026年【做伙來唱歌】_《畢業聲》演出＆【做伙來唱歌】計畫_紀錄片《媽媽的畢業典禮》、《畢業聲》放映",
+        "summary": "2026年【做伙來唱歌】_《畢業聲》演出＆【做伙來唱歌】計畫_紀錄片《媽媽的畢業典禮》、《畢業聲》放映 / 【 [&#8230;]",
+        "url": "https://www.glt.org.tw/?p=14055",
+        "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
+        "published": "2026-08-16T12:44:01+00:00"
       },
       {
         "id": "4a3b3935257e",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-06T13:32:52.479571+00:00"
+        "published": "2026-09-06T16:51:14.937725+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-06T13:32:52.479561+00:00"
+        "published": "2026-09-06T16:51:14.937715+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-06T13:32:52.479551+00:00"
+        "published": "2026-09-06T16:51:14.937705+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-06T13:32:52.479539+00:00"
+        "published": "2026-09-06T16:51:14.937694+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-06T13:32:52.479528+00:00"
+        "published": "2026-09-06T16:51:14.937684+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-06T13:32:52.479518+00:00"
+        "published": "2026-09-06T16:51:14.937674+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-06T13:32:52.479508+00:00"
+        "published": "2026-09-06T16:51:14.937663+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-06T13:32:52.479498+00:00"
+        "published": "2026-09-06T16:51:14.937653+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-06T13:32:52.479488+00:00"
+        "published": "2026-09-06T16:51:14.937643+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-06T13:32:52.479479+00:00"
+        "published": "2026-09-06T16:51:14.937632+00:00"
       },
       {
         "id": "a9fffd3d53b0",
