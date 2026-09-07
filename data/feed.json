@@ -1,110 +1,166 @@
 {
-  "updated_at": "2026-09-07T10:08:42.363275+00:00",
+  "updated_at": "2026-09-07T16:22:41.865226+00:00",
   "categories": {
     "急(hr)": [
       {
-        "id": "c905fed17ce5",
-        "title": "血友病新藥8月起納健保　12歲以上A、B型患者受惠",
-        "summary": "（中央社記者陳婕翎台北7日電）自今年8月起，健保署將新一代血友病再平衡治療納入給付，受益對象廣包括12歲以上、重度且帶有或未帶有抗體的A型與B型血友病患，預估嘉惠治療人數第1年至第5年約115人至252人。",
-        "url": "https://www.cna.com.tw/news/ahel/202609070237.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-07T09:50:05+00:00"
-      },
-      {
-        "id": "ce89813202ec",
-        "title": "首波東北季風9日報到　基隆北海岸、宜花地區11日防局部較大雨勢",
-        "summary": "（中央社記者張雄風台北7日電）氣象署今天表示，9日至11日受今年首波東北季風南下影響，迎風面易有短暫陣雨，其中11日水氣較多，基隆北海岸、宜花地區防較大雨勢；12、13日南方水氣北移，降雨範圍再擴大。",
-        "url": "https://www.cna.com.tw/news/ahel/202609070236.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-07T09:49:03+00:00"
-      },
-      {
-        "id": "c3d887f2a4cd",
-        "title": "環境部推動產品數位護照　估2027年3月預告相關辦法",
-        "summary": "（中央社記者張雄風台北7日電）環境部今天發表產品數位護照試行成果，累計4大類、逾2萬筆資訊；最快明年3月預告通用性辦法；因應歐盟明年2月新規上路，台灣將以電池列為優先討論項目。",
-        "url": "https://www.cna.com.tw/news/ahel/202609070234.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-07T09:46:59+00:00"
-      },
-      {
-        "id": "c8dd94e1bf0f",
-        "title": "北藝大學生共創召喚奧林匹斯諸神　關渡藝術節啟動",
-        "summary": "（中央社記者王寶兒台北7日電）電影「奧德賽」熱映，北藝大學生也將扮演起奧林匹斯諸神，透過管樂、戲劇與光影在2026關渡藝術節中召喚希臘神話，還有結合即時聲音生成、動作捕捉的跨域舞作，都將上陣。",
-        "url": "https://www.cna.com.tw/news/acul/202609070216.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-07T09:30:21+00:00"
-      },
-      {
-        "id": "b200e81d2913",
-        "title": "10歲童易感冒查出心室中膈缺損  微創手術免開胸",
-        "summary": "（中央社記者吳哲豪彰化7日電）10歲男童常因感冒就醫，家長原以為免疫力弱，經轉診確認罹患心室中膈缺損，彰濱秀傳醫院協同外院團隊為男童進行經心導管關閉心室中膈缺損手術，不用開胸，術後僅留小穿刺孔。",
-        "url": "https://www.cna.com.tw/news/ahel/202609070213.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-07T09:29:15+00:00"
-      },
-      {
-        "id": "0e6ca116f6b6",
-        "title": "健康台灣深耕計畫　國泰遠距照護社群挺早期出院",
-        "summary": "（中央社記者陳婕翎台北7日電）台灣平均壽命為81.27歲，國泰醫院分享健康台灣深耕計畫成果，發展智慧遠距照護社群支持早期出院（ESD）；衛福部長石崇良籲全面強化醫療體系韌性，保障各生命歷程獲周全照顧。",
-        "url": "https://www.cna.com.tw/news/ahel/202609070196.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-07T08:59:36+00:00"
-      },
-      {
-        "id": "76fd4448a57f",
-        "title": "C肝群聚全民埋單百萬藥費　衛福部擬修法擴大代位求償",
-        "summary": "（中央社記者陳婕翎台北7日電）新北有診所打針造成C肝群聚已造成11人確診，治療費用估計破百萬元要健保承擔，衛福部長石崇良今天表示可以研擬修法，擴大健保署行使代位求償，社保司認為應先要求該診所負責。",
-        "url": "https://www.cna.com.tw/news/ahel/202609070195.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-07T08:55:34+00:00"
-      },
-      {
-        "id": "92cc92d03e83",
-        "title": "溫哥華台灣節開幕  讓加拿大人讀懂台灣心聲",
-        "summary": "（中央社記者程愛芬溫哥華6日專電）一年一度的溫哥華台灣節（Taiwan Fest）一連3天在溫哥華市中心登場。昨晚的開幕音樂會由屢獲殊榮的「南王姊妹花」和「黃子軒與山平快」兩組音樂人擔綱演出，以「山的呼喚」為題，用音樂和歌聲向世界介紹台灣。",
-        "url": "https://www.cna.com.tw/news/ahel/202609070180.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-07T08:28:02+00:00"
-      },
-      {
-        "id": "b003adf1691a",
-        "title": "捷運補助增5.6倍 交部：3原則給補助經費",
-        "summary": "（中央社記者余曉涵台北7日電）交通部補助地方捷運經費明年增加5.6倍，交通部次長伍勝園今天說，會依照工程進度、招標狀況與過去預算執行情況等3大原則給予補助，若有需求，未來年度會爭取增編預算。",
-        "url": "https://www.cna.com.tw/news/ahel/202609070171.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-07T08:07:42+00:00"
-      },
-      {
-        "id": "23636b1c9ba9",
-        "title": "台鐵準點率與賠償　消基會籲建立旅客為中心制度",
-        "summary": "（中央社記者汪淑芬台北7日電）消費者文教基金會今天指出，台鐵官方公布的高準點率常與民眾感受有落差，呼籲建立以旅客為中心的準點率與賠償制度。",
-        "url": "https://www.cna.com.tw/news/ahel/202609070167.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-09-07T07:59:34+00:00"
-      },
-      {
-        "id": "5eb65609a222",
-        "title": "chuong-2138-duong-nhien-la-chua-du",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_31070_1788764411_sghh",
+        "id": "cb14f3cc9275",
+        "title": "MOZART Sämtliche Klaviersonaten",
+        "summary": "MOZART  Sämtliche Klaviersonaten Mieczyslaw Horszowski (Klavier).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/nbxgf_202609",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-07T07:00:52+00:00"
+        "published": "2026-09-07T14:23:52+00:00"
       },
       {
-        "id": "ee12d024e832",
-        "title": "chuong-2928",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_20487_1788763787_SPip",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-07T06:50:21+00:00"
+        "id": "7ae2ed24ad80",
+        "title": "今彩539第115217期　頭獎1注中獎",
+        "summary": "（中央社台北7日電）今彩539第115217期開獎，中獎號碼35、26、19、31、25；派彩結果，頭獎1注中獎，獎金新台幣800萬元。",
+        "url": "https://www.cna.com.tw/news/ahel/202609070303.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-07T14:13:34+00:00"
       },
       {
-        "id": "0056c3b67b81",
-        "title": "chuong-8411-diet-nguyen-tram",
+        "id": "f6c2dfbef57c",
+        "title": "威力彩頭獎4.1億元1注獨得　獎落台中南屯",
+        "summary": "（中央社台北7日電）威力彩第115072期今晚開獎，第一區中獎號碼為29、14、17、35、07、22，第二區中獎號碼為02；派彩結果，頭獎新台幣4.1億元1注獨得，獎落台中市南屯區。",
+        "url": "https://www.cna.com.tw/news/ahel/202609070302.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-07T14:11:32+00:00"
+      },
+      {
+        "id": "272f2629e08a",
+        "title": "chuong-1005",
         "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_10246_1788762577_l6LK",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_18651_1788789986_SxFR",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-07T06:30:13+00:00"
+        "published": "2026-09-07T14:07:05+00:00"
+      },
+      {
+        "id": "9e0a868ab119",
+        "title": "(Podfic) Begin As You Mean To Go On",
+        "summary": "Podfic of: https://archiveofourown.org/works/52557823.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/podfic-begin-as-you-mean-to-go-on",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-07T14:06:33+00:00"
+      },
+      {
+        "id": "3de36180c4c5",
+        "title": "Cheb Faycal 31 Ft Nouni[ Omry Diri 9albak]",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/cheb-faycal-31-ft-nouni-omry-diri-9albak",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-07T13:42:12+00:00"
+      },
+      {
+        "id": "bcf343d89314",
+        "title": "chuong-7596",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_9431_1788788179_RGOc",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-07T13:37:04+00:00"
+      },
+      {
+        "id": "f12977676635",
+        "title": "Cheikh Mamidou Neg 3od Nebghik Manbedalch Ljora Ft Ali Rio",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/cheikh-mamidou-neg-3od-nebghik-manbedalch-ljora-ft-ali-rio",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-07T13:35:58+00:00"
+      },
+      {
+        "id": "4b18ff39b59b",
+        "title": "Cheb Kader Babylone Ghir Thani Rani Rayah Ft Nouni Live Saint Germain",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/cheb-kader-babylone-ghir-thani-rani-rayah-ft-nouni-live-saint-germain",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-07T13:29:03+00:00"
+      },
+      {
+        "id": "b048059dffa7",
+        "title": "CHEBA WARDAXCHEB MOMO KI TATFAKRINI RAI REMIX",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/cheba-wardaxcheb-momo-ki-tatfakrini-rai-remix",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-07T13:22:36+00:00"
+      },
+      {
+        "id": "b7d0a67628c8",
+        "title": "chuong-73",
+        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/audio_doc-truyen-online_chap_26125_1788787054_307W",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-07T13:18:11+00:00"
+      },
+      {
+        "id": "72d5e3ed0c69",
+        "title": "Mohamed Marsaoui Nti 7o W Nodo FT Ghazzali",
+        "summary": ".This item belongs to: audio/folksoundomy_bargainbin.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mohamed-marsaoui-nti-7o-w-nodo-ft-ghazzali",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-09-07T13:15:43+00:00"
+      },
+      {
+        "id": "17b7b29acd5a",
+        "title": "威力彩第115072期開獎",
+        "summary": "（中央社台北7日電）威力彩第115072期今晚開獎，第一區中獎號碼為29、14、17、35、07、22，第二區中獎號碼為02。",
+        "url": "https://www.cna.com.tw/news/ahel/202609070291.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-07T12:57:03+00:00"
+      },
+      {
+        "id": "c87dfbd01a73",
+        "title": "台灣出席世界牙醫聯盟論壇  展現AI應用成果",
+        "summary": "（中央社記者劉郁葶布拉格7日專電）中華牙醫學會代表團赴捷克參與2026世界牙醫聯盟國家聯絡官論壇，分享台灣牙醫界導入AI的應用成果，例如協助雙語溝通、文件摘要、教育與宣傳等，並說明開發中的AI會員應用程式，提升台灣在全球牙醫專業組織的國際能見度。",
+        "url": "https://www.cna.com.tw/news/ahel/202609070289.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-07T12:54:59+00:00"
+      },
+      {
+        "id": "e7657fab7419",
+        "title": "今彩539第115217期開獎",
+        "summary": "（中央社台北7日電）今彩539第115217期開獎，中獎號碼35、26、19、31、25。3星彩中獎號碼487，4星彩中獎號碼1989。",
+        "url": "https://www.cna.com.tw/news/ahel/202609070284.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-07T12:45:48+00:00"
+      },
+      {
+        "id": "50b1c394aa46",
+        "title": "蔡英文盼庇護工場成日常生活選擇　讓支持真正永續",
+        "summary": "（中央社記者王揚宇台北7日電）前總統蔡英文今天參訪育成永續庇護園區，並與庇護園區工作夥伴體驗打蠟、做精力湯。蔡英文說，希望庇護工場可以成為大家日常生活裡的一個選擇，當支持庇護工場不再只是節慶的一次性消費，而成為日常生活的一部分，這份支持才有可能真正永續。",
+        "url": "https://www.cna.com.tw/news/ahel/202609070283.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-07T12:38:46+00:00"
+      },
+      {
+        "id": "966b31ea36da",
+        "title": "淡水藥師案燒進北榮　院長：任期未接獲投訴無壓案",
+        "summary": "（中央社記者陳婕翎、曾以寧台北7日電）淡水藥師涉下藥性侵女大學生案，傳該藥師過去台北榮民總醫院就職期間就是慣犯，院方未積極處理，北榮院長陳威明澄清，任內從未收到相關投訴，也並非醫院因知情而將人趕走，該藥師是因自行開業而離職。",
+        "url": "https://www.cna.com.tw/news/asoc/202609070268.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-07T11:34:13+00:00"
+      },
+      {
+        "id": "dc30bb5a8229",
+        "title": "短期葉菜產能降至6成、豬價上揚  農業部加強中秋調配",
+        "summary": "（中央社記者汪淑芬台北7日電）受8月下旬豪雨影響，農業部估計，短期葉菜類產能下降至6成，豬價近期則上揚，農業部加強中秋蔬菜調配及豬肉產銷調節。",
+        "url": "https://www.cna.com.tw/news/ahel/202609070264.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-07T11:22:05+00:00"
+      },
+      {
+        "id": "e59e54100a46",
+        "title": "異位性皮膚炎病友協會：患者月支出2.5萬吃掉薪資中位數63%",
+        "summary": "（中央社記者陳婕翎台北7日電）異位性皮膚炎病友協會今天公布最新本土研究，發現異位性皮膚炎病友在治療漫漫長路上，換過6名醫師還不夠，每月相關支出突破新台幣2.5萬元，相當於吃掉每月薪資中位數的63%。",
+        "url": "https://www.cna.com.tw/news/ahel/202609070262.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-07T11:10:00+00:00"
+      },
+      {
+        "id": "865fa09b9f52",
+        "title": "新竹棒球場地下停車場重啟　9月底前免收費",
+        "summary": "（中央社記者魯鋼駿新竹市7日電）新竹市政府今天宣布，新竹棒球場地下停車場即日起重新啟用試營運，平時提供300格汽車停車位，遇重大賽事可彈性調整為最多1500格機車停車位，9月底前免費停車。",
+        "url": "https://www.cna.com.tw/news/ahel/202609070258.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-09-07T10:56:51+00:00"
       },
       {
         "id": "127ab4c368e5",
@@ -113,62 +169,6 @@
         "url": "https://www.tmaroc.org.tw/1150907-2/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-09-07T06:23:54+00:00"
-      },
-      {
-        "id": "97f01dd25520",
-        "title": "chuong-548-ma-ngau-truyen-thua-1",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_23245_1788761927_V48N",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-07T06:19:23+00:00"
-      },
-      {
-        "id": "3091c9a90f7e",
-        "title": "chuong-8471-ly-thien-cuong",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_10306_1788761295_hkiA",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-07T06:09:01+00:00"
-      },
-      {
-        "id": "309f101f3174",
-        "title": "chuong-466-kamen-rider-chaotic-chronicle-khoi-dong",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_2516_1788760817_vIG2",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-07T06:00:48+00:00"
-      },
-      {
-        "id": "27452408ffb7",
-        "title": "chuong-3032",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_20591_1788759528_2Lt5",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-07T05:39:23+00:00"
-      },
-      {
-        "id": "3c65a71bdd81",
-        "title": "chuong-4188-dung-suc-giat-manh",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_33220_1788758984_aFqT",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-07T05:30:23+00:00"
-      },
-      {
-        "id": "8a24925edc0f",
-        "title": "chuong-7-la-bat-dau-hay-ket-thuc",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_13800_1788758373_r6SE",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-07T05:20:30+00:00"
-      },
-      {
-        "id": "c6c2690ddd06",
-        "title": "chuong-24",
-        "summary": "No description available.This item belongs to: audio/audiobook_viet.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/audio_doc-truyen-online_chap_8666_1788757788_E1wf",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-09-07T05:10:21+00:00"
       },
       {
         "id": "1473966c7a42",
@@ -523,86 +523,6 @@
         "published": "2025-12-26T06:59:33+00:00"
       },
       {
-        "id": "d256435b638c",
-        "title": "Executive Editor's Introduction",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1334",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "9a78a5fe3f1a",
-        "title": "Introduction to EDM and its Discontents",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1333",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "c0038001601d",
-        "title": "Historical Emergence and Current Uses of the Term italodisco",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1300",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "e2189aad1185",
-        "title": "On The Spectrum",
-        "summary": ".",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1313",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "bd2b9d40edaf",
-        "title": "A Laptop and Some Talent",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1314",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "8aa42be01308",
-        "title": "Weekend Societies in the Walled Garden",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1259",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "3444af153c2a",
-        "title": "Thrice-experienced Clubbing",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1298",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "baab9ab8b375",
-        "title": "Dance Your Way Home: A Journey Through the Dancefloor (Emma Warren)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1321",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "79fa1c9eea58",
-        "title": "Black Music in Britain in the 21st Century (Monique Charles, ed., with Mary W. Gani)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1327",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
-        "id": "55e93a850f27",
-        "title": "Platformed! How Streaming, Algorithms and Artificial Intelligence are Shaping Music Cultures (Tiziano Bonini and Paolo Magaudda)",
-        "summary": "",
-        "url": "https://dj.dancecult.net/index.php/dancecult/article/view/1323",
-        "source": "Dancecult: Journal of Electronic Music and Dance Culture",
-        "published": "2025-12-22T00:00:00+00:00"
-      },
-      {
         "id": "41985f054415",
         "title": "《歷史文物：國立歷史博物館館刊》327期",
         "summary": "&#160; ．作者：國立歷史博物館編輯委員會 ．出版社：國立歷史博物館 ． 出版日期：2025年12月 ．  [&#8230;]",
@@ -805,6 +725,110 @@
     ],
     "破(day)": [
       {
+        "id": "e3aa089b96c2",
+        "title": "Flipper One Alternative? Free Wili 2 Multitool packs dual RP2350 chips and FPGA",
+        "summary": "Julian Horsey writing at Geeky Gadgets covers the Free Wili 2, an open source handheld multi tool that Talking Sasquatch put through its paces on video. It runs dual RP2350 processors with FPGA support, and it is aimed at hardware development, security testing and prototyping work. The front has a 3...",
+        "url": "https://blog.adafruit.com/2026/09/07/flipper-one-alternative-free-wili-2-multitool-packs-dual-rp2350-chips-and-fpga/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-07T16:18:05+00:00"
+      },
+      {
+        "id": "f4431cd42e33",
+        "title": "ESP32-Bus-Expander: Expand the radio capabilities of the ESP32 Bit Pirate with 5GHz Wi-Fi and 802.15.4 protocols",
+        "summary": "ESP32 Bus Expander is a companion firmware designed to extend the capabilities of the ESP32 Bit Pirate. It runs on an ESP32-C5 or ESP32-C6 and connects to the main Bit Pirate device via UART, adding hardware features that are not available on the primary board. The first goal of this expansion modul...",
+        "url": "https://blog.adafruit.com/2026/09/07/esp32-bus-expander-expand-the-radio-capabilities-of-the-esp32-bit-pirate-with-5ghz-wi-fi-and-802-15-4-protocols/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-07T16:04:19+00:00"
+      },
+      {
+        "id": "c24a9fca63c1",
+        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
+        "url": "https://blog.adafruit.com/2026/09/07/the-python-on-microcontrollers-newsletter-subscribe-for-free-9-7/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-07T15:19:12+00:00"
+      },
+      {
+        "id": "56be3f2e7022",
+        "title": "New gpclk overlays for Raspberry Pis",
+        "summary": "Raspberry Pi has added a pair of device tree overlays that turn one of the general purpose clock outputs, GPCLK, into a clock signal on a GPIO pin. The pint can stand in for a crystal in a project. The trick was possible years ago with a custom dt-blob.bin, which is no longer supported. One [&#8230;...",
+        "url": "https://blog.adafruit.com/2026/09/07/new-gpclk-overlays-for-raspberry-pis/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-07T15:10:40+00:00"
+      },
+      {
+        "id": "f19bad7811a5",
+        "title": "NOMAD: a Cyberpunk2077 inspired guitar project",
+        "summary": "Pio has spent over a year building NOMAD, a Cyberpunk 2077 inspired electric guitar posted on the PJRC forum. The base is a Harley Benton JA DIY kit, rebuilt around custom electronics. The pickguard is itself a large PCB running a Cypress PSoC5LP, handling pickup buffers, active hum cancelling, capa...",
+        "url": "https://blog.adafruit.com/2026/09/07/nomad-a-cyberpunk2077-inspired-guitar-project/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-07T14:57:31+00:00"
+      },
+      {
+        "id": "45de1f695cb5",
+        "title": "The 2026 Ig Nobel Awards awards nods to some different achievements",
+        "summary": "Adam Kovac, writing for Scientific American, covered the 2026 Ig Nobel Prizes, handed out at a ceremony in Zurich on September 3. The awards go to research that sounds absurd on first hearing. The chemistry prize went to Leonard Chavas of DECTRIS Japan and Subramanian Ramaswamy of Purdue University ...",
+        "url": "https://blog.adafruit.com/2026/09/07/the-2026-ig-nobel-awards-awards-nods-to-some-different-achievements/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-07T14:33:25+00:00"
+      },
+      {
+        "id": "16af5207b9c2",
+        "title": "Rebuilding a 1995 GPS Time Server with Raspberry Pi and Python",
+        "summary": "A 1995 TrueTime XL-AK GPS time server has been rebuilt around a Raspberry Pi 5, and the writeup was published on jeffgeerling.com. The original unit was bought in June to learn about the history of GPS-based time. Sixteen days later, a similar GPS time server took down Australia&#8217;s cell service...",
+        "url": "https://blog.adafruit.com/2026/09/07/rebuilding-a-1995-gps-time-server-with-raspberry-pi-and-python/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-07T14:25:11+00:00"
+      },
+      {
+        "id": "4707e043697b",
+        "title": "Decompiler Explorer: try 13 decompilers on code",
+        "summary": "Decompiler Explorer is a web tool at dogbolt.org that runs one binary through many decompilers at once and shows the C-like output side by side. Upload a file, pick which decompilers to run, and compare how each one reads the same code. The current lineup includes angr, Binary Ninja, Boomerang, dewo...",
+        "url": "https://blog.adafruit.com/2026/09/07/decompiler-explorer-try-13-decompilers-on-code/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-07T14:15:27+00:00"
+      },
+      {
+        "id": "e4f69874d9f6",
+        "title": "台漫閃耀角川世界漫畫競賽  Eli Lin、MurJi摘金銅",
+        "summary": "（中央社記者戴雅真東京7日專電）日本出版集團角川今天在東京舉行首屆KADOKAWA WORLD MANGA CONTEST頒獎典禮，台灣漫畫家Eli Lin及MurJi分別以「Cells Within the Body.」及Hitokuji榮獲無台詞漫畫部門金獎及銅獎，雙雙受邀赴日領獎，與來自世界各國的得獎創作者共同登上頒獎舞台。",
+        "url": "https://www.cna.com.tw/news/acul/202609070295.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-09-07T13:33:17+00:00"
+      },
+      {
+        "id": "959946bc00c6",
+        "title": "Building an interactive instrument for a one-of-a-kind festival",
+        "summary": "Ben Holmen built a playable chime instrument for the Eaux Claires festival in Eau Claire, Wisconsin. He calls it Halfmoon Chimes, named for nearby Halfmoon Lake, and the 37 chimes are arranged in a half moon around the player. The notes are aluminum pipe, cut long and then shaved down millimeter by ...",
+        "url": "https://blog.adafruit.com/2026/09/07/building-an-interactive-instrument-for-a-one-of-a-kind-festival/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-07T13:32:54+00:00"
+      },
+      {
+        "id": "76712a8dc10a",
+        "title": "Microsoft 6502 Basic released as open source a year ago",
+        "summary": "Dave Farquhar writes at The Silicon Underground that Microsoft released version 1.1 of its 6502 Basic as open source on September 3, 2025. The code went up on GitHub under an MIT license, so it is free to modify and reuse. It is 6,955 lines, written between 1976 and 1978. This is the code behind [&#...",
+        "url": "https://blog.adafruit.com/2026/09/07/microsoft-6502-basic-released-as-open-source-a-year-ago/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-07T13:15:08+00:00"
+      },
+      {
+        "id": "439f3b86f5d7",
+        "title": "Scales among updates to the free Ardour DAW — with tuning on the way",
+        "summary": "Ardour 9.8 continues the rapid, detailed development of this free and open-source DAW, with improved session recovery and clip recording, expanded support for controllers and hardware, and an arpeggiator MIDI tool. The 9.8 update also adds scales and keys, but with a twist: unlike competing software...",
+        "url": "https://cdm.link/ardour-9-8-scales-and-tuning/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-09-07T11:39:51+00:00"
+      },
+      {
+        "id": "c24d72555306",
+        "title": "韓國釜山設計浪潮登台　展覽串連世界設計之都交流",
+        "summary": "（中央社記者王寶兒台北7日電）許多人以旅遊認識韓國釜山，「BUSAN VIBE: WAVE」國際設計交流展明天開展，則以設計視角讓人看見釜山的文化、產業、公共空間，也介紹釜山邁向2028世界設計之都的願景。",
+        "url": "https://www.cna.com.tw/news/acul/202609070242.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-09-07T10:13:17+00:00"
+      },
+      {
         "id": "c8dd94e1bf0f",
         "title": "北藝大學生共創召喚奧林匹斯諸神　關渡藝術節啟動",
         "summary": "（中央社記者王寶兒台北7日電）電影「奧德賽」熱映，北藝大學生也將扮演起奧林匹斯諸神，透過管樂、戲劇與光影在2026關渡藝術節中召喚希臘神話，還有結合即時聲音生成、動作捕捉的跨域舞作，都將上陣。",
@@ -869,20 +893,12 @@
         "published": "2026-09-07T00:51:12+00:00"
       },
       {
-        "id": "86b15c505242",
-        "title": "Ubisoft decides Linux isn’t worth the effort",
-        "summary": "Sourav Rudra reports at It&#8217;s FOSS that Ubisoft is dropping Linux support for its melee fighting game For Honor. Starting September 10, the game will no longer be playable on Linux desktops or the Steam Deck. The cutoff lands the same day the game&#8217;s Ranked Dominion and Ranked Duel modes g...",
-        "url": "https://blog.adafruit.com/2026/09/06/ubisoft-decides-linux-isnt-worth-the-effort/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-06T18:00:36+00:00"
-      },
-      {
-        "id": "2bd6ec88caa4",
-        "title": "1960s Theory That Stonehenge Was a Prehistoric Computer",
-        "summary": "One of the earliest near-accurate depictions of Stonehenge by Lucas de Heere, image via Wikipedia Commons &#160; Though now debunked, in 1966 Gerald Hawkins put forth the theory that Stonehenge was actually an ancient computer and the ring of circles could have been used to follow the Moon, and pred...",
-        "url": "https://blog.adafruit.com/2026/09/06/1960s-theory-that-stonehenge-was-a-prehistoric-computer/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-06T17:20:23+00:00"
+        "id": "83b640505af2",
+        "title": "DreamScenes – September 2026",
+        "summary": "\"Disappear In Silent Ways\" - DreamScenes for September 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-sept2026/",
+        "source": "Ambientblog",
+        "published": "2026-09-06T20:55:00+00:00"
       },
       {
         "id": "6b7016b5e441",
@@ -931,14 +947,6 @@
         "url": "https://www.theguardian.com/stage/2026/sep/06/annie-wobbler-revisited-review-arnold-wesker-finborough-theatre",
         "source": "Stage | The Guardian",
         "published": "2026-09-06T14:38:02+00:00"
-      },
-      {
-        "id": "d3f0763b85c7",
-        "title": "Surprisingly STEM: Telescope Engineer",
-        "summary": "In this episode of Surprisingly STEM from Learn with NASA, Mechanical Engineer Caroline Griffin gives viewers an inside look at the Nancy Grace Roman Space Telescope. Set your path to the stars with the Adafruit Learning System. In this project we&#8217;ll build the iconic SpaceX helmet! This helmet...",
-        "url": "https://blog.adafruit.com/2026/09/06/surprisingly-stem-telescope-engineer/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-06T14:00:35+00:00"
       },
       {
         "id": "a1575ae24218",
@@ -1013,30 +1021,6 @@
         "published": "2026-09-06T02:00:00+00:00"
       },
       {
-        "id": "8e0365206e8c",
-        "title": "Developing Safer Alternatives to Lithium Batteries",
-        "summary": "Researchers Andong Liu (left) and Dian-Zhao Lin perform experiments in Yayuan Liu’s battery lab. CREDIT: WILL KIRK / JOHNS HOPKINS UNIVERSITY via Johns Hopkins University Johns Hopkins University and the Toyota Research Institute have teamed up to research and develop better batteries. Utilizing new...",
-        "url": "https://blog.adafruit.com/2026/09/05/developing-safer-alternatives-to-lithium-batteries/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-05T20:00:59+00:00"
-      },
-      {
-        "id": "1a5b3b21855a",
-        "title": "New Products 09/05/2026",
-        "summary": "We’ve got the New nEw NEW for you right here This week we debuted 1 New Product. Adafruit TMF8806 Time of Flight Distance Sensor &#8211; 10mm to 5m &#8211; STEMMA QT / Qwiic Visit www.adafruit.com/new for more info.",
-        "url": "https://blog.adafruit.com/2026/09/05/new-products-09-05-2026/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-05T19:00:27+00:00"
-      },
-      {
-        "id": "459814e55f4c",
-        "title": "The Business Card That Lights Up Without Batteries",
-        "summary": "Kevin Tang made this circuit board business card with an NFC chip and LEDs. One nifty trick of the card is that it&#8217;s battery-less; when tapped to a phone, in addition to sharing your info, the card will draw power and light up the LEDs! &#160; Here’s what’s actually happening, and it took me a...",
-        "url": "https://blog.adafruit.com/2026/09/05/the-business-card-that-lights-up-without-batteries/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-05T17:07:08+00:00"
-      },
-      {
         "id": "a98cd2135620",
         "title": "「大象來了」展演估逾10萬人擠爆台北士林街頭　6日增派警力疏導",
         "summary": "（中央社記者葉蓁芸台北5日電）法國奧波西托劇團的戶外展演「大象來了」今晚登場，為2026台北藝術節揭開序幕，3頭巨型機械大象現身士林街頭，現場人潮滿滿。據北藝中心統計，逾10萬名國內外旅客共襄盛舉。",
@@ -1051,30 +1035,6 @@
         "url": "https://www.twreporter.org/a/photo-bookreview-behind-the-lens-women-photojournalists-yi-meng-lan",
         "source": "報導者",
         "published": "2026-09-05T16:00:00+00:00"
-      },
-      {
-        "id": "83f4f9510b06",
-        "title": "何致和「花街樹屋」登日 川本三郎共談未曾見過的台北",
-        "summary": "（中央社記者戴雅真東京5日專電）台灣作家何致和長篇小說「花街樹屋」日譯本日前由日本小學館出版。文化部駐日台灣文化中心今天特別邀請何致和與日本重量級文藝評論家川本三郎，以「漫步未曾見過的台北」為題展開對談，從文學與城市書寫出發，分享筆下的台北記憶與城市風景。",
-        "url": "https://www.cna.com.tw/news/acul/202609050193.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-09-05T13:45:42+00:00"
-      },
-      {
-        "id": "56049fcdadab",
-        "title": "蔣渭水青年漢詩吟唱賽　台語客語高手齊聚拚場",
-        "summary": "（中央社記者邱祖胤台北5日電）「2026蔣渭水台語．客語青年漢詩吟唱賽」總決賽暨頒獎典禮，今天在台北華山文創園區舉行，成功大學林俊義奪下大專組冠軍，苗栗建臺高中謝昕恩獲高中組冠軍。",
-        "url": "https://www.cna.com.tw/news/acul/202609050192.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-09-05T13:41:40+00:00"
-      },
-      {
-        "id": "2538e113029a",
-        "title": "Refurbishing a Tektronix TDS7104 oscilloscope",
-        "summary": "A Tektronix TDS7104 oscilloscope picked up for $300 at the Silicon Valley Flea Market was the starting point for a detailed refurbishment. The scope is a 4-channel, 1 GHz instrument with a 10 Gs/s maximum sample rate on one channel, running Windows 2000 Pro Embedded on a RadiSys NLX motherboard with...",
-        "url": "https://blog.adafruit.com/2026/09/05/refurbishing-a-tektronix-tds7104-oscilloscope/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-05T13:30:52+00:00"
       },
       {
         "id": "42b3437f6f95",
@@ -1149,36 +1109,12 @@
         "published": "2026-09-04T22:09:27+00:00"
       },
       {
-        "id": "9b9e4cf88ea0",
-        "title": "Halloween Costume Detector #Raspberry Pi",
-        "summary": "Build a wise cracking skull to MC your Halloween costume party. This project uses a Raspberry Pi 5 paired with a NoIR PiCamera and speaker bonnet. The Pi runs a Python script with OpenCV person detection. When a person crosses paths with the skull, a picture is sent to Claude with a prompt requestin...",
-        "url": "https://blog.adafruit.com/2026/09/04/halloween-costume-detector-raspberry-pi/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-04T20:00:55+00:00"
-      },
-      {
-        "id": "a6749d630794",
-        "title": "Shipping Alert: Rosh Hashanah – Friday, September 11, 2026",
-        "summary": "&#160; Double holiday week! Rosh Hashanah begins next Friday 9/11/2026. This is an official holiday for the Adafruit team but orders will still be shipping. Please be aware! In conjunction with Labor Day at the start of the week, this makes for a tight shipping window and there may be delays. Please...",
-        "url": "https://blog.adafruit.com/2026/09/04/shipping-alert-rosh-hashanah-friday-september-11-2026/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-04T17:56:40+00:00"
-      },
-      {
         "id": "f483bb1d9aff",
         "title": "Loraine James has a new LP, it’s a free download, and it’s raw brilliance",
         "summary": "\"U Get Me\"? Yes. Out today, Friday, Loraine James' newest LP It’s Nothing Personal. is the kind of massive, glitchy percussive syncopation I would want to use to break in an excellent, brand new pair of trainers. Then comes deep bass, explosive rhythm, and heart-skipping vocals. (\"Oi!\")\nThe post Lor...",
         "url": "https://cdm.link/loraine-james-has-a-new-lp/",
         "source": "CDM Create Digital Music",
         "published": "2026-09-04T17:47:29+00:00"
-      },
-      {
-        "id": "6e4a24bb6e50",
-        "title": "Semi-Permanent E-Paper Camera with ‘Digital Film’ #piday #raspberrypi",
-        "summary": "Camera with Digital Film, image from Strange Inventions Lab &#160; Strange Inventions created this&#8230;strange invention: a cartridge-based Raspberry Pi camera that &#8216;prints&#8217; to e-paper. The 3D printed camera houses a Raspberry Pi 3 A+, camera module, battery, and microSD card. Each car...",
-        "url": "https://blog.adafruit.com/2026/09/04/semi-permanent-e-paper-camera-with-digital-film-piday-raspberrypi/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-04T17:44:22+00:00"
       },
       {
         "id": "cc18ca0338b6",
@@ -1477,6 +1413,14 @@
         "published": "2026-09-02T09:14:00+00:00"
       },
       {
+        "id": "9b806684e028",
+        "title": "Liminal State: August 2026 overview",
+        "summary": "Overview of the Liminal State radioshows in August 2026 - with links to the on-demand versions. \n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/ls-aug26/",
+        "source": "Ambientblog",
+        "published": "2026-09-02T09:04:00+00:00"
+      },
+      {
         "id": "9ce33c3a5e29",
         "title": "Meta 重拳打擊偷拍，數千副 AI 智慧眼鏡因「破壞指示燈」遭強制禁用相機",
         "summary": "Meta 近日針對旗下 AI 智慧眼鏡祭出更嚴格的防護措施，已強制停用數千副遭刻意竄改裝置的攝影功能。由於部分 [&#8230;]",
@@ -1563,14 +1507,6 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q245339167887565386",
         "source": "國家圖書館",
         "published": "2026-09-01T16:00:00+00:00"
-      },
-      {
-        "id": "d11aaa9dbfc4",
-        "title": "Listen to three hours of “Mad” Mike Banks, plus a chat with Waajeed",
-        "summary": "Benji B did this interview in 2017, but it's even more essential in 2026: Mike Banks talks about the meaning behind techno music, with legendary tracks mixed right in. And let's go around the corner to hear from Wajeed and the Underground Music Academy from this summer.\nThe post Listen to three hour...",
-        "url": "https://cdm.link/mad-mike-and-waajeed-in-conversation/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-09-01T14:03:09+00:00"
       },
       {
         "id": "49a9866043f0",
@@ -1723,6 +1659,14 @@
         "url": "https://www.twreporter.org/a/photo-tino-sehgal-leeum-no-photography",
         "source": "報導者",
         "published": "2026-08-29T16:00:00+00:00"
+      },
+      {
+        "id": "497c12b70f04",
+        "title": "Remst8 – Coalescence",
+        "summary": "With Coalescence, Remst8 (Michael Carlson) offers a long-form continuous drone session, so you can 'zone out' for over four hours.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/coalescence/",
+        "source": "Ambientblog",
+        "published": "2026-08-29T08:53:27+00:00"
       },
       {
         "id": "984c47357d53",
@@ -1885,6 +1829,14 @@
         "published": "2026-08-25T00:00:00+00:00"
       },
       {
+        "id": "50ea6c11c786",
+        "title": "Azaleh – Sound Journal(s)",
+        "summary": "Four Sound Journals by Azaleh. Released as separate albums, but together they are a beautiful set of more than 200 minutes of long-form immersive and atmospheric ambient music.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/soundjournals/",
+        "source": "Ambientblog",
+        "published": "2026-08-24T08:27:23+00:00"
+      },
+      {
         "id": "d2fc0bc3e094",
         "title": "What the Demolition of Beach House teaches us",
         "summary": "Beach House, the historic bungalow inside Queen Mary’s College campus (see Heritage Watch for further details) has been demolished. It is making way for a ‘world-class auditorium’ and so you cannot blame the authorities for thinking futuristic, and therefore sacrificing something of the past. The co...",
@@ -2037,6 +1989,14 @@
         "published": "2026-08-18T18:14:03+00:00"
       },
       {
+        "id": "924d3f83ea26",
+        "title": "David Cordero/Aiko Takahashi  – Night’s End",
+        "summary": "Music for the end of the night (or for every other delicate moment of the day): David Cordero &#038; Aiko Takahashi.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/nights_end/",
+        "source": "Ambientblog",
+        "published": "2026-08-18T06:48:16+00:00"
+      },
+      {
         "id": "0b3f3f17d6f2",
         "title": "Australia's Social Media Ban for Teens May Not Be the Best Solution, But It's Certainly Getting People Talking",
         "summary": "The Aussie experiment comes amid a lack of clear evidence that the apps harm most adolescents. It may take a dramatic research pivot to finally reveal what’s going on and how to fix it.",
@@ -2091,6 +2051,14 @@
         "url": "https://www.smithsonianmag.com/innovation/how-the-boogie-board-became-one-of-summers-most-popular-toys-180989316/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-12T17:02:02+00:00"
+      },
+      {
+        "id": "e26f8fe5237d",
+        "title": "Paul Haslinger & Christian Wittman",
+        "summary": "Paul Haslinger (Tangerine Dream) and Christian Wittman (Lightwave) start their new label Noion with two albums inspired by important writers.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/haslinger-wittman/",
+        "source": "Ambientblog",
+        "published": "2026-08-12T13:06:40+00:00"
       },
       {
         "id": "5bb7c4f60339",
@@ -2157,6 +2125,14 @@
         "published": "2026-08-07T14:00:00+00:00"
       },
       {
+        "id": "ab19b1a15787",
+        "title": "James Murray – Islands Alight",
+        "summary": "Ambient with a refreshing rhythmic twist: James Murray's Islands Alight.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/murray-islands/",
+        "source": "Ambientblog",
+        "published": "2026-08-07T07:36:18+00:00"
+      },
+      {
         "id": "86862b96a33b",
         "title": "Our WeatherNext 2 AI model demonstrated a massive leap forward in predicting cyclones.",
         "summary": "Google DeepMind’s WeatherNext 2 shows state-of-the-art accuracy in cyclone prediction.",
@@ -2219,6 +2195,14 @@
         "url": "https://www.smithsonianmag.com/innovation/the-history-of-the-beach-read-from-19th-century-moral-debasement-to-booktok-180989238/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-08-03T14:22:30+00:00"
+      },
+      {
+        "id": "3be7e9298aa5",
+        "title": "DreamScenes – August 2026",
+        "summary": "\"Even if morning comes...\" - DreamScenes for August 2026.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-august-2026/",
+        "source": "Ambientblog",
+        "published": "2026-08-02T21:00:00+00:00"
       },
       {
         "id": "c385b61e66ad",
@@ -2293,12 +2277,28 @@
         "published": "2026-07-29T09:00:00+00:00"
       },
       {
+        "id": "391cdc008170",
+        "title": "Lawrence English – The Rest Is My Ghost",
+        "summary": "Lawrence English' theory about 'acid nostalgia' has inspired him to create 'The Rest Is My Ghost' - which may very well prove to be one of the most important albums of this year.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/lawrence-english/",
+        "source": "Ambientblog",
+        "published": "2026-07-29T08:04:34+00:00"
+      },
+      {
         "id": "588c476293af",
         "title": "臺北大學林文一從「都市治理」視角，省思科學園區發展",
         "summary": "國立臺北大學都市計劃研究所教授林文一教授指出，都市治理不該是「由上而下」的思維，都市的規劃與發展，不僅與每個居 [&#8230;]\nThe post 臺北大學林文一從「都市治理」視角，省思科學園區發展 appeared first on 人文．島嶼.",
         "url": "https://humanityisland.nccu.edu.tw/wen-i-lin_a/",
         "source": "人文．島嶼",
         "published": "2026-07-29T00:30:37+00:00"
+      },
+      {
+        "id": "8d3460b202ae",
+        "title": "New radio show: “Liminal State”",
+        "summary": "Introducing a new weekly ambient music radio show: 'Liminal State'. Also: a change in the DreamScenes broadcast schedule.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/liminal-state/",
+        "source": "Ambientblog",
+        "published": "2026-07-25T07:40:54+00:00"
       },
       {
         "id": "bb84be5a07ca",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-07T10:08:39.728191+00:00"
+        "published": "2026-09-07T16:22:40.219917+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-07T10:08:39.728183+00:00"
+        "published": "2026-09-07T16:22:40.219907+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-07T10:08:39.728174+00:00"
+        "published": "2026-09-07T16:22:40.219897+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-07T10:08:39.728165+00:00"
+        "published": "2026-09-07T16:22:40.219886+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-07T10:08:39.728157+00:00"
+        "published": "2026-09-07T16:22:40.219876+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-07T10:08:39.728148+00:00"
+        "published": "2026-09-07T16:22:40.219865+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-07T10:08:39.728139+00:00"
+        "published": "2026-09-07T16:22:40.219855+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-07T10:08:39.728128+00:00"
+        "published": "2026-09-07T16:22:40.219844+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-07T10:08:39.728119+00:00"
+        "published": "2026-09-07T16:22:40.219833+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-07T10:08:39.728110+00:00"
+        "published": "2026-09-07T16:22:40.219822+00:00"
       },
       {
         "id": "a9fffd3d53b0",
