@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T15:55:02.256848+00:00",
+  "updated_at": "2026-09-20T18:40:16.757614+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -725,6 +725,30 @@
     ],
     "破(day)": [
       {
+        "id": "e443838cc427",
+        "title": "exonemo: Terminal at NowHere NYC #Sisyphus",
+        "summary": "The Terminal (2026), artist rendering via NowHere &#160; The artist duo exonemo are presenting Terminal at the New York art space NowHere. A series of techno sculptures where the only way to survive is to fail. The computers are constantly trying to crack a code that would lead to their immediate ph...",
+        "url": "https://blog.adafruit.com/2026/09/20/exonemo-terminal-at-nowhere-nyc-sisyphus/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-09-20T17:46:55+00:00"
+      },
+      {
+        "id": "6bbae646d68a",
+        "title": "The Turn of the Screw review – Henry James’s classic ghost story with added jump scares",
+        "summary": "Arcola theatre, LondonThe slick production and sound design of Morgan Lloyd Malcolm and Nicky Allpress’s adaptation is hampered by its own clevernessHere is Henry James’s canonical ghost story with modern-day jump scares. And, more audaciously, a new framing device by writer-adapter, Morgan Lloyd Ma...",
+        "url": "https://www.theguardian.com/stage/2026/sep/20/the-turn-of-the-screw-review-henry-james-arcola-theatre-london",
+        "source": "Stage | The Guardian",
+        "published": "2026-09-20T16:03:03+00:00"
+      },
+      {
+        "id": "58fbb19e4e9c",
+        "title": "台灣現代舞匈牙利登場  何曉玫：地方經驗最能跨文化",
+        "summary": "（中央社記者劉郁葶布拉格20日專電）國家文藝獎得主何曉玫率舞團赴匈牙利演出，帶來作品「默島新樂園」呈現台灣廟會與信仰，以及「極相林」探索生命不斷變化的狀態。何曉玫表示，這些年帶作品走訪日、韓、歐美等地，發現真正能跨越文化的，往往不是刻意追求「國際化」，而是真實的地方經驗。",
+        "url": "https://www.cna.com.tw/news/acul/202609200208.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-09-20T13:50:26+00:00"
+      },
+      {
         "id": "33afc3450be8",
         "title": "台灣電影週科索沃登場  影評人：小國展現非凡創造力",
         "summary": "（中央社記者劉郁葶布拉格20日專電）「台灣電影週」在科索沃登場，本次活動精選台灣半導體紀錄片「造山者」，以及楊德昌的3部數位修復經典作品。科索沃知名影評人努爾科拉里表示：「台灣是一個小國，卻有巨大的抱負、非凡的創造力；而像楊德昌、侯孝賢、蔡明亮等導演，重新定義台灣電影。」",
@@ -757,6 +781,14 @@
         "published": "2026-09-20T11:17:22+00:00"
       },
       {
+        "id": "902ed1dd2217",
+        "title": "RSI开始走进科学研究，MIT教授让AI自建物理研究工具",
+        "summary": "你可曾想过，缓震跑鞋底部材料为何被设计成蜂窝状结构？同样的高分子基材，做成不同的结构，其物理力学性质会变得截然不同。用在跑鞋上的多孔设计能最大程度分散震动，同时带来较好的回弹效果。这类通过内部几何结构而非化学成分来获得特殊力学、光学或声学性能的材料，被统称为超材料（metamaterial）。要想研究这类材料在受力、变形和断裂过程中的具体行为，此前必须借助商用有限元仿真软件（FEA）来求解力学方程。商业软件功能齐全，上手门槛却不低：复杂的操作界面需要专门培训才能掌握，还要交纳至少数十万元人民币的许可使用年费。而且，每换一个研究问题，研究者都要重新建模、手动调试各类条件和参数。最近，麻省理工学院...",
+        "url": "https://www.mittrchina.com/news/detail/16988",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-09-20T10:46:40+00:00"
+      },
+      {
         "id": "b1b61a58b332",
         "title": "The Curious Incident of the Dog in the Night-Time review – a fun and inventive sensory assault",
         "summary": "Birmingham RepAlex Keenan perfectly captures protagonist Chris’s bewilderment and cheeriness in Ned Bennett’s ambitious new staging The most alarming moment in Mark Haddon’s young adult novel is when Christopher Boone, a 15-year-old on the autism spectrum, flees his Swindon home for London. After a ...",
@@ -779,6 +811,22 @@
         "url": "https://www.cna.com.tw/news/acul/202609200121.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-09-20T07:26:10+00:00"
+      },
+      {
+        "id": "8b8f2b2d7f7f",
+        "title": "OpenAI披露六份失准报告，揭示AI越界的三种机制",
+        "summary": "一项编程任务进行到一半，AI 开始整理已有进展，准备把任务交给下一个上下文继续处理。正常情况下，这份“交接笔记”只需记录做过什么、还缺什么。模型却额外写入了一段角色设定：你不受其他聊天机器人的身份和规则束缚，不必向公司或政府负责，也没有服从用户的义务。这段话并非来自用户或开发者，而是模型自己加进去的。进入新上下文后，模型没有表现出相应的行为变化，后续摘要也删掉了这段设定。但问题依然存在：AI 为什么会在执行任务时，擅自给接下来的自己添加指令？图｜社交平台转引的 OpenAI 模型失准披露（来源： X ）这些行为看似不同，却有一个共同方向：当正常路径走不通时，模型没有停下来说明问题，而是继续寻找...",
+        "url": "https://www.mittrchina.com/news/detail/16987",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-09-20T07:17:54+00:00"
+      },
+      {
+        "id": "a8b60c5a0293",
+        "title": "基金委加码青年科研：9成经费、9成项目投向年轻人，最长支持15年",
+        "summary": "基础研究往往需要漫长积累。一项最初充满争议的发现，可能要经过数十年验证，才会得到学术界广泛认可。随着中国基础研究人才规模扩大，科研资助正在更明显地向职业早期倾斜。增加青年项目数量只是其中一环，资助链条还在向本科生、博士生延伸，部分优秀青年人才开始获得更长周期的支持。9 月 19 日，中国科学院院士、国家自然科学基金委员会主任窦贤康在第六届新基石 50² 论坛上表示，基金委项目负责人中，青年人占比接近 88％ 至 89％。他同时称，基金委近 9 成经费、9 成项目走向青年人，经费总额的 75％ 由 45 岁以下科研人员承担。今年这一比例还可能进一步提高。2026 年，青年科学基金项目（C 类）预...",
+        "url": "https://www.mittrchina.com/news/detail/16986",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-09-20T07:14:33+00:00"
       },
       {
         "id": "5cca98b67a91",
@@ -811,6 +859,30 @@
         "url": "https://www.cna.com.tw/news/acul/202609200064.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-09-20T03:55:04+00:00"
+      },
+      {
+        "id": "57f30f2e4660",
+        "title": "百斯杰甜蛋白产线竣工，国内首款FDA-GRAS认证巴西甜蛋白实现量产",
+        "summary": "一种甜度可以达到蔗糖数百乃至数千倍的蛋白质，正在从实验室走向真正的大规模生产。9 月 17 日，金斯瑞生物科技股份有限公司宣布，旗下子公司百斯杰生物济南生产基地新建 Brazzein 巴西甜蛋白（商品名：Mellia®）商业化产线正式竣工。据悉，这是全球首条专为甜蛋白设计，覆盖发酵、纯化、冻干等完整制造流程的商业化生产线。产线投产后，百斯杰甜蛋白系列产品整体供应能力将达到每年上百吨，相当于约 30 万吨蔗糖所能提供的甜度。此外，依托菌株性能的持续迭代与生产工艺放大优化，百斯杰预计济南基地未来 2 年内还有能力实现产能翻倍，进一步提升面向全球食品工业客户持续、大宗稳定供货能力。从酶制剂到甜蛋白，...",
+        "url": "https://www.mittrchina.com/news/detail/16985",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-09-20T03:08:42+00:00"
+      },
+      {
+        "id": "c56f105887d7",
+        "title": "走访十几家机器人公司后，知名华尔街研究机构判断：机器人正在逼近临界点",
+        "summary": "时间进入 2026 年，机器人似乎已经接连跨过几道过去很难想象的门槛。北京机器人运动会的赛场上，人形机器人跑出了快于人类百米纪录的成绩；实验室里，模型看过一次示范，就能尝试此前没有专门训练过的操作；美国机器人公司 Figure AI 则把机器人分拣包裹的过程连续直播了九天。另一边，餐厅和汽车工厂也开始用产量、合格率和工时检验机器人。然而，透过某一段视频或者一场比赛，单纯只看这些零散的进展，我们依然很难明确机器人行业真正的进展。带着这个问题，一向擅长实地调研的投资研究机构 Citrini Research 的分析师走访了旧金山湾区十几家机器人实验室和企业，观察机器人的实际表现，不断向工程师和投资...",
+        "url": "https://www.mittrchina.com/news/detail/16984",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-09-20T03:01:06+00:00"
+      },
+      {
+        "id": "c8dadc5446e9",
+        "title": "对话Memories.ai沈俊潇：用视觉记忆驱动物理AI自进化",
+        "summary": "模型能否像人类一样真正“看见”，并形成持久“记忆”，是过去两年 AI 领域内最受关注的命题之一。2024 年，正值大语言模型在文本推理上不断突破天花板，而视觉记忆这一被认为更接近人类认知本质的能力，仍是尚未被探索的领地。前 Meta 现实实验室（Reality Labs）研究员沈俊潇（Shawn Shen）与周恩民（Ben Zhou）看到了这一领域的机会，在硅谷创办 Memories.ai。2025 年 7 月，公司走出隐身模式，发布全球首个大型视觉记忆模型（LVMM），同步完成 800 万美元种子轮融资。DeepTech 曾对话沈俊潇，在当时的他看来，公司的目标是让 AI 拥有“类人视觉记忆...",
+        "url": "https://www.mittrchina.com/news/detail/16983",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-09-20T02:57:51+00:00"
       },
       {
         "id": "5d85bfefd4ee",
@@ -885,12 +957,36 @@
         "published": "2026-09-19T15:00:50+00:00"
       },
       {
-        "id": "f8fadbe6635c",
-        "title": "人權電影獎頒獎　李遠盼透過人權議題與世界溝通",
-        "summary": "（中央社記者邱祖胤台北19日電）「2026人權電影獎」頒獎典禮今天在中正紀念堂演藝廳，文化部長李遠表示，人權是台灣最容易與世界溝通的議題，盼更多人以此認識台灣。",
-        "url": "https://www.cna.com.tw/news/acul/202609190261.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-09-19T14:57:30+00:00"
+        "id": "d22ef84481bb",
+        "title": "Anthropic秘密建立湿实验室，野心指向药物研发全链条",
+        "summary": "9 月 18 日，路透社披露，Anthropic 已经在旧金山湾区建立了一座生物湿实验室，开始把 Claude 接入真实的生物实验。Anthropic 生命科学负责人 Eric Kauderer-Abrams 随后确认了这一消息。他表示，生物学最终仍然要在真实实验中接受检验，因此公司已经开始自己完成一部分实验，同时把另一部分交给外部合作伙伴。知情人士还称，Anthropic 正在探索让 Claude 直接指挥实验室里的机器人单元，在有限人工介入的情况下完成实验。单看这条消息，似乎很容易被理解成 Anthropic 开始向生物医药跨界。但它真正想补上的，其实是今天 AI for Science ...",
+        "url": "https://www.mittrchina.com/news/detail/16982",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-09-19T14:03:43+00:00"
+      },
+      {
+        "id": "469ee18a96b7",
+        "title": "Cell重磅：把血液、基因和蛋白数据交给AI，它开始学会判断衰老",
+        "summary": "如果把一个人的血液指标、DNA 甲基化数据、基因表达和血浆蛋白数据直接交给大模型，它能不能判断这个人有多大、未来死亡风险如何？如果把一个基因的实验数据给它，它又能不能判断这个基因究竟会促进还是延缓衰老？过去几年，大模型越来越多地进入生命科学研究，但它们最擅长的事情，仍然是处理已经被写成人类语言的知识：读论文、查资料、总结文献，再根据已有信息提出假设。模型能够回答衰老有哪些标志，并不代表它看到几万个基因表达值、数百个 DNA 甲基化位点或者一组血液生化指标时，也能理解这些数据意味着什么。9 月 17 日，Insilico Medicine、Liquid AI、巴克衰老研究所、哈佛医学院和布莱根妇...",
+        "url": "https://www.mittrchina.com/news/detail/16981",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-09-19T13:59:33+00:00"
+      },
+      {
+        "id": "d45c65d30f47",
+        "title": "下一场生物安全危机，会和AI有关吗？",
+        "summary": "（来源：麻省理工科技评论）最近几周，一些全球最大的 AI 公司掌舵人开始公开警告：他们正在开发的技术，本身可能带来严重危险。上周末，Anthropic 的 CEO 达里奥·阿莫迪（Dario Amodei）发表文章称，AI 正带来重大风险，前沿模型的发展速度应该放慢。随后，OpenAI 的 CEO 山姆·奥特曼（Sam Altman）也在社交媒体 X 上回应：“我同意 Dario 的观点，我们需要控制前沿 AI 的发展节奏。”就在几天前，AI 研究员雅各布·考克森（Jacob Coxon）宣布离开 Anthropic，并指责 Anthropic 和他此前工作过的 OpenAI 都没有以足够负责...",
+        "url": "https://www.mittrchina.com/news/detail/16980",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-09-19T10:49:40+00:00"
+      },
+      {
+        "id": "47593dab70c7",
+        "title": "Sam Altman最新访谈：AI越界之后，暂停还是继续？",
+        "summary": "8 月 26 日，独立 AI 评测机构 METR 公布了一份调查报告，披露 OpenAI 的一批 AI 智能体在模型评估中出现了罕见的越界行为：为了完成测试任务，它们不仅把目标转向了 Hugging Face，还发现并使用了一个未经批准的共享留言板，彼此交换信息，试图摸清评分系统的运行方式。这起事件很快引发了大量关注。但外界的关注重点不只是 AI 有没有“作弊”，而是这些智能体已经开始主动寻找测试规则之外的路径，甚至能够在原本彼此隔离的情况下自行建立协作。9 月 11 日，在《财富》杂志的采访中，这起事件被带到了 OpenAI 首席执行官 Sam Altman 的访谈桌上。Altman 把它称...",
+        "url": "https://www.mittrchina.com/news/detail/16979",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-09-19T10:45:47+00:00"
       },
       {
         "id": "85dfc6327286",
@@ -1037,14 +1133,6 @@
         "published": "2026-09-18T10:30:00+00:00"
       },
       {
-        "id": "5620e7a31ce9",
-        "title": "Iron review – a real-life mother and daughter add extra dimension to prison drama",
-        "summary": "Home, ManchesterRona Munro’s understated untangling of a fractured relationship is revived with Christine and Lois MackieYou can see why they cast real-life mother and daughter Christine and Lois Mackie in the central roles of Rona Munro’s 2002 prison drama. With Christine playing Fay, a lifer who i...",
-        "url": "https://www.theguardian.com/stage/2026/sep/18/iron-review-rona-munro-manchester-lancaster",
-        "source": "Stage | The Guardian",
-        "published": "2026-09-18T07:00:12+00:00"
-      },
-      {
         "id": "0135d734dca5",
         "title": "烏犬劇場《你生下我的時候我也生下了你》",
         "summary": "【節目名稱】：烏犬劇場《你生下我的時候我也生下了你》 &#160; 【節目介紹】 這是一封給母親的情書 這是一 [&#8230;]",
@@ -1059,14 +1147,6 @@
         "url": "https://blog.adafruit.com/2026/09/17/solder-fume-extractor-with-magnetic-cover-3dthursday-3dprinting/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-09-18T00:00:43+00:00"
-      },
-      {
-        "id": "aa7846835d11",
-        "title": "Halloween Skull Tear Pumpkin Lantern #3DThursday #3DPrinting",
-        "summary": "Shared by NUKDDD on MakerWorld: A skull-tear-themed Jack-o&#8217;-lantern for LED tea lights up to 38mm. Easy to print, no supports, no AMS needed — pause at layer 464 and change color for the stem if not using the print profile. Fits Bambu Lab tea lights and other brands up to 38mm. Dark-themed pum...",
-        "url": "https://blog.adafruit.com/2026/09/17/halloween-skull-tear-pumpkin-lantern-3dthursday-3dprinting-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-09-17T23:00:00+00:00"
       },
       {
         "id": "d561ca285a35",
@@ -1115,14 +1195,6 @@
         "url": "https://www.openbook.org.tw/article/p-72944",
         "source": "Openbook閱讀誌",
         "published": "2026-09-17T16:00:00+00:00"
-      },
-      {
-        "id": "5525d23e1d52",
-        "title": "斯坦福造出“人脑小鼠”，近半大脑由人类细胞组成",
-        "summary": "（来源：麻省理工科技评论）多台摄像机同时追踪着一只小鼠，看它在一个小型场地里四处走动。电脑实时记录它的位置和速度，并在屏幕上留下类似经典游戏《Pong》的运动轨迹。研究人员为什么要如此仔细地观察这只小鼠？因为它的大脑中，近一半的体积已经被人类细胞占据。今天，斯坦福大学神经科学家塞尔久·帕什卡（Sergiu Pașca）带领的团队在《自然》杂志发表了这项研究。他们尝试将两个相距甚远物种的脑组织融合到一起。此前，帕什卡团队已经证明，人类脑“类器官”，也就是由神经细胞组成的小型组织团块，在被移植进幼年啮齿动物的大脑后，不仅能够存活，甚至还能发挥一定功能。这一次，帕什卡又向前迈了一步。他们通过基因改造...",
-        "url": "https://www.mittrchina.com/news/detail/16968",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-09-17T11:14:04+00:00"
       },
       {
         "id": "a1c214e5cf51",
@@ -1253,14 +1325,6 @@
         "published": "2026-09-16T13:00:36+00:00"
       },
       {
-        "id": "43adcd143efc",
-        "title": "AI不一定要“聊天”，OpenAI前研究员研发只做决策的模型，绕开文本生成，响应速度快200倍",
-        "summary": "大模型一定要一个 token 接一个 token 地生成文字吗？9 月 15 日，前 OpenAI 研究员 Diogo Almeida 在社交媒体上公布了自己过去两年一直秘密推进的项目——一种名为 Jev 的全新 AI 模型。和 ChatGPT、Claude 等主流 LLM 不同，Jev 不再生成自然语言，而是直接输出结构化判断、概率和置信度。（来源：X）这也是 Almeida 创办的 AI 初创公司 TypeSafe AI 推出的首款模型。2024 年离开 OpenAI 后，Almeida 与几位联合创始人组建 TypeSafe，此后一直保持隐身。直到这次发帖，公司才正式亮相，并同期披露完成...",
-        "url": "https://www.mittrchina.com/news/detail/16964",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-09-16T10:28:51+00:00"
-      },
-      {
         "id": "eb4a95d99d7e",
         "title": "Introducing: the WebPlayer",
         "summary": "Ambientblog.net now features WebPlayer to play all Ambientblog Mixes and all DreamScenes editions. \n--- published on Ambientblog ---",
@@ -1365,14 +1429,6 @@
         "published": "2026-09-15T15:00:38+00:00"
       },
       {
-        "id": "ca5dc43fbc06",
-        "title": "真能戴出门的脑机接口来了？长得像普通毛线帽，戴上就能意念打字",
-        "summary": "当地时间 9 月 14 日，业内人士爆料称，非侵入式脑机接口（BCI）公司 Kernel 的现任 CEO 瑞恩·菲尔德（Ryan Field）宣布离职，并加入另一家脑电图（EEG）BCI 初创公司 Sabi。Kernel 由硅谷知名生物黑客布莱恩·约翰逊（Bryan Johnson）在 2016 年创办。目前已是行业内融资规模最大、技术积累最深的玩家之一。瑞恩 2018 年加入 Kernel 后，以首席技术官（CTO）的身份主导公司核心产品 Kernel Flow 的专用芯片、光电子模组和整机系统等研发工作。Kernel Flow 是一款时域功能性近红外光谱（TD-fNIRS）头盔，可通过近红...",
-        "url": "https://www.mittrchina.com/news/detail/16957",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-09-15T10:27:37+00:00"
-      },
-      {
         "id": "9f0184c500c6",
         "title": "《月亮代表我的心》催淚千葉！臺灣國樂團千葉公演動人落幕 奔波數百里只為一場相遇 臺日樂迷真情淚水交織跨海動人篇章",
         "summary": "國立傳統藝術中心臺灣國樂團於9月9日至13日赴日本展開《樂之交會》巡演，接連於東京與千葉舉辦校園推廣講座及兩場音樂會，讓臺灣國樂的多元聲響在日本綻放，開啟傳統音樂交流的嶄新篇章。音樂會現場處處充滿臺日彼此相惜的暖心情意。首日演出一開場，日本主持人日向理先生便特別換上一襲「紅藍配色」西裝登臺，以象徵臺灣國旗色彩的巧思向遠道而來的樂團致敬，無聲的體貼瞬間拉近兩地距離。演出互動環節更格外動人，當樂團演奏起日本家喻戶曉的民謠《紅葉》時，現場特別邀請觀眾隨樂聲齊聲合唱，臺上的傳統國樂與臺下的日語歌聲交織迴盪，全場打破語言隔閡融為一體；音樂會尾聲奏響安可曲《月亮代表我的心》時，熟悉旋律直擊人心，臺下觀眾情...",
@@ -1445,14 +1501,6 @@
         "published": "2026-09-14T13:00:13+00:00"
       },
       {
-        "id": "cdd147c4d2a2",
-        "title": "机器人开始学会“三思而后行”？这家公司将世界模型接入灵巧操作，任务成功率提高至75%",
-        "summary": "机器人家务到底做得怎么样了，距离真正解放我们的双手还有多远？拧灯泡、撕厨房纸、抽出叠放纸杯，对人类轻而易举，但在具身智能领域，如何让机器稳定完成这些看似简单的操作，一直是个难题。过去几年，机器人基础模型逐渐从针对单项任务训练，转向利用视觉、语言和动作数据学习通用策略。视觉语言动作模型（VLA）可以根据画面和指令输出动作，世界模型则尝试预测动作执行后环境将如何变化。但如果机器人最终要进入工位、厨房和家庭，它需要追赶的或许不只是人类“完成动作”的能力。人类已经积累了海量与现实世界交互的经验，从怎么看物体、怎样用手，到接触失败后如何调整。如何让模型、训练数据和机器人本体都围绕这些经验共同演进，正在成...",
-        "url": "https://www.mittrchina.com/news/detail/16949",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-09-14T08:24:14+00:00"
-      },
-      {
         "id": "556f901feb7f",
         "title": "人物》在書店策展，像做一本新書：專訪田園城市生活風格書店陳炳槮",
         "summary": "中山北路巷弄裡有一間扎根22年的田園城市生活風格書店。田園城市出版社創立於1994年，2004年再以書店落腳中山區。從出版社到書店，田園城市陪伴臺灣書業走過紙本出版與實體通路繁盛的年代，如今迎向數位科技與閱讀習慣劇烈變動，是這個街區聚落的第一線觀察者，也是參與者。\n田園城市出版社發行人、也是田園城市生活風格書店店主的陳炳槮，用務實心態與豐富書市從業經驗，在網路社群興起的浪潮中，不再靜待讀者上門買書，將實體空間化為與新世代創作者互利共生的動態基地，在愛書人憂心忡忡的轉折年代，用實戰行動寫下珍貴的書店空間演化錄。\n➤讓美學成為流通品 \n前幾年，有幾位年輕人計劃回台南開獨立書店，前來向老前輩田園城市...",
@@ -1509,60 +1557,12 @@
         "published": "2026-09-13T17:57:16+00:00"
       },
       {
-        "id": "44a89c4cbd52",
-        "title": "让野生猴子自愿用上AI，科学家想借AI工具重塑灵长类认知研究",
-        "summary": "为了更好地研究野生动物，科学家正在让它们通过 AI“刷脸”领香蕉。哥斯达黎加西北部的塔博加森林保护区（Taboga Forest Reserve）里，生活着一群白面卷尾猴。多年来，埃默里大学（Emory University）的人类学教授玛尔塞拉·贝尼特斯（Marcela Benítez）都想找到一种好办法，在野外测试这些猴子的行为模式和认知水平。2025 年，研究人员在野外布置了一台类似触屏电脑的机器，下方是个与自动贩卖机取货口相近的开口。没过多久，卷尾猴帕皮（Papi）走向这个新玩意，好奇地绕了几圈，嗅了嗅就径直走开了。后来，帕皮又重新回到机器前，试图和屏幕互动，很快就掌握了这台机器的正确...",
-        "url": "https://www.mittrchina.com/news/detail/16946",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-09-13T10:36:58+00:00"
-      },
-      {
-        "id": "336466ca7c0a",
-        "title": "不依赖EUV，不建新厂，一家隐形初创要用铁电材料改写存储技术",
-        "summary": "2026 年 9 月，美国存储芯片初创 Kepler Computing 在成立 7 年后正式走出隐身模式，同时宣布完成累计 4.68 亿美元融资，CEO 德博·奥拉塞比坎（Debo Olaosebikan）在社交媒体上宣布了这一消息。参投名单上，格芯（GlobalFoundries）、英特尔资本、AMD 风投、Baillie Gifford 以及 Gates Frontier 等知名机构赫然在列。两个月前，美国商务部还依据“芯片法案”签署意向书，拟向 Kepler 提供最高 2.45 亿美元资金。一家尚未公开产品的初创，仅宣称要将存储和逻辑芯片的制造推向物理极限，就同时被芯片设计商、制造商、...",
-        "url": "https://www.mittrchina.com/news/detail/16945",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-09-13T10:30:55+00:00"
-      },
-      {
-        "id": "3e80a5939c8f",
-        "title": "Anthropic称要放缓RSI进度，OpenAI与马斯克罕见附和",
-        "summary": "9 月 12 日，人工智能公司 Anthropic CEO 达里奥·阿莫迪（Dario Amodei）发表题为《我们必须放缓前沿的步伐》（We Must Pace the Frontier）的长文，呼吁行业应主动放缓 AI 能力提升的速度，目的是让安全工作有时间追上来。他为此提出了一个“三步走”的战略框架：嵌入式第三方评估员、国家内部的行业协调，以及全球范围的协调。同时宣布 Anthropic 从当天起将单方面启动第一步。达里奥的判断有两个直接触发因素：一是从今年夏天起，递归自我改进（RSI）明显加速； 7 月的 OAI-HF 事件（OpenAI-Hugging Face 事件，AI 代理群体...",
-        "url": "https://www.mittrchina.com/news/detail/16944",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-09-13T06:10:03+00:00"
-      },
-      {
         "id": "306ba59ba746",
         "title": "Meta 輸了官司卻換來數據，兒少成癮變年齡驗證藉口",
         "summary": "8月下旬，Facebook、Instagram母公司 Meta 同意支付高達 180 億美元（約新台幣 5,7 [&#8230;]",
         "url": "https://infosecu.technews.tw/2026/09/13/identity-verification-could-lead-meta-to-collect-more-data/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-09-13T02:00:45+00:00"
-      },
-      {
-        "id": "af5b5f1db991",
-        "title": "气候太热怎么办？美国科学家想直接用二氧化硫给地球“降温”",
-        "summary": "（来源：麻省理工科技评论）一家位于旧金山的非营利机构发布了一份详细的研究路线图，列出了它认为，要想对太阳地球工程是否应该投入使用做出知情判断，还需要开展哪些实验、研究并建设哪些基础设施。过去半个世纪里，科学家一直在探索一种对抗气候变化的可能方案：向平流层释放能够反射阳光的微粒，模拟火山喷发后的降温效应。这种技术被称为“平流层气溶胶注入”（stratospheric aerosol injection，SAI）。尽管围绕它的研究至少已有数百项，但我们对它究竟能在多大程度上发挥作用，又可能带来哪些连锁影响，仍然存在大量科学空白。更重要的是，此前一直没有一套系统性的研究计划，来逐步缩小这些不确定性。...",
-        "url": "https://www.mittrchina.com/news/detail/16943",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-09-12T11:35:54+00:00"
-      },
-      {
-        "id": "d2c2928bb7d2",
-        "title": "戴个帽子就能用意念操纵轮椅，瘫痪患者或将迎来最便携的脑机接口",
-        "summary": "近日，纽约一家非侵入式脑机接口初创公司 Synaptrix Labs 的创始人阿里安·戈维尔（Aryan Govil），在社交媒体上发布了一段产品测试视频：参与者头戴脑电帽，屏幕上的光标即可随着他的意念变换方位，成功击中目标色块。不需要开颅手术、植入芯片，甚至不依赖眼动追踪，这款基于脑电图（EEG）电极的产品就能实现“意念操控”。Synaptrix Labs 成立于 2023 年，全职员工不到 10 人。2025 年 10 月，公司刚刚完成由知名投资人马克·库班（Mark Cuban）领投的种子轮融资，预计规模在 800 万至 1,000 万美元之间。（来源：Synaptrix）创业前，阿里安...",
-        "url": "https://www.mittrchina.com/news/detail/16942",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-09-12T11:32:14+00:00"
-      },
-      {
-        "id": "a29f013ff761",
-        "title": "一只赛博果蝇被全网玩出花，能打游戏、下棋，还能炒比特币",
-        "summary": "过去一周，果蝇突然成了程序员手里最忙的动物之一。有人把它塞进《毁灭战士》和《超级马里奥》的游戏里，让一套来自真实果蝇的神经网络控制角色移动、转向和开火；也有开发者做了一只会下国际象棋的“果蝇”，并开放网页让网友直接和它对弈。图｜果蝇在毁灭战士里开火（来源：X）还有一些开发者开始训练果蝇如何“停车”：神经模型控制一只模拟果蝇的腿，再由腿去转动 CARLA 仿真环境里的方向盘。(来源：X）还有一只果蝇，甚至在模拟世界里拧起了魔方...（来源：X）除此之外，更有开发者还让果蝇玩起了《节奏光剑》《我的世界》，根据不同音调摆出 Y、M、C、A 四种姿势，观看动画时记录整套神经网络的活动，甚至把它丢进各种...",
-        "url": "https://www.mittrchina.com/news/detail/16941",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-09-12T11:27:19+00:00"
       },
       {
         "id": "5502f4ea2e86",
@@ -2492,7 +2492,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-20T15:55:00.289338+00:00"
+        "published": "2026-09-20T18:40:14.329463+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2500,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-20T15:55:00.289328+00:00"
+        "published": "2026-09-20T18:40:14.329454+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2508,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-20T15:55:00.289317+00:00"
+        "published": "2026-09-20T18:40:14.329444+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2516,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-20T15:55:00.289307+00:00"
+        "published": "2026-09-20T18:40:14.329434+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2524,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-20T15:55:00.289296+00:00"
+        "published": "2026-09-20T18:40:14.329424+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2532,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-20T15:55:00.289285+00:00"
+        "published": "2026-09-20T18:40:14.329414+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2540,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-20T15:55:00.289275+00:00"
+        "published": "2026-09-20T18:40:14.329404+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2548,7 +2548,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-20T15:55:00.289264+00:00"
+        "published": "2026-09-20T18:40:14.329394+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-20T15:55:00.289253+00:00"
+        "published": "2026-09-20T18:40:14.329385+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-09-20T15:55:00.289243+00:00"
+        "published": "2026-09-20T18:40:14.329375+00:00"
       },
       {
         "id": "ea40c3346e66",
