@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-15T14:49:05.409358+00:00",
+  "updated_at": "2026-10-15T19:00:08.015550+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "593e084fdf3d",
+        "title": "اغنية الحسن عادل و ايسل خالد يا بابا MP 3",
+        "summary": "س.This item belongs to: audio/dgkemocollection.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mp-3_20261015",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-15T17:20:25+00:00"
+      },
       {
         "id": "8a0c497fcb14",
         "title": "今彩539第115250期　頭獎槓龜",
@@ -45,7 +53,7 @@
       {
         "id": "3731f12b3d28",
         "title": "Velari - Mateless",
-        "summary": "Velari - Mateless PandaCD #7542 Tracklisting: 01 - Mateless 02 - Live and Learn 03 - 10 Things 04 - Karma Boy 05 - Never Love Again.This item belongs to: audio/pandacd-archive.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "summary": "Velari - Mateless PandaCD #7542 Tracklisting: 01 - Mateless 02 - Live and Learn 03 - 10 Things 04 - Karma Boy 05 - Never Love Again.This item belongs to: audio/pandacd-archive.This item has files of the following types: Archive BitTorrent, BitTorrent, Flac, Item Tile, JPEG, Metadata, Text",
         "url": "https://archive.org/details/pandacd-7542-mateless",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-10-15T12:43:37+00:00"
@@ -105,14 +113,6 @@
         "url": "https://archive.org/details/pandacd-7534-gang-way-instrumentale",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-10-15T11:45:38+00:00"
-      },
-      {
-        "id": "88c2d3ddc03f",
-        "title": "Orpheus Mystic - ORMFIN",
-        "summary": "Orpheus Mystic - ORMFIN PandaCD #7533 Tracklisting: 01 - Orpheus MysticFingers november and december 02 - Orpheus MysticFingers anciest rythm 03 - Orpheus MysticFingers match MK 04 - Orpheus MysticFingers don't stop the party 05 - Orpheus MysticFingers loaded.This item belongs to: audio/pandacd-arch...",
-        "url": "https://archive.org/details/pandacd-7533-ormfin",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-15T11:42:39+00:00"
       },
       {
         "id": "dbb5244b8087",
@@ -805,6 +805,62 @@
     ],
     "破(day)": [
       {
+        "id": "afaba4af9439",
+        "title": "100% 3D-Printed Bench Vise – No Hardware Required, 100mm Clamping Range #3DThursday #3DPrinting",
+        "summary": "STLsupplier shares: A compact, fully 3D-printed bench vise — 160×160×80mm with a 100mm clamping range. For light-to-medium clamping: hobby work, gluing, soldering, assembly, holding small prints during cleanup. No screws, bolts, or rods needed. The spindle hole needs supports; after printing, file t...",
+        "url": "https://blog.adafruit.com/2026/10/15/100-3d-printed-bench-vise-no-hardware-required-100mm-clamping-range-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-15T18:00:45+00:00"
+      },
+      {
+        "id": "71a1613d70fd",
+        "title": "NEW GUIDE: Fruit Jam Face Detection #AdafruitLearningSystem @Adafruit",
+        "summary": "Is someone here? This project can let you know! You can use a Fruit Jam running CircuitPython with a USB webcam to run a local front face detection model from OpenCV and output the camera feed over DVI, When a face is detected, a green box is drawn around the face. This is a great [&#8230;]",
+        "url": "https://blog.adafruit.com/2026/10/15/new-guide-fruit-jam-face-detection-adafruitlearningsystem-adafruit/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-15T17:30:28+00:00"
+      },
+      {
+        "id": "a9507af59886",
+        "title": "Halloween Mummy Decoration – Mummy Ghost, Pumpkin, Pig Minis #3DThursday #3DPrinting",
+        "summary": "A series of simple, quick-to-print mummy-themed animal figures. Three variants on one plate each: Mummy Ghost (21 min), Mummy Pumpkin (28 min), Mummy Pig (22 min). Designer plans more animal mummies in the series. Fast prints make these great mass-production items for party favors, classroom rewards...",
+        "url": "https://blog.adafruit.com/2026/10/15/halloween-mummy-decoration-mummy-ghost-pumpkin-pig-minis-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-15T17:00:24+00:00"
+      },
+      {
+        "id": "28b32eac50d1",
+        "title": "Balloon Girl review – tech tycoon swirls with tragic teen parachutist in a crackling, time-travelling climate romp",
+        "summary": "Sherman theatre, Cardiff Hannah McPake’s high-wire drama pokes fun at tech bro machismo, reality TV and Musk-style Martian escapes – think A Christmas Carol in spaceThis show takes local history as its starting point, that of a 19th-century balloonist’s assistant who performed a parachute stunt in t...",
+        "url": "https://www.theguardian.com/stage/2026/oct/15/balloon-girl-review-christmas-carol-musk-martian",
+        "source": "Stage | The Guardian",
+        "published": "2026-10-15T16:49:36+00:00"
+      },
+      {
+        "id": "1be71b528292",
+        "title": "Desk Drawers / Workshop Bins / Organizer #3DThursday #3DPrinting",
+        "summary": "donovandyl shares: A modular desk drawer + workshop bin organizer. Frame mounts to a wall with screws or attaches to a standard 1-inch pegboard. Three drawer combinations work in the same frame: 9 small, 3 medium + 3 small, or 3 large (medium = 2 small, large = 3 small). Each drawer comes in plain [...",
+        "url": "https://blog.adafruit.com/2026/10/15/desk-drawers-workshop-bins-organizer-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-15T16:00:02+00:00"
+      },
+      {
+        "id": "3f726dc48636",
+        "title": "閱讀通信 vol.403》書店的超人",
+        "summary": "通通編只要經過書店，常會毫不猶豫的走進去，喜歡在裡面慢慢享受一個故事，或者被店員推薦各種故事。不過你知道嗎，很多時候，這些書店店員本身就來頭不小、身經百戰。\n\n譬如淡水的無論如何，店員全都是護士，書店介紹了許多護理相關的書籍，還有提供居家服務！而在澎湖的植隱冊室，店長黃士恩以自身餐飲業的經驗將書店轉化，開啟了一個與眾不同的租書體驗，只要50元就可以享有看一本新書的機會。\n\n此外，位在大稻埕的現流冊店，店員陣容也是不容小覷。店長洪沛澤、林潔珊每年舉辦的獨書祭，已經是文學與音樂圈的年度盛會，他們甚至開啟了煮咖哩的支線任務，讓書香氛圍多了一份溫馨的記憶。\n\n想認識更多書店的超人嗎？本次Openboo...",
+        "url": "https://www.openbook.org.tw/article/p-73020",
+        "source": "Openbook閱讀誌",
+        "published": "2026-10-15T16:00:00+00:00"
+      },
+      {
+        "id": "9635470ad554",
+        "title": "3D Hangouts –  Special Guest Brent, Marquee, USB Hub and Knight Cat",
+        "summary": "3D Hangouts – USB Desk Hub, Marquee and Knight Cat https://youtube.com/live/aq4mvEwK7MM?feature=share This week @adafruit special guest Brent Rubell joins to chat about the Adafruit Marquee interface builder for e-ink displays and supported hardware.  Noe is showcasing his built-in USB hub for the I...",
+        "url": "https://blog.adafruit.com/2026/10/15/3d-hangouts-special-guest-brent-marquee-usb-hub-and-knight-cat/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-15T15:00:52+00:00"
+      },
+      {
         "id": "8dda22e1e046",
         "title": "Digital sound, but physical: Roger Linn’s LinnStrument in action, 10% off",
         "summary": "No, we do not all want to be reduced to brains in a jar. Music has always been about gesture, whether embodied in the breath or touch. So now is the perfect time for the LinnStrument, the human-scaled expressive grid from Roger Linn. Roger writes to point us to some of the latest musical examples [&...",
@@ -877,14 +933,6 @@
         "published": "2026-10-15T12:00:13+00:00"
       },
       {
-        "id": "e1c9eb7cb78f",
-        "title": "Grid for Word Clock 2.0 – ESP8266 + WS2812B Neopixels #3DThursday #3DPrinting",
-        "summary": "didldiprint shares: A 3D-printable grid for a word clock supporting English, Italian, and German text. Based on techniccontroller.com&#8217;s tutorial project — ESP8266 + WS2812B NeoPixels. Designer uses a TTP223 touch sensor in place of a button, mounted above the last character of the first row so...",
-        "url": "https://blog.adafruit.com/2026/10/15/grid-for-word-clock-2-0-esp8266-ws2812b-neopixels-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-15T11:00:53+00:00"
-      },
-      {
         "id": "dedee99f32a7",
         "title": "攝影家宋隆泉辭世　228平反運動、民進黨創黨合照留歷史見證",
         "summary": "（中央社記者王寶兒台北15日電）攝影家宋隆泉昨天辭世，享壽69歲。他早年大量記錄1980年代黨外運動，民進黨18人創黨小組合照也出自其手，攝影家曾文邦表示，其影像也加速大眾解除談論228禁忌。",
@@ -893,36 +941,12 @@
         "published": "2026-10-15T10:47:03+00:00"
       },
       {
-        "id": "220a7f5cb3c9",
-        "title": "Flexi Zombie – Articulated with Detachable Brain #3DThursday #3DPrinting",
-        "summary": "3dPrintInPlace shares: A fully-articulated zombie flexi with a detachable brain — designed to bend, wiggle, and fidget, creepy and cute at once. Available in regular, keychain, and magnet versions. Flexi-style print with no supports needed; brain prints as a separate piece. 3.8h total print, PLA (57...",
-        "url": "https://blog.adafruit.com/2026/10/15/flexi-zombie-articulated-with-detachable-brain-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-15T10:00:03+00:00"
-      },
-      {
-        "id": "758972ab2054",
-        "title": "Candy Corn Monsters – Halloween Triad: Cornhallow, Huskbinder, Cobwraith #3DThursday #3DPrinting",
-        "summary": "cryostatic shares: Three candy corn monsters — Cornhallow, Huskbinder, and Cobwraith — collectively called the Triadum Inmanducati. Designer&#8217;s fiction says they rise from leftover candy corn at Halloween midnight. Large Triad 6&#8243; (127mm): 0.2mm layer, 2 walls, 10% infill, ~27.8h, 1 plate....",
-        "url": "https://blog.adafruit.com/2026/10/15/candy-corn-monsters-halloween-triad-cornhallow-huskbinder-cobwraith-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-15T09:00:17+00:00"
-      },
-      {
         "id": "3e028d507f97",
         "title": "‘The world is falling apart’: Dominic Cooke plans boldly political first season at Almeida",
         "summary": "Exclusive: London theatre’s new artistic director working with David Tennant and Caryl Churchill as he wrestles with Britain’s decline – and with smart glassesA spate of highly political plays will feature in one of north London’s most storied theatres next season, as its new artistic director says ...",
         "url": "https://www.theguardian.com/stage/2026/oct/15/dominic-cooke-almeida-theatre-david-tennant-caryl-churchill",
         "source": "Stage | The Guardian",
         "published": "2026-10-15T09:00:09+00:00"
-      },
-      {
-        "id": "fd9c8a6f1e6b",
-        "title": "Cranio Skull Lamp – 40 Interlocked Skulls for Bambu MH001 LED Kit #3DThursday #3DPrinting",
-        "summary": "user_3132746238 shares: A skull-themed lampshade composed of 40 interlocked miniature skulls designed for the Bambu Lab LED Lamp Kit MH001. Blends steampunk, gothic, Halloween flair, and dark fantasy. Snap-fit assembly. Works as both a lit and unlit decorative object. Alternative skull-lamp pick — d...",
-        "url": "https://blog.adafruit.com/2026/10/15/cranio-skull-lamp-40-interlocked-skulls-for-bambu-mh001-led-kit-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-15T08:00:54+00:00"
       },
       {
         "id": "53eb33cc2ec9",
@@ -939,14 +963,6 @@
         "url": "https://www.cna.com.tw/news/acul/202610150170.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-10-15T07:00:14+00:00"
-      },
-      {
-        "id": "6961f681dc55",
-        "title": "Rugged Screw Unit – Gridfinity Hardware Storage #3DThursday #3DPrinting",
-        "summary": "K2_Kevin shares: A stackable Gridfinity storage unit for screws and small hardware, with drawers and optional toppers. Part of a larger Rugged Organizer system. Variants: 3×5 ScrewUnit (~59.8h), 2×5 small-drawer (~21.9h), 2×5 mixed-drawer (~23.7h). Features: drawer stops to keep screws from spilling...",
-        "url": "https://blog.adafruit.com/2026/10/15/rugged-screw-unit-gridfinity-hardware-storage-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-15T07:00:07+00:00"
       },
       {
         "id": "518ca9330af5",
@@ -1485,14 +1501,6 @@
         "published": "2026-10-11T16:00:00+00:00"
       },
       {
-        "id": "1f2674522bab",
-        "title": "The Prime of Miss Jean Brodie review – Muriel Spark’s extraordinary heroine made more extraordinary still",
-        "summary": "Royal Lyceum, EdinburghGayle Rankin is funny, sharp-tongued and sexually forthright as Vicky Featherstone’s production ditches 1930s starchiness for the bohemian avant gardeJean Brodie has entered the classroom of Mr Lowther (Brian Ferguson). She tells the music teacher she will not be a distraction...",
-        "url": "https://www.theguardian.com/stage/2026/oct/11/the-prime-of-miss-jean-brodie-review-muriel-spark-royal-lyceum-edinburgh-tour",
-        "source": "Stage | The Guardian",
-        "published": "2026-10-11T11:45:42+00:00"
-      },
-      {
         "id": "2c8364fcbb8d",
         "title": "OpenAI悄悄上架了一个生命科学新模型，想当药企的工具供应商",
         "summary": "当地时间 10 月 10 日，科技媒体 TestingCatalog 注意到，OpenAI 的 API 价格页上悄然出现了一个并未正式发布的型号：gpt-rosalind-discovery。它被归为“生命科学模型”一栏，紧挨着已经公开的 gpt-rosalind-research。两者定价完全相同：每百万 Token 输入 5 美元、缓存输入 0.5 美元、输出 25 美元，与通用旗舰模型大体持平。外界根据“discovery”一词猜测，它或将主要面向药物发现。据第三方核查，gpt-rosalind-discovery 及 Rosalind 的模型文档页均返回 404 错误。除了价格，Ope...",
@@ -1507,14 +1515,6 @@
         "url": "https://www.mittrchina.com/news/detail/17078",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-10-11T10:41:17+00:00"
-      },
-      {
-        "id": "d1bb105627fb",
-        "title": "童書評》當世界聽不見你的聲音：《聰明的國王？》與被看見的渴望",
-        "summary": "如果一棵樹在森林中倒下時，沒有人聽見，它是否發出了聲音？一個非常非常聰明的國王，若沒有人聽得見他的聲音，他的智慧是否存在？\n義大利繪本《聰明的國王？》與經典的哲學思考實驗，試圖解開同樣的謎團。故事採用國王、女巫、魔法、變大變小等古典童話元素，表面上說著「很久很久以前」的故事，核心探討的卻是當代人極為焦慮的問題——存在是否需要他人確認？\n故事誕生於瓦倫緹娜．瑪賽利（Valentina Maselli）女兒的床邊，源自每日例行的睡前儀式。當她一氣呵成地說出這個故事時，立刻感覺到：「我剛剛講了一個很重要的故事。」\n長期投入劇場的瑪賽利，是演員、導演，也是劇本創作者。對她而言，劇場的黑色舞台是故事最自...",
-        "url": "https://www.openbook.org.tw/article/p-72994",
-        "source": "Openbook閱讀誌",
-        "published": "2026-10-11T01:00:00+00:00"
       },
       {
         "id": "0b87f215a7d6",
@@ -2564,7 +2564,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-15T14:49:01.914068+00:00"
+        "published": "2026-10-15T19:00:04.879566+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2572,7 +2572,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-15T14:49:01.914058+00:00"
+        "published": "2026-10-15T19:00:04.879558+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2580,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-15T14:49:01.914047+00:00"
+        "published": "2026-10-15T19:00:04.879550+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2588,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-15T14:49:01.914037+00:00"
+        "published": "2026-10-15T19:00:04.879542+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2596,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-15T14:49:01.914026+00:00"
+        "published": "2026-10-15T19:00:04.879535+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2604,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-15T14:49:01.914016+00:00"
+        "published": "2026-10-15T19:00:04.879527+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2612,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-15T14:49:01.914005+00:00"
+        "published": "2026-10-15T19:00:04.879519+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2620,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-15T14:49:01.913995+00:00"
+        "published": "2026-10-15T19:00:04.879511+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2628,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-15T14:49:01.913984+00:00"
+        "published": "2026-10-15T19:00:04.879503+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2636,7 +2636,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-15T14:49:01.913973+00:00"
+        "published": "2026-10-15T19:00:04.879496+00:00"
       },
       {
         "id": "e2618349a7e3",
