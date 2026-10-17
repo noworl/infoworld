@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-10-17T19:13:26.344566+00:00",
+  "updated_at": "2026-10-17T22:11:59.369271+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "155c0ccaa6ce",
+        "title": "seb Discography",
+        "summary": "Bandcamp Instagram Neocities YouTube Latest Release 261018:  Sebastain - Lying To Myself Uncontained Releases (1) Sebastian - For You Contained Releases (36) Brooding Blubber - Flib Evil killer snowman - Death To all snowmen!!!!! Evil killer snowman - Filmed snow killings He Purchased A Thousand Ru....",
+        "url": "https://archive.org/details/seb-discography",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-17T20:11:41+00:00"
+      },
+      {
+        "id": "23212a957ab1",
+        "title": "NONO La lontananza nostalgica utopica futura",
+        "summary": "NONO  La lontananza nostalgica utopica futura Gidon Kremer (Violine) (1992).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bbnc_20261017",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-17T19:02:55+00:00"
+      },
+      {
+        "id": "e174a273faa8",
+        "title": "tidefools",
+        "summary": "Podfic of tidefools by PennamePersona.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/tidefools",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-17T18:58:36+00:00"
+      },
+      {
+        "id": "136a8c760004",
+        "title": "NONO \"Hay que caminar\" sonando",
+        "summary": "NONO  \"Hay que caminar\" sonando Gidon Kremer, Tatjana Grindenko (Violine) (1992).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/b-vbc",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-17T18:54:30+00:00"
+      },
       {
         "id": "1c4b691c9923",
         "title": "MEGAPHONE",
@@ -137,38 +169,6 @@
         "url": "https://archive.org/details/DNALOUNGE-2026-10-15",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-10-17T05:04:48+00:00"
-      },
-      {
-        "id": "d26f948c597b",
-        "title": "Process",
-        "summary": "After Abbott’s death process, they aren’t broken long..This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/process_202610",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-17T03:38:55+00:00"
-      },
-      {
-        "id": "3eacaa271150",
-        "title": "Flame And Rust 7+8",
-        "summary": "Flame And Rust 7+8.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/flame-and-rust-7-8",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-17T02:17:26+00:00"
-      },
-      {
-        "id": "0cab560bf9a4",
-        "title": "(Podfic) You Know Its Always Love",
-        "summary": "Podfic of: https://archiveofourown.org/works/46639450.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/podfic-you-know-its-always-love",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-17T00:58:33+00:00"
-      },
-      {
-        "id": "bec2d0cbfdfe",
-        "title": "IVAN MAECDO MARCANTE INTER ( OUTUBRO 2026 )",
-        "summary": "Ssj.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/ivan-maecdo-marcante-inter-outubro-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-17T00:41:24+00:00"
       },
       {
         "id": "0b151b496750",
@@ -805,6 +805,22 @@
     ],
     "破(day)": [
       {
+        "id": "9047117c8b02",
+        "title": "Astrobiologist Answers Mars Questions",
+        "summary": "Space scientist and astrobiologist Erika DeBenedictis joined WIRED to answer the internet&#8217;s questions about Mars.",
+        "url": "https://blog.adafruit.com/2026/10/17/astrobiologist-answers-mars-questions/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-17T20:00:57+00:00"
+      },
+      {
+        "id": "fee4642ab2d5",
+        "title": "Adafruit New Product this Week: Adafruit CP2105 Friend – USB to Dual UART Serial Converters",
+        "summary": "This week we debuted 1 New Product, the Adafruit CP2105 Friend &#8211; USB to Dual UART Serial Converters. Keep up with all the new at Adafruit.com/NEW. Want to get new products info beamed straight into your inbox? New nEw NEWs From Adafruit is an email newsletter sent once a week to subscribers on...",
+        "url": "https://blog.adafruit.com/2026/10/17/adafruit-new-product-this-week-adafruit-cp2105-friend-usb-to-dual-uart-serial-converters/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-17T19:00:29+00:00"
+      },
+      {
         "id": "c0601fc6f734",
         "title": "NOAA’s 2026-2027 U.S. Winter Outlook – El Niño Looms Large",
         "summary": "The 2026-2027 U.S. Winter Outlook map for precipitation shows wetter-than-average conditions are most likely across the Southwest, South and East Coast. Drier-than-average conditions are forecast for parts of the northern Rockies and Great Lakes, and central Alaska. (Image credit: NOAA) &#160; A wet...",
@@ -955,22 +971,6 @@
         "url": "https://www.theguardian.com/stage/2026/oct/16/some-woman-review-anne-marie-duff-dorfman-theatre",
         "source": "Stage | The Guardian",
         "published": "2026-10-16T13:50:26+00:00"
-      },
-      {
-        "id": "b8c8a7da1c58",
-        "title": "Microsoft is embracing the tidal wave of AI-decompiled games by announcing a lab for them",
-        "summary": "Simon Batt, writing at XDA Developers, reports that Microsoft has responded to the wave of AI-assisted game decompilations with a new group of its own. Recent examples include Super Smash Bros. Melee being decompiled and made to run natively on PC, Android, and Linux. Xbox CEO Asha Sharma announced ...",
-        "url": "https://blog.adafruit.com/2026/10/16/microsoft-is-embracing-the-tidal-wave-of-ai-decompiled-games-by-announcing-a-lab-for-them/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-16T13:46:52+00:00"
-      },
-      {
-        "id": "1c080bba6082",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/10/16/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-15-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-16T13:24:46+00:00"
       },
       {
         "id": "95b6ee96a3dc",
@@ -1195,14 +1195,6 @@
         "url": "https://www.theguardian.com/stage/2026/oct/15/baby-review-brixton-house-london-pearl-mackie",
         "source": "Stage | The Guardian",
         "published": "2026-10-14T23:01:15+00:00"
-      },
-      {
-        "id": "0bd5ebf1beec",
-        "title": "Mathias Villard – Past Radiance",
-        "summary": "'Past Radiance' is Mathias Villard's impressive debut album on Joachim Spieth's Affin label.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/past-radiance/",
-        "source": "Ambientblog",
-        "published": "2026-10-14T18:54:41+00:00"
       },
       {
         "id": "270bf3bb63fa",
@@ -1661,14 +1653,6 @@
         "published": "2026-10-09T15:02:50+00:00"
       },
       {
-        "id": "251816c6e7bd",
-        "title": "Deaf Center – Trinitatis",
-        "summary": "Trinitatis, Deaf Center's live-recording of their recent concert in Dordrecht, is a perfect companion to 'Reverie'.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/trinitatis/",
-        "source": "Ambientblog",
-        "published": "2026-10-09T08:32:27+00:00"
-      },
-      {
         "id": "aaaab71b863f",
         "title": "凝聚專業能量！國圖「嬰幼兒閱讀專業知能培訓課程」第5場次圓滿落幕",
         "summary": "凝聚專業能量！國圖「嬰幼兒閱讀專業知能培訓課程」第5場次圓滿落幕",
@@ -1901,14 +1885,6 @@
         "published": "2026-10-05T02:28:00+00:00"
       },
       {
-        "id": "22a70ae03d4f",
-        "title": "DreamScenes – October 2026",
-        "summary": "\"Untouched Realms\" - DreamScenes for October 2026\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dreamscenes-oct2026/",
-        "source": "Ambientblog",
-        "published": "2026-10-04T20:55:00+00:00"
-      },
-      {
         "id": "3deb320358be",
         "title": "OPEN冬季講堂揭開序幕！前進胡桃鉗奇幻國度，與學員一同感知可見光、實作神奇漂浮化學實驗",
         "summary": "OPEN冬季講堂揭開序幕！前進胡桃鉗奇幻國度，與學員一同感知可見光、實作神奇漂浮化學實驗,OPEN冬季講堂首場課程於10月3日（星期六）午後2時熱鬧登場，由國家圖書館多媒體創意實驗中心張嘉彬主任熱烈開場，感謝國立高雄師範大學科學教育中心應邀遠道而來共同策劃冬季講堂課程，並以德國文學家E.T.A.霍夫...",
@@ -1923,14 +1899,6 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
         "source": "Google DeepMind",
         "published": "2026-10-02T15:00:00+00:00"
-      },
-      {
-        "id": "474636e863c6",
-        "title": "Liminal State: September 2026 overview",
-        "summary": "Liminal State radio show overview for September 2026.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/ls-sept26/",
-        "source": "Ambientblog",
-        "published": "2026-10-01T19:58:52+00:00"
       },
       {
         "id": "e6a93df3c36a",
@@ -2051,14 +2019,6 @@
         "url": "https://aseanplusjournal.com/2026/09/27/aseanweekly329/",
         "source": "ASEAN PLUS 南洋誌",
         "published": "2026-09-27T03:32:32+00:00"
-      },
-      {
-        "id": "de3dcf65f940",
-        "title": "Adam Wiltzie & Johann Johannsson – Friendship Survival Guide",
-        "summary": "Adam Wiltzie creates new music from his collaboration with Jóhann Jóhannsson for this 'Friendship Survival Guide' - with some help of Tim Hecker and Steve Albini. \n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/wiltzie-johannsson/",
-        "source": "Ambientblog",
-        "published": "2026-09-26T07:03:40+00:00"
       },
       {
         "id": "b3b488d7eb8c",
@@ -2189,14 +2149,6 @@
         "published": "2026-09-21T13:00:52+00:00"
       },
       {
-        "id": "4d6e4ccaaf8e",
-        "title": "Looper – Interior-Day",
-        "summary": "Music as bright as the interior on the cover: Looper's self-released album Interior - Day. \n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/looper-interiorday/",
-        "source": "Ambientblog",
-        "published": "2026-09-21T11:55:48+00:00"
-      },
-      {
         "id": "298c561bdb78",
         "title": "116年度傳藝Go Young校園巡演計畫即日起徵件 歡迎傳統演藝團隊踴躍投件，作伙走入校園",
         "summary": "為讓傳統表演藝術走入校園，深化國小學童對傳統藝術與國家語言的認識，國立傳統藝術中心自112年起辦理「傳藝Go Young校園巡演計畫」，獲得巡演學校高度好評與回響！為利演藝團隊於上、下半年都能規劃安排演出學校，116年度計畫提前自即日起至115年10月14日止受理申請，歡迎符合資格的傳統演藝團隊踴躍投件，共同將傳統表演藝術魅力帶進校園，向下扎根培育未來新世代觀眾。「傳藝Go Young校園巡演計畫」由文化部與教育部指導、國立傳統藝術中心主辦，自112年首次辦理以來，成果豐碩。過去3年已累計98個演藝團隊參與，演出劇種涵蓋歌仔戲、布袋戲、客家戲、原住民傳統古謠與樂舞、說唱曲藝、傀儡戲及皮影戲等多...",
@@ -2245,14 +2197,6 @@
         "published": "2026-09-16T13:00:36+00:00"
       },
       {
-        "id": "eb4a95d99d7e",
-        "title": "Introducing: the WebPlayer",
-        "summary": "Ambientblog.net now features a WebPlayer to play all Ambientblog Mixes and all DreamScenes editions. \n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/introducing-the-webplayer/",
-        "source": "Ambientblog",
-        "published": "2026-09-16T08:38:30+00:00"
-      },
-      {
         "id": "1bdc685673f3",
         "title": "五校共譜臺灣音樂高等教育八十年　「聲音的生產」系列音樂會正式啟動",
         "summary": "國立傳統藝術中心臺灣音樂館今（16）日舉辦「聲音的生產──臺灣音樂高等教育八十年」系列音樂會宣告記者會，正式啟動本計畫。八十年來，一代代音樂人從校園出發，學習、創作、演出，有人成為教師、作曲家、演奏家與研究者，也有人走進劇場、社區、學校及不同專業領域，持續為臺灣音樂寫下新的篇章。臺灣音樂館首次以「音樂高等教育」為主題，邀請國內五所大專院校、六個音樂相關系所共同參與，規劃六場系列音樂會，自10月16日起於臺灣戲曲中心大表演廳及高雄中山堂劇場陸續登場。本系列活動由文化部「重建臺灣藝術史2.0計畫」支持。這次「聲音的生產」不只是回頭看看八十年來培養了多少音樂家，而是從三個簡單的問題出發：「誰在教？」...",
@@ -2291,14 +2235,6 @@
         "url": "https://blogs.loc.gov/loc/2026/09/helping-homeless-kids-with-reading-brazils-projeto-uere-wins-librarys-top-literacy-award/",
         "source": "Timeless",
         "published": "2026-09-14T13:00:13+00:00"
-      },
-      {
-        "id": "5502f4ea2e86",
-        "title": "Halftribe – Disappear In Silent Ways",
-        "summary": "'Disappear In Silent Ways' is the fourth album of Halftribe (Ryan Bissett) for the Dronarivm label.\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/halftribe-disappear/",
-        "source": "Ambientblog",
-        "published": "2026-09-12T10:06:21+00:00"
       },
       {
         "id": "03309e98265c",
@@ -2355,22 +2291,6 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/",
         "source": "Google DeepMind",
         "published": "2026-09-07T01:00:00+00:00"
-      },
-      {
-        "id": "83b640505af2",
-        "title": "DreamScenes – September 2026",
-        "summary": "\"Disappear In Silent Ways\" - DreamScenes for September 2026\n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/dreamscenes-sept2026/",
-        "source": "Ambientblog",
-        "published": "2026-09-06T20:55:00+00:00"
-      },
-      {
-        "id": "9b806684e028",
-        "title": "Liminal State: August 2026 overview",
-        "summary": "Overview of the Liminal State radioshows in August 2026 - with links to the on-demand versions. \n--- published on Ambientblog ---",
-        "url": "https://www.ambientblog.net/ls-aug26/",
-        "source": "Ambientblog",
-        "published": "2026-09-02T09:04:00+00:00"
       },
       {
         "id": "55bcf0b9621c",
@@ -2548,7 +2468,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T19:13:23.387840+00:00"
+        "published": "2026-10-17T22:11:54.888197+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2476,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T19:13:23.387828+00:00"
+        "published": "2026-10-17T22:11:54.888191+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2484,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T19:13:23.387817+00:00"
+        "published": "2026-10-17T22:11:54.888185+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2572,7 +2492,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T19:13:23.387806+00:00"
+        "published": "2026-10-17T22:11:54.888178+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2500,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T19:13:23.387795+00:00"
+        "published": "2026-10-17T22:11:54.888172+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2508,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T19:13:23.387784+00:00"
+        "published": "2026-10-17T22:11:54.888166+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2516,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T19:13:23.387774+00:00"
+        "published": "2026-10-17T22:11:54.888160+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2524,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T19:13:23.387764+00:00"
+        "published": "2026-10-17T22:11:54.888153+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2532,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T19:13:23.387754+00:00"
+        "published": "2026-10-17T22:11:54.888147+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2540,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T19:13:23.387743+00:00"
+        "published": "2026-10-17T22:11:54.888141+00:00"
       },
       {
         "id": "c56d8cce1044",
