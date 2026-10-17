@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-17T16:57:53.446125+00:00",
+  "updated_at": "2026-10-17T19:13:26.344566+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "1c4b691c9923",
+        "title": "MEGAPHONE",
+        "summary": "wahoo: SD088 MEGAPHONE is now released!",
+        "url": "https://www.musicofsound.co.nz/blog/megaphone",
+        "source": "Music of Sound",
+        "published": "2026-10-17T16:39:18+00:00"
+      },
       {
         "id": "4f7edcc4b4ff",
         "title": "Intestate Succession Ch 07",
@@ -337,14 +345,6 @@
         "url": "https://music-republic-world-traditional.blogspot.com/2026/09/united-states-five-blind-boys-of.html",
         "source": "MusicRepublic - World Traditional Music from LPs and Cassettes",
         "published": "2026-09-30T11:22:42+00:00"
-      },
-      {
-        "id": "bfab293cbffe",
-        "title": "2c Book Paper Scissors",
-        "summary": "BOOK-PAPER-SCISSORS Nobuyoshi Kikuchi is a 75-year-old Japanese book maker, who devoted his life to the design of over 15,000 books. In this intimate documentary with 3 years in the making, director Nanako Hirose, who is an apprentice of a Japanese&#8230;",
-        "url": "https://www.musicofsound.co.nz/blog/2c-book-paper-scissors",
-        "source": "Music of Sound",
-        "published": "2026-09-28T08:54:00+00:00"
       },
       {
         "id": "7b05fe914b78",
@@ -805,6 +805,22 @@
     ],
     "破(day)": [
       {
+        "id": "c0601fc6f734",
+        "title": "NOAA’s 2026-2027 U.S. Winter Outlook – El Niño Looms Large",
+        "summary": "The 2026-2027 U.S. Winter Outlook map for precipitation shows wetter-than-average conditions are most likely across the Southwest, South and East Coast. Drier-than-average conditions are forecast for parts of the northern Rockies and Great Lakes, and central Alaska. (Image credit: NOAA) &#160; A wet...",
+        "url": "https://blog.adafruit.com/2026/10/17/noaas-2026-2027-u-s-winter-outlook-el-nino-looms-large/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-17T18:00:04+00:00"
+      },
+      {
+        "id": "712491978f0e",
+        "title": "Nokia 3310 Upgraded with A Custom PCB",
+        "summary": "Hoani Bryson got first place in a Nokia 3310 Jam for the entry Trick Shot II. To create the game Hoani built custom hardware with a Pi based PCB and tore apart a Nokia 3310, not an easy feat. The Jam’s goals were to make a game as if it were being made for the [&#8230;]",
+        "url": "https://blog.adafruit.com/2026/10/17/nokia-3310-upgraded-with-a-custom-pcb/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-17T17:49:48+00:00"
+      },
+      {
         "id": "fabcc7a897b8",
         "title": "Instagram 私訊也能作曲，Meta AI 新功能讓文字一鍵變成歌",
         "summary": "Instagram（IG）最近在私訊（DM）加入 AI 作曲功能，用戶只要輸入文字或自訂歌詞，再選擇音樂風格， [&#8230;]",
@@ -965,14 +981,6 @@
         "published": "2026-10-16T13:00:18+00:00"
       },
       {
-        "id": "02bcf9df55a9",
-        "title": "AI-Powered Halloween Decorations with Raspberry Pi #ElectronicHalloween #piday #raspberrypi",
-        "summary": "Eugene Tkachenko built this Halloween set up that transmorphs the existential fear of AI into actual jump scares. It relies on a Raspberry Pi with the SONY IMX500 AI camera to send a message to an off-the-shelf Halloween prop hacked with an ESP32. In this video, I use the Raspberry Pi with the SONY ...",
-        "url": "https://blog.adafruit.com/2026/10/16/ai-powered-halloween-decorations-with-raspberry-pi-electronichalloween-piday-raspberrypi/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-16T12:36:40+00:00"
-      },
-      {
         "id": "59670f8e49ff",
         "title": "「人文千言萬里」法國上架　巴黎出版社盼搭建和平橋梁",
         "summary": "（中央社記者李若韻巴黎16日專電）由巴黎hémisphères出版社出版、台文館執行、國科會支持的「人文千言萬里計畫」，3本關於台灣飲食、環境、經濟的書系，14日起在法國舉辦新書發表會。hémisphères出版社表示，許多法國人不理解台灣跟中國的差別，期待透過此書系盼搭建和平橋梁。",
@@ -1027,14 +1035,6 @@
         "url": "https://technews.tw/2026/10/16/meta-introduces-muse-spark-open/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-10-16T02:14:20+00:00"
-      },
-      {
-        "id": "07d24b624475",
-        "title": "WLED WIFI RGB Matrix Panel Clock – ESP32-C3 + WS2812 8×32 with Scrolling Text #3DThursday #3DPrinting",
-        "summary": "DrejkCZ shares: A WLED-powered RGB matrix panel that shows a clock, scrolling text, or runs built-in effects — all adjustable over Wi-Fi from a PC or phone. Controller: ESP32-C3 Super Mini (WiFi + Bluetooth). Matrix: four 8×8 WS2812 (5050) RGB LED modules forming an 8×32 display (256 LEDs on GPIO 8,...",
-        "url": "https://blog.adafruit.com/2026/10/15/wled-wifi-rgb-matrix-panel-clock-esp32-c3-ws2812-8x32-with-scrolling-text-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-16T00:00:27+00:00"
       },
       {
         "id": "23bf1b38da89",
@@ -2429,14 +2429,6 @@
         "published": "2026-08-19T02:46:43+00:00"
       },
       {
-        "id": "2e7b6e02b9a5",
-        "title": "Why Gen Z Is Learning to Paint Like 19th-Century Artists",
-        "summary": "Paint groups are popping up in parks. Art schools are seeing a surge in applications. The rise of A.I. has people turning to more traditional art forms",
-        "url": "https://www.smithsonianmag.com/innovation/why-gen-z-is-learning-to-paint-like-19th-century-artists-180989359/",
-        "source": "Innovation | smithsonianmag.com",
-        "published": "2026-08-18T18:14:03+00:00"
-      },
-      {
         "id": "bb170a4aac45",
         "title": "[東南亞週報326] 緬軍政府證實翁山蘇姬會紅十字會代表但仍拒無條件釋放、印尼政府出手接管雅萬高鐵公司債務、泰總理15年來首訪印尼欲強化經貿連結",
         "summary": "[東南亞週報326] 緬軍政府證實翁山蘇姬會紅十字會代表但仍拒無條件釋放、印尼政府出手接管雅萬高鐵公司債務、泰 [&#8230;]",
@@ -2556,7 +2548,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T16:57:51.864650+00:00"
+        "published": "2026-10-17T19:13:23.387840+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2556,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T16:57:51.864644+00:00"
+        "published": "2026-10-17T19:13:23.387828+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2572,7 +2564,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T16:57:51.864639+00:00"
+        "published": "2026-10-17T19:13:23.387817+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2572,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T16:57:51.864633+00:00"
+        "published": "2026-10-17T19:13:23.387806+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2580,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T16:57:51.864627+00:00"
+        "published": "2026-10-17T19:13:23.387795+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2588,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T16:57:51.864621+00:00"
+        "published": "2026-10-17T19:13:23.387784+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2596,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T16:57:51.864615+00:00"
+        "published": "2026-10-17T19:13:23.387774+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2604,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T16:57:51.864609+00:00"
+        "published": "2026-10-17T19:13:23.387764+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2612,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T16:57:51.864604+00:00"
+        "published": "2026-10-17T19:13:23.387754+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2620,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-17T16:57:51.864598+00:00"
+        "published": "2026-10-17T19:13:23.387743+00:00"
       },
       {
         "id": "c56d8cce1044",
