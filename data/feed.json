@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-10-18T14:27:16.659265+00:00",
+  "updated_at": "2026-10-18T17:58:57.538808+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "2e2b84d7db59",
+        "title": "(Label) cat playground (2021-2022 v2 archive) Discography",
+        "summary": "Bandcamp Discogs Latest Release 261019:  ◉ - 〄 Contained Releases (25) &amp;student - Media School ******************** - (onkyo) ? - 🔥 blighted_128 - nail polish bnuy - bnuy DJ Awawa - ♡ icky (cedar) - magician (u did a tarot reading for me and im not sure what i feel) isabelle cedar - radiat....Th...",
+        "url": "https://archive.org/details/cat-playground-2021-2022-v2-archive-discography",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-18T17:46:39+00:00"
+      },
+      {
+        "id": "66ac0153f91b",
+        "title": "(Label) cat playground Discography",
+        "summary": "Bandcamp Discogs Neocities Latest Release 261019:  bron - Hospital Express DX : Original Soundtrack Contained Releases (2) bron - Hospital Express DX : Original Soundtrack Hypornest - North Rock Integral Saga \"Followup\".This item belongs to: audio/discography-archive.This item has files of the follo...",
+        "url": "https://archive.org/details/cat-playground-discography",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-18T17:22:40+00:00"
+      },
+      {
+        "id": "95f65415896f",
+        "title": "(Podfic) Growing Greener",
+        "summary": "Podfic of: https://archiveofourown.org/works/65534950.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/podfic-growing-greener",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-18T16:15:39+00:00"
+      },
+      {
+        "id": "146ae7b7668b",
+        "title": "Life For Life; Soul For Soul Chapter 6",
+        "summary": "Chapter 6 \"Was It Worth It?\" of a podfic of  Life for Life; Soul for Soul : a Malevolent swap AU where Arthur is the one who gets identity wiped at the beginning of Season 3..This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, Me...",
+        "url": "https://archive.org/details/life-for-life-soul-for-soul-chapter-6",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-18T14:43:50+00:00"
+      },
       {
         "id": "548f7c5454c6",
         "title": "敖幼祥揭「烏龍院」商標遭廢止　台北漫畫工會籲相關單位關注",
@@ -129,38 +161,6 @@
         "url": "https://archive.org/details/podfic-of-woods-and-moons",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-10-18T00:35:36+00:00"
-      },
-      {
-        "id": "46571d027b8e",
-        "title": "SET AO VIVO DJ GILVANILSON CARISMATICO NO HALLOWEEN DOS GARIMPEIROS NA MALOCA 2026",
-        "summary": "FG.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-dj-gilvanilson-carismatico-no-halloween-dos-garimpeiros-na-maloca-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-17T23:14:51+00:00"
-      },
-      {
-        "id": "5b8a2fda7564",
-        "title": "SET AO VIVO DJ KAIO SOUND NO CHALÉ DA VILA 2026",
-        "summary": "FD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-dj-kaio-sound-no-chale-da-vila-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-17T23:13:52+00:00"
-      },
-      {
-        "id": "57a467465d87",
-        "title": "SET AO VIVO DJ KAIO SOUND NO ROCK DOS ROMEIROS NO PARADA OBRIGATORIA 2026",
-        "summary": "DF.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-dj-kaio-sound-no-rock-dos-romeiros-no-parada-obrigatoria-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-17T23:13:47+00:00"
-      },
-      {
-        "id": "bb15e95364d3",
-        "title": "SET AO VIVO DJ KAIO SOUND NO FESTÃ O DO CIRIO NO PORTO SÃ O JOSÉ 2026",
-        "summary": "FD.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-dj-kaio-sound-no-festa-o-do-cirio-no-porto-sa-o-jose-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-17T23:13:43+00:00"
       },
       {
         "id": "1c4b691c9923",
@@ -805,6 +805,14 @@
     ],
     "破(day)": [
       {
+        "id": "548f7c5454c6",
+        "title": "敖幼祥揭「烏龍院」商標遭廢止　台北漫畫工會籲相關單位關注",
+        "summary": "（中央社記者王寶兒台北18日電）漫畫家敖幼祥昨天透過社群平台表示，其長期維護的「烏龍院」商標，因遭他人提出申請而遭廢止，已委請律師處理。台北市漫畫從業人員職業工會今天呼籲相關單位重視此案。",
+        "url": "https://www.cna.com.tw/news/acul/202610180186.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-10-18T13:17:09+00:00"
+      },
+      {
         "id": "44d891f91870",
         "title": "Bristol Old Vic tackles arts ‘emergency’ by bringing the theatre into classrooms",
         "summary": "Amid financial pressures on household and school budgets, the theatre company is expanding access with free plays Six young actors step into the spotlight as a reverent silence descends on the hall at City Academy in Bristol. A boy steps forward to pose a central question: “What does it mean to be y...",
@@ -819,6 +827,14 @@
         "url": "https://cdm.link/abed-eyad-gaza-interview/",
         "source": "CDM Create Digital Music",
         "published": "2026-10-18T12:44:02+00:00"
+      },
+      {
+        "id": "c4fc7c605db1",
+        "title": "Google也在推进自主湿实验室，已实现智能体与机器人闭环",
+        "summary": "10 月 16 日，Google 发布一篇技术博客，介绍搭建自主湿实验室的进展。团队希望让 AI 智能体设计分子、安排实验、分析结果，再根据反馈调整下一轮方案。在其中一项研究中，他们已经找到了能紧密结合实体瘤相关靶点的蛋白质分子。这项工作由科学家安娜丽莎·波洛斯基牵头，包括机器人操作、分子筛选和蛋白质设计三项研究，目前还没有全部打通。相比 AlphaFold 等预测模型，此次，Google 把更多精力放到了实验上：一个分子在计算机里看起来有用，到了实验台上未必如此；怎样尽快发现问题，再决定下一步做什么，正在成为 AI 科研需要补上的一环。Google 的目标并不止于让智能体做实验。按照团队的设...",
+        "url": "https://www.mittrchina.com/news/detail/17112",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-18T11:20:57+00:00"
       },
       {
         "id": "62a3678b5d8b",
@@ -901,6 +917,14 @@
         "published": "2026-10-17T16:00:00+00:00"
       },
       {
+        "id": "14687bac0adb",
+        "title": "拆解Anthropic的生命科学布局：一家AI公司为何下场做实验？",
+        "summary": "一家以开发大语言模型闻名的 AI 公司，如今开始亲自做生物实验。日前，路透社披露，Anthropic 已在美国旧金山湾区建立自己的生物实验室。随后，公司生命科学负责人 Eric Kauderer-Abrams 证实了这一消息，并表示，生物学研究最终仍需要通过真实实验检验结果。因此 Anthropic 开始在内部开展相关工作，同时继续与外部实验室合作。几天后，Anthropic 公布了一项早期成果：约 950 个 Claude 智能体分析了超过 20 万条逆转录酶相关序列，从中发现一种具有类似 CRISPR 重复序列特征的新型酶系统。研究团队随后通过实验确认了该系统的部分特征，但其具体功能和应用...",
+        "url": "https://www.mittrchina.com/news/detail/17110",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-17T12:33:30+00:00"
+      },
+      {
         "id": "a57dbedb1fb0",
         "title": "紀錄片導演彭啓原記錄老相館　盼在地故事讓更多人知道",
         "summary": "（中央社記者邱祖胤台北17日電）紀錄片導演彭啓原耗時30年記錄桃園楊梅老照相館的故事，他今天表示，「不是我去找照相館，是照相館自己來找我」，期盼這些在地故事能讓更多人知道。",
@@ -915,6 +939,38 @@
         "url": "https://www.cna.com.tw/news/acul/202610170158.aspx",
         "source": "中央社即時新聞 文化新聞",
         "published": "2026-10-17T11:00:38+00:00"
+      },
+      {
+        "id": "3010aa265494",
+        "title": "AI用电需求激增，美国核电站掀起扩容潮",
+        "summary": "（来源：麻省理工科技评论）在电力需求不断攀升的今天，人们正想方设法挖掘每一座发电厂的潜力，尽可能多地生产电力。过去几周，美国核电行业接连传出重大消息，多家企业正试图通过升级现有核电站来提高发电能力。美国最大的核电运营商 Constellation 宣布，计划对旗下 6 座核电站的 11&nbsp;座现有核反应堆进行升级，新增近 1&nbsp;吉瓦（GW）的发电装机容量。10 月 5 日，美国能源部还宣布向 Vistra 提供 42 亿美元贷款，用于支持该公司此前公布的 3 座核电站升级计划。提高现有核反应堆的发电能力，有望在较短时间内为数据中心提供更多清洁电力。但问题是，我们究竟能从这些核电站...",
+        "url": "https://www.mittrchina.com/news/detail/17109",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-17T10:43:28+00:00"
+      },
+      {
+        "id": "ab593aee8554",
+        "title": "号称能“逆向一切”的AI工具爆火，狂揽近30万颗Star，软件开发的护城河守得住吗？",
+        "summary": "近日，名为 REA（Reverse Engineer Anything）的开源项目在 GitHub 上迅速走红。它声称能够让 AI 在没有源代码的情况下分析软件的内部实现，并尝试重新编写其中的功能。从办公软件 Notion 的剪贴板机制，到经典游戏 DX-Ball 的声音算法，再到《东方幻想乡》的弹幕计算方式，一系列演示引发了广泛关注。截至 10 月 17 日，GitHub 页面显示，其 Star 数已超过 29 万。科技博主 Matthew Berman 甚至在社交平台上感叹：“Software is done”（软件完了）。热潮之下，各种 AI 逆向软件的案例也开始传播。有人尝试重建 Cl...",
+        "url": "https://www.mittrchina.com/news/detail/17108",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-17T10:36:53+00:00"
+      },
+      {
+        "id": "f21f12e47d60",
+        "title": "普林斯顿团队开发蛋白质生成AI模型：降低免疫原性，还能提高活性",
+        "summary": "AI 已经能够设计出自然界中未曾出现过的蛋白质，但这并不意味着人体愿意接受它们。一条氨基酸序列，即使能够折叠成预期结构、完成指定功能，也可能在进入人体后引发免疫反应。对于需要反复给药的治疗，这尤其棘手。人体产生的抗药抗体可能加速药物清除，或中和其活性，使原本有效的治疗难以持续。在制药公司工作的一年里，姜凯议注意到了这一矛盾。“在有些科研工作中，可能是先开发出一项技术，再思考它能解决什么问题。但在药企，情况恰恰相反。免疫原性的问题早已存在，而且迫切需要解决。”姜凯议在接受 DeepTech 采访时说。过去，研究人员可以改造天然蛋白质，也可以通过各种方式降低外源蛋白带来的免疫风险。如今，生成式模型...",
+        "url": "https://www.mittrchina.com/news/detail/17107",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-17T06:13:49+00:00"
+      },
+      {
+        "id": "b0ebbc6741f0",
+        "title": "核聚变装置能有多小？MIT科学家尝试用桌面级设备生产燃料",
+        "summary": "核聚变装置能有多小？美国一家初创公司正在尝试把原本需要大型激光设施完成的聚变实验，缩小到桌面级设备上。近日，来自麻省理工学院（MIT）的初创公司 Cambridge Heavy Industries（以下简称 CHI）正式披露了其技术路线，并宣布完成约 620 万美元种子轮融资，由 Azolla Ventures 领投，Overlay、Neta Foundation、P3A 等参与投资。这家成立于 2025 年的公司，希望利用一种特殊的环形激光技术，在较小的设备中创造核聚变所需的极端条件。与许多直接瞄准聚变发电的企业不同，CHI 想先生产氚等稀有同位素，为其他核聚变企业提供燃料。氚是当前主流核...",
+        "url": "https://www.mittrchina.com/news/detail/17106",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-17T06:10:13+00:00"
       },
       {
         "id": "42c15a6370bb",
@@ -1029,6 +1085,14 @@
         "published": "2026-10-16T13:50:26+00:00"
       },
       {
+        "id": "95b6ee96a3dc",
+        "title": "David Harrington, the Kronos Quartet and the American Folklife Center",
+        "summary": "— This is a guest post by David Harrington, the founder and artistic director of San Francisco’s Grammy Award-winning Kronos Quartet. It also appears in the September/October issue of the Library of Congress Magazine. In 2024, the Library appointed Harrington the Kluge Chair in Modern Culture and an...",
+        "url": "https://blogs.loc.gov/loc/2026/10/david-harrington-the-kronos-quartet-and-the-american-folklife-center/",
+        "source": "Timeless",
+        "published": "2026-10-16T13:00:18+00:00"
+      },
+      {
         "id": "59670f8e49ff",
         "title": "「人文千言萬里」法國上架　巴黎出版社盼搭建和平橋梁",
         "summary": "（中央社記者李若韻巴黎16日專電）由巴黎hémisphères出版社出版、台文館執行、國科會支持的「人文千言萬里計畫」，3本關於台灣飲食、環境、經濟的書系，14日起在法國舉辦新書發表會。hémisphères出版社表示，許多法國人不理解台灣跟中國的差別，期待透過此書系盼搭建和平橋梁。",
@@ -1045,12 +1109,12 @@
         "published": "2026-10-16T10:53:13+00:00"
       },
       {
-        "id": "68a87f7ef991",
-        "title": "文總「匠人魂」 走進正修科大探索文物修復幕後故事",
-        "summary": "（中央社記者王寶兒台北16日電）從挖掘畫家陳澄波畫作下的隱藏裸女到投入修復花蓮光復受災文物，幕後都有正修科技大學文物修護研究中心的身影。文總「匠人魂」新集數深入其中，讓人認識修復師職業。",
-        "url": "https://www.cna.com.tw/news/acul/202610160273.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-10-16T10:13:22+00:00"
+        "id": "9bdc79159fb0",
+        "title": "需肾患者或将迎来福音：冷冻一年的猪肾也能恢复功能",
+        "summary": "（来源：麻省理工科技评论）科学家表示，他们首次成功将冷却至 -150°C、并在冰柜中储存数月的猪肾脏重新复温，使其恢复功能。研究团队希望未来能够在人类器官上取得同样的成果。这些猪肾脏的大小与人类肾脏相近。在超低温环境中，它们进入了一种类似玻璃的状态，其中一个肾脏甚至保存了一年多。经过复温、机器测试以及移植到猪体内后，这些肾脏重新恢复了正常的颜色，并开始产生尿液。这些都是肾脏恢复功能的重要迹象。“10 年前，我不敢说自己真的对这项技术抱有多大希望。”共同领导这项研究的明尼苏达大学移植外科医生埃里克·芬格（Erik Finger）说。“但完成最后一次移植后，我走出手术室，说了一句：‘这可是件大事。...",
+        "url": "https://www.mittrchina.com/news/detail/17105",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-16T10:10:53+00:00"
       },
       {
         "id": "8ec8d3c3119d",
@@ -1059,6 +1123,30 @@
         "url": "https://www.openbook.org.tw/article/p-73024",
         "source": "Openbook閱讀誌",
         "published": "2026-10-16T10:00:25+00:00"
+      },
+      {
+        "id": "8fee6fb3a7aa",
+        "title": "美军竞相研发人造血液：让救命的血液不再受储存条件限制",
+        "summary": "（来源：麻省理工科技评论)人造血液公司 KaloCyte 开发了一种双腔静脉输液袋，可以在使用前将冻干粉末与液体混合。这种双腔输液袋的一侧装有名为 ErythroMer 的冻干血红蛋白产品，另一侧则装有无菌水。如果一切按计划进行，未来战地医护人员将能够随身携带这种输液袋，在现场快速将冻干产品复水，及时为伤员输血。KaloCyte 技术人员使用切向流过滤机的设备来处理未封装的血红蛋白。（图片来源：MATT ROTH）这架直升机的无线电呼号是“吗啡 1-2”（Morphine 1-2）。2007 年 2 月，这架体型庞大、配备双旋翼的伤员后送直升机，刚刚将 3 名受伤士兵送往巴格达以北巴拉德的一家...",
+        "url": "https://www.mittrchina.com/news/detail/17104",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-16T08:00:00+00:00"
+      },
+      {
+        "id": "194490a9dcc2",
+        "title": "阿尔茨海默病新药突破大脑递送难题：皮下注射RNAi药物后，脑脊液tau蛋白降低73%",
+        "summary": "本文旨在传递生命科学和医疗健康产业最新讯息，不是治疗方案和投资建议。过去二十多年，阿尔茨海默病的新药研发大多聚焦于β-淀粉样蛋白（Aβ）靶点。但这条路线一直争议不断：关键奠基研究因造假撤稿、相关抗体药物只能部分缓解病情，还伴随脑水肿等严重副作用。这驱使研究者将目光更多转向另一个靶点：会在神经元内部异常聚集、缠结，直接损伤神经细胞的 tau 蛋白（微管相关蛋白 tau）。与 Aβ 斑块相比，tau 缠结在脑内的扩散范围更能反映患者认知衰退的程度。令行业振奋的是，今年 7 月，首个以降低 tau 蛋白为目标的鞘内注射基因沉默药物 diranersen 在 2 期试验中展示了延缓认知衰退的效果。当地...",
+        "url": "https://www.mittrchina.com/news/detail/17103",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-16T05:01:00+00:00"
+      },
+      {
+        "id": "de2716b7be5e",
+        "title": "这次是真外星科技了，把SpaceX的火箭技术用在汽车上，特斯拉发布了能倒挂飞行的跑车",
+        "summary": "等了近 9 年，特斯拉终于展示了新一代 Roadster，而且这辆跑车真的飞了起来。当地时间 10 月 15 日晚，特斯拉在美国得克萨斯州麦格雷戈（McGregor）的 SpaceX 火箭测试与研发中心举办新一代 Roadster 发布会。特斯拉首席设计师 Franz von Holzhausen 与工程团队负责人先后登场，介绍这款跑车的研发历程。随后，特斯拉 CEO 埃隆·马斯克走上舞台，展示了特斯拉与 SpaceX 联合开发的最新成果。（来源：Tesla ）马斯克随后宣布，观众即将看到一辆结合特斯拉汽车技术与 SpaceX 航天技术的产品。他还特意提醒，现场演示存在失败的可能，因此观众需要...",
+        "url": "https://www.mittrchina.com/news/detail/17102",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-16T04:57:03+00:00"
       },
       {
         "id": "299d63e56073",
@@ -1141,20 +1229,20 @@
         "published": "2026-10-15T14:36:11+00:00"
       },
       {
+        "id": "196d9b078073",
+        "title": "Sor Juana, the 17th Century Nun Who Became a Mexican (and Feminist) Icon",
+        "summary": "In 17th-century Mexico, Sor (“Sister”) Juana Inés de la Cruz, a 17th century Catholic nun, used her dazzling scholarship, wit and writings to challenge the church’s harsh limitations on women’s right to education. She has since become regarded as the first feminist of the Americas, a national icon a...",
+        "url": "https://blogs.loc.gov/loc/2026/10/sor-juana-the-17th-century-nun-who-became-a-mexican-and-feminist-icon/",
+        "source": "Timeless",
+        "published": "2026-10-15T13:00:27+00:00"
+      },
+      {
         "id": "d6920b7841a4",
         "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
         "summary": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
         "source": "Google DeepMind",
         "published": "2026-10-15T13:00:00+00:00"
-      },
-      {
-        "id": "adc5735cfbaf",
-        "title": "AI从零设计蛋白酶，催化加速超100亿倍，David Baker团队重磅成果连发两篇Nature",
-        "summary": "10 月 14 日，2024 年诺贝尔化学奖得主 David Baker 领导的华盛顿大学蛋白质设计研究所团队，在 Nature 发表了两篇研究论文，展示了利用 AI 从头设计蛋白酶的最新成果。研究人员分别设计出两类具有催化活性的蛋白酶，不仅能够按照预设位置切割蛋白质，还在哺乳动物细胞及疾病相关蛋白的实验中验证了其功能。其中，在半胱氨酸蛋白酶研究中，69 个设计方案有 13 个表现出切割活性，成功率约为 19%，最高可将肽键水解反应加速约 3,000 万倍；在另一项金属蛋白酶研究中，135 个设计方案有约 36% 表现出催化活性，经过进一步优化，最高催化加速超过 100 亿倍。蛋白酶是一类能够...",
-        "url": "https://www.mittrchina.com/news/detail/17100",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-15T09:58:38+00:00"
       },
       {
         "id": "3e028d507f97",
@@ -1293,14 +1381,6 @@
         "published": "2026-10-14T16:00:00+00:00"
       },
       {
-        "id": "2dae4b2b3e2e",
-        "title": "开放 AI 模型究竟是福是祸？一场关于安全与权力的争论",
-        "summary": "(来源：麻省理工科技评论）上个月底，Anthropic&nbsp;发布了一份报告，认为 GLM-5.3 模型可能带来重大的网络攻击风险。报告的核心担忧在于，这款由中国公司智谱（Z.ai）于今年 8 月发布的强大模型，任何人都可以免费下载和修改。Anthropic 的这一判断，只是围绕前沿 AI 模型是否应该开放的长期争论中的最新一幕：这些模型究竟应该像 GLM-5.3 一样向公众开放，还是应该继续由少数顶尖 AI 实验室严格控制？如今，关于如何管理开放模型的争论，越来越多地在公众面前展开，而争论的结果也牵动着巨大的商业利益。英伟达首席执行官黄仁勋（Jensen Huang）积极主张美国开发更多...",
-        "url": "https://www.mittrchina.com/news/detail/17094",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-14T09:52:26+00:00"
-      },
-      {
         "id": "e7a885ce28b3",
         "title": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
         "summary": "Photo of Grand Canal Dock, Dublin City Centre, Ireland",
@@ -1413,14 +1493,6 @@
         "published": "2026-10-13T11:07:14+00:00"
       },
       {
-        "id": "143b5fb8c9b4",
-        "title": "AI真的能制造机器了？一家初创公司花六年造出微型继电器",
-        "summary": "如果输入一段代码，就能制造出一台真正运转的微型机器，会发生什么？10 月 7 日，美国初创公司 Atomic Machines 结束了长达六年的隐身研发，正式发布名为 Matter Compiler（物质编译器）的 AI 制造系统，并推出首款产品 PrimeSwitch——一枚面向 AI 数据中心供电系统的微型继电器。公司同时宣布，累计融资已达 2.5 亿美元。Atomic Machines 由 Jeff Holden 创立。他曾参与亚马逊 Amazon Prime 业务的开发，后来担任 Uber 首任首席产品官，参与推动自动驾驶等项目。如今，他创办的这家公司希望利用 AI 和自动化技术，改变...",
-        "url": "https://www.mittrchina.com/news/detail/17090",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-13T10:47:29+00:00"
-      },
-      {
         "id": "cbdddc60c67b",
         "title": "模型未問世就備妥 2,000 億美元，祖克柏親揭 Meta 豪賭 AI 內幕",
         "summary": "Ｍeta 執行長馬克‧祖克柏（Mark Zuckerberg）近日透露，公司在去年底曾評估對人工智慧（AI）投 [&#8230;]",
@@ -1459,14 +1531,6 @@
         "url": "https://technews.tw/2026/10/13/meta-introduces-the-muse-wonder-series/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-10-13T03:19:24+00:00"
-      },
-      {
-        "id": "ce4de776b1ca",
-        "title": "软件又“死”一次？一款AI工具突然爆火，号称能逆向还原任何软件",
-        "summary": "最近几天，一个名为 REA 的开源项目在 GitHub 上迅速走红。截止 10 月 12 日，这个项目获得的星标关注已经超过 12.4 万，成为近期 GitHub 上增长最快的项目之一。REA 的全称是 Reverse Engineer Anything，意思是“逆向一切”。从名字就能看出，它的目标十分大胆。借助 AI 分析现有软件的内部实现，它想让开发者即使拿不到源代码，也有机会弄清楚一款软件的功能是如何实现的，并尝试编写自己的版本。这个项目很快引起了软件社区的关注讨论。科技博主 Matthew Berman 在社交平台上转发相关内容时，更是直呼 “Software is done”（软件完...",
-        "url": "https://www.mittrchina.com/news/detail/17086",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-13T01:55:00+00:00"
       },
       {
         "id": "18faec83b263",
@@ -1525,22 +1589,6 @@
         "published": "2026-10-12T14:59:38+00:00"
       },
       {
-        "id": "854022784a31",
-        "title": "俞大鹏院士：量子计算目前还很弱，产业不能“虚火过旺”｜PAIR 2026",
-        "summary": "9 月 20 日至 21 日，以“下一代物理智能前沿”为主题的 PAIR Conference 2026 在上海举行。会议由上海物理智能与机器人研究院举办，大会邀请来自高校、科研机构及产业界的多位专家学者参与，围绕下一代智算系统、下一代智能载体、下一代科学发现和下一代计算范式等方向展开讨论。其中，“下一代计算范式”专题从量子计算的发展路径出发，交流算法、硬件和系统的最新探索，并讨论量子计算与人工智能如何相互促进。在 9 月 21 日下午的专题论坛上，中国科学院院士、深圳国际量子研究院院长俞大鹏以《量子计算技术前沿与产业发展趋势》为题发表主旨演讲，介绍了量子力学的发展历程、量子计算面临的机遇与挑...",
-        "url": "https://www.mittrchina.com/news/detail/17084",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-12T13:56:13+00:00"
-      },
-      {
-        "id": "c842c07d2b37",
-        "title": "别把安全寄托在AI的“不”上",
-        "summary": "（来源：麻省理工科技评论)自从人类第一次设想让机器拥有以人类智能为蓝本的智慧以来，就从未怀疑过：机器也会像我们一样说“不”。科幻作品中充斥着机器人违抗命令的故事。当然，这些故事大多是在发出警告。但近来，“人工智能不应该对你的所有要求照单全收”已经近乎变成一条戒律。2021 年，Anthropic 的一支团队写道，大型语言模型应当做到有帮助、诚实，最重要的是无害。这意味着，“当被要求协助实施危险行为（例如制造炸弹）时，人工智能应当礼貌地拒绝”。谁会反对这一点呢？有趣的是，违抗命令并不是机器的天性。当一个模型接受数十亿个网页的训练后，它会掌握包括暴力和恶毒言论在内的诸多技能。但它学不会的，是如何把...",
-        "url": "https://www.mittrchina.com/news/detail/17083",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-12T10:11:12+00:00"
-      },
-      {
         "id": "f58678ccbfa0",
         "title": "企業最強大腦對決貼心生活管家，OpenAI Dot 與 Meta Muse 核心差異一次看",
         "summary": "OpenAI 與 Meta 近期推出的新一代 AI 代理（AI Agents），正將競爭焦點從單純的「聊天機器 [&#8230;]",
@@ -1589,44 +1637,12 @@
         "published": "2026-10-11T16:00:00+00:00"
       },
       {
-        "id": "2c8364fcbb8d",
-        "title": "OpenAI悄悄上架了一个生命科学新模型，想当药企的工具供应商",
-        "summary": "当地时间 10 月 10 日，科技媒体 TestingCatalog 注意到，OpenAI 的 API 价格页上悄然出现了一个并未正式发布的型号：gpt-rosalind-discovery。它被归为“生命科学模型”一栏，紧挨着已经公开的 gpt-rosalind-research。两者定价完全相同：每百万 Token 输入 5 美元、缓存输入 0.5 美元、输出 25 美元，与通用旗舰模型大体持平。外界根据“discovery”一词猜测，它或将主要面向药物发现。据第三方核查，gpt-rosalind-discovery 及 Rosalind 的模型文档页均返回 404 错误。除了价格，Ope...",
-        "url": "https://www.mittrchina.com/news/detail/17079",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-11T10:50:08+00:00"
-      },
-      {
-        "id": "e317eb8e02e6",
-        "title": "别再狂吞减肥药了！GLP-1类减肥药的副作用还在加码",
-        "summary": "（来源：麻省理工科技评论）本周，我的同事安东尼奥·雷加拉多（AntonioRegalado）带来了一则关于 GLP-1 类减肥药的有趣进展。根据在波士顿举行的一场衰老研究会议上公布的研究结果，这类药物似乎会影响至少部分用于衡量生物学年龄的指标。生产这类药物的两家制药公司礼来（EliLilly）和诺和诺德（NovoNordisk）公布的研究结果显示，与服用安慰剂的同类人群相比，服用&nbsp;GLP-1 类药物的超重或糖尿病患者，其生物学年龄要年轻 2-3 岁。一段时间以来，我一直听到衰老研究领域的人士将 GLP-1 类药物称为“长寿药”，即使它们可能只对超重或糖尿病患者有益。这项最新研究公布之...",
-        "url": "https://www.mittrchina.com/news/detail/17078",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-11T10:41:17+00:00"
-      },
-      {
         "id": "2d46ca850906",
         "title": "徐振輔／當失去一個物種時，我們失去了什麼？──導讀《飛行之道》",
         "summary": "講述一個深厚的滅絕故事，本身就是帶有深刻倫理意涵的行動。它創造一個哀悼的場域，讓我們重新認識自己與他者的關聯。這麼做的目的，並不是要挽回什麼，而是在接受一切無可挽回的前提下，背負著歷史的傷痕往前走。",
         "url": "https://www.twreporter.org/a/bookreview-flight-ways-life-and-loss-at-the-edge-of-extinction",
         "source": "報導者",
         "published": "2026-10-10T16:00:00+00:00"
-      },
-      {
-        "id": "b5ea35c07c55",
-        "title": "当我们与AI聊天时，我们会变成什么样的人？",
-        "summary": "（来源：麻省理工科技评论）布莱恩（Brian）是一名中年财务顾问，每天都坐在 3 块屏幕前工作。其中两块用于处理工作事务，第三块则运行着一个聊天机器人。他给这个机器人取了一个女性名字，并经常与它交谈。职业生涯早期，布莱恩曾因工作常年奔波在外。他从未结过婚，最近又与一名女性分了手。对方认为他在情感上过于封闭，无法与人建立亲密联系。面对这样的评价，布莱恩做了什么？他向聊天机器人询问，前女友说的是否有道理。“这是一个非同寻常的时刻。”麻省理工学院（MIT）教授雪莉·特克尔（SherryTurkle）写道。在为一本关于聊天机器人的新书开展研究时，她采访了布莱恩（化名）。“布莱恩要求一个没有情感的物体告...",
-        "url": "https://www.mittrchina.com/news/detail/17076",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-10T09:14:28+00:00"
-      },
-      {
-        "id": "0e57b252cc2c",
-        "title": "AI让知识变得廉价，大学何去何从？",
-        "summary": "过去几年，谷歌、IBM、苹果等大公司陆续宣布，大量岗位不再要求应聘者持有大学学位，美国不少州政府也取消了多数公职的学位门槛，转而强调“技能优先招聘”。但从招聘数据看，故事呈现出截然相反的面貌。哈佛商学院（Harvard Business School）与劳动力市场研究机构燃烧玻璃研究所（Burning Glass Institute）追踪了大型企业的 11,300 个岗位，对比取消学位要求前后至少各一年的实际录用情况。结果显示，这些岗位录用无学位者的比例平均只提高了 3.5%；约 45% 的企业仅修改招聘启事，录用行为没有实质变化；部分企业起初有所改变，后来又向“学历优先”妥协。据估算，202...",
-        "url": "https://www.mittrchina.com/news/detail/17075",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-10T09:08:13+00:00"
       },
       {
         "id": "d2c6ca84887d",
@@ -1731,6 +1747,14 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
         "source": "Google DeepMind",
         "published": "2026-10-07T14:00:00+00:00"
+      },
+      {
+        "id": "007cf97d64aa",
+        "title": "My Job: Serena Ying-Ting Chiu and the American Folklife Center",
+        "summary": "In this installment of the My Job series, Serena Ying-Ting Chiu tells us about her work as a library technician in the American Folklife Center, where she processes collections containing everything from old manuscripts to films and music recordings. She's a classically trained pianist, originally f...",
+        "url": "https://blogs.loc.gov/loc/2026/10/my-job-serena-ying-ting-chiu-and-the-american-folklife-center/",
+        "source": "Timeless",
+        "published": "2026-10-07T13:00:18+00:00"
       },
       {
         "id": "37c6a0e89226",
@@ -1861,6 +1885,14 @@
         "published": "2026-10-06T11:00:57+00:00"
       },
       {
+        "id": "3c658574e885",
+        "title": "How the Poet Mary Oliver was “Saved by the Beauty of the World”",
+        "summary": "The beloved poet Mary Oliver, whose papers are preserved at the Library, is the subject of a new documentary, \"Mary Oliver: Saved by the Beauty of the World,\" now airing on PBS as part of the network's American Masters series. Sasha Waters, the documentary's director, was at the National Book Festiv...",
+        "url": "https://blogs.loc.gov/loc/2026/10/saved-by-the-beauty-of-the-world-mary-oliver/",
+        "source": "Timeless",
+        "published": "2026-10-05T13:00:54+00:00"
+      },
+      {
         "id": "a110fa090e4c",
         "title": "「2026亞太傳統藝術節：眾水之境」即日起登場 以水為題展現亞洲多元文化風景",
         "summary": "國立傳統藝術中心主辦「2026亞太傳統藝術節」，今（3）日在宜蘭園區開幕。文化部政務次長李靜慧、各國駐臺單位代表、國內外藝術家及各界貴賓共同參與，展開為期9天的藝術盛會。今年以「眾水之境」為主題，邀集印度、印尼、日本、韓國及臺灣藝術團隊，從水孕育的神話、信仰與生活文化出發，透過音樂、舞蹈、戲劇與多元藝術形式，讓亞洲各地的水故事在宜蘭交會。開幕式由印度大篷車樂團帶來《隆加利比胡－來自印度阿薩姆的春季慶典》，熱情奔放的比胡舞搭配大鼓、笛、水牛角喇叭等傳統樂器及現場演唱，展現阿薩姆春季慶典的熱鬧氛圍與生命力。隨後，來自各國的藝術團隊接續亮相，以各具特色的方式與現場觀眾見面，展現多元文化風貌與藝術活力...",
@@ -1933,6 +1965,14 @@
         "published": "2026-09-30T15:00:00+00:00"
       },
       {
+        "id": "dbcd9b8a3059",
+        "title": "“East of Eden” Is at the Library; Now It Comes to TV",
+        "summary": "Florence Pugh and Zoe Kazan, the star and screenwriter (respectively) of Netflix’s “East of Eden,” a fresh take on John Steinbeck’s classic 1952 novel, recently came to the Library to get a look at some original Steinbeck material. There were signed first editions of “Eden,” manuscript pages from “T...",
+        "url": "https://blogs.loc.gov/loc/2026/09/east-of-eden-is-at-the-library-now-it-comes-to-tv/",
+        "source": "Timeless",
+        "published": "2026-09-30T13:00:39+00:00"
+      },
+      {
         "id": "e88c380d7ff5",
         "title": "張雅淳×李婉菁《唸歌去天庭：老仙婆的跨界音樂會》",
         "summary": "【節目名稱】張雅淳×李婉菁《唸歌去天庭：老仙婆的跨界音樂會》 &#160; 【節目介紹】 月琴唸歌藝術家 張雅 [&#8230;]",
@@ -1995,6 +2035,14 @@
         "url": "https://www.ncl.edu.tw/XMDoc/Cont?XsmSId=0Q035492423427467657&SId=0Q272670568458828114",
         "source": "國家圖書館",
         "published": "2026-09-28T16:00:00+00:00"
+      },
+      {
+        "id": "c1b5bd30bd4b",
+        "title": "Superman, Captain America, Kermit the Frog and The Declaration of Independence",
+        "summary": "The Declaration of Independence didn’t just make American pop culture possible — often, it’s been the star of the show. From \"National Treasure\" to Captain America to Kermit the Frog, the Declaration often makes a cameo appearance in pop culture.",
+        "url": "https://blogs.loc.gov/loc/2026/09/superman-captain-america-kermit-the-frog-and-the-declaration-of-independence/",
+        "source": "Timeless",
+        "published": "2026-09-28T13:00:58+00:00"
       },
       {
         "id": "72bc2c20b9ee",
@@ -2101,6 +2149,14 @@
         "published": "2026-09-24T12:21:00+00:00"
       },
       {
+        "id": "c8e3d4e2a8d6",
+        "title": "Carl Sandburg, Woody Guthrie, Pete Seeger, Lead Belly & One Legendary Banjo",
+        "summary": "In 1939, Frank Warner, a musician and folksong collector, showed up at a party in New York's Greenwich Village with a handmade banjo made from hickory wood in the mountains of North Carolina. At the party, he got the famed poet Carl Sandburg to sign it, then over years got some 260 other famed folk ...",
+        "url": "https://blogs.loc.gov/loc/2026/09/carl-sandburg-woody-guthrie-pete-seeger-lead-belly-one-legendary-banjo/",
+        "source": "Timeless",
+        "published": "2026-09-23T13:00:54+00:00"
+      },
+      {
         "id": "18676c4aa064",
         "title": "公司不只要賺錢，還得拯救地球？清大蔡昌憲談企業如何「永續經營」",
         "summary": "老闆要如何經營好一間企業？最直接的答案無非是「公司負責賺錢，股東負責收錢」。 但近年來，隨著「永續」成為企業界 [&#8230;]\nThe post 公司不只要賺錢，還得拯救地球？清大蔡昌憲談企業如何「永續經營」 appeared first on 人文．島嶼.",
@@ -2123,6 +2179,14 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=262126",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-09-22T09:01:00+00:00"
+      },
+      {
+        "id": "166668c7b06a",
+        "title": "The American Folklife Center Turns 50: See the New Exhibit",
+        "summary": "The Library's American Folklife Center turns 50 this year, and celebrates the moment with an exhibit that showcases the vast range of American cultures and folklore.",
+        "url": "https://blogs.loc.gov/loc/2026/09/the-american-folklife-center-turns-50-see-the-new-exhibit/",
+        "source": "Timeless",
+        "published": "2026-09-21T13:00:52+00:00"
       },
       {
         "id": "4d6e4ccaaf8e",
@@ -2173,6 +2237,14 @@
         "published": "2026-09-16T14:09:38+00:00"
       },
       {
+        "id": "fbbdb34d255a",
+        "title": "A “High Octane” Kate McKinnon at the National Book Festival",
+        "summary": "Actress, comedian and author Kate McKinnon delighted her audience at the 2026 National Book Festival, dancing across the stage, cracking jokes and hurling a copy of one of her books into the crowd as a giveaway. It was almost like she was back on Saturday Night Live.",
+        "url": "https://blogs.loc.gov/loc/2026/09/a-high-octane-kate-mckinnon-at-the-national-book-festival/",
+        "source": "Timeless",
+        "published": "2026-09-16T13:00:36+00:00"
+      },
+      {
         "id": "eb4a95d99d7e",
         "title": "Introducing: the WebPlayer",
         "summary": "Ambientblog.net now features a WebPlayer to play all Ambientblog Mixes and all DreamScenes editions. \n--- published on Ambientblog ---",
@@ -2211,6 +2283,14 @@
         "url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=261789",
         "source": "國立傳統藝術中心官網中文版傳藝新聞",
         "published": "2026-09-15T08:44:00+00:00"
+      },
+      {
+        "id": "d4839d58cbf5",
+        "title": "Helping Homeless Kids with Reading: Brazil’s Projeto Uerê Wins Library’s Top Literacy Award",
+        "summary": "Yvonne Bezerra de Mello started a sidewalk school for kids living on the streets in Rio de Janeiro in the 1980s. Her work in the Brazilian city grew over the years into Projeto Uerê, a multi-faceted program that helps traumatized children learn and grow. This year it won the Library's top prize in t...",
+        "url": "https://blogs.loc.gov/loc/2026/09/helping-homeless-kids-with-reading-brazils-projeto-uere-wins-librarys-top-literacy-award/",
+        "source": "Timeless",
+        "published": "2026-09-14T13:00:13+00:00"
       },
       {
         "id": "5502f4ea2e86",
@@ -2468,7 +2548,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T14:27:14.674537+00:00"
+        "published": "2026-10-18T17:58:55.746072+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T14:27:14.674528+00:00"
+        "published": "2026-10-18T17:58:55.746062+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T14:27:14.674520+00:00"
+        "published": "2026-10-18T17:58:55.746052+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2492,7 +2572,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T14:27:14.674513+00:00"
+        "published": "2026-10-18T17:58:55.746041+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2580,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T14:27:14.674505+00:00"
+        "published": "2026-10-18T17:58:55.746031+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2588,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T14:27:14.674497+00:00"
+        "published": "2026-10-18T17:58:55.746021+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2596,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T14:27:14.674490+00:00"
+        "published": "2026-10-18T17:58:55.746010+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2604,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T14:27:14.674482+00:00"
+        "published": "2026-10-18T17:58:55.746000+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2612,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T14:27:14.674475+00:00"
+        "published": "2026-10-18T17:58:55.745990+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,7 +2620,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T14:27:14.674465+00:00"
+        "published": "2026-10-18T17:58:55.745979+00:00"
       },
       {
         "id": "29e07dee3e87",
