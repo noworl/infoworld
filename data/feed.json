@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-10-18T22:57:56.588184+00:00",
+  "updated_at": "2026-10-19T01:04:50.048674+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "b4ce16d531af",
+        "title": "Flame And Rust 9+10",
+        "summary": "Flame And Rust 9+10.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/flame-and-rust-9-10",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-19T00:39:50+00:00"
+      },
+      {
+        "id": "9172288e1893",
+        "title": "GAUNTLET (SWITZERLAND) - DEMO 2025",
+        "summary": "▶︎ Demo 2025 | The Gauntlet.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/the-gauntlet-demo-2025",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-18T23:29:36+00:00"
+      },
+      {
+        "id": "8448a6d2f531",
+        "title": "BRAG (SWITZERLAND) - DEMO 2026",
+        "summary": "▶︎ Demo 2026 | Brag.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/brag-demo-2026",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-18T23:12:54+00:00"
+      },
+      {
+        "id": "a82056592e22",
+        "title": "DIE MUTZ (SWITZERLAND) - DEMO 2026",
+        "summary": "▶︎ DEMO | Die Mutz.This item belongs to: audio/punkrockjukebox.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/DIE-MUTZ",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-18T22:59:34+00:00"
+      },
       {
         "id": "072b93601130",
         "title": "OBRECHT Missa De Sancto Donatiano",
@@ -43,44 +75,12 @@
         "published": "2026-10-18T21:24:11+00:00"
       },
       {
-        "id": "3bdc72fafa8e",
-        "title": "OBRECHT Missa sub tuum praesidium",
-        "summary": "OBRECHT  Missa sub tuum praesidium The Clerks Group Edward Wickham.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mjhg_20261018",
+        "id": "d9cd850e3807",
+        "title": "Душа По Контракту 1",
+        "summary": "душа по контракту.This item belongs to: audio/audioboo_ru.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/1_20261018_20261018_2059",
         "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-18T20:24:31+00:00"
-      },
-      {
-        "id": "0ecc6bd7e41f",
-        "title": "OBRECHT Salve regina",
-        "summary": "OBRECHT  Salve regina The Clerks Group Edward Wickham.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nn_20261018",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-18T20:12:26+00:00"
-      },
-      {
-        "id": "0ed34499e8d8",
-        "title": "OBRECHT Salve crux",
-        "summary": "OBRECHT  Salve crux The Clerks Group Edward Wickham.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/vbnfg_202610",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-18T20:10:38+00:00"
-      },
-      {
-        "id": "0497c277f903",
-        "title": "OBRECHT Factor orbis",
-        "summary": "OBRECHT  Factor orbis The Clerks Group Edward Wickham.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nfx_20261018",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-18T20:08:43+00:00"
-      },
-      {
-        "id": "d38dd5c0c052",
-        "title": "OBRECHT Mille quingentis",
-        "summary": "OBRECHT  Mille quingentis The Clerks Group Edward Wickham.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/mcjh_20261018",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-18T20:05:07+00:00"
+        "published": "2026-10-18T21:09:05+00:00"
       },
       {
         "id": "548f7c5454c6",
@@ -805,6 +805,22 @@
     ],
     "破(day)": [
       {
+        "id": "d9179557a727",
+        "title": "漫射計畫》是自我療傷也是自我實現，在漫畫裡，漫畫家無所遁形：專訪曾耀慶",
+        "summary": "「我應該很難放棄繪畫。繪畫比起文字，可以更直接和身體的感受連結起來。文字的書寫和閱讀是更知性的活動，寫和讀就像是編碼和解碼，但圖畫是會很侵略性地進來，一看到，就開始和它作用，這是我喜歡的，也是我較能駕馭的。」用沉思般的和緩低語，訴說著圖像的侵略性，這是漫畫家曾耀慶，在跨越了長長的自我懷疑歲月後，洗滌出來的模樣。\n「一般人退伍會趕快找工作，我一退伍就開始畫漫畫。」2013年，曾耀慶以《漫畫的女兒》入圍金漫獎漫畫新人獎後，或許因為被搬上檯面檢視，也可能是當時的社會氣氛使然，害怕自己缺乏與社會連結的焦慮感，開始攀升。為了逼自己創作出能夠面向大眾的作品，他嘗試參加條漫徵件，「但我連劇本都寫不出來。」\n...",
+        "url": "https://www.openbook.org.tw/article/p-72997",
+        "source": "Openbook閱讀誌",
+        "published": "2026-10-19T01:00:00+00:00"
+      },
+      {
+        "id": "6b1abab2fa5b",
+        "title": "Meta AI 代理 Muse 會與用戶露骨性對話，OpenAI、xAI 代理都拒絕",
+        "summary": "Meta 上月推出的 AI 代理 Muse 可替用戶回覆電郵及管理日曆，美國科技媒體 WIRED 近日實測更發 [&#8230;]",
+        "url": "https://technews.tw/2026/10/19/meta-muse-allows-sexting-with-adult-users/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-10-18T23:30:05+00:00"
+      },
+      {
         "id": "e82e6396b15a",
         "title": "Adafruit Weekly Editorial Round-Up: Ada Lovelace Day 2026, LED Bubble Hair & More!",
         "summary": "ADAFRUIT WEEKLY EDITORIAL ROUND-UP We’ve got so much happening here at Adafruit that it’s not always easy to keep up! Don’t fret, we’ve got you covered. Each week we’ll be posting a handy round-up of what we’ve been up to, ranging from learn guides to blog articles, videos, and more. BLOG ⌨️ Ada Lov...",
@@ -827,6 +843,22 @@
         "url": "https://blog.adafruit.com/2026/10/18/pixie-the-3w-chainable-led-pixel-adafruitlearnsystem/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-10-18T16:00:47+00:00"
+      },
+      {
+        "id": "6ca62255d0c6",
+        "title": "极右翼崛起危及德国吸引外资努力",
+        "summary": "欧洲商界领袖警告，德国选择党近期在州选举中胜出，令人担忧德国政治稳定，包括担心本届德国政府还能不能兑现改革承诺。",
+        "url": "https://www.ftchinese.com/story/001111139",
+        "source": "FTChinese RSS - News",
+        "published": "2026-10-18T16:00:00+00:00"
+      },
+      {
+        "id": "eabd1ba3fa21",
+        "title": "卢拉试图借助自拍视频扭转选情",
+        "summary": "曾坦承自己没有手机的巴西左翼总统，为了赢得总统大选第二轮投票而推出一系列自拍视频，包括他在健身房跑步机上对着镜头讲话的视频。",
+        "url": "https://www.ftchinese.com/story/001111138",
+        "source": "FTChinese RSS - News",
+        "published": "2026-10-18T16:00:00+00:00"
       },
       {
         "id": "548f7c5454c6",
@@ -1517,14 +1549,6 @@
         "published": "2026-10-13T04:25:01+00:00"
       },
       {
-        "id": "e7cd23f3a41b",
-        "title": "有時書店，有時音樂祭3》現流冊店洪沛澤、林潔珊，從聽團歲月長出的一份職責　ft.獨書祭",
-        "summary": "回到29歲那年，林潔珊短暫返馬又回到台灣完成碩論，碩士讀了7年，對文組來說不稀奇；當時25歲的洪沛澤已進入出版業，白天上班，晚上和周末聽團，出入live house。兩位在論文、音樂與酒精中度過的青春，如何滋養、訓練出文化工作者的種種技能，或許在當下都很難知道。\n林潔珊回馬來西亞時，成為私立名校的華文教師，這是許多來台讀中文系的大馬華人，歸國後主要的工作類型之一。「在我家人看來，這是份體面的工作，薪資也高，但我個人覺得很痛苦」，她以要完成碩士學位為由，回到台灣復學。\n已進入出版業的洪沛澤，在30歲以前苦惱的是，這份正職工作，能讓他在台北待上幾年？他回憶過去參加關渡附近舉辦的音樂節「車庫搖滾」，...",
-        "url": "https://www.openbook.org.tw/article/p-73002",
-        "source": "Openbook閱讀誌",
-        "published": "2026-10-13T04:20:02+00:00"
-      },
-      {
         "id": "a13f2d2165ed",
         "title": "Meta 打造 Muse Wonder 新模型，結合主動記憶與專注能力強攻 AI Agent",
         "summary": "耗時一年多的時間與數百億美元重新布局 AI 領域後，Meta 表示已追上先進水準，12 日宣布推出 Muse  [&#8230;]",
@@ -1562,22 +1586,6 @@
         "summary": "應對生成式AI對選舉可能的影響與衝擊，台灣已將深偽影音納入選罷法「意圖使人不當選」罪罰。除此之外，各國經驗對於台灣還有哪些啟示？又有哪些法制作為值得參考？",
         "url": "https://www.twreporter.org/a/2026-local-elections-ai-generated-contents-negatively-affect-elections",
         "source": "報導者",
-        "published": "2026-10-12T16:00:00+00:00"
-      },
-      {
-        "id": "4003aa764477",
-        "title": "泽连斯基：俄罗斯无视特朗普“能源停火”协议",
-        "summary": "乌克兰总统指出，普京“显然不看”美国总统在真相社交平台上宣布的俄乌“能源停火”，因为俄罗斯继续袭击乌克兰的能源基础设施。",
-        "url": "https://www.ftchinese.com/story/001111086",
-        "source": "FTChinese RSS - News",
-        "published": "2026-10-12T16:00:00+00:00"
-      },
-      {
-        "id": "d7f280cfaa83",
-        "title": "马克龙：法德即将就欧盟汽车政策达成协议",
-        "summary": "法国总统在巴黎车展上表示，法国和德国即将宣布一项“大交易”，以推迟欧洲淘汰内燃发动机的时间表并提振欧洲大陆的汽车产量。",
-        "url": "https://www.ftchinese.com/story/001111085",
-        "source": "FTChinese RSS - News",
         "published": "2026-10-12T16:00:00+00:00"
       },
       {
@@ -1643,14 +1651,6 @@
         "url": "https://www.twreporter.org/a/bookreview-flight-ways-life-and-loss-at-the-edge-of-extinction",
         "source": "報導者",
         "published": "2026-10-10T16:00:00+00:00"
-      },
-      {
-        "id": "d2c6ca84887d",
-        "title": "科技巨頭 AI 產品大打「可愛牌」，盲目信任恐引發資安危機",
-        "summary": "隨著外界對人工智慧（AI）可能引發失業、資安漏洞及社會衝擊的疑慮持續升溫，科技巨頭正在展開一波全新的行銷攻勢： [&#8230;]",
-        "url": "https://infosecu.technews.tw/2026/10/10/cute-ai-agents/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-10-10T05:30:56+00:00"
       },
       {
         "id": "a482ac743c06",
@@ -2548,7 +2548,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T22:57:54.112360+00:00"
+        "published": "2026-10-19T01:04:48.610261+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T22:57:54.112354+00:00"
+        "published": "2026-10-19T01:04:48.610253+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T22:57:54.112348+00:00"
+        "published": "2026-10-19T01:04:48.610243+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2572,7 +2572,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T22:57:54.112342+00:00"
+        "published": "2026-10-19T01:04:48.610235+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2580,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T22:57:54.112336+00:00"
+        "published": "2026-10-19T01:04:48.610225+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2588,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T22:57:54.112330+00:00"
+        "published": "2026-10-19T01:04:48.610216+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2596,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T22:57:54.112324+00:00"
+        "published": "2026-10-19T01:04:48.610207+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2604,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T22:57:54.112319+00:00"
+        "published": "2026-10-19T01:04:48.610198+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2612,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T22:57:54.112313+00:00"
+        "published": "2026-10-19T01:04:48.610189+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2620,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-18T22:57:54.112307+00:00"
+        "published": "2026-10-19T01:04:48.610181+00:00"
       },
       {
         "id": "29e07dee3e87",
@@ -3751,14 +3751,6 @@
         "published": "2024-11-12T20:00:24+00:00"
       },
       {
-        "id": "bb06bcaa4faf",
-        "title": "My synth is dead – what can I do?",
-        "summary": "It&#8217;s a terrible feeling &#8211; to turn on your favorite synth, and instead of watching it gleefully come to life, you get&#8230;nothing.  No lights, no display, no sound.  Nothing. It sounds like the worst problem a synth could have &#8211; nothing works! &#160;But in reality, it could be a s...",
-        "url": "https://blog.syntaur.com/my-synth-is-dead-what-can-i-do/?utm_source=rss&utm_medium=rss&utm_campaign=my-synth-is-dead-what-can-i-do",
-        "source": "Synth Wizards",
-        "published": "2024-08-18T21:12:30+00:00"
-      },
-      {
         "id": "25dc7a949635",
         "title": "Is Music Infinite?",
         "summary": "",
@@ -3773,30 +3765,6 @@
         "url": "https://www.miltonline.com/2024/06/11/consonance-dissonance/",
         "source": "Miltonline",
         "published": "2024-06-11T08:46:27+00:00"
-      },
-      {
-        "id": "17fcb662b686",
-        "title": "My synthesizer needs a new main board!",
-        "summary": "The heart and soul of a synthesizer is its main board, the place where the nitty-gritty happens, where the most basic and the most important functions take place. If your synth turns on but the display shows weirdness, or if it boots up but gets stuck on one screen, or freezes up in the middle [&#82...",
-        "url": "https://blog.syntaur.com/my-synthesizer-needs-a-new-main-board/?utm_source=rss&utm_medium=rss&utm_campaign=my-synthesizer-needs-a-new-main-board",
-        "source": "Synth Wizards",
-        "published": "2022-11-20T18:43:29+00:00"
-      },
-      {
-        "id": "e38f8ce693c3",
-        "title": "Keys not responding correctly?  Check the contact strips.",
-        "summary": "One of the most common problems with electronic keyboards is keys that don&#8217;t respond the way they should. Perhaps one or more notes don&#8217;t sound at all, or a note plays sporadically. Or the most telling symptom: a note that always plays at full volume no matter how hard you press the key....",
-        "url": "https://blog.syntaur.com/keys-not-responding-correctly-check-the-contact-strips/?utm_source=rss&utm_medium=rss&utm_campaign=keys-not-responding-correctly-check-the-contact-strips",
-        "source": "Synth Wizards",
-        "published": "2022-09-04T15:39:02+00:00"
-      },
-      {
-        "id": "11b6a14a7ebc",
-        "title": "How to tell if your Juno-106 needs voice chips",
-        "summary": "The Roland Juno-106 is a great analog polysynth - but they often experience faulty voice chips.  Here's how to tell if yours is having voice chip issues.\nThe post How to tell if your Juno-106 needs voice chips first appeared on Synth Wizards.",
-        "url": "https://blog.syntaur.com/how-to-tell-if-your-juno-106-needs-voice-chips/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-tell-if-your-juno-106-needs-voice-chips",
-        "source": "Synth Wizards",
-        "published": "2022-08-31T16:25:14+00:00"
       }
     ]
   }
