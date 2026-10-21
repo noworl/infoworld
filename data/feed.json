@@ -1,7 +1,95 @@
 {
-  "updated_at": "2026-10-20T23:45:34.159410+00:00",
+  "updated_at": "2026-10-21T04:23:14.166032+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "bf0b476a1d70",
+        "title": "光復節連假省道15路段易壅塞　合歡山高乘載管制",
+        "summary": "（中央社記者黃巧雯台北21日電）光復節3天連假將至，交通部公路局今天表示，預估台61線淡江大橋等15處省道路段容易壅塞，並提醒合歡山地區將實施高乘載管制，管制時段為連假期間每日凌晨0時至上午8時。",
+        "url": "https://www.cna.com.tw/news/ahel/202610210088.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-21T04:03:41+00:00"
+      },
+      {
+        "id": "a26affde4299",
+        "title": "美心臟手術醫材涉1死1重傷  食藥署：未輸入台灣",
+        "summary": "（中央社記者沈佩瑤台北21日電）用於經導管二尖瓣置換手術的「Commander M delivery systems」醫療器材，在美國有3起異常通報、涉1死1重傷。衛福部食藥署今天說，此產品在台灣並無醫材許可證，也未輸入。",
+        "url": "https://www.cna.com.tw/news/ahel/202610210085.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-21T03:52:34+00:00"
+      },
+      {
+        "id": "87037cdd7843",
+        "title": "特教師甄選報到率偏低　教部：可用激勵獎金加薪",
+        "summary": "（中央社記者陳至中台北21日電）特教學生人數持續增加，教師的增補卻跟不上，都會區生活成本高，甄選的報到率偏低。教育部次長張廖萬堅今天表示，可用「激勵獎金」的方式幫教師加薪，且可按月、按季激勵。",
+        "url": "https://www.cna.com.tw/news/ahel/202610210080.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-21T03:41:23+00:00"
+      },
+      {
+        "id": "0933ba33de24",
+        "title": "彰化秀傳引進超音波神經止痛 助患者減輕用藥負擔",
+        "summary": "（中央社記者吳哲豪彰化21日電）彰化秀傳醫院引進超音波導引神經止痛術，利用即時影像辨識神經、血管及周圍組織，協助醫師將針頭準確引導至目標位置。依治療需求注射藥物，避免長期服用止痛藥增加腎臟負擔。",
+        "url": "https://www.cna.com.tw/news/ahel/202610210079.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-21T03:39:21+00:00"
+      },
+      {
+        "id": "47d99701a9fc",
+        "title": "淡江大橋10/31起主題光雕展演4週　8大節慶燈光假日輪播",
+        "summary": "（中央社記者黃巧雯台北21日電）淡江大橋主塔及橋上景觀燈設有四季、節慶及深夜模式，公路局規劃10月31日起展開為期4週主題光雕輪播，除平日四季模式外，假日晚間有機會看到國慶、情人節等8種節慶燈光輪播。",
+        "url": "https://www.cna.com.tw/news/ahel/202610210063.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-21T03:19:48+00:00"
+      },
+      {
+        "id": "6ec26f0456e0",
+        "title": "「布」能沒有你　天心挺創世募尿布減長照家庭負擔",
+        "summary": "（中央社記者陳婕翎台北21日電）金鐘影后藝人天心挺身擔任創世基金會公益大使，喊出「布能沒有你」，透過暖心傳愛活動，守護植物人，邀請社會大眾一起募集尿布，減輕2萬個長照家庭沉重的負擔。",
+        "url": "https://www.cna.com.tw/news/ahel/202610210061.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-21T03:15:43+00:00"
+      },
+      {
+        "id": "d4144f0f6efa",
+        "title": "颱風薔琵最快深夜海警　北部山區10/23防大豪雨",
+        "summary": "（中央社記者張雄風台北21日電）氣象署表示，最快今天深夜至明天凌晨將發布颱風薔琵海上颱風警報、明天下半天發布陸警，明晚至24日清晨是薔琵距台最近的期間，23日北部山區不排除降雨達大豪雨等級。",
+        "url": "https://www.cna.com.tw/news/ahel/202610210057.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-21T03:11:35+00:00"
+      },
+      {
+        "id": "d3205660c7c6",
+        "title": "光復節連假　中華郵政：快捷郵件照常投遞",
+        "summary": "（中央社記者黃巧雯台北21日電）光復節連假期間，中華郵政今天表示，各地郵局營業窗口僅台北故宮郵局營業，提供外幣兌換、各類集郵票品與代售商品販售服務，其餘郵局停止營業，但快捷郵件照常投遞。",
+        "url": "https://www.cna.com.tw/news/ahel/202610210054.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-21T03:02:28+00:00"
+      },
+      {
+        "id": "5e8dd0ba87c8",
+        "title": "台積電高雄廠工安意外　勞團籲全面檢查工安機制",
+        "summary": "（中央社記者吳欣紜台北21日電）高雄台積電F22廠新建工程昨天發生工安事故，造成4人死亡，勞團今天說，護國神山不能以勞工生命為代價，應全面進行跨廠工安檢查及建立獨立第三方工安監督機制等。",
+        "url": "https://www.cna.com.tw/news/ahel/202610210051.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-21T02:51:22+00:00"
+      },
+      {
+        "id": "b7cd89afed8a",
+        "title": "特教疑似生約9000人　教部鼓勵鑑定並加強家長增能",
+        "summary": "（中央社記者陳至中台北21日電）今年8月中部發生學生攻擊教師事件，涉案學生屬情緒障礙「疑似生」，暫未納入特教輔導體系。教育部今天說，各教育階段「疑似生」約9000人，會持續鼓勵鑑定，並加強家長增能。",
+        "url": "https://www.cna.com.tw/news/ahel/202610210049.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-21T02:39:17+00:00"
+      },
+      {
+        "id": "cdc20d97d32a",
+        "title": "順益台灣原住民博物館-美術分館：2026/10/25-11/29【《萬物和鳴-張翠容個展》】（憑邀請卡、門票入場）",
+        "summary": "萬物和鳴─走入山、花與弦器的靜謐天地 當山巒的沉穩堅毅遇見花卉的柔美綻放，樂音的微風便在兩者之間悄然吹拂。從《 [&#8230;]",
+        "url": "https://www.tmaroc.org.tw/1151021-2/",
+        "source": "最新消息 – 中華民國博物館學會",
+        "published": "2026-10-21T01:32:55+00:00"
+      },
       {
         "id": "050d0e2c3e5a",
         "title": "UB Radio Salon 979 - amphibian soundscapes w/guest Matt Davignon 18 October 2026 on DFM.nu",
@@ -9,6 +97,22 @@
         "url": "https://archive.org/details/ubradio_salon979",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-10-20T23:17:04+00:00"
+      },
+      {
+        "id": "0180c4b196fe",
+        "title": "The Midnight Garden",
+        "summary": "Podfic of The Midnight Garden by skylarkblue.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/the-midnight-garden",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-20T23:13:31+00:00"
+      },
+      {
+        "id": "0e9b86c959b6",
+        "title": "REEL BIG FISH - EVIL APPROACHES",
+        "summary": "▶︎ Evil Approaches by Reel Big Fish | Reel Big Fish | Punk Rock Halloween From miles away, you hear the sound La la la la la la la The gates of hell come crashing down La la la la la la la Evil approaches Wickedness from hell Dark fallen angels Agonizing spells You try to run, but no one can esc.......",
+        "url": "https://archive.org/details/reel-big-fish-evil-approaches",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-20T22:59:56+00:00"
       },
       {
         "id": "36b14a2f8468",
@@ -65,102 +169,6 @@
         "url": "https://archive.org/details/vjhgc",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-10-20T19:27:02+00:00"
-      },
-      {
-        "id": "1b5904448d0e",
-        "title": "OCKEGHEM Missa quinti toni",
-        "summary": "OCKEGHEM  Missa quinti toni The Clerks Group Edward Wickham.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nghyc",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-20T19:19:00+00:00"
-      },
-      {
-        "id": "e4f6be3a0b2c",
-        "title": "OCKEGHEM Missa cuiusvis toni",
-        "summary": "OCKEGHEM  Missa cuiusvis toni The Clreks Group Edward Wickham.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nbghx_20261020",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-20T19:18:00+00:00"
-      },
-      {
-        "id": "e12de45c9a8b",
-        "title": "今彩539第115254期　頭獎1注中獎",
-        "summary": "（中央社台北20日電）今彩539第115254期開獎，中獎號碼30、36、38、15、01；派彩結果，頭獎1注中獎，獎金新台幣800萬元。",
-        "url": "https://www.cna.com.tw/news/ahel/202610200369.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-20T14:06:45+00:00"
-      },
-      {
-        "id": "b3bbeca30d59",
-        "title": "大樂透第115098期　頭獎槓龜",
-        "summary": "（中央社台北20日電）大樂透第115098期今晚開獎。中獎號碼為02、43、19、33、05、40，特別號06；派彩結果，頭獎槓龜，下期（23日）頭獎保證1億元。",
-        "url": "https://www.cna.com.tw/news/ahel/202610200368.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-20T14:04:43+00:00"
-      },
-      {
-        "id": "671db535e52d",
-        "title": "今彩539第115254期開獎",
-        "summary": "（中央社台北20日電）今彩539第115254期開獎，中獎號碼30、36、38、15、01。3星彩中獎號碼870，4星彩中獎號碼7752。",
-        "url": "https://www.cna.com.tw/news/ahel/202610200348.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-20T12:49:55+00:00"
-      },
-      {
-        "id": "f49bbb762f90",
-        "title": "大樂透第115098期開獎",
-        "summary": "（中央社台北20日電）大樂透第115098期今晚開獎。中獎號碼為02、43、19、33、05、40，特別號06。",
-        "url": "https://www.cna.com.tw/news/ahel/202610200344.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-20T12:40:46+00:00"
-      },
-      {
-        "id": "5682d4a15930",
-        "title": "清大校務會議討論高為元海外遴選爭議　人數不足散會",
-        "summary": "（中央社記者郭宣彣新竹市20日電）清華大學今天召開校務會議，討論校長高為元赴美遴選他校校長爭議，因會議人數不足而宣布散會，未能進行表決。清大表示，將依議事規則儘速加開校務會議，接續審議相關提案。",
-        "url": "https://www.cna.com.tw/news/ahel/202610200339.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-20T12:20:36+00:00"
-      },
-      {
-        "id": "f5525ab7447c",
-        "title": "長者免健保費   台大、成大醫院企業工會批灑幣買票",
-        "summary": "（中央社記者沈佩瑤台北20日電）藍白推「65歲以上長者有條件免健保費」三讀通過，引發各界反彈。台大及成大醫院企業工會今天聯合聲明，強調免費健保卡換不來病床與醫療人員，灑幣買票終將加速自掘墳墓。",
-        "url": "https://www.cna.com.tw/news/ahel/202610200314.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-20T11:10:41+00:00"
-      },
-      {
-        "id": "4f89f11efa67",
-        "title": "新社花海31日登場　農業部估參訪逾400萬人次",
-        "summary": "（中央社記者汪淑芬台北20日電）2026新社花海於31日登場，展期至11月22日共23天，將再度結合台中市政府「台中國際花毯節」及農特產品展售活動，農業部估計，參訪人數可望超過往年，估計破400萬人次。",
-        "url": "https://www.cna.com.tw/news/ahel/202610200312.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-20T11:08:37+00:00"
-      },
-      {
-        "id": "3b898b5b81ca",
-        "title": "有證教保員擬比照教師給薪惹議　工會籲停止身分對立",
-        "summary": "（中央社記者陳至中台北20日電）教育部近期預告修法，擬將公立幼兒園有教師證的教保員，薪資支給比照教師，在網路上引發熱議。全國幼教產業工會今天呼籲「停止身分對立」，應回歸檢視實際工作責任與專業資格。",
-        "url": "https://www.cna.com.tw/news/ahel/202610200308.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-20T10:53:28+00:00"
-      },
-      {
-        "id": "eac80283e575",
-        "title": "以木雕傳承復興卑南文化　哈古獲國家工藝成就獎",
-        "summary": "（中央社記者蕭博陽南投縣20日電）台東縣卑南族木雕藝師Haku哈古致力創作逾40年，作品兼具文化傳統與個人特色，除作為文化保存媒介，也投入技藝傳承及部落文化保存復興，獲2026年國家工藝成就獎。",
-        "url": "https://www.cna.com.tw/news/acul/202610200304.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-20T10:46:20+00:00"
-      },
-      {
-        "id": "0765a44e66f9",
-        "title": "公共藝術獎頒獎  植物元Meta Garden獲評審特別獎",
-        "summary": "（中央社記者趙靜瑜台北20日電）每2年辦理1次的公共藝術獎，是公共藝術領域最具指標性與代表性的重要獎項，今天舉辦頒獎典禮，由台北植物園溫室新建工程公共藝術「植物元Meta Garden」獲評審特別獎。",
-        "url": "https://www.cna.com.tw/news/acul/202610200297.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-20T10:33:05+00:00"
       },
       {
         "id": "66073178be53",
@@ -289,14 +297,6 @@
         "url": "https://www.tmaroc.org.tw/1151008-2/",
         "source": "最新消息 – 中華民國博物館學會",
         "published": "2026-10-08T03:06:19+00:00"
-      },
-      {
-        "id": "3bdd1fbe06d1",
-        "title": "博物館簡訊第117期：地方館的當代轉譯：讓地方記憶與今日生活重新相遇",
-        "summary": "《博物館簡訊》第117期要目｜地方館的當代轉譯：讓地方記憶與今日生活重新相遇 客座主編序 地方館的當代轉譯：讓 [&#8230;]",
-        "url": "https://www.tmaroc.org.tw/%e5%8d%9a%e7%89%a9%e9%a4%a8%e7%b0%a1%e8%a8%8a%e7%ac%ac117%e6%9c%9f%ef%bc%9a%e5%9c%b0%e6%96%b9%e9%a4%a8%e7%9a%84%e7%95%b6%e4%bb%a3%e8%bd%89%e8%ad%af%ef%bc%9a%e8%ae%93%e5%9c%b0%e6%96%b9%e8%a8%98%e6%86%b6%e8%88%87%e4%bb%8a%e6%97%a5%e7%94%9f%e6%b4%bb%e9%87%8d%e6%96%b0%e7%9b%b8%e9%81%87/",
-        "source": "最新消息 – 中華民國博物館學會",
-        "published": "2026-10-07T09:32:53+00:00"
       },
       {
         "id": "6e1641535d53",
@@ -805,6 +805,38 @@
     ],
     "破(day)": [
       {
+        "id": "8a472a007a48",
+        "title": "Standup Jon Richardson on turning his dark teenage diaries into a tearjerking memoir: ‘I couldn’t sugarcoat those years’",
+        "summary": "While facing grief, illness and a very public breakup, the comic reached for his diaries – and found a happy kid who spiralled into despair. Inspired by a Nobel laureate, he wrote a frank, funny book about that boy and what he grew intoIt begins on Christmas Day, 1996: “It’s been a lovely day … I re...",
+        "url": "https://www.theguardian.com/stage/2026/oct/21/standup-jon-richardson-teenage-diaries-tearjerker-memoir",
+        "source": "Stage | The Guardian",
+        "published": "2026-10-21T04:00:06+00:00"
+      },
+      {
+        "id": "1cffa8027e72",
+        "title": "閒置 GPU 達 11% 都是備援，Meta 揭 Prometheus 叢集設計全為 AI 訓練不中斷",
+        "summary": "Meta 20 日揭露美國俄亥俄州新奧爾巴尼的 Prometheus 超級叢集運作細節，顯示這座 AI 基礎設 [&#8230;]",
+        "url": "https://technews.tw/2026/10/21/meta-details-prometheus-the-ohio-supercluster-heading-for-1-million-gpus/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-10-21T02:40:17+00:00"
+      },
+      {
+        "id": "982cfb014df9",
+        "title": "祖克柏得力幕僚卡普蘭將於 2027 年離職 ，結束 15 年政策掌舵",
+        "summary": "Meta Platforms 全球事務主管喬爾·卡普蘭（Joel Kaplan）將於 2027 年離開公司，結 [&#8230;]",
+        "url": "https://finance.technews.tw/2026/10/21/metas-chief-global-affairs-officer-joel-kaplan-departing/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-10-21T02:35:46+00:00"
+      },
+      {
+        "id": "50d729da7d3e",
+        "title": "央行怎麼踩油門、煞車？台大陳旭昇談利率如何走進一間房子的價格",
+        "summary": "國立臺灣大學經濟學系教授陳旭昇也是央行理事之一，親身參與央行貨幣政策決策與利率的調整 ，近來更與陳虹宇, 吳聰 [&#8230;]\nThe post 央行怎麼踩油門、煞車？台大陳旭昇談利率如何走進一間房子的價格 appeared first on 人文．島嶼.",
+        "url": "https://humanityisland.nccu.edu.tw/shiu-sheng-chen_a/",
+        "source": "人文．島嶼",
+        "published": "2026-10-21T00:30:19+00:00"
+      },
+      {
         "id": "736f95e38bfe",
         "title": "P. S. Art 2026 Celebrates NYC Through The Lens of City Kids",
         "summary": "Nia Obrien (Grade 8), The Speed of Life (detail), 2026. Digital photograph. Lower Manhattan Community Middle School, Manhattan. Teacher: Jessica Sinclair via The Metropolitan Museum of Art Artists from prekindergarten through grade 12 created collages, drawings, mixed-media pieces, paintings, photog...",
@@ -845,12 +877,28 @@
         "published": "2026-10-20T16:07:14+00:00"
       },
       {
+        "id": "e4206b9e2bd3",
+        "title": "Arturia’s new MiniFreak 49 synth is tactile, exploration-friendly: tested",
+        "summary": "It's not just some extra keys or minor feature tweaks. Arturia's MiniFreak 49 has evolved the range into a synthesizer you can freely explore just by playing, not programming. It's a fusion of tactile experience and sound, right when we need that. Here's a full hands-on test.\nThe post Arturia&#8217;...",
+        "url": "https://cdm.link/arturia-minifreak-49-review/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-20T16:04:15+00:00"
+      },
+      {
         "id": "b4a7b5b4bf68",
         "title": "The Python on Microcontrollers Newsletter: subscribe for free",
         "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
         "url": "https://blog.adafruit.com/2026/10/20/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-20-2/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-10-20T16:01:46+00:00"
+      },
+      {
+        "id": "ed6eefbc0c93",
+        "title": "“如同自然灾害”：保险商面临法国骚乱损失",
+        "summary": "晨星分析师称，上周末法国发生的暴力骚乱使保险公司面临高达12亿欧元的损失，超过2023年持续一周多的骚乱造成的逾7亿欧元损失。",
+        "url": "https://www.ftchinese.com/story/001111157",
+        "source": "FTChinese RSS - News",
+        "published": "2026-10-20T16:00:00+00:00"
       },
       {
         "id": "45f9622b9ea3",
@@ -995,6 +1043,14 @@
         "url": "https://www.openbook.org.tw/article/p-73022",
         "source": "Openbook閱讀誌",
         "published": "2026-10-20T10:00:02+00:00"
+      },
+      {
+        "id": "117bc3a91c4c",
+        "title": "Baby Roland is back: Boutique JUPITER-08, n/vision wavetable synths",
+        "summary": "The kawaii look of the mini Rolands in the Boutique series has returned. There's one vintage remake -- the JUPITER-08, this time with full polyphony and then some (up to 32 voices). And there's something new: the n/vision wavetable synth.\nThe post Baby Roland is back: Boutique JUPITER-08, n/vision w...",
+        "url": "https://cdm.link/roland-boutique-jupiter-nvision/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-20T09:06:05+00:00"
       },
       {
         "id": "de6f7b3fe4a8",
@@ -1149,14 +1205,6 @@
         "published": "2026-10-19T06:16:26+00:00"
       },
       {
-        "id": "d4955bd181fd",
-        "title": "‘A vigorous apologist for a cruel emperor’: Is Caryl Churchill’s explosive new play about Trump and his press officers?",
-        "summary": "From Thatcherism to global crisis to an ever-online world, she has chronicled our race to the abyss. Now she’s written a play about a blond-wigged voicepiece for an un-named, strongman ruler. Who can she mean?Triumph, which has just opened at London’s Almeida theatre, is Caryl Churchill’s latest pie...",
-        "url": "https://www.theguardian.com/stage/2026/oct/19/trumps-press-officer-almeida-triumph-caryl-churchill-emperor",
-        "source": "Stage | The Guardian",
-        "published": "2026-10-19T04:00:19+00:00"
-      },
-      {
         "id": "17747cf61837",
         "title": "无人机拍一张发光图，就能知道光伏电站每块电池的损失，误差仅0.5%",
         "summary": "预测高达 300 块光伏组件的输出功率，总体误差仅有 0.5%。这个数字来自浙江大学兰东辰教授团队发表在 Matter &amp; Light 上的研究。他们仅凭一张发光图像，就能对光伏组件内部功率损失做定量分析，并在实际光伏电站通过无人机采集图像做了验证，相关论文被选为 Matter &amp; Light 期刊 10 月刊封面。此前，使用发光成像做定量分析的时候，需要在不同工作条件之下拍摄多张图像。对于大型电站来讲，这种测量负担限制了检测效率以及覆盖面积。该团队告诉 DeepTech，他们的方法是先识别出组件的主导衰减机制，然后再用器件物理模型反推功率损失分布，这样一来一张图像就够了。具体...",
@@ -1251,6 +1299,14 @@
         "url": "https://www.ftchinese.com/story/001111138",
         "source": "FTChinese RSS - News",
         "published": "2026-10-18T16:00:00+00:00"
+      },
+      {
+        "id": "5c45faa548e1",
+        "title": "Abed Eyad is making beats in Gaza: interview, call for support",
+        "summary": "20-year-old Palestinian producer Abed Eyad is making beats from the rubble, surviving amidst genocide. He talks to us about what that's like, what drives his productions, and how to support his music.\nThe post Abed Eyad is making beats in Gaza: interview, call for support appeared first on CDM Creat...",
+        "url": "https://cdm.link/abed-eyad-gaza-interview/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-18T12:44:02+00:00"
       },
       {
         "id": "c4fc7c605db1",
@@ -1389,6 +1445,14 @@
         "published": "2026-10-16T16:00:00+00:00"
       },
       {
+        "id": "d5257f2930ce",
+        "title": "The myth of Drexciya is coming to the Toronto Biennial — with playlist",
+        "summary": "The myth of Drexciya is getting its moment at the Toronto Biennial, as retold by Underground Resistance. That's free through December 20th if you're in Ontario, but let's kick off a watery weekend with the accompanying playlist, too, courtesy UR and Sumberge label manager Cornelius Harris.\nThe post ...",
+        "url": "https://cdm.link/drexciya-toronto/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-16T14:59:10+00:00"
+      },
+      {
         "id": "95b6ee96a3dc",
         "title": "David Harrington, the Kronos Quartet and the American Folklife Center",
         "summary": "— This is a guest post by David Harrington, the founder and artistic director of San Francisco’s Grammy Award-winning Kronos Quartet. It also appears in the September/October issue of the Library of Congress Magazine. In 2024, the Library appointed Harrington the Kluge Chair in Modern Culture and an...",
@@ -1411,6 +1475,14 @@
         "url": "https://www.openbook.org.tw/article/p-73024",
         "source": "Openbook閱讀誌",
         "published": "2026-10-16T10:00:25+00:00"
+      },
+      {
+        "id": "b95887abc5e1",
+        "title": "閱讀隨身聽S15E8》人生就此一回，我們應勇敢的為自己寫詩、撿書、細讀並深藏：訪鄭淦元醫師 ft.《先看見人，再談看不見的病》",
+        "summary": "精神疾病患者如何走進社區，找回生活的自主性？\n本集邀請台北榮總玉里分院精神科主任、近日出版《先看見人，再談看不見的病》的鄭淦元醫師，分享他在東部投入精神醫療與社區復健工作24年的經驗。在陪伴他人走過困境之餘，他也透過寫詩、獨旅，感受生活中細微而美好的事物。\n從精神疾病的污名與標籤，到社區中的陪伴與支持，鄭淦元談起醫療現場的觀察、身為家屬的生命經驗，以及參與花蓮光復災後心理支持服務的體會。透過他的第一線經歷，讓我們得以看見撕除標籤後，每個人真實而具體的多元樣貌。\n➤先看見人，再談看不見的病\n主持人：講到你的書，第一個會讓我想的是這本書的書名。因為我們會感覺，在很多醫療環境裡，醫生沒有看到我這個人...",
+        "url": "https://www.openbook.org.tw/article/p-73021",
+        "source": "Openbook閱讀誌",
+        "published": "2026-10-16T06:08:13+00:00"
       },
       {
         "id": "299d63e56073",
@@ -1437,6 +1509,14 @@
         "published": "2026-10-16T00:00:00+00:00"
       },
       {
+        "id": "a742d307d9e4",
+        "title": "teenage engineering op-xy added a drum synth, sound shaping, more",
+        "summary": "teenage engineering, the company that made news for slipping in an interview that it isn&#8217;t making new synths (maybe), might also make news for making its synths do new things. There&#8217;s an official (not hacked!) firmware update for the op-xy flagship, and it adds a new drum synth, multicha...",
+        "url": "https://cdm.link/teenage-engineering-op-xy-added-a-drum-synth-sound-shaping-more/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-15T20:37:02+00:00"
+      },
+      {
         "id": "3f726dc48636",
         "title": "閱讀通信 vol.403》書店的超人",
         "summary": "通通編只要經過書店，常會毫不猶豫的走進去，喜歡在裡面慢慢享受一個故事，或者被店員推薦各種故事。不過你知道嗎，很多時候，這些書店店員本身就來頭不小、身經百戰。\n\n譬如淡水的無論如河，店員全都是護理人員，書店介紹了許多護理相關的書籍，還有提供居家服務！而在澎湖的植隱冊室，店長黃士恩以自身餐飲業的經驗將書店轉化，開啟了一個與眾不同的租書體驗，只要50元就可以享有看一本新書的機會。\n\n此外，位在大稻埕的現流冊店，店員陣容也是不容小覷。店長洪沛澤、林潔珊每年舉辦的獨書祭，已經是文學與音樂圈的年度盛會，他們甚至開啟了煮咖哩的支線任務，讓書香氛圍多了一份溫馨的記憶。\n\n想認識更多書店的超人嗎？本次Openb...",
@@ -1459,6 +1539,14 @@
         "url": "https://www.ftchinese.com/story/001111120",
         "source": "FTChinese RSS - News",
         "published": "2026-10-15T16:00:00+00:00"
+      },
+      {
+        "id": "8dda22e1e046",
+        "title": "Digital sound, but physical: Roger Linn’s LinnStrument in action, 10% off",
+        "summary": "No, we do not all want to be reduced to brains in a jar. Music has always been about gesture, whether embodied in the breath or touch. So now is the perfect time for the LinnStrument, the human-scaled expressive grid from Roger Linn. Roger writes to point us to some of the latest musical examples [&...",
+        "url": "https://cdm.link/digital-sound-but-physical-roger-linns-linnstrument-in-action-10-off/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-15T14:36:11+00:00"
       },
       {
         "id": "196d9b078073",
@@ -1525,6 +1613,22 @@
         "published": "2026-10-14T18:54:41+00:00"
       },
       {
+        "id": "270bf3bb63fa",
+        "title": "Listening to birdsong — and the instruments that mimic it",
+        "summary": "Okay, class: today's reading includes a short but inspiring passage by Estevan Carlos Benson, who has lately been suggesting we treat our musical listening biome in the same way that we do our gut. Along the way, we get birdsongs and whistle bottles from Ecuador millennia ago and Peru today.\nThe pos...",
+        "url": "https://cdm.link/birdsong-and-anxiety-cures/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-14T16:50:01+00:00"
+      },
+      {
+        "id": "3159ab10fca7",
+        "title": "Max 9.2: V8 FFTs, better Windows support, Ableton abl goodies, more",
+        "summary": "Cycling '74 has a surprisingly packed Max 9.2 update out now, with improvements and additions for Jitter, the Web, V8 (JavaScript), buffers, video on Windows, Gen, and the Ableton abl collection. It's a slew of nice stuff for patchers.\nThe post Max 9.2: V8 FFTs, better Windows support, Ableton abl g...",
+        "url": "https://cdm.link/max-9-2/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-14T16:03:11+00:00"
+      },
+      {
         "id": "80a270bf69a6",
         "title": "內鬼就在最高層：從諜報教父到叛國罪，德國前情報局長捲起國安信任風暴",
         "summary": "德國檢方從一起豪門家事醜聞，意外揭穿前情報首長韓寧的叛國案：涉嫌在12年間竊取近兩千份內部文件，並將機密流向亞塞拜然、中國、俄羅斯。這場危機更恰好發生在德國因應俄羅斯混合戰攻擊、修法推動情報改革的關鍵時刻⋯⋯",
@@ -1581,14 +1685,6 @@
         "published": "2026-10-14T08:00:00+00:00"
       },
       {
-        "id": "cfe7d1100bc5",
-        "title": "書．人生》讓我從此不戴戒指的人——懷念老郭",
-        "summary": "秋日裡緬懷老郭（郭重興），心中一陣陣酸楚與不捨。\n算算，我和老郭竟然相識了37年。\n最早、也最深刻的印象，是1989年10月的法蘭克福之行。那是台灣出版界第一次組團前往法蘭克福書展設置台灣館，我是《中國時報》第一任出版記者，躬逢其盛前往採訪。那時郭重興在牛頓出版擔任國際版權代理，總喊我「老莫」，我則喚他「老郭」。\n那次，老郭帶了一個高高瘦瘦的女生同行，兩人舉止超級親暱、黏TT，活像熱戀中的情侶。一問之下，才知道竟是已結婚多年、育有兩個女兒的太太王建梅。\n這對台大「校對」伴侶（老郭森林系轉哲學系、建梅人類學系），從戀愛、結婚、生子，到各自創業、在出版與著作權代理領域闖出一片天，始終恩愛逾恆。老郭...",
-        "url": "https://www.openbook.org.tw/article/p-73015",
-        "source": "Openbook閱讀誌",
-        "published": "2026-10-14T08:00:00+00:00"
-      },
-      {
         "id": "a9d49ec279b5",
         "title": "資料不會說話，但臺大陳宜廷介紹你利用經濟計量模型做研究",
         "summary": "國立臺灣大學財務金融學系特聘教授陳宜廷，透過經濟計量學研究政策評估與經濟預測的新方法。 攝影／林俊孝 資料本身 [&#8230;]\nThe post 資料不會說話，但臺大陳宜廷介紹你利用經濟計量模型做研究 appeared first on 人文．島嶼.",
@@ -1605,19 +1701,27 @@
         "published": "2026-10-14T00:00:00+00:00"
       },
       {
+        "id": "caf2359b17c7",
+        "title": "Bana Haffar’s Ancient Future mutates memory and meaning in machines",
+        "summary": "If you feel at sea in a starless night, Ancient Future might summon charts from the ancestors, fragmented through samples and voltages, a hauntology of modular deconstruction. Bana Haffar, co-founder of Modular on the Spot in LA and Beirut Synthesizer Center in Lebanon, has an essential offering out...",
+        "url": "https://cdm.link/bana-haffar-ancient-future/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-13T21:00:58+00:00"
+      },
+      {
+        "id": "325f23c544e7",
+        "title": "UA Volt Gen 2, Max: built-in dynamics and preamp tone, displays, more",
+        "summary": "What do you do when software is feeling a little, well, disposable? Hardware, for one. Universal Audio has updated its Volt line of USB audio interfaces with built-in processing for preamp tone and dynamics, and on the higher-end models, \"smart\" displays and extras like ADAT input. (Hint: that can s...",
+        "url": "https://cdm.link/ua-volt-gen-2-max/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-13T20:18:38+00:00"
+      },
+      {
         "id": "7ec9a388c775",
         "title": "高雄城中城大火5年，原址改建公園後還留下什麼？曾蝸居大樓套房的倖存者，他們如何重新開始？",
         "summary": "2021年10月14日，一把惡火奪走城中城大樓46條人命。5年過去，城中城原址已改建為府北公園，一切看似復原，但災民的傷痛與記憶是否也跟著消失？這個地區還有什麼改變？",
         "url": "https://www.twreporter.org/a/podcast-2026-10-14",
         "source": "報導者",
-        "published": "2026-10-13T16:00:00+00:00"
-      },
-      {
-        "id": "45c987967164",
-        "title": "中国月度出口额增长36%，AI相关贸易繁荣",
-        "summary": "9月进口额也大幅增长，高油价推高了进口账单。",
-        "url": "https://www.ftchinese.com/story/001111098",
-        "source": "FTChinese RSS - News",
         "published": "2026-10-13T16:00:00+00:00"
       },
       {
@@ -1653,14 +1757,6 @@
         "published": "2026-10-13T03:19:24+00:00"
       },
       {
-        "id": "18faec83b263",
-        "title": "7,500 億美元的 AI 軍備賽，四大巨頭資本支出竟超車一國 GDP",
-        "summary": "全球 AI 基礎設施的投資正以史無前例的速度瘋狂擴張。根據最新彙整資料顯示，包含 Meta、亞馬遜（Amazo [&#8230;]",
-        "url": "https://finance.technews.tw/2026/10/13/tech-giants-data-center-costs/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-10-13T01:50:04+00:00"
-      },
-      {
         "id": "47df433841fb",
         "title": "Uber's CISO on building an insider threat program for AI",
         "summary": "Uber's CISO, Philip Martin, on the importance of monitoring and observability for AI agents, and how Uber's open-source tooling works alongside Enterprise Frontier Safeguards.",
@@ -1683,14 +1779,6 @@
         "url": "https://www.twreporter.org/a/2026-local-elections-ai-generated-contents-negatively-affect-elections",
         "source": "報導者",
         "published": "2026-10-12T16:00:00+00:00"
-      },
-      {
-        "id": "f58678ccbfa0",
-        "title": "企業最強大腦對決貼心生活管家，OpenAI Dot 與 Meta Muse 核心差異一次看",
-        "summary": "OpenAI 與 Meta 近期推出的新一代 AI 代理（AI Agents），正將競爭焦點從單純的「聊天機器 [&#8230;]",
-        "url": "https://technews.tw/2026/10/12/openai-dot-vs-meta-muse-comparison/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-10-12T07:10:21+00:00"
       },
       {
         "id": "b613edb3dea5",
@@ -2357,14 +2445,6 @@
         "published": "2026-08-16T14:18:22+00:00"
       },
       {
-        "id": "ff13f21b1af5",
-        "title": "帝王想穩坐天下，得先找孔子拜碼頭？！黃進興院士用《聖賢與聖徒》回顧孔廟前世今生",
-        "summary": "中研院歷史語言研究所黃進興院士早年發現國內關於孔廟的研究很少，於是從歷代文獻中逐步爬梳，開啟一系列孔廟研究。  [&#8230;]\nThe post 帝王想穩坐天下，得先找孔子拜碼頭？！黃進興院士用《聖賢與聖徒》回顧孔廟前世今生 appeared first on 人文．島嶼.",
-        "url": "https://humanityisland.nccu.edu.tw/chin-shing-huang_a/",
-        "source": "人文．島嶼",
-        "published": "2026-08-12T00:30:28+00:00"
-      },
-      {
         "id": "b77212072e1b",
         "title": "[東南亞週報325] 美國務卿魯比歐訪菲出席東協外長會議、星內閣改組多位年輕政務官獲重用、大馬森美蘭州選舉變天國陣與國盟奪三分之二優勢",
         "summary": "[東南亞週報325] 美國務卿魯比歐訪菲出席東協外長會議、星內閣改組多位年輕政務官獲重用、大馬森美蘭州選舉變天 [&#8230;]",
@@ -2468,7 +2548,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-20T23:45:30.266898+00:00"
+        "published": "2026-10-21T04:23:11.766464+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2476,7 +2556,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-20T23:45:30.266888+00:00"
+        "published": "2026-10-21T04:23:11.766454+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2484,7 +2564,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-20T23:45:30.266883+00:00"
+        "published": "2026-10-21T04:23:11.766443+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2492,7 +2572,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-20T23:45:30.266878+00:00"
+        "published": "2026-10-21T04:23:11.766433+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2500,7 +2580,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-20T23:45:30.266872+00:00"
+        "published": "2026-10-21T04:23:11.766422+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2508,7 +2588,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-20T23:45:30.266867+00:00"
+        "published": "2026-10-21T04:23:11.766411+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2516,7 +2596,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-20T23:45:30.266861+00:00"
+        "published": "2026-10-21T04:23:11.766401+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2524,7 +2604,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-20T23:45:30.266856+00:00"
+        "published": "2026-10-21T04:23:11.766390+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2532,7 +2612,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-20T23:45:30.266851+00:00"
+        "published": "2026-10-21T04:23:11.766379+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2540,15 +2620,15 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-20T23:45:30.266844+00:00"
+        "published": "2026-10-21T04:23:11.766369+00:00"
       },
       {
-        "id": "22bb954489c2",
-        "title": "Internet Archive Honors Poynter and IRE for Preserving Local News Online",
-        "summary": "As newsrooms across the United States close, years of reporting are at risk of disappearing. Stories documenting local elections, holding public officials accountable, investigating community problems and recording everyday life [&#8230;]\nThe post Internet Archive Honors Poynter and IRE for Preservi...",
-        "url": "https://blog.archive.org/2026/10/20/internet-archive-hero-award-2026/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-10-20T12:00:00+00:00"
+        "id": "a5f3805fdc96",
+        "title": "泰國邦迪帕塔納西帕藝術學院院長造訪民音文化中心",
+        "summary": "2026年9月8日，泰國邦迪帕塔納西帕藝術學院院長索姆基亞特·普米帕克（Somkiat Pumipak）助理教 [&#8230;]",
+        "url": "https://www.min-on.org/zh-hant/14977/%e6%b3%b0%e5%9c%8b%e9%82%a6%e8%bf%aa%e5%b8%95%e5%a1%94%e7%b4%8d%e8%a5%bf%e5%b8%95%e8%97%9d%e8%a1%93%e5%ad%b8%e9%99%a2%e9%99%a2%e9%95%b7%e9%80%a0%e8%a8%aa%e6%b0%91%e9%9f%b3%e6%96%87%e5%8c%96%e4%b8%ad/",
+        "source": "Chinese Traditional – Min-On Website",
+        "published": "2026-10-21T03:15:23+00:00"
       },
       {
         "id": "bab5827d0b01",
@@ -2557,14 +2637,6 @@
         "url": "https://audio.nmth.gov.tw/news/%e3%80%90%e8%87%a8%e6%99%82%e5%85%ac%e5%91%8a%e3%80%91%e5%9b%a0%e6%96%87%e5%8c%96%e9%83%a8%e7%b3%bb%e7%b5%b1%e7%a7%bb%e6%a9%9f%ef%bc%8c%e6%9c%ac%e7%ab%99%e9%83%a8%e5%88%86%e5%8a%9f%e8%83%bd%e5%8f%af/",
         "source": "最新消息 – 臺灣音聲100年",
         "published": "2026-10-20T08:55:40+00:00"
-      },
-      {
-        "id": "f8f185383970",
-        "title": "Annual Celebration 2026: Street Fair to Showcase Internet Archive’s Projects and Allies",
-        "summary": "Every year, the Internet Archive throws a party at our headquarters, celebrating a different facet of our ongoing preservation work. The theme for 2026 is “Democracy’s Library: Tools for Participation” [&#8230;]\nThe post Annual Celebration 2026: Street Fair to Showcase Internet Archive’s Projects an...",
-        "url": "https://blog.archive.org/2026/10/19/annual-celebration-2026-street-fair-to-showcase-internet-archives-projects-and-allies/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-10-19T22:09:22+00:00"
       },
       {
         "id": "29e07dee3e87",
@@ -2599,30 +2671,6 @@
         "published": "2026-10-15T09:40:14+00:00"
       },
       {
-        "id": "ef98ec2f7c1a",
-        "title": "Celebrating 2026 Internet Archive Artist in Residence: Christopher Burch",
-        "summary": "Written by VITA HEWITT “Echoes of Absence and Mythos: The Un-Archivists of Shitocracy” comes straight from the hands of artist Christopher Burch and opens on October 17 at Incline Gallery. [&#8230;]\nThe post Celebrating 2026 Internet Archive Artist in Residence: Christopher Burch first appeared on I...",
-        "url": "https://blog.archive.org/2026/10/14/celebrating-2026-internet-archive-artist-in-residence-christopher-burch/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-10-14T20:23:31+00:00"
-      },
-      {
-        "id": "4131d8e4d987",
-        "title": "Building the Hero Award: The Story Behind Taekyeom Lee’s 3D-Printed Model of the Internet Archive",
-        "summary": "Taekyeom Lee is an educator, designer, maker, and researcher. The associate professor of graphic design at Indiana University Bloomington is not only committed to teaching his students, Lee believes in [&#8230;]\nThe post Building the Hero Award: The Story Behind Taekyeom Lee’s 3D-Printed Model of th...",
-        "url": "https://blog.archive.org/2026/10/14/building-the-hero-award/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-10-14T12:00:00+00:00"
-      },
-      {
-        "id": "0022bbf595c9",
-        "title": "The People, Counted: Browse Raw Census Records at the Internet Archive",
-        "summary": "The U.S. Census has been in the headlines lately, as proposed changes to the 2030 count have sparked debate over who gets counted and what information should be recorded as [&#8230;]\nThe post The People, Counted: Browse Raw Census Records at the Internet Archive first appeared on Internet Archive Bl...",
-        "url": "https://blog.archive.org/2026/10/12/the-people-counted-browse-raw-census-records-at-the-internet-archive/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-10-12T16:13:51+00:00"
-      },
-      {
         "id": "100156d780fe",
         "title": "保加利亞大使於民音文化中心探討文化交流",
         "summary": "2026年9月17日，保加利亞共和國駐日本特命全權大使馬里埃塔·佩特羅娃·阿拉巴吉耶娃·德·德斯卡爾齊閣下，偕 [&#8230;]",
@@ -2655,44 +2703,12 @@
         "published": "2026-10-08T14:52:55+00:00"
       },
       {
-        "id": "230c6e807646",
-        "title": "Internet Archive to Demo Wayback Machine at Friday’s Uniqlo Street Festival",
-        "summary": "The Internet Archive is joining other area nonprofits for the Uniqlo Street Festival on Friday, October 9, 2026, alongside the opening of Uniqlo’s new flagship store on Market Street. We’ll [&#8230;]\nThe post Internet Archive to Demo Wayback Machine at Friday’s Uniqlo Street Festival first appeared ...",
-        "url": "https://blog.archive.org/2026/10/08/internet-archive-to-demo-wayback-machine-at-fridays-uniqlo-street-festival/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-10-08T11:50:00+00:00"
-      },
-      {
-        "id": "bc2998eeae21",
-        "title": "Who Is Government Information For? Information Stewardship Forum 2026 Report",
-        "summary": "Democracy’s Library exists as a project of the Internet Archive to make government publications and information broadly accessible and available. But Democracy’s Library is about more than collections – it [&#8230;]\nThe post Who Is Government Information For? Information Stewardship Forum 2026 Repor...",
-        "url": "https://blog.archive.org/2026/10/06/who-is-government-information-for-information-stewardship-forum-2026-report/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-10-06T15:48:12+00:00"
-      },
-      {
         "id": "2c10088003dd",
         "title": "第十一届网络社会年会｜全球青年学者论坛征稿启事",
         "summary": "第十一届网络社会年会11th Annual Conference of Network Society 知者之后：当算力作用于知识After the Knower: When Compute Acts upon Knowledge 全球青年学者论坛｜征稿主旨Global Young Scholars Forum: Call for Papers 三十年前，一九九六年，柯司特（Manuel Castells）出版《网络社会的崛起》，他为这本书的中文版写序时说：「就像历史上所有快速而多重向度变迁的时期一样，我们习惯用来思考社会的知识范畴已经变得过时：社会、经济与政治理论，在我们最需要据以了解世界与...",
         "url": "https://www.caa-ins.org/archives/13434",
         "source": "网络社会研究所",
         "published": "2026-10-05T20:04:44+00:00"
-      },
-      {
-        "id": "b65247659dd8",
-        "title": "Internet Archive to Honor Poynter Institute and Investigative Reporters and Editors with 2026 Hero Award for Preserving Local News Online",
-        "summary": "The Internet Archive is proud to announce that the Poynter Institute and Investigative Reporters and Editors (IRE) will receive the 2026 Internet Archive Hero Award for their leadership in preserving [&#8230;]\nThe post Internet Archive to Honor Poynter Institute and Investigative Reporters and Edito...",
-        "url": "https://blog.archive.org/2026/10/05/internet-archive-to-honor-poynter-institute-and-investigative-reporters-and-editors-with-2026-hero-award-for-preserving-local-news-online/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-10-05T12:00:00+00:00"
-      },
-      {
-        "id": "d4ab42ffcd01",
-        "title": "100+ Years of Student Radio History in the DLARC College Radio Collections",
-        "summary": "Happy College Radio Day! In honor of the annual celebration of student radio (this year on October 2), we invite you to explore the college radio collections in the Internet [&#8230;]\nThe post 100+ Years of Student Radio History in the DLARC College Radio Collections first appeared on Internet Archi...",
-        "url": "https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-10-02T12:00:00+00:00"
       },
       {
         "id": "9e08ed3bf008",
@@ -2725,14 +2741,6 @@
         "url": "https://medium.com/@ccs.popcom/%E5%8D%97%E6%96%B9%E8%A6%96%E8%A7%92%E7%9A%84%E6%96%87%E5%8C%96%E9%9D%A9%E5%91%BD-%E5%BE%9E%E6%BC%94%E5%94%B1%E6%9C%83%E7%B6%93%E6%BF%9F%E5%88%B0%E5%BD%B1%E8%A6%96ip%E7%9A%84%E5%9C%A8%E5%9C%B0%E6%B7%B1%E8%80%95-79024f1645b0?source=rss-17c1c85be06b------2",
         "source": "Stories by 爆米花傳播學 on Medium",
         "published": "2026-09-30T06:36:04+00:00"
-      },
-      {
-        "id": "087b5de74ed9",
-        "title": "Every Night Is Different: Ryley Walker on Preserving Live Music",
-        "summary": "Ryley Walker says he’s flattered when people tape his live performances and post them on the Internet Archive. If he knows ahead of time, the 37-year-old singer-songwriter often puts their [&#8230;]\nThe post Every Night Is Different: Ryley Walker on Preserving Live Music first appeared on Internet A...",
-        "url": "https://blog.archive.org/2026/09/29/every-night-is-different-ryley-walker-on-preserving-live-music/",
-        "source": "Internet Archive Blogs",
-        "published": "2026-09-29T12:00:00+00:00"
       },
       {
         "id": "152ef919ebae",
@@ -2941,14 +2949,6 @@
         "url": "https://www.ethanhein.com/wp/2026/i-decided-what-song-im-going-to-start-my-history-of-20th-century-american-popular-music-class-with/",
         "source": "The Ethan Hein Blog",
         "published": "2026-08-07T15:14:30+00:00"
-      },
-      {
-        "id": "2cac214aeed7",
-        "title": "美國銅管五重奏團 Seraph Brass 完成日本巡演",
-        "summary": "2026年6月8日，Seraph Brass 抵達日本，隔日於北海道展開首場巡演，隨後在日本全國舉辦了16場音 [&#8230;]",
-        "url": "https://www.min-on.org/zh-hant/14918/%e7%be%8e%e5%9c%8b%e9%8a%85%e7%ae%a1%e4%ba%94%e9%87%8d%e5%a5%8f%e5%9c%98-seraph-brass-%e5%ae%8c%e6%88%90%e6%97%a5%e6%9c%ac%e5%b7%a1%e6%bc%94/",
-        "source": "Chinese Traditional – Min-On Website",
-        "published": "2026-08-07T08:53:36+00:00"
       },
       {
         "id": "5f89d7de664e",
