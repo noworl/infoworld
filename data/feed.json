@@ -1,166 +1,166 @@
 {
-  "updated_at": "2026-10-22T04:29:02.417507+00:00",
+  "updated_at": "2026-10-22T09:59:38.679811+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "14bc547723f4",
+        "title": "SermonIndex Scripture Readings 05",
+        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard 05). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Metadata, VBR MP3",
+        "url": "https://archive.org/details/sermonindex_readings_05",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-22T09:17:16+00:00"
+      },
+      {
+        "id": "9ed4126316c0",
+        "title": "SermonIndex Scripture Readings 09",
+        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard 09). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/sermonindex_readings_09",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-22T07:50:15+00:00"
+      },
+      {
+        "id": "ffb5586dd90c",
+        "title": "06 Bleachwhite Linen",
+        "summary": "Wangxian, Podfic.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/06-bleachwhite-linen",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-22T07:03:50+00:00"
+      },
+      {
+        "id": "1b32cc9698ba",
+        "title": "颱風薔琵來襲  23日阿里山森林遊樂區關閉、林鐵停駛",
+        "summary": "（中央社記者蔡智明嘉義縣22日電）薔琵颱風預計明天起影響台灣，林保署顧及遊客安全，宣布阿里山國家森林遊樂區明天上午8時起預警性休園；阿里山林鐵明天也停駛，僅清晨看日出的祝山線正常營運。",
+        "url": "https://www.cna.com.tw/news/ahel/202610220200.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-22T07:00:27+00:00"
+      },
+      {
+        "id": "3df7a4f35ee5",
+        "title": "颱風薔琵來襲　公路局：淡江大橋等路段可能實施管制",
+        "summary": "（中央社記者黃巧雯台北22日電）因應颱風薔琵來襲，交通部公路局今天表示，預計包括台9線（含台9丁線）蘇花公路、台61線淡江大橋等10路段可能實施管制路段。",
+        "url": "https://www.cna.com.tw/news/ahel/202610220199.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-22T06:59:25+00:00"
+      },
+      {
+        "id": "f6b74c7d09dd",
+        "title": "光復連假桃機運量估75.5萬人次 全年可望達5千萬人次",
+        "summary": "（中央社記者余曉涵台北22日電）桃園機場公司指出，光復連假5天疏運期的旅運量約75.5萬人次，比去年同期成長3.3%，全年旅運量可望達5000萬人次，挑戰歷史新高紀錄。",
+        "url": "https://www.cna.com.tw/news/ahel/202610220198.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-22T06:59:23+00:00"
+      },
+      {
+        "id": "2e06ba6db9cd",
+        "title": "北管藝師黃錦財等獲嘉義文化獎　表彰文藝發展傳承",
+        "summary": "（中央社記者蔡智明嘉義縣22日電）嘉義縣政府今天頒發嘉義文化獎給推動文藝發展傳承的協志工商創辦人何明宗、北管藝師黃錦財與三昧堂創意木偶團長嚴仁鴻，3人分獲特殊貢獻獎、文化傳承獎及新人獎。",
+        "url": "https://www.cna.com.tw/news/acul/202610220193.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-22T06:53:12+00:00"
+      },
+      {
+        "id": "9374b3dadce9",
+        "title": "東北季風及颱風外圍環流影響　北北基桃宜防大雨",
+        "summary": "（中央社記者張雄風台北22日電）交通部中央氣象署今天下午發布大雨特報，東北季風及第29號颱風薔琵外圍環流影響，易有短延時強降雨，基隆北海岸、桃園以北及宜蘭地區有局部大雨發生。",
+        "url": "https://www.cna.com.tw/news/ahel/202610220178.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-22T06:21:39+00:00"
+      },
+      {
+        "id": "7eb39186f1d3",
+        "title": "公費流感疫苗開打不到1個月  已接種近380萬劑",
+        "summary": "（中央社記者沈佩瑤台北22日電）流感疫情還在流行期，公費流感疫苗開打中，疾管署今天公布最新接種狀況，10月1日至今不到1個月時間，累計接種接近380萬劑，另外COVID-19新冠疫苗也接種約113萬劑，雙雙比去年同期增加。",
+        "url": "https://www.cna.com.tw/news/ahel/202610220175.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-22T06:19:33+00:00"
+      },
+      {
+        "id": "16d5a70768c7",
+        "title": "女同伴侶凍卵意外揪出卵巢腫瘤　及時治療保住生機",
+        "summary": "（中央社記者陳婕翎台北22日電）32歲的小珊與同性伴侶結婚3年，小珊凍卵前接受陰道超音波檢查，意外發現一顆近5公分卵巢腫瘤，所幸及時治療，如今小珊盼開放女同使用人工生殖修法盡速完成，盼迎接新生命。",
+        "url": "https://www.cna.com.tw/news/ahel/202610220173.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-22T06:16:29+00:00"
+      },
+      {
+        "id": "15e08181047a",
+        "title": "SermonIndex Scripture Readings 04",
+        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard 04). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/sermonindex_readings_04",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-22T05:57:08+00:00"
+      },
+      {
+        "id": "bdc8661e4226",
+        "title": "PRAETORIUS Advents- und Weihnachtsmusik",
+        "summary": "PRAETORIUS  Advents- und Weihnachtsmusik Bremer Barock Consort Manfred Cordes (2007).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/nvh_20261022",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-22T05:42:00+00:00"
+      },
+      {
+        "id": "3ab96971ec17",
+        "title": "亞太公衛重要獎項  陳建仁獲麥克拉倫教授領導成就獎",
+        "summary": "（中央社記者吳欣紜台北22日電）中研院院長陳建仁學術研究成果享譽國際，中研院今天表示，陳建仁今天獲頒亞太公共衛生學術聯盟「麥克拉倫教授領導成就獎」，表彰其在流行病學、環境健康防治等貢獻。",
+        "url": "https://www.cna.com.tw/news/ahel/202610220148.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-22T05:41:35+00:00"
+      },
+      {
+        "id": "96f5374479ce",
+        "title": "氣象署追風計畫掌握颱風薔琵　1.3萬公尺高空投下探空儀",
+        "summary": "（中央社記者張雄風台北22日電）颱風薔琵逐漸影響台灣，氣象署今天表示，清晨已進行追風計畫，透過飛行至1萬3000公尺高空並投下探空儀，將資料透過衛星回傳至氣象署，更精準掌握颱風動態。",
+        "url": "https://www.cna.com.tw/news/ahel/202610220138.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-22T05:22:13+00:00"
+      },
+      {
+        "id": "7b38759c1752",
+        "title": "校安人力月薪3.6萬起跳　鄭英耀坦言偏低：應達5萬",
+        "summary": "（中央社記者陳至中台北22日電）行政院9月通過「校園安全韌性2000」計畫，擴充國中校安人力，月薪比照學務創新人力，約3.6萬元到4.7萬元。教育部長鄭英耀今天在立法院坦言薪資偏低，應該要達5萬元左右。",
+        "url": "https://www.cna.com.tw/news/ahel/202610220133.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-22T05:08:02+00:00"
+      },
+      {
+        "id": "401e4ea7aaf4",
+        "title": "DNA Lounge: Private Event: DNA Staff Street Fighter Viewing (2026-10-21a)",
+        "summary": "PRIVATE EVENT: DNA STAFF STREET FIGHTER VIEWING Hey DNA crew! We are doing a group outing to see the new Street Fighter movie. We have a bunch of tickets for it and are using this to handle coordination....This item belongs to: audio/dnalounge.This item has files of the following types: Archive BitT...",
+        "url": "https://archive.org/details/DNALOUNGE-2026-10-21a",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-22T05:07:25+00:00"
+      },
+      {
+        "id": "e9082437a1f2",
+        "title": "DNA Lounge: Drift Mothership (2026-10-20d)",
+        "summary": "Performing Live: DRIFT MOTHERSHIP PARAGRAPH TAYLOR BIG EMPTY ZERO A 5 piece industrial heavy atmospheric rock band, Drift Mothership from Los Angeles, CA was formed in 2019. Melodic top lines, drilling riffs, thrashing grooves and cosmic chilling synthesizers, creates a diverse soundscape....This it...",
+        "url": "https://archive.org/details/DNALOUNGE-2026-10-20d",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-22T05:07:11+00:00"
+      },
+      {
+        "id": "f19b23d7d78b",
+        "title": "Mars Defenders With The Zenobit3",
+        "summary": "https://www.discogs.com/artist/848287-Zenobite.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mars-defenders-with-the-zenobit-3_202610",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-22T05:02:56+00:00"
+      },
+      {
+        "id": "10d32fffbf00",
+        "title": "The Zenobit3 (NCFM Loft 301) 09-30-2020 Part. One",
+        "summary": "https://www.discogs.com/artist/848287-Zenobite.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/the-zenobit-3-ncfm-loft-301-09-30-2020-part.-one_202610",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-22T04:55:03+00:00"
+      },
+      {
         "id": "7fba8c03b1ce",
         "title": "SermonIndex Scripture Readings 06",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard 06). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Metadata",
+        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard 06). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
         "url": "https://archive.org/details/sermonindex_readings_06",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-10-22T04:24:12+00:00"
-      },
-      {
-        "id": "c193b1047dda",
-        "title": "光復節連假逢颱風薔琵逼近　高鐵10/23南下近客滿",
-        "summary": "（中央社記者黃巧雯台北22日電）光復節連假將至，颱風薔琵逼近，預期明天將是颱風最接近台灣的期間。台灣高鐵統計，連假疏運對號座訂票數已超過44萬張，今天下午及明天全天台北南下車次對號座已接近客滿。",
-        "url": "https://www.cna.com.tw/news/ahel/202610220087.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-22T03:26:22+00:00"
-      },
-      {
-        "id": "c062b37d3db4",
-        "title": "Unfairly Attractive",
-        "summary": "Podfic of Unfairly Attractive by wanderingjedihistorian (RangerJedi67).This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/unfairly-attractive",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-22T03:26:05+00:00"
-      },
-      {
-        "id": "cb1d826aca58",
-        "title": "颱風薔琵來襲　新北桃園宜蘭3天總雨量上看900毫米",
-        "summary": "（中央社記者張雄風台北22日電）颱風薔琵來襲，根據氣象最新風雨預報，今天起至24日總雨量以新北、桃園及宜蘭山區上看900毫米最多；風力部分，明天蘭嶼、綠島可能有12級強陣風，苗栗至台南、宜花及澎湖防11級強陣風。",
-        "url": "https://www.cna.com.tw/news/ahel/202610220068.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-22T02:54:42+00:00"
-      },
-      {
-        "id": "11639151a7e0",
-        "title": "(Label) Asymmetry of Consciousness Discography",
-        "summary": "Bandcamp Latest Release 261022:  a glade: my mind palace - There Will Still Be Raves When the Sun Returns to Whence it Came Contained Releases (12) a glade: my mind palace - There Will Still Be Raves When the Sun Returns to Whence it Came aciv - Tropical Semiring / Lie Algebras Cimilo1273 - Cupid M....",
-        "url": "https://archive.org/details/asymmetry-of-consciousness-discography",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-22T02:43:43+00:00"
-      },
-      {
-        "id": "3ea00bb90ad3",
-        "title": "SermonIndex Scripture Readings 03",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard 03). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/sermonindex_readings_03",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-22T02:40:01+00:00"
-      },
-      {
-        "id": "a8bc8d307ab5",
-        "title": "SermonIndex Scripture Readings 02",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard 02). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/sermonindex_readings_02",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-22T02:39:14+00:00"
-      },
-      {
-        "id": "f3172134b552",
-        "title": "SermonIndex Scripture Readings 01",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard 01). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/sermonindex_readings_01",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-22T02:39:11+00:00"
-      },
-      {
-        "id": "805159882900",
-        "title": "AITA For Decapitating My Boyfriend",
-        "summary": "Podfic of AITA for decapitating my boyfriend? by le_chat_noir.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Animated GIF, Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/aita-for-decapitating-my-boyfriend",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-22T02:36:31+00:00"
-      },
-      {
-        "id": "fd6347023c5f",
-        "title": "因應颱風薔琵來襲　 佛光大學23日預防性停課",
-        "summary": "（中央社記者沈如峰宜蘭縣22日電）佛光大學今天表示，颱風薔琵逼近，考量學校位處宜蘭山區，為維護學生安全，明天預防性停課1天；職員出勤則依宜蘭縣政府停班停課公告及學校相關規定辦理。（編輯：陳清芳）1151022",
-        "url": "https://www.cna.com.tw/news/ahel/202610220055.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-22T02:23:14+00:00"
-      },
-      {
-        "id": "aa02ac06a976",
-        "title": "世新大學裁撤系辦、資源配置爭議　教育部認定重大瑕疵要求限期改善",
-        "summary": "（中央社記者陳至中台北22日電）世新大學裁撤系辦、整修圖書館，接連引發爭議，學生啟動「舍我學運」。教育部近日入校訪視，認為學校在實施新制度前，沒有完善與學生溝通的程序，屬重大瑕疵，要求限期改善。",
-        "url": "https://www.cna.com.tw/news/ahel/202610220052.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-22T02:22:07+00:00"
-      },
-      {
-        "id": "3ce92a4deb98",
-        "title": "SermonIndex Scripture Readings 00",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard 00). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Metadata, VBR MP3",
-        "url": "https://archive.org/details/sermonindex_readings_00",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-22T02:08:51+00:00"
-      },
-      {
-        "id": "ceb8ea1055b2",
-        "title": "退休婦每週登山膝蓋突劇痛　罕見自發性骨壞死作祟",
-        "summary": "（中央社記者趙麗妍台中22日電）1名60多歲女子退休後每週都去爬山。日前她的右膝蓋突感疼痛，慢慢地走路變得歪斜，躺在床上都痛。醫師檢查是自發性骨壞死，骨頭塌陷、膝蓋還內翻，置換人工膝關節才能正常走路。",
-        "url": "https://www.cna.com.tw/news/ahel/202610220043.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-22T01:59:48+00:00"
-      },
-      {
-        "id": "b18a253fd227",
-        "title": "依托咪酯躍校園毒品第2名　教部114年完成5萬班反毒宣導",
-        "summary": "（中央社記者陳至中台北22日電）依托咪酯（Etomidate，俗稱喪屍煙彈）類毒品於113年躍升學生接觸毒品第二名，僅次於K他命。教育部於去年完成5萬班的入班宣導，提升學生辨識風險與拒絕毒品的能力。",
-        "url": "https://www.cna.com.tw/news/ahel/202610220041.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-22T01:55:44+00:00"
-      },
-      {
-        "id": "e724be625ffa",
-        "title": "莫札特歌劇「女人皆如此」 指揮林勤超：愛情試煉不分男女",
-        "summary": "（中央社記者趙靜瑜台北22日電）今年是作曲家莫札特270歲誕辰，台中國家歌劇院推出年度旗艦歌劇「女人皆如此」，由旅歐音樂家林勤超擔綱指揮，他表示這齣歌劇劇名應該把「女」字拿掉，因為「當愛情受到試煉，人皆如此。」",
-        "url": "https://www.cna.com.tw/news/acul/202610220039.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-22T01:32:39+00:00"
-      },
-      {
-        "id": "7f2058d1a9e9",
-        "title": "颱風薔琵10/23距台最近　北部、宜蘭防豪雨以上降雨",
-        "summary": "（中央社記者張雄風台北22日電）氣象署表示，今天上午颱風薔琵暴風圈再略為擴大，明天會是最接近台灣的期間，不排除可能因地形影響而有減速、滯留的情形；明天、24日北部山區、宜蘭山區防豪雨等級以上降雨。",
-        "url": "https://www.cna.com.tw/news/ahel/202610220032.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-22T01:09:24+00:00"
-      },
-      {
-        "id": "93d4d0de6524",
-        "title": "Flame And Rust 13+14",
-        "summary": "Flame And Rust 13+14.This item belongs to: audio/keri-arentikai-podfic-radio.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/flame-and-rust-13-14",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-22T00:54:59+00:00"
-      },
-      {
-        "id": "c832d0a93f5c",
-        "title": "PRAETORIUS Lutheranische Messe zum Weihnachtsmorgen",
-        "summary": "PRAETORIUS  Lutheranische Messe zum Weihnachtsmorgen wie sie um 1620 stattgefunden haben könnte Gabrieli Consort & Players Paul Mc Creesh (1994).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Sp...",
-        "url": "https://archive.org/details/bnb_20261021",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-21T22:41:19+00:00"
-      },
-      {
-        "id": "526a2f652478",
-        "title": "颱風薔琵海上警報發布　最快22日中午前後發陸警",
-        "summary": "（中央社記者余曉涵台北21日電）中央氣象署今天深夜發布海上颱風警報，首波警戒範圍為台灣東北部海面、台灣東南部海面（含蘭嶼、綠島）、巴士海峽。氣象署說，預估薔琵23日最接近，若路徑不變最快22日中午前後發布陸警。",
-        "url": "https://www.cna.com.tw/news/ahel/202610220004.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-21T16:22:14+00:00"
-      },
-      {
-        "id": "0a50e792c543",
-        "title": "今彩539第115255期　頭獎槓龜",
-        "summary": "（中央社台北21日電）今彩539第115255期開獎，中獎號碼04、18、28、15、08；派彩結果，頭獎槓龜。",
-        "url": "https://www.cna.com.tw/news/ahel/202610210357.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-21T14:03:27+00:00"
       },
       {
         "id": "34ca944ae839",
@@ -805,6 +805,110 @@
     ],
     "破(day)": [
       {
+        "id": "6baeea5a7cf8",
+        "title": "LILYGO TTGO Meshtastic T-Beam Case #3DThursday #3DPrinting #3DThursday #3DPrinting",
+        "summary": "lastparody shares: A custom case for the LILYGO TTGO Meshtastic T-Beam. Package has four parts: two top covers + two bottom bases, pick one of each. Bottom bases: 50° angled (better viewing angle) or 90° flat (keeps device upright). Angled base may not suit monopole antennas at 433MHz — use flat for...",
+        "url": "https://blog.adafruit.com/2026/10/22/lilygo-ttgo-meshtastic-t-beam-case-3dthursday-3dprinting-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-22T09:00:57+00:00"
+      },
+      {
+        "id": "4160dd5c9ecf",
+        "title": "Martin Guerre review – return of Les Mis duo’s melodrama reveals a surprise new hero",
+        "summary": "Old Vic theatre, LondonMatthew Warchus directs a radical and intimate revival of Alain Boublil and Claude-Michel Schönberg’s musical about a Frenchman who flees homeSome revivals overstate their revisionism but Alain Boublil and Claude-Michel Schönberg’s musical, which premiered 16 years after their...",
+        "url": "https://www.theguardian.com/stage/2026/oct/22/martin-guerre-review-les-mis-duo-melodrama-old-vic-theatre-london",
+        "source": "Stage | The Guardian",
+        "published": "2026-10-22T08:47:31+00:00"
+      },
+      {
+        "id": "9472d41ff1d3",
+        "title": "公佈欄遭貼選舉貼紙引北市文化局關心　阮劇團：理解也尊重觀眾",
+        "summary": "（中央社記者趙靜瑜台北22日電）阮劇團在北市水源劇場推出「噪音風暴」劇展，因讓觀眾發表感想的公佈欄貼上「洋流」貼紙，文化局關心並建議移除。藝術總監汪兆謙表示理解文化局考量，也尊重觀眾的個人立場。",
+        "url": "https://www.cna.com.tw/news/acul/202610220236.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-10-22T08:27:45+00:00"
+      },
+      {
+        "id": "e31a35c99f1b",
+        "title": "希臘編舞家帕帕多普洛斯經典舞作「步步」　首登兩廳院",
+        "summary": "（中央社記者趙靜瑜台北22日電）由兩廳院主辦的2026秋天藝術節即將登場，開幕由希臘當代編舞家帕帕多普洛斯帶來「步步」，舞作傳達群體由不同個體、節奏交織，每個人都有自己的步伐，但差異中仍能長出連結。",
+        "url": "https://www.cna.com.tw/news/acul/202610220230.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-10-22T08:11:32+00:00"
+      },
+      {
+        "id": "72872cc7ecb2",
+        "title": "Christmas Star LED Tree Topper #3DThursday #3DPrinting #3DThursday #3DPrinting",
+        "summary": "BamBamDesign shares: A printable 3D star Christmas tree topper in dodecahedron shape — ~240mm diameter assembled, tips ~90mm long. Easy to light up — G4 holder integrated (G4 bulb suggested as example), works with LED strips or similar. Parts: 11 tips + 25 connectors. Choose one bottom (fits over tr...",
+        "url": "https://blog.adafruit.com/2026/10/22/christmas-star-led-tree-topper-3dthursday-3dprinting-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-22T08:00:34+00:00"
+      },
+      {
+        "id": "e359c488c8e6",
+        "title": "West End to get another lesson from The History Boys two decades on",
+        "summary": "Nation’s favourite play makes London comeback amid renewed debate about future of humanities teachingThe History Boys is to return to the West End for the first time in two decades, with a warning from its director of an “almost terminal decline” in humanities teaching in state schools.Nicholas Hytn...",
+        "url": "https://www.theguardian.com/stage/2026/oct/22/west-end-alan-bennett-the-history-boys-nicholas-hytner-theatre",
+        "source": "Stage | The Guardian",
+        "published": "2026-10-22T08:00:10+00:00"
+      },
+      {
+        "id": "65396f2ca1d3",
+        "title": "Muse 使用者破千萬人，祖克柏揭下一步擴張戰略",
+        "summary": "隨著第三季財報公布，Meta 執行長祖克柏（Mark Zuckerberg）表示，短短一個半月內，美國與加拿大 [&#8230;]",
+        "url": "https://technews.tw/2026/10/22/muse-agents-reach-over-10-million-users-in-the-us-and-canada/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-10-22T07:29:11+00:00"
+      },
+      {
+        "id": "b8894c33bc04",
+        "title": "An industrial case for Monster Eyes #3DThursday #3DPrinting #3DThursday #3DPrinting",
+        "summary": "miekush shares: A 3D printable case for an Adafruit Monster Eye with an industrial flair! download the files on: https://www.hackster.io/miekush/adafruit-monster-eyes-industrial-case-492349 Every Thursday is #3dthursday here at Adafruit! The DIY 3D printing community has passion and dedication for m...",
+        "url": "https://blog.adafruit.com/2026/10/22/an-industrial-case-for-monster-eyes-3dthursday-3dprinting-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-22T07:00:31+00:00"
+      },
+      {
+        "id": "2f2349a25e3b",
+        "title": "OB短評》#602人類與自然記憶的極品好書懶人包",
+        "summary": "●危險鄉土\n黃宥茹著，九歌出版，320元\n推薦原因： 文   樂   \n這批短篇寫出了某種「出社會症候群」，人物在學業與實習間徬徨游移，有點大志，卻被一線職場打得鼻青臉腫。鄉土面臨消逝的危險，卻也造就了難以撼動的危險。作者擁有變色龍的DNA，幾乎什麼都能寫，鮮活表達心緒之餘卻也為其所困，且待隨遇而安，得大自在。【內容簡介➤】\n●恩浦薩的幽靈\n奧爾嘉．朵卡萩（Olga Tokarczuk）著，游紫晴譯，大塊文化，480元\n推薦原因： 文   樂   \n朵卡萩何苦緊貼著原作魔改《魔山》？一來該書的淺櫃偽直男沙文主義，的確是該調教一下，二來把療養院搬到西里西亞這塊各方覬覦之地，也能進一步處理歷史傷痕...",
+        "url": "https://www.openbook.org.tw/article/p-73027",
+        "source": "Openbook閱讀誌",
+        "published": "2026-10-22T07:00:00+00:00"
+      },
+      {
+        "id": "2e06ba6db9cd",
+        "title": "北管藝師黃錦財等獲嘉義文化獎　表彰文藝發展傳承",
+        "summary": "（中央社記者蔡智明嘉義縣22日電）嘉義縣政府今天頒發嘉義文化獎給推動文藝發展傳承的協志工商創辦人何明宗、北管藝師黃錦財與三昧堂創意木偶團長嚴仁鴻，3人分獲特殊貢獻獎、文化傳承獎及新人獎。",
+        "url": "https://www.cna.com.tw/news/acul/202610220193.aspx",
+        "source": "中央社即時新聞 文化新聞",
+        "published": "2026-10-22T06:53:12+00:00"
+      },
+      {
+        "id": "badcc31a044d",
+        "title": "Candy Corn Dragon Halloween #3DThursday #3DPrinting #3DThursday #3DPrinting",
+        "summary": "Meyerhouse shares: A free articulated dragon with candy-corn-style spikes and festive tri-color look (yellow/orange/white). Fully articulated and fun to pose. Scales from small tabletop to centerpiece dragon. Glue stick on build plate for adhesion; brim recommended if the printer has trouble stickin...",
+        "url": "https://blog.adafruit.com/2026/10/22/candy-corn-dragon-halloween-3dthursday-3dprinting-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-22T06:00:43+00:00"
+      },
+      {
+        "id": "9b20e97c4e02",
+        "title": "From the mail bag…",
+        "summary": "From the mail bag! I ordered several on/off switches that had been on back order. They arrived in a small, elegant box, reminiscent of those from Tiffany’s. Although the color wasn’t the same, it was still beautiful. Inside, I found the four stunning switches, their chrome bevels gleaming under my o...",
+        "url": "https://blog.adafruit.com/2026/10/22/from-the-mail-bag-810/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-22T05:30:17+00:00"
+      },
+      {
+        "id": "ff122d7296d0",
+        "title": "Halloween Coffin Planter #3DThursday #3DPrinting #3DThursday #3DPrinting",
+        "summary": "user_1490077247 shares: A Halloween-themed coffin planter for small plants or succulents. Coffin has drainage holes at the bottom; base catches runoff. Second plate: a matching RIP tombstone. 0.2mm layer, 2 walls, 15% infill, ~2.7h across 2 plates, ~109g PLA for the main piece. Standard Digital File...",
+        "url": "https://blog.adafruit.com/2026/10/22/halloween-coffin-planter/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-22T05:00:55+00:00"
+      },
+      {
         "id": "ae251f0424d6",
         "title": "‘Wow, logging that as a microaggression!’ Sophie Duker on trolling masculinity, lesbian cruises and her stripper fantasy",
         "summary": "The standup on the bizarre gifts she’s received from fans, the intoxicating power of being an author and manifesting her ‘fiercely intellectual slutty grandma’How did you get into comedy?\n  If you want anything badly enough, the best way to get it is to feign absolute indifference while pouring in 1...",
@@ -909,6 +1013,22 @@
         "published": "2026-10-21T16:15:03+00:00"
       },
       {
+        "id": "ca8943a5cda4",
+        "title": "6個Q&A解析美國期中選舉的魔咒與魔術數字：民主黨將重掌國會？苦戰的川普和2028接班前哨戰？",
+        "summary": "2026年美國期中選舉在即，這不僅將左右國會的政黨版圖，更攸關兩年後的總統大選權力風向。共和黨民調落後，川普也無法擺脫「總統魔咒」？民主黨只要在參眾兩院多贏4席就能翻轉國會？選舉對台灣、國際局勢有什麼影響？",
+        "url": "https://www.twreporter.org/a/hello-world-2026-10-22",
+        "source": "報導者",
+        "published": "2026-10-21T16:00:00+00:00"
+      },
+      {
+        "id": "afd64c458411",
+        "title": "「報導者學院」公益教育方案申請辦法，即日起開放至 11/15（日）截止",
+        "summary": "「報導者學院」是由報導者文化基金會推出的公共學習平台，公益教育方案將免費提供「報導者學院」課程觀看資格，供教師與非營利組織工作者運用於教學、培訓及不同形式的共學，希望將此學習資源提供給更多需要的人。",
+        "url": "https://www.twreporter.org/a/education-program",
+        "source": "報導者",
+        "published": "2026-10-21T16:00:00+00:00"
+      },
+      {
         "id": "aade5aedae07",
         "title": "英国拟取消家庭燃气账单上的每日固定费用",
         "summary": "英国首相试图向选民表明其政府正采取切实措施以遏制生活成本，但能源专家指出此举很可能意味着需要提高燃气的单位价格。",
@@ -933,36 +1053,12 @@
         "published": "2026-10-21T16:00:00+00:00"
       },
       {
-        "id": "ee9b9e5ec225",
-        "title": "LIVE! 3D Hangouts with Noe and Pedro",
-        "summary": "3D Hangouts – USB Desk Hub, Holiday Wreath and Caroline https://youtube.com/live/_yM1B3QA7ok?feature=share This week @adafruit Noe is showcasing his guide for his built-in USB hub for the Ikea MITTZON desk. Pedro is working on a new project inspired by the Apple HomeView. Checking out this week’s Ti...",
-        "url": "https://blog.adafruit.com/2026/10/21/live-3d-hangouts-with-noe-and-pedro-89/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-21T15:00:42+00:00"
-      },
-      {
         "id": "c1eded066083",
         "title": "Our Friends in the North: The Thatcher Years review – old pals back on the toon as TV series gets squished",
         "summary": "Theatre Royal, NewcastleThey have appeared in epic BBC dramas since their RSC debut but Peter Flannery’s immortal foursome now return in an 80s-focused playThe four thwarted, postwar north-eastern dreamers created by dramatist Peter Flannery have now played more than a whole day of drama across diff...",
         "url": "https://www.theguardian.com/stage/2026/oct/21/our-friends-in-the-north-the-thatcher-years-review-theatre-royal-newcastle",
         "source": "Stage | The Guardian",
         "published": "2026-10-21T14:30:20+00:00"
-      },
-      {
-        "id": "a11094afa7b8",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/10/21/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-21-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-21T14:10:24+00:00"
-      },
-      {
-        "id": "f5e1e3ff9e65",
-        "title": "Building a Spotify Desk Thing",
-        "summary": "Pink Propeller made a Spotify Desk Thing and shared the build and the 3 simple rules dictating the build over on YouTube! I was tired of having to click the function key and then three other buttons just to change the song so I decided to make my own version of the Spotify thing since [&#8230;]",
-        "url": "https://blog.adafruit.com/2026/10/21/building-a-spotify-desk-thing/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-21T14:00:57+00:00"
       },
       {
         "id": "e1974740a655",
@@ -1077,30 +1173,6 @@
         "published": "2026-10-21T00:00:00+00:00"
       },
       {
-        "id": "736f95e38bfe",
-        "title": "P. S. Art 2026 Celebrates NYC Through The Lens of City Kids",
-        "summary": "Nia Obrien (Grade 8), The Speed of Life (detail), 2026. Digital photograph. Lower Manhattan Community Middle School, Manhattan. Teacher: Jessica Sinclair via The Metropolitan Museum of Art Artists from prekindergarten through grade 12 created collages, drawings, mixed-media pieces, paintings, photog...",
-        "url": "https://blog.adafruit.com/2026/10/20/p-s-art-2026-celebrates-nyc-through-the-lens-of-city-kids/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-20T20:00:41+00:00"
-      },
-      {
-        "id": "70e517cdc7f3",
-        "title": "JP’s Product Pick of the Week —  3pm Eastern TODAY 10/20/26 @adafruit #adafruit #newproductpick",
-        "summary": "Come on by for JP&#8217;s Product Pick of The Week ! A new product pick will be revealed. The show airs at 3pm ET / 12pm PT Check out the livestream right here inside this product page you won&#8217;t want to miss it because there will be a LARGE DISCOUNT during the show! Tune in [&#8230;]",
-        "url": "https://blog.adafruit.com/2026/10/20/jps-product-pick-of-the-week-3pm-eastern-today-10-20-26-adafruit-adafruit-newproductpick/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-20T18:01:07+00:00"
-      },
-      {
-        "id": "6a73a20bb3ef",
-        "title": "Trick-or-Streets is Back for 2026!",
-        "summary": "Explore the interactive map to find events big and small close to you This is the fifth year the NYC DOT compiled the Trick-or-Streets list. These are streets, plazas, and other corridors that are shutting out cars and creating pedestrian friendly Halloween activities. Checkout the map and links to ...",
-        "url": "https://blog.adafruit.com/2026/10/20/trick-or-streets-is-back-for-2026/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-20T17:29:18+00:00"
-      },
-      {
         "id": "e4206b9e2bd3",
         "title": "Arturia’s new MiniFreak 49 synth is tactile, exploration-friendly: tested",
         "summary": "It's not just some extra keys or minor feature tweaks. Arturia's MiniFreak 49 has evolved the range into a synthesizer you can freely explore just by playing, not programming. It's a fusion of tactile experience and sound, right when we need that. Here's a full hands-on test.\nThe post Arturia&#8217;...",
@@ -1113,6 +1185,14 @@
         "title": "理工男逆擊的棒球夢：用進階數據掀起台灣野球革命新浪潮",
         "summary": "「有一次我們被某一支職業球隊找去開數據會議，當我們兩個踏進球團會議室時，坐在台下的是一、二軍所有的教練團成員，全部都要聽我們兩個講解進階數據。那一刻突然有點想哭，我們這種非科班也能成為『棒球人』。」",
         "url": "https://www.twreporter.org/a/baseball-cpbl-advanced-statistics",
+        "source": "報導者",
+        "published": "2026-10-20T16:00:00+00:00"
+      },
+      {
+        "id": "fce3defb08e0",
+        "title": "離開學校人行道就沒了、學童事故熱點不在通學區範圍！為何政府改善力不從心、孩子上下學仍難安心？",
+        "summary": "2022年行人地獄議題引起社會關注後，《報導者》把目光聚焦在全台國中小通學環境大體檢。這集，靖娟基金會、記者林雨佑將分享校園周邊交通安全檢核，以及與在地居民及官方溝通過程。",
+        "url": "https://www.twreporter.org/a/podcast-2026-10-21",
         "source": "報導者",
         "published": "2026-10-20T16:00:00+00:00"
       },
@@ -1245,14 +1325,6 @@
         "published": "2026-10-20T10:46:20+00:00"
       },
       {
-        "id": "0765a44e66f9",
-        "title": "公共藝術獎頒獎  植物元Meta Garden獲評審特別獎",
-        "summary": "（中央社記者趙靜瑜台北20日電）每2年辦理1次的公共藝術獎，是公共藝術領域最具指標性與代表性的重要獎項，今天舉辦頒獎典禮，由台北植物園溫室新建工程公共藝術「植物元Meta Garden」獲評審特別獎。",
-        "url": "https://www.cna.com.tw/news/acul/202610200297.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-10-20T10:33:05+00:00"
-      },
-      {
         "id": "76b8363f2b6e",
         "title": "話題》在煉獄裡，築起凡人的堤壩── 讀成蕾自傳《如果牆能說話》",
         "summary": "坦白講，過往很長一段時間，我就是成蕾書中的「黑子」。作為長期批評中共的異議藝術家，我雖也曾為她遭受的不公與酷刑發聲抗議，但面對她的這本自傳，我帶著審視、甚至苛刻的目光，試圖在字裡行間，尋找她對那段體制內過往的反省——畢竟，她曾是 CGTN （中國環球電視網，又稱中國國際電視臺）的當家主播，在那棟被戲稱為「大褲衩」的央視大樓裡，她曾用流利的英文向世界「講好中國故事」。當她在演播室裡光鮮亮麗時，同一個體制正在消除社會上一切異議。我想知道，走出黑獄的她，究竟如何面對自己曾作為宣傳機器一顆精巧齒輪的歷史？\n在成蕾重獲自由之後，我與她有過一段真實的旅行。我們曾一同受西藏流亡政府邀請，前往印度達蘭薩拉朝見...",
@@ -1277,28 +1349,12 @@
         "published": "2026-10-20T07:30:19+00:00"
       },
       {
-        "id": "1efcf56b63d2",
-        "title": "爵士鋼琴家陳若玗推新單曲　即興樂音傳達脆弱與韌性",
-        "summary": "（中央社記者趙靜瑜台北20日電）爵士鋼琴家陳若玗推出新專輯「Modern Love」中首支單曲「Madly, Deeply」，希望在自由即興的樂音中，傳達人在快速變動現實面前無可避免的脆弱，以及脆弱之中仍然存在的韌性。",
-        "url": "https://www.cna.com.tw/news/acul/202610200131.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-10-20T05:08:05+00:00"
-      },
-      {
-        "id": "061385b3ab2a",
-        "title": "Listen out for Lanny: can Max Porter’s mythic tale of a mulch-guzzler really be heard in this woodland?",
-        "summary": "Every sun-dappled object is an instrument as composer Dom Coyote and sound designers Elena Peña and Dave Price conjure trip-hop-inspired rhythms in the Mendips for a new stage adaptationThe woodland is stuck to our skin. Sound designers Elena Peña and Dave Price are hunched next to me, burying a mic...",
-        "url": "https://www.theguardian.com/stage/2026/oct/20/lanny-bristol-old-vic-max-porter-novel",
+        "id": "136aa68ebbbe",
+        "title": "Royal Exchange boss unveils new plays two years after damaging censorship row",
+        "summary": "Selina Cartmell announces season including Stockport-set version of Phaedra myth by Simon StephensA theatre boss has promised to channel the “pioneering spirit of Manchester” and be “brave and fearless” as she unveiled a new season of work, two years after a deeply damaging censorship row.Selina Car...",
+        "url": "https://www.theguardian.com/stage/2026/oct/20/royal-exchange-theatre-boss-selina-cartmell-new-plays-censorship-row",
         "source": "Stage | The Guardian",
-        "published": "2026-10-20T04:00:16+00:00"
-      },
-      {
-        "id": "a47714ef7c15",
-        "title": "波蘭窩噗瘋薩克斯風四重奏  擁抱古典音樂不動搖",
-        "summary": "（中央社記者趙靜瑜台北20日電）成團10週年，來自波蘭的窩噗瘋薩克斯風四重奏（Whoop Group）訪台演出，10年除了外貌改變，對音樂的理解以及選曲眼光都有成長，不變的是呈現古典音樂的藝術性不會動搖。",
-        "url": "https://www.cna.com.tw/news/acul/202610200026.aspx",
-        "source": "中央社即時新聞 文化新聞",
-        "published": "2026-10-20T01:04:18+00:00"
+        "published": "2026-10-20T05:00:17+00:00"
       },
       {
         "id": "3f83433a0536",
@@ -1339,22 +1395,6 @@
         "url": "https://www.ftchinese.com/story/001111141",
         "source": "FTChinese RSS - News",
         "published": "2026-10-19T16:00:00+00:00"
-      },
-      {
-        "id": "b4d13bd32f00",
-        "title": "Kevin Bridges review – steamroller standup is a joy but what’s with the £10 cloakroom charge?",
-        "summary": "Hammersmith Apollo, LondonIn his tour Here If You Need Me, the comic makes laugh-out-loud look easy with jokes about conjugal argy-bargy, smutty downloads – and a bit of politicsIs there a better no-frills standup at work today than Kevin Bridges? You’d struggle to find a more unfussily funny demons...",
-        "url": "https://www.theguardian.com/stage/2026/oct/19/kevin-bridges-here-if-you-need-me-tour-review-hammersmith-apollo-london",
-        "source": "Stage | The Guardian",
-        "published": "2026-10-19T15:00:01+00:00"
-      },
-      {
-        "id": "f9c46725464a",
-        "title": "After 25 years, Australian dance star Lucy Guerin bows out of the company she founded",
-        "summary": "The choreographer said goodbye to Lucy Guerin Inc by dancing in public for the first time in 13 years – which she found ‘incredibly confronting’Get our weekend culture and lifestyle emailIf there is one thing the professional dancer learns never to expect, it’s longevity. The physical demands on the...",
-        "url": "https://www.theguardian.com/stage/2026/oct/20/after-25-years-australian-dance-star-lucy-guerin-bows-out-of-the-company-she-founded",
-        "source": "Stage | The Guardian",
-        "published": "2026-10-19T14:00:02+00:00"
       },
       {
         "id": "c7cd767311f7",
@@ -1485,18 +1525,18 @@
         "published": "2026-10-17T16:00:51+00:00"
       },
       {
-        "id": "938cf7c5fb59",
-        "title": "台南鐵路走入地下：送別地面列車最後一夜，拆遷戶的無奈心聲與新生",
-        "summary": "10月16日晚間，最後一班地面列車駛過台南車站，開啟台南都市發展新頁。而當年的拆遷戶除了安慰自己以後不會再被火車聲吵之外，更希望市民們在慶祝通車之餘，還能記得過去曾有許多家庭為了保護家園到處奔走，承受過許多徬徨與無奈。",
-        "url": "https://www.twreporter.org/a/tainan-underground-railway-2026-open-to-traffic",
-        "source": "報導者",
-        "published": "2026-10-17T16:00:00+00:00"
-      },
-      {
         "id": "5bacc38faffc",
         "title": "韓幸紋、滕西華／從稅負到健保費，長者健保費補助政策為何會加深世代分配不公平",
         "summary": "以年齡及稅率作為補助條件，能否辨識真正需要幫助的人？在租稅與健保收費制度原本就未充分反映負擔能力的情況下，這次修法究竟改善、還是加深了既有問題甚至世代分配不公平？本文認為，這項補助恐怕會加深既有的不公平。補助資格則應盡可能反映經濟能力，而非讓年齡成為補助的替代指標。",
         "url": "https://www.twreporter.org/a/opinion-senior-citizens-welfare-act-amendment-worsening-inequality",
+        "source": "報導者",
+        "published": "2026-10-17T16:00:00+00:00"
+      },
+      {
+        "id": "938cf7c5fb59",
+        "title": "台南鐵路走入地下：送別地面列車最後一夜，拆遷戶的無奈心聲與新生",
+        "summary": "10月16日晚間，最後一班地面列車駛過台南車站，開啟台南都市發展新頁。而當年的拆遷戶除了安慰自己以後不會再被火車聲吵之外，更希望市民們在慶祝通車之餘，還能記得過去曾有許多家庭為了保護家園到處奔走，承受過許多徬徨與無奈。",
+        "url": "https://www.twreporter.org/a/tainan-underground-railway-2026-open-to-traffic",
         "source": "報導者",
         "published": "2026-10-17T16:00:00+00:00"
       },
@@ -1621,14 +1661,6 @@
         "published": "2026-10-16T06:08:13+00:00"
       },
       {
-        "id": "299d63e56073",
-        "title": "Meta 開放權重模型 Muse Spark Open，攜手蘋果讓開發者在 Mac Studio 本機執行",
-        "summary": "Meta 15 日釋出 Muse Spark Open 模型權重，聲稱這是目前美國能力最強的開放權重模型。首次 [&#8230;]",
-        "url": "https://technews.tw/2026/10/16/meta-introduces-muse-spark-open/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-10-16T02:14:20+00:00"
-      },
-      {
         "id": "23bf1b38da89",
         "title": "How the Claude Code team does code review",
         "summary": "How do you review code at the volume agents produce it? The Claude Code team shares its review process, from Claude verifying its own work to risk-tiered human approval, plus a checklist for adopting it.",
@@ -1651,14 +1683,6 @@
         "url": "https://cdm.link/teenage-engineering-op-xy-added-a-drum-synth-sound-shaping-more/",
         "source": "CDM Create Digital Music",
         "published": "2026-10-15T20:37:02+00:00"
-      },
-      {
-        "id": "3f726dc48636",
-        "title": "閱讀通信 vol.403》書店的超人",
-        "summary": "通通編只要經過書店，常會毫不猶豫的走進去，喜歡在裡面慢慢享受一個故事，或者被店員推薦各種故事。不過你知道嗎，很多時候，這些書店店員本身就來頭不小、身經百戰。\n\n譬如淡水的無論如河，店員全都是護理人員，書店介紹了許多護理相關的書籍，還有提供居家服務！而在澎湖的植隱冊室，店長黃士恩以自身餐飲業的經驗將書店轉化，開啟了一個與眾不同的租書體驗，只要50元就可以享有看一本新書的機會。\n\n此外，位在大稻埕的現流冊店，店員陣容也是不容小覷。店長洪沛澤、林潔珊每年舉辦的獨書祭，已經是文學與音樂圈的年度盛會，他們甚至開啟了煮咖哩的支線任務，讓書香氛圍多了一份溫馨的記憶。\n\n想認識更多書店的超人嗎？本次Openb...",
-        "url": "https://www.openbook.org.tw/article/p-73020",
-        "source": "Openbook閱讀誌",
-        "published": "2026-10-15T17:00:00+00:00"
       },
       {
         "id": "d24fe784df06",
@@ -1733,14 +1757,6 @@
         "published": "2026-10-14T16:03:11+00:00"
       },
       {
-        "id": "80a270bf69a6",
-        "title": "內鬼就在最高層：從諜報教父到叛國罪，德國前情報局長捲起國安信任風暴",
-        "summary": "德國檢方從一起豪門家事醜聞，意外揭穿前情報首長韓寧的叛國案：涉嫌在12年間竊取近兩千份內部文件，並將機密流向亞塞拜然、中國、俄羅斯。這場危機更恰好發生在德國因應俄羅斯混合戰攻擊、修法推動情報改革的關鍵時刻⋯⋯",
-        "url": "https://www.twreporter.org/a/hello-world-2026-10-15",
-        "source": "報導者",
-        "published": "2026-10-14T16:00:00+00:00"
-      },
-      {
         "id": "7869ac6ec9c3",
         "title": "深化教具實務！國圖「嬰幼兒閱讀專業知能培訓課程」第 6 場次圓滿落幕",
         "summary": "深化教具實務！國圖「嬰幼兒閱讀專業知能培訓課程」第 6 場次圓滿落幕",
@@ -1789,14 +1805,6 @@
         "published": "2026-10-13T21:00:58+00:00"
       },
       {
-        "id": "7ec9a388c775",
-        "title": "高雄城中城大火5年，原址改建公園後還留下什麼？曾蝸居大樓套房的倖存者，他們如何重新開始？",
-        "summary": "2021年10月14日，一把惡火奪走城中城大樓46條人命。5年過去，城中城原址已改建為府北公園，一切看似復原，但災民的傷痛與記憶是否也跟著消失？這個地區還有什麼改變？",
-        "url": "https://www.twreporter.org/a/podcast-2026-10-14",
-        "source": "報導者",
-        "published": "2026-10-13T16:00:00+00:00"
-      },
-      {
         "id": "8b1cfba49fbf",
         "title": "115年公共圖書館科技與創新環境觀摩北區場次參訪活動圓滿完成",
         "summary": "115年公共圖書館科技與創新環境觀摩北區場次參訪活動圓滿完成,為因應數位科技時代下公共圖書館的轉型需求，並帶領全國公共圖書館汲取國內指標性場館的成功經營經驗，本館特別規劃辦理「115年公共圖書館科技與創新環境觀摩參訪活動」，並於本（115）年10月12日至13日圓滿完成北區場次觀摩參訪之辦理。活動首...",
@@ -1827,14 +1835,6 @@
         "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
         "source": "Google DeepMind",
         "published": "2026-10-12T17:30:00+00:00"
-      },
-      {
-        "id": "7a7e2ff2a588",
-        "title": "生成式AI如何影響選舉？國外案例借鏡與公民因應之道",
-        "summary": "應對生成式AI對選舉可能的影響與衝擊，台灣已將深偽影音納入選罷法「意圖使人不當選」罪罰。除此之外，各國經驗對於台灣還有哪些啟示？又有哪些法制作為值得參考？",
-        "url": "https://www.twreporter.org/a/2026-local-elections-ai-generated-contents-negatively-affect-elections",
-        "source": "報導者",
-        "published": "2026-10-12T16:00:00+00:00"
       },
       {
         "id": "033210f15008",
@@ -2548,7 +2548,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-22T04:28:59.521808+00:00"
+        "published": "2026-10-22T09:59:36.671394+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-22T04:28:59.521800+00:00"
+        "published": "2026-10-22T09:59:36.671383+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-22T04:28:59.521791+00:00"
+        "published": "2026-10-22T09:59:36.671370+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2572,7 +2572,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-22T04:28:59.521783+00:00"
+        "published": "2026-10-22T09:59:36.671359+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2580,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-22T04:28:59.521774+00:00"
+        "published": "2026-10-22T09:59:36.671348+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2588,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-22T04:28:59.521766+00:00"
+        "published": "2026-10-22T09:59:36.671338+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2596,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-22T04:28:59.521756+00:00"
+        "published": "2026-10-22T09:59:36.671328+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2604,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-22T04:28:59.521747+00:00"
+        "published": "2026-10-22T09:59:36.671317+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2612,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-22T04:28:59.521738+00:00"
+        "published": "2026-10-22T09:59:36.671307+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2620,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-22T04:28:59.521729+00:00"
+        "published": "2026-10-22T09:59:36.671296+00:00"
       },
       {
         "id": "6aa349581d98",
