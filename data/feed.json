@@ -1,86 +1,94 @@
 {
-  "updated_at": "2026-10-27T21:11:47.547860+00:00",
+  "updated_at": "2026-10-28T01:06:51.375014+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "44864ac9210e",
+        "title": "SermonIndex Scripture Readings d8",
+        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard d8). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/sermonindex_readings_d8",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-27T23:32:11+00:00"
+      },
+      {
+        "id": "088c65b80931",
+        "title": "SermonIndex Scripture Readings eb",
+        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard eb). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/sermonindex_readings_eb",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-27T22:35:55+00:00"
+      },
+      {
+        "id": "951598c6ff32",
+        "title": "SermonIndex Scripture Readings d5",
+        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard d5). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/sermonindex_readings_d5",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-27T22:25:48+00:00"
+      },
+      {
+        "id": "1eb6f9a32302",
+        "title": "PERGOLESI La Salustia",
+        "summary": "PERGOLESI  La Salustia La Capella della Pietà de Turchini Antonio Florio.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/ngfx_20261027",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-27T21:45:37+00:00"
+      },
+      {
+        "id": "9d0fdb011b7b",
+        "title": "SermonIndex Scripture Readings e8",
+        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard e8). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "url": "https://archive.org/details/sermonindex_readings_e8",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-27T21:38:36+00:00"
+      },
+      {
+        "id": "f6f07207474f",
+        "title": "Podfic: Prologue by Philosopher_King",
+        "summary": "Podfic of this fanfiction: https://archiveofourown.org/works/11740272.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/podfic-prologue-by-philosopher-king",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-27T21:26:32+00:00"
+      },
+      {
+        "id": "ba05bb800557",
+        "title": "(Podfic) The Illusion Of Choice",
+        "summary": "Podfic of: https://archiveofourown.org/works/84538751.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/podfic-the-illusion-of-choice-ch-1",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-27T21:25:46+00:00"
+      },
+      {
+        "id": "c3a8fe6d2673",
+        "title": "PERGOLESI La Morte di San Giuseppe",
+        "summary": "PERGOLESI  La Morte di San Giuseppe Orchestra Alessandro Scarlatti di Napoli Marcello Panni Juli 1990.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/cfgyd",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-27T21:16:16+00:00"
+      },
+      {
+        "id": "6903bacf33c1",
+        "title": "(Podfic) Mordreds Morte D'Mocktail",
+        "summary": "Podfic of: https://archiveofourown.org/works/75338506.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/20261027-mordreds-morte-d-mocktail",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-27T21:11:19+00:00"
+      },
+      {
+        "id": "adf59fc594a0",
+        "title": "長榮航空運送斑哥條紋羚抵台協助繁殖　預計一個月後對外展示",
+        "summary": "（中央社記者吳睿騏桃園機場28日電）為延續台北市立動物園斑哥條紋羚香火，美國休士頓動物園割愛一隻雄性斑哥條紋羚Harris，在長榮航空運送下於27日深夜抵台，預計在一個月檢疫通過後會正式對外展示。",
+        "url": "https://www.cna.com.tw/news/ahel/202610280011.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-27T21:02:13+00:00"
+      },
+      {
         "id": "d8978f462dcb",
         "title": "SermonIndex Scripture Readings e5",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard e5). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Metadata, VBR MP3",
+        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard e5). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
         "url": "https://archive.org/details/sermonindex_readings_e5",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-10-27T20:39:05+00:00"
-      },
-      {
-        "id": "80a8ef023e90",
-        "title": "SET AO VIVO Á GUIA DE ZEUS NO AMAZON CITY HOUSE 25 10 2026 DJ FELIPE KOBIÇ ADO",
-        "summary": "fdfd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-a-guia-de-zeus-no-amazon-city-house-25-10-2026-dj-felipe-kobic-ado",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-27T20:24:36+00:00"
-      },
-      {
-        "id": "59f3e28c9053",
-        "title": "SET AO VIVO Á GUIA DE ZEUS NO BOSQUINHO VILA DO CONDE 23 10 2026 DJ FELIPE KOBIÇ ADO",
-        "summary": "fd.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
-        "url": "https://archive.org/details/set-ao-vivo-a-guia-de-zeus-no-bosquinho-vila-do-conde-23-10-2026-dj-felipe-kobic-ado",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-27T20:24:31+00:00"
-      },
-      {
-        "id": "2ef2d3c06dad",
-        "title": "(Podfic) So This Is After",
-        "summary": "Podfic of: https://archiveofourown.org/works/62845585.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/podfic-so-this-is-after",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-27T19:44:26+00:00"
-      },
-      {
-        "id": "bf782faac1e5",
-        "title": "SermonIndex Scripture Readings e2",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard e2). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Metadata, VBR MP3",
-        "url": "https://archive.org/details/sermonindex_readings_e2",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-27T19:39:25+00:00"
-      },
-      {
-        "id": "bd069cf2cccf",
-        "title": "SermonIndex Scripture Readings df",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard df). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/sermonindex_readings_df",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-27T18:20:03+00:00"
-      },
-      {
-        "id": "73d6abcd7782",
-        "title": "SermonIndex Scripture Readings f2",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard f2). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/sermonindex_readings_f2",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-27T18:13:06+00:00"
-      },
-      {
-        "id": "4b112dcf1394",
-        "title": "Hey,Hartley! - Magnificent desolation",
-        "summary": "Hey,Hartley! - Magnificent desolation PandaCD #9048 Tracklisting: 01 - Ultrabeat 02 - Feeling Small 03 - Blind 04 - Spread 05 - Earth By Moon 06 - Point Of View.This item belongs to: audio/pandacd-archive.This item has files of the following types: Archive BitTorrent, BitTorrent, Flac, Item Tile, JP...",
-        "url": "https://archive.org/details/pandacd-9048-magnificent-desolation",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-27T18:11:42+00:00"
-      },
-      {
-        "id": "88f42b352fbc",
-        "title": "PFITZNER Klaviertrio F-Dur op. 8",
-        "summary": "PFITZNER  Klaviertrio F-Dur op. 8 Robert Schumann Trio (1998/99).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/nhgfx_202610",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-27T17:58:57+00:00"
-      },
-      {
-        "id": "f48ba054d89e",
-        "title": "PFITZNER Violinsonate e-moll op. 27",
-        "summary": "PFITZNER  Violinsonate e-moll op. 27 Ulf Wallin (Violine) Roland Pöntinen (Klavier) (1999/2000).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/b-nb_20261027",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-27T17:50:45+00:00"
       },
       {
         "id": "87289555a651",
@@ -153,14 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202610270248.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-10-27T09:33:55+00:00"
-      },
-      {
-        "id": "8329317e5782",
-        "title": "準．馬寇爾領軍NSO  持續探索馬勒交響宇宙",
-        "summary": "（中央社記者趙靜瑜台北27日電）適逢樂團成立40週年，NSO國家交響樂團將推出「馬勒第九」音樂會，持續探索馬勒（Gustav Mahler）音樂宇宙。音樂總監準‧馬寇爾表示，馬勒「第九號交響曲」音樂預示了20世紀的到來。",
-        "url": "https://www.cna.com.tw/news/acul/202610270246.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-27T09:32:51+00:00"
       },
       {
         "id": "e3d90da43128",
@@ -805,6 +805,14 @@
     ],
     "破(day)": [
       {
+        "id": "20c927aceb73",
+        "title": "輝達投資 Meta 近 1,000 億元，深化個人 AI 代理 Muse 合作",
+        "summary": "輝達（Nvidia）與 Meta 27 日宣布，雙方將深化在 Meta 的個人人工智慧（AI）代理 Muse  [&#8230;]",
+        "url": "https://technews.tw/2026/10/28/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth/",
+        "source": "Meta – TechNews 科技新報",
+        "published": "2026-10-28T00:40:09+00:00"
+      },
+      {
         "id": "7a7816a16074",
         "title": "The roadmap to becoming a computer vision engineer in 2026",
         "summary": "Vinod Chugani has published a four-stage study plan for computer vision engineers at KDnuggets. Each stage builds on the one before it, and each ends with a portfolio exercise. Stage one is the math: matrix transformations, coordinate frames, projective geometry, and multi-view geometry, plus PyTorc...",
@@ -898,6 +906,14 @@
         "summary": "Today, we’re announcing our research on Genie 4, our new world model that brings unprecedented realism and native audio to real-time interactive simulation.The Genie 4 m…",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/",
         "source": "Google DeepMind",
+        "published": "2026-10-27T16:00:00+00:00"
+      },
+      {
+        "id": "70a5f4363d64",
+        "title": "泡泡玛特季度销售额下降50%，拉布布热度减退",
+        "summary": "随着曾经风靡一时的拉布布玩偶需求减弱，这家中国玩具公司报告第三季度销售额同比下降45%至50%，其中西方市场销售额降幅更大。",
+        "url": "https://www.ftchinese.com/story/001111218",
+        "source": "FTChinese RSS - News",
         "published": "2026-10-27T16:00:00+00:00"
       },
       {
@@ -1099,6 +1115,14 @@
         "url": "https://www.mittrchina.com/news/detail/17148",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-10-26T07:11:37+00:00"
+      },
+      {
+        "id": "e3168bfa4566",
+        "title": "味道真能顺着网线飘出来了！科学家造出AI嗅觉系统，可识别并远程释放香气",
+        "summary": "深夜刷到一段美食视频，高清画面和立体声满足了视听体验，但总觉得少了点什么。智能手机发展了二十多年，屏幕、扬声器和振动马达分别接管了视觉、听觉和触觉，但时至今日，我们依然无法拥有一台能“闻”到味的手机。如果手机能释放气味，清晨叫醒你的除了闹钟，还可以是一缕现磨咖啡或烤面包的香气。最近，这种美妙的设想距离实现又近了一小步。10 月下旬，俄亥俄州立大学（The Ohio State University）与之江实验室的研究人员在《科学进展》（Science Advances）发表论文，展示了一套名为 Scentronic（意为“电子气味”）的 AI 辅助嗅觉接口。系统一端用电子鼻识别气味，另一端的可...",
+        "url": "https://www.mittrchina.com/news/detail/17147",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-10-26T07:07:25+00:00"
       },
       {
         "id": "1ab1823eb35a",
@@ -1333,14 +1357,6 @@
         "published": "2026-10-24T07:43:42+00:00"
       },
       {
-        "id": "3312017e60b9",
-        "title": "Kimi K3.1 Pro发布：多项测试超越GPT-6，最强开源模型回归",
-        "summary": "过去两个月，全球大模型市场迎来一轮密集更新。9 月，OpenAI 接连推出 GPT-6 Astra、GPT-6 Sol 等新模型，Anthropic 也发布了 Claude Opus 5.5 和 Claude Sonnet 5.5。相比之下，中国头部大模型厂商的新一代旗舰模型发布节奏相对平静。自今年 7 月 Kimi K3 发布以来，已经有三个多月没有推出同等规模的旗舰升级。10 月 23 日，月之暗面正式发布 Kimi K3.1 Pro，重新加入这场竞争。新模型拥有 2.8 万亿总参数，每次推理激活 1040 亿参数，支持 100 万 token 上下文窗口，在编程、智能体、3D 创作和金融...",
-        "url": "https://www.mittrchina.com/news/detail/17136",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-10-24T02:10:09+00:00"
-      },
-      {
         "id": "03b72ed873a8",
         "title": "東亞書房》小野不由美推出《十二國記》睽違7年的新作《幽冥之岸》，及其他藝文短訊",
         "summary": "【業界新聞】\n➤以高人氣系列作《屍鬼》及《十二國記》累積龐大書迷的文學獎作家小野不由美，上個月推出《十二國記》睽違7年的新作《幽冥之岸》（新潮社）。《十二國記》是小野自1991年開始創作的長篇系列，以虛海上的12個國度，以及麒麟依天道選出統治者的奇幻設定，探究國家治理的不同形式與可能困境，至今累計發行量已突破1,400萬本，並改編為動畫、音樂劇、RPG遊戲等多種形式。\n此次出版的《幽冥之岸》共收錄4篇故事，其中同名短篇承接2019年發行的《白銀之墟・玄之月》，聚焦泰麒回歸後的戴國。身為神獸的麒麟不得沾染殺孽，然而泰麒卻曾為貫徹正義而手染鮮血。這樣的他，是否仍能尋得一條活下去的道路？《幽冥之岸》...",
@@ -1457,14 +1473,6 @@
         "title": "美国财政部提议收紧敏感领域对华投资监管",
         "summary": "拟议限制措施将影响人工智能、高超音速武器与生物科技等领域的美国对华投资。",
         "url": "https://www.ftchinese.com/story/001111179",
-        "source": "FTChinese RSS - News",
-        "published": "2026-10-22T16:00:00+00:00"
-      },
-      {
-        "id": "8f596e72b148",
-        "title": "特朗普重振美国旅游业努力未能奏效",
-        "summary": "官方数据显示，在截至9月底的九个月期间，赴美旅游的海外游客人数同比下降5.7%，其中来自西欧的游客人数降幅最大。",
-        "url": "https://www.ftchinese.com/story/001111176",
         "source": "FTChinese RSS - News",
         "published": "2026-10-22T16:00:00+00:00"
       },
@@ -1803,14 +1811,6 @@
         "url": "https://technews.tw/2026/10/19/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-10-19T03:30:29+00:00"
-      },
-      {
-        "id": "6b1abab2fa5b",
-        "title": "Meta AI 代理 Muse 會與用戶露骨性對話，OpenAI、xAI 代理都拒絕",
-        "summary": "Meta 上月推出的 AI 代理 Muse 可替用戶回覆電郵及管理日曆，美國科技媒體 WIRED 近日實測更發 [&#8230;]",
-        "url": "https://technews.tw/2026/10/19/meta-muse-allows-sexting-with-adult-users/",
-        "source": "Meta – TechNews 科技新報",
-        "published": "2026-10-18T23:30:05+00:00"
       },
       {
         "id": "779d5b103add",
@@ -2548,7 +2548,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-27T21:11:44.538505+00:00"
+        "published": "2026-10-28T01:06:49.289244+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2556,7 +2556,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-27T21:11:44.538495+00:00"
+        "published": "2026-10-28T01:06:49.289233+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-27T21:11:44.538484+00:00"
+        "published": "2026-10-28T01:06:49.289223+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2572,7 +2572,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-27T21:11:44.538474+00:00"
+        "published": "2026-10-28T01:06:49.289213+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2580,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-27T21:11:44.538463+00:00"
+        "published": "2026-10-28T01:06:49.289202+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2588,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-27T21:11:44.538453+00:00"
+        "published": "2026-10-28T01:06:49.289191+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2596,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-27T21:11:44.538442+00:00"
+        "published": "2026-10-28T01:06:49.289181+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2604,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-27T21:11:44.538432+00:00"
+        "published": "2026-10-28T01:06:49.289170+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2612,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-27T21:11:44.538420+00:00"
+        "published": "2026-10-28T01:06:49.289159+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2620,7 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-27T21:11:44.538408+00:00"
+        "published": "2026-10-28T01:06:49.289148+00:00"
       },
       {
         "id": "4cb7397ef00d",
