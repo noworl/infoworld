@@ -1,38 +1,102 @@
 {
-  "updated_at": "2026-10-29T20:09:45.851832+00:00",
+  "updated_at": "2026-10-30T00:45:10.634026+00:00",
   "categories": {
     "急(hr)": [
       {
+        "id": "ad03896add9b",
+        "title": "規劃善終如買保險  瑞士人加入安樂死機構為離世準備",
+        "summary": "（中央社記者郭芳君蘇黎世30日專電）今年58歲、身心健康的瑞士人史珊妮，4年前加入瑞士最大協助善終機構EXIT成為會員。她認為，加入機構如同購買保險需要事前規劃，是為生命末期做好準備，保障自主權，而非代表未來一定會使用協助善終服務。",
+        "url": "https://www.cna.com.tw/news/aopl/202610300016.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-29T23:29:44+00:00"
+      },
+      {
+        "id": "15990e146bc2",
+        "title": "東部海域地震規模4.4　最大震度宜蘭花蓮3級",
+        "summary": "（中央社台北30日電）根據中央氣象署最新資訊，30日4時37分發生芮氏規模4.4地震，地震深度22.7公里，震央位於花蓮縣政府東北方29.6公里（位於台灣東部海域），最大震度花蓮縣、宜蘭縣3級。（編輯：楊昭彥）1151030",
+        "url": "https://www.cna.com.tw/news/ahel/202610300011.aspx",
+        "source": "中央社即時新聞 生活醫藥",
+        "published": "2026-10-29T20:46:28+00:00"
+      },
+      {
+        "id": "f8fd32753b8e",
+        "title": "PERGOLESI Violinkonzert B-Dur",
+        "summary": "PERGOLESI  Violinkonzert B-Dur Giuliano Carmignola (Violine) Orchestra Mozart Claudio Abbado.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/bgh_20261029",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-29T19:14:12+00:00"
+      },
+      {
+        "id": "e3f0b28e932f",
+        "title": "PERGOLESI Salve Regina a-moll",
+        "summary": "PERGOLESI  Salve Regina a-moll Julia Kleiter (Sopran) Orchestra Mozart Claudio Abbado.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/vnnx_20261029",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-29T18:34:06+00:00"
+      },
+      {
+        "id": "d212d7398e3c",
+        "title": "PERGOLESI Chi non ode e chi non vede",
+        "summary": "PERGOLESI  Chi non ode e chi non vede Rachel Harnisch (Sopran) Orchestra Mozart Claudio Abbado.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/gnhdg_202610",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-29T18:32:14+00:00"
+      },
+      {
+        "id": "7eea3121bb0c",
+        "title": "PERGOLESI Confitebor tibi, Domine",
+        "summary": "PERGOLESI  Confitebor tibi, Domine Julia Kleiter (Sopran) Rosa Bove (Contraalt) Coro della Radiotelevisione Svizzera Orchestra Mozart Claudio Abbado.This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG...",
+        "url": "https://archive.org/details/vnxgx",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-29T18:25:07+00:00"
+      },
+      {
         "id": "4758fa20ad56",
         "title": "Роковой Заказ 8",
-        "summary": "роковой заказ.This item belongs to: audio/audioboo_ru.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "summary": "роковой заказ.This item belongs to: audio/audioboo_ru.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/8_20261029_20261029_1648",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-10-29T17:07:22+00:00"
       },
       {
+        "id": "1380fa2cc93c",
+        "title": "Роковой Заказ 4",
+        "summary": "роковой заказ.This item belongs to: audio/audioboo_ru.This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/4_20261029_20261029_1604",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-29T16:09:11+00:00"
+      },
+      {
+        "id": "85bc71e57e49",
+        "title": "PERGOLESI Flötenkonzert Nr. 1 G-Dur",
+        "summary": "PERGOLESI  Flötenkonzert Nr. 1 G-Dur Jean-Pierre Rampal (Flöte) Stuttgarter Kammerorchester Karl Münchinger (1964).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/ngxnj",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-29T15:53:43+00:00"
+      },
+      {
+        "id": "12ae7a9480ae",
+        "title": "PERGOLESI Flötenkonzert Nr. 2 D-Dur",
+        "summary": "PERGOLESI  Flötenkonzert Nr. 2 D-Dur Jean-Pierre Rampal (Flöte) Stuttgarter Kammerorchester Karl Münchinger (1964).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/mhf_20261029",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-29T15:49:43+00:00"
+      },
+      {
+        "id": "a66dc3b70bf5",
+        "title": "Deep Impact - Heavy Weight Breaks Vol. 2",
+        "summary": "https://www.discogs.com/release/245470-Deep-Impact-Heavy-Weight-Breaks-Volume-2.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
+        "url": "https://archive.org/details/deep-impact-heavy-weight-breaks-vol-2",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-10-29T15:36:46+00:00"
+      },
+      {
         "id": "5cc6d36ad896",
         "title": "Город Без Пощады 3",
-        "summary": "город без пощады.This item belongs to: audio/audioboo_ru.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
+        "summary": "город без пощады.This item belongs to: audio/audioboo_ru.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, Metadata, PNG, Spectrogram, VBR MP3",
         "url": "https://archive.org/details/3_20261029_20261029_1446",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-10-29T15:31:29+00:00"
-      },
-      {
-        "id": "a2b188efa0d5",
-        "title": "arsenic tongue Discography",
-        "summary": "Bandcamp Discogs Latest Release 261029:  arsenic tongue - strewn in the depths below Contained Releases (9) arsenic tongue - Centurion arsenic tongue - Cosmotorium arsenic tongue - Frozen Grief arsenic tongue - Immortal arsenic tongue - Pillars arsenic tongue - Shrine Memory arsenic tongue - strewn....",
-        "url": "https://archive.org/details/arsenic-tongue-discography",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-29T14:17:36+00:00"
-      },
-      {
-        "id": "9a72b414977a",
-        "title": "PEROTIN Werke",
-        "summary": "PEROTIN  Werke The Hilliard Ensemble (1988).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
-        "url": "https://archive.org/details/bnb_20261029",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-29T14:04:55+00:00"
       },
       {
         "id": "05bc7095b00e",
@@ -49,14 +113,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202610290377.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-10-29T14:03:23+00:00"
-      },
-      {
-        "id": "2691681633e4",
-        "title": "LPH 1002 - Halo (1973-2018)",
-        "summary": "A genre-free mix of music..This item belongs to: audio/lucky-psychic-hut.This item has files of the following types: Archive BitTorrent, Columbia Peaks, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/lph1002",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-29T14:01:05+00:00"
       },
       {
         "id": "e26f1dae4dee",
@@ -105,62 +161,6 @@
         "url": "https://www.cna.com.tw/news/ahel/202610290299.aspx",
         "source": "中央社即時新聞 生活醫藥",
         "published": "2026-10-29T10:04:29+00:00"
-      },
-      {
-        "id": "c9f27bc7995d",
-        "title": "失智照護現縣市落差　衛福部推3.0提4方向",
-        "summary": "（中央社記者沈佩瑤台北29日電）台灣邁入超高齡社會，失智症防治成重要議題，針對各縣市診斷與照護資源落差，衛生福利部長石崇良今天說，將從精準診治、提升照護量能、前端預防及權益保障等4大方向著手。",
-        "url": "https://www.cna.com.tw/news/ahel/202610290289.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-29T09:45:07+00:00"
-      },
-      {
-        "id": "a1132f108ae1",
-        "title": "書法家杜忠誥辭世 文化部將呈請總統明令褒揚",
-        "summary": "（中央社記者邱祖胤台北29日電）台灣著名書法前輩杜忠誥辭世，享壽78歲，文化部長李遠得知消息後深表哀悼與敬意，指出杜忠誥不僅書法創作多年，亦投入書法教育推廣、研究。文化部將呈請總統明令褒揚，肯定杜忠誥對台灣書法發展及傳承的卓越貢獻。",
-        "url": "https://www.cna.com.tw/news/acul/202610290285.aspx",
-        "source": "中央社即時新聞 生活醫藥",
-        "published": "2026-10-29T09:38:59+00:00"
-      },
-      {
-        "id": "a47fa676601f",
-        "title": "SermonIndex Scripture Readings ff",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard ff). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/sermonindex_readings_ff",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-29T04:12:18+00:00"
-      },
-      {
-        "id": "440799bbaa44",
-        "title": "Here With You",
-        "summary": "Podfic of here with you by marquisguyun.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/here-with-you",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-29T03:11:37+00:00"
-      },
-      {
-        "id": "bc63972c3886",
-        "title": "SermonIndex Scripture Readings fc",
-        "summary": "Short clips of preachers reading Scripture, cut from SermonIndex sermons (shard fc). Heard on https://sermonindex.net/readings/.This item belongs to: audio/sermonindex_audio.This item has files of the following types: Archive BitTorrent, Metadata, VBR MP3",
-        "url": "https://archive.org/details/sermonindex_readings_fc",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-29T03:03:38+00:00"
-      },
-      {
-        "id": "322bae0e7b32",
-        "title": "Jasons 16",
-        "summary": "podfic.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/jasons-16",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-29T02:51:33+00:00"
-      },
-      {
-        "id": "d8848ec398a7",
-        "title": "Blood, AB+, Hot",
-        "summary": "Podfic of Blood, AB+, Hot by Vermin_Disciple.This item belongs to: audio/folksoundomy_podfic.This item has files of the following types: Archive BitTorrent, Item Tile, JPEG Thumb, Metadata, PNG, Spectrogram, VBR MP3",
-        "url": "https://archive.org/details/blood-ab-hot",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-10-29T02:41:22+00:00"
       },
       {
         "id": "d9aed4fba485",
@@ -805,20 +805,92 @@
     ],
     "破(day)": [
       {
-        "id": "9c3f52c3028b",
-        "title": "John Park’s Workshop — LIVE TODAY 10/29/26",
-        "summary": "It&#8217;s JOHN PARK’S WORKSHOP — LIVE! &#8212; Coming up at 4pm ET / 1pm PT Today!  LIVE TEXT CHAT IS HERE in the Adafruit Discord chat! Projects: M-Vave FM-1 Firmware Flasher CircuitPython Parsec Learn Guides Gear Report Tool Tips CAD: Adafruit Circuit Designer Retro Gear Coupon Code and more! The...",
-        "url": "https://blog.adafruit.com/2026/10/29/john-parks-workshop-live-today-10-29-26/",
+        "id": "0788a96dc063",
+        "title": "Modular Desk Organizer #3DThursday #3DPrinting",
+        "summary": "ms520 shares: A desk-side modular system built around a universal clamp (0-40mm range, 33mm depth, 4mm-pitch threads, anti-slip grooves). Core parts: headphone hanger (50mm shaft), phone holder, cup holder (80mm ID), 5mm Skadis section, cable organizer (3 cables), pen holder (50×50×80mm), two-stage ...",
+        "url": "https://blog.adafruit.com/2026/10/29/modular-desk-organizer-3dthursday-3dprinting/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-29T19:49:42+00:00"
+        "published": "2026-10-30T00:00:29+00:00"
       },
       {
-        "id": "1b8a3ba20350",
-        "title": "Raspberry Pi 5 AI Module Case with Camera Mount – AI HAT All-in-One Setup #3DThursday #3DPrinting",
-        "summary": "A case for a Raspberry Pi 5 with the official AI HAT installed, plus a camera mount on top — an &#8216;all-in-one setup to tinker with the AI Module.&#8217; Great fit for Adafruit&#8217;s Pi + machine-learning audience exploring vision pipelines or on-device AI. Compatible with Bambu A1 mini / P1S /...",
-        "url": "https://blog.adafruit.com/2026/10/29/raspberry-pi-5-ai-module-case-with-camera-mount-ai-hat-all-in-one-setup-3dthursday-3dprinting/",
+        "id": "47edc28a0e0d",
+        "title": "Rotating Christmas Ornament – Makerlab #3DThursday #3DPrinting",
+        "summary": "Shared by Bat3DPrint on Maker World: Add a touch of magic to your Christmas tree with this 3D-printed bauble. Its unique design incorporates a rotating inner ring, embellished with three delicate snowflakes at the apex and an elegant deer at the base. A festive and original adornment, perfect for en...",
+        "url": "https://blog.adafruit.com/2026/10/29/rotating-christmas-ornament-makerlab-3dthursday-3dprinting/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-29T19:45:28+00:00"
+        "published": "2026-10-29T23:00:03+00:00"
+      },
+      {
+        "id": "687cf53237f0",
+        "title": "Pumpkin Decoration #3DThursday #3DPrinting",
+        "summary": "klworx shares: A decorative pumpkin with ribbed texture for a cozy handmade look. Each stem is printed separately for color contrast; mix sizes and colors. No carving needed. Three sizes: Small (~59 min, 2 plates), Medium (~1.8h, 2 plates), Large (~2.5h, 2 plates). Designer&#8217;s profiles include ...",
+        "url": "https://blog.adafruit.com/2026/10/29/pumpkin-decoration-3dthursday-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-29T22:00:02+00:00"
+      },
+      {
+        "id": "06035a1bb59a",
+        "title": "XEN FX LAB: sequel to Zen Delay adds tweakable spring tank, dub mode",
+        "summary": "XEN FX LAB is a follow-up to a software hit (and hardware, before that), adding a modeled spring reverb, strike for \"knocking\" the virtual tank, and a dub button for adding dub-style throws, plus significant performance optimizations all round. And yeah, it's time for more wild drones and dubs and e...",
+        "url": "https://cdm.link/xen-fx-lab/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-10-29T21:32:54+00:00"
+      },
+      {
+        "id": "536401271f50",
+        "title": "Low Poly 3D printed Skull Mask #ElectronicHalloween",
+        "summary": "A face mask is one of the fastest ways to put together an instant Halloween costume! MakingThingsCLT shared this quick 3D print on Printables! I drew this skull mask by manually meshing the polygons in Fusion 360 over a human skull scan from the NIH 3D print database. Thickening the surface didn&#82...",
+        "url": "https://blog.adafruit.com/2026/10/29/low-poly-3d-printed-skull-mask-electronichalloween/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-29T21:30:40+00:00"
+      },
+      {
+        "id": "dce48b02de98",
+        "title": "Vintage phone AI assistant",
+        "summary": "Ramazan Eren Arslan turned a Deutsche Bundespost FeTAp 791 rotary telephone into a voice assistant, with the build documented on Hackster.io. Lift the handset and talk, and Google Gemini answers through the original earpiece. A Raspberry Pi 3B sits inside the phone where the original PCB used to be....",
+        "url": "https://blog.adafruit.com/2026/10/29/vintage-phone-ai-assistant/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-29T21:29:29+00:00"
+      },
+      {
+        "id": "1f0bfccfa82d",
+        "title": "Touchscreen shirt shows photos, plays videos, and answers calls",
+        "summary": "Mack DeGeurin, writing at Popular Science, covered a team at the National University of Singapore College of Design and Engineering that built what it calls the first touchscreen woven into a garment. The display is 96 by 54 pixels and sits on the inner forearm, measuring 6.6 by 4.3 inches. It suppo...",
+        "url": "https://blog.adafruit.com/2026/10/29/touchscreen-shirt-shows-photos-plays-videos-and-answers-calls/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-29T21:27:26+00:00"
+      },
+      {
+        "id": "205f79e55c2e",
+        "title": "H.264 is magic (2016)",
+        "summary": "Sid Bala wrote a walkthrough of how H.264 video compression works, published on sidbala.com. He starts with a demonstration: a screen capture of the Apple homepage, 300 frames long, encodes to 175KB as H.264. A single frame of that same video saved as PNG is 1015KB. The post covers the main tricks. ...",
+        "url": "https://blog.adafruit.com/2026/10/29/h-264-is-magic-2016/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-29T21:24:22+00:00"
+      },
+      {
+        "id": "52fd1cd61126",
+        "title": "Send BLE air quality data to Cloudflare D1 with Python",
+        "summary": "sheikh shuhad has posted a tutorial on Hackster.io that moves Bluetooth Low Energy sensor readings into a serverless database. A HibouAir sensor advertises air quality data over BLE. A BleuIO dongle plugged into a computer&#8217;s USB port scans for that specific board ID and passes the advertising ...",
+        "url": "https://blog.adafruit.com/2026/10/29/send-ble-air-quality-data-to-cloudflare-d1-with-python/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-29T21:19:06+00:00"
+      },
+      {
+        "id": "4d2c49eb0b38",
+        "title": "Will open firmware become the next big trend in electronic music gear?",
+        "summary": "Synthhead at Synthtopia looks at a run of recent announcements that let musicians replace or extend the software running on their hardware. The starting point is the M-Vave FM-1, a low-cost FM synthesizer that drew independent developers writing their own synths, sequencers, and effects for it. M-Va...",
+        "url": "https://blog.adafruit.com/2026/10/29/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-29T21:16:35+00:00"
+      },
+      {
+        "id": "7663ba46a653",
+        "title": "ESP32-S3 WiFi bridge for a USB printer",
+        "summary": "&#160; MAXXTANG published a project on Hackster.io that puts a USB-only Brother HL-1110 laser printer on a WiFi network using an ESP32-S3. The computer prepares the job with the normal Brother driver and sends it to TCP port 9100. The ESP32-S3 passes the bytes  through its USB Host port to the print...",
+        "url": "https://blog.adafruit.com/2026/10/29/esp32-s3-wifi-bridge-for-a-usb-printer/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-10-29T21:10:41+00:00"
       },
       {
         "id": "00ef18dadb9f",
@@ -829,76 +901,28 @@
         "published": "2026-10-29T19:27:08+00:00"
       },
       {
-        "id": "6bad838f844c",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/10/29/the-python-on-microcontrollers-newsletter-subscribe-for-free-10-29/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-29T19:00:24+00:00"
-      },
-      {
-        "id": "11a339fce407",
-        "title": "Autumn Pumpkin Wreath #3DThursday #3DPrinting",
-        "summary": "lynj shares: A ribbed pumpkin centered in an intertwined branch ring, with layered flowers, maple + oak leaves, wheat, acorns, and buds. Open center. Fall wall decor. Printed in Wood &#038; Matte PLA (just as beautiful only in Matte). Three profiles at 12.4h / 6.7h / 40.6h, each on 1 plate. One list...",
-        "url": "https://blog.adafruit.com/2026/10/29/autumn-pumpkin-wreath-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-29T18:00:15+00:00"
-      },
-      {
-        "id": "3d0460880d3f",
-        "title": "Warm Fire LED Lamp – NeoPixel Ring 24 with Arduino Uno + Adafruit NeoPixel Library #3DThursday #3DPrinting",
-        "summary": "A free 3D-printable LED lamp driven by Arduino Uno + Adafruit NeoPixel ring. Electronics: NeoPixel ring with 24 LEDs, Arduino Uno (NeoPixel data on pin 2), uses the Adafruit NeoPixel library. Fire-effect light pattern flickers randomly. Arduino code is editable for other patterns. 0.2mm layer, 2 wal...",
-        "url": "https://blog.adafruit.com/2026/10/29/warm-fire-led-lamp-neopixel-ring-24-with-arduino-uno-adafruit-neopixel-library-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-29T17:15:39+00:00"
-      },
-      {
         "id": "b5aa13fdac9e",
-        "title": "Middlemarch review – World’s Greatest Novel hurtles from costume drama to jolting marital tragedy",
+        "title": "Middlemarch review – World’s Greatest Novel hurtles from deathbed panto to jolting marital tragedy",
         "summary": "Swan theatre, Stratford-Upon-AvonThis RSC staging of the sprawling middle England masterpiece has humour, compassion – and even George Eliot herself as a characterIs there a literary achievement greater than George Eliot’s stonking masterpiece? Not according to a Guardian poll, topped by this sprawl...",
         "url": "https://www.theguardian.com/stage/2026/oct/29/middlemarch-review-swan-theatre-stratford-upon-avon-worlds-greatest-novel-george-eliot",
         "source": "Stage | The Guardian",
         "published": "2026-10-29T16:40:40+00:00"
       },
       {
-        "id": "2a4d6bf0f88e",
-        "title": "ESP32-S3 Pin & Pinless Enclosure #3DThursday #3DPrinting",
-        "summary": "yujixun shares: A protective case for ESP32-S3 development boards (44-pin layout, ESP32-S3-WROOM-1 and N16R8 variants). Supports both PINNED and PINLESS configurations with separate print profiles. Wi-Fi pattern on top for a tech-themed look. Dual USB Type-C port openings. Compact minimalist design ...",
-        "url": "https://blog.adafruit.com/2026/10/29/esp32-s3-pin-pinless-enclosure-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-29T16:00:49+00:00"
+        "id": "1a8275e9cdb1",
+        "title": "内塔尼亚胡所属政党声称选举被“窃取”",
+        "summary": "利库德集团祭出这一说法之前，阿拉伯裔以色列公民在本周选举中踊跃投票支持该国阿拉伯政党，导致内塔尼亚胡阵营未能决定性胜出。",
+        "url": "https://www.ftchinese.com/story/001111235",
+        "source": "FTChinese RSS - News",
+        "published": "2026-10-29T16:00:00+00:00"
       },
       {
-        "id": "6ca13d2fbc89",
-        "title": "3D Hangouts – Holiday Wreath, DIY HomeView and Twisty Eyeball",
-        "summary": "3D Hangouts – Holiday Wreath, DIY HomeView and Twisty Eyeball https://youtube.com/live/60gsCGmLxzw?feature=share This week @adafruit Noe is showcasing his guide for his lego brick inspired holiday wreath. Pedro is working on a DIY version of the Apple HomeView. Checking out this week’s Timelapse Tue...",
-        "url": "https://blog.adafruit.com/2026/10/29/3d-hangouts-holiday-wreath-diy-homeview-and-twisty-eyeball/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-29T15:00:01+00:00"
-      },
-      {
-        "id": "e49f29f1b146",
-        "title": "New Guide! NeoPixel Brick Holiday Wreath",
-        "summary": "Build a holiday inspired wreath that lights up with animated NeoPixel LEDs! This project uses the Adafruit Sparkle Motion Mini, 12 NeoPixel JST breakouts and matching cables so there&#8217;s no soldering required. The 3D printed branches snap together and feature modular pieces that diffuse the LEDs...",
-        "url": "https://blog.adafruit.com/2026/10/29/new-guide-neopixel-brick-holiday-wreath/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-29T14:00:10+00:00"
-      },
-      {
-        "id": "f364d23117a4",
-        "title": "Emacs turns 50",
-        "summary": "MIT Technology Review marks 50 years of EMACS, one of the first full-screen text editors and still in use today. It grew out of TECO, a text editor Dan Murphy wrote in 1962 for the PDP-1 at MIT, and Carl Mikkelsen&#8217;s Control-R add-on from 1971, which showed edits on video terminals as they happ...",
-        "url": "https://blog.adafruit.com/2026/10/29/emacs-turns-50/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-29T13:22:12+00:00"
-      },
-      {
-        "id": "1b41efbfb0ed",
-        "title": "Twisty Stress-Relief Eyeball #3DThursday #3DPrinting",
-        "summary": "Every week we&#8217;ll 3D print designs from the community and showcase slicer settings, use cases and of course, Time-lapses! This Week: Twisty Stress-Relief Eyeball By MAX WORKSHOP crealitycloud.com/model-detail/stress-relief-eye-ball-toy Bambu X1C PolyMaker PLA 15hr 19mins X:67 Y:67 Z:60mm .2mm l...",
-        "url": "https://blog.adafruit.com/2026/10/29/twisty-stress-relief-eyeball-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-10-29T13:00:43+00:00"
+        "id": "e4d96f57e482",
+        "title": "3.4%：美国经济第三季度年化增速超预期",
+        "summary": "这一增速较第二季度的2.2%有所加快，并高于华尔街此前预测的3.2%。AI支出热潮继续推动经济增长，消费者也继续大笔消费。",
+        "url": "https://www.ftchinese.com/story/001111234",
+        "source": "FTChinese RSS - News",
+        "published": "2026-10-29T16:00:00+00:00"
       },
       {
         "id": "bce8d02b8712",
@@ -1445,22 +1469,6 @@
         "published": "2026-10-25T16:00:00+00:00"
       },
       {
-        "id": "c1fe05b9659a",
-        "title": "乌克兰证实星链限制已被解除",
-        "summary": "对乌克兰军事行动至关重要的星链系统在经历近11天限制后，已恢复正常速度运行。此前特朗普称其不知道谁下令对该系统实施限速。",
-        "url": "https://www.ftchinese.com/story/001111191",
-        "source": "FTChinese RSS - News",
-        "published": "2026-10-25T16:00:00+00:00"
-      },
-      {
-        "id": "209bdfc0a462",
-        "title": "穆迪未下调评级 法国政府获意外喘息机会",
-        "summary": "这家评级机构决定维持法国的Aa3主权信用评级和负面展望，但警告该国当前状况比其几个月前的预期更为严峻。",
-        "url": "https://www.ftchinese.com/story/001111190",
-        "source": "FTChinese RSS - News",
-        "published": "2026-10-25T16:00:00+00:00"
-      },
-      {
         "id": "d1efa14f1445",
         "title": "陶哲轩：数学研究成AI巨头技术竞技场，大量证明沦为“有毒废料”",
         "summary": "AI 正在以前所未有的速度解决数学难题，但这并没有让所有数学家感到兴奋。相反，当 AI 公司开始批量公布复杂数学问题的证明时，菲尔兹奖得主陶哲轩（Terence Tao）却越来越担忧：如果机器能够轻易给出答案，数学研究中那些真正重要的东西，是否正在被忽略？近日，英国《观察家报》（The Observer）刊发了对陶哲轩的最新专访。在与该报科学编辑 James Tapper 的视频对话中，这位加州大学洛杉矶分校（UCLA）数学教授对 OpenAI、Anthropic 等 AI 公司围绕数学难题展开的竞争提出了尖锐批评。他认为，科技公司越来越关注模型能够解决多少道难题，却未必同样关心证明是否优雅、...",
@@ -1747,14 +1755,6 @@
         "url": "https://humanityisland.nccu.edu.tw/shiu-sheng-chen_a/",
         "source": "人文．島嶼",
         "published": "2026-10-21T00:30:19+00:00"
-      },
-      {
-        "id": "e4206b9e2bd3",
-        "title": "Arturia’s new MiniFreak 49 synth is tactile, exploration-friendly: tested",
-        "summary": "It's not just some extra keys or minor feature tweaks. Arturia's MiniFreak 49 has evolved the range into a synthesizer you can freely explore just by playing, not programming. It's a fusion of tactile experience and sound, right when we need that. Here's a full hands-on test.\nThe post Arturia&#8217;...",
-        "url": "https://cdm.link/arturia-minifreak-49-review/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-10-20T16:04:15+00:00"
       },
       {
         "id": "9666fce66b4d",
@@ -2556,7 +2556,7 @@
         "summary": "陪你探索網路安全、情緒COOL練習！",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-29T20:09:43.854806+00:00"
+        "published": "2026-10-30T00:45:08.753744+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2564,7 +2564,7 @@
         "summary": "如夢境般迷人而神祕的母女關係▎公視7/14週日23:30播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-29T20:09:43.854800+00:00"
+        "published": "2026-10-30T00:45:08.753738+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2572,7 +2572,7 @@
         "summary": "台灣地下偶像眠璃姬子▎公視週五21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-29T20:09:43.854794+00:00"
+        "published": "2026-10-30T00:45:08.753733+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2580,7 +2580,7 @@
         "summary": "律師史朗和美容師賢二的美味日常▎公視7/2～7/15週一～週三23:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-29T20:09:43.854788+00:00"
+        "published": "2026-10-30T00:45:08.753728+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2588,7 +2588,7 @@
         "summary": "推出LINE官方貼圖，重現戲劇經典台詞▎公視週六21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-29T20:09:43.854782+00:00"
+        "published": "2026-10-30T00:45:08.753722+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2596,7 +2596,7 @@
         "summary": "幕後的林鐵工作人員，是最美的風景▎公視7/4週四21:00播出 ▎公視＋同步上架",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-29T20:09:43.854775+00:00"
+        "published": "2026-10-30T00:45:08.753716+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2604,7 +2604,7 @@
         "summary": "馬大元醫師為您解析親子溝通難題",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-29T20:09:43.854769+00:00"
+        "published": "2026-10-30T00:45:08.753711+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2612,7 +2612,7 @@
         "summary": "陪伴孩子跨越人際關係的鴻溝▎公視週日21:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-29T20:09:43.854763+00:00"
+        "published": "2026-10-30T00:45:08.753705+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2620,7 +2620,7 @@
         "summary": "富有神話色彩的北歐自然大地▎公視7/13～7/27週六20:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-29T20:09:43.854757+00:00"
+        "published": "2026-10-30T00:45:08.753700+00:00"
       },
       {
         "id": "5f0fc2340915",
@@ -2628,7 +2628,15 @@
         "summary": "《危機四伏的印度公路》《街頭安全計劃》《100小時遊戲連打挑戰》▎公視週五22:00播出",
         "url": "https://friends.pts.org.tw/message_list.php",
         "source": "公視之友月刊",
-        "published": "2026-10-29T20:09:43.854751+00:00"
+        "published": "2026-10-30T00:45:08.753694+00:00"
+      },
+      {
+        "id": "8060ae2fb442",
+        "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
+        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
+        "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
+        "source": "阮一峰的网络日志",
+        "published": "2026-10-30T00:13:03+00:00"
       },
       {
         "id": "e3b1717a1975",
@@ -2805,14 +2813,6 @@
         "url": "https://www.ethanhein.com/wp/2026/i-joined-the-dark-side-and-vibe-coded-a-music-theory-app/",
         "source": "The Ethan Hein Blog",
         "published": "2026-10-08T22:06:15+00:00"
-      },
-      {
-        "id": "b78204ffeeee",
-        "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
-        "summary": "这里记录每周值得分享的科技内容，周五发布。...",
-        "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html",
-        "source": "阮一峰的网络日志",
-        "published": "2026-10-08T15:04:46+00:00"
       },
       {
         "id": "8de491b68268",
