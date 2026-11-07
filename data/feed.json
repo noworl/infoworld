@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-07T16:16:09.706861+00:00",
+  "updated_at": "2026-11-07T20:46:19.669763+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "19f4eb54dd2a",
+        "title": "BANDA 007 FLASH ( Arrocha)",
+        "summary": "df.This item belongs to: audio/folksoundomy_music_unsorted.This item has files of the following types: Archive BitTorrent, Metadata, ZIP",
+        "url": "https://archive.org/details/banda-007-flash-arrocha",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-11-07T17:18:09+00:00"
+      },
       {
         "id": "a541f2d6aeda",
         "title": "(Label) BLACKSMITH NOISE RECORDS Discography",
@@ -153,14 +161,6 @@
         "url": "https://archive.org/details/the-rising-tour-2002-volume-3-special-nights-flynn",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-11-07T08:52:22+00:00"
-      },
-      {
-        "id": "1e19c2a2f172",
-        "title": "The Rising Tour 2002 Volume 2 - 46+ Nights (Flynn)",
-        "summary": "It's 7 discs long, and it's divided into 3 different sections. Vol 1 (Discs 1 and 2): One Night; my ideal Rising show with most of the standards plus several cooler rarities. This is what you can listen to in 2007 to get a feel for what the shows were like....This item belongs to: audio/radionowhere...",
-        "url": "https://archive.org/details/the-rising-tour-2002-volume-2-46-nights-flynn",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-11-07T08:45:41+00:00"
       },
       {
         "id": "f870f3e971d1",
@@ -805,6 +805,22 @@
     ],
     "破(day)": [
       {
+        "id": "b13081f8ec24",
+        "title": "What is STEMMA QT?",
+        "summary": "Put simply STEMMA QT is the cute version of a STEMMA connection. STEMMA is a plug-and-play board and sensor system that lets you quickly plug together various devices and accessories, without any soldering! STEMMA QT is the smallest STEMMA connector and is used for 12C communication. See more from t...",
+        "url": "https://blog.adafruit.com/2026/11/07/what-is-stemma-qt/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-07T18:38:26+00:00"
+      },
+      {
+        "id": "f19df07f824e",
+        "title": "Egg Carrier – Transport Box for Up to 12 M+L Eggs #3DPrinting",
+        "summary": "A transport box designed to safely carry up to 12 eggs (size M and L). Compartments keep eggs separated and protected during transport. For backyard chicken owners, farmers, camping trips, and everyday kitchen use — reusable alternative to disposable cartons. Press-fit small arms (no glue needed; sc...",
+        "url": "https://blog.adafruit.com/2026/11/07/egg-carrier-transport-box-for-up-to-12-ml-eggs-3dprinting/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-07T17:00:26+00:00"
+      },
+      {
         "id": "8d8b7e02b4c6",
         "title": "Haku哈古傳承卑南木雕工藝　文化部列人間國寶",
         "summary": "（中央社記者邱祖胤台北7日電）文化部「藝湛登峯─115年度重要傳統工藝保存者授證典禮」今天在台東縣Kasavakan建和部落教室舉行，文化部長李遠親授認定證書給「卑南族tu'tu'木雕」保存者Haku哈古（陳文生）。",
@@ -923,22 +939,6 @@
         "url": "https://blog.adafruit.com/2026/11/06/new-product-adafruit-lt8912b-dsi-to-dvi-converter/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-11-06T20:50:23+00:00"
-      },
-      {
-        "id": "2902e6abe0d3",
-        "title": "MoofTCP is a modern replacement for MacTCP on 68k Macs",
-        "summary": "Matt Richter has published MoofTCP on GitHub, a drop-in replacement for Apple&#8217;s MacTCP networking software on 68k Macs running System 6. Programs written for MacTCP run on it unchanged, but underneath it&#8217;s a fresh TCP/IP stack written from scratch in portable C, with its own control pane...",
-        "url": "https://blog.adafruit.com/2026/11/06/mooftcp-is-a-modern-replacement-for-mactcp-on-68k-macs/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-06T20:49:33+00:00"
-      },
-      {
-        "id": "77951ba769c8",
-        "title": "80,000 hops per second AD9361 measurement confirm Starlink terminal uplink/downlink channel pairing, and surprisingly big RF radiation",
-        "summary": "Jiao Xianjun has posted new Starlink terminal measurements on sdr-x.github.io, made with an AD9361 software defined radio, switched by hardware instead of software. The earlier software-controlled setup managed 10,000 frequency hops per second. The hardware version reaches 80,000, changing channel e...",
-        "url": "https://blog.adafruit.com/2026/11/06/80000-hops-per-second-ad9361-measurement-confirm-starlink-terminal-uplink-downlink-channel-pairing-and-surprisingly-big-rf-radiation/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-06T20:41:50+00:00"
       },
       {
         "id": "84e623d1f65a",
