@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-11-09T15:58:21.991425+00:00",
+  "updated_at": "2026-11-10T00:06:06.783403+00:00",
   "categories": {
     "急(hr)": [
+      {
+        "id": "fe357cddb6b3",
+        "title": "PROKOFJEV Violinsonaten",
+        "summary": "PROKOFJEV  Violinsonaten 1   Violinsonate Nr. 1 f-moll op. 80 2   Violinsonate Nr. 2 D-Dur op. 94a Viktor Tretjakov (Violine) Michail Jerochin (Klavier) (1976).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Metadata",
+        "url": "https://archive.org/details/b-v_20261109",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-11-09T21:56:30+00:00"
+      },
+      {
+        "id": "53073eca8231",
+        "title": "PROKOFJEV Sämtliche Klavierwerke",
+        "summary": "PROKOFJEV  Sämtliche Klavierwerke (9/9) Boris Berman (Klavier) (1992/94).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
+        "url": "https://archive.org/details/bngx_20261109",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-11-09T19:35:40+00:00"
+      },
+      {
+        "id": "b064acb96f48",
+        "title": "В НОМЕР 9.11 - ..... СТЫД 233",
+        "summary": "З Н А Т Ь.... П О М Н И Т Ь... 4 З Н А Т Ь.... П О М Н И Т Ь... 3 З Н А Т Ь.... П О М Н И Т Ь... 2 З Н А Т Ь.... П О М Н И Т Ь... 1 Согласно нормам международного права, незаконными признаются пр?....This item belongs to: audio/studiosimsim.This item has files of the following types: Archive BitTorr...",
+        "url": "https://archive.org/details/100-233-v-nomer",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-11-09T17:47:00+00:00"
+      },
+      {
+        "id": "e262f048aa5d",
+        "title": "PROKOFJEV Sämtliche Klavierwerke",
+        "summary": "PROKOFJEV  Sämtliche Klavierwerke (6/9) Boris Berman (Klavier) (1990/91).This item belongs to: audio/russian_classical_collection.This item has files of the following types: Archive BitTorrent, Flac, Item Tile, JPEG, Metadata",
+        "url": "https://archive.org/details/n-mn_20261109",
+        "source": "Internet Archive - Collection: folksoundomy",
+        "published": "2026-11-09T17:15:49+00:00"
+      },
       {
         "id": "b70256e2a057",
         "title": "今彩539第115271期　頭獎3注中獎",
@@ -161,38 +193,6 @@
         "url": "https://archive.org/details/va---Wave-Of-Noise_Wave-Of-Noise",
         "source": "Internet Archive - Collection: folksoundomy",
         "published": "2026-11-08T22:14:45+00:00"
-      },
-      {
-        "id": "bd4010e17520",
-        "title": "Unknown Artist - 18 Nov 2015",
-        "summary": "Originally ripped by Terminal Escape, posted on November 02, 2026 Description from Terminal Escape:  MUDWIMMIN. OH SEES. REATARDS. MARKED MEN. SUPERCHARGER. MISTREATERS. MISFITS. 50 MILLION. WHITE TRASH SUPERMAN....This item belongs to: audio/terminal-escape-collection.This item has files of the fol...",
-        "url": "https://archive.org/details/Unknown-Artist_18-Nov-2015",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-11-08T22:13:40+00:00"
-      },
-      {
-        "id": "8a0589fc565c",
-        "title": "Heavy Comforter - Iron Rations",
-        "summary": "Originally ripped by Terminal Escape, posted on November 04, 2026 Description from Terminal Escape:  Gloriously sinister synth driven hyper punk from Tennessee. We're talking infectious Reatard caliber hooks, '90s Rip-Off energy and PHANTOM LIMBS mystique all supercharged and hyped beyond descripti....",
-        "url": "https://archive.org/details/Heavy-Comforter_Iron-Rations",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-11-08T22:11:18+00:00"
-      },
-      {
-        "id": "0e4ee7dbfa44",
-        "title": "Glich - No Silence Left",
-        "summary": "Originally ripped by Terminal Escape, posted on November 01, 2026 Description from Terminal Escape:  If you wondered whether of not the razor sharp hardcore of the early 2010s was going to stick - look no further than Indonesia's GLICH....This item belongs to: audio/terminal-escape-collection.This i...",
-        "url": "https://archive.org/details/Glich_No-Silence-Left",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-11-08T22:10:22+00:00"
-      },
-      {
-        "id": "1f7054ce13d6",
-        "title": "Bacoti - Demo Tape 2026",
-        "summary": "Originally ripped by Terminal Escape, posted on November 03, 2026 Description from Terminal Escape:  The band name translates into English as something like \"shut up\" but I want to BACOT! to do anything but....This item belongs to: audio/terminal-escape-collection.This item has files of the followin...",
-        "url": "https://archive.org/details/Bacoti_Demo-Tape-2026",
-        "source": "Internet Archive - Collection: folksoundomy",
-        "published": "2026-11-08T22:08:44+00:00"
       },
       {
         "id": "f870f3e971d1",
@@ -805,28 +805,100 @@
     ],
     "破(day)": [
       {
-        "id": "72f71512ba6c",
-        "title": "CompuServe, rebuilt",
-        "summary": "CompuServe Web is a working recreation of the 1980s CompuServe online service, written in Pascal and reachable from a web browser or a Telnet terminal. Logging on as a guest shows the service as it was, and page codes like GO CB or TOP come from an OCR&#8217;d copy of the CompuServe user manual. New...",
-        "url": "https://blog.adafruit.com/2026/11/09/compuserve-rebuilt/",
+        "id": "b716a71b0c0e",
+        "title": "Using forbidden techniques to fix a Neo Geo cartridge!",
+        "summary": "74XX Arcade Repair has posted a new repair video on YouTube, this one covering a broken Neo Geo cartridge. The channel&#8217;s usual subject is arcade hardware from the 74XX logic era, and the fixes here are described as &#8220;forbidden techniques,&#8221; five of them, the kind of repair that works...",
+        "url": "https://blog.adafruit.com/2026/11/09/using-forbidden-techniques-to-fix-a-neo-geo-cartridge/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-09T15:50:25+00:00"
+        "published": "2026-11-09T22:33:13+00:00"
       },
       {
-        "id": "5106cd1aa1a4",
-        "title": "Playing Zork 1 on a CP/M emulator on Linux",
-        "summary": "Kevin Boone has written up how to run the 1980 text adventure Zork 1 on Linux, by way of CP/M running on an emulated Z80 processor. The post is on his site, kevinboone.me. CP/M was the operating system for early microcomputers with floppy drives, and it inspired MS-DOS. Zork was picked for the examp...",
-        "url": "https://blog.adafruit.com/2026/11/09/playing-zork-1-on-a-cp-m-emulator-on-linux/",
+        "id": "3faeca6fbf44",
+        "title": "Why the Dreamcast was different",
+        "summary": "GamesRadar+ looks back at the Sega Dreamcast and what set it apart in 1999. It arrived more than a year before the PlayStation 2 with sharp 3D graphics, good sound, a strong set of launch games and online play out of the box. Earlier consoles had trade-offs: the N64 had fuzzy textures and small cart...",
+        "url": "https://blog.adafruit.com/2026/11/09/why-the-dreamcast-was-different/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-09T15:38:25+00:00"
+        "published": "2026-11-09T22:27:15+00:00"
       },
       {
-        "id": "b81a7f80b620",
-        "title": "Proper Linux, on an ESP32",
-        "summary": "Harry Fairhead, writing at I Programmer, covers Espressif&#8217;s official Linux fork for the ESP32-S31. The S31 is a dual-core RISC-V chip running at 320MHz, and it has the memory management a real operating system needs: a two-level page table with address translation, plus privilege levels that k...",
-        "url": "https://blog.adafruit.com/2026/11/09/proper-linux-on-an-esp32/",
+        "id": "3cbfe156073d",
+        "title": "5 useful Python automation scripts for beginners",
+        "summary": "Bala Priya C has put together five short Python scripts for everyday tasks, published on KDnuggets, with the code on GitHub. They cover image processing, file management, text analysis and command line tools, and they&#8217;re each small enough to read through in one go. The first uses the Pillow li...",
+        "url": "https://blog.adafruit.com/2026/11/09/5-useful-python-automation-scripts-for-beginners/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-09T15:30:58+00:00"
+        "published": "2026-11-09T22:23:27+00:00"
+      },
+      {
+        "id": "847e04e48c3f",
+        "title": "What is a gravity wave and how it disrupts GPS",
+        "summary": "Wikipedia&#8217;s page on gravity waves covers the physics behind how a big rocket launch can disturb GPS signals. A gravity wave is a wave in a fluid, or at the boundary between two fluids, where gravity is the force pulling the displaced fluid back toward equilibrium. Ocean swell and wind waves ar...",
+        "url": "https://blog.adafruit.com/2026/11/09/what-is-a-gravity-wave-and-how-it-disrupts-gps/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-09T22:17:13+00:00"
+      },
+      {
+        "id": "43a915065deb",
+        "title": "370 books in 20 months: South African author defends her use of AI",
+        "summary": "A report at eNCA covers South African writer Coral Hart, who has published more than 370 books since February 2025 using AI models, and who talks openly about how she does it. Coral Hart is a pseudonym. She says she&#8217;s received tens of thousands of hate messages and several death threats. Hart ...",
+        "url": "https://blog.adafruit.com/2026/11/09/370-books-in-20-months-south-african-author-defends-her-use-of-ai/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-09T22:13:23+00:00"
+      },
+      {
+        "id": "55205c786afc",
+        "title": "Claude claims it can now design electronic prototypes from start to finish",
+        "summary": "Anthropic, writing on its research blog, describes working with Diode Computers to have Claude Fable 5.2 design three electronic devices: a USB-C speakerphone puck, a voice-assistant hub, and a handheld virtual pet. Starting from a short prompt, the model wrote the specifications, drew the schematic...",
+        "url": "https://blog.adafruit.com/2026/11/09/claude-claims-it-can-now-design-electronic-prototypes-from-start-to-finish/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-09T22:00:16+00:00"
+      },
+      {
+        "id": "50a03e439fcc",
+        "title": "Saving a vintage high-voltage power supply from the scrap heap",
+        "summary": "Donald Papp at Hackaday writes about Mr Carlson&#8217;s Lab rescuing a Fluke Model 407 high-voltage power supply that was headed for the scrap heap. The unit is in good shape inside, with vacuum tubes and circuit boards and no obvious damage, but it powers up with a main output that doesn&#8217;t be...",
+        "url": "https://blog.adafruit.com/2026/11/09/saving-a-vintage-high-voltage-power-supply-from-the-scrap-heap/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-09T21:55:27+00:00"
+      },
+      {
+        "id": "f6628f6370a1",
+        "title": "16 things to check before a PCB goes to fab",
+        "summary": "JLCPCB posted a checklist on X of 16 things to look over before a board design is sent out for fabrication. The list covers design for manufacturing, or DFM: the checks that keep a layout from running into trouble once a fab house has to build it. Pre-fab checks are the cheapest fix available. A [&#...",
+        "url": "https://blog.adafruit.com/2026/11/09/16-things-to-check-before-a-pcb-goes-to-fab/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-09T21:50:46+00:00"
+      },
+      {
+        "id": "72788e929039",
+        "title": "Moments – smart e-ink dashboard adapts to its surroundings",
+        "summary": "Makestreme has posted Moments, an open-source firmware for the Seeed Studio reTerminal Sticky e-ink display. It turns the Sticky into a dashboard like TRMNL, without a subscription or a cloud account, and changes what&#8217;s on screen based on where the device is and what time it is. Everything is ...",
+        "url": "https://blog.adafruit.com/2026/11/09/moments-smart-e-ink-dashboard-adapts-to-its-surroundings/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-09T21:47:50+00:00"
+      },
+      {
+        "id": "0b209b25ad7f",
+        "title": "Logic Pro 13 gets touch right, but stumbles on “intelligent assistant”",
+        "summary": "Look past Logic Pro 13's new dark Liquid Glass theme and updated browser, and you'll find Apple focused on two core technologies, touch and \"intelligence\" -- and two very different upgrades.\nThe post Logic Pro 13 gets touch right, but stumbles on &#8220;intelligent assistant&#8221; appeared first on...",
+        "url": "https://cdm.link/logic-pro-13-touch-and-intelligence/",
+        "source": "CDM Create Digital Music",
+        "published": "2026-11-09T21:37:56+00:00"
+      },
+      {
+        "id": "3d596233a6ef",
+        "title": "Fold epic paper airplanes",
+        "summary": "Kyle has put together a library of 109 paper airplane designs at Foldable Flight, each with step by step folding instructions. The planes are sorted by paper type, and clicking one opens its fold sequence. Designs are rated on a 1 to 10 scale for speed, glide and accuracy, plus a difficulty level fr...",
+        "url": "https://blog.adafruit.com/2026/11/09/fold-epic-paper-airplanes/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-09T21:37:37+00:00"
+      },
+      {
+        "id": "4d8d18c8fa64",
+        "title": "加拿大阿尔伯塔省省长在公投后面临党内反弹",
+        "summary": "这个盛产石油的加拿大西部省份在公投中支持留在加拿大后，省长丹妮尔•史密斯被党内的分离主义势力指责为“背叛”。",
+        "url": "https://www.ftchinese.com/story/001111322",
+        "source": "FTChinese RSS - News",
+        "published": "2026-11-09T16:00:00+00:00"
       },
       {
         "id": "a3c9f4445c2a",
@@ -835,46 +907,6 @@
         "url": "https://www.theguardian.com/stage/2026/nov/09/harry-potter-and-the-cursed-child-one-part-production-review-palace-theatre-london-jack-thorne",
         "source": "Stage | The Guardian",
         "published": "2026-11-09T15:11:19+00:00"
-      },
-      {
-        "id": "acfa6e391916",
-        "title": "Play ASCII Doom in the terminal",
-        "summary": "WND Software has put a playable copy of Doom on its site, running inside the WND Terminal emulator in a browser. The game isn&#8217;t running in the browser itself. It&#8217;s running on an IBM Z mainframe host, and the terminal emulator connects over SSH using VT/xterm. The picture is drawn entirel...",
-        "url": "https://blog.adafruit.com/2026/11/09/play-ascii-doom-in-the-terminal/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-09T15:10:39+00:00"
-      },
-      {
-        "id": "1a55e01fa5bc",
-        "title": "A guide on how microcontrollers work",
-        "summary": "electroniclovers has posted a tutorial on Hackster that walks through what&#8217;s inside a microcontroller and how the parts work together. It covers the three core blocks: the CPU that runs the instructions, the memory that holds the code and the variables, and the I/O peripherals that connect the...",
-        "url": "https://blog.adafruit.com/2026/11/09/a-guide-on-how-microcontrollers-work/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-09T14:59:49+00:00"
-      },
-      {
-        "id": "68f014ae6c7d",
-        "title": "A custom Game Boy cart speeds up development",
-        "summary": "MrFrenchLame built a Game Boy development cartridge that cuts the wait out of writing code. The cart holds a boot ROM, RAM, a reset button and a switch that swaps the ROM out for the RAM. A program on a PC talks to the bootloader over a parallel port and sends a new build into [&#8230;]",
-        "url": "https://blog.adafruit.com/2026/11/09/a-custom-game-boy-cart-speeds-up-development/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-09T14:48:38+00:00"
-      },
-      {
-        "id": "1ca229a2bd04",
-        "title": "A DEC PDP-8/E restoration log",
-        "summary": "The Rhode Island Computer Museum has posted a long restoration log for a DEC PDP-8/E, covering work from February 2014 into 2016. The machine came in with mouse droppings in the chassis, dead panel lamps and two processor boards installed backwards. The Omnibus backplane carries a manufacturing date...",
-        "url": "https://blog.adafruit.com/2026/11/09/a-dec-pdp-8-e-restoration-log/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-09T14:39:33+00:00"
-      },
-      {
-        "id": "a0cf667093db",
-        "title": "Gridfinity Cable Organizer Box – 5 Slots for USB/USB-C/USB-A/Chargers #3DThursday #3DPrinting",
-        "summary": "lukas_3d shares: A Gridfinity cable organizer box with five slots. 83×125×84mm (W×L×H). 2×3 Gridfinity units. Base generator: Gridfinity Rebuilt &#62; Base, grid base size 42, style &#8216;Thin&#8217;. ~4.8h, 1 plate. 5.0★ from 52 ratings. Tagged for USB, USB-C, USB-A, and charger storage. Pairs wit...",
-        "url": "https://blog.adafruit.com/2026/11/09/gridfinity-cable-organizer-box-5-slots-for-usb-usb-c-usb-a-chargers-3dthursday-3dprinting/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-09T14:14:55+00:00"
       },
       {
         "id": "b7fd7c4acdd5",
@@ -909,6 +941,22 @@
         "published": "2026-11-09T08:43:47+00:00"
       },
       {
+        "id": "9e18060331ea",
+        "title": "Haarvöl – Overflowed Shelters",
+        "summary": "The uncomfortable unanaesthesia of Haarvöl's 'Overflowed Shelters'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/overflowedshelters/",
+        "source": "Ambientblog",
+        "published": "2026-11-09T08:33:37+00:00"
+      },
+      {
+        "id": "2adc31ae9d3f",
+        "title": "机器人记忆出错怎么办？MIT让它学会自我纠错，补充两个视角，九成问题得到解决",
+        "summary": "机器人在路上行走时，看到屋顶上有一个灰色物体。由于距离较远、画面不够清晰，它最初没能准确描述这个物体，随后又将它认成了一只松鼠。但随着机器人继续移动，摄像头从新的角度拍下了这个物体，系统最终发现，它其实是一根烟囱。那么，在获得更多信息后，机器人能不能像人一样，回头修正之前的判断？近日，麻省理工学院的研究人员介绍了一套新的机器人记忆系统 UQ-DAAAM，试图解决这个问题。它能够检查记忆中哪些物体描述可能不可靠，再从已有画面中寻找更清晰的视角，补充信息并更新记忆。在测试中，对于被标记为不确定的物体，系统最多补充两个观察视角，就使 92.3% 的物体描述的不确定性降到了设定阈值以下。在一项时空问答...",
+        "url": "https://www.mittrchina.com/news/detail/17217",
+        "source": "MIT 科技评论 - 本周热榜",
+        "published": "2026-11-09T08:26:00+00:00"
+      },
+      {
         "id": "85668455f136",
         "title": "十三行博物館獲中央3億補助　將建互動式新館供考古體驗",
         "summary": "（中央社記者曹亞沿新北9日電）新北市府推動十三行博物館典藏空間升級，獲文化部「再造歷史現場2.0」計畫核定補助3億元，將興建全新掩土式建築，透過科技互動等技術，並提供民眾體驗挖掘，讓考古不再遙遠。",
@@ -923,14 +971,6 @@
         "url": "https://www.mittrchina.com/news/detail/17215",
         "source": "MIT 科技评论 - 本周热榜",
         "published": "2026-11-09T05:50:16+00:00"
-      },
-      {
-        "id": "9682fa0e1ce7",
-        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
-        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
-        "url": "https://blog.adafruit.com/2026/11/09/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-8-2/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-09T05:28:00+00:00"
       },
       {
         "id": "5b923035079c",
@@ -957,12 +997,12 @@
         "published": "2026-11-09T02:21:31+00:00"
       },
       {
-        "id": "e67de28098c8",
-        "title": "Aaron Swartz Day – Why We’re Pursuing Our Case Against Flux",
-        "summary": "Why Adafruit is pursuing its case against Flux, and why the freedom to question companies, report security concerns, and share findings is worth defending.",
-        "url": "https://blog.adafruit.com/2026/11/08/aaron-swartz-day-why-were-pursuing-our-case-against-flux/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-08T21:00:20+00:00"
+        "id": "4310d8bb1907",
+        "title": "JPMorganChase expands Claude Code to more employees across the firm",
+        "summary": "JPMorganChase expands Claude Code to more employees across the firm",
+        "url": "https://claude.com/resources/articles/jpmorganchase-expands-claude-code",
+        "source": "Claude Blog",
+        "published": "2026-11-09T00:00:00+00:00"
       },
       {
         "id": "5b30710cbe99",
@@ -1141,14 +1181,6 @@
         "published": "2026-11-06T15:31:34+00:00"
       },
       {
-        "id": "7fd46f4b02b3",
-        "title": "AI正在重新设计生命，David Baker要用蛋白质造计算机和分子机器",
-        "summary": "近日，诺奖得主、华盛顿大学蛋白质设计研究所（IPD）主任戴维·贝克（David Baker）因在设计全新蛋白质方面的开创性贡献，被伦敦皇家学会（Royal Society）授予克鲁恩奖章（Croonian Medal）。按照惯例，获奖科学家会发表一场演讲，回顾自己数十年间的研究，这也是皇家学会在生物科学领域最重要的演讲。但戴维一开场就表示，他要讲的几乎全是过去一两年的工作。本世纪初，戴维带领团队设计出第一个自然界中不存在的蛋白质 Top7，证明从零开始造蛋白是可行的。而过去三年，蛋白质设计领域的时间刻度一直在压缩：一开始，学界还在讨论生成式模型能否可靠地造出一个能折叠的新蛋白质；到 2025 ...",
-        "url": "https://www.mittrchina.com/news/detail/17204",
-        "source": "MIT 科技评论 - 本周热榜",
-        "published": "2026-11-06T12:52:18+00:00"
-      },
-      {
         "id": "7889362d6900",
         "title": "‘Completely original’ musical Midnight tries (and fails) to imagine a slavery-era romance",
         "summary": "Todrick Hall’s off-Broadway show is about a doomed interracial love affair during US slavery in the 1860sDuring the intermission of Midnight, an off-Broadway musical about a doomed interracial love affair during US slavery in the 1860s, a woman sitting behind me lauded the show and compared it to Ha...",
@@ -1195,6 +1227,14 @@
         "url": "https://technews.tw/2026/11/06/google-invests-17-billion-ai-infrastructure-wyoming-data-center/",
         "source": "Meta – TechNews 科技新報",
         "published": "2026-11-06T01:15:52+00:00"
+      },
+      {
+        "id": "90b9a34769f8",
+        "title": "The components of agent memory",
+        "summary": "For Claude to learn from experience, it has to decide what's worth remembering before it knows what's next. Here's how \"dreaming\" helps it organize memory and correct mistakes.",
+        "url": "https://www.anthropic.com/research/components-of-agent-memory",
+        "source": "Claude Blog",
+        "published": "2026-11-06T00:00:00+00:00"
       },
       {
         "id": "b3275330e07f",
@@ -1437,6 +1477,14 @@
         "published": "2026-11-04T10:00:03+00:00"
       },
       {
+        "id": "66863c0f9ae3",
+        "title": "Liminal State: October 2026 overview",
+        "summary": "Liminal State overview for October 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/liminalstate-oct26/",
+        "source": "Ambientblog",
+        "published": "2026-11-04T07:32:09+00:00"
+      },
+      {
         "id": "14372c5bd559",
         "title": "科技業一週狂吸 600 億美元，Meta 帶頭發債 200 億打造 AI 帝國",
         "summary": "為了支應人工智慧（AI）基礎設施的龐大擴張需求，Meta Platforms 正計劃發行總額至少 200 億美 [&#8230;]",
@@ -1533,14 +1581,6 @@
         "published": "2026-11-02T16:00:00+00:00"
       },
       {
-        "id": "394229fe7ea4",
-        "title": "内塔尼亚胡敦促特朗普重启对伊战争",
-        "summary": "以色列总理据悉在上周六通话期间敦促美国总统在中期选举结束后重启对伊军事行动，但美方仍希望给予外交努力最后机会。",
-        "url": "https://www.ftchinese.com/story/001111266",
-        "source": "FTChinese RSS - News",
-        "published": "2026-11-02T16:00:00+00:00"
-      },
-      {
         "id": "bf6dc9b30df8",
         "title": "2026.11.03聖安德魯斯大學校長率團蒞館參訪",
         "summary": "2026.11.03聖安德魯斯大學校長率團蒞館參訪,2026年11月3日上午，國家圖書館「臺灣漢學資源中心」（TRCCS）夥伴學校聖安德魯斯大學（University of St Andrews）校長Sally Mapstone女爵士教授、副校長Brad MacKay教授及全球事務處主任Samant...",
@@ -1595,6 +1635,14 @@
         "url": "https://cdm.link/the-techno-originator-juan-atkins-has-died-at-64/",
         "source": "CDM Create Digital Music",
         "published": "2026-11-01T22:21:50+00:00"
+      },
+      {
+        "id": "a0b62807c0f1",
+        "title": "DreamScenes – November 2026",
+        "summary": "\"Darkness is just Darkness\" - DreamScenes for November 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-nov2026/",
+        "source": "Ambientblog",
+        "published": "2026-11-01T21:55:00+00:00"
       },
       {
         "id": "747c3307d5db",
@@ -1685,12 +1733,12 @@
         "published": "2026-10-28T14:54:54+00:00"
       },
       {
-        "id": "75c3e24242db",
-        "title": "HAND is a Eurorack module that is also a disembodied crawling hand",
-        "summary": "As a firm believer in technosolutionism, I am here to tell you, authoritatively, that you need a disembodied glowing hand that creeps around your house and plays spooky music. Not want. Need. Those who do not buy this disembodied hand will surely be left behind, or at least it will crawl after you. ...",
-        "url": "https://cdm.link/hand-for-eurorack/",
-        "source": "CDM Create Digital Music",
-        "published": "2026-10-28T11:50:58+00:00"
+        "id": "61eb63494269",
+        "title": "Jeff Greinke – Land Of Ice And Fog",
+        "summary": "Evocative, emotional, and quietly mysterious: Jeff Greinke's 'Land Of Ice And Fog'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/greinke-landicefog/",
+        "source": "Ambientblog",
+        "published": "2026-10-28T09:35:00+00:00"
       },
       {
         "id": "75a4f83c5a6c",
@@ -1749,28 +1797,12 @@
         "published": "2026-10-27T00:00:00+00:00"
       },
       {
-        "id": "ca7ea3841a05",
-        "title": "Claude for Financial Advisors",
-        "summary": "Financial advisors can now connect Claude to the custodians, portfolio platforms, CRMs, and planning tools they depend on, along with new skills tailored to the daily work of a financial advisor.",
-        "url": "https://claude.com/resources/articles/claude-for-financial-advisors",
-        "source": "Claude Blog",
-        "published": "2026-10-27T00:00:00+00:00"
-      },
-      {
         "id": "e6a2020d226b",
         "title": "Some of the Spookiest Specters in the Library’s Archives",
         "summary": "Library staffers aren’t easily spooked — as proved by a recent presentation by reference specialists on some of their collection’s most haunting finds, just in time for Halloween. The Bell Witch, spirit photography, gargoyles — you never know what you'll come across in the Library's stacks!",
         "url": "https://blogs.loc.gov/loc/2026/10/some-of-the-spookiest-specters-in-the-librarys-archives/",
         "source": "Timeless",
         "published": "2026-10-26T14:08:52+00:00"
-      },
-      {
-        "id": "b398e4981254",
-        "title": "Expanding Claude for Nonprofits",
-        "summary": "Our new Claude for Nonprofits plugin brings new skills to every verified nonprofit organization, taking on the operational work that stretches small teams across fundraising, marketing, and hiring.",
-        "url": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
-        "source": "Claude Blog",
-        "published": "2026-10-26T00:00:00+00:00"
       },
       {
         "id": "e64ece63a8f2",
@@ -1811,6 +1843,14 @@
         "url": "https://www.glt.org.tw/?p=14338",
         "source": "牯嶺街小劇場 Guling Street Avant-garde Theatre",
         "published": "2026-10-24T08:48:47+00:00"
+      },
+      {
+        "id": "5aad5352a394",
+        "title": "The Larsen Pipes – The Larsen Pipes 01",
+        "summary": "The ambient world music from The Larsen Pipes turns emotion into sound.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/larsenpipes/",
+        "source": "Ambientblog",
+        "published": "2026-10-24T07:43:42+00:00"
       },
       {
         "id": "273da05973a7",
@@ -1877,6 +1917,14 @@
         "published": "2026-10-19T13:00:04+00:00"
       },
       {
+        "id": "a4ec4f94f3b1",
+        "title": "Ava Rasti – No One Knows How Wild The Wind Blows",
+        "summary": "Ava Rasti's search for home in a world where home can feel both deeply familiar and impossibly distant.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/avarasti-wind/",
+        "source": "Ambientblog",
+        "published": "2026-10-19T10:48:12+00:00"
+      },
+      {
         "id": "95b6ee96a3dc",
         "title": "David Harrington, the Kronos Quartet and the American Folklife Center",
         "summary": "— This is a guest post by David Harrington, the founder and artistic director of San Francisco’s Grammy Award-winning Kronos Quartet. It also appears in the September/October issue of the Library of Congress Magazine. In 2024, the Library appointed Harrington the Kluge Chair in Modern Culture and an...",
@@ -1899,6 +1947,14 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
         "source": "Google DeepMind",
         "published": "2026-10-15T13:00:00+00:00"
+      },
+      {
+        "id": "0bd5ebf1beec",
+        "title": "Mathias Villard – Past Radiance",
+        "summary": "'Past Radiance' is Mathias Villard's impressive debut album on Joachim Spieth's Affin label.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/past-radiance/",
+        "source": "Ambientblog",
+        "published": "2026-10-14T18:54:41+00:00"
       },
       {
         "id": "e7a885ce28b3",
@@ -1939,6 +1995,14 @@
         "url": "https://www.smithsonianmag.com/innovation/could-this-dutch-invention-help-tackle-plastic-pollution-in-americas-waterways-180989651/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-10-09T17:49:27+00:00"
+      },
+      {
+        "id": "251816c6e7bd",
+        "title": "Deaf Center – Trinitatis",
+        "summary": "Trinitatis, Deaf Center's live-recording of their recent concert in Dordrecht, is a perfect companion to 'Reverie'.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/trinitatis/",
+        "source": "Ambientblog",
+        "published": "2026-10-09T08:32:27+00:00"
       },
       {
         "id": "efd29de61db9",
@@ -2029,12 +2093,28 @@
         "published": "2026-10-05T02:28:00+00:00"
       },
       {
+        "id": "22a70ae03d4f",
+        "title": "DreamScenes – October 2026",
+        "summary": "\"Untouched Realms\" - DreamScenes for October 2026\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/dreamscenes-oct2026/",
+        "source": "Ambientblog",
+        "published": "2026-10-04T20:55:00+00:00"
+      },
+      {
         "id": "bfe2b156957e",
         "title": "The latest AI news we announced in September 2026",
         "summary": "A video showing the September AI updates",
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
         "source": "Google DeepMind",
         "published": "2026-10-02T15:00:00+00:00"
+      },
+      {
+        "id": "474636e863c6",
+        "title": "Liminal State: September 2026 overview",
+        "summary": "Liminal State radio show overview for September 2026.\n--- published on Ambientblog ---",
+        "url": "https://www.ambientblog.net/ls-sept26/",
+        "source": "Ambientblog",
+        "published": "2026-10-01T19:58:52+00:00"
       },
       {
         "id": "53edb3f7b386",
