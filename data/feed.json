@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T14:56:18.648880+00:00",
+  "updated_at": "2026-11-26T23:40:55.507603+00:00",
   "categories": {
     "急(hr)": [
       {
@@ -805,6 +805,30 @@
     ],
     "破(day)": [
       {
+        "id": "0848f9c5a172",
+        "title": "Happy Thanksgiving 2026!",
+        "summary": "The folks here are Adafruit would like to wish each and every one of you a Happy Thanksgiving! We would also like to thank you for the support – we’re excited to keep growing with you. To celebrate Thanksgiving this year we wanted to focus on all that we’re thankful for, so we asked our [&#8230;]",
+        "url": "https://blog.adafruit.com/2026/11/26/happy-thanksgiving-2026/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-26T21:00:20+00:00"
+      },
+      {
+        "id": "7426c02bcb1d",
+        "title": "The Python on Microcontrollers Newsletter: subscribe for free",
+        "summary": "The Python for Microcontrollers Newsletter is the place for the latest news involving Python on hardware (microcontrollers AND single board computers like Raspberry Pi). This ad-free, spam-free weekly email is filled with CircuitPython, MicroPython, and Python information that you may have missed, a...",
+        "url": "https://blog.adafruit.com/2026/11/26/the-python-on-microcontrollers-newsletter-subscribe-for-free-11-26-2/",
+        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
+        "published": "2026-11-26T18:00:12+00:00"
+      },
+      {
+        "id": "aa05d913493b",
+        "title": "Mammy Goose is well and truly cooked in Glasgow’s incredibly random Aladdin",
+        "summary": "King’s theatre, GlasgowThe offensive stereotypes have been ditched but this glitzy panto starring Elaine C Smith shoehorns in plenty of irrelevant materialStaging a traditional Aladdin in 2026 is problematic. All those laundry scenes, acrobatics and faux Chinese names have the unpleasant whiff of or...",
+        "url": "https://www.theguardian.com/stage/2026/nov/26/aladdin-review-kings-theatre-glasgow-elaine-c-smith",
+        "source": "Stage | The Guardian",
+        "published": "2026-11-26T17:02:00+00:00"
+      },
+      {
         "id": "429b8e679151",
         "title": "Laurie Spiegel’s cosmic sounds of Kepler passed one light day from Earth",
         "summary": "Earlier this month, NASA's Voyager 1 spacecraft traveled beyond 25.902 billion km from Earth, a distance light would travel in 24 hours. Now is a great time to listen to Laurie Spiegel's contribution to that record -- a dizzying sonic model of Kepler's Harmonice Mundi.\nThe post Laurie Spiegel&#8217;...",
@@ -814,7 +838,7 @@
       },
       {
         "id": "c3a4746dbb0c",
-        "title": "「臺灣漫遊錄」再拔頭籌　奪英國最大連鎖書店年度最佳虛構小說",
+        "title": "「臺灣漫遊錄」再獲肯定　奪英國最大連鎖書店年度最佳虛構小說",
         "summary": "（中央社記者陳韻聿倫敦26日專電）英國最大連鎖書店水石（Waterstones）今天公布年度好書得獎名單，由台灣作家楊双子創作、作家譯者金翎翻譯為英文的「臺灣漫遊錄」獲選為「年度最佳虛構小說」，創台灣文學和Waterstones年度好書評選首例。",
         "url": "https://www.cna.com.tw/news/acul/202611260296.aspx",
         "source": "中央社即時新聞 文化新聞",
@@ -854,8 +878,8 @@
       },
       {
         "id": "fb41e70e5363",
-        "title": "O come, all ye faithful! Why theatres are bringing audiences on stage, from Jesus Christ Superstar to Cloud 9",
-        "summary": "A wave of shows, including High School Musical and Rent, are upping the drama by placing viewers alongside actors at the heart of the action. What are the risks and rewards?In the socially distanced summer of 2020, Jesus Christ Superstar was staged at Regent’s Park in London for a hugely pruned audi...",
+        "title": "The greatest stage invasion! How theatres are bringing audiences into the action, from Jesus Christ Superstar to Cloud 9",
+        "summary": "A wave of shows, including High School Musical and Rent, are upping the drama by placing viewers alongside actors. What are the risks and rewards?In the socially distanced summer of 2020, Jesus Christ Superstar was staged at Regent’s Park in London for a hugely pruned audience. Like the actors, we w...",
         "url": "https://www.theguardian.com/stage/2026/nov/26/theatres-audience-on-stage-jesus-christ-superstar-cloud-9-high-school-musical-rent",
         "source": "Stage | The Guardian",
         "published": "2026-11-26T08:00:49+00:00"
@@ -955,22 +979,6 @@
         "url": "https://blog.adafruit.com/2026/11/25/crickit-powered-dancin-snowman-adafruitlearnsystem/",
         "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
         "published": "2026-11-25T17:00:08+00:00"
-      },
-      {
-        "id": "cbc3fffc06d1",
-        "title": "JP’s Product Pick of the Week 11/24/26 LTC4316 I2C Address Translator #newproductpick",
-        "summary": "If you missed this week’s livestream of John Park’s Product Pick(s) of the Week, not to worry, here’s the video. This week’s pick is the Adafruit LTC4316 I2C Address Translator &#8211; Stemma QT / Qwiic! Watch the video to find out about the Adafruit LTC4316 I2C Address Translator &#8211; Stemma QT ...",
-        "url": "https://blog.adafruit.com/2026/11/25/jps-product-pick-of-the-week-11-24-26-ltc4316-i2c-address-translator-newproductpick/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-25T16:30:16+00:00"
-      },
-      {
-        "id": "eaad2bc50662",
-        "title": "3D Hangouts Returns Next Week",
-        "summary": "Hi folks, In celebration of this week&#8217;s Thanksgiving holiday, we will not be doing the livestream today. We will be back next week! If you missed last week&#8217;s livestream, you can watch it on YouTube or embedded below. We hope everyone has a wonderful week. Thanks!",
-        "url": "https://blog.adafruit.com/2026/11/25/3d-hangouts-returns-next-week-4/",
-        "source": "Adafruit Industries – Makers, hackers, artists, designers and engineers!",
-        "published": "2026-11-25T16:00:28+00:00"
       },
       {
         "id": "b1432422bbce",
@@ -1389,14 +1397,6 @@
         "published": "2026-11-21T16:00:00+00:00"
       },
       {
-        "id": "69c966fbfaf1",
-        "title": "Fluxblog 571: 🎄🍸classy Christmas cocktail party🥂🎄",
-        "summary": "This year&#8217;s holiday playlist, plus new songs by Veronica Everheart, Miaw, and Orca",
-        "url": "https://fluxblog.substack.com/p/fluxblog-571-classy-christmas-cocktail",
-        "source": "Fluxblog: Music Blog",
-        "published": "2026-11-21T13:04:47+00:00"
-      },
-      {
         "id": "6481342c39db",
         "title": "A New Secretariat sans any Planning",
         "summary": "Will it? Won’t it? The suspense over the proposed new secretariat at Pattinapakkam aka Foreshore Estate continues. On the one hand there have been unverified reports over the Government backtracking on the idea given the protest by the fishermen. On the other, the Tamil Nadu Housing Board has begun ...",
@@ -1507,14 +1507,6 @@
         "url": "https://cdm.link/nin-live-streaming/",
         "source": "CDM Create Digital Music",
         "published": "2026-11-20T15:34:26+00:00"
-      },
-      {
-        "id": "c35932b91df9",
-        "title": "Ben Whishaw and Kathryn Hunter are a dynamite duo on the road to nowhere in Eurotrash",
-        "summary": "Young Vic, LondonAdaptation of Christian Kracht’s novel is full of heartwarming comedy as a mother and son take a trip to distribute ‘dirty money’ to good causesYou would be hard-pushed to find a more charismatic double act than Kathryn Hunter and Ben Whishaw. She dazzles as a dowager, bringing flam...",
-        "url": "https://www.theguardian.com/stage/2026/nov/20/ben-whishaw-kathryn-hunter-eurotrash-review-young-vic",
-        "source": "Stage | The Guardian",
-        "published": "2026-11-20T14:06:32+00:00"
       },
       {
         "id": "8d97a4caded6",
@@ -1837,14 +1829,6 @@
         "published": "2026-11-13T14:06:05+00:00"
       },
       {
-        "id": "4d8c515d4190",
-        "title": "Fluxblog 570: 1993 exoticness",
-        "summary": "Plus new songs by Christine and the Queens, Alba Akvama, Floating Action, and This Is the Kit",
-        "url": "https://fluxblog.substack.com/p/fluxblog-570-1993-exoticness",
-        "source": "Fluxblog: Music Blog",
-        "published": "2026-11-13T13:02:29+00:00"
-      },
-      {
         "id": "f93a67a2f380",
         "title": "餐廳訂位、看診預約交給 AI，Meta Muse「代打電話」服務於美國付費上線",
         "summary": "Meta 旗下的 AI 助理 Muse 再添強大新功能！現在，Muse 能親自「代打電話」給美國商家，替付費訂 [&#8230;]",
@@ -1965,14 +1949,6 @@
         "published": "2026-11-06T16:00:00+00:00"
       },
       {
-        "id": "b17d0335cd2a",
-        "title": "Fluxblog 569: DISCO CELEBRATION!",
-        "summary": "Plus new songs by Fine, Atlas Sound, and Clinic",
-        "url": "https://fluxblog.substack.com/p/fluxblog-569-disco-celebration",
-        "source": "Fluxblog: Music Blog",
-        "published": "2026-11-05T23:56:30+00:00"
-      },
-      {
         "id": "6957cc03bed6",
         "title": "Teddy Roosevelt’s “Bullet” Speech",
         "summary": "Teddy Roosevelt was a sturdy sort, and nothing as trifling as a wee bullet wound was going to stop him from giving a speech. In 1912, he was shot in the chest by a would-be assassin while campaigning for a third presidential term in Milwaukee, Wisconsin. He was fortunate that the bullet hit the case...",
@@ -2029,28 +2005,12 @@
         "published": "2026-10-31T19:28:59+00:00"
       },
       {
-        "id": "17c733eefaab",
-        "title": "Fluxpod October 2026",
-        "summary": "This is your subscriber premium!",
-        "url": "https://fluxblog.substack.com/p/fluxpod-october-2026",
-        "source": "Fluxblog: Music Blog",
-        "published": "2026-10-31T10:47:20+00:00"
-      },
-      {
         "id": "ef1b073be159",
         "title": "Before Mountain Biking Became One of the Most Popular Recreational Sports, Adventurous Souls of the American West Had to Invent a Rugged Bike",
         "summary": "The origin story has two settings: In Colorado, a gang of riders had the tenacity to conquer a treacherous terrain, and in California, others had the technology to design the ideal ride",
         "url": "https://www.smithsonianmag.com/innovation/before-mountain-biking-became-popular-recreational-sports-adventurous-souls-american-west-invent-rugged-bike-180989645/",
         "source": "Innovation | smithsonianmag.com",
         "published": "2026-10-29T11:00:00+00:00"
-      },
-      {
-        "id": "e76a09d10b91",
-        "title": "Fluxblog 568: have you ever heard the Dunedin sound?",
-        "summary": "Plus 10 of my favorite songs from the year thus far",
-        "url": "https://fluxblog.substack.com/p/fluxblog-568-have-you-ever-heard",
-        "source": "Fluxblog: Music Blog",
-        "published": "2026-10-29T02:06:19+00:00"
       },
       {
         "id": "0f02da57c9c4",
@@ -2125,14 +2085,6 @@
         "published": "2026-10-23T12:55:00+00:00"
       },
       {
-        "id": "18d1443ae96b",
-        "title": "Fluxblog 567: DISCO INFERNO!",
-        "summary": "Plus new songs by Carly Rae Jepsen, Ugly (UK), and Ang&#232;le",
-        "url": "https://fluxblog.substack.com/p/fluxblog-567-disco-inferno",
-        "source": "Fluxblog: Music Blog",
-        "published": "2026-10-22T16:48:44+00:00"
-      },
-      {
         "id": "e479adf0d4d6",
         "title": "休園公告:受薔琵颱風影響，宜蘭園區明日(10/23)休園一天",
         "summary": "因薔琵颱風來襲，宜蘭縣政府已宣布10月23日全縣停止上班上課，本中心宜蘭園區配合休園一天，造成不便，敬請見諒！",
@@ -2163,14 +2115,6 @@
         "url": "https://www.ambientblog.net/avarasti-wind/",
         "source": "Ambientblog",
         "published": "2026-10-19T10:48:12+00:00"
-      },
-      {
-        "id": "4cf1e155c778",
-        "title": "Fluxblog 566: A history of pop music in 33 playlists",
-        "summary": "A directory of playlists telling the story of pop, with deep dives into sub-genres and eras",
-        "url": "https://fluxblog.substack.com/p/fluxblog-566-a-history-of-pop-music",
-        "source": "Fluxblog: Music Blog",
-        "published": "2026-10-15T13:22:49+00:00"
       },
       {
         "id": "d6920b7841a4",
@@ -2213,14 +2157,6 @@
         "published": "2026-10-13T11:07:14+00:00"
       },
       {
-        "id": "f31e68e5c624",
-        "title": "Fluxblog 565: the original twee",
-        "summary": "Plus new songs by Kate Bollinger, Yukimi, Cute Door, and Spike F**k",
-        "url": "https://fluxblog.substack.com/p/fluxblog-565-the-original-twee",
-        "source": "Fluxblog: Music Blog",
-        "published": "2026-10-12T23:50:47+00:00"
-      },
-      {
         "id": "f59b915aa1bb",
         "title": "Applying technology to understand and treat disease",
         "summary": "A healthcare professional sits at a desk reviewing mammogram scans and medical diagrams on dual computer monitors.",
@@ -2261,14 +2197,6 @@
         "published": "2026-10-06T18:14:23+00:00"
       },
       {
-        "id": "3a1567685a8a",
-        "title": "Fluxblog 564: international groovy hot tub music",
-        "summary": "Plus new songs by LEENALCHI, Jam City, and Quavvo",
-        "url": "https://fluxblog.substack.com/p/fluxblog-564-international-groovy",
-        "source": "Fluxblog: Music Blog",
-        "published": "2026-10-05T22:43:42+00:00"
-      },
-      {
         "id": "a110fa090e4c",
         "title": "「2026亞太傳統藝術節：眾水之境」即日起登場 以水為題展現亞洲多元文化風景",
         "summary": "國立傳統藝術中心主辦「2026亞太傳統藝術節」，今（3）日在宜蘭園區開幕。文化部政務次長李靜慧、各國駐臺單位代表、國內外藝術家及各界貴賓共同參與，展開為期9天的藝術盛會。今年以「眾水之境」為主題，邀集印度、印尼、日本、韓國及臺灣藝術團隊，從水孕育的神話、信仰與生活文化出發，透過音樂、舞蹈、戲劇與多元藝術形式，讓亞洲各地的水故事在宜蘭交會。開幕式由印度大篷車樂團帶來《隆加利比胡－來自印度阿薩姆的春季慶典》，熱情奔放的比胡舞搭配大鼓、笛、水牛角喇叭等傳統樂器及現場演唱，展現阿薩姆春季慶典的熱鬧氛圍與生命力。隨後，來自各國的藝術團隊接續亮相，以各具特色的方式與現場觀眾見面，展現多元文化風貌與藝術活力...",
@@ -2291,14 +2219,6 @@
         "url": "https://humanityisland.nccu.edu.tw/hongboyi_a/",
         "source": "人文．島嶼",
         "published": "2026-09-30T02:51:46+00:00"
-      },
-      {
-        "id": "f9d03fe2544d",
-        "title": "Fluxpod September 2026",
-        "summary": "This is your subscriber premium!",
-        "url": "https://fluxblog.substack.com/p/fluxpod-september-2026",
-        "source": "Fluxblog: Music Blog",
-        "published": "2026-09-28T13:27:05+00:00"
       },
       {
         "id": "72bc2c20b9ee",
